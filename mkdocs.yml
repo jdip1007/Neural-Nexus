@@ -52,8 +52,6 @@ plugins:
   - search:
       lang: en
   - awesome-pages
-  - tags:
-      tags_file: tags.md
   - minify:
       minify_html: true
   - git-revision-date-localized:
