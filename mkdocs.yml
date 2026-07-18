@@ -15,6 +15,10 @@ nav:
     - writing-guide.md: references/writing-guide.md
   - Knowledge Graph: graph.md
   - Schema: SCHEMA.md
+  - Extra Pages:
+    - Tags: tags.md
+    - Log: log.md
+    - Index Catalog: index-catalog.md
 
 theme:
   name: material
