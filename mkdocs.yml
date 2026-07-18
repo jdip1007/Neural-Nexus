@@ -8,10 +8,12 @@ repo_url: https://github.com/jdip1007/Neural-Nexus
 
 nav:
   - Home: index.md
-  - Concepts: concepts/
-  - References: references/
+  - Concepts:
+    - neural-nexus.md: concepts/neural-nexus.md
+  - References:
+    - setup-guide.md: references/setup-guide.md
+    - writing-guide.md: references/writing-guide.md
   - Knowledge Graph: graph.md
-  - Tags: tags.md
   - Schema: SCHEMA.md
 
 theme:
