@@ -1,6 +1,6 @@
 site_name: Neural Nexus
 site_description: Personal knowledge base — LLM Wiki + Obsidian, hosted on GitHub Pages
-site_author: YOUR_NAME
+site_author: jdip1007
 site_url: https://jdip1007.github.io/Neural-Nexus
 
 repo_name: jdip1007/Neural-Nexus
@@ -72,7 +72,6 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.mark
