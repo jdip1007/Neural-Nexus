@@ -1,0 +1,77 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "slug": "concepts/neural-nexus",
+      "title": "Neural Nexus",
+      "type": "concept",
+      "domain": "hermes",
+      "tags": [
+        "knowledge-management",
+        "workflow",
+        "automation"
+      ],
+      "updated": "2026-07-18",
+      "url": "/concepts/neural-nexus/",
+      "inboundLinks": 2,
+      "outboundLinks": 0
+    },
+    {
+      "id": 1,
+      "slug": "references/setup-guide",
+      "title": "Neural Nexus Setup Guide",
+      "type": "reference",
+      "domain": "hermes",
+      "tags": [
+        "setup",
+        "documentation",
+        "guide",
+        "knowledge-base"
+      ],
+      "updated": "2026-07-18",
+      "url": "/references/setup-guide/",
+      "inboundLinks": 1,
+      "outboundLinks": 2
+    },
+    {
+      "id": 2,
+      "slug": "references/writing-guide",
+      "title": "Neural Nexus Writing Guide",
+      "type": "reference",
+      "domain": "hermes",
+      "tags": [
+        "writing",
+        "documentation",
+        "guide",
+        "knowledge-base"
+      ],
+      "updated": "2026-07-18",
+      "url": "/references/writing-guide/",
+      "inboundLinks": 1,
+      "outboundLinks": 2
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 0
+    },
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 2,
+      "target": 0
+    },
+    {
+      "source": 2,
+      "target": 1
+    }
+  ],
+  "metadata": {
+    "totalNodes": 3,
+    "totalEdges": 4,
+    "generatedAt": "2026-07-18T16:27:32.185Z"
+  }
+}
