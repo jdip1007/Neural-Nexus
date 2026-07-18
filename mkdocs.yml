@@ -5,28 +5,30 @@ site_url: https://jdip1007.github.io/Neural-Nexus
 
 repo_name: jdip1007/Neural-Nexus
 repo_url: https://github.com/jdip1007/Neural-Nexus
-edit_uri: edit/main/docs/
 
-copyright: Copyright &copy; 2026 YOUR_NAME
+nav:
+  - Home: index.md
+  - Concepts: concepts/
+  - References: references/
+  - Knowledge Graph: graph.md
+  - Tags: tags.md
+  - Schema: SCHEMA.md
 
 theme:
   name: material
   language: en
   features:
-    - navigation.instant
-    - navigation.tracking
     - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - navigation.indexes
+    - navigation.tracking
     - search.suggest
     - search.highlight
-    - search.share
     - toc.follow
     - content.code.copy
-    - content.code.annotate
     - content.tabs.link
+
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -42,9 +44,11 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
   font:
     text: Inter
     code: JetBrains Mono
+
   icon:
     logo: material/brain
 
@@ -58,34 +62,31 @@ plugins:
       enable_creation_date: true
       type: date
 
-hooks:
-  - docs/hooks/wikilinks.py
-
 markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.mark
   - pymdownx.tilde
-  - admonition
-  - pymdownx.details
-  - attr_list
-  - md_in_html
-  - tables
-  - def_list
-  - footnotes
-  - toc:
-      permalink: true
-      toc_depth: 3
 
 extra:
   social:
@@ -99,18 +100,3 @@ extra_css:
 extra_javascript:
   - https://d3js.org/d3.v7.min.js
   - js/graph-render.js
-
-nav:
-  - Home: index.md
-  - Knowledge Graph: graph.md
-  - Concepts: concepts/
-  - Entities: entities/
-  - Ideas: ideas/
-  - Findings: findings/
-  - Readings: readings/
-  - Comparisons: comparisons/
-  - References: references/
-  - Raw Sources: raw/
-  - Tags: tags.md
-  - Schema: SCHEMA.md
-  - Log: log.md
