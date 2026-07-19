@@ -113,14 +113,11 @@ Modern adaptive sampling has evolved significantly:
 
 ## Common Misconceptions
 
-- **Myth**: Adaptive sampling requires constant human intervention
-  **Reality**: Modern systems operate with minimal human oversight using predefined criteria
-
-- **Myth**: Adaptive sampling is only applicable to large-scale sequencing projects
-  **Reality**: Applicable across various scales and experimental types
-
-- **Myth**: Adaptive sampling introduces bias into data collection
-  **Reality**: Well-designed adaptive systems actually reduce bias through objective criteria
+| Myth | Reality |
+|------|---------|
+| Adaptive sampling requires constant human intervention | Modern systems operate with minimal human oversight using predefined criteria |
+| Adaptive sampling is only applicable to large-scale sequencing projects | Applicable across various scales and experimental types |
+| Adaptive sampling introduces bias into data collection | Well-designed adaptive systems actually reduce bias through objective criteria |
 
 ## History
 

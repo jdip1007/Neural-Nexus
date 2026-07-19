@@ -76,14 +76,11 @@ Modern DNA extraction has evolved significantly:
 
 ## Common Misconceptions
 
-- **Myth**: DNA extraction is a simple, straightforward process
-  **Reality**: Requires careful optimization for different sample types and applications
-
-- **Myth**: All DNA extraction methods yield equivalent results
-  **Reality**: Different methods have varying efficiencies, purity levels, and suitability for downstream applications
-
-- **Myth**: DNA quality is only important for sequencing
-  **Reality**: DNA quality affects all downstream applications including PCR, cloning, and analysis
+| Myth | Reality |
+|------|---------|
+| DNA extraction is a simple, straightforward process | Requires careful optimization for different sample types and applications |
+| All DNA extraction methods yield equivalent results | Different methods have varying efficiencies, purity levels, and suitability for downstream applications |
+| DNA quality is only important for sequencing | DNA quality affects all downstream applications including PCR, cloning, and analysis |
 
 ## History
 

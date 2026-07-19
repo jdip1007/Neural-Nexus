@@ -79,14 +79,11 @@ Modern nanopore sequencing has evolved significantly:
 
 ## Common Misconceptions
 
-- **Myth**: Nanopore sequencing is inherently less accurate than short-read methods
-  **Reality**: Modern nanopore sequencing achieves high accuracy, especially with ultra-long reads that span repetitive regions
-
-- **Myth**: Nanopore sequencing requires specialized bioinformatics expertise
-  **Reality**: User-friendly software and automated pipelines make it accessible to researchers
-
-- **Myth**: Nanopore sequencing is only for DNA sequencing
-  **Reality**: It can sequence RNA, proteins, and detect epigenetic modifications
+| Myth | Reality |
+|------|---------|
+| Nanopore sequencing is inherently less accurate than short-read methods | Modern nanopore sequencing achieves high accuracy, especially with ultra-long reads that span repetitive regions |
+| Nanopore sequencing requires specialized bioinformatics expertise | User-friendly software and automated pipelines make it accessible to researchers |
+| Nanopore sequencing is only for DNA sequencing | It can sequence RNA, proteins, and detect epigenetic modifications |
 
 ## History
 

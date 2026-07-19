@@ -124,14 +124,11 @@ Modern eDNA analysis has evolved significantly:
 
 ## Common Misconceptions
 
-- **Myth**: eDNA analysis replaces traditional ecological monitoring
-  **Reality**: Complements traditional methods, providing additional insights
-
-- **Myth**: eDNA can identify individual organisms with certainty
-  **Reality**: Provides species-level detection, not individual identification
-
-- **Myth**: eDNA analysis is simple and requires minimal expertise
-  **Reality**: Complex methodology requiring specialized skills and controls
+| Myth | Reality |
+|------|---------|
+| eDNA analysis replaces traditional ecological monitoring | Complements traditional methods, providing additional insights |
+| eDNA can identify individual organisms with certainty | Provides species-level detection, not individual identification |
+| eDNA analysis is simple and requires minimal expertise | Complex methodology requiring specialized skills and controls |
 
 ## History
 
