@@ -85,7 +85,7 @@ This approach effectively removes SPS while preserving DNA yield and quality, en
 
 ## Related Findings
 
-- [[dna-extraction-methodologies]] - General extraction techniques
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md) - General extraction techniques
 - [[molecular-diagnostic]] - Downstream applications
 - [[bacterial-genetics]] - Target organism analysis
 

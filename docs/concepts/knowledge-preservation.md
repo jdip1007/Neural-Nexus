@@ -128,7 +128,7 @@ Into a coherent, navigable web of scientific knowledge
 
 ## Related Concepts
 
-- [[Reproducibility-crisis]] - The broader crisis of scientific reproducibility that knowledge preservation addresses
+- [Reproducibility-crisis](concepts/reproducibility-crisis.md) - The broader crisis of scientific reproducibility that knowledge preservation addresses
 - [[Open-science]] - The movement towards open access and sharing of scientific knowledge
 - [[FAIR-principles]] - Framework for making data Findable, Accessible, Interoperable, and Reusable
 - [[Tacit-knowledge]] - Unwritten expertise that's particularly vulnerable to loss through researcher turnover
@@ -144,6 +144,6 @@ Into a coherent, navigable web of scientific knowledge
 
 ## Resources
 
-- **Reading**: [[Knowledge-preservation-big-science-ai-rainford-et-al-2026]] - Core perspective on knowledge preservation challenges and strategies
+- **Reading**: [Knowledge-preservation-big-science-ai-rainford-et-al-2026](raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md) - Core perspective on knowledge preservation challenges and strategies
 - **Framework**: [[FAIR-principles]] - Data management principles for research
-- **Implementation**: [[Neural-nexus]] - Multi-domain knowledge base system for knowledge preservation
+- **Implementation**: [Neural-nexus](concepts/neural-nexus.md) - Multi-domain knowledge base system for knowledge preservation

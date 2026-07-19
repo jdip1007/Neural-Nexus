@@ -102,7 +102,7 @@ This analysis is based on a single perspective paper and may not represent the f
 
 - **Finding**: [[Knowledge-preservation-challenges]] - Broader challenges in scientific knowledge preservation
 - **Concept**: [[FAIR-principles]] - Framework for AI-friendly data management
-- **Implementation**: [[Neural-nexus]] - Knowledge base system that could benefit from AI integration
+- **Implementation**: [Neural-nexus](concepts/neural-nexus.md) - Knowledge base system that could benefit from AI integration
 - **Ethics**: [[AI-ethics-in-research]] - Ethical considerations for AI in scientific research
 
 ## Action Items

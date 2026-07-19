@@ -141,11 +141,11 @@ Modern tissue-specific extraction has evolved significantly:
 
 ## Related Concepts
 
-- [[dna-extraction-methodologies]] - General extraction framework
-- [[molecular-biology]] - Field of application
-- [[genomics]] - Primary research domain
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md) - General extraction framework
+- [molecular-biology](concepts/molecular-biology.md) - Field of application
+- [genomics](concepts/genomics.md) - Primary research domain
 - [[biotechnology]] - Implementation context
-- [[sample-preparation]] - Essential precursor step
+- [sample-preparation](concepts/sample-preparation.md) - Essential precursor step
 
 ## Sources
 

@@ -109,10 +109,10 @@ Modern DNA extraction methodologies have evolved significantly:
 
 ## Related Concepts
 
-- [[cell-line-culture]] — Source material requiring specific extraction methods
-- [[molecular-biology]] — Field that relies on DNA extraction techniques
-- [[genomics]] — Application domain requiring high-quality DNA
-- [[sample-preparation]] — Essential precursor to extraction
+- [cell-line-culture](concepts/cell-line-culture.md) — Source material requiring specific extraction methods
+- [molecular-biology](concepts/molecular-biology.md) — Field that relies on DNA extraction techniques
+- [genomics](concepts/genomics.md) — Application domain requiring high-quality DNA
+- [sample-preparation](concepts/sample-preparation.md) — Essential precursor to extraction
 - [[laboratory-automation]] — Modern implementation of extraction workflows
 
 ## Sources

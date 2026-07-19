@@ -131,7 +131,7 @@ Modern adaptive sampling has evolved significantly:
 ## Related Concepts
 
 - [[bioinformatics]] - Computational implementation domain
-- [[genomics]] - Primary application field
+- [genomics](concepts/genomics.md) - Primary application field
 - [[dna-sequencing]] - Core technology platform
 - [[computational-biology]] - Broader scientific field
 - [[data-science]] - Methodological foundation

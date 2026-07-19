@@ -71,8 +71,8 @@ This method is particularly valuable for:
 
 ## Concepts Referenced
 
-- [[dna-extraction]] - Core molecular biology technique
-- [[molecular-biology]] - Field of application
+- [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
+- [molecular-biology](concepts/molecular-biology.md) - Field of application
 - [[biotechnology]] - Broader context
 - [[electrophoresis]] - Downstream analytical technique
 
@@ -85,6 +85,6 @@ This method is particularly valuable for:
 
 ## Related Readings
 
-- [[dna-extraction-methodologies]]
-- [[brain-tissue-dna-extraction-method]]
-- [[cell-line-dna-pure-extraction-method]]
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)

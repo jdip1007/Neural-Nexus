@@ -2413,9 +2413,9 @@ Three-layer structure:
 
 ## Related
 
-- [[SCHEMA]]
-- [[graph]]
-- [[index-catalog]]
+- [SCHEMA](SCHEMA.md)
+- [graph](graph.md)
+- [index-catalog](index-catalog.md)
 ```
 
 ### Step 10.2: Build and Test Locally
@@ -2452,7 +2452,7 @@ mkdocs serve
 - [ ] Navigation tabs appear at top (Concepts, Entities, Ideas, etc.)
 - [ ] Dark/light mode toggle works (top-right icon)
 - [ ] Search works (type "neural" in search bar)
-- [ ] `[[SCHEMA]]` wikilink on the concept page is clickable and navigates to SCHEMA.md
+- [ ] `[SCHEMA](SCHEMA.md)` wikilink on the concept page is clickable and navigates to SCHEMA.md
 - [ ] Knowledge Graph page (`/graph/`) loads — D3 renders at least 1 node
 - [ ] Clicking the graph node navigates to the concept page
 - [ ] SCHEMA.md renders with syntax-highlighted code blocks
@@ -2957,5 +2957,5 @@ If editing via Obsidian and Hermes Agent simultaneously:
 
 ## Related
 
-- [[neural-nexus]]
-- [[writing-guide]]
+- [neural-nexus](concepts/neural-nexus.md)
+- [writing-guide](references/writing-guide.md)

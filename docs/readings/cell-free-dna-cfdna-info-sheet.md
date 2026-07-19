@@ -96,8 +96,8 @@ cfDNA enables revolutionary diagnostic approaches:
 
 ## Concepts Referenced
 
-- [[dna-extraction]] - Core molecular biology technique
-- [[molecular-biology]] - Field of application
+- [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
+- [molecular-biology](concepts/molecular-biology.md) - Field of application
 - [[biotechnology]] - Broader context
 - [[diagnostics]] - Clinical implementation
 - [[liquid-biopsy]] - Emerging diagnostic approach
@@ -111,6 +111,6 @@ cfDNA enables revolutionary diagnostic approaches:
 
 ## Related Readings
 
-- [[dna-extraction-methodologies]]
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
 - [[molecular-diagnostic]]
 - [[cancer-genomics]]

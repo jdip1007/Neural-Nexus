@@ -89,8 +89,8 @@ This method is essential for:
 
 ## Concepts Referenced
 
-- [[dna-extraction]] - Core molecular biology technique
-- [[molecular-biology]] - Field of application
+- [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
+- [molecular-biology](concepts/molecular-biology.md) - Field of application
 - [[biotechnology]] - Broader context
 - [[neuroscience]] - Specialized research domain
 - [[tissue-preparation]] - Essential precursor step
@@ -104,6 +104,6 @@ This method is essential for:
 
 ## Related Readings
 
-- [[dna-extraction-methodologies]]
-- [[agarose-plug-dna-extraction-method]]
-- [[cell-line-dna-pure-extraction-method]]
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)

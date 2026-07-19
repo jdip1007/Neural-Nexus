@@ -1,0 +1,219 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "slug": "concepts/knowledge-preservation",
+      "title": "Knowledge Preservation",
+      "type": "concept",
+      "domain": "ai, biotech, research",
+      "tags": [
+        "knowledge-management",
+        "research",
+        "sustainability",
+        "reproducibility"
+      ],
+      "updated": "2026-07-18",
+      "url": "/concepts/knowledge-preservation/",
+      "inboundLinks": 3,
+      "outboundLinks": 3
+    },
+    {
+      "id": 1,
+      "slug": "concepts/neural-nexus",
+      "title": "Neural Nexus",
+      "type": "concept",
+      "domain": "hermes",
+      "tags": [
+        "knowledge-management",
+        "workflow",
+        "automation"
+      ],
+      "updated": "2026-07-18",
+      "url": "/concepts/neural-nexus/",
+      "inboundLinks": 6,
+      "outboundLinks": 0
+    },
+    {
+      "id": 2,
+      "slug": "concepts/reproducibility-crisis",
+      "title": "Reproducibility Crisis",
+      "type": "concept",
+      "domain": "ai, biotech, research",
+      "tags": [
+        "reproducibility",
+        "research-crisis",
+        "scientific-method",
+        "validation"
+      ],
+      "updated": "2026-07-18",
+      "url": "/concepts/reproducibility-crisis/",
+      "inboundLinks": 3,
+      "outboundLinks": 3
+    },
+    {
+      "id": 3,
+      "slug": "entities/penn-rainford",
+      "title": "Penn Rainford",
+      "type": "entity",
+      "domain": "ai, biotech, research",
+      "tags": [
+        "researcher",
+        "computer-science",
+        "knowledge-management",
+        "ai"
+      ],
+      "updated": "2026-07-18",
+      "url": "/entities/penn-rainford/",
+      "inboundLinks": 1,
+      "outboundLinks": 4
+    },
+    {
+      "id": 4,
+      "slug": "findings/knowledge-preservation-ai-integration-insights",
+      "title": "Knowledge Preservation AI Integration Insights",
+      "type": "finding",
+      "domain": "ai, research",
+      "tags": [
+        "ai",
+        "knowledge-management",
+        "automation",
+        "research-tools"
+      ],
+      "updated": "2026-07-18",
+      "url": "/findings/knowledge-preservation-ai-integration-insights/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 5,
+      "slug": "readings/knowledge-preservation-big-science-ai-rainford-et-al-2026",
+      "title": "Knowledge Preservation in the Era of Big Science and AI",
+      "type": "reading",
+      "domain": "ai, biotech",
+      "tags": [
+        "knowledge-management",
+        "research",
+        "reproducibility",
+        "open-science",
+        "ai"
+      ],
+      "updated": "2026-07-18",
+      "url": "/readings/knowledge-preservation-big-science-ai-rainford-et-al-2026/",
+      "inboundLinks": 3,
+      "outboundLinks": 3
+    },
+    {
+      "id": 6,
+      "slug": "references/setup-guide",
+      "title": "Neural Nexus Setup Guide",
+      "type": "reference",
+      "domain": "hermes",
+      "tags": [
+        "setup",
+        "documentation",
+        "guide",
+        "knowledge-base"
+      ],
+      "updated": "2026-07-18",
+      "url": "/references/setup-guide/",
+      "inboundLinks": 1,
+      "outboundLinks": 2
+    },
+    {
+      "id": 7,
+      "slug": "references/writing-guide",
+      "title": "Neural Nexus Writing Guide",
+      "type": "reference",
+      "domain": "hermes",
+      "tags": [
+        "writing",
+        "documentation",
+        "guide",
+        "knowledge-base"
+      ],
+      "updated": "2026-07-18",
+      "url": "/references/writing-guide/",
+      "inboundLinks": 1,
+      "outboundLinks": 2
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 2
+    },
+    {
+      "source": 0,
+      "target": 5
+    },
+    {
+      "source": 0,
+      "target": 1
+    },
+    {
+      "source": 2,
+      "target": 5
+    },
+    {
+      "source": 2,
+      "target": 0
+    },
+    {
+      "source": 2,
+      "target": 1
+    },
+    {
+      "source": 3,
+      "target": 0
+    },
+    {
+      "source": 3,
+      "target": 2
+    },
+    {
+      "source": 3,
+      "target": 5
+    },
+    {
+      "source": 3,
+      "target": 1
+    },
+    {
+      "source": 4,
+      "target": 1
+    },
+    {
+      "source": 5,
+      "target": 3
+    },
+    {
+      "source": 5,
+      "target": 2
+    },
+    {
+      "source": 5,
+      "target": 0
+    },
+    {
+      "source": 6,
+      "target": 1
+    },
+    {
+      "source": 6,
+      "target": 7
+    },
+    {
+      "source": 7,
+      "target": 1
+    },
+    {
+      "source": 7,
+      "target": 6
+    }
+  ],
+  "metadata": {
+    "totalNodes": 8,
+    "totalEdges": 18,
+    "generatedAt": "2026-07-18T18:54:33.193Z"
+  }
+}

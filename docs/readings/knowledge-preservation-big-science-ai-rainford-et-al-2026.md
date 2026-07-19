@@ -93,7 +93,7 @@ Modern scientific research is losing knowledge through unpublished negative resu
 
 ## Entities Mentioned
 
-- [[Penn-Rainford]] — Lead author, University of York, Department of Computer Science
+- [Penn-Rainford](entities/penn-rainford.md) — Lead author, University of York, Department of Computer Science
 - [[Thomas-Gorochowski]] — Corresponding author, University of Bristol, School of Biological Sciences
 - [[Annalisa-Occhipinti]] — Teesside University, School of Computing, Engineering and Digital Technologies
 - [[Bo-Wang]] — National Institute of Health, Laboratory of Pathology
@@ -108,10 +108,10 @@ Modern scientific research is losing knowledge through unpublished negative resu
 - [[FAIR-principles]] — Findable, Accessible, Interoperable, Reusable data principles
 - [[BioFAIR]] — FAIR principles adapted for life sciences with metadata standards
 - [[CURE-principles]] — Correct, Unbiased, Robust, Explainable computational models
-- [[Reproducibility-crisis]] — Crisis in scientific research where results cannot be reliably reproduced
+- [Reproducibility-crisis](concepts/reproducibility-crisis.md) — Crisis in scientific research where results cannot be reliably reproduced
 - [[Tacit-knowledge]] — Unwritten expertise and practical know-how that's difficult to formalize
 - [[Open-science]] — Movement to make scientific research and data accessible to all
-- [[Knowledge-preservation]] — Strategies for maintaining and accessing scientific knowledge over time
+- [Knowledge-preservation](concepts/knowledge-preservation.md) — Strategies for maintaining and accessing scientific knowledge over time
 
 ## My Takeaways
 
@@ -127,7 +127,7 @@ Modern scientific research is losing knowledge through unpublished negative resu
 
 ## Related Readings
 
-- [[reproducibility-crisis]]
+- [reproducibility-crisis](concepts/reproducibility-crisis.md)
 - [[open-science]]
 - [[knowledge-management]]
 - [[FAIR-principles]]

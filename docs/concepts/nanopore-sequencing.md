@@ -101,9 +101,9 @@ Modern nanopore sequencing has evolved significantly:
 
 - [[long-read-sequencing]] - Key advantage category
 - [[dna-sequencing]] - Broader field of application
-- [[genomics]] - Primary research domain
+- [genomics](concepts/genomics.md) - Primary research domain
 - [[biotechnology]] - Implementation context
-- [[molecular-biology]] - Scientific foundation
+- [molecular-biology](concepts/molecular-biology.md) - Scientific foundation
 
 ## Sources
 

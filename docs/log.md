@@ -16,25 +16,25 @@
 
 ## [2026-07-19] ingest | DNA Extraction and Sequencing Documents
 - Created reading pages for multiple DNA extraction method documents:
-  - [[cell-line-dna-pure-extraction-method]]
-  - [[cell-line-dna-qgn-extraction-method]]
-  - [[agarose-plug-dna-extraction-method]]
-  - [[brain-tissue-dna-extraction-method]]
-  - [[colony-pcr-dna-extraction-method]]
-  - [[environmental-water-edna-extraction-method]]
-  - [[cell-free-dna-cfdna-info-sheet]]
-  - [[24hr-genome-e2e-promethion-document]]
-  - [[adaptive-sampling-document]]
+  - [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+  - [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+  - [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+  - [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+  - [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+  - [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+  - [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+  - [24hr-genome-e2e-promethion-document](raw/articles/24hr-genome-e2e-promethion-document.md)
+  - [adaptive-sampling-document](raw/articles/adaptive-sampling-document.md)
 - Created concept pages:
-  - [[dna-extraction]]
-  - [[cell-line-culture]]
-  - [[dna-extraction-methodologies]]
-  - [[tissue-specific-dna-extraction]]
-  - [[nanopore-sequencing]]
-  - [[environmental-dna-analysis]]
-  - [[adaptive-sampling]]
+  - [dna-extraction](concepts/dna-extraction.md)
+  - [cell-line-culture](concepts/cell-line-culture.md)
+  - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+  - [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+  - [nanopore-sequencing](concepts/nanopore-sequencing.md)
+  - [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+  - [adaptive-sampling](concepts/adaptive-sampling.md)
 - Created finding page:
-  - [[centrifuge-layer-extraction-bacterial-dna]]
+  - [centrifuge-layer-extraction-bacterial-dna](findings/centrifuge-layer-extraction-bacterial-dna.md)
 - Processed 15 PDF documents with text extraction and SHA256 hashing
 - Updated SCHEMA.md taxonomy with new biotechnology tags
 - Catalog updated: 25 pages across 7 sections
@@ -43,11 +43,11 @@
 - Key insights: Tissue-specific extraction methods, environmental DNA analysis, nanopore sequencing technology
 
 ## [2026-07-18] ingest | Knowledge Preservation in the Era of Big Science and AI
-- Created reading page: [[knowledge-preservation-big-science-ai-rainford-et-al-2026]]
-- Created concept page: [[knowledge-preservation]]
-- Created concept page: [[reproducibility-crisis]]
-- Created entity page: [[penn-rainford]]
-- Created finding page: [[knowledge-preservation-ai-integration-insights]]
+- Created reading page: [knowledge-preservation-big-science-ai-rainford-et-al-2026](raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md)
+- Created concept page: [knowledge-preservation](concepts/knowledge-preservation.md)
+- Created concept page: [reproducibility-crisis](concepts/reproducibility-crisis.md)
+- Created entity page: [penn-rainford](entities/penn-rainford.md)
+- Created finding page: [knowledge-preservation-ai-integration-insights](findings/knowledge-preservation-ai-integration-insights.md)
 - Extracted and processed PDF article from Nature Communications
 - Added comprehensive metadata and cross-references
 - Catalog updated: 8 pages across 7 sections

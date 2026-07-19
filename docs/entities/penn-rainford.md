@@ -78,10 +78,10 @@ Rainford has developed a comprehensive framework for knowledge preservation that
 
 ## Related Concepts
 
-- [[Knowledge-preservation]] - Core concept that Rainford's research addresses
-- [[Reproducibility-crisis]] - Broader context for Rainford's work
-- **Reading**: [[Knowledge-preservation-big-science-ai-rainford-et-al-2026]] - Primary publication by Rainford et al.
-- **Implementation**: [[Neural-nexus]] - Knowledge base system aligned with Rainford's preservation vision
+- [Knowledge-preservation](concepts/knowledge-preservation.md) - Core concept that Rainford's research addresses
+- [Reproducibility-crisis](concepts/reproducibility-crisis.md) - Broader context for Rainford's work
+- **Reading**: [Knowledge-preservation-big-science-ai-rainford-et-al-2026](raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md) - Primary publication by Rainford et al.
+- **Implementation**: [Neural-nexus](concepts/neural-nexus.md) - Knowledge base system aligned with Rainford's preservation vision
 
 ## Publications
 

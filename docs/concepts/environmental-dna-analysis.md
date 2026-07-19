@@ -142,11 +142,11 @@ Modern eDNA analysis has evolved significantly:
 
 ## Related Concepts
 
-- [[molecular-biology]] - Scientific foundation
-- [[genomics]] - Technical implementation
-- [[ecology]] - Application domain
-- [[conservation-biology]] - Primary use case
-- [[environmental-monitoring]] - Broader context
+- [molecular-biology](concepts/molecular-biology.md) - Scientific foundation
+- [genomics](concepts/genomics.md) - Technical implementation
+- [ecology](concepts/ecology.md) - Application domain
+- [conservation-biology](concepts/conservation-biology.md) - Primary use case
+- [environmental-monitoring](concepts/environmental-monitoring.md) - Broader context
 
 ## Sources
 

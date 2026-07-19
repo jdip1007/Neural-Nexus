@@ -24,7 +24,7 @@ A raw source (article, video, chat) goes in `raw/`. A wiki page is **what you le
 > The article says that transformers use self-attention. Self-attention was introduced in 2017. The paper is called "Attention Is All You Need." [then 500 words of copied content]
 
 **Good page** (synthesis):
-> [[neural-nexus]] relies on structured knowledge organization to process information efficiently, replacing the isolated storage of traditional wikis. This integration is why automation enhances knowledge management — see [[setup-guide]].
+> [neural-nexus](concepts/neural-nexus.md) relies on structured knowledge organization to process information efficiently, replacing the isolated storage of traditional wikis. This integration is why automation enhances knowledge management — see [setup-guide](references/setup-guide.md).
 
 ### 2. Atomic focus — one idea per page
 Each page covers one concept, one entity, one finding. If a page tries to explain 5 things, it becomes unsearchable and unlinkable. Split it.
@@ -110,7 +110,7 @@ Every active page should have a `reviewed:` date in frontmatter — the last tim
 
 1. **Minimum 2 outbound wikilinks per page.** Isolated pages are invisible. Link to related concepts, entities, or readings.
 2. **Link to pages that exist, not phantom pages.** If you write `[[future-page]]`, create it or the lint will flag it.
-3. **Prefer short basenames.** `[[neural-nexus]]` resolves even if the file is at `concepts/neural-nexus.md`.
+3. **Prefer short basenames.** `[neural-nexus](concepts/neural-nexus.md)` resolves even if the file is at `concepts/neural-nexus.md`.
 4. **Use display text when the slug is ugly.** `[[gpu-scaling|GPU scaling trends]]` reads better.
 5. **Link on first mention only.** Don't link the same term 5 times in one page.
 6. **Don't link inside code blocks.** Wikilinks in code blocks are ignored by the parser.
@@ -457,7 +457,7 @@ status: active
 Self-attention is a mechanism where each position in a sequence
 computes a weighted representation of all other positions, allowing
 the model to capture relationships regardless of distance. It's the
-core innovation behind [[neural-nexus]].
+core innovation behind [neural-nexus](concepts/neural-nexus.md).
 
 ## Core Mechanism
 
@@ -576,5 +576,5 @@ train due to parallelism.
 
 ## Related
 
-- [[neural-nexus]]
-- [[setup-guide]]
+- [neural-nexus](concepts/neural-nexus.md)
+- [setup-guide](references/setup-guide.md)

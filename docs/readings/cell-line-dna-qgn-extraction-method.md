@@ -69,9 +69,9 @@ Compared to traditional pure extraction methods, QGN appears to offer:
 
 ## Concepts Referenced
 
-- [[dna-extraction]] — Core molecular biology technique
-- [[cell-line-culture]] — Source material preparation
-- [[molecular-biology]] — Field of application
+- [dna-extraction](concepts/dna-extraction.md) — Core molecular biology technique
+- [cell-line-culture](concepts/cell-line-culture.md) — Source material preparation
+- [molecular-biology](concepts/molecular-biology.md) — Field of application
 - [[biotechnology]] — Broader context
 
 ## My Takeaways
@@ -84,6 +84,6 @@ Compared to traditional pure extraction methods, QGN appears to offer:
 
 ## Related Readings
 
-- [[cell-line-dna-pure-extraction-method]]
-- [[agarose-plug-dna-extraction-method]]
-- [[dna-extraction]]
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [dna-extraction](concepts/dna-extraction.md)

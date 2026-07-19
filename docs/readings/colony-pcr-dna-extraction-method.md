@@ -81,9 +81,9 @@ This method is particularly valuable for:
 
 ## Concepts Referenced
 
-- [[dna-extraction]] - Core molecular biology technique
-- [[pcr]] - Primary downstream application
-- [[molecular-biology]] - Field of application
+- [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
+- [pcr](concepts/pcr.md) - Primary downstream application
+- [molecular-biology](concepts/molecular-biology.md) - Field of application
 - [[biotechnology]] - Broader context
 - [[microbiology]] - Specialized research domain
 
@@ -96,6 +96,6 @@ This method is particularly valuable for:
 
 ## Related Readings
 
-- [[dna-extraction-methodologies]]
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
 - [[pcr-technology]]
 - [[microbial-genetics]]

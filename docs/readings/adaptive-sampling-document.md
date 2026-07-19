@@ -104,7 +104,7 @@ Adaptive sampling represents a paradigm shift in data collection, moving from pr
 
 ## Concepts Referenced
 
-- [[genomics]] - Primary research domain
+- [genomics](concepts/genomics.md) - Primary research domain
 - [[bioinformatics]] - Computational implementation
 - [[dna-sequencing]] - Core technology
 - [[computational-biology]] - Broader field
@@ -119,6 +119,6 @@ Adaptive sampling represents a paradigm shift in data collection, moving from pr
 
 ## Related Readings
 
-- [[nanopore-sequencing]]
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
 - [[genome-assembly-methods]]
 - [[bioinformatics-workflows]]
