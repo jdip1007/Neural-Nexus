@@ -65,14 +65,14 @@ sha256: <hex digest of body content>
 
 ### Topics
 
-**AI/ML**: architecture, training, inference, alignment, safety, evaluation, fine-tuning
-**Biotech**: sequencing, crispr, protein-design, drug-discovery
+**AI/ML**: architecture, training, inference, alignment, safety, evaluation, fine-tuning, automation, bioinformatics, computational-biology, sequencing, data-science
+**Biotech**: sequencing, crispr, protein-design, drug-discovery, reproducibility, dna-extraction, molecular-biology, laboratory-technique, cell-biology, tissue-culture, genomics, dna-sequencing, long-read-sequencing, nanopore-sequencing, tissue-preparation, liquid-biopsy, diagnostics, microbiology, ecology, environmental-science, neuroscience, biotechnology
 **Finance**: markets, portfolio, analysis, algorithmic-trading
 **DevOps**: kubernetes, ci-cd, observability, site-reliability
 **Psychology**: learning, decision-making, therapy, cognitive-bias
 
 ### Meta
-- research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base
+- research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility
 
 **Rule**: Every tag must appear in this taxonomy. Add new tags here first.
 
