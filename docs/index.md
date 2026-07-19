@@ -38,3 +38,4 @@ Send URLs, videos, or notes to Hermes Agent:
 - "Process this video: https://youtube.com/watch?v=xxx"
 - "Create an idea page for: [your thought]"
 - "Dump this finding: [your analysis]"
+
