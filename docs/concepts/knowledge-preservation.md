@@ -3,6 +3,7 @@ title: Knowledge Preservation
 created: 2026-07-18
 updated: 2026-07-18
 type: concept
+classification: research-methodology.knowledge-management
 domain: ai, biotech, research
 tags: [knowledge-management, research, sustainability, reproducibility]
 sources: [raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md]

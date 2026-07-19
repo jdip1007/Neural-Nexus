@@ -3,6 +3,7 @@ title: Conservation Biology
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: biotechnology.environmental-biology
 domain: biotech
 tags: [biology, ecology, environmental-science, biodiversity]
 sources: []

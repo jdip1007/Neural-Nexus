@@ -3,6 +3,7 @@ title: Neural Nexus
 created: 2026-07-18
 updated: 2026-07-18
 type: concept
+classification: systems.knowledge-systems
 domain: hermes
 tags: [knowledge-management, workflow, automation]
 sources: []

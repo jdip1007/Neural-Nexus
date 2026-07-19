@@ -3,6 +3,7 @@ title: DNA Extraction
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: biotechnology.molecular-biology.dna-operations
 domain: biotech
 tags: [molecular-biology, genomics, laboratory-technique, biotechnology]
 sources: [raw/articles/cell-line-dna-pure-extraction-method.md]

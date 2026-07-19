@@ -3,6 +3,7 @@ title: Genomics
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: biotechnology.molecular-biology.omics
 domain: biotech
 tags: [molecular-biology, genetics, bioinformatics, biotechnology]
 sources: []

@@ -3,6 +3,7 @@ title: Criminal Psychology and Behavior Patterns
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: psychology.forensic-psychology
 domain: psychology
 tags: [psychology, criminal-behavior, forensic-psychology, hong-kong, dangerous-person-2-0]
 confidence: medium

@@ -3,6 +3,7 @@ title: Environmental Monitoring
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: biotechnology.environmental-biology
 domain: biotech
 tags: [environmental-science, ecology, conservation, sustainability]
 sources: []

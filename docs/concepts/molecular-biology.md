@@ -3,6 +3,7 @@ title: Molecular Biology
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: systems.knowledge-systems
 domain: biotech
 tags: [biology, genetics, biochemistry, biotechnology]
 sources: []

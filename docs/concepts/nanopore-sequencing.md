@@ -3,6 +3,7 @@ title: Nanopore Sequencing
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: biotechnology.sequencing
 domain: biotech
 tags: [genomics, dna-sequencing, biotechnology, molecular-biology, long-read-sequencing]
 sources: [raw/articles/24hr-genome-e2e-promethion-document.md]

@@ -3,6 +3,7 @@ title: DNA Evidence in Hong Kong Legal System
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: legal-science.forensic-evidence
 domain: psychology
 tags: [legal-science, forensic-science, hong-kong, dna-evidence, criminal-justice, dangerous-person-2-0]
 confidence: medium

@@ -3,6 +3,7 @@ title: X先生 (Mr. X) - Television Celebrity
 created: 2026-07-19
 updated: 2026-07-19
 type: entity
+classification: person.media-figure
 domain: psychology
 tags: [celebrity, television-personality, blackmail-victim, hong-kong, dangerous-person-2-0]
 confidence: medium

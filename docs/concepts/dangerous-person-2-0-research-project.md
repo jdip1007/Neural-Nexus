@@ -3,6 +3,7 @@ title: DangerousPerson2.0 Channel Research Project
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: research-methodology.knowledge-management
 domain: general
 tags: [research-methodology, hong-kong, legal-cases, crime-investigation, dangerous-person-2-0, youtube-research]
 confidence: medium

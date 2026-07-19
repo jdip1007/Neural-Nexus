@@ -10,6 +10,7 @@ const {
 
 const REQUIRED_FM_FIELDS = ['title', 'created', 'updated', 'type', 'domain', 'tags'];
 const TYPES_REQUIRING_SOURCES = ['reading', 'finding', 'concept', 'entity', 'comparison'];
+const TYPES_REQUIRING_CLASSIFICATION = ['concept', 'entity'];
 const REVIEW_STALE_DAYS = 180; // Pages not reviewed in 6 months flagged for re-check
 
 const errors = [];
@@ -39,6 +40,18 @@ function checkFrontmatter(files, validTags) {
       for (const tag of fm.tags) {
         if (!validTags.has(tag)) {
           warnings.push(`Tag '${tag}' not in SCHEMA.md taxonomy: ${file.relPath}`);
+        }
+      }
+    }
+
+    // Classification required for concepts and entities
+    if (TYPES_REQUIRING_CLASSIFICATION.includes(fm.type)) {
+      if (!fm.classification) {
+        warnings.push(`Missing 'classification' field for ${fm.type} page: ${file.relPath}`);
+      } else {
+        const parts = fm.classification.split('.');
+        if (parts.length < 2) {
+          warnings.push(`Classification '${fm.classification}' needs at least 2 levels (category.subcategory): ${file.relPath}`);
         }
       }
     }

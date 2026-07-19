@@ -3,6 +3,7 @@ title: Lam Kwok Wai (林國偉) - Tuen Mun Rapist
 created: 2026-07-19
 updated: 2026-07-19
 type: entity
+classification: person.legal-figure
 domain: psychology
 tags: [criminal, serial-offender, hong-kong, dna-evidence, dangerous-person-2-0]
 confidence: medium

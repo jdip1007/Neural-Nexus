@@ -32,6 +32,7 @@ title: Page Title
 created: 2026-07-18
 updated: 2026-07-18
 type: entity | concept | idea | finding | reading | comparison
+classification: category.subcategory[.subsubcategory]  # required for concept/entity
 domain: ai | biotech | finance | devops | psychology | general
 tags: [from taxonomy below]
 sources: [raw/articles/source-name.md]
@@ -83,6 +84,79 @@ sha256: <hex digest of body content>
 - research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility
 
 **Rule**: Every tag must appear in this taxonomy. Add new tags here first.
+
+## Page Classification
+
+Pages are organized into a recursive classification hierarchy. The `classification` frontmatter field specifies where a page sits in this tree. This makes topics easier to understand, navigate, and maintain.
+
+### Concept Classifications
+
+```
+concepts/
+├── biotechnology/
+│   ├── molecular-biology/
+│   │   ├── dna-operations/        # DNA extraction, PCR, sequencing prep
+│   │   └── omics/                 # Genomics, bioinformatics
+│   ├── sequencing/                # Nanopore, long-read, adaptive sampling
+│   ├── laboratory-methods/        # Sample prep, quality control, cell culture
+│   └── environmental-biology/     # Ecology, conservation, environmental monitoring
+├── psychology/
+│   ├── forensic-psychology/       # Criminal behavior, criminal psychology
+│   └── media-ethics/              # Celebrity privacy, blackmail
+├── legal-science/
+│   └── forensic-evidence/         # DNA evidence, legal frameworks
+├── research-methodology/
+│   ├── knowledge-management/      # Knowledge preservation, systems
+│   └── reproducibility/           # Reproducibility crisis, validation
+└── systems/
+    └── knowledge-systems/         # Neural Nexus, personal KBs
+```
+
+### Entity Classifications
+
+```
+entities/
+├── person/
+│   ├── researcher/                # Scientists, academics
+│   ├── legal-figure/              # Criminals, legal case subjects
+│   └── media-figure/              # Celebrities, public figures
+├── organization/                  # Institutions, companies
+├── location/                      # Places, jurisdictions
+└── object/                        # Tools, artifacts, datasets
+```
+
+### Rules
+
+1. **Every concept and entity must have a `classification` field** in frontmatter
+2. **Classification is a dot-path** — e.g., `classification: biotechnology.molecular-biology.dna-operations`
+3. **Minimum depth 2** — at least `category.subcategory`
+4. **The tree is extensible** — add new branches as content grows
+5. **Review regularly** — the lint script validates classifications against SCHEMA.md
+6. **Sub-classifications can nest recursively** — no depth limit
+
+### Concept Classification Reference
+
+| Classification | Pages |
+|---|---|
+| `biotechnology.molecular-biology.dna-operations` | dna-extraction, dna-extraction-methodologies, pcr, tissue-specific-dna-extraction |
+| `biotechnology.molecular-biology.omics` | genomics |
+| `biotechnology.sequencing` | nanopore-sequencing, adaptive-sampling |
+| `biotechnology.laboratory-methods` | sample-preparation, cell-line-culture |
+| `biotechnology.environmental-biology` | ecology, conservation-biology, environmental-dna-analysis, environmental-monitoring |
+| `psychology.forensic-psychology` | criminal-psychology-behavior-patterns |
+| `psychology.media-ethics` | celebrity-privacy-media-ethics |
+| `legal-science.forensic-evidence` | dna-evidence-hong-kong-legal-system |
+| `research-methodology.knowledge-management` | knowledge-preservation, dangerous-person-2-0-research-overview, dangerous-person-2-0-research-project |
+| `research-methodology.reproducibility` | reproducibility-crisis |
+| `systems.knowledge-systems` | neural-nexus, molecular-biology |
+
+### Entity Classification Reference
+
+| Classification | Pages |
+|---|---|
+| `person.researcher` | penn-rainford |
+| `person.legal-figure` | lam-kwok-wai-tuen-mun-rapist |
+| `person.media-figure` | x-television-celebrity |
 
 ## Content Types
 

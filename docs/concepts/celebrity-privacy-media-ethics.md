@@ -3,6 +3,7 @@ title: Celebrity Privacy and Media Ethics
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: psychology.media-ethics
 domain: psychology
 tags: [media-ethics, celebrity-privacy, blackmail, hong-kong, dangerous-person-2-0]
 confidence: medium

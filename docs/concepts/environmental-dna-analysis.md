@@ -3,6 +3,7 @@ title: Environmental DNA Analysis
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: biotechnology.environmental-biology
 domain: biotech
 tags: [molecular-biology, genomics, ecology, environmental-science, biotechnology]
 sources: [raw/articles/environmental-water-edna-extraction-method.md]

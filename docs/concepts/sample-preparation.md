@@ -3,6 +3,7 @@ title: Sample Preparation
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+classification: biotechnology.laboratory-methods
 domain: biotech
 tags: [laboratory-technique, molecular-biology, biochemistry, quality-control]
 sources: []

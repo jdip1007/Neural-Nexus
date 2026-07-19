@@ -9,33 +9,54 @@ repo_url: https://github.com/jdip1007/Neural-Nexus
 nav:
   - Home: index.md
   - Concepts:
-    - Neural Nexus: concepts/neural-nexus.md
-    - DNA Extraction: concepts/dna-extraction.md
-    - Cell Line Culture: concepts/cell-line-culture.md
-    - DNA Extraction Methodologies: concepts/dna-extraction-methodologies.md
-    - Tissue-Specific DNA Extraction: concepts/tissue-specific-dna-extraction.md
-    - Nanopore Sequencing: concepts/nanopore-sequencing.md
-    - Environmental DNA Analysis: concepts/environmental-dna-analysis.md
-    - Adaptive Sampling: concepts/adaptive-sampling.md
-    - Knowledge Preservation: concepts/knowledge-preservation.md
-    - Reproducibility Crisis: concepts/reproducibility-crisis.md
-    - PCR: concepts/pcr.md
-    - Genomics: concepts/genomics.md
-    - Molecular Biology: concepts/molecular-biology.md
-    - Ecology: concepts/ecology.md
-    - Conservation Biology: concepts/conservation-biology.md
-    - Environmental Monitoring: concepts/environmental-monitoring.md
-    - Sample Preparation: concepts/sample-preparation.md
-    - DNA Evidence in Hong Kong Legal System: concepts/dna-evidence-hong-kong-legal-system.md
-    - Criminal Psychology and Behavior Patterns: concepts/criminal-psychology-behavior-patterns.md
-    - Celebrity Privacy and Media Ethics: concepts/celebrity-privacy-media-ethics.md
-    - DangerousPerson2.0 Research Overview: concepts/dangerous-person-2-0-research-overview.md
-    - DangerousPerson2.0 Research Project: concepts/dangerous-person-2-0-research-project.md
+    - Biotechnology:
+      - Molecular Biology:
+        - DNA Operations:
+          - DNA Extraction: concepts/dna-extraction.md
+          - DNA Extraction Methodologies: concepts/dna-extraction-methodologies.md
+          - PCR: concepts/pcr.md
+          - Tissue-Specific DNA Extraction: concepts/tissue-specific-dna-extraction.md
+        - Omics:
+          - Genomics: concepts/genomics.md
+      - Sequencing:
+        - Nanopore Sequencing: concepts/nanopore-sequencing.md
+        - Adaptive Sampling: concepts/adaptive-sampling.md
+      - Laboratory Methods:
+        - Sample Preparation: concepts/sample-preparation.md
+        - Cell Line Culture: concepts/cell-line-culture.md
+      - Environmental Biology:
+        - Ecology: concepts/ecology.md
+        - Conservation Biology: concepts/conservation-biology.md
+        - Environmental DNA Analysis: concepts/environmental-dna-analysis.md
+        - Environmental Monitoring: concepts/environmental-monitoring.md
+    - Psychology:
+      - Forensic Psychology:
+        - Criminal Psychology & Behavior Patterns: concepts/criminal-psychology-behavior-patterns.md
+      - Media Ethics:
+        - Celebrity Privacy & Media Ethics: concepts/celebrity-privacy-media-ethics.md
+    - Legal Science:
+      - Forensic Evidence:
+        - DNA Evidence in HK Legal System: concepts/dna-evidence-hong-kong-legal-system.md
+    - Research Methodology:
+      - Knowledge Management:
+        - Knowledge Preservation: concepts/knowledge-preservation.md
+        - DangerousPerson2.0 Overview: concepts/dangerous-person-2-0-research-overview.md
+        - DangerousPerson2.0 Project: concepts/dangerous-person-2-0-research-project.md
+      - Reproducibility:
+        - Reproducibility Crisis: concepts/reproducibility-crisis.md
+    - Systems:
+      - Knowledge Systems:
+        - Neural Nexus: concepts/neural-nexus.md
+        - Molecular Biology: concepts/molecular-biology.md
   - Entities:
     - Overview: entities/index.md
-    - Penn Rainford: entities/penn-rainford.md
-    - Lam Kwok Wai (林國偉): entities/lam-kwok-wai-tuen-mun-rapist.md
-    - X先生 (Mr. X): entities/x-television-celebrity.md
+    - Person:
+      - Researcher:
+        - Penn Rainford: entities/penn-rainford.md
+      - Legal Figure:
+        - Lam Kwok Wai (林國偉): entities/lam-kwok-wai-tuen-mun-rapist.md
+      - Media Figure:
+        - X先生 (Mr. X): entities/x-television-celebrity.md
   - Readings:
     - Overview: readings/index.md
     - Cell Line DNA Pure Extraction Method: readings/cell-line-dna-pure-extraction-method.md
