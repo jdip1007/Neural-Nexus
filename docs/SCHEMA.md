@@ -57,7 +57,7 @@ sha256: <hex digest of body content>
 ## Tag Taxonomy
 
 ### Domains
-- ai, ml, llm, deep-learning, nlp, computer-vision
+- ai, ml, llm, deep-learning, nlp, computer-vision, gemini, generative-ai
 - biotech, genomics, dna, nanotechnology, synthetic-biology
 - finance, trading, economics, cryptocurrency, risk-management
 - devops, infrastructure, security, reliability, monitoring
@@ -66,7 +66,7 @@ sha256: <hex digest of body content>
 
 ### Topics
 
-- architecture, training, inference, alignment, safety, evaluation, fine-tuning, automation
+- architecture, training, inference, alignment, safety, evaluation, fine-tuning, automation, multimodal
 - bioinformatics, computational-biology, sequencing, data-science
 - crispr, protein-design, drug-discovery, reproducibility, dna-extraction, molecular-biology, laboratory-technique
 - cell-biology, tissue-culture, genomics, dna-sequencing, long-read-sequencing, nanopore-sequencing, tissue-preparation
@@ -78,7 +78,7 @@ sha256: <hex digest of body content>
 - hong-kong, media-ethics, celebrity-privacy, blackmail, legal-science, forensic-science, dna-evidence
 - criminal-justice, crime-investigation, legal-cases, dangerous-person-2-0, dangerous-person-2.0
 - celebrity, television-personality, blackmail-victim, serial-offender, criminal
-- research-methodology, youtube-research, qgn-method
+- research-methodology, youtube-research, qgn-method, prompt-engineering, fine-tuning, model-comparison
 
 ### Meta
 - research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility
@@ -110,7 +110,11 @@ concepts/
 │   └── reproducibility/           # Reproducibility crisis, validation
 └── systems/
     └── knowledge-systems/         # Neural Nexus, personal KBs
-```
+├── artificial-intelligence/       # Future: AI/ML concepts
+│   ├── large-language-models/    # LLMs, foundation models
+│   ├── multimodal-ai/             # Text, image, audio models
+│   ├── ai-safety/                # Alignment, ethics, safety
+│   └── generative-ai/            # Gemini, Claude, GPT, etc.
 
 ### Entity Classifications
 
@@ -140,15 +144,16 @@ entities/
 |---|---|
 | `biotechnology.molecular-biology.dna-operations` | dna-extraction, dna-extraction-methodologies, pcr, tissue-specific-dna-extraction |
 | `biotechnology.molecular-biology.omics` | genomics |
-| `biotechnology.sequencing` | nanopore-sequencing, adaptive-sampling |
-| `biotechnology.laboratory-methods` | sample-preparation, cell-line-culture |
-| `biotechnology.environmental-biology` | ecology, conservation-biology, environmental-dna-analysis, environmental-monitoring |
-| `psychology.forensic-psychology` | criminal-psychology-behavior-patterns |
-| `psychology.media-ethics` | celebrity-privacy-media-ethics |
-| `legal-science.forensic-evidence` | dna-evidence-hong-kong-legal-system |
-| `research-methodology.knowledge-management` | knowledge-preservation, dangerous-person-2-0-research-overview, dangerous-person-2-0-research-project |
-| `research-methodology.reproducibility` | reproducibility-crisis |
-| `systems.knowledge-systems` | neural-nexus, molecular-biology |
+|| `biotechnology.sequencing` | nanopore-sequencing, adaptive-sampling |
+|| `biotechnology.laboratory-methods` | sample-preparation, cell-line-culture |
+|| `biotechnology.environmental-biology` | ecology, conservation-biology, environmental-dna-analysis, environmental-monitoring |
+|| `psychology.forensic-psychology` | criminal-psychology-behavior-patterns |
+|| `psychology.media-ethics` | celebrity-privacy-media-ethics |
+|| `legal-science.forensic-evidence` | dna-evidence-hong-kong-legal-system |
+|| `research-methodology.knowledge-management` | knowledge-preservation, dangerous-person-2-0-research-overview, dangerous-person-2-0-research-project |
+|| `research-methodology.reproducibility` | reproducibility-crisis |
+|| `systems.knowledge-systems` | neural-nexus, molecular-biology |
+|| `artificial-intelligence.generative-ai` | gemini |
 
 ### Entity Classification Reference
 
