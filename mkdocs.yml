@@ -1,0 +1,122 @@
+site_name: Neural Nexus
+site_description: Personal knowledge base — LLM Wiki + Obsidian, hosted on GitHub Pages
+site_author: jdip1007
+site_url: https://jdip1007.github.io/Neural-Nexus
+
+# Repository
+repo_name: jdip1007/Neural-Nexus
+repo_url: https://github.com/jdip1007/Neural-Nexus
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2026 jdip1007
+
+# Theme
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.follow
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    logo: material/brain
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+  - awesome-pages
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      fallback_to_build_date: true
+
+# Hooks — server-side [[wikilink]] rendering
+hooks:
+  - docs/hooks/wikilinks.py
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jdip1007/Neural-Nexus
+  generator: false
+
+extra_css:
+  - css/custom.css
+
+extra_javascript:
+  - https://d3js.org/d3.v7.min.js
+  - js/graph-render.js
+
+# Navigation
+nav:
+  - Home: index.md
+  - Knowledge Graph: graph.md
+  - Concepts: concepts/
+  - Entities: entities/
+  - Ideas: ideas/
+  - Findings: findings/
+  - Readings: readings/
+  - Comparisons: comparisons/
+  - References: references/
+  - Raw Sources: raw/
+  - Tags: tags.md
+  - Schema: SCHEMA.md
+  - Log: log.md

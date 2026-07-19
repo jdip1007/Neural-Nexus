@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "slug": "concepts/adhd-symptom-differences-gifted-children",
+      "title": "ADHD Symptom Differences in Gifted Children",
+      "type": "concept",
+      "domain": "psychology",
+      "tags": [
+        "adhd",
+        "giftedness",
+        "clinical-psychology",
+        "differential-diagnosis"
+      ],
+      "updated": "2026-07-19",
+      "url": "/concepts/adhd-symptom-differences-gifted-children/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 1,
+      "slug": "readings/gifted-children-adhd-research-summary",
+      "title": "Gifted Children with ADHD: Research Summary",
+      "type": "reading",
+      "domain": "psychology",
+      "tags": [
+        "adhd",
+        "giftedness",
+        "research",
+        "clinical-psychology",
+        "child-psychology"
+      ],
+      "updated": "2026-07-19",
+      "url": "/readings/gifted-children-adhd-research-summary/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    }
+  ],
+  "edges": [],
+  "metadata": {
+    "totalNodes": 2,
+    "totalEdges": 0,
+    "generatedAt": "2026-07-19T15:23:00.237Z"
+  }
+}
