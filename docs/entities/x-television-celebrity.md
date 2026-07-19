@@ -3,9 +3,12 @@ title: X先生 (Mr. X) - Television Celebrity
 created: 2026-07-19
 updated: 2026-07-19
 type: entity
-subtype: person
+domain: psychology
 tags: [celebrity, television-personality, blackmail-victim, hong-kong, dangerous-person-2-0]
-sources: [raw/transcripts/dangerous-person-2-0/rrpvJHr5g64--EP147--他以為只是一夜風流--誰知是精心布局香港史上最轟動名人勒索案著名電視男藝人X先生慘遭.md]
+confidence: medium
+status: active
+reviewed: 2026-07-19
+sources: [raw/videos/dangerous-person-2-0/]
 ---
 
 # X先生 (Mr. X) - Television Celebrity
@@ -295,3 +298,9 @@ This entity provides detailed information about X先生 as a significant figure 
 - **Legal Protections**: Legal frameworks for victim protection
 
 The entity demonstrates how celebrity status creates unique vulnerabilities and how the legal system can respond to protect individuals while balancing public interest and privacy rights.
+
+## Related Pages
+
+- [[celebrity-privacy-media-ethics]] — Privacy and media ethics
+- [[criminal-psychology-behavior-patterns]] — Criminal psychology
+- [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research

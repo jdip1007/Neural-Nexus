@@ -1,8 +1,14 @@
 ---
 title: Sample Preparation
+created: 2026-07-19
+updated: 2026-07-19
+type: concept
+domain: biotech
 tags: [laboratory-technique, molecular-biology, biochemistry, quality-control]
-category: concept
-date: 2026-07-19
+sources: []
+confidence: medium
+status: active
+reviewed: 2026-07-19
 ---
 
 # Sample Preparation
@@ -99,9 +105,9 @@ Sample preparation involves several key stages:
 - [dna-extraction](concepts/dna-extraction.md) — Specific sample preparation technique for isolating DNA
 - [pcr](concepts/pcr.md) — Requires properly prepared DNA samples for amplification
 - [molecular-biology](concepts/molecular-biology.md) — Broader field that relies on sample preparation
-- [[laboratory-techniques]] — General category of laboratory procedures
-- [[quality-control]] — Ensuring sample preparation meets standards
-- [[analytical-chemistry]] — Field that depends on proper sample preparation
+- [[sample-preparation]] — General category of laboratory procedures
+- [[sample-preparation]] — Ensuring sample preparation meets standards
+- [[sample-preparation]] — Field that depends on proper sample preparation
 
 ## History
 - **Ancient Times**: Basic sample preparation for simple analyses

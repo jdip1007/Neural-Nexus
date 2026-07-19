@@ -113,3 +113,9 @@ Based on Rainford's current work, future research may focus on:
 - **Research IT Services**: University of York IT Services
 - **Publication**: Nature Communications article via DOI
 - **Collaboration Network**: International research network in computational biology and knowledge management
+
+## Related Pages
+
+- [[knowledge-preservation]] — Knowledge preservation concept
+- [[reproducibility-crisis]] — Reproducibility in science
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — Source reading

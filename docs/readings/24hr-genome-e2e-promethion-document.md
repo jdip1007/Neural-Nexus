@@ -84,10 +84,10 @@ The PromethION represents Oxford Nanopore Technologies' high-throughput sequenci
 ## Concepts Referenced
 
 - [nanopore-sequencing](concepts/nanopore-sequencing.md) - Core sequencing technology
-- [[long-read-sequencing]] - Key advantage over short-read methods
-- [[dna-sequencing]] - Broader field of application
+- [[nanopore-sequencing]] - Key advantage over short-read methods
+- [[nanopore-sequencing]] - Broader field of application
 - [genomics](concepts/genomics.md) - Primary research application
-- [[biotechnology]] - Implementation context
+- [[molecular-biology]] - Implementation context
 
 ## My Takeaways
 
@@ -99,6 +99,6 @@ The PromethION represents Oxford Nanopore Technologies' high-throughput sequenci
 
 ## Related Readings
 
-- [[nanopore-sequencing-technology]]
-- [[genome-assembly-methods]]
+- [[nanopore-sequencing]]
+- [[nanopore-sequencing]]
 - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)

@@ -91,9 +91,9 @@ This method is essential for:
 
 - [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
-- [[biotechnology]] - Broader context
-- [[neuroscience]] - Specialized research domain
-- [[tissue-preparation]] - Essential precursor step
+- [[molecular-biology]] - Broader context
+- [[molecular-biology]] - Specialized research domain
+- [[tissue-specific-dna-extraction]] - Essential precursor step
 
 ## My Takeaways
 

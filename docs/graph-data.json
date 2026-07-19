@@ -15,11 +15,29 @@
       ],
       "updated": "2026-07-19",
       "url": "/concepts/adaptive-sampling/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 1,
+      "outboundLinks": 2
     },
     {
       "id": 1,
+      "slug": "concepts/celebrity-privacy-media-ethics",
+      "title": "Celebrity Privacy and Media Ethics",
+      "type": "concept",
+      "domain": "psychology",
+      "tags": [
+        "media-ethics",
+        "celebrity-privacy",
+        "blackmail",
+        "hong-kong",
+        "dangerous-person-2-0"
+      ],
+      "updated": "2026-07-19",
+      "url": "/concepts/celebrity-privacy-media-ethics/",
+      "inboundLinks": 3,
+      "outboundLinks": 4
+    },
+    {
+      "id": 2,
       "slug": "concepts/cell-line-culture",
       "title": "Cell Line Culture",
       "type": "concept",
@@ -32,28 +50,103 @@
       ],
       "updated": "2026-07-19",
       "url": "/concepts/cell-line-culture/",
-      "inboundLinks": 1,
-      "outboundLinks": 0
+      "inboundLinks": 3,
+      "outboundLinks": 2
     },
     {
-      "id": 2,
+      "id": 3,
       "slug": "concepts/conservation-biology",
       "title": "Conservation Biology",
-      "type": "unknown",
-      "domain": "general",
+      "type": "concept",
+      "domain": "biotech",
       "tags": [
         "biology",
         "ecology",
         "environmental-science",
         "biodiversity"
       ],
-      "updated": "1970-01-01",
+      "updated": "2026-07-19",
       "url": "/concepts/conservation-biology/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 2,
+      "outboundLinks": 1
     },
     {
-      "id": 3,
+      "id": 4,
+      "slug": "concepts/criminal-psychology-behavior-patterns",
+      "title": "Criminal Psychology and Behavior Patterns",
+      "type": "concept",
+      "domain": "psychology",
+      "tags": [
+        "psychology",
+        "criminal-behavior",
+        "forensic-psychology",
+        "hong-kong",
+        "dangerous-person-2-0"
+      ],
+      "updated": "2026-07-19",
+      "url": "/concepts/criminal-psychology-behavior-patterns/",
+      "inboundLinks": 6,
+      "outboundLinks": 4
+    },
+    {
+      "id": 5,
+      "slug": "concepts/dangerous-person-2-0-research-overview",
+      "title": "DangerousPerson2.0 Channel Research Overview",
+      "type": "concept",
+      "domain": "general",
+      "tags": [
+        "research",
+        "hong-kong",
+        "legal-cases",
+        "crime-investigation",
+        "dangerous-person-2.0",
+        "youtube-research"
+      ],
+      "updated": "2026-07-19",
+      "url": "/concepts/dangerous-person-2-0-research-overview/",
+      "inboundLinks": 5,
+      "outboundLinks": 3
+    },
+    {
+      "id": 6,
+      "slug": "concepts/dangerous-person-2-0-research-project",
+      "title": "DangerousPerson2.0 Channel Research Project",
+      "type": "concept",
+      "domain": "general",
+      "tags": [
+        "research-methodology",
+        "hong-kong",
+        "legal-cases",
+        "crime-investigation",
+        "dangerous-person-2-0",
+        "youtube-research"
+      ],
+      "updated": "2026-07-19",
+      "url": "/concepts/dangerous-person-2-0-research-project/",
+      "inboundLinks": 1,
+      "outboundLinks": 4
+    },
+    {
+      "id": 7,
+      "slug": "concepts/dna-evidence-hong-kong-legal-system",
+      "title": "DNA Evidence in Hong Kong Legal System",
+      "type": "concept",
+      "domain": "psychology",
+      "tags": [
+        "legal-science",
+        "forensic-science",
+        "hong-kong",
+        "dna-evidence",
+        "criminal-justice",
+        "dangerous-person-2-0"
+      ],
+      "updated": "2026-07-19",
+      "url": "/concepts/dna-evidence-hong-kong-legal-system/",
+      "inboundLinks": 5,
+      "outboundLinks": 4
+    },
+    {
+      "id": 8,
       "slug": "concepts/dna-extraction-methodologies",
       "title": "DNA Extraction Methodologies",
       "type": "concept",
@@ -67,11 +160,11 @@
       ],
       "updated": "2026-07-19",
       "url": "/concepts/dna-extraction-methodologies/",
-      "inboundLinks": 1,
+      "inboundLinks": 2,
       "outboundLinks": 5
     },
     {
-      "id": 4,
+      "id": 9,
       "slug": "concepts/dna-extraction",
       "title": "DNA Extraction",
       "type": "concept",
@@ -84,28 +177,28 @@
       ],
       "updated": "2026-07-19",
       "url": "/concepts/dna-extraction/",
-      "inboundLinks": 1,
+      "inboundLinks": 5,
       "outboundLinks": 9
     },
     {
-      "id": 5,
+      "id": 10,
       "slug": "concepts/ecology",
       "title": "Ecology",
-      "type": "unknown",
-      "domain": "general",
+      "type": "concept",
+      "domain": "biotech",
       "tags": [
         "biology",
         "environmental-science",
         "biodiversity",
         "ecosystems"
       ],
-      "updated": "1970-01-01",
+      "updated": "2026-07-19",
       "url": "/concepts/ecology/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 1,
+      "outboundLinks": 2
     },
     {
-      "id": 6,
+      "id": 11,
       "slug": "concepts/environmental-dna-analysis",
       "title": "Environmental DNA Analysis",
       "type": "concept",
@@ -119,45 +212,45 @@
       ],
       "updated": "2026-07-19",
       "url": "/concepts/environmental-dna-analysis/",
-      "inboundLinks": 2,
-      "outboundLinks": 0
+      "inboundLinks": 3,
+      "outboundLinks": 3
     },
     {
-      "id": 7,
+      "id": 12,
       "slug": "concepts/environmental-monitoring",
       "title": "Environmental Monitoring",
-      "type": "unknown",
-      "domain": "general",
+      "type": "concept",
+      "domain": "biotech",
       "tags": [
         "environmental-science",
         "ecology",
         "conservation",
         "sustainability"
       ],
-      "updated": "1970-01-01",
+      "updated": "2026-07-19",
       "url": "/concepts/environmental-monitoring/",
-      "inboundLinks": 0,
+      "inboundLinks": 2,
       "outboundLinks": 0
     },
     {
-      "id": 8,
+      "id": 13,
       "slug": "concepts/genomics",
       "title": "Genomics",
-      "type": "unknown",
-      "domain": "general",
+      "type": "concept",
+      "domain": "biotech",
       "tags": [
         "molecular-biology",
         "genetics",
         "bioinformatics",
         "biotechnology"
       ],
-      "updated": "1970-01-01",
+      "updated": "2026-07-19",
       "url": "/concepts/genomics/",
-      "inboundLinks": 1,
+      "inboundLinks": 6,
       "outboundLinks": 0
     },
     {
-      "id": 9,
+      "id": 14,
       "slug": "concepts/knowledge-preservation",
       "title": "Knowledge Preservation",
       "type": "concept",
@@ -170,28 +263,28 @@
       ],
       "updated": "2026-07-18",
       "url": "/concepts/knowledge-preservation/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 5,
+      "outboundLinks": 3
     },
     {
-      "id": 10,
+      "id": 15,
       "slug": "concepts/molecular-biology",
       "title": "Molecular Biology",
-      "type": "unknown",
-      "domain": "general",
+      "type": "concept",
+      "domain": "biotech",
       "tags": [
         "biology",
         "genetics",
         "biochemistry",
         "biotechnology"
       ],
-      "updated": "1970-01-01",
+      "updated": "2026-07-19",
       "url": "/concepts/molecular-biology/",
-      "inboundLinks": 1,
-      "outboundLinks": 0
+      "inboundLinks": 14,
+      "outboundLinks": 2
     },
     {
-      "id": 11,
+      "id": 16,
       "slug": "concepts/nanopore-sequencing",
       "title": "Nanopore Sequencing",
       "type": "concept",
@@ -205,11 +298,11 @@
       ],
       "updated": "2026-07-19",
       "url": "/concepts/nanopore-sequencing/",
-      "inboundLinks": 2,
-      "outboundLinks": 0
+      "inboundLinks": 6,
+      "outboundLinks": 1
     },
     {
-      "id": 12,
+      "id": 17,
       "slug": "concepts/neural-nexus",
       "title": "Neural Nexus",
       "type": "concept",
@@ -221,28 +314,28 @@
       ],
       "updated": "2026-07-18",
       "url": "/concepts/neural-nexus/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 1,
+      "outboundLinks": 2
     },
     {
-      "id": 13,
+      "id": 18,
       "slug": "concepts/pcr",
       "title": "PCR (Polymerase Chain Reaction)",
-      "type": "unknown",
-      "domain": "general",
+      "type": "concept",
+      "domain": "biotech",
       "tags": [
         "molecular-biology",
         "genomics",
         "laboratory-technique",
         "biotechnology"
       ],
-      "updated": "1970-01-01",
+      "updated": "2026-07-19",
       "url": "/concepts/pcr/",
-      "inboundLinks": 2,
-      "outboundLinks": 0
+      "inboundLinks": 3,
+      "outboundLinks": 4
     },
     {
-      "id": 14,
+      "id": 19,
       "slug": "concepts/reproducibility-crisis",
       "title": "Reproducibility Crisis",
       "type": "concept",
@@ -255,28 +348,28 @@
       ],
       "updated": "2026-07-18",
       "url": "/concepts/reproducibility-crisis/",
-      "inboundLinks": 1,
-      "outboundLinks": 0
+      "inboundLinks": 4,
+      "outboundLinks": 2
     },
     {
-      "id": 15,
+      "id": 20,
       "slug": "concepts/sample-preparation",
       "title": "Sample Preparation",
-      "type": "unknown",
-      "domain": "general",
+      "type": "concept",
+      "domain": "biotech",
       "tags": [
         "laboratory-technique",
         "molecular-biology",
         "biochemistry",
         "quality-control"
       ],
-      "updated": "1970-01-01",
+      "updated": "2026-07-19",
       "url": "/concepts/sample-preparation/",
-      "inboundLinks": 1,
+      "inboundLinks": 2,
       "outboundLinks": 0
     },
     {
-      "id": 16,
+      "id": 21,
       "slug": "concepts/tissue-specific-dna-extraction",
       "title": "Tissue-Specific DNA Extraction",
       "type": "concept",
@@ -290,11 +383,29 @@
       ],
       "updated": "2026-07-19",
       "url": "/concepts/tissue-specific-dna-extraction/",
-      "inboundLinks": 2,
-      "outboundLinks": 0
+      "inboundLinks": 4,
+      "outboundLinks": 3
     },
     {
-      "id": 17,
+      "id": 22,
+      "slug": "entities/lam-kwok-wai-tuen-mun-rapist",
+      "title": "Lam Kwok Wai (林國偉) - Tuen Mun Rapist",
+      "type": "entity",
+      "domain": "psychology",
+      "tags": [
+        "criminal",
+        "serial-offender",
+        "hong-kong",
+        "dna-evidence",
+        "dangerous-person-2-0"
+      ],
+      "updated": "2026-07-19",
+      "url": "/entities/lam-kwok-wai-tuen-mun-rapist/",
+      "inboundLinks": 3,
+      "outboundLinks": 3
+    },
+    {
+      "id": 23,
       "slug": "entities/penn-rainford",
       "title": "Penn Rainford",
       "type": "entity",
@@ -307,46 +418,29 @@
       ],
       "updated": "2026-07-18",
       "url": "/entities/penn-rainford/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 2,
+      "outboundLinks": 3
     },
     {
-      "id": 18,
-      "slug": "findings/centrifuge-layer-extraction-bacterial-dna",
-      "title": "Centrifuge Layer Extraction for Bacterial DNA from Blood Culture",
-      "type": "finding",
-      "domain": "biotech",
+      "id": 24,
+      "slug": "entities/x-television-celebrity",
+      "title": "X先生 (Mr. X) - Television Celebrity",
+      "type": "entity",
+      "domain": "psychology",
       "tags": [
-        "dna-extraction",
-        "bacterial-genetics",
-        "blood-culture",
-        "molecular-diagnostic",
-        "laboratory-technique"
+        "celebrity",
+        "television-personality",
+        "blackmail-victim",
+        "hong-kong",
+        "dangerous-person-2-0"
       ],
       "updated": "2026-07-19",
-      "url": "/findings/centrifuge-layer-extraction-bacterial-dna/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "url": "/entities/x-television-celebrity/",
+      "inboundLinks": 1,
+      "outboundLinks": 3
     },
     {
-      "id": 19,
-      "slug": "findings/knowledge-preservation-ai-integration-insights",
-      "title": "Knowledge Preservation AI Integration Insights",
-      "type": "finding",
-      "domain": "ai, research",
-      "tags": [
-        "ai",
-        "knowledge-management",
-        "automation",
-        "research-tools"
-      ],
-      "updated": "2026-07-18",
-      "url": "/findings/knowledge-preservation-ai-integration-insights/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
-    },
-    {
-      "id": 20,
+      "id": 25,
       "slug": "readings/24hr-genome-e2e-promethion-document",
       "title": "24-Hour Genome End-to-End Document - PromethION",
       "type": "reading",
@@ -361,10 +455,10 @@
       "updated": "2026-07-19",
       "url": "/readings/24hr-genome-e2e-promethion-document/",
       "inboundLinks": 0,
-      "outboundLinks": 0
+      "outboundLinks": 2
     },
     {
-      "id": 21,
+      "id": 26,
       "slug": "readings/adaptive-sampling-document",
       "title": "Adaptive Sampling Document",
       "type": "reading",
@@ -379,10 +473,10 @@
       "updated": "2026-07-19",
       "url": "/readings/adaptive-sampling-document/",
       "inboundLinks": 0,
-      "outboundLinks": 0
+      "outboundLinks": 4
     },
     {
-      "id": 22,
+      "id": 27,
       "slug": "readings/agarose-plug-dna-extraction-method",
       "title": "Agarose Plug DNA Extraction Method",
       "type": "reading",
@@ -395,11 +489,11 @@
       ],
       "updated": "2026-07-19",
       "url": "/readings/agarose-plug-dna-extraction-method/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 1,
+      "outboundLinks": 2
     },
     {
-      "id": 23,
+      "id": 28,
       "slug": "readings/brain-tissue-dna-extraction-method",
       "title": "Brain Tissue DNA Extraction Method",
       "type": "reading",
@@ -413,11 +507,11 @@
       ],
       "updated": "2026-07-19",
       "url": "/readings/brain-tissue-dna-extraction-method/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 1,
+      "outboundLinks": 2
     },
     {
-      "id": 24,
+      "id": 29,
       "slug": "readings/cell-free-dna-cfdna-info-sheet",
       "title": "Cell-Free DNA (cfDNA) Information Sheet",
       "type": "reading",
@@ -432,10 +526,10 @@
       "updated": "2026-07-19",
       "url": "/readings/cell-free-dna-cfdna-info-sheet/",
       "inboundLinks": 0,
-      "outboundLinks": 0
+      "outboundLinks": 2
     },
     {
-      "id": 25,
+      "id": 30,
       "slug": "readings/cell-line-dna-pure-extraction-method",
       "title": "Cell Line DNA Pure Extraction Method",
       "type": "reading",
@@ -448,11 +542,11 @@
       ],
       "updated": "2026-07-19",
       "url": "/readings/cell-line-dna-pure-extraction-method/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 1,
+      "outboundLinks": 3
     },
     {
-      "id": 26,
+      "id": 31,
       "slug": "readings/cell-line-dna-qgn-extraction-method",
       "title": "Cell Line DNA QGN Extraction Method",
       "type": "reading",
@@ -467,10 +561,10 @@
       "updated": "2026-07-19",
       "url": "/readings/cell-line-dna-qgn-extraction-method/",
       "inboundLinks": 0,
-      "outboundLinks": 0
+      "outboundLinks": 4
     },
     {
-      "id": 27,
+      "id": 32,
       "slug": "readings/colony-pcr-dna-extraction-method",
       "title": "Colony PCR DNA Extraction Method",
       "type": "reading",
@@ -484,11 +578,11 @@
       ],
       "updated": "2026-07-19",
       "url": "/readings/colony-pcr-dna-extraction-method/",
-      "inboundLinks": 0,
-      "outboundLinks": 0
+      "inboundLinks": 1,
+      "outboundLinks": 3
     },
     {
-      "id": 28,
+      "id": 33,
       "slug": "readings/environmental-water-edna-extraction-method",
       "title": "Environmental Water eDNA Extraction Method",
       "type": "reading",
@@ -503,10 +597,10 @@
       "updated": "2026-07-19",
       "url": "/readings/environmental-water-edna-extraction-method/",
       "inboundLinks": 0,
-      "outboundLinks": 0
+      "outboundLinks": 2
     },
     {
-      "id": 29,
+      "id": 34,
       "slug": "readings/knowledge-preservation-big-science-ai-rainford-et-al-2026",
       "title": "Knowledge Preservation in the Era of Big Science and AI",
       "type": "reading",
@@ -520,11 +614,11 @@
       ],
       "updated": "2026-07-18",
       "url": "/readings/knowledge-preservation-big-science-ai-rainford-et-al-2026/",
-      "inboundLinks": 0,
-      "outboundLinks": 1
+      "inboundLinks": 1,
+      "outboundLinks": 2
     },
     {
-      "id": 30,
+      "id": 35,
       "slug": "references/setup-guide",
       "title": "Neural Nexus Setup Guide",
       "type": "reference",
@@ -541,7 +635,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 31,
+      "id": 36,
       "slug": "references/writing-guide",
       "title": "Neural Nexus Writing Guide",
       "type": "reference",
@@ -560,24 +654,44 @@
   ],
   "edges": [
     {
-      "source": 3,
-      "target": 4
+      "source": 0,
+      "target": 13
     },
     {
-      "source": 3,
-      "target": 11
-    },
-    {
-      "source": 3,
+      "source": 0,
       "target": 16
     },
     {
-      "source": 3,
-      "target": 6
+      "source": 1,
+      "target": 4
+    },
+    {
+      "source": 1,
+      "target": 7
+    },
+    {
+      "source": 1,
+      "target": 5
+    },
+    {
+      "source": 1,
+      "target": 24
+    },
+    {
+      "source": 2,
+      "target": 15
+    },
+    {
+      "source": 2,
+      "target": 21
     },
     {
       "source": 3,
-      "target": 13
+      "target": 12
+    },
+    {
+      "source": 4,
+      "target": 7
     },
     {
       "source": 4,
@@ -585,44 +699,344 @@
     },
     {
       "source": 4,
-      "target": 13
+      "target": 22
     },
     {
       "source": 4,
-      "target": 8
+      "target": 5
     },
     {
-      "source": 4,
-      "target": 10
+      "source": 5,
+      "target": 7
     },
     {
-      "source": 4,
-      "target": 15
+      "source": 5,
+      "target": 4
     },
     {
-      "source": 4,
-      "target": 3
+      "source": 5,
+      "target": 14
     },
     {
-      "source": 4,
+      "source": 6,
+      "target": 5
+    },
+    {
+      "source": 6,
+      "target": 7
+    },
+    {
+      "source": 6,
+      "target": 4
+    },
+    {
+      "source": 6,
+      "target": 22
+    },
+    {
+      "source": 7,
+      "target": 4
+    },
+    {
+      "source": 7,
+      "target": 22
+    },
+    {
+      "source": 7,
+      "target": 5
+    },
+    {
+      "source": 7,
+      "target": 1
+    },
+    {
+      "source": 8,
+      "target": 9
+    },
+    {
+      "source": 8,
       "target": 16
     },
     {
-      "source": 4,
+      "source": 8,
+      "target": 21
+    },
+    {
+      "source": 8,
       "target": 11
     },
     {
-      "source": 4,
+      "source": 8,
+      "target": 18
+    },
+    {
+      "source": 9,
+      "target": 2
+    },
+    {
+      "source": 9,
+      "target": 18
+    },
+    {
+      "source": 9,
+      "target": 13
+    },
+    {
+      "source": 9,
+      "target": 15
+    },
+    {
+      "source": 9,
+      "target": 20
+    },
+    {
+      "source": 9,
+      "target": 8
+    },
+    {
+      "source": 9,
+      "target": 21
+    },
+    {
+      "source": 9,
+      "target": 16
+    },
+    {
+      "source": 9,
+      "target": 11
+    },
+    {
+      "source": 10,
+      "target": 3
+    },
+    {
+      "source": 10,
+      "target": 12
+    },
+    {
+      "source": 11,
+      "target": 9
+    },
+    {
+      "source": 11,
+      "target": 10
+    },
+    {
+      "source": 11,
+      "target": 3
+    },
+    {
+      "source": 14,
+      "target": 17
+    },
+    {
+      "source": 14,
+      "target": 19
+    },
+    {
+      "source": 14,
+      "target": 23
+    },
+    {
+      "source": 15,
+      "target": 13
+    },
+    {
+      "source": 15,
+      "target": 2
+    },
+    {
+      "source": 16,
+      "target": 15
+    },
+    {
+      "source": 17,
+      "target": 14
+    },
+    {
+      "source": 17,
+      "target": 19
+    },
+    {
+      "source": 18,
+      "target": 9
+    },
+    {
+      "source": 18,
+      "target": 16
+    },
+    {
+      "source": 18,
+      "target": 15
+    },
+    {
+      "source": 18,
+      "target": 32
+    },
+    {
+      "source": 19,
+      "target": 14
+    },
+    {
+      "source": 19,
+      "target": 23
+    },
+    {
+      "source": 21,
+      "target": 15
+    },
+    {
+      "source": 21,
+      "target": 9
+    },
+    {
+      "source": 21,
+      "target": 20
+    },
+    {
+      "source": 22,
+      "target": 7
+    },
+    {
+      "source": 22,
+      "target": 4
+    },
+    {
+      "source": 22,
       "target": 6
     },
     {
+      "source": 23,
+      "target": 14
+    },
+    {
+      "source": 23,
+      "target": 19
+    },
+    {
+      "source": 23,
+      "target": 34
+    },
+    {
+      "source": 24,
+      "target": 1
+    },
+    {
+      "source": 24,
+      "target": 4
+    },
+    {
+      "source": 24,
+      "target": 5
+    },
+    {
+      "source": 25,
+      "target": 16
+    },
+    {
+      "source": 25,
+      "target": 15
+    },
+    {
+      "source": 26,
+      "target": 13
+    },
+    {
+      "source": 26,
+      "target": 16
+    },
+    {
+      "source": 26,
+      "target": 15
+    },
+    {
+      "source": 26,
+      "target": 0
+    },
+    {
+      "source": 27,
+      "target": 15
+    },
+    {
+      "source": 27,
+      "target": 8
+    },
+    {
+      "source": 28,
+      "target": 15
+    },
+    {
+      "source": 28,
+      "target": 21
+    },
+    {
       "source": 29,
+      "target": 15
+    },
+    {
+      "source": 29,
+      "target": 13
+    },
+    {
+      "source": 30,
+      "target": 2
+    },
+    {
+      "source": 30,
+      "target": 15
+    },
+    {
+      "source": 30,
+      "target": 28
+    },
+    {
+      "source": 31,
+      "target": 15
+    },
+    {
+      "source": 31,
+      "target": 30
+    },
+    {
+      "source": 31,
+      "target": 27
+    },
+    {
+      "source": 31,
+      "target": 9
+    },
+    {
+      "source": 32,
+      "target": 15
+    },
+    {
+      "source": 32,
+      "target": 18
+    },
+    {
+      "source": 32,
+      "target": 13
+    },
+    {
+      "source": 33,
+      "target": 15
+    },
+    {
+      "source": 33,
+      "target": 11
+    },
+    {
+      "source": 34,
+      "target": 19
+    },
+    {
+      "source": 34,
       "target": 14
     }
   ],
   "metadata": {
-    "totalNodes": 32,
-    "totalEdges": 15,
-    "generatedAt": "2026-07-19T07:46:28.864Z"
+    "totalNodes": 37,
+    "totalEdges": 95,
+    "generatedAt": "2026-07-19T12:42:43.237Z"
   }
 }

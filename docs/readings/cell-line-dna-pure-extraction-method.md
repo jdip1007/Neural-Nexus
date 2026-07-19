@@ -70,9 +70,9 @@ The method specifies precise buffer formulations including:
 ## Concepts Referenced
 
 - [dna-extraction](concepts/dna-extraction.md) — Core molecular biology technique
-- [[cell-culture]] — Source material preparation
+- [[cell-line-culture]] — Source material preparation
 - [molecular-biology](concepts/molecular-biology.md) — Field of application
-- [[biotechnology]] — Broader context
+- [[molecular-biology]] — Broader context
 
 ## My Takeaways
 
@@ -85,4 +85,4 @@ The method specifies precise buffer formulations including:
 
 - [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
 - [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
-- [[brain-tissue-extraction-method]]
+- [[brain-tissue-dna-extraction-method]]

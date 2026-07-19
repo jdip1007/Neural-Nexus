@@ -1,8 +1,14 @@
 ---
 title: Ecology
+created: 2026-07-19
+updated: 2026-07-19
+type: concept
+domain: biotech
 tags: [biology, environmental-science, biodiversity, ecosystems]
-category: concept
-date: 2026-07-19
+sources: []
+confidence: medium
+status: active
+reviewed: 2026-07-19
 ---
 
 # Ecology
@@ -116,9 +122,9 @@ Ecology operates through several fundamental principles:
 - [environmental-dna-analysis](concepts/environmental-dna-analysis.md) — Uses ecological principles for species detection
 - [conservation-biology](concepts/conservation-biology.md) — Applied ecology focused on preserving biodiversity
 - [environmental-monitoring](concepts/environmental-monitoring.md) — Ecological assessment and tracking
-- [[biodiversity]] — Study of species diversity and distribution
-- [[ecosystem]] — Study of ecological systems and processes
-- [[climate-change]] — Impact on ecological systems
+- [[conservation-biology]] — Study of species diversity and distribution
+- [[ecology]] — Study of ecological systems and processes
+- [[environmental-monitoring]] — Impact on ecological systems
 
 ## History
 - **Ancient Times**: Early observations of natural relationships

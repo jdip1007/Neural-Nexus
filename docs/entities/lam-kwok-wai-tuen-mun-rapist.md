@@ -3,9 +3,12 @@ title: Lam Kwok Wai (林國偉) - Tuen Mun Rapist
 created: 2026-07-19
 updated: 2026-07-19
 type: entity
-subtype: person
+domain: psychology
 tags: [criminal, serial-offender, hong-kong, dna-evidence, dangerous-person-2-0]
-sources: [raw/transcripts/dangerous-person-2-0/Wn8nMzRUDzU-EP145屯門色魔林國偉--11次終身監禁也贖不完的罪一個悲劇童年如何變成夜歸女子夢魘香港首宗以DN.md]
+confidence: medium
+status: active
+reviewed: 2026-07-19
+sources: [raw/videos/dangerous-person-2-0/]
 ---
 
 # Lam Kwok Wai (林國偉) - Tuen Mun Rapist
@@ -249,3 +252,9 @@ This entity provides detailed information about Lam Kwok Wai as a significant fi
 - **Forensic Science**: The role of technology in solving crimes
 
 The entity demonstrates how individual criminal cases can have profound impacts on legal systems and society, providing valuable insights for understanding criminal behavior and the evolution of forensic science.
+
+## Related Pages
+
+- [[dna-evidence-hong-kong-legal-system]] — DNA evidence in Hong Kong legal system
+- [[criminal-psychology-behavior-patterns]] — Criminal psychology patterns
+- [[dangerous-person-2-0-research-project]] — Research project details

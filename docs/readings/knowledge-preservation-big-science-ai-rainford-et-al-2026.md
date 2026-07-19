@@ -94,24 +94,24 @@ Modern scientific research is losing knowledge through unpublished negative resu
 ## Entities Mentioned
 
 - [Penn-Rainford](entities/penn-rainford.md) — Lead author, University of York, Department of Computer Science
-- [[Thomas-Gorochowski]] — Corresponding author, University of Bristol, School of Biological Sciences
-- [[Annalisa-Occhipinti]] — Teesside University, School of Computing, Engineering and Digital Technologies
-- [[Bo-Wang]] — National Institute of Health, Laboratory of Pathology
-- [[Susan-Stepney]] — University of York, Department of Computer Science
-- [[Claudio-Angione]] — Teesside University
-- [[Edda-Klipp]] — Humboldt-Universität zu Berlin, Institute of Biology, Theoretical Biophysics
-- [[Claire-Grierson]] — University of Bristol, School of Biological Sciences
-- [[Sarah-Harris]] — Sheffield University, School of Mathematical and Physical Sciences
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — Corresponding author, University of Bristol, School of Biological Sciences
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — Teesside University, School of Computing, Engineering and Digital Technologies
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — National Institute of Health, Laboratory of Pathology
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — University of York, Department of Computer Science
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — Teesside University
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — Humboldt-Universität zu Berlin, Institute of Biology, Theoretical Biophysics
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — University of Bristol, School of Biological Sciences
+- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — Sheffield University, School of Mathematical and Physical Sciences
 
 ## Related Concepts
 
 - [[reproducibility-crisis]] — Crisis in scientific research where results cannot be reliably reproduced
-- [[open-science]] — Movement to make scientific research and data accessible to all
-- [[knowledge-management]] — Broader field of organizing and preserving knowledge
-- [[FAIR-principles]] — Findable, Accessible, Interoperable, Reusable data principles
-- [[BioFAIR]] — FAIR principles adapted for life sciences with metadata standards
-- [[CURE-principles]] — Correct, Unbiased, Robust, Explainable computational models
-- [[Tacit-knowledge]] — Unwritten expertise and practical know-how that's difficult to formalize
+- [[knowledge-preservation]] — Movement to make scientific research and data accessible to all
+- [[knowledge-preservation]] — Broader field of organizing and preserving knowledge
+- [[knowledge-preservation]] — Findable, Accessible, Interoperable, Reusable data principles
+- [[knowledge-preservation]] — FAIR principles adapted for life sciences with metadata standards
+- [[reproducibility-crisis]] — Correct, Unbiased, Robust, Explainable computational models
+- [[knowledge-preservation]] — Unwritten expertise and practical know-how that's difficult to formalize
 
 ## My Takeaways
 
@@ -128,6 +128,6 @@ Modern scientific research is losing knowledge through unpublished negative resu
 ## Related Readings
 
 - [reproducibility-crisis](concepts/reproducibility-crisis.md)
-- [[open-science]]
-- [[knowledge-management]]
-- [[FAIR-principles]]
+- [[knowledge-preservation]]
+- [[knowledge-preservation]]
+- [[knowledge-preservation]]

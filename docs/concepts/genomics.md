@@ -1,8 +1,14 @@
 ---
 title: Genomics
+created: 2026-07-19
+updated: 2026-07-19
+type: concept
+domain: biotech
 tags: [molecular-biology, genetics, bioinformatics, biotechnology]
-category: concept
-date: 2026-07-19
+sources: []
+confidence: medium
+status: active
+reviewed: 2026-07-19
 ---
 
 # Genomics
@@ -80,8 +86,8 @@ Genomic data analysis involves:
 - [dna-extraction](concepts/dna-extraction.md) — Essential first step in genomic sample preparation
 - [pcr](concepts/pcr.md) — Used for DNA amplification before sequencing
 - [molecular-biology](concepts/molecular-biology.md) — Broader field encompassing genomic techniques
-- [[bioinformatics]] — Computational methods for genomic data analysis
-- [[epigenetics]] — Study of heritable changes not involving DNA sequence changes
+- [[genomics]] — Computational methods for genomic data analysis
+- [[genomics]] — Study of heritable changes not involving DNA sequence changes
 
 ## History
 - **1953**: Watson and Crick discover DNA double helix structure

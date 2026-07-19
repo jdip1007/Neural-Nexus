@@ -26,15 +26,18 @@ nav:
     - Conservation Biology: concepts/conservation-biology.md
     - Environmental Monitoring: concepts/environmental-monitoring.md
     - Sample Preparation: concepts/sample-preparation.md
+    - DNA Evidence in Hong Kong Legal System: concepts/dna-evidence-hong-kong-legal-system.md
+    - Criminal Psychology and Behavior Patterns: concepts/criminal-psychology-behavior-patterns.md
+    - Celebrity Privacy and Media Ethics: concepts/celebrity-privacy-media-ethics.md
+    - DangerousPerson2.0 Research Overview: concepts/dangerous-person-2-0-research-overview.md
+    - DangerousPerson2.0 Research Project: concepts/dangerous-person-2-0-research-project.md
   - Entities:
-    - index.md: entities/index.md
+    - Overview: entities/index.md
     - Penn Rainford: entities/penn-rainford.md
-  - Findings:
-    - index.md: findings/index.md
-    - Centrifuge Layer Extraction for Bacterial DNA: findings/centrifuge-layer-extraction-bacterial-dna.md
-    - Knowledge Preservation AI Integration Insights: findings/knowledge-preservation-ai-integration-insights.md
+    - Lam Kwok Wai (林國偉): entities/lam-kwok-wai-tuen-mun-rapist.md
+    - X先生 (Mr. X): entities/x-television-celebrity.md
   - Readings:
-    - index.md: readings/index.md
+    - Overview: readings/index.md
     - Cell Line DNA Pure Extraction Method: readings/cell-line-dna-pure-extraction-method.md
     - Cell Line DNA QGN Extraction Method: readings/cell-line-dna-qgn-extraction-method.md
     - Agarose Plug DNA Extraction Method: readings/agarose-plug-dna-extraction-method.md
@@ -46,13 +49,13 @@ nav:
     - Adaptive Sampling Document: readings/adaptive-sampling-document.md
     - Knowledge Preservation in the Era of Big Science and AI: readings/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
   - References:
-    - index.md: references/index.md
+    - Overview: references/index.md
     - Setup Guide: references/setup-guide.md
     - Writing Guide: references/writing-guide.md
   - Comparisons:
-    - index.md: comparisons/index.md
+    - Overview: comparisons/index.md
   - Ideas:
-    - index.md: ideas/index.md
+    - Overview: ideas/index.md
   - Knowledge Graph: graph.md
   - Schema: SCHEMA.md
   - Extra Pages:
@@ -97,6 +100,9 @@ theme:
 
   icon:
     logo: material/brain
+
+hooks:
+  - docs/hooks/wikilinks.py
 
 plugins:
   - search:

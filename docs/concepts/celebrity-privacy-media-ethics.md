@@ -3,8 +3,12 @@ title: Celebrity Privacy and Media Ethics
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+domain: psychology
 tags: [media-ethics, celebrity-privacy, blackmail, hong-kong, dangerous-person-2-0]
-sources: [raw/transcripts/dangerous-person-2-0/rrpvJHr5g64--EP147--他以為只是一夜風流--誰知是精心布局香港史上最轟動名人勒索案著名電視男藝人X先生慘遭.md]
+confidence: medium
+status: active
+reviewed: 2026-07-19
+sources: [raw/videos/dangerous-person-2-0/]
 ---
 
 # Celebrity Privacy and Media Ethics
@@ -279,3 +283,10 @@ This concept provides a comprehensive understanding of celebrity privacy and med
 - **Criminal Justice Reform**: Systemic responses to modern crime patterns
 
 The concept demonstrates the complex interplay between privacy, media responsibility, and legal protections in the digital age, highlighting the need for balanced approaches that respect individual rights while addressing legitimate public interests.
+
+## Related Pages
+
+- [[criminal-psychology-behavior-patterns]] — Psychological factors in criminal behavior
+- [[dna-evidence-hong-kong-legal-system]] — DNA evidence in Hong Kong justice
+- [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research context
+- [[x-television-celebrity]] — X先生 celebrity profile

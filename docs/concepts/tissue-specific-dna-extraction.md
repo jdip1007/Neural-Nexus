@@ -144,7 +144,7 @@ Modern tissue-specific extraction has evolved significantly:
 - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md) - General extraction framework
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
 - [genomics](concepts/genomics.md) - Primary research domain
-- [[biotechnology]] - Implementation context
+- [[molecular-biology]] - Implementation context
 - [sample-preparation](concepts/sample-preparation.md) - Essential precursor step
 
 ## Sources
@@ -154,3 +154,8 @@ Modern tissue-specific extraction has evolved significantly:
 - ^[raw/articles/c-elegans-dna-extraction-method.md]
 - ^[raw/articles/buffy-coat-dna-extraction-method.md]
 - ^[raw/articles/animal-pore-c-dna-extraction-method.md]
+
+## Related Pages
+
+- [[dna-extraction]] — DNA extraction overview
+- [[sample-preparation]] — Sample preparation methods

@@ -1,8 +1,14 @@
 ---
 title: Molecular Biology
+created: 2026-07-19
+updated: 2026-07-19
+type: concept
+domain: biotech
 tags: [biology, genetics, biochemistry, biotechnology]
-category: concept
-date: 2026-07-19
+sources: []
+confidence: medium
+status: active
+reviewed: 2026-07-19
 ---
 
 # Molecular Biology
@@ -94,9 +100,9 @@ Molecular biology operates through several fundamental processes:
 - [genomics](concepts/genomics.md) — Study of entire genomes and their functions
 - [pcr](concepts/pcr.md) — Key technique for DNA amplification and analysis
 - [dna-extraction](concepts/dna-extraction.md) — Fundamental process for obtaining molecular samples
-- [[bioinformatics]] — Computational analysis of molecular data
-- [[cell-biology]] — Study of cellular structures and processes
-- [[genetics]] — Study of heredity and gene functions
+- [[genomics]] — Computational analysis of molecular data
+- [[cell-line-culture]] — Study of cellular structures and processes
+- [[molecular-biology]] — Study of heredity and gene functions
 
 ## History
 - **1869**: Friedrich Miescher discovers DNA

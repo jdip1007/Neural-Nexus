@@ -6,6 +6,10 @@ __pycache__/
 
 # MkDocs build output
 site/
+site-test/
+site-local/
+site-final/
+site-verify/
 
 # Obsidian workspace state (keep config, ignore runtime)
 docs/.obsidian/workspace.json

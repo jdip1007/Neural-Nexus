@@ -151,3 +151,9 @@ Modern eDNA analysis has evolved significantly:
 ## Sources
 
 - ^[raw/articles/environmental-water-edna-extraction-method.md]
+
+## Related Pages
+
+- [[dna-extraction]] — DNA extraction methods
+- [[ecology]] — Ecology concepts
+- [[conservation-biology]] — Conservation biology

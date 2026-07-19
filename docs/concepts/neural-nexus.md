@@ -46,6 +46,6 @@ Three-layer structure:
 
 ## Related
 
-- [[../SCHEMA.md]]
-- [[../graph.md]]
-- [[../index-catalog.md]]
+- [[neural-nexus|About Neural Nexus]]
+- [[knowledge-preservation|Knowledge Preservation]]
+- [[reproducibility-crisis|Reproducibility Crisis]]

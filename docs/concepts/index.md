@@ -11,12 +11,12 @@ Concepts are fundamental ideas, principles, and frameworks that form the foundat
 #### DNA Evidence in Hong Kong Legal System
 - **Focus**: Revolutionary impact of DNA evidence on Hong Kong criminal justice
 - **Key Insights**: First DNA case, forensic science advancement, legal precedents
-- **Related**: [[criminal-psychology-behavior-patterns]], [[hong-kong-legal-system]]
+- **Related**: [[criminal-psychology-behavior-patterns]], [[dna-evidence-hong-kong-legal-system]]
 
 #### Criminal Psychology and Behavior Patterns
 - **Focus**: Psychological factors in criminal behavior and development
 - **Key Insights**: Deception techniques, escalation patterns, psychological evolution
-- **Related**: [[dna-evidence-hong-kong-legal-system]], [[forensic-science]]
+- **Related**: [[dna-evidence-hong-kong-legal-system]], [[dna-evidence-hong-kong-legal-system]]
 
 #### Celebrity Privacy and Media Ethics
 - **Focus**: Privacy rights and media responsibility for public figures
@@ -34,10 +34,10 @@ Concepts are fundamental ideas, principles, and frameworks that form the foundat
 - [[dna-evidence-hong-kong-legal-system]] - DNA evidence impact on Hong Kong legal system
 - [[criminal-psychology-behavior-patterns]] - Psychological factors in criminal behavior
 - [[celebrity-privacy-media-ethics]] - Privacy rights and media ethics for celebrities
-- [[hong-kong-legal-system]] - Overview of Hong Kong's legal framework
+- [[dna-evidence-hong-kong-legal-system]] - Overview of Hong Kong's legal framework
 
 ### Science and Technology
-- [[forensic-science]] - Forensic methodologies and applications
+- [[dna-evidence-hong-kong-legal-system]] - Forensic methodologies and applications
 - [[dna-extraction]] - DNA extraction methodologies and techniques
 - [[environmental-dna-analysis]] - Environmental DNA analysis methods
 - [[nanopore-sequencing]] - Nanopore sequencing technologies

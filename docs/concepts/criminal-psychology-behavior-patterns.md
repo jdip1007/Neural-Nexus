@@ -3,8 +3,12 @@ title: Criminal Psychology and Behavior Patterns
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+domain: psychology
 tags: [psychology, criminal-behavior, forensic-psychology, hong-kong, dangerous-person-2-0]
-sources: [raw/transcripts/dangerous-person-2-0/Wn8nMzRUDzU-EP145屯門色魔林國偉--11次終身監禁也贖不完的罪一個悲劇童年如何變成夜歸女子夢魘香港首宗以DN.md, raw/transcripts/dangerous-person-2-0/8zTD5sU9bOc-EP146-最毒警嫂葵涌警察宿舍四屍滅門案警嫂勾結情夫-電牀殺丈夫一家四口陪葬第一百四十六集危險人物.md]
+confidence: medium
+status: active
+reviewed: 2026-07-19
+sources: [raw/videos/dangerous-person-2-0/]
 ---
 
 # Criminal Psychology and Behavior Patterns
@@ -247,3 +251,10 @@ This concept provides a foundation for understanding the psychological aspects o
 - **Risk Assessment**: Methods for evaluating criminal behavior and recidivism potential
 
 The concept demonstrates how psychological insights can improve understanding, prevention, and response to criminal behavior while highlighting the importance of evidence-based approaches in criminal justice.
+
+## Related Pages
+
+- [[dna-evidence-hong-kong-legal-system]] — DNA evidence in legal proceedings
+- [[celebrity-privacy-media-ethics]] — Privacy and media ethics
+- [[lam-kwok-wai-tuen-mun-rapist]] — Case study: Tuen Mun Rapist
+- [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research

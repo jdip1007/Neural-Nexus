@@ -1,8 +1,14 @@
 ---
 title: Environmental Monitoring
+created: 2026-07-19
+updated: 2026-07-19
+type: concept
+domain: biotech
 tags: [environmental-science, ecology, conservation, sustainability]
-category: concept
-date: 2026-07-19
+sources: []
+confidence: medium
+status: active
+reviewed: 2026-07-19
 ---
 
 # Environmental Monitoring
@@ -120,9 +126,9 @@ Environmental monitoring operates through a systematic process:
 - [ecology](concepts/ecology.md) — Scientific foundation for environmental monitoring
 - [conservation-biology](concepts/conservation-biology.md) — Application of monitoring to biodiversity protection
 - [environmental-dna-analysis](concepts/environmental-dna-analysis.md) — Advanced monitoring technique for species detection
-- [[sustainability]] — Long-term monitoring for sustainable development
-- [[climate-change]] — Climate monitoring and adaptation
-- [[pollution]] — Monitoring of environmental contaminants
+- [[environmental-monitoring]] — Long-term monitoring for sustainable development
+- [[environmental-monitoring]] — Climate monitoring and adaptation
+- [[environmental-monitoring]] — Monitoring of environmental contaminants
 
 ## History
 - **Early 1900s**: Beginning of systematic environmental monitoring

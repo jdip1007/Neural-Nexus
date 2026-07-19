@@ -73,8 +73,8 @@ This method is particularly valuable for:
 
 - [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
-- [[biotechnology]] - Broader context
-- [[electrophoresis]] - Downstream analytical technique
+- [[molecular-biology]] - Broader context
+- [[dna-extraction-methodologies]] - Downstream analytical technique
 
 ## My Takeaways
 

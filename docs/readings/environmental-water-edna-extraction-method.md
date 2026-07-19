@@ -100,8 +100,8 @@ This method enables revolutionary environmental monitoring:
 
 - [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
-- [[biotechnology]] - Broader context
-- [[environmental-science]] - Implementation domain
+- [[molecular-biology]] - Broader context
+- [[environmental-dna-analysis]] - Implementation domain
 - [ecology](concepts/ecology.md) - Scientific foundation
 
 ## My Takeaways

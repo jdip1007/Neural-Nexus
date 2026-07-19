@@ -3,8 +3,12 @@ title: DangerousPerson2.0 Channel Research Overview
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+domain: general
 tags: [research, hong-kong, legal-cases, crime-investigation, dangerous-person-2.0, youtube-research]
-sources: [raw/transcripts/dangerous-person-2-0/]
+confidence: medium
+status: active
+reviewed: 2026-07-19
+sources: [raw/videos/dangerous-person-2-0/]
 ---
 
 # DangerousPerson2.0 Channel Research Overview
@@ -174,8 +178,8 @@ This research project demonstrates the successful integration of external conten
 The project serves as a model for future research initiatives and demonstrates the flexibility and power of the Neural Nexus platform for managing complex research projects.
 
 ## Related Topics
-- [[hong-kong-legal-system]] - Overview of Hong Kong's legal framework
-- [[criminal-justice-reform]] - Issues in Hong Kong's justice system
-- [[forensic-science]] - Modern forensic investigation techniques
-- [[crime-prevention-strategies]] - Methods for reducing crime in Hong Kong
-- [[knowledge-management]] - Best practices for knowledge organization
+- [[dna-evidence-hong-kong-legal-system]] - Overview of Hong Kong's legal framework
+- [[criminal-psychology-behavior-patterns]] - Issues in Hong Kong's justice system
+- [[dna-evidence-hong-kong-legal-system]] - Modern forensic investigation techniques
+- [[criminal-psychology-behavior-patterns]] - Methods for reducing crime in Hong Kong
+- [[knowledge-preservation]] - Best practices for knowledge organization

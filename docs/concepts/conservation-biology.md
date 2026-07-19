@@ -1,8 +1,14 @@
 ---
 title: Conservation Biology
+created: 2026-07-19
+updated: 2026-07-19
+type: concept
+domain: biotech
 tags: [biology, ecology, environmental-science, biodiversity]
-category: concept
-date: 2026-07-19
+sources: []
+confidence: medium
+status: active
+reviewed: 2026-07-19
 ---
 
 # Conservation Biology
@@ -120,10 +126,10 @@ Conservation biology operates through several key approaches:
 ## Related Concepts
 - [ecology](concepts/ecology.md) — Scientific foundation for conservation biology
 - [environmental-dna-analysis](concepts/environmental-dna-analysis.md) — Tool for monitoring biodiversity
-- [[biodiversity]] — Central focus of conservation biology
+- [[conservation-biology]] — Central focus of conservation biology
 - [environmental-monitoring](concepts/environmental-monitoring.md) — Assessment of conservation effectiveness
-- [[sustainability]] — Long-term conservation goals
-- [[climate-change]] — Major threat addressed by conservation biology
+- [[environmental-monitoring]] — Long-term conservation goals
+- [[environmental-monitoring]] — Major threat addressed by conservation biology
 
 ## History
 - **1800s**: Early conservation movements and protected areas

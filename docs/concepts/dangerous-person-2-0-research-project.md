@@ -3,8 +3,12 @@ title: DangerousPerson2.0 Channel Research Project
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+domain: general
 tags: [research-methodology, hong-kong, legal-cases, crime-investigation, dangerous-person-2-0, youtube-research]
-sources: [raw/transcripts/dangerous-person-2-0/Wn8nMzRUDzU-EP145屯門色魔林國偉--11次終身監禁也贖不完的罪一個悲劇童年如何變成夜歸女子夢魘香港首宗以DN.md, raw/transcripts/dangerous-person-2-0/8zTD5sU9bOc-EP146-最毒警嫂葵涌警察宿舍四屍滅門案警嫂勾結情夫-電牀殺丈夫一家四口陪葬第一百四十六集危險人物.md, raw/transcripts/dangerous-person-2-0/rrpvJHr5g64--EP147--他以為只是一夜風流--誰知是精心布局香港史上最轟動名人勒索案著名電視男藝人X先生慘遭.md]
+confidence: medium
+status: active
+reviewed: 2026-07-19
+sources: [raw/videos/dangerous-person-2-0/]
 ---
 
 # DangerousPerson2.0 Channel Research Project
@@ -324,3 +328,10 @@ This research project demonstrates successful integration of external YouTube co
 - Media ethics and privacy considerations
 
 The project demonstrates how external content can be systematically processed and integrated into a structured knowledge management system, providing valuable insights for researchers, educators, and legal professionals while maintaining high standards of accuracy and quality.
+
+## Related Pages
+
+- [[dangerous-person-2-0-research-overview]] — Research overview
+- [[dna-evidence-hong-kong-legal-system]] — DNA evidence in Hong Kong
+- [[criminal-psychology-behavior-patterns]] — Criminal psychology patterns
+- [[lam-kwok-wai-tuen-mun-rapist]] — Lam Kwok Wai case

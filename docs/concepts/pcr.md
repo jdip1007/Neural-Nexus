@@ -1,8 +1,14 @@
 ---
 title: PCR (Polymerase Chain Reaction)
+created: 2026-07-19
+updated: 2026-07-19
+type: concept
+domain: biotech
 tags: [molecular-biology, genomics, laboratory-technique, biotechnology]
-category: concept
-date: 2026-07-19
+sources: []
+confidence: medium
+status: active
+reviewed: 2026-07-19
 ---
 
 # PCR (Polymerase Chain Reaction)
@@ -105,5 +111,10 @@ PCR is a cornerstone technique in modern molecular biology, enabling:
 ## Sources
 - ^[raw/articles/cell-line-dna-pure-extraction-method.md]
 
----
+## Related Pages
+
+- [[dna-extraction]] — DNA extraction fundamentals
+- [[nanopore-sequencing]] — Sequencing technology
+- [[molecular-biology]] — Molecular biology concepts
+- [[colony-pcr-dna-extraction-method]] — Colony PCR method
 *Last updated: July 19, 2026*

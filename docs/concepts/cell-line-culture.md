@@ -109,9 +109,9 @@ Modern cell line culture has evolved significantly:
 
 - [dna-extraction](concepts/dna-extraction.md) — Downstream application from cultured cells
 - [molecular-biology](concepts/molecular-biology.md) — Field that relies on cell culture techniques
-- [[biotechnology]] — Broader application domain
-- [[tissue-engineering]] — Advanced applications of cell culture
-- [[regenerative-medicine]] — Clinical applications of cultured cells
+- [[molecular-biology]] — Broader application domain
+- [[tissue-specific-dna-extraction]] — Advanced applications of cell culture
+- [[tissue-specific-dna-extraction]] — Clinical applications of cultured cells
 
 ## Sources
 

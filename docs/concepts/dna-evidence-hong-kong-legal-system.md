@@ -3,8 +3,12 @@ title: DNA Evidence in Hong Kong Legal System
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
+domain: psychology
 tags: [legal-science, forensic-science, hong-kong, dna-evidence, criminal-justice, dangerous-person-2-0]
-sources: [raw/transcripts/dangerous-person-2-0/Wn8nMzRUDzU-EP145屯門色魔林國偉--11次終身監禁也贖不完的罪一個悲劇童年如何變成夜歸女子夢魘香港首宗以DN.md]
+confidence: medium
+status: active
+reviewed: 2026-07-19
+sources: [raw/videos/dangerous-person-2-0/]
 ---
 
 # DNA Evidence in Hong Kong Legal System
@@ -261,3 +265,10 @@ This concept provides foundational knowledge for understanding how forensic scie
 - **Case Analysis**: Framework for evaluating DNA evidence in specific cases
 
 The concept demonstrates how technological innovation can drive legal evolution and improve justice outcomes while highlighting the importance of maintaining rigorous scientific and legal standards.
+
+## Related Pages
+
+- [[criminal-psychology-behavior-patterns]] — Criminal psychology context
+- [[lam-kwok-wai-tuen-mun-rapist]] — Tuen Mun Rapist case (Hong Kong's first DNA case)
+- [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research
+- [[celebrity-privacy-media-ethics]] — Privacy and media ethics

@@ -65,11 +65,19 @@ sha256: <hex digest of body content>
 
 ### Topics
 
-**AI/ML**: architecture, training, inference, alignment, safety, evaluation, fine-tuning, automation, bioinformatics, computational-biology, sequencing, data-science
-**Biotech**: sequencing, crispr, protein-design, drug-discovery, reproducibility, dna-extraction, molecular-biology, laboratory-technique, cell-biology, tissue-culture, genomics, dna-sequencing, long-read-sequencing, nanopore-sequencing, tissue-preparation, liquid-biopsy, diagnostics, microbiology, ecology, environmental-science, neuroscience, biotechnology
-**Finance**: markets, portfolio, analysis, algorithmic-trading
-**DevOps**: kubernetes, ci-cd, observability, site-reliability
-**Psychology**: learning, decision-making, therapy, cognitive-bias
+- architecture, training, inference, alignment, safety, evaluation, fine-tuning, automation
+- bioinformatics, computational-biology, sequencing, data-science
+- crispr, protein-design, drug-discovery, reproducibility, dna-extraction, molecular-biology, laboratory-technique
+- cell-biology, tissue-culture, genomics, dna-sequencing, long-read-sequencing, nanopore-sequencing, tissue-preparation
+- liquid-biopsy, diagnostics, microbiology, ecology, environmental-science, biotechnology, biology, biochemistry
+- genetics, biodiversity, conservation, ecosystems, cell-line, pcr, quality-control
+- markets, portfolio, analysis, algorithmic-trading
+- kubernetes, ci-cd, observability, site-reliability
+- learning, decision-making, therapy, cognitive-bias, criminal-behavior, forensic-psychology
+- hong-kong, media-ethics, celebrity-privacy, blackmail, legal-science, forensic-science, dna-evidence
+- criminal-justice, crime-investigation, legal-cases, dangerous-person-2-0, dangerous-person-2.0
+- celebrity, television-personality, blackmail-victim, serial-offender, criminal
+- research-methodology, youtube-research, qgn-method
 
 ### Meta
 - research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility
