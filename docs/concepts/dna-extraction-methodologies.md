@@ -113,7 +113,11 @@ Modern DNA extraction methodologies have evolved significantly:
 - [molecular-biology](concepts/molecular-biology.md) — Field that relies on DNA extraction techniques
 - [genomics](concepts/genomics.md) — Application domain requiring high-quality DNA
 - [sample-preparation](concepts/sample-preparation.md) — Essential precursor to extraction
-- [[laboratory-automation]] — Modern implementation of extraction workflows
+- [[dna-extraction]] — Fundamental technique being described
+- [[nanopore-sequencing]] — Downstream application requiring quality DNA
+- [[tissue-specific-dna-extraction]] — Specialized extraction methodology
+- [[environmental-dna-analysis]] — Application to environmental samples
+- [[pcr]] — Common downstream application
 
 ## Sources
 

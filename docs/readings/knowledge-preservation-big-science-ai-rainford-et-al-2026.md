@@ -103,15 +103,15 @@ Modern scientific research is losing knowledge through unpublished negative resu
 - [[Claire-Grierson]] — University of Bristol, School of Biological Sciences
 - [[Sarah-Harris]] — Sheffield University, School of Mathematical and Physical Sciences
 
-## Concepts Referenced
+## Related Concepts
 
+- [[reproducibility-crisis]] — Crisis in scientific research where results cannot be reliably reproduced
+- [[open-science]] — Movement to make scientific research and data accessible to all
+- [[knowledge-management]] — Broader field of organizing and preserving knowledge
 - [[FAIR-principles]] — Findable, Accessible, Interoperable, Reusable data principles
 - [[BioFAIR]] — FAIR principles adapted for life sciences with metadata standards
 - [[CURE-principles]] — Correct, Unbiased, Robust, Explainable computational models
-- [Reproducibility-crisis](concepts/reproducibility-crisis.md) — Crisis in scientific research where results cannot be reliably reproduced
 - [[Tacit-knowledge]] — Unwritten expertise and practical know-how that's difficult to formalize
-- [[Open-science]] — Movement to make scientific research and data accessible to all
-- [Knowledge-preservation](concepts/knowledge-preservation.md) — Strategies for maintaining and accessing scientific knowledge over time
 
 ## My Takeaways
 

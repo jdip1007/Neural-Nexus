@@ -94,11 +94,15 @@ Modern DNA extraction has evolved significantly:
 
 ## Related Concepts
 
-- [[cell-culture]] — Source material preparation for DNA extraction
-- [pcr](concepts/pcr.md) — Downstream application requiring quality DNA
-- [genomics](concepts/genomics.md) — Field that relies on DNA extraction techniques
-- [molecular-biology](concepts/molecular-biology.md) — Broader scientific discipline
-- [sample-preparation](concepts/sample-preparation.md) — Essential precursor step
+- [[cell-line-culture]] — Source material preparation for DNA extraction
+- [[pcr]] — Downstream application requiring quality DNA
+- [[genomics]] — Field that relies on DNA extraction techniques
+- [[molecular-biology]] — Broader scientific discipline
+- [[sample-preparation]] — Essential precursor step
+- [[dna-extraction-methodologies]] — Comprehensive overview of extraction methods
+- [[tissue-specific-dna-extraction]] — Specialized extraction approach
+- [[nanopore-sequencing]] — Sequencing application requiring pure DNA
+- [[environmental-dna-analysis]] — Environmental sample processing
 
 ## Sources
 

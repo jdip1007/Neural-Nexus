@@ -27,11 +27,14 @@ nav:
     - Environmental Monitoring: concepts/environmental-monitoring.md
     - Sample Preparation: concepts/sample-preparation.md
   - Entities:
+    - index.md: entities/index.md
     - Penn Rainford: entities/penn-rainford.md
   - Findings:
+    - index.md: findings/index.md
     - Centrifuge Layer Extraction for Bacterial DNA: findings/centrifuge-layer-extraction-bacterial-dna.md
     - Knowledge Preservation AI Integration Insights: findings/knowledge-preservation-ai-integration-insights.md
   - Readings:
+    - index.md: readings/index.md
     - Cell Line DNA Pure Extraction Method: readings/cell-line-dna-pure-extraction-method.md
     - Cell Line DNA QGN Extraction Method: readings/cell-line-dna-qgn-extraction-method.md
     - Agarose Plug DNA Extraction Method: readings/agarose-plug-dna-extraction-method.md
@@ -43,8 +46,13 @@ nav:
     - Adaptive Sampling Document: readings/adaptive-sampling-document.md
     - Knowledge Preservation in the Era of Big Science and AI: readings/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
   - References:
+    - index.md: references/index.md
     - Setup Guide: references/setup-guide.md
     - Writing Guide: references/writing-guide.md
+  - Comparisons:
+    - index.md: comparisons/index.md
+  - Ideas:
+    - index.md: ideas/index.md
   - Knowledge Graph: graph.md
   - Schema: SCHEMA.md
   - Extra Pages:
