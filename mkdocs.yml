@@ -10,6 +10,31 @@ nav:
   - Home: index.md
   - Concepts:
     - neural-nexus.md: concepts/neural-nexus.md
+    - dna-extraction.md: concepts/dna-extraction.md
+    - cell-line-culture.md: concepts/cell-line-culture.md
+    - dna-extraction-methodologies.md: concepts/dna-extraction-methodologies.md
+    - tissue-specific-dna-extraction.md: concepts/tissue-specific-dna-extraction.md
+    - nanopore-sequencing.md: concepts/nanopore-sequencing.md
+    - environmental-dna-analysis.md: concepts/environmental-dna-analysis.md
+    - adaptive-sampling.md: concepts/adaptive-sampling.md
+    - knowledge-preservation.md: concepts/knowledge-preservation.md
+    - reproducibility-crisis.md: concepts/reproducibility-crisis.md
+  - Entities:
+    - penn-rainford.md: entities/penn-rainford.md
+  - Findings:
+    - centrifuge-layer-extraction-bacterial-dna.md: findings/centrifuge-layer-extraction-bacterial-dna.md
+    - knowledge-preservation-ai-integration-insights.md: findings/knowledge-preservation-ai-integration-insights.md
+  - Readings:
+    - cell-line-dna-pure-extraction-method.md: readings/cell-line-dna-pure-extraction-method.md
+    - cell-line-dna-qgn-extraction-method.md: readings/cell-line-dna-qgn-extraction-method.md
+    - agarose-plug-dna-extraction-method.md: readings/agarose-plug-dna-extraction-method.md
+    - brain-tissue-dna-extraction-method.md: readings/brain-tissue-dna-extraction-method.md
+    - colony-pcr-dna-extraction-method.md: readings/colony-pcr-dna-extraction-method.md
+    - environmental-water-edna-extraction-method.md: readings/environmental-water-edna-extraction-method.md
+    - cell-free-dna-cfdna-info-sheet.md: readings/cell-free-dna-cfdna-info-sheet.md
+    - 24hr-genome-e2e-promethion-document.md: readings/24hr-genome-e2e-promethion-document.md
+    - adaptive-sampling-document.md: readings/adaptive-sampling-document.md
+    - knowledge-preservation-big-science-ai-rainford-et-al-2026.md: readings/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
   - References:
     - setup-guide.md: references/setup-guide.md
     - writing-guide.md: references/writing-guide.md
