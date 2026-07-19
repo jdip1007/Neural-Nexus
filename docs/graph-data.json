@@ -5,6 +5,7 @@
       "slug": "concepts/adaptive-sampling",
       "title": "Adaptive Sampling",
       "type": "concept",
+      "classification": "biotechnology.sequencing",
       "domain": "biotech",
       "tags": [
         "genomics",
@@ -23,6 +24,7 @@
       "slug": "concepts/celebrity-privacy-media-ethics",
       "title": "Celebrity Privacy and Media Ethics",
       "type": "concept",
+      "classification": "psychology.media-ethics",
       "domain": "psychology",
       "tags": [
         "media-ethics",
@@ -41,6 +43,7 @@
       "slug": "concepts/cell-line-culture",
       "title": "Cell Line Culture",
       "type": "concept",
+      "classification": "biotechnology.laboratory-methods",
       "domain": "biotech",
       "tags": [
         "cell-biology",
@@ -58,6 +61,7 @@
       "slug": "concepts/conservation-biology",
       "title": "Conservation Biology",
       "type": "concept",
+      "classification": "biotechnology.environmental-biology",
       "domain": "biotech",
       "tags": [
         "biology",
@@ -75,6 +79,7 @@
       "slug": "concepts/criminal-psychology-behavior-patterns",
       "title": "Criminal Psychology and Behavior Patterns",
       "type": "concept",
+      "classification": "psychology.forensic-psychology",
       "domain": "psychology",
       "tags": [
         "psychology",
@@ -93,6 +98,7 @@
       "slug": "concepts/dangerous-person-2-0-research-overview",
       "title": "DangerousPerson2.0 Channel Research Overview",
       "type": "concept",
+      "classification": "research-methodology.knowledge-management",
       "domain": "general",
       "tags": [
         "research",
@@ -112,6 +118,7 @@
       "slug": "concepts/dangerous-person-2-0-research-project",
       "title": "DangerousPerson2.0 Channel Research Project",
       "type": "concept",
+      "classification": "research-methodology.knowledge-management",
       "domain": "general",
       "tags": [
         "research-methodology",
@@ -131,6 +138,7 @@
       "slug": "concepts/dna-evidence-hong-kong-legal-system",
       "title": "DNA Evidence in Hong Kong Legal System",
       "type": "concept",
+      "classification": "legal-science.forensic-evidence",
       "domain": "psychology",
       "tags": [
         "legal-science",
@@ -150,6 +158,7 @@
       "slug": "concepts/dna-extraction-methodologies",
       "title": "DNA Extraction Methodologies",
       "type": "concept",
+      "classification": "biotechnology.molecular-biology.dna-operations",
       "domain": "biotech",
       "tags": [
         "molecular-biology",
@@ -168,6 +177,7 @@
       "slug": "concepts/dna-extraction",
       "title": "DNA Extraction",
       "type": "concept",
+      "classification": "biotechnology.molecular-biology.dna-operations",
       "domain": "biotech",
       "tags": [
         "molecular-biology",
@@ -185,6 +195,7 @@
       "slug": "concepts/ecology",
       "title": "Ecology",
       "type": "concept",
+      "classification": "biotechnology.environmental-biology",
       "domain": "biotech",
       "tags": [
         "biology",
@@ -202,6 +213,7 @@
       "slug": "concepts/environmental-dna-analysis",
       "title": "Environmental DNA Analysis",
       "type": "concept",
+      "classification": "biotechnology.environmental-biology",
       "domain": "biotech",
       "tags": [
         "molecular-biology",
@@ -220,6 +232,7 @@
       "slug": "concepts/environmental-monitoring",
       "title": "Environmental Monitoring",
       "type": "concept",
+      "classification": "biotechnology.environmental-biology",
       "domain": "biotech",
       "tags": [
         "environmental-science",
@@ -237,6 +250,7 @@
       "slug": "concepts/genomics",
       "title": "Genomics",
       "type": "concept",
+      "classification": "biotechnology.molecular-biology.omics",
       "domain": "biotech",
       "tags": [
         "molecular-biology",
@@ -254,6 +268,7 @@
       "slug": "concepts/knowledge-preservation",
       "title": "Knowledge Preservation",
       "type": "concept",
+      "classification": "research-methodology.knowledge-management",
       "domain": "ai, biotech, research",
       "tags": [
         "knowledge-management",
@@ -271,6 +286,7 @@
       "slug": "concepts/molecular-biology",
       "title": "Molecular Biology",
       "type": "concept",
+      "classification": "systems.knowledge-systems",
       "domain": "biotech",
       "tags": [
         "biology",
@@ -288,6 +304,7 @@
       "slug": "concepts/nanopore-sequencing",
       "title": "Nanopore Sequencing",
       "type": "concept",
+      "classification": "biotechnology.sequencing",
       "domain": "biotech",
       "tags": [
         "genomics",
@@ -306,6 +323,7 @@
       "slug": "concepts/neural-nexus",
       "title": "Neural Nexus",
       "type": "concept",
+      "classification": "systems.knowledge-systems",
       "domain": "hermes",
       "tags": [
         "knowledge-management",
@@ -322,6 +340,7 @@
       "slug": "concepts/pcr",
       "title": "PCR (Polymerase Chain Reaction)",
       "type": "concept",
+      "classification": "biotechnology.molecular-biology.dna-operations",
       "domain": "biotech",
       "tags": [
         "molecular-biology",
@@ -339,6 +358,7 @@
       "slug": "concepts/reproducibility-crisis",
       "title": "Reproducibility Crisis",
       "type": "concept",
+      "classification": "research-methodology.reproducibility",
       "domain": "ai, biotech, research",
       "tags": [
         "reproducibility",
@@ -356,6 +376,7 @@
       "slug": "concepts/sample-preparation",
       "title": "Sample Preparation",
       "type": "concept",
+      "classification": "biotechnology.laboratory-methods",
       "domain": "biotech",
       "tags": [
         "laboratory-technique",
@@ -373,6 +394,7 @@
       "slug": "concepts/tissue-specific-dna-extraction",
       "title": "Tissue-Specific DNA Extraction",
       "type": "concept",
+      "classification": "biotechnology.molecular-biology.dna-operations",
       "domain": "biotech",
       "tags": [
         "molecular-biology",
@@ -391,6 +413,7 @@
       "slug": "entities/lam-kwok-wai-tuen-mun-rapist",
       "title": "Lam Kwok Wai (林國偉) - Tuen Mun Rapist",
       "type": "entity",
+      "classification": "person.legal-figure",
       "domain": "psychology",
       "tags": [
         "criminal",
@@ -409,6 +432,7 @@
       "slug": "entities/penn-rainford",
       "title": "Penn Rainford",
       "type": "entity",
+      "classification": "person.researcher",
       "domain": "ai, biotech, research",
       "tags": [
         "researcher",
@@ -426,6 +450,7 @@
       "slug": "entities/x-television-celebrity",
       "title": "X先生 (Mr. X) - Television Celebrity",
       "type": "entity",
+      "classification": "person.media-figure",
       "domain": "psychology",
       "tags": [
         "celebrity",
@@ -444,6 +469,7 @@
       "slug": "readings/24hr-genome-e2e-promethion-document",
       "title": "24-Hour Genome End-to-End Document - PromethION",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "genomics",
@@ -462,6 +488,7 @@
       "slug": "readings/adaptive-sampling-document",
       "title": "Adaptive Sampling Document",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "genomics",
@@ -480,6 +507,7 @@
       "slug": "readings/agarose-plug-dna-extraction-method",
       "title": "Agarose Plug DNA Extraction Method",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "dna-extraction",
@@ -497,6 +525,7 @@
       "slug": "readings/brain-tissue-dna-extraction-method",
       "title": "Brain Tissue DNA Extraction Method",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "dna-extraction",
@@ -515,6 +544,7 @@
       "slug": "readings/cell-free-dna-cfdna-info-sheet",
       "title": "Cell-Free DNA (cfDNA) Information Sheet",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "dna-extraction",
@@ -533,6 +563,7 @@
       "slug": "readings/cell-line-dna-pure-extraction-method",
       "title": "Cell Line DNA Pure Extraction Method",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "dna-extraction",
@@ -550,6 +581,7 @@
       "slug": "readings/cell-line-dna-qgn-extraction-method",
       "title": "Cell Line DNA QGN Extraction Method",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "dna-extraction",
@@ -568,6 +600,7 @@
       "slug": "readings/colony-pcr-dna-extraction-method",
       "title": "Colony PCR DNA Extraction Method",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "dna-extraction",
@@ -586,6 +619,7 @@
       "slug": "readings/environmental-water-edna-extraction-method",
       "title": "Environmental Water eDNA Extraction Method",
       "type": "reading",
+      "classification": null,
       "domain": "biotech",
       "tags": [
         "dna-extraction",
@@ -604,6 +638,7 @@
       "slug": "readings/knowledge-preservation-big-science-ai-rainford-et-al-2026",
       "title": "Knowledge Preservation in the Era of Big Science and AI",
       "type": "reading",
+      "classification": null,
       "domain": "ai, biotech",
       "tags": [
         "knowledge-management",
@@ -622,6 +657,7 @@
       "slug": "references/setup-guide",
       "title": "Neural Nexus Setup Guide",
       "type": "reference",
+      "classification": null,
       "domain": "hermes",
       "tags": [
         "setup",
@@ -639,6 +675,7 @@
       "slug": "references/writing-guide",
       "title": "Neural Nexus Writing Guide",
       "type": "reference",
+      "classification": null,
       "domain": "hermes",
       "tags": [
         "writing",
@@ -1037,6 +1074,6 @@
   "metadata": {
     "totalNodes": 37,
     "totalEdges": 95,
-    "generatedAt": "2026-07-19T13:22:29.679Z"
+    "generatedAt": "2026-07-19T13:26:57.675Z"
   }
 }

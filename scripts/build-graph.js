@@ -74,6 +74,7 @@ function buildGraph() {
       slug: page.slug,
       title: fm.title || page.basename,
       type: fm.type || 'unknown',
+      classification: fm.classification || null,
       domain: fm.domain || 'general',
       tags: Array.isArray(fm.tags) ? fm.tags : [],
       updated: fm.updated || '1970-01-01',

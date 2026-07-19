@@ -254,6 +254,7 @@ function checkMissingLinks(files) {
       ...file,
       title: fm.title || file.basename,
       domain: fm.domain || 'general',
+      classification: fm.classification || null,
       tags: Array.isArray(fm.tags) ? fm.tags : [],
       sources: Array.isArray(fm.sources) ? fm.sources : [],
       prose: extractProse(content),
@@ -345,6 +346,38 @@ function checkMissingLinks(files) {
             detail: `same domain (${domain}), shared tags: ${sharedTags.join(', ')}`
           });
         }
+      }
+    }
+  }
+
+  // Strategy 4: Classification overlap (same classification branch, no link)
+  const classifiedPages = pageIndex.filter(p => p.classification);
+  const byClassBranch = {};
+  for (const p of classifiedPages) {
+    const parts = p.classification.split('.');
+    const branch = parts.length >= 2 ? parts.slice(0, 2).join('.') : parts[0];
+    if (!byClassBranch[branch]) byClassBranch[branch] = [];
+    byClassBranch[branch].push(p);
+  }
+  for (const branch of Object.keys(byClassBranch)) {
+    const branchPages = byClassBranch[branch];
+    if (branchPages.length < 2) continue;
+    for (let i = 0; i < branchPages.length; i++) {
+      for (let j = i + 1; j < branchPages.length; j++) {
+        const a = branchPages[i];
+        const b = branchPages[j];
+        if (a.existingLinks.has(b.basename) || b.existingLinks.has(a.basename)) continue;
+        const alreadySuggested = suggestions.some(s =>
+          (s.source === a.relPath && s.target === b.relPath) ||
+          (s.source === b.relPath && s.target === a.relPath)
+        );
+        if (alreadySuggested) continue;
+        suggestions.push({
+          type: 'classification-overlap',
+          source: a.relPath,
+          target: b.relPath,
+          detail: `same classification branch (${branch})`
+        });
       }
     }
   }

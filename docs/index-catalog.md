@@ -5,34 +5,55 @@
 
 ## Concepts
 
-- [[adaptive-sampling]] — biotech · `genomics`, `bioinformatics`, `computational-biology`, `sequencing`, `data-science` · ✓ 2026-07-19
-- [[celebrity-privacy-media-ethics]] — psychology · `media-ethics`, `celebrity-privacy`, `blackmail`, `hong-kong`, `dangerous-person-2-0` · ✓ 2026-07-19
-- [[cell-line-culture]] — biotech · `cell-biology`, `molecular-biology`, `tissue-culture`, `biotechnology` · ✓ 2026-07-19
-- [[conservation-biology]] — biotech · `biology`, `ecology`, `environmental-science`, `biodiversity` · ✓ 2026-07-19
-- [[criminal-psychology-behavior-patterns]] — psychology · `psychology`, `criminal-behavior`, `forensic-psychology`, `hong-kong`, `dangerous-person-2-0` · ✓ 2026-07-19
-- [[dangerous-person-2-0-research-overview]] — general · `research`, `hong-kong`, `legal-cases`, `crime-investigation`, `dangerous-person-2.0`, `youtube-research` · ✓ 2026-07-19
-- [[dangerous-person-2-0-research-project]] — general · `research-methodology`, `hong-kong`, `legal-cases`, `crime-investigation`, `dangerous-person-2-0`, `youtube-research` · ✓ 2026-07-19
-- [[dna-evidence-hong-kong-legal-system]] — psychology · `legal-science`, `forensic-science`, `hong-kong`, `dna-evidence`, `criminal-justice`, `dangerous-person-2-0` · ✓ 2026-07-19
-- [[dna-extraction]] — biotech · `molecular-biology`, `genomics`, `laboratory-technique`, `biotechnology` · ✓ 2026-07-19
-- [[dna-extraction-methodologies]] — biotech · `molecular-biology`, `genomics`, `laboratory-technique`, `biotechnology`, `dna-extraction` · ✓ 2026-07-19
-- [[ecology]] — biotech · `biology`, `environmental-science`, `biodiversity`, `ecosystems` · ✓ 2026-07-19
-- [[environmental-dna-analysis]] — biotech · `molecular-biology`, `genomics`, `ecology`, `environmental-science`, `biotechnology` · ✓ 2026-07-19
-- [[environmental-monitoring]] — biotech · `environmental-science`, `ecology`, `conservation`, `sustainability` · ✓ 2026-07-19
-- [[genomics]] — biotech · `molecular-biology`, `genetics`, `bioinformatics`, `biotechnology` · ✓ 2026-07-19
-- [[knowledge-preservation]] — ai, biotech, research · `knowledge-management`, `research`, `sustainability`, `reproducibility` · ✓ 2026-07-18
-- [[molecular-biology]] — biotech · `biology`, `genetics`, `biochemistry`, `biotechnology` · ✓ 2026-07-19
-- [[nanopore-sequencing]] — biotech · `genomics`, `dna-sequencing`, `biotechnology`, `molecular-biology`, `long-read-sequencing` · ✓ 2026-07-19
-- [[neural-nexus]] — hermes · `knowledge-management`, `workflow`, `automation` · ✓ 2026-07-18
-- [[pcr]] — biotech · `molecular-biology`, `genomics`, `laboratory-technique`, `biotechnology` · ✓ 2026-07-19
-- [[reproducibility-crisis]] — ai, biotech, research · `reproducibility`, `research-crisis`, `scientific-method`, `validation` · ✓ 2026-07-18
-- [[sample-preparation]] — biotech · `laboratory-technique`, `molecular-biology`, `biochemistry`, `quality-control` · ✓ 2026-07-19
-- [[tissue-specific-dna-extraction]] — biotech · `molecular-biology`, `genomics`, `laboratory-technique`, `biotechnology`, `dna-extraction` · ✓ 2026-07-19
+- **Biotechnology**
+  - **Environmental Biology**
+    - [[conservation-biology]] · `biotechnology.environmental-biology` · `biology`, `ecology`, `environmental-science` · ✓ 2026-07-19
+    - [[ecology]] · `biotechnology.environmental-biology` · `biology`, `environmental-science`, `biodiversity` · ✓ 2026-07-19
+    - [[environmental-dna-analysis]] · `biotechnology.environmental-biology` · `molecular-biology`, `genomics`, `ecology` · ✓ 2026-07-19
+    - [[environmental-monitoring]] · `biotechnology.environmental-biology` · `environmental-science`, `ecology`, `conservation` · ✓ 2026-07-19
+  - **Laboratory Methods**
+    - [[cell-line-culture]] · `biotechnology.laboratory-methods` · `cell-biology`, `molecular-biology`, `tissue-culture` · ✓ 2026-07-19
+    - [[sample-preparation]] · `biotechnology.laboratory-methods` · `laboratory-technique`, `molecular-biology`, `biochemistry` · ✓ 2026-07-19
+  - **Molecular Biology**
+    - **Dna Operations**
+      - [[dna-extraction]] · `biotechnology.molecular-biology.dna-operations` · `molecular-biology`, `genomics`, `laboratory-technique` · ✓ 2026-07-19
+      - [[dna-extraction-methodologies]] · `biotechnology.molecular-biology.dna-operations` · `molecular-biology`, `genomics`, `laboratory-technique` · ✓ 2026-07-19
+      - [[pcr]] · `biotechnology.molecular-biology.dna-operations` · `molecular-biology`, `genomics`, `laboratory-technique` · ✓ 2026-07-19
+      - [[tissue-specific-dna-extraction]] · `biotechnology.molecular-biology.dna-operations` · `molecular-biology`, `genomics`, `laboratory-technique` · ✓ 2026-07-19
+    - **Omics**
+      - [[genomics]] · `biotechnology.molecular-biology.omics` · `molecular-biology`, `genetics`, `bioinformatics` · ✓ 2026-07-19
+  - **Sequencing**
+    - [[adaptive-sampling]] · `biotechnology.sequencing` · `genomics`, `bioinformatics`, `computational-biology` · ✓ 2026-07-19
+    - [[nanopore-sequencing]] · `biotechnology.sequencing` · `genomics`, `dna-sequencing`, `biotechnology` · ✓ 2026-07-19
+- **Legal Science**
+  - **Forensic Evidence**
+    - [[dna-evidence-hong-kong-legal-system]] · `legal-science.forensic-evidence` · `legal-science`, `forensic-science`, `hong-kong` · ✓ 2026-07-19
+- **Psychology**
+  - **Forensic Psychology**
+    - [[criminal-psychology-behavior-patterns]] · `psychology.forensic-psychology` · `psychology`, `criminal-behavior`, `forensic-psychology` · ✓ 2026-07-19
+  - **Media Ethics**
+    - [[celebrity-privacy-media-ethics]] · `psychology.media-ethics` · `media-ethics`, `celebrity-privacy`, `blackmail` · ✓ 2026-07-19
+- **Research Methodology**
+  - **Knowledge Management**
+    - [[dangerous-person-2-0-research-overview]] · `research-methodology.knowledge-management` · `research`, `hong-kong`, `legal-cases` · ✓ 2026-07-19
+    - [[dangerous-person-2-0-research-project]] · `research-methodology.knowledge-management` · `research-methodology`, `hong-kong`, `legal-cases` · ✓ 2026-07-19
+    - [[knowledge-preservation]] · `research-methodology.knowledge-management` · `knowledge-management`, `research`, `sustainability` · ✓ 2026-07-18
+  - **Reproducibility**
+    - [[reproducibility-crisis]] · `research-methodology.reproducibility` · `reproducibility`, `research-crisis`, `scientific-method` · ✓ 2026-07-18
+- **Systems**
+  - **Knowledge Systems**
+    - [[molecular-biology]] · `systems.knowledge-systems` · `biology`, `genetics`, `biochemistry` · ✓ 2026-07-19
+    - [[neural-nexus]] · `systems.knowledge-systems` · `knowledge-management`, `workflow`, `automation` · ✓ 2026-07-18
 
 ## Entities
 
-- [[lam-kwok-wai-tuen-mun-rapist]] — psychology · `criminal`, `serial-offender`, `hong-kong`, `dna-evidence`, `dangerous-person-2-0` · ✓ 2026-07-19
-- [[penn-rainford]] — ai, biotech, research · `researcher`, `computer-science`, `knowledge-management`, `ai` · ✓ 2026-07-18
-- [[x-television-celebrity]] — psychology · `celebrity`, `television-personality`, `blackmail-victim`, `hong-kong`, `dangerous-person-2-0` · ✓ 2026-07-19
+- **Person**
+  - **Legal Figure**
+    - [[lam-kwok-wai-tuen-mun-rapist]] · `person.legal-figure` · `criminal`, `serial-offender`, `hong-kong` · ✓ 2026-07-19
+  - **Media Figure**
+    - [[x-television-celebrity]] · `person.media-figure` · `celebrity`, `television-personality`, `blackmail-victim` · ✓ 2026-07-19
+  - **Researcher**
+    - [[penn-rainford]] · `person.researcher` · `researcher`, `computer-science`, `knowledge-management` · ✓ 2026-07-18
 
 ## Ideas
 

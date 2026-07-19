@@ -8,8 +8,8 @@ const { DOCS_DIR, CONTENT_DIRS, parseFrontmatter } = require('./lib');
 const OUTPUT_FILE = path.join(DOCS_DIR, 'index-catalog.md');
 
 const SECTIONS = [
-  { dir: 'concepts', label: 'Concepts' },
-  { dir: 'entities', label: 'Entities' },
+  { dir: 'concepts', label: 'Concepts', useClassifications: true },
+  { dir: 'entities', label: 'Entities', useClassifications: true },
   { dir: 'ideas', label: 'Ideas' },
   { dir: 'findings', label: 'Findings' },
   { dir: 'readings', label: 'Readings' },
@@ -30,12 +30,63 @@ function getPages(dirPath) {
       slug: file.replace(/\.md$/, ''),
       title: fm.title || file.replace(/\.md$/, ''),
       domain: fm.domain || 'general',
+      classification: fm.classification || null,
       tags: Array.isArray(fm.tags) ? fm.tags : [],
       updated: fm.updated || '1970-01-01',
       status: fm.status || 'active',
       reviewed: fm.reviewed || null
     };
   }).sort((a, b) => a.title.localeCompare(b.title));
+}
+
+/**
+ * Group pages by classification tree.
+ * Returns a nested object: { "biotechnology": { "molecular-biology": { "_pages": [...], "dna-operations": { "_pages": [...] } } } }
+ */
+function groupByClassification(pages) {
+  const root = {};
+  for (const page of pages) {
+    const cls = page.classification || 'uncategorized';
+    const parts = cls.split('.');
+    let node = root;
+    for (const part of parts) {
+      if (!node[part]) node[part] = {};
+      node = node[part];
+    }
+    if (!node._pages) node._pages = [];
+    node._pages.push(page);
+  }
+  return root;
+}
+
+/**
+ * Render classification tree as markdown lines.
+ */
+function renderClassificationTree(node, depth = 0) {
+  let output = '';
+  const indent = '  '.repeat(depth);
+
+  // Render sub-classifications first (sorted)
+  const keys = Object.keys(node).filter(k => k !== '_pages').sort();
+  for (const key of keys) {
+    const label = key.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    output += `${indent}- **${label}**\n`;
+    output += renderClassificationTree(node[key], depth + 1);
+  }
+
+  // Then render pages in this node
+  if (node._pages) {
+    for (const page of node._pages) {
+      output += `${indent}- [[${page.slug}]]`;
+      if (page.classification) output += ` · \`${page.classification}\``;
+      if (page.tags.length > 0) output += ` · \`${page.tags.slice(0, 3).join('`, `')}\``;
+      if (page.status === 'draft') output += ` · *draft*`;
+      if (page.reviewed) output += ` · ✓ ${page.reviewed}`;
+      output += '\n';
+    }
+  }
+
+  return output;
 }
 
 function generate() {
@@ -56,7 +107,13 @@ function generate() {
     output += `## ${section.label}\n\n`;
     if (pages.length === 0) {
       output += '*No pages yet*\n\n';
+    } else if (section.useClassifications) {
+      // Group by classification tree
+      const tree = groupByClassification(pages);
+      output += renderClassificationTree(tree);
+      output += '\n';
     } else {
+      // Flat list for non-classified sections
       for (const page of pages) {
         output += `- [[${page.slug}]] — ${page.domain}`;
         if (page.tags.length > 0) output += ` · \`${page.tags.join('`, `')}\``;

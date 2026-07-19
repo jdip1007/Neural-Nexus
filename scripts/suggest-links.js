@@ -26,6 +26,7 @@ function suggestLinks() {
       ...file,
       title: fm.title || file.basename,
       domain: fm.domain || 'general',
+      classification: fm.classification || null,
       tags: Array.isArray(fm.tags) ? fm.tags : [],
       sources: Array.isArray(fm.sources) ? fm.sources : [],
       prose: extractProse(content),
@@ -121,6 +122,40 @@ function suggestLinks() {
     }
   }
 
+  // Strategy 4: Classification overlap (same classification branch, no link)
+  const classifiedPages = pageIndex.filter(p => p.classification);
+  const byClassBranch = {};
+  for (const p of classifiedPages) {
+    // Group by first two levels of classification (e.g., "biotechnology.molecular-biology")
+    const parts = p.classification.split('.');
+    const branch = parts.length >= 2 ? parts.slice(0, 2).join('.') : parts[0];
+    if (!byClassBranch[branch]) byClassBranch[branch] = [];
+    byClassBranch[branch].push(p);
+  }
+  for (const branch of Object.keys(byClassBranch)) {
+    const branchPages = byClassBranch[branch];
+    if (branchPages.length < 2) continue;
+    for (let i = 0; i < branchPages.length; i++) {
+      for (let j = i + 1; j < branchPages.length; j++) {
+        const a = branchPages[i];
+        const b = branchPages[j];
+        if (a.existingLinks.has(b.basename) || b.existingLinks.has(a.basename)) continue;
+        // Skip if already suggested by tag-overlap
+        const alreadySuggested = suggestions.some(s =>
+          (s.source === a.relPath && s.target === b.relPath) ||
+          (s.source === b.relPath && s.target === a.relPath)
+        );
+        if (alreadySuggested) continue;
+        suggestions.push({
+          type: 'classification-overlap',
+          source: a.relPath,
+          target: b.relPath,
+          suggestion: `Link "${a.relPath}" ↔ "${b.relPath}" — same classification branch (${branch})`
+        });
+      }
+    }
+  }
+
   // Report
   if (suggestions.length === 0) {
     console.log('✓ No missing links found. All connections are already in place.');
@@ -134,7 +169,8 @@ function suggestLinks() {
     const labels = {
       'text-mention': 'Text Mentions (page mentions another page\'s title in prose)',
       'shared-source': 'Shared Sources (pages cite the same raw source)',
-      'tag-overlap': 'Tag Overlap (same domain + 2+ shared tags, no link)'
+      'tag-overlap': 'Tag Overlap (same domain + 2+ shared tags, no link)',
+      'classification-overlap': 'Classification Overlap (same classification branch, no link)'
     };
 
     console.log(`Found ${suggestions.length} potential missing link(s):\n`);
