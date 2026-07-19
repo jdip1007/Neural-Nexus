@@ -9,35 +9,42 @@ repo_url: https://github.com/jdip1007/Neural-Nexus
 nav:
   - Home: index.md
   - Concepts:
-    - neural-nexus.md: concepts/neural-nexus.md
-    - dna-extraction.md: concepts/dna-extraction.md
-    - cell-line-culture.md: concepts/cell-line-culture.md
-    - dna-extraction-methodologies.md: concepts/dna-extraction-methodologies.md
-    - tissue-specific-dna-extraction.md: concepts/tissue-specific-dna-extraction.md
-    - nanopore-sequencing.md: concepts/nanopore-sequencing.md
-    - environmental-dna-analysis.md: concepts/environmental-dna-analysis.md
-    - adaptive-sampling.md: concepts/adaptive-sampling.md
-    - knowledge-preservation.md: concepts/knowledge-preservation.md
-    - reproducibility-crisis.md: concepts/reproducibility-crisis.md
+    - Neural Nexus: concepts/neural-nexus.md
+    - DNA Extraction: concepts/dna-extraction.md
+    - Cell Line Culture: concepts/cell-line-culture.md
+    - DNA Extraction Methodologies: concepts/dna-extraction-methodologies.md
+    - Tissue-Specific DNA Extraction: concepts/tissue-specific-dna-extraction.md
+    - Nanopore Sequencing: concepts/nanopore-sequencing.md
+    - Environmental DNA Analysis: concepts/environmental-dna-analysis.md
+    - Adaptive Sampling: concepts/adaptive-sampling.md
+    - Knowledge Preservation: concepts/knowledge-preservation.md
+    - Reproducibility Crisis: concepts/reproducibility-crisis.md
+    - PCR: concepts/pcr.md
+    - Genomics: concepts/genomics.md
+    - Molecular Biology: concepts/molecular-biology.md
+    - Ecology: concepts/ecology.md
+    - Conservation Biology: concepts/conservation-biology.md
+    - Environmental Monitoring: concepts/environmental-monitoring.md
+    - Sample Preparation: concepts/sample-preparation.md
   - Entities:
-    - penn-rainford.md: entities/penn-rainford.md
+    - Penn Rainford: entities/penn-rainford.md
   - Findings:
-    - centrifuge-layer-extraction-bacterial-dna.md: findings/centrifuge-layer-extraction-bacterial-dna.md
-    - knowledge-preservation-ai-integration-insights.md: findings/knowledge-preservation-ai-integration-insights.md
+    - Centrifuge Layer Extraction for Bacterial DNA: findings/centrifuge-layer-extraction-bacterial-dna.md
+    - Knowledge Preservation AI Integration Insights: findings/knowledge-preservation-ai-integration-insights.md
   - Readings:
-    - cell-line-dna-pure-extraction-method.md: readings/cell-line-dna-pure-extraction-method.md
-    - cell-line-dna-qgn-extraction-method.md: readings/cell-line-dna-qgn-extraction-method.md
-    - agarose-plug-dna-extraction-method.md: readings/agarose-plug-dna-extraction-method.md
-    - brain-tissue-dna-extraction-method.md: readings/brain-tissue-dna-extraction-method.md
-    - colony-pcr-dna-extraction-method.md: readings/colony-pcr-dna-extraction-method.md
-    - environmental-water-edna-extraction-method.md: readings/environmental-water-edna-extraction-method.md
-    - cell-free-dna-cfdna-info-sheet.md: readings/cell-free-dna-cfdna-info-sheet.md
-    - 24hr-genome-e2e-promethion-document.md: readings/24hr-genome-e2e-promethion-document.md
-    - adaptive-sampling-document.md: readings/adaptive-sampling-document.md
-    - knowledge-preservation-big-science-ai-rainford-et-al-2026.md: readings/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
+    - Cell Line DNA Pure Extraction Method: readings/cell-line-dna-pure-extraction-method.md
+    - Cell Line DNA QGN Extraction Method: readings/cell-line-dna-qgn-extraction-method.md
+    - Agarose Plug DNA Extraction Method: readings/agarose-plug-dna-extraction-method.md
+    - Brain Tissue DNA Extraction Method: readings/brain-tissue-dna-extraction-method.md
+    - Colony PCR DNA Extraction Method: readings/colony-pcr-dna-extraction-method.md
+    - Environmental Water eDNA Extraction Method: readings/environmental-water-edna-extraction-method.md
+    - Cell-Free DNA (cfDNA) Information Sheet: readings/cell-free-dna-cfdna-info-sheet.md
+    - 24-Hour Genome End-to-End Document - PromethION: readings/24hr-genome-e2e-promethion-document.md
+    - Adaptive Sampling Document: readings/adaptive-sampling-document.md
+    - Knowledge Preservation in the Era of Big Science and AI: readings/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
   - References:
-    - setup-guide.md: references/setup-guide.md
-    - writing-guide.md: references/writing-guide.md
+    - Setup Guide: references/setup-guide.md
+    - Writing Guide: references/writing-guide.md
   - Knowledge Graph: graph.md
   - Schema: SCHEMA.md
   - Extra Pages:
