@@ -85,3 +85,38 @@
 - [[setup-guide]] — hermes · `setup`, `documentation`, `guide`, `knowledge-base` · ✓ 2026-07-18
 - [[writing-guide]] — hermes · `writing`, `documentation`, `guide`, `knowledge-base` · ✓ 2026-07-18
 
+
+## HealthyGamerGG YouTube Content
+
+**Psychology & Relationships**
+- [[how-your-brain-perceives-love]] - Autism and love perception
+- [[what-everyone-gets-wrong-about-adhd]] - ADHD misconceptions
+- [[how-to-actually-have-an-elite-mindset]] - Elite mindset strategies
+- [[the-cost-of-attention]] - Understanding attention economy
+- [[can-men-women-be-friends]] - Cross-gender friendships
+- [[why-modern-dating-feels-like-parenting]] - Modern dating challenges
+- [[why-you-freeze-up-when-you-talk-to-women]] - Communication anxiety
+- [[i-did-everything-right]] - Love and relationship struggles
+- [[nobody-cares-how-stoic-you-are]] - Authenticity over stoicism
+- [[the-most-misdiagnosed-condition]] - Mental health misdiagnosis
+- [[why-smart-people-are-bad-at-dating]] - Intelligence dating paradoxes
+- [[why-validating-feings-can-ruin-relationships]] - Relationship communication
+- [[how-trauma-splits-a-soul]] - Dissociative identity disorder
+- [[dr-k-diagnoses-your-favorite-characters]] - Psychology analysis
+- [[why-your-brain-is-strongest-after-you-nut]] - Neuroscience insights
+- [[looksmaxxing-is-not-about-looks]] - Beyond appearance improvement
+- [[how-to-actually-stay-mentally-healthy]] - Mental health maintenance
+- [[why-your-partner-doesnt-support-your-dreams]] - Relationship support
+- [[why-learning-from-failure-is-ruining-your-life]] - Failure mindset problems
+- [[the-impatient-man]] - Impatience and self-perception
+- [[ai-therapy-is-making-you-mentally-weak]] - AI therapy concerns
+- [[how-to-actually-find-the-right-person-for-you]] - Finding compatible relationships
+- [[flirting-kinda-sucks-actually]] - Dating challenges
+- [[why-validating-feings-can-ruin-relationships]] - Communication issues
+- [[why-smart-people-are-bad-at-dating]] - Intelligence in dating
+- [[the-most-misdiagnosed-condition]] - Mental health diagnosis
+- [[nobody-cares-how-stoic-you-are]] - Social perception
+- [[i-did-everything-right]] - Relationship struggles
+
+**Total:** 28 HealthyGamerGG concepts
+

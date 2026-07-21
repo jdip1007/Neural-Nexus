@@ -1,3 +1,11 @@
+## [2026-07-21] sync | HealthyGamerGG Content
+
+- **Source:** Hermes-Playground wiki
+- **Action:** Synced 28 HealthyGamerGG YouTube videos to Neural-Nexus
+- **Content:** Psychology, relationships, dating, self-improvement
+- **Method:** Converted wiki pages to Neural-Nexus format with proper frontmatter
+- **Files:** Created 28 concept pages + raw transcripts
+
 # Neural Nexus Log
 
 > Chronological record of all wiki actions. Append-only.
