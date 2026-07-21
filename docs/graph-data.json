@@ -21,6 +21,44 @@
     },
     {
       "id": 1,
+      "slug": "concepts/ai-therapy-is-making-you-mentally-weak",
+      "title": "AI Therapy is Making You Mentally Weak",
+      "type": "concept",
+      "classification": "psychology.mental-health",
+      "domain": "psychology",
+      "tags": [
+        "ai",
+        "therapy",
+        "mental-health",
+        "technology",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/ai-therapy-is-making-you-mentally-weak/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 2,
+      "slug": "concepts/can-men-women-be-friends_",
+      "title": "Can Men & Women Be Friends?",
+      "type": "concept",
+      "classification": "psychology.relationships",
+      "domain": "psychology",
+      "tags": [
+        "friendship",
+        "relationships",
+        "gender",
+        "social-dynamics",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/can-men-women-be-friends_/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 3,
       "slug": "concepts/celebrity-privacy-media-ethics",
       "title": "Celebrity Privacy and Media Ethics",
       "type": "concept",
@@ -39,7 +77,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 2,
+      "id": 4,
       "slug": "concepts/cell-line-culture",
       "title": "Cell Line Culture",
       "type": "concept",
@@ -57,7 +95,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 3,
+      "id": 5,
       "slug": "concepts/conservation-biology",
       "title": "Conservation Biology",
       "type": "concept",
@@ -75,7 +113,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 4,
+      "id": 6,
       "slug": "concepts/criminal-psychology-behavior-patterns",
       "title": "Criminal Psychology and Behavior Patterns",
       "type": "concept",
@@ -94,7 +132,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 5,
+      "id": 7,
       "slug": "concepts/dangerous-person-2-0-research-overview",
       "title": "DangerousPerson2.0 Channel Research Overview",
       "type": "concept",
@@ -114,7 +152,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 6,
+      "id": 8,
       "slug": "concepts/dangerous-person-2-0-research-project",
       "title": "DangerousPerson2.0 Channel Research Project",
       "type": "concept",
@@ -134,7 +172,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 7,
+      "id": 9,
       "slug": "concepts/dna-evidence-hong-kong-legal-system",
       "title": "DNA Evidence in Hong Kong Legal System",
       "type": "concept",
@@ -154,7 +192,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 8,
+      "id": 10,
       "slug": "concepts/dna-extraction-methodologies",
       "title": "DNA Extraction Methodologies",
       "type": "concept",
@@ -173,7 +211,7 @@
       "outboundLinks": 5
     },
     {
-      "id": 9,
+      "id": 11,
       "slug": "concepts/dna-extraction",
       "title": "DNA Extraction",
       "type": "concept",
@@ -191,7 +229,7 @@
       "outboundLinks": 9
     },
     {
-      "id": 10,
+      "id": 12,
       "slug": "concepts/ecology",
       "title": "Ecology",
       "type": "concept",
@@ -209,7 +247,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 11,
+      "id": 13,
       "slug": "concepts/environmental-dna-analysis",
       "title": "Environmental DNA Analysis",
       "type": "concept",
@@ -228,7 +266,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 12,
+      "id": 14,
       "slug": "concepts/environmental-monitoring",
       "title": "Environmental Monitoring",
       "type": "concept",
@@ -246,7 +284,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 13,
+      "id": 15,
       "slug": "concepts/genomics",
       "title": "Genomics",
       "type": "concept",
@@ -264,7 +302,83 @@
       "outboundLinks": 0
     },
     {
-      "id": 14,
+      "id": 16,
+      "slug": "concepts/how-to-actually-have-an-elite-mindset",
+      "title": "How To Actually Have An Elite Mindset",
+      "type": "concept",
+      "classification": "psychology.personal-development",
+      "domain": "psychology",
+      "tags": [
+        "mindset",
+        "personal-development",
+        "success",
+        "psychology",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/how-to-actually-have-an-elite-mindset/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 17,
+      "slug": "concepts/how-trauma-splits-a-soul",
+      "title": "How Trauma Splits A Soul",
+      "type": "concept",
+      "classification": "psychology.trauma",
+      "domain": "psychology",
+      "tags": [
+        "trauma",
+        "dissociative-identity",
+        "ptsd",
+        "mental-health",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/how-trauma-splits-a-soul/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 18,
+      "slug": "concepts/how-your-brain-perceives-love-when-you-have-autism",
+      "title": "How Your Brain Perceives Love When You Have Autism",
+      "type": "concept",
+      "classification": "psychology.relationships",
+      "domain": "psychology",
+      "tags": [
+        "autism",
+        "love",
+        "relationships",
+        "neurodiversity",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/how-your-brain-perceives-love-when-you-have-autism/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 19,
+      "slug": "concepts/i-did-everything-right-i-still-cant-find-love",
+      "title": "I Did Everything Right. I still Can't Find Love",
+      "type": "concept",
+      "classification": "psychology.relationships",
+      "domain": "psychology",
+      "tags": [
+        "love",
+        "relationships",
+        "dating",
+        "frustration",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/i-did-everything-right-i-still-cant-find-love/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 20,
       "slug": "concepts/knowledge-preservation",
       "title": "Knowledge Preservation",
       "type": "concept",
@@ -282,7 +396,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 15,
+      "id": 21,
       "slug": "concepts/molecular-biology",
       "title": "Molecular Biology",
       "type": "concept",
@@ -300,7 +414,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 16,
+      "id": 22,
       "slug": "concepts/nanopore-sequencing",
       "title": "Nanopore Sequencing",
       "type": "concept",
@@ -319,7 +433,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 17,
+      "id": 23,
       "slug": "concepts/neural-nexus",
       "title": "Neural Nexus",
       "type": "concept",
@@ -336,7 +450,26 @@
       "outboundLinks": 2
     },
     {
-      "id": 18,
+      "id": 24,
+      "slug": "concepts/nobody-cares-how-stoic-you-are",
+      "title": "Nobody Cares How Stoic You Are",
+      "type": "concept",
+      "classification": "psychology.personality",
+      "domain": "psychology",
+      "tags": [
+        "stoicism",
+        "personality",
+        "authenticity",
+        "social-perception",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/nobody-cares-how-stoic-you-are/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 25,
       "slug": "concepts/pcr",
       "title": "PCR (Polymerase Chain Reaction)",
       "type": "concept",
@@ -354,7 +487,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 19,
+      "id": 26,
       "slug": "concepts/reproducibility-crisis",
       "title": "Reproducibility Crisis",
       "type": "concept",
@@ -372,7 +505,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 20,
+      "id": 27,
       "slug": "concepts/sample-preparation",
       "title": "Sample Preparation",
       "type": "concept",
@@ -390,7 +523,45 @@
       "outboundLinks": 0
     },
     {
-      "id": 21,
+      "id": 28,
+      "slug": "concepts/the-impatient-man_-why-you-feel-like-a-failure",
+      "title": "The Impatient Man: Why You Feel Like A Failure",
+      "type": "concept",
+      "classification": "psychology.personal-development",
+      "domain": "psychology",
+      "tags": [
+        "impatience",
+        "failure",
+        "self-perception",
+        "personal-development",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/the-impatient-man_-why-you-feel-like-a-failure/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 29,
+      "slug": "concepts/the-most-misdiagnosed-condition-in-mental-health",
+      "title": "The Most Misdiagnosed Condition In Mental Health",
+      "type": "concept",
+      "classification": "psychology.mental-health",
+      "domain": "psychology",
+      "tags": [
+        "mental-health",
+        "diagnosis",
+        "misdiagnosis",
+        "cognitive-disengagement",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/the-most-misdiagnosed-condition-in-mental-health/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 30,
       "slug": "concepts/tissue-specific-dna-extraction",
       "title": "Tissue-Specific DNA Extraction",
       "type": "concept",
@@ -409,7 +580,140 @@
       "outboundLinks": 3
     },
     {
-      "id": 22,
+      "id": 31,
+      "slug": "concepts/what-everyone-gets-wrong-about-adhd",
+      "title": "What Everyone Gets Wrong About ADHD",
+      "type": "concept",
+      "classification": "psychology.mental-health",
+      "domain": "psychology",
+      "tags": [
+        "adhd",
+        "mental-health",
+        "misconceptions",
+        "neurodiversity",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/what-everyone-gets-wrong-about-adhd/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 32,
+      "slug": "concepts/why-learning-from-failure-is-ruining-your-life",
+      "title": "Why 'Learning From Failure' Is Ruining Your Life",
+      "type": "concept",
+      "classification": "psychology.personal-development",
+      "domain": "psychology",
+      "tags": [
+        "failure",
+        "learning",
+        "mindset",
+        "personal-development",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/why-learning-from-failure-is-ruining-your-life/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 33,
+      "slug": "concepts/why-modern-dating-feels-like-parenting",
+      "title": "Why Modern Dating Feels Like Parenting",
+      "type": "concept",
+      "classification": "psychology.dating",
+      "domain": "psychology",
+      "tags": [
+        "dating",
+        "relationships",
+        "modern-dating",
+        "parenting",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/why-modern-dating-feels-like-parenting/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 34,
+      "slug": "concepts/why-smart-people-are-bad-at-dating",
+      "title": "Why Smart People Are Bad At Dating",
+      "type": "concept",
+      "classification": "psychology.dating",
+      "domain": "psychology",
+      "tags": [
+        "intelligence",
+        "dating",
+        "relationships",
+        "smart-people",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/why-smart-people-are-bad-at-dating/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 35,
+      "slug": "concepts/why-validating-feelings-can-ruin-relationships",
+      "title": "Why 'Validating Feelings' Can Ruin Relationships",
+      "type": "concept",
+      "classification": "psychology.relationships",
+      "domain": "psychology",
+      "tags": [
+        "relationships",
+        "emotions",
+        "validation",
+        "communication",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/why-validating-feelings-can-ruin-relationships/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 36,
+      "slug": "concepts/why-you-freeze-up-when-you-talk-to-women",
+      "title": "Why You Freeze Up When You Talk to Women",
+      "type": "concept",
+      "classification": "psychology.dating",
+      "domain": "psychology",
+      "tags": [
+        "dating",
+        "anxiety",
+        "communication",
+        "social-skills",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/why-you-freeze-up-when-you-talk-to-women/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 37,
+      "slug": "concepts/why-your-partner-doesnt-support-your-dreams",
+      "title": "Why Your Partner Doesn't Support Your Dreams",
+      "type": "concept",
+      "classification": "psychology.relationships",
+      "domain": "psychology",
+      "tags": [
+        "relationships",
+        "support",
+        "dreams",
+        "goals",
+        "healthygamergg"
+      ],
+      "updated": "2026-07-21",
+      "url": "/concepts/why-your-partner-doesnt-support-your-dreams/",
+      "inboundLinks": 0,
+      "outboundLinks": 0
+    },
+    {
+      "id": 38,
       "slug": "entities/lam-kwok-wai-tuen-mun-rapist",
       "title": "Lam Kwok Wai (林國偉) - Tuen Mun Rapist",
       "type": "entity",
@@ -428,7 +732,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 23,
+      "id": 39,
       "slug": "entities/penn-rainford",
       "title": "Penn Rainford",
       "type": "entity",
@@ -446,7 +750,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 24,
+      "id": 40,
       "slug": "entities/x-television-celebrity",
       "title": "X先生 (Mr. X) - Television Celebrity",
       "type": "entity",
@@ -465,7 +769,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 25,
+      "id": 41,
       "slug": "readings/24hr-genome-e2e-promethion-document",
       "title": "24-Hour Genome End-to-End Document - PromethION",
       "type": "reading",
@@ -484,7 +788,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 26,
+      "id": 42,
       "slug": "readings/adaptive-sampling-document",
       "title": "Adaptive Sampling Document",
       "type": "reading",
@@ -503,7 +807,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 27,
+      "id": 43,
       "slug": "readings/agarose-plug-dna-extraction-method",
       "title": "Agarose Plug DNA Extraction Method",
       "type": "reading",
@@ -521,7 +825,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 28,
+      "id": 44,
       "slug": "readings/brain-tissue-dna-extraction-method",
       "title": "Brain Tissue DNA Extraction Method",
       "type": "reading",
@@ -540,7 +844,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 29,
+      "id": 45,
       "slug": "readings/cell-free-dna-cfdna-info-sheet",
       "title": "Cell-Free DNA (cfDNA) Information Sheet",
       "type": "reading",
@@ -559,7 +863,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 30,
+      "id": 46,
       "slug": "readings/cell-line-dna-pure-extraction-method",
       "title": "Cell Line DNA Pure Extraction Method",
       "type": "reading",
@@ -577,7 +881,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 31,
+      "id": 47,
       "slug": "readings/cell-line-dna-qgn-extraction-method",
       "title": "Cell Line DNA QGN Extraction Method",
       "type": "reading",
@@ -596,7 +900,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 32,
+      "id": 48,
       "slug": "readings/colony-pcr-dna-extraction-method",
       "title": "Colony PCR DNA Extraction Method",
       "type": "reading",
@@ -615,7 +919,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 33,
+      "id": 49,
       "slug": "readings/environmental-water-edna-extraction-method",
       "title": "Environmental Water eDNA Extraction Method",
       "type": "reading",
@@ -634,7 +938,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 34,
+      "id": 50,
       "slug": "readings/knowledge-preservation-big-science-ai-rainford-et-al-2026",
       "title": "Knowledge Preservation in the Era of Big Science and AI",
       "type": "reading",
@@ -653,7 +957,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 35,
+      "id": 51,
       "slug": "references/setup-guide",
       "title": "Neural Nexus Setup Guide",
       "type": "reference",
@@ -671,7 +975,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 36,
+      "id": 52,
       "slug": "references/writing-guide",
       "title": "Neural Nexus Writing Guide",
       "type": "reference",
@@ -692,63 +996,35 @@
   "edges": [
     {
       "source": 0,
-      "target": 13
-    },
-    {
-      "source": 0,
-      "target": 16
-    },
-    {
-      "source": 1,
-      "target": 4
-    },
-    {
-      "source": 1,
-      "target": 7
-    },
-    {
-      "source": 1,
-      "target": 5
-    },
-    {
-      "source": 1,
-      "target": 24
-    },
-    {
-      "source": 2,
       "target": 15
     },
     {
-      "source": 2,
-      "target": 21
-    },
-    {
-      "source": 3,
-      "target": 12
-    },
-    {
-      "source": 4,
-      "target": 7
-    },
-    {
-      "source": 4,
-      "target": 1
-    },
-    {
-      "source": 4,
+      "source": 0,
       "target": 22
     },
     {
-      "source": 4,
-      "target": 5
+      "source": 3,
+      "target": 6
     },
     {
-      "source": 5,
+      "source": 3,
+      "target": 9
+    },
+    {
+      "source": 3,
       "target": 7
     },
     {
-      "source": 5,
-      "target": 4
+      "source": 3,
+      "target": 40
+    },
+    {
+      "source": 4,
+      "target": 21
+    },
+    {
+      "source": 4,
+      "target": 30
     },
     {
       "source": 5,
@@ -756,35 +1032,35 @@
     },
     {
       "source": 6,
-      "target": 5
+      "target": 9
+    },
+    {
+      "source": 6,
+      "target": 3
+    },
+    {
+      "source": 6,
+      "target": 38
     },
     {
       "source": 6,
       "target": 7
     },
     {
-      "source": 6,
-      "target": 4
-    },
-    {
-      "source": 6,
-      "target": 22
+      "source": 7,
+      "target": 9
     },
     {
       "source": 7,
-      "target": 4
+      "target": 6
     },
     {
       "source": 7,
-      "target": 22
+      "target": 20
     },
     {
-      "source": 7,
-      "target": 5
-    },
-    {
-      "source": 7,
-      "target": 1
+      "source": 8,
+      "target": 7
     },
     {
       "source": 8,
@@ -792,67 +1068,67 @@
     },
     {
       "source": 8,
-      "target": 16
+      "target": 6
     },
     {
       "source": 8,
-      "target": 21
-    },
-    {
-      "source": 8,
-      "target": 11
-    },
-    {
-      "source": 8,
-      "target": 18
+      "target": 38
     },
     {
       "source": 9,
-      "target": 2
+      "target": 6
     },
     {
       "source": 9,
-      "target": 18
+      "target": 38
     },
     {
       "source": 9,
-      "target": 13
+      "target": 7
     },
     {
       "source": 9,
-      "target": 15
-    },
-    {
-      "source": 9,
-      "target": 20
-    },
-    {
-      "source": 9,
-      "target": 8
-    },
-    {
-      "source": 9,
-      "target": 21
-    },
-    {
-      "source": 9,
-      "target": 16
-    },
-    {
-      "source": 9,
-      "target": 11
-    },
-    {
-      "source": 10,
       "target": 3
     },
     {
       "source": 10,
-      "target": 12
+      "target": 11
+    },
+    {
+      "source": 10,
+      "target": 22
+    },
+    {
+      "source": 10,
+      "target": 30
+    },
+    {
+      "source": 10,
+      "target": 13
+    },
+    {
+      "source": 10,
+      "target": 25
     },
     {
       "source": 11,
-      "target": 9
+      "target": 4
+    },
+    {
+      "source": 11,
+      "target": 25
+    },
+    {
+      "source": 11,
+      "target": 15
+    },
+    {
+      "source": 11,
+      "target": 21
+    },
+    {
+      "source": 11,
+      "target": 27
     },
     {
       "source": 11,
@@ -860,220 +1136,248 @@
     },
     {
       "source": 11,
-      "target": 3
-    },
-    {
-      "source": 14,
-      "target": 17
-    },
-    {
-      "source": 14,
-      "target": 19
-    },
-    {
-      "source": 14,
-      "target": 23
-    },
-    {
-      "source": 15,
-      "target": 13
-    },
-    {
-      "source": 15,
-      "target": 2
-    },
-    {
-      "source": 16,
-      "target": 15
-    },
-    {
-      "source": 17,
-      "target": 14
-    },
-    {
-      "source": 17,
-      "target": 19
-    },
-    {
-      "source": 18,
-      "target": 9
-    },
-    {
-      "source": 18,
-      "target": 16
-    },
-    {
-      "source": 18,
-      "target": 15
-    },
-    {
-      "source": 18,
-      "target": 32
-    },
-    {
-      "source": 19,
-      "target": 14
-    },
-    {
-      "source": 19,
-      "target": 23
-    },
-    {
-      "source": 21,
-      "target": 15
-    },
-    {
-      "source": 21,
-      "target": 9
-    },
-    {
-      "source": 21,
-      "target": 20
-    },
-    {
-      "source": 22,
-      "target": 7
-    },
-    {
-      "source": 22,
-      "target": 4
-    },
-    {
-      "source": 22,
-      "target": 6
-    },
-    {
-      "source": 23,
-      "target": 14
-    },
-    {
-      "source": 23,
-      "target": 19
-    },
-    {
-      "source": 23,
-      "target": 34
-    },
-    {
-      "source": 24,
-      "target": 1
-    },
-    {
-      "source": 24,
-      "target": 4
-    },
-    {
-      "source": 24,
-      "target": 5
-    },
-    {
-      "source": 25,
-      "target": 16
-    },
-    {
-      "source": 25,
-      "target": 15
-    },
-    {
-      "source": 26,
-      "target": 13
-    },
-    {
-      "source": 26,
-      "target": 16
-    },
-    {
-      "source": 26,
-      "target": 15
-    },
-    {
-      "source": 26,
-      "target": 0
-    },
-    {
-      "source": 27,
-      "target": 15
-    },
-    {
-      "source": 27,
-      "target": 8
-    },
-    {
-      "source": 28,
-      "target": 15
-    },
-    {
-      "source": 28,
-      "target": 21
-    },
-    {
-      "source": 29,
-      "target": 15
-    },
-    {
-      "source": 29,
-      "target": 13
-    },
-    {
-      "source": 30,
-      "target": 2
-    },
-    {
-      "source": 30,
-      "target": 15
-    },
-    {
-      "source": 30,
-      "target": 28
-    },
-    {
-      "source": 31,
-      "target": 15
-    },
-    {
-      "source": 31,
       "target": 30
     },
     {
-      "source": 31,
-      "target": 27
+      "source": 11,
+      "target": 22
     },
     {
-      "source": 31,
-      "target": 9
-    },
-    {
-      "source": 32,
-      "target": 15
-    },
-    {
-      "source": 32,
-      "target": 18
-    },
-    {
-      "source": 32,
+      "source": 11,
       "target": 13
     },
     {
-      "source": 33,
-      "target": 15
+      "source": 12,
+      "target": 5
     },
     {
-      "source": 33,
+      "source": 12,
+      "target": 14
+    },
+    {
+      "source": 13,
       "target": 11
     },
     {
-      "source": 34,
-      "target": 19
+      "source": 13,
+      "target": 12
     },
     {
-      "source": 34,
-      "target": 14
+      "source": 13,
+      "target": 5
+    },
+    {
+      "source": 20,
+      "target": 23
+    },
+    {
+      "source": 20,
+      "target": 26
+    },
+    {
+      "source": 20,
+      "target": 39
+    },
+    {
+      "source": 21,
+      "target": 15
+    },
+    {
+      "source": 21,
+      "target": 4
+    },
+    {
+      "source": 22,
+      "target": 21
+    },
+    {
+      "source": 23,
+      "target": 20
+    },
+    {
+      "source": 23,
+      "target": 26
+    },
+    {
+      "source": 25,
+      "target": 11
+    },
+    {
+      "source": 25,
+      "target": 22
+    },
+    {
+      "source": 25,
+      "target": 21
+    },
+    {
+      "source": 25,
+      "target": 48
+    },
+    {
+      "source": 26,
+      "target": 20
+    },
+    {
+      "source": 26,
+      "target": 39
+    },
+    {
+      "source": 30,
+      "target": 21
+    },
+    {
+      "source": 30,
+      "target": 11
+    },
+    {
+      "source": 30,
+      "target": 27
+    },
+    {
+      "source": 38,
+      "target": 9
+    },
+    {
+      "source": 38,
+      "target": 6
+    },
+    {
+      "source": 38,
+      "target": 8
+    },
+    {
+      "source": 39,
+      "target": 20
+    },
+    {
+      "source": 39,
+      "target": 26
+    },
+    {
+      "source": 39,
+      "target": 50
+    },
+    {
+      "source": 40,
+      "target": 3
+    },
+    {
+      "source": 40,
+      "target": 6
+    },
+    {
+      "source": 40,
+      "target": 7
+    },
+    {
+      "source": 41,
+      "target": 22
+    },
+    {
+      "source": 41,
+      "target": 21
+    },
+    {
+      "source": 42,
+      "target": 15
+    },
+    {
+      "source": 42,
+      "target": 22
+    },
+    {
+      "source": 42,
+      "target": 21
+    },
+    {
+      "source": 42,
+      "target": 0
+    },
+    {
+      "source": 43,
+      "target": 21
+    },
+    {
+      "source": 43,
+      "target": 10
+    },
+    {
+      "source": 44,
+      "target": 21
+    },
+    {
+      "source": 44,
+      "target": 30
+    },
+    {
+      "source": 45,
+      "target": 21
+    },
+    {
+      "source": 45,
+      "target": 15
+    },
+    {
+      "source": 46,
+      "target": 4
+    },
+    {
+      "source": 46,
+      "target": 21
+    },
+    {
+      "source": 46,
+      "target": 44
+    },
+    {
+      "source": 47,
+      "target": 21
+    },
+    {
+      "source": 47,
+      "target": 46
+    },
+    {
+      "source": 47,
+      "target": 43
+    },
+    {
+      "source": 47,
+      "target": 11
+    },
+    {
+      "source": 48,
+      "target": 21
+    },
+    {
+      "source": 48,
+      "target": 25
+    },
+    {
+      "source": 48,
+      "target": 15
+    },
+    {
+      "source": 49,
+      "target": 21
+    },
+    {
+      "source": 49,
+      "target": 13
+    },
+    {
+      "source": 50,
+      "target": 26
+    },
+    {
+      "source": 50,
+      "target": 20
     }
   ],
   "metadata": {
-    "totalNodes": 37,
+    "totalNodes": 53,
     "totalEdges": 95,
-    "generatedAt": "2026-07-19T15:36:49.444Z"
+    "generatedAt": "2026-07-21T06:22:12.433Z"
   }
 }
