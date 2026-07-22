@@ -34,13 +34,7 @@ jobs:
           node-version: '20'
 
       - name: Install Python dependencies
-        run: |
-          pip install mkdocs-material
-          pip install mkdocs-awesome-pages-plugin
-          pip install mkdocs-minify-plugin
-          pip install mkdocs-git-revision-date-localized-plugin
-          pip install pymdownx-extensions
-          pip install Pygments
+        run: pip install -r requirements.txt
 
       - name: Lint wiki (fail on errors)
         run: node scripts/lint-wiki.js
