@@ -15,8 +15,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  ensure-pages-workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ensure Pages build_type is workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CURRENT=$(gh api repos/{owner}/{repo}/pages --jq .build_type 2>/dev/null || echo "")
+          if [ "$CURRENT" != "workflow" ]; then
+            echo "Pages build_type is '$CURRENT' — switching to 'workflow'"
+            gh api repos/{owner}/{repo}/pages -X PUT -f build_type=workflow || true
+          else
+            echo "Pages build_type already 'workflow' — OK"
+          fi
+
   build:
     runs-on: ubuntu-latest
+    needs: ensure-pages-workflow
     steps:
       - name: Checkout
         uses: actions/checkout@v4
