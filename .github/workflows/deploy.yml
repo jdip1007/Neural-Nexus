@@ -34,7 +34,13 @@ jobs:
           node-version: '20'
 
       - name: Install Python dependencies
-        run: pip install mkdocs-material==9.7.6 mkdocs-awesome-pages-plugin==2.10.1 mkdocs-minify-plugin==0.8.0 mkdocs-git-revision-date-localized-plugin==1.3.0 pymdown-extensions==10.7.1 Pygments==2.19.2
+        run: |
+          pip install mkdocs-material
+          pip install mkdocs-awesome-pages-plugin
+          pip install mkdocs-minify-plugin
+          pip install mkdocs-git-revision-date-localized-plugin
+          pip install pymdownx-extensions
+          pip install Pygments
 
       - name: Lint wiki (fail on errors)
         run: node scripts/lint-wiki.js
@@ -46,7 +52,7 @@ jobs:
         run: node scripts/generate-catalog.js
 
       - name: Build MkDocs site
-        run: mkdocs build --site-dir ./site
+        run: mkdocs build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
