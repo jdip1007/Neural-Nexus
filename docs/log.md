@@ -82,3 +82,11 @@
 - All critical errors resolved, remaining warnings are mostly example citations
 - Features: [[wikilink]] rendering, citation enforcement, review tracking, active link discovery
 - Automation: Hermes Agent integration planned
+## [2026-07-23] create | Optimisation Techniques for Small-Scale Simulation
+- Created concept page: concepts/optimisation-techniques-small-scale-simulation.md
+- Classification: computer-science.simulation.optimisation
+- Domain: devops
+- Tags: simulation, optimisation, performance, game-development, computer-science, data-structures, rendering, algorithms, canvas, web-performance
+- Updated SCHEMA.md: added tags (simulation, optimisation, performance, game-development, data-structures, algorithms, rendering, canvas, web-performance), added classification tree (computer-science/simulation)
+- Built graph: 54 nodes, 95 edges
+- Regenerated catalog

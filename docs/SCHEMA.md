@@ -81,7 +81,7 @@ sha256: <hex digest of body content>
 - research-methodology, youtube-research, qgn-method, prompt-engineering, fine-tuning, model-comparison
 
 ### Meta
-- research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility
+- research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility, simulation, optimisation, performance, game-development, data-structures, algorithms, rendering, canvas, web-performance
 
 **Rule**: Every tag must appear in this taxonomy. Add new tags here first.
 
@@ -110,11 +110,13 @@ concepts/
 │   └── reproducibility/           # Reproducibility crisis, validation
 └── systems/
     └── knowledge-systems/         # Neural Nexus, personal KBs
-├── artificial-intelligence/       # Future: AI/ML concepts
+├── artificial-intelligence/       # AI/ML concepts
 │   ├── large-language-models/    # LLMs, foundation models
 │   ├── multimodal-ai/             # Text, image, audio models
 │   ├── ai-safety/                # Alignment, ethics, safety
 │   └── generative-ai/            # Gemini, Claude, GPT, etc.
+├── computer-science/              # CS concepts
+│   └── simulation/               # Particle simulations, cellular automata
 
 ### Entity Classifications
 
