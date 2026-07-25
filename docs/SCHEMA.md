@@ -59,9 +59,9 @@ sha256: <hex digest of body content>
 ### Domains
 - ai, ml, llm, deep-learning, nlp, computer-vision, gemini, generative-ai
 - biotech, genomics, dna, nanotechnology, synthetic-biology
-- finance, trading, economics, cryptocurrency, risk-management
+- finance, insurance, savings-insurance, trading, economics, cryptocurrency, risk-management, financial-literacy, personal-finance, financial-planning
 - devops, infrastructure, security, reliability, monitoring
-- psychology, neuroscience, cognitive-science, behavior
+- psychology, neuroscience, cognitive-science, behavior, mental-health
 - hermes, automation, workflow, knowledge-management
 
 ### Topics
@@ -73,12 +73,17 @@ sha256: <hex digest of body content>
 - liquid-biopsy, diagnostics, microbiology, ecology, environmental-science, biotechnology, biology, biochemistry
 - genetics, biodiversity, conservation, ecosystems, cell-line, pcr, quality-control
 - markets, portfolio, analysis, algorithmic-trading
+- insurance, insurance-products, life-insurance, investment-products, investment-risk, opportunity-cost, insurtech, health-insurance, investment-myths
 - kubernetes, ci-cd, observability, site-reliability
 - learning, decision-making, therapy, cognitive-bias, criminal-behavior, forensic-psychology
 - hong-kong, media-ethics, celebrity-privacy, blackmail, legal-science, forensic-science, dna-evidence
 - criminal-justice, crime-investigation, legal-cases, dangerous-person-2-0, dangerous-person-2.0
 - celebrity, television-personality, blackmail-victim, serial-offender, criminal
 - research-methodology, youtube-research, qgn-method, prompt-engineering, fine-tuning, model-comparison
+- mental-health, trauma, ptsd, autism, neurodiversity, adhd, diagnosis, misdiagnosis, cognitive-disengagement, misconceptions
+- dating, relationships, love, friendship, gender, social-dynamics, modern-dating, parenting, communication, social-skills, anxiety, emotions, frustration
+- mindset, personal-development, success, stoicism, personality, authenticity, social-perception, impatience, failure, self-perception, intelligence, smart-people, support, dreams, goals, dissociative-identity
+- healthygamergg, technology
 
 ### Meta
 - research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility, simulation, optimisation, performance, game-development, data-structures, algorithms, rendering, canvas, web-performance
@@ -102,14 +107,20 @@ concepts/
 │   └── environmental-biology/     # Ecology, conservation, environmental monitoring
 ├── psychology/
 │   ├── forensic-psychology/       # Criminal behavior, criminal psychology
-│   └── media-ethics/              # Celebrity privacy, blackmail
+│   ├── media-ethics/              # Celebrity privacy, blackmail
+│   ├── dating/                    # Dating, modern dating, relationships
+│   ├── mental-health/            # Mental health, diagnosis, therapy
+│   ├── relationships/            # Interpersonal relationships, communication
+│   ├── personal-development/     # Mindset, success, personal growth
+│   ├── personality/              # Personality traits, stoicism, authenticity
+│   └── trauma/                   # Trauma, PTSD, dissociative disorders
 ├── legal-science/
 │   └── forensic-evidence/         # DNA evidence, legal frameworks
 ├── research-methodology/
 │   ├── knowledge-management/      # Knowledge preservation, systems
 │   └── reproducibility/           # Reproducibility crisis, validation
-└── systems/
-    └── knowledge-systems/         # Neural Nexus, personal KBs
+├── systems/
+│   └── knowledge-systems/         # Neural Nexus, personal KBs
 ├── artificial-intelligence/       # AI/ML concepts
 │   ├── large-language-models/    # LLMs, foundation models
 │   ├── multimodal-ai/             # Text, image, audio models
@@ -117,6 +128,8 @@ concepts/
 │   └── generative-ai/            # Gemini, Claude, GPT, etc.
 ├── computer-science/              # CS concepts
 │   └── simulation/               # Particle simulations, cellular automata
+└── finance/                       # Financial concepts
+    └── insurance-products/        # Savings insurance, life insurance
 
 ### Entity Classifications
 
@@ -146,16 +159,24 @@ entities/
 |---|---|
 | `biotechnology.molecular-biology.dna-operations` | dna-extraction, dna-extraction-methodologies, pcr, tissue-specific-dna-extraction |
 | `biotechnology.molecular-biology.omics` | genomics |
-|| `biotechnology.sequencing` | nanopore-sequencing, adaptive-sampling |
-|| `biotechnology.laboratory-methods` | sample-preparation, cell-line-culture |
-|| `biotechnology.environmental-biology` | ecology, conservation-biology, environmental-dna-analysis, environmental-monitoring |
-|| `psychology.forensic-psychology` | criminal-psychology-behavior-patterns |
-|| `psychology.media-ethics` | celebrity-privacy-media-ethics |
-|| `legal-science.forensic-evidence` | dna-evidence-hong-kong-legal-system |
-|| `research-methodology.knowledge-management` | knowledge-preservation, dangerous-person-2-0-research-overview, dangerous-person-2-0-research-project |
-|| `research-methodology.reproducibility` | reproducibility-crisis |
-|| `systems.knowledge-systems` | neural-nexus, molecular-biology |
-|| `artificial-intelligence.generative-ai` | gemini |
+| `biotechnology.sequencing` | nanopore-sequencing, adaptive-sampling |
+| `biotechnology.laboratory-methods` | sample-preparation, cell-line-culture |
+| `biotechnology.environmental-biology` | ecology, conservation-biology, environmental-dna-analysis, environmental-monitoring |
+| `psychology.forensic-psychology` | criminal-psychology-behavior-patterns |
+| `psychology.media-ethics` | celebrity-privacy-media-ethics |
+| `psychology.dating` | why-modern-dating-feels-like-parenting, why-smart-people-are-bad-at-dating, why-you-freeze-up-when-you-talk-to-women |
+| `psychology.mental-health` | ai-therapy-is-making-you-mentally-weak, the-most-misdiagnosed-condition-in-mental-health, what-everyone-gets-wrong-about-adhd |
+| `psychology.relationships` | can-men-women-be-friends_, how-your-brain-perceives-love-when-you-have-autism, i-did-everything-right-i-still-cant-find-love, why-validating-feelings-can-ruin-relationships, why-your-partner-doesnt-support-your-dreams |
+| `psychology.personal-development` | how-to-actually-have-an-elite-mindset, the-impatient-man_-why-you-feel-like-a-failure, why-learning-from-failure-is-ruining-your-life |
+| `psychology.personality` | nobody-cares-how-stoic-you-are |
+| `psychology.trauma` | how-trauma-splits-a-soul |
+| `legal-science.forensic-evidence` | dna-evidence-hong-kong-legal-system |
+| `research-methodology.knowledge-management` | knowledge-preservation, dangerous-person-2-0-research-overview, dangerous-person-2-0-research-project |
+| `research-methodology.reproducibility` | reproducibility-crisis |
+| `systems.knowledge-systems` | neural-nexus, molecular-biology |
+| `artificial-intelligence.generative-ai` | gemini |
+| `computer-science.simulation.optimisation` | optimisation-techniques-small-scale-simulation |
+| `finance.insurance-products` | savings-insurance |
 
 ### Entity Classification Reference
 
@@ -164,6 +185,7 @@ entities/
 | `person.researcher` | penn-rainford |
 | `person.legal-figure` | lam-kwok-wai-tuen-mun-rapist |
 | `person.media-figure` | x-television-celebrity |
+| `organization.insurance-provider` | bowtie-insurance |
 
 ## Content Types
 

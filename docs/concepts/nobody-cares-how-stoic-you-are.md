@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores nobody cares how stoic you are and pro
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Nobody Cares How Stoic You Are (Anima_Animus).md]]
+**Original Page:** Nobody Cares How Stoic You Are (Anima_Animus).md
 **Accessed:** 2026-07-21
 
 ## Related

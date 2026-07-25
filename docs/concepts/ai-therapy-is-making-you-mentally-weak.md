@@ -34,11 +34,13 @@ This content from HealthyGamerGG explores ai therapy is making you mentally weak
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[how-trauma-splits-a-soul]]
+- [[the-most-misdiagnosed-condition-in-mental-health]]
+- [[what-everyone-gets-wrong-about-adhd]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[AI Therapy is Making You Mentally Weak.md]]
+**Original Page:** AI Therapy is Making You Mentally Weak.md
 **Accessed:** 2026-07-21
 
 ## Related

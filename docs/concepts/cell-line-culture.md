@@ -113,7 +113,18 @@ Modern cell line culture has evolved significantly:
 - [[molecular-biology]] — Broader application domain
 - [[tissue-specific-dna-extraction]] — Advanced applications of cell culture
 - [[tissue-specific-dna-extraction]] — Clinical applications of cultured cells
-
+- [[environmental-dna-analysis]]
+- [[dna-extraction-methodologies]]
+- [[sample-preparation]]
+- [[colony-pcr-dna-extraction-method]]
+- [[agarose-plug-dna-extraction-method]]
+- [[brain-tissue-dna-extraction-method]]
+- [[pcr]]
+- [[nanopore-sequencing]]
+- [[cell-line-dna-qgn-extraction-method]]
+- [[genomics]]
+- [[cell-free-dna-cfdna-info-sheet]]
+- [[environmental-water-edna-extraction-method]]
 ## Sources
 
 - ^[raw/articles/cell-line-dna-pure-extraction-method.md]

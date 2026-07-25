@@ -34,11 +34,12 @@ This content from HealthyGamerGG explores why 'learning from failure' is ruining
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[how-to-actually-have-an-elite-mindset]]
+- [[the-impatient-man_-why-you-feel-like-a-failure]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why 'Learning From Failure' Is Ruining Your Life.md]]
+**Original Page:** Why 'Learning From Failure' Is Ruining Your Life.md
 **Accessed:** 2026-07-21
 
 ## Related

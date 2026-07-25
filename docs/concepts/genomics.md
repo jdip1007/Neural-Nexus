@@ -89,7 +89,18 @@ Genomic data analysis involves:
 - [molecular-biology](concepts/molecular-biology.md) — Broader field encompassing genomic techniques
 - [[genomics]] — Computational methods for genomic data analysis
 - [[genomics]] — Study of heritable changes not involving DNA sequence changes
-
+- [[sample-preparation]]
+- [[agarose-plug-dna-extraction-method]]
+- [[brain-tissue-dna-extraction-method]]
+- [[pcr]]
+- [[nanopore-sequencing]]
+- [[cell-line-dna-pure-extraction-method]]
+- [[cell-line-culture]]
+- [[cell-line-dna-qgn-extraction-method]]
+- [[environmental-water-edna-extraction-method]]
+- [[tissue-specific-dna-extraction]]
+- [[environmental-dna-analysis]]
+- [[dna-extraction-methodologies]]
 ## History
 - **1953**: Watson and Crick discover DNA double helix structure
 - **1977**: Frederick Sanger develops DNA sequencing method

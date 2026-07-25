@@ -34,11 +34,13 @@ This content from HealthyGamerGG explores the most misdiagnosed condition in men
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[what-everyone-gets-wrong-about-adhd]]
+- [[how-trauma-splits-a-soul]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome).md]]
+**Original Page:** The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome).md
 **Accessed:** 2026-07-21
 
 ## Related

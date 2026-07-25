@@ -34,11 +34,17 @@ This content from HealthyGamerGG explores why smart people are bad at dating and
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[why-your-partner-doesnt-support-your-dreams]]
+- [[why-modern-dating-feels-like-parenting]]
+- [[can-men-women-be-friends_]]
+- [[why-validating-feelings-can-ruin-relationships]]
+- [[how-your-brain-perceives-love-when-you-have-autism]]
+- [[i-did-everything-right-i-still-cant-find-love]]
+- [[why-you-freeze-up-when-you-talk-to-women]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why Smart People Are Bad At Dating.md]]
+**Original Page:** Why Smart People Are Bad At Dating.md
 **Accessed:** 2026-07-21
 
 ## Related

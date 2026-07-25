@@ -134,7 +134,7 @@ Into a coherent, navigable web of scientific knowledge
 - [[knowledge-preservation]] - Framework for making data Findable, Accessible, Interoperable, and Reusable
 - [[knowledge-preservation]] - Unwritten expertise that's particularly vulnerable to loss through researcher turnover
 - [[knowledge-preservation]] - Broader field encompassing strategies for organizational knowledge retention and sharing
-
+- [[dangerous-person-2-0-research-project]]
 ## Open Questions
 
 1. How can we effectively capture and preserve tacit knowledge that's often unwritten and difficult to formalize?

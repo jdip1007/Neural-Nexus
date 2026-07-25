@@ -34,11 +34,17 @@ This content from HealthyGamerGG explores why 'validating feelings' can ruin rel
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[how-your-brain-perceives-love-when-you-have-autism]]
+- [[i-did-everything-right-i-still-cant-find-love]]
+- [[why-you-freeze-up-when-you-talk-to-women]]
+- [[why-smart-people-are-bad-at-dating]]
+- [[can-men-women-be-friends_]]
+- [[why-your-partner-doesnt-support-your-dreams]]
+- [[why-modern-dating-feels-like-parenting]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why _Validating Feelings_ Can Ruin Relationships.md]]
+**Original Page:** Why _Validating Feelings_ Can Ruin Relationships.md
 **Accessed:** 2026-07-21
 
 ## Related

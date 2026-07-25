@@ -130,7 +130,9 @@ Environmental monitoring operates through a systematic process:
 - [[environmental-monitoring]] — Long-term monitoring for sustainable development
 - [[environmental-monitoring]] — Climate monitoring and adaptation
 - [[environmental-monitoring]] — Monitoring of environmental contaminants
-
+- [[environmental-water-edna-extraction-method]]
+- [[environmental-dna-analysis]]
+- [[ecology]]
 ## History
 - **Early 1900s**: Beginning of systematic environmental monitoring
 - **1960s-1970s**: Expansion of monitoring networks and environmental awareness

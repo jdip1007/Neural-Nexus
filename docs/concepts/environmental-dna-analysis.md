@@ -148,7 +148,21 @@ Modern eDNA analysis has evolved significantly:
 - [ecology](concepts/ecology.md) - Application domain
 - [conservation-biology](concepts/conservation-biology.md) - Primary use case
 - [environmental-monitoring](concepts/environmental-monitoring.md) - Broader context
-
+- [[brain-tissue-dna-extraction-method]]
+- [[genomics]]
+- [[tissue-specific-dna-extraction]]
+- [[24hr-genome-e2e-promethion-document]]
+- [[cell-free-dna-cfdna-info-sheet]]
+- [[environmental-monitoring]]
+- [[adaptive-sampling-document]]
+- [[pcr]]
+- [[molecular-biology]]
+- [[nanopore-sequencing]]
+- [[cell-line-dna-pure-extraction-method]]
+- [[colony-pcr-dna-extraction-method]]
+- [[cell-line-culture]]
+- [[cell-line-dna-qgn-extraction-method]]
+- [[agarose-plug-dna-extraction-method]]
 ## Sources
 
 - ^[raw/articles/environmental-water-edna-extraction-method.md]

@@ -104,7 +104,7 @@ Molecular biology operates through several fundamental processes:
 - [[genomics]] — Computational analysis of molecular data
 - [[cell-line-culture]] — Study of cellular structures and processes
 - [[molecular-biology]] — Study of heredity and gene functions
-
+- [[neural-nexus]]
 ## History
 - **1869**: Friedrich Miescher discovers DNA
 - **1953**: Watson and Crick propose DNA double helix structure

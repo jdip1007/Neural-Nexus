@@ -77,7 +77,20 @@ Each cycle doubles the amount of the target DNA sequence, resulting in exponenti
 - [genomics](concepts/genomics.md) — Field that relies on PCR techniques for DNA analysis
 - [molecular-biology](concepts/molecular-biology.md) — Broader scientific discipline encompassing PCR
 - [sample-preparation](concepts/sample-preparation.md) — Critical step ensuring PCR success
-
+- [[adaptive-sampling-document]]
+- [[environmental-dna-analysis]]
+- [[cell-line-dna-pure-extraction-method]]
+- [[sample-preparation]]
+- [[cell-line-culture]]
+- [[cell-line-dna-qgn-extraction-method]]
+- [[agarose-plug-dna-extraction-method]]
+- [[brain-tissue-dna-extraction-method]]
+- [[tissue-specific-dna-extraction]]
+- [[24hr-genome-e2e-promethion-document]]
+- [[genomics]]
+- [[cell-free-dna-cfdna-info-sheet]]
+- [[environmental-water-edna-extraction-method]]
+- [[environmental-monitoring]]
 ## History
 - **1983**: Kary Mullis invents PCR while working at Cetus Corporation
 - **1985**: First publication of PCR technique

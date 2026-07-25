@@ -147,7 +147,18 @@ Modern tissue-specific extraction has evolved significantly:
 - [genomics](concepts/genomics.md) - Primary research domain
 - [[molecular-biology]] - Implementation context
 - [sample-preparation](concepts/sample-preparation.md) - Essential precursor step
-
+- [[pcr]]
+- [[24hr-genome-e2e-promethion-document]]
+- [[cell-line-dna-pure-extraction-method]]
+- [[genomics]]
+- [[cell-free-dna-cfdna-info-sheet]]
+- [[environmental-water-edna-extraction-method]]
+- [[adaptive-sampling-document]]
+- [[environmental-dna-analysis]]
+- [[nanopore-sequencing]]
+- [[colony-pcr-dna-extraction-method]]
+- [[cell-line-dna-qgn-extraction-method]]
+- [[agarose-plug-dna-extraction-method]]
 ## Sources
 
 - ^[raw/articles/agarose-plug-dna-extraction-method.md]

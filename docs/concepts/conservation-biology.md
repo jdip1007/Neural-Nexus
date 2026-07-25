@@ -131,7 +131,8 @@ Conservation biology operates through several key approaches:
 - [environmental-monitoring](concepts/environmental-monitoring.md) — Assessment of conservation effectiveness
 - [[environmental-monitoring]] — Long-term conservation goals
 - [[environmental-monitoring]] — Major threat addressed by conservation biology
-
+- [[environmental-water-edna-extraction-method]]
+- [[ecology]]
 ## History
 - **1800s**: Early conservation movements and protected areas
 - **1900s**: National parks movement and wildlife protection

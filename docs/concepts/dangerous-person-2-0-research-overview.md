@@ -184,3 +184,4 @@ The project serves as a model for future research initiatives and demonstrates t
 - [[dna-evidence-hong-kong-legal-system]] - Modern forensic investigation techniques
 - [[criminal-psychology-behavior-patterns]] - Methods for reducing crime in Hong Kong
 - [[knowledge-preservation]] - Best practices for knowledge organization
+- [[lam-kwok-wai-tuen-mun-rapist]]

@@ -273,3 +273,5 @@ The concept demonstrates how technological innovation can drive legal evolution 
 - [[lam-kwok-wai-tuen-mun-rapist]] — Tuen Mun Rapist case (Hong Kong's first DNA case)
 - [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research
 - [[celebrity-privacy-media-ethics]] — Privacy and media ethics
+- [[x-television-celebrity]]
+- [[psychology]]

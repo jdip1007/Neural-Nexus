@@ -34,11 +34,13 @@ This content from HealthyGamerGG explores how trauma splits a soul and provides 
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[the-most-misdiagnosed-condition-in-mental-health]]
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[what-everyone-gets-wrong-about-adhd]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[How Trauma Splits A Soul (Dissociative Identity Disorder).md]]
+**Original Page:** How Trauma Splits A Soul (Dissociative Identity Disorder).md
 **Accessed:** 2026-07-21
 
 ## Related

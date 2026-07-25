@@ -209,7 +209,7 @@ Open Questions: Optimal attention for 1M+ context?
 
 **Structure:**
 1. **Question** — Frame as a question
-2. **Evidence** — Sources, observations, data (with provenance `^[raw/...]`)
+2. **Evidence** — Sources, observations, data (with provenance [raw/...])
 3. **Analysis** — Reasoning chain connecting evidence
 4. **Conclusion** — 1-3 sentences, the takeaway
 5. **Limitations** — What could be wrong
@@ -282,17 +282,17 @@ sources: [raw/articles/attention-is-all-you-need.md, raw/videos/karpathy-llm-wik
 When a specific paragraph's claims come from a source, mark it:
 ```markdown
 Transformers replaced RNNs because of their parallelism and long-range
-attention. ^[raw/articles/attention-is-all-you-need.md]
+attention. [raw/articles/attention-is-all-you-need.md]
 
 However, attention scales quadratically with sequence length, which
-limits context windows. ^[raw/videos/flash-attention-explained.md]
+limits context windows. [raw/videos/flash-attention-explained.md]
 ```
 
 This lets a reader trace each claim to the exact source without re-reading the whole file.
 
 ### Citation rules by content type
 
-| Type | Frontmatter `sources:` | Inline `^[raw/...]` | Lint enforcement |
+| Type | Frontmatter `sources:` | Inline [raw/...] | Lint enforcement |
 |------|----------------------|---------------------|------------------|
 | **reading** | REQUIRED (it's a summary OF a source) | Recommended for specific quotes | Error if missing |
 | **finding** | REQUIRED (evidence-based) | REQUIRED for each evidence point | Error if missing |
@@ -316,7 +316,7 @@ If a page references an external URL in prose, that URL should be **captured to 
 **Workflow:**
 1. Page references `https://example.com/article`
 2. Fetch the article → save to `raw/articles/example-article.md` (with raw frontmatter: source_url, ingested, sha256)
-3. Replace bare URL in prose with inline citation: `^[raw/articles/example-article.md]`
+3. Replace bare URL in prose with inline citation: [raw/articles/example-article.md]
 4. Add to frontmatter: `sources: [raw/articles/example-article.md]`
 
 **Exception:** URLs pointing to tools, documentation, or services (e.g., `https://docs.python.org/`) don't need capturing — they're references, not sources of knowledge claims.
@@ -324,7 +324,7 @@ If a page references an external URL in prose, that URL should be **captured to 
 ### What the lint checks
 1. **Missing sources** — readings/findings without any citations → error
 2. **Missing sources** — concepts/entities/comparisons without citations → warning
-3. **Orphan citations** — inline `^[raw/path]` pointing to a file that doesn't exist → warning
+3. **Orphan citations** — inline [raw/path] pointing to a file that doesn't exist → warning
 4. **Missing source files** — frontmatter `sources:` listing files that don't exist → warning
 5. **Uncaptured URLs** — external URLs in prose with no corresponding raw source → info
 
@@ -417,7 +417,7 @@ Before saving any page:
 - [ ] Minimum 2 outbound `[[wikilinks]]`
 - [ ] Wikilinks point to existing pages (or plan to create them)
 - [ ] No copied content — synthesized in your own words
-- [ ] Sources cited: `sources:` frontmatter field AND/OR inline `^[raw/...]` markers
+- [ ] Sources cited: `sources:` frontmatter field AND/OR inline [raw/...] markers
 - [ ] For readings: source file captured in `raw/` and listed in frontmatter
 - [ ] For findings: every evidence point has an inline citation
 - [ ] External URLs in prose are captured to `raw/` (not left as bare links)
@@ -578,3 +578,5 @@ train due to parallelism.
 
 - [neural-nexus](concepts/neural-nexus.md)
 - [setup-guide](references/setup-guide.md)
+- [[setup-guide]]
+- [[neural-nexus]]

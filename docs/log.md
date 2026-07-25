@@ -90,3 +90,16 @@
 - Updated SCHEMA.md: added tags (simulation, optimisation, performance, game-development, data-structures, algorithms, rendering, canvas, web-performance), added classification tree (computer-science/simulation)
 - Built graph: 54 nodes, 95 edges
 - Regenerated catalog
+
+## [2025-01-18] ingest | Savings Insurance Hong Kong Myths Exposed (Bowtie Video)
+- Created raw source: raw/videos/savings-insurance-hong-kong-myths-bowtie.md
+- Created reading page: readings/savings-insurance-hong-kong-myths-exposed.md
+- Created entity page: entities/bowtie-insurance.md
+- Created concept page: concepts/savings-insurance.md (comprehensive deep dive, 200+ lines)
+- Source: Bowtie Insurance YouTube video exposing savings insurance myths
+- Key finding: Only 6 out of 135 analyzed policies met projected returns (~95.5% underperformance)
+- Content coverage: Guaranteed principal illusion, return discrepancies, surrender risks, industry statistics
+- Added finance domain tags to SCHEMA.md: finance, savings-insurance, insurance, personal-finance, financial-literacy
+- Classification: finance.insurance-products
+- Comparison framework: Savings insurance vs. Term life + separate investment
+- Recommendations: Consumer guidance, evaluation questions, alternative strategies

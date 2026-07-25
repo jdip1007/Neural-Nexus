@@ -86,3 +86,14 @@ The method specifies precise buffer formulations including:
 - [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
 - [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
 - [[brain-tissue-dna-extraction-method]]
+- [[dna-extraction-methodologies]]
+- [[agarose-plug-dna-extraction-method]]
+- [[dna-extraction]]
+- [[environmental-dna-analysis]]
+- [[pcr]]
+- [[nanopore-sequencing]]
+- [[colony-pcr-dna-extraction-method]]
+- [[genomics]]
+- [[cell-free-dna-cfdna-info-sheet]]
+- [[environmental-water-edna-extraction-method]]
+- [[tissue-specific-dna-extraction]]

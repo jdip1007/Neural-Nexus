@@ -259,3 +259,5 @@ The concept demonstrates how psychological insights can improve understanding, p
 - [[celebrity-privacy-media-ethics]] — Privacy and media ethics
 - [[lam-kwok-wai-tuen-mun-rapist]] — Case study: Tuen Mun Rapist
 - [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research
+- [[psychology]]
+- [[relationships]]

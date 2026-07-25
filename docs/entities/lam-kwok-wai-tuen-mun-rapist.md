@@ -259,3 +259,7 @@ The entity demonstrates how individual criminal cases can have profound impacts 
 - [[dna-evidence-hong-kong-legal-system]] — DNA evidence in Hong Kong legal system
 - [[criminal-psychology-behavior-patterns]] — Criminal psychology patterns
 - [[dangerous-person-2-0-research-project]] — Research project details
+- [[psychology]]
+- [[x-television-celebrity]]
+- [[celebrity-privacy-media-ethics]]
+- [[dangerous-person-2-0-research-overview]]

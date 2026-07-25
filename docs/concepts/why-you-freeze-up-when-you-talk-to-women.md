@@ -34,11 +34,14 @@ This content from HealthyGamerGG explores why you freeze up when you talk to wom
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[why-smart-people-are-bad-at-dating]]
+- [[why-modern-dating-feels-like-parenting]]
+- [[why-validating-feelings-can-ruin-relationships]]
+- [[i-did-everything-right-i-still-cant-find-love]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K.md]]
+**Original Page:** Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K.md
 **Accessed:** 2026-07-21
 
 ## Related

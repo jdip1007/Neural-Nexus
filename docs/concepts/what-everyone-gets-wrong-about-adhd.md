@@ -34,11 +34,14 @@ This content from HealthyGamerGG explores what everyone gets wrong about adhd an
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[how-your-brain-perceives-love-when-you-have-autism]]
+- [[how-trauma-splits-a-soul]]
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[the-most-misdiagnosed-condition-in-mental-health]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[What Everyone Gets Wrong About ADHD.md]]
+**Original Page:** What Everyone Gets Wrong About ADHD.md
 **Accessed:** 2026-07-21
 
 ## Related

@@ -563,7 +563,7 @@ Multi-domain knowledge base: AI/ML, biotechnology, finance, psychology, devops, 
   - Minimum 2 outbound `[[wikilinks]]` per page
 - **Citations**: All pages derived from external material MUST cite sources
   - Frontmatter `sources:` field: list raw source files (e.g., `sources: [raw/articles/source.md]`)
-  - Inline provenance: `^[raw/articles/source.md]` at paragraph level for specific claims
+  - Inline provenance: [raw/articles/source.md] at paragraph level for specific claims
   - Readings and findings: MUST have sources (lint error if missing)
   - Concepts, entities, comparisons: SHOULD have sources when derived from material (lint warning)
   - Ideas: sources optional (original thoughts)
@@ -852,7 +852,8 @@ sources: []
 confidence: medium
 status: draft
 ---
-
+- [[writing-guide]]
+- [[neural-nexus]]
 # {{title}}
 
 ## Question
@@ -863,8 +864,8 @@ status: draft
 
 <!-- The data, observations, or reasoning that supports this finding. Cite sources inline. -->
 
-- **Source 1**: [observation or quote] ^[raw/articles/source-file.md]
-- **Source 2**: [observation or quote] ^[raw/videos/source-file.md]
+- **Source 1**: [observation or quote] [raw/articles/source-file.md]
+- **Source 2**: [observation or quote] [raw/videos/source-file.md]
 
 ## Analysis
 
@@ -1026,8 +1027,8 @@ status: active
 
 ## Sources
 
-- ^[raw/articles/source-file.md]
-- ^[raw/videos/source-file.md]
+- [raw/articles/source-file.md]
+- [raw/videos/source-file.md]
 
 ## Related
 
@@ -1109,8 +1110,8 @@ graph LR
 
 ## Sources
 
-- ^[raw/articles/source-file.md]
-- ^[raw/videos/source-file.md]
+- [raw/articles/source-file.md]
+- [raw/videos/source-file.md]
 ```
 
 **File: `docs/templates/comparison-template.md`**
@@ -1177,8 +1178,8 @@ status: active
 
 ## Sources
 
-- ^[raw/articles/source-file.md]
-- ^[raw/articles/source-file-2.md]
+- [raw/articles/source-file.md]
+- [raw/articles/source-file-2.md]
 
 ## Related
 
@@ -1194,7 +1195,7 @@ The writing guide teaches **how to write good wiki pages** — not just the stru
 - Frontmatter cheat sheet (required fields, confidence levels, status lifecycle)
 - Wikilink conventions (syntax, rules, what to link)
 - Per-content-type guidelines (structure, thresholds, common mistakes)
-- Provenance and citing sources (inline `^[raw/...]` markers)
+- Provenance and citing sources (inline [raw/...] markers)
 - Writing process (ingest workflow, updating, splitting)
 - Style guide (voice, formatting, naming, length targets)
 - Quality checklist (10-point pre-save checklist)
@@ -1350,7 +1351,7 @@ function parseFrontmatter(content) {
     // Parse inline array: [item1, item2, item3]
     if (value.startsWith('[') && value.endsWith(']')) {
       const inner = value.slice(1, -1).trim();
-      fm[key] = inner ? inner.split(',').map(s => s.trim().replace(/^["']|["']$/g, '')) : [];
+      fm[key] = inner ? inner.split(',').map(s => s.trim().replace(/["\'"]|["']$/g, '')) : [];
     } else {
       fm[key] = value;
     }
@@ -1551,7 +1552,7 @@ function parseFrontmatter(content) {
     }
     if (value.startsWith('[') && value.endsWith(']')) {
       const inner = value.slice(1, -1).trim();
-      fm[key] = inner ? inner.split(',').map(s => s.trim().replace(/^["']|["']$/g, '')) : [];
+      fm[key] = inner ? inner.split(',').map(s => s.trim().replace(/["\'"]|["']$/g, '')) : [];
     } else {
       fm[key] = value;
     }
@@ -1634,7 +1635,7 @@ Health checker — finds orphans, broken links, missing frontmatter, stale conte
 - Readings without sources → **error** (it's a summary OF a source)
 - Findings without sources → **error** (evidence-based)
 - Concepts/entities/comparisons without sources → **warning**
-- Inline `^[raw/...]` pointing to missing files → **warning**
+- Inline [raw/...] pointing to missing files → **warning**
 - Frontmatter `sources:` listing missing files → **warning**
 - External URLs in prose with no raw source captured → **info**
 
@@ -1707,7 +1708,7 @@ function parseFrontmatter(content) {
     }
     if (value.startsWith('[') && value.endsWith(']')) {
       const inner = value.slice(1, -1).trim();
-      fm[key] = inner ? inner.split(',').map(s => s.trim().replace(/^["']|["']$/g, '')) : [];
+      fm[key] = inner ? inner.split(',').map(s => s.trim().replace(/["\'"]|["']$/g, '')) : [];
     } else {
       fm[key] = value;
     }
@@ -2533,7 +2534,7 @@ User provides source
        ▼
 ⑥ Add citations
    • Add raw source to frontmatter sources: field
-   • Add inline ^[raw/path] markers on specific claims
+   • Add inline [raw/path] markers on specific claims
    • Readings: source is the subject — always cite
    • Findings: every evidence bullet gets inline citation
    • Concepts/entities: cite where info came from
@@ -2564,7 +2565,7 @@ Verify:
 - [ ] Raw source saved in `raw/articles/`
 - [ ] Reading page created in `readings/`
 - [ ] `sources:` frontmatter field cites the raw source
-- [ ] Inline `^[raw/...]` citations on specific claims
+- [ ] Inline [raw/...] citations on specific claims
 - [ ] Log entry appended to `log.md`
 - [ ] Catalog updated
 - [ ] Minimum 2 wikilinks per new page

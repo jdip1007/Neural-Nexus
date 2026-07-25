@@ -104,7 +104,14 @@ Modern DNA extraction has evolved significantly:
 - [[tissue-specific-dna-extraction]] — Specialized extraction approach
 - [[nanopore-sequencing]] — Sequencing application requiring pure DNA
 - [[environmental-dna-analysis]] — Environmental sample processing
-
+- [[agarose-plug-dna-extraction-method]]
+- [[brain-tissue-dna-extraction-method]]
+- [[24hr-genome-e2e-promethion-document]]
+- [[cell-line-dna-pure-extraction-method]]
+- [[cell-free-dna-cfdna-info-sheet]]
+- [[environmental-water-edna-extraction-method]]
+- [[adaptive-sampling-document]]
+- [[colony-pcr-dna-extraction-method]]
 ## Sources
 
 - ^[raw/articles/cell-line-dna-pure-extraction-method.md]

@@ -34,11 +34,12 @@ This content from HealthyGamerGG explores the impatient man: why you feel like a
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[why-learning-from-failure-is-ruining-your-life]]
+- [[how-to-actually-have-an-elite-mindset]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[The Impatient Man_ Why You Feel Like A Failure.md]]
+**Original Page:** The Impatient Man_ Why You Feel Like A Failure.md
 **Accessed:** 2026-07-21
 
 ## Related

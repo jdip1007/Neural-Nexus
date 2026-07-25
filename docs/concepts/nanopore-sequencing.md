@@ -105,7 +105,19 @@ Modern nanopore sequencing has evolved significantly:
 - [genomics](concepts/genomics.md) - Primary research domain
 - [[molecular-biology]] - Implementation context
 - [molecular-biology](concepts/molecular-biology.md) - Scientific foundation
-
+- [[agarose-plug-dna-extraction-method]]
+- [[dna-extraction]]
+- [[brain-tissue-dna-extraction-method]]
+- [[environmental-dna-analysis]]
+- [[cell-line-dna-pure-extraction-method]]
+- [[sample-preparation]]
+- [[colony-pcr-dna-extraction-method]]
+- [[cell-line-culture]]
+- [[cell-line-dna-qgn-extraction-method]]
+- [[genomics]]
+- [[tissue-specific-dna-extraction]]
+- [[cell-free-dna-cfdna-info-sheet]]
+- [[environmental-water-edna-extraction-method]]
 ## Sources
 
 - ^[raw/articles/24hr-genome-e2e-promethion-document.md]

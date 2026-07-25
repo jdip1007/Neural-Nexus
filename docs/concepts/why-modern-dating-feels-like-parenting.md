@@ -34,11 +34,17 @@ This content from HealthyGamerGG explores why modern dating feels like parenting
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[why-smart-people-are-bad-at-dating]]
+- [[can-men-women-be-friends_]]
+- [[why-your-partner-doesnt-support-your-dreams]]
+- [[why-validating-feelings-can-ruin-relationships]]
+- [[how-your-brain-perceives-love-when-you-have-autism]]
+- [[i-did-everything-right-i-still-cant-find-love]]
+- [[why-you-freeze-up-when-you-talk-to-women]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why Modern Dating Feels Like Parenting _ Lovemaxxing w_ Dr..md]]
+**Original Page:** Why Modern Dating Feels Like Parenting _ Lovemaxxing w_ Dr..md
 **Accessed:** 2026-07-21
 
 ## Related

@@ -34,11 +34,12 @@ This content from HealthyGamerGG explores how to actually have an elite mindset 
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-
+- [[the-impatient-man_-why-you-feel-like-a-failure]]
+- [[why-learning-from-failure-is-ruining-your-life]]
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[How To Actually Have An Elite Mindset.md]]
+**Original Page:** How To Actually Have An Elite Mindset.md
 **Accessed:** 2026-07-21
 
 ## Related
