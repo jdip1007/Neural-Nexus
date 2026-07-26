@@ -71,7 +71,7 @@ sha256: <hex digest of body content>
 - crispr, protein-design, drug-discovery, reproducibility, dna-extraction, molecular-biology, laboratory-technique
 - cell-biology, tissue-culture, genomics, dna-sequencing, long-read-sequencing, nanopore-sequencing, tissue-preparation
 - liquid-biopsy, diagnostics, microbiology, ecology, environmental-science, biotechnology, biology, biochemistry
-- genetics, biodiversity, conservation, ecosystems, cell-line, pcr, quality-control
+- genetics, biodiversity, conservation, ecosystems, cell-line, pcr, quality-control, gc-rich, dna-amplification, enhancers, betaine, dmso, additives, cold-spring-harbor
 - markets, portfolio, analysis, algorithmic-trading
 - insurance, insurance-products, life-insurance, investment-products, investment-risk, opportunity-cost, insurtech, health-insurance, investment-myths
 - kubernetes, ci-cd, observability, site-reliability

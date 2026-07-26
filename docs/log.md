@@ -82,6 +82,7 @@
 - All critical errors resolved, remaining warnings are mostly example citations
 - Features: [[wikilink]] rendering, citation enforcement, review tracking, active link discovery
 - Automation: Hermes Agent integration planned
+
 ## [2026-07-23] create | Optimisation Techniques for Small-Scale Simulation
 - Created concept page: concepts/optimisation-techniques-small-scale-simulation.md
 - Classification: computer-science.simulation.optimisation
@@ -103,3 +104,15 @@
 - Classification: finance.insurance-products
 - Comparison framework: Savings insurance vs. Term life + separate investment
 - Recommendations: Consumer guidance, evaluation questions, alternative strategies
+
+## [2026-07-26] ingest | PCR Amplification of GC-Rich Templates (Green & Sambrook 2019)
+- Created raw source: raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md
+- Created reading page: readings/pcr-gc-rich-templates-green-sambrook-2019.md
+- Created entity pages: entities/michael-r-green.md, entities/joseph-sambrook.md
+- Source: Cold Spring Harbor Protocols, DOI: 10.1101/pdb.prot095141
+- Key content: 4-additive cocktail (betaine, DTT, DMSO, BSA) for GC-rich PCR optimization
+- Content coverage: GC-rich template problems, additive enhancers, primer design guidelines, cycling conditions, "slowdown" PCR
+- Added biotechnology tags to SCHEMA.md: gc-rich, dna-amplification, enhancers, betaine, dmso, additives
+- Classification: biotechnology.molecular-biology.dna-operations
+- Related pages: Links to existing pcr concept page
+- Catalog updated: Added 3 new pages (1 reading + 2 entities)
