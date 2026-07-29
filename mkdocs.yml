@@ -29,6 +29,21 @@ nav:
         - Conservation Biology: concepts/conservation-biology.md
         - Environmental DNA Analysis: concepts/environmental-dna-analysis.md
         - Environmental Monitoring: concepts/environmental-monitoring.md
+      - Neuroscience:
+        - Neurodegeneration:
+          - Amyloid Beta: concepts/amyloid-beta.md
+          - APOE: concepts/apoe.md
+          - Neuroinflammation: concepts/neuroinflammation.md
+          - Tau Pathology: concepts/tau-pathology.md
+        - Brain Energy Dynamics:
+          - REM Sleep Energy Paradox: concepts/rem-sleep-energy-paradox.md
+          - Neurovascular Coupling: concepts/neurovascular-coupling.md
+          - Astrocyte-Neuron Lactate Shuttle: concepts/astrocyte-neuron-lactate-shuttle.md
+          - Brain Energy Metabolism: concepts/brain-energy-metabolism.md
+          - Brain Blood Volume: concepts/brain-blood-volume.md
+          - REM Sleep: concepts/rem-sleep.md
+          - NREM Sleep: concepts/nrem-sleep.md
+          - Theta-Band Activity: concepts/theta-band-activity.md
     - Psychology:
       - Forensic Psychology:
         - Criminal Psychology & Behavior Patterns: concepts/criminal-psychology-behavior-patterns.md
@@ -53,10 +68,15 @@ nav:
     - Person:
       - Researcher:
         - Penn Rainford: entities/penn-rainford.md
+        - Ko Matsui: entities/ko-matsui.md
+        - Yusuke Takahashi: entities/yusuke-takahashi.md
+        - Yoko Ikoma: entities/yoko-ikoma.md
       - Legal Figure:
         - Lam Kwok Wai (林國偉): entities/lam-kwok-wai-tuen-mun-rapist.md
       - Media Figure:
         - X先生 (Mr. X): entities/x-television-celebrity.md
+    - Organization:
+      - Tohoku University: entities/tohoku-university.md
   - Readings:
     - Overview: readings/index.md
     - Cell Line DNA Pure Extraction Method: readings/cell-line-dna-pure-extraction-method.md
@@ -69,6 +89,8 @@ nav:
     - 24-Hour Genome End-to-End Document - PromethION: readings/24hr-genome-e2e-promethion-document.md
     - Adaptive Sampling Document: readings/adaptive-sampling-document.md
     - Knowledge Preservation in the Era of Big Science and AI: readings/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
+    - Recent Advances in Alzheimer's Disease (Cell Review 2026): readings/recent-advances-alzheimers-disease-cell-review-2026.md
+    - Energy Paradox in REM Sleep (2026): readings/energy-paradox-rem-sleep-2026.md
   - References:
     - Overview: references/index.md
     - Setup Guide: references/setup-guide.md

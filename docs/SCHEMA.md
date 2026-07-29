@@ -58,7 +58,7 @@ sha256: <hex digest of body content>
 
 ### Domains
 - ai, ml, llm, deep-learning, nlp, computer-vision, gemini, generative-ai
-- biotech, genomics, dna, nanotechnology, synthetic-biology, neuroscience, medical-research, drug-development
+- biotech, genomics, dna, nanotechnology, synthetic-biology, neuroscience, medical-research, drug-development, sleep-research
 - finance, insurance, savings-insurance, trading, economics, cryptocurrency, risk-management, financial-literacy, personal-finance, financial-planning
 - devops, infrastructure, security, reliability, monitoring
 - psychology, cognitive-science, behavior, mental-health
@@ -67,7 +67,7 @@ sha256: <hex digest of body content>
 ### Topics
 
 - architecture, training, inference, alignment, safety, evaluation, fine-tuning, automation, multimodal
-- bioinformatics, computational-biology, sequencing, data-science, neurodegeneration, alzheimers-disease, tau-pathology, amyloid-beta, neuroimmunology, neuroinflammation, biomarker-discovery, disease-modifying-therapies, therapeutic-antibodies, apoe, biomarkers, cryo-em, post-translational-modifications, targeted-protein-degradation, gene-therapy, microglia, astrocytes, innate-immunity, adaptive-immunity, neurodevelopment, adolescence, neurology
+- bioinformatics, computational-biology, sequencing, data-science, neurodegeneration, alzheimers-disease, tau-pathology, amyloid-beta, neuroimmunology, neuroinflammation, biomarker-discovery, disease-modifying-therapies, therapeutic-antibodies, apoe, biomarkers, cryo-em, post-translational-modifications, targeted-protein-degradation, therapeutic-targeting, gene-therapy, microglia, astrocytes, innate-immunity, adaptive-immunity, neurodevelopment, adolescence, neurology, brain-metabolism, energy-dynamics, REM-sleep, neurovascular-coupling, cerebral-blood-flow, hemodynamics, lactate, pyruvate, ATP, sleep, ANLS, glucose, mitochondria
 - crispr, protein-design, drug-discovery, reproducibility, dna-extraction, molecular-biology, laboratory-technique
 - cell-biology, tissue-culture, genomics, dna-sequencing, long-read-sequencing, nanopore-sequencing, tissue-preparation
 - liquid-biopsy, diagnostics, microbiology, ecology, environmental-science, biotechnology, biology, biochemistry
@@ -75,18 +75,18 @@ sha256: <hex digest of body content>
 - markets, portfolio, analysis, algorithmic-trading
 - insurance, insurance-products, life-insurance, investment-products, investment-risk, opportunity-cost, insurtech, health-insurance, investment-myths
 - kubernetes, ci-cd, observability, site-reliability
-- learning, decision-making, therapy, cognitive-bias, criminal-behavior, forensic-psychology, psychiatric-comorbidity, neuropsychopathology, executive-function, prefrontal-cortex, longitudinal-study, connectomics, brain-connectivity
+- learning, decision-making, therapy, cognitive-bias, criminal-behavior, forensic-psychology, psychiatric-comorbidity, neuropsychopathology, executive-function, prefrontal-cortex, longitudinal-study, connectomics, brain-connectivity, developmental-psychopathology, heritability, neurobiology, comorbidity, intervention, stigma, gender-differences, prevalence, epigenetics, dopamine, cortical-maturation
 - hong-kong, media-ethics, celebrity-privacy, blackmail, legal-science, forensic-science, dna-evidence
 - criminal-justice, crime-investigation, legal-cases, dangerous-person-2-0, dangerous-person-2.0
 - celebrity, television-personality, blackmail-victim, serial-offender, criminal
-- research-methodology, youtube-research, qgn-method, prompt-engineering, fine-tuning, model-comparison
+- research-methodology, youtube-research, qgn-method, prompt-engineering, fine-tuning, model-comparison, university, research-institution, japan, glial-biology, brain-physiology, fluorescence-imaging, university-of-california
 - mental-health, trauma, ptsd, autism, neurodiversity, adhd, diagnosis, misdiagnosis, cognitive-disengagement, misconceptions
 - dating, relationships, love, friendship, gender, social-dynamics, modern-dating, parenting, communication, social-skills, anxiety, emotions, frustration
 - mindset, personal-development, success, stoicism, personality, authenticity, social-perception, impatience, failure, self-perception, intelligence, smart-people, support, dreams, goals, dissociative-identity
-- healthygamergg, technology
+- healthygamergg, technology, tohoku-university, brain-energy-dynamics
 
 ### Meta
-- research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility, simulation, optimisation, performance, game-development, data-structures, algorithms, rendering, canvas, web-performance
+- research, opinion, tutorial, reference, news, analysis, comparison, setup, writing, documentation, guide, knowledge-base, sustainability, validation, scientific-method, researcher, computer-science, research-tools, ai, open-science, reproducibility-crisis, research-crisis, reproducibility, simulation, optimisation, performance, game-development, data-structures, algorithms, rendering, canvas, web-performance, washington-university
 
 **Rule**: Every tag must appear in this taxonomy. Add new tags here first.
 
@@ -105,7 +105,9 @@ concepts/
 │   ├── sequencing/                # Nanopore, long-read, adaptive sampling
 │   ├── laboratory-methods/        # Sample prep, quality control, cell culture
 │   ├── environmental-biology/     # Ecology, conservation, environmental monitoring
-│   └── neuroscience/              # Neurodegeneration, neurobiology, brain research
+│   ├── neuroscience/              # Neurodegeneration, neurobiology, brain research
+│   │   ├── neurodegeneration/     # Alzheimer's, tau, amyloid
+│   │   └── brain-energy-dynamics/ # REM sleep energy paradox, neurovascular coupling, ANLS
 ├── psychology/
 │   ├── forensic-psychology/       # Criminal behavior, criminal psychology
 │   ├── media-ethics/              # Celebrity privacy, blackmail

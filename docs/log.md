@@ -1,3 +1,34 @@
+## [2026-07-29] ingest | Hinshaw 2018 ADHD Review (Annual Review of Clinical Psychology)
+
+- **Source:** Hinshaw SP (2018) — doi:10.1146/annurev-clinpsy-050817-084917
+- **Action:** Ingested PDF, created 4 wiki pages
+- **Files created:**
+  - `raw/articles/hinshaw-2018-adhd-review.md` (raw source)
+  - `readings/hinshaw-2018-adhd-review.md` (reading with full 154-item reference list)
+  - `concepts/adhd.md` (comprehensive concept page)
+  - `entities/stephen-p-hinshaw.md` (person/researcher)
+- **Tags added:** developmental-psychopathology, heritability, neurobiology, comorbidity, intervention, stigma, gender-differences, prevalence, epigenetics, dopamine, cortical-maturation, university-of-california
+- **Note:** First PDF (doc_26c9394ba424_file.pdf) was empty (0 chars, 0 images) — skipped
+
+## [2026-07-29] ingest | Energy Paradox in REM Sleep (Communications Biology 2026)
+
+- **Source:** Takahashi, Ikoma & Matsui (2026) — doi:10.1038/s42003-026-10646-6
+- **Action:** Ingested paper, created 10 wiki pages
+- **Files created:**
+  - `raw/articles/energy-paradox-rem-sleep-2026.md` (raw source)
+  - `readings/energy-paradox-rem-sleep-2026.md` (reading summary)
+  - `concepts/rem-sleep-energy-paradox.md` (core concept)
+  - `concepts/neurovascular-coupling.md` (concept)
+  - `concepts/astrocyte-neuron-lactate-shuttle.md` (concept)
+  - `concepts/brain-energy-metabolism.md` (concept)
+  - `concepts/brain-blood-volume.md` (concept)
+  - `entities/ko-matsui.md` (person/researcher)
+  - `entities/yusuke-takahashi.md` (person/researcher)
+  - `entities/yoko-ikoma.md` (person/researcher)
+  - `entities/tohoku-university.md` (organization)
+- **Tags added:** brain-metabolism, energy-dynamics, REM-sleep, neurovascular-coupling, cerebral-blood-flow, hemodynamics, lactate, pyruvate, ATP, sleep, sleep-research
+- **Classification added:** biotechnology.neuroscience.brain-energy-dynamics
+
 ## [2026-07-21] sync | HealthyGamerGG Content
 
 - **Source:** Hermes-Playground wiki
