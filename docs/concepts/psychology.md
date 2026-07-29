@@ -27,6 +27,13 @@ backlinks: []
 - [[nobody-cares-how-stoic-you-are]] — Personality
 - [[how-trauma-splits-a-soul]] — Trauma and dissociative disorders
 
+## Neuroscience and Mental Health
+
+- [[neuropsychopathological-factor]] — NP factor: shared neural basis of psychiatric comorbidity
+- [[psychiatric-comorbidity]] — Co-occurring mental disorders and shared mechanisms
+- [[prefrontal-cortex-development]] — PFC maturation and adolescent psychiatric risk
+- [[mental-health]] — Mental health hub
+
 ## Key Pages
 
 - [[criminal-psychology-behavior-patterns]] — Forensic psychology

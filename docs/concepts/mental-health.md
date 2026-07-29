@@ -23,6 +23,12 @@ backlinks: []
 - [[the-most-misdiagnosed-condition-in-mental-health]] — Misdiagnosis
 - [[what-everyone-gets-wrong-about-adhd]] — ADHD misconceptions
 
+## Comorbidity and Neural Mechanisms
+
+- [[psychiatric-comorbidity]] — Shared neural basis for co-occurring disorders
+- [[neuropsychopathological-factor]] — NP factor: crossdisorder brain signature
+- [[prefrontal-cortex-development]] — Delayed PFC maturation → psychiatric vulnerability
+
 ## Related Concepts
 
 - [[psychology]] — Parent domain

@@ -58,16 +58,16 @@ sha256: <hex digest of body content>
 
 ### Domains
 - ai, ml, llm, deep-learning, nlp, computer-vision, gemini, generative-ai
-- biotech, genomics, dna, nanotechnology, synthetic-biology
+- biotech, genomics, dna, nanotechnology, synthetic-biology, neuroscience, medical-research, drug-development
 - finance, insurance, savings-insurance, trading, economics, cryptocurrency, risk-management, financial-literacy, personal-finance, financial-planning
 - devops, infrastructure, security, reliability, monitoring
-- psychology, neuroscience, cognitive-science, behavior, mental-health
+- psychology, cognitive-science, behavior, mental-health
 - hermes, automation, workflow, knowledge-management
 
 ### Topics
 
 - architecture, training, inference, alignment, safety, evaluation, fine-tuning, automation, multimodal
-- bioinformatics, computational-biology, sequencing, data-science
+- bioinformatics, computational-biology, sequencing, data-science, neurodegeneration, alzheimers-disease, tau-pathology, amyloid-beta, neuroimmunology, neuroinflammation, biomarker-discovery, disease-modifying-therapies, therapeutic-antibodies, apoe, biomarkers, cryo-em, post-translational-modifications, targeted-protein-degradation, gene-therapy, microglia, astrocytes, innate-immunity, adaptive-immunity, neurodevelopment, adolescence, neurology
 - crispr, protein-design, drug-discovery, reproducibility, dna-extraction, molecular-biology, laboratory-technique
 - cell-biology, tissue-culture, genomics, dna-sequencing, long-read-sequencing, nanopore-sequencing, tissue-preparation
 - liquid-biopsy, diagnostics, microbiology, ecology, environmental-science, biotechnology, biology, biochemistry
@@ -75,7 +75,7 @@ sha256: <hex digest of body content>
 - markets, portfolio, analysis, algorithmic-trading
 - insurance, insurance-products, life-insurance, investment-products, investment-risk, opportunity-cost, insurtech, health-insurance, investment-myths
 - kubernetes, ci-cd, observability, site-reliability
-- learning, decision-making, therapy, cognitive-bias, criminal-behavior, forensic-psychology
+- learning, decision-making, therapy, cognitive-bias, criminal-behavior, forensic-psychology, psychiatric-comorbidity, neuropsychopathology, executive-function, prefrontal-cortex, longitudinal-study, connectomics, brain-connectivity
 - hong-kong, media-ethics, celebrity-privacy, blackmail, legal-science, forensic-science, dna-evidence
 - criminal-justice, crime-investigation, legal-cases, dangerous-person-2-0, dangerous-person-2.0
 - celebrity, television-personality, blackmail-victim, serial-offender, criminal
@@ -104,12 +104,17 @@ concepts/
 │   │   └── omics/                 # Genomics, bioinformatics
 │   ├── sequencing/                # Nanopore, long-read, adaptive sampling
 │   ├── laboratory-methods/        # Sample prep, quality control, cell culture
-│   └── environmental-biology/     # Ecology, conservation, environmental monitoring
+│   ├── environmental-biology/     # Ecology, conservation, environmental monitoring
+│   └── neuroscience/              # Neurodegeneration, neurobiology, brain research
 ├── psychology/
 │   ├── forensic-psychology/       # Criminal behavior, criminal psychology
 │   ├── media-ethics/              # Celebrity privacy, blackmail
 │   ├── dating/                    # Dating, modern dating, relationships
 │   ├── mental-health/            # Mental health, diagnosis, therapy
+│   │   └── comorbidity/           # Psychiatric comorbidity, NP factor
+│   ├── neuroscience/              # Brain connectivity, neuroimaging
+│   │   ├── neuropsychopathology/  # NP factor, crossdisorder brain signatures
+│   │   └── prefrontal-cortex-development/ # PFC maturation, executive function
 │   ├── relationships/            # Interpersonal relationships, communication
 │   ├── personal-development/     # Mindset, success, personal growth
 │   ├── personality/              # Personality traits, stoicism, authenticity

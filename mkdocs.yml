@@ -77,6 +77,8 @@ nav:
     - Overview: comparisons/index.md
   - Ideas:
     - Overview: ideas/index.md
+  - Findings:
+    - Overview: findings/index.md
   - Knowledge Graph: graph.md
   - Schema: SCHEMA.md
   - Extra Pages:
