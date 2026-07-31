@@ -63,6 +63,8 @@ sha256: <hex digest of body content>
 - devops, infrastructure, security, reliability, monitoring
 - psychology, cognitive-science, behavior, mental-health
 - hermes, automation, workflow, knowledge-management
+- laboratory, clinical-laboratory, laboratory-regulations, laboratory-developed-tests, ldt
+- biology, metabolism, scaling-laws, allometry, ecological-scaling
 
 ### Topics
 
@@ -71,7 +73,9 @@ sha256: <hex digest of body content>
 - crispr, protein-design, drug-discovery, reproducibility, dna-extraction, molecular-biology, laboratory-technique
 - cell-biology, tissue-culture, genomics, dna-sequencing, long-read-sequencing, nanopore-sequencing, tissue-preparation
 - liquid-biopsy, diagnostics, microbiology, ecology, environmental-science, biotechnology, biology, biochemistry
-- genetics, biodiversity, conservation, ecosystems, cell-line, pcr, quality-control, gc-rich, dna-amplification, enhancers, betaine, dmso, additives, cold-spring-harbor
+- genetics, biodiversity, conservation, ecosystems, cell-line, pcr, quality-control, gc-rich, dna-amplification, enhancers, betaine, dmso, additives, cold-spring-harbor, bioinformatics-validation, ngs-validation, molecular-diagnostics
+- clia, cms, 42-cfr-493, federal-regulations, fda-oversight, fda-approved-tests, fda-approval-process, fda-ldt-oversight, clia-requirements, clia-waived-tests, laboratory-director, proficiency-testing, calibration-verification, method-comparison, bridging-studies, regulatory-compliance, sample-requirements, risk-assessment, accreditation, validation, verification, verification-vs-validation, method-evaluation, method-development, method-implementation, change-control, performance-characteristics, accuracy, precision, sensitivity, specificity, analytical-validation, reference-interval-verification, diagnostic-accuracy, roc-analysis, decision-flow, quality-management, clinical-utility, bias, in-house-tests, aphl, toolkit, statistical-analysis
+- metabolic-scaling, power-law, comparative-physiology, basal-metabolic-rate, scaling-laws, fractal-networks, fractal-geometry, biological-networks, wbe-theory, kleibers-law, surface-law, superseded-theory, theoretical-biology, theoretical-physics, complex-systems, urban-scaling, heartbeats, heart-rate, lifespan, mathematics, historical-biology, historical-biologist, agricultural-science, science-communication, science-education, youtube-educator, youtube-channel, educational-content, veritasium, derek-muller, snatoms, geoffrey-west, scale-book
 - markets, portfolio, analysis, algorithmic-trading
 - insurance, insurance-products, life-insurance, investment-products, investment-risk, opportunity-cost, insurtech, health-insurance, investment-myths
 - kubernetes, ci-cd, observability, site-reliability
@@ -137,6 +141,12 @@ concepts/
 │   └── simulation/               # Particle simulations, cellular automata
 └── finance/                       # Financial concepts
     └── insurance-products/        # Savings insurance, life insurance
+├── laboratory/                    # Clinical laboratory science
+│   ├── regulatory/                # CLIA, accreditation, compliance
+│   ├── method-evaluation/         # Verification, validation, performance
+│   └── testing/                   # LDTs, technology implementation
+├── biology/                       # Biological sciences
+│   └── metabolic-scaling/        # Kleiber's law, WBE theory, allometry
 
 ### Entity Classifications
 
@@ -184,6 +194,10 @@ entities/
 | `artificial-intelligence.generative-ai` | gemini |
 | `computer-science.simulation.optimisation` | optimisation-techniques-small-scale-simulation |
 | `finance.insurance-products` | savings-insurance |
+| `laboratory.regulatory` | clia-regulations, cms, clia-waived-tests, laboratory-director, proficiency-testing, risk-assessment, regulatory-compliance, fda-approval-process, fda-ldt-oversight, accreditation/index |
+| `laboratory.method-evaluation` | laboratory-verification, laboratory-validation, method-performance, method-evaluation-decision-flow, quality-control, statistical-analysis, diagnostic-accuracy, roc-analysis, calibration-verification, method-comparison, bridging-studies, reference-interval-verification, clinical-utility, bioinformatics-validation, ngs-validation, sample-requirements |
+| `laboratory.testing` | laboratory-developed-tests, method-development, method-implementation, molecular-diagnostics |
+| `biology.metabolic-scaling` | kleibers-law, wbe-theory, surface-law, one-billion-heartbeats-phenomenon, metabolic-scaling, scaling-laws, fractal-networks, comparative-physiology, urban-scaling, lifespan, scale-book |
 
 ### Entity Classification Reference
 

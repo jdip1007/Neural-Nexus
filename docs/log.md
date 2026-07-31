@@ -1,68 +1,59 @@
-## [2026-07-29] ingest | Hinshaw 2018 ADHD Review (Annual Review of Clinical Psychology)
-
-- **Source:** Hinshaw SP (2018) — doi:10.1146/annurev-clinpsy-050817-084917
-- **Action:** Ingested PDF, created 4 wiki pages
-- **Files created:**
-  - `raw/articles/hinshaw-2018-adhd-review.md` (raw source)
-  - `readings/hinshaw-2018-adhd-review.md` (reading with full 154-item reference list)
-  - `concepts/adhd.md` (comprehensive concept page)
-  - `entities/stephen-p-hinshaw.md` (person/researcher)
-- **Tags added:** developmental-psychopathology, heritability, neurobiology, comorbidity, intervention, stigma, gender-differences, prevalence, epigenetics, dopamine, cortical-maturation, university-of-california
-- **Note:** First PDF (doc_26c9394ba424_file.pdf) was empty (0 chars, 0 images) — skipped
-
-## [2026-07-29] ingest | Energy Paradox in REM Sleep (Communications Biology 2026)
-
-- **Source:** Takahashi, Ikoma & Matsui (2026) — doi:10.1038/s42003-026-10646-6
-- **Action:** Ingested paper, created 10 wiki pages
-- **Files created:**
-  - `raw/articles/energy-paradox-rem-sleep-2026.md` (raw source)
-  - `readings/energy-paradox-rem-sleep-2026.md` (reading summary)
-  - `concepts/rem-sleep-energy-paradox.md` (core concept)
-  - `concepts/neurovascular-coupling.md` (concept)
-  - `concepts/astrocyte-neuron-lactate-shuttle.md` (concept)
-  - `concepts/brain-energy-metabolism.md` (concept)
-  - `concepts/brain-blood-volume.md` (concept)
-  - `entities/ko-matsui.md` (person/researcher)
-  - `entities/yusuke-takahashi.md` (person/researcher)
-  - `entities/yoko-ikoma.md` (person/researcher)
-  - `entities/tohoku-university.md` (organization)
-- **Tags added:** brain-metabolism, energy-dynamics, REM-sleep, neurovascular-coupling, cerebral-blood-flow, hemodynamics, lactate, pyruvate, ATP, sleep, sleep-research
-- **Classification added:** biotechnology.neuroscience.brain-energy-dynamics
-
-## [2026-07-21] sync | HealthyGamerGG Content
-
-- **Source:** Hermes-Playground wiki
-- **Action:** Synced 28 HealthyGamerGG YouTube videos to Neural-Nexus
-- **Content:** Psychology, relationships, dating, self-improvement
-- **Method:** Converted wiki pages to Neural-Nexus format with proper frontmatter
-- **Files:** Created 28 concept pages + raw transcripts
-
 # Neural Nexus Log
 
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: create, ingest, update, query, lint, deploy, archive, review, links
 
-## [2026-07-29] ingest | Recent advances in Alzheimer's disease (Cell Review 2026)
-- **Source:** Cell, Leading Edge Review, DOI: https://doi.org/10.1016/j.cell.2026.06.006
-- **Authors:** Michelle D. Rudman, Jason D. Ulrich, David M. Holtzman (Washington University)
-- **Files created:**
-  - Raw source: raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md
-  - Reading: readings/recent-advances-alzheimers-disease-cell-review-2026.md
-  - Concepts: concepts/amyloid-beta.md, concepts/tau-pathology.md, concepts/apoe.md, concepts/neuroinflammation.md
-  - Entities: entities/david-holtzman.md, entities/michelle-rudman.md, entities/jason-ulrich.md
-- **Schema updates:**
-  - Added neuroscience domain to Domains section
-  - Added neurodegeneration, alzheimers-disease, tau-pathology, amyloid-beta, neuroimmunology, biomarker-discovery, disease-modifying-therapies to Topics
-  - Added biotechnology.neuroscience classification branch
-- **Key insights:**
-  - First disease-modifying therapies (lecanemab, donanemab) show 30% slowing of cognitive decline
-  - Cryo-EM revealed disease-specific amyloid and tau filament structures
-  - Rare protective APOE variants discovered; gene therapy approaches under development
-  - Both innate and adaptive immune systems contribute to AD pathogenesis
-  - Plasma biomarkers (p-tau217, GFAP) enable early detection
-  - Co-pathologies (tau, neuroinflammation, lipid dyshomeostasis) become semi-autonomous after amyloid seeding
-- **Tags used:** neuroscience, neurodegeneration, alzheimers-disease, tau-pathology, amyloid-beta, neuroimmunology, biomarker-discovery, disease-modifying-therapies, cryo-em, therapeutic-antibodies, biotech
-- **Classification:** biotechnology.neuroscience.neurodegeneration
+## [2026-07-31] ingest | One Billion Heartbeats (Veritasium Video)
 
-## [2026-07-19] ingest | DangerousPerson2.0 YouTube Channel Research
+- **Source:** Veritasium YouTube video "Why does every mammal get 1 billion heartbeats in their life?" (July 25, 2026)
+- **Action:** Ingested video, created 10 wiki pages
+- **Files created:**
+  - `raw/videos/one-billion-heartbeats-veritasium.md` (raw source, 5,627 chars)
+  - `readings/one-billion-heartbeats-veritasium.md` (comprehensive reading summary, 8,121 chars)
+  - `concepts/kleibers-law.md` (3/4 power metabolic scaling, 8,914 chars)
+  - `concepts/wbe-theory.md` (West-Brown-Enquist fractal network theory, 9,926 chars)
+  - `concepts/one-billion-heartbeats-phenomenon.md` (constant heartbeat product, 8,109 chars)
+  - `concepts/surface-law.md` (historical 2/3 power theory, 7,487 chars)
+  - `entities/max-kleiber.md` (discoverer of Kleiber's Law, 6,534 chars)
+  - `entities/geoffrey-west.md` (WBE theory co-developer, 8,550 chars)
+  - `entities/brian-enquist.md` (WBE theory co-developer, 5,132 chars)
+  - `entities/veritasium.md` (science YouTube channel, 5,542 chars)
+  - `entities/derek-muller.md` (Veritasium creator, 6,565 chars)
+- **Graph update:** 123 nodes, 917 edges (increased from previous state)
+- **Catalog update:** 123 pages across 7 sections
+- **Tags used:** metabolic-scaling, kleibers-law, scaling-laws, fractal-networks, lifespan, heart-rate, biology, mathematics, wbe-theory, surface-law, comparative-physiology, theoretical-biology, allometry, historical-biology, superseded-theory, theoretical-physics, complex-systems, fractal-geometry, urban-scaling, ecological-scaling, biological-networks, science-communication, youtube-channel, educational-content, youtube-educator, science-education, snatoms, agricultural-science, historical-biologist, media-figure
+- **Note:** Full transcript unavailable due to YouTube bot protection; created pages based on video description, chapters, and expert credits
+
+## [2026-07-30] ingest | AI's Impact on Science (Nature 2026)
+
+- **Source:** Hao, Q., Xu, F., Li, Y., & Evans, J. (2026). "Artificial intelligence tools expand scientists' impact but contract science's focus." *Nature*, 649, 1237-1244. DOI: 10.1038/s41586-025-09922-y.
+- **Action:** Ingested paper, created 6 wiki pages
+- **Files created:**
+  - `raw/articles/ai-impacts-science-nature-2026.md` (raw source, 77,991 chars)
+  - `readings/ai-impacts-science-nature-2026.md` (reading summary with metrics)
+  - `entities/qianyue-hao.md` (person/researcher)
+  - `entities/fengli-xu.md` (person/researcher)
+  - `entities/yong-li.md` (person/researcher)
+  - `entities/james-evans.md` (person/researcher)
+  - `findings/ai-individual-gains-collective-loss.md` (key finding)
+- **Note:** First PDF (doc_ec779b330804_file.pdf) was empty (0 chars) — skipped
+- **Tags used:** ai, research, researcher, scientific-method, open-science, reproducibility, knowledge-management, analysis, computer-science
+## [2026-07-31] audit+fix | Full wiki audit, fix, and deploy
+- Audit: 130 nodes, 942 edges, 201 warnings, 94 broken wikilinks, 60 missing tags
+- Fixed: Added 60+ tags to SCHEMA.md taxonomy
+- Fixed: Moved raw/laboratory/ → docs/raw/laboratory/
+- Fixed: Source paths in reading page (removed absolute paths)
+- Fixed: Stale reviewed dates (7 pages updated to 2026-07-31)
+- Created: 25+ hub/entity pages to resolve broken wikilinks
+- Created: quality-control, metabolic-scaling, scaling-laws, fractal-networks, comparative-physiology
+- Created: james-brown, van-savage, peter-sheridan-dodds, steven-strogatz (entities)
+- Created: proficiency-testing, risk-assessment, statistical-analysis, cms, laboratory-director
+- Created: clia-waived-tests, sample-requirements, scale-book, diagnostic-accuracy, roc-analysis
+- Created: calibration-verification, method-comparison, bridging-studies, fda-ldt-oversight
+- Created: method-development, clinical-utility, executive-function, lifespan
+- Created: bioinformatics-validation, ngs-validation, molecular-diagnostics, urban-scaling
+- Created: change-control, method-implementation, regulatory-compliance, fda-approval-process
+- Created: reference-interval-verification
+- Updated: Classification tree in SCHEMA.md (laboratory + biology branches)
+- Updated: Classification reference table (4 new categories)

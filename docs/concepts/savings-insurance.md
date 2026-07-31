@@ -1,7 +1,7 @@
 ---
 title: Savings Insurance (儲蓄保)
 created: 2025-01-18
-updated: 2025-01-18
+updated: 2026-07-31
 type: concept
 classification: finance.insurance-products
 domain: finance
@@ -9,7 +9,7 @@ tags: [insurance, savings-insurance, investment-products, financial-planning, ho
 sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
 confidence: high
 status: active
-reviewed: 2025-01-18
+reviewed: 2026-07-31
 backlinks: []
 ---
 

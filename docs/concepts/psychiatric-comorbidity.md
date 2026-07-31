@@ -1,7 +1,7 @@
 ---
 title: Psychiatric Comorbidity
 created: 2025-01-21
-updated: 2025-01-21
+updated: 2026-07-31
 type: concept
 classification: psychology.mental-health.comorbidity
 domain: psychology
@@ -9,7 +9,7 @@ tags: [psychiatric-comorbidity, mental-health, diagnosis, executive-function, pr
 sources: [raw/articles/shared-neural-basis-psychiatric-comorbidity.md]
 confidence: high
 status: active
-reviewed: 2025-01-21
+reviewed: 2026-07-31
 backlinks: []
 ---
 

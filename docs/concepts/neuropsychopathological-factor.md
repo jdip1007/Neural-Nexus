@@ -1,7 +1,7 @@
 ---
 title: Neuropsychopathological Factor
 created: 2025-01-21
-updated: 2025-01-21
+updated: 2026-07-31
 type: concept
 classification: psychology.neuroscience.neuropsychopathology
 domain: psychology
@@ -9,7 +9,7 @@ tags: [neuropsychopathology, psychiatric-comorbidity, connectomics, brain-connec
 sources: [raw/articles/shared-neural-basis-psychiatric-comorbidity.md]
 confidence: high
 status: active
-reviewed: 2025-01-21
+reviewed: 2026-07-31
 backlinks: []
 ---
 

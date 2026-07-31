@@ -1,14 +1,14 @@
 ---
 title: Savings Insurance Hong Kong Myths Exposed (Bowtie Video)
 created: 2025-01-18
-updated: 2025-01-18
+updated: 2026-07-31
 type: reading
 domain: finance
 tags: [insurance, savings-insurance, hong-kong, personal-finance, financial-literacy, investment-myths]
 sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
 confidence: high
 status: active
-reviewed: 2025-01-18
+reviewed: 2026-07-31
 ---
 
 # TL;DR
