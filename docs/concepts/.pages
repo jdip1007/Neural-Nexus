@@ -1,2 +1,150 @@
-nav:
-  - ...
+title: Concepts
+arrange:
+  - Biotechnology:
+      - Molecular Biology:
+          - DNA Operations:
+              - dna-extraction.md
+              - dna-extraction-methodologies.md
+              - pcr.md
+              - tissue-specific-dna-extraction.md
+          - Omics:
+              - genomics.md
+      - Sequencing:
+          - nanopore-sequencing.md
+          - adaptive-sampling.md
+      - Laboratory Methods:
+          - sample-preparation.md
+          - cell-line-culture.md
+      - Environmental Biology:
+          - ecology.md
+          - conservation-biology.md
+          - environmental-dna-analysis.md
+          - environmental-monitoring.md
+      - Neuroscience:
+          - Neurodegeneration:
+              - amyloid-beta.md
+              - apoe.md
+              - neuroinflammation.md
+              - tau-pathology.md
+          - Brain Energy Dynamics:
+              - rem-sleep-energy-paradox.md
+              - neurovascular-coupling.md
+              - astrocyte-neuron-lactate-shuttle.md
+              - brain-energy-metabolism.md
+              - brain-blood-volume.md
+              - rem-sleep.md
+              - nrem-sleep.md
+              - theta-band-activity.md
+  - Laboratory:
+      - Accreditation: accreditation/
+      - Method Evaluation:
+          - bioinformatics-validation.md
+          - ngs-validation.md
+          - molecular-diagnostics.md
+          - proficiency-testing.md
+          - calibration-verification.md
+          - method-comparison.md
+          - bridging-studies.md
+          - reference-interval-verification.md
+          - diagnostic-accuracy.md
+          - roc-analysis.md
+      - Method Management:
+          - method-development.md
+          - method-implementation.md
+          - change-control.md
+          - quality-control.md
+      - Regulatory:
+          - clia-waived-tests.md
+          - clinical-utility.md
+          - cms.md
+          - fda-approval-process.md
+          - fda-ldt-oversight.md
+          - regulatory-compliance.md
+          - risk-assessment.md
+      - Personnel:
+          - laboratory-director.md
+  - Psychology:
+      - Forensic Psychology:
+          - criminal-psychology-behavior-patterns.md
+      - Media Ethics:
+          - celebrity-privacy-media-ethics.md
+      - Mental Health:
+          - psychology.md
+          - mental-health.md
+          - adhd.md
+          - executive-function.md
+          - prefrontal-cortex-development.md
+          - psychiatric-comorbidity.md
+          - neuropsychopathological-factor.md
+          - what-everyone-gets-wrong-about-adhd.md
+          - the-most-misdiagnosed-condition-in-mental-health.md
+      - Relationships & Dating:
+          - relationships.md
+          - how-trauma-splits-a-soul.md
+          - can-men-women-be-friends_.md
+          - why-validating-feelings-can-ruin-relationships.md
+          - why-modern-dating-feels-like-parenting.md
+          - why-smart-people-are-bad-at-dating.md
+          - i-did-everything-right-i-still-cant-find-love.md
+          - why-you-freeze-up-when-you-talk-to-women.md
+          - why-your-partner-doesnt-support-your-dreams.md
+          - ai-therapy-is-making-you-mentally-weak.md
+      - Personal Development:
+          - how-to-actually-have-an-elite-mindset.md
+          - nobody-cares-how-stoic-you-are.md
+          - why-learning-from-failure-is-ruining-your-life.md
+          - the-impatient-man_-why-you-feel-like-a-failure.md
+          - how-your-brain-perceives-love-when-you-have-autism.md
+  - Finance:
+      - Financial Planning:
+          - financial-planning.md
+          - opportunity-cost.md
+          - investment-risk.md
+          - investment-returns.md
+          - investment-vehicles.md
+      - Insurance:
+          - savings-insurance.md
+          - term-life-insurance.md
+          - universal-life.md
+          - endowment-policies.md
+          - annuities.md
+          - insurance-commissions.md
+          - insurtech.md
+      - Savings:
+          - emergency-fund.md
+  - Legal Science:
+      - Forensic Evidence:
+          - dna-evidence-hong-kong-legal-system.md
+  - Research Methodology:
+      - Knowledge Management:
+          - knowledge-preservation.md
+          - dangerous-person-2-0-research-overview.md
+          - dangerous-person-2-0-research-project.md
+      - Reproducibility:
+          - reproducibility-crisis.md
+  - Systems:
+      - Knowledge Systems:
+          - neural-nexus.md
+          - molecular-biology.md
+  - Biology:
+      - Metabolic Scaling:
+          - kleibers-law.md
+          - surface-law.md
+          - scaling-laws.md
+          - urban-scaling.md
+          - metabolic-scaling.md
+          - wbe-theory.md
+          - fractal-networks.md
+          - comparative-physiology.md
+          - lifespan.md
+          - one-billion-heartbeats-phenomenon.md
+  - Computer Science:
+      - Simulation:
+          - cellular-automata.md
+          - optimisation-techniques-small-scale-simulation.md
+          - game-loop.md
+          - canvas-rendering.md
+  - Other:
+      - index.md
+      - scale-book.md
+      - sample-requirements.md

@@ -1,0 +1,9 @@
+title: Laboratory Accreditation
+arrange:
+  - Overview: index.md
+  - Regulations: clia-regulations.md
+  - Laboratory-Developed Tests: laboratory-developed-tests.md
+  - Validation: laboratory-validation.md
+  - Verification: laboratory-verification.md
+  - Method Evaluation: method-evaluation-decision-flow.md
+  - Performance: method-performance.md
