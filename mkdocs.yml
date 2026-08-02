@@ -13,29 +13,15 @@ nav:
   - Entities:
     - entities/
   - Readings:
-    - Overview: readings/index.md
-    - Cell Line DNA Pure Extraction Method: readings/cell-line-dna-pure-extraction-method.md
-    - Cell Line DNA QGN Extraction Method: readings/cell-line-dna-qgn-extraction-method.md
-    - Agarose Plug DNA Extraction Method: readings/agarose-plug-dna-extraction-method.md
-    - Brain Tissue DNA Extraction Method: readings/brain-tissue-dna-extraction-method.md
-    - Colony PCR DNA Extraction Method: readings/colony-pcr-dna-extraction-method.md
-    - Environmental Water eDNA Extraction Method: readings/environmental-water-edna-extraction-method.md
-    - Cell-Free DNA (cfDNA) Information Sheet: readings/cell-free-dna-cfdna-info-sheet.md
-    - 24-Hour Genome End-to-End Document - PromethION: readings/24hr-genome-e2e-promethion-document.md
-    - Adaptive Sampling Document: readings/adaptive-sampling-document.md
-    - Knowledge Preservation in the Era of Big Science and AI: readings/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
-    - Recent Advances in Alzheimer's Disease (Cell Review 2026): readings/recent-advances-alzheimers-disease-cell-review-2026.md
-    - Energy Paradox in REM Sleep (2026): readings/energy-paradox-rem-sleep-2026.md
+    - readings/
   - References:
-    - Overview: references/index.md
-    - Setup Guide: references/setup-guide.md
-    - Writing Guide: references/writing-guide.md
+    - references/
   - Comparisons:
-    - Overview: comparisons/index.md
+    - comparisons/
   - Ideas:
-    - Overview: ideas/index.md
+    - ideas/
   - Findings:
-    - Overview: findings/index.md
+    - findings/
   - Knowledge Graph: graph.md
   - Schema: SCHEMA.md
   - Extra Pages:
