@@ -24,9 +24,42 @@ Entities are people, organizations, tools, projects, and other real-world object
 - [[lam-kwok-wai-tuen-mun-rapist]] - Serial criminal from Hong Kong's first DNA case
 - [[x-television-celebrity]] - Television celebrity and blackmail victim
 - [[penn-rainford]] - Researcher and contributor
+- [[katherine-johns]] - Medical reviewer for Chubbyemu channel
+
+### Researchers
+- [[geoffrey-west]] - WBE theory co-developer, scaling laws researcher
+- [[brian-enquist]] - WBE theory co-developer
+- [[max-kleiber]] - Discoverer of Kleiber's Law
+- [[derek-muller]] - Creator of Veritasium science channel
+- [[michel-mandelboim]] - Researcher in respiratory virus diagnostics
+- [[musa-hindiyeh]] - Researcher in respiratory virus diagnostics
+- [[orna-mor]] - Researcher in respiratory virus diagnostics
+- [[david-holtzman]] - Alzheimer's disease researcher
+- [[jason-ulrich]] - Alzheimer's disease researcher
+- [[michelle-rudman]] - Alzheimer's disease researcher
+- [[ko-matsui]] - Brain energy dynamics researcher
+- [[stephen-p-hinshaw]] - ADHD research expert
+
+### AI/Computer Science Researchers
+- [[james-evans]] - AI's impact on science researcher
+- [[qianyue-hao]] - AI's impact on science researcher
+- [[fengli-xu]] - AI's impact on science researcher
+- [[yong-li]] - AI's impact on science researcher
+- [[james-brown]] - Complex systems researcher
+- [[peter-sheridan-dodds]] - Scaling laws researcher
+- [[van-savage]] - Scaling laws researcher
+- [[steven-strogatz]] - Network theory researcher
+
+### Lab/Molecular Biology
+- [[joseph-sambrook]] - Molecular cloning researcher
+- [[michael-r-green]] - Molecular cloning researcher
 
 ### Organizations
-- Additional organizations will be listed here as they are added
+- [[biomerieux]] - Medical diagnostics company (eMAG platform)
+- [[roche]] - Medical diagnostics company (MagNA PURE platform)
+
+### Media & Insurance
+- [[bowtie-insurance]] - Hong Kong virtual insurance company
 
 ### Projects
 - Additional projects will be listed here as they are added

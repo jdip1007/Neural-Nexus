@@ -1,1 +1,43 @@
 title: Entities
+arrange:
+  - Researchers:
+      - katherine-johns.md
+      - brian-enquist.md
+      - david-holtzman.md
+      - geoffrey-west.md
+      - jason-ulrich.md
+      - ko-matsui.md
+      - max-kleiber.md
+      - michelle-rudman.md
+      - michel-mandelboim.md
+      - musa-hindiyeh.md
+      - orna-mor.md
+      - peter-sheridan-dodds.md
+      - stephen-p-hinshaw.md
+  - AI/Computer Science Researchers:
+      - derek-muller.md
+      - james-brown.md
+      - james-evans.md
+      - qianyue-hao.md
+      - fengli-xu.md
+      - yong-li.md
+  - Lab/Molecular Biology:
+      - joseph-sambrook.md
+      - michael-r-green.md
+  - Organizations:
+      - biomerieux.md
+      - roche.md
+  - Media & Entertainment:
+      - bowtie-insurance.md
+      - lam-kwok-wai-tuen-mun-rapist.md
+      - x-television-celebrity.md
+      - veritasium.md
+  - Institutions & Companies:
+      - tohoku-university.md
+  - Other:
+      - penn-rainford.md
+      - yoko-ikoma.md
+      - yusuke-takahashi.md
+      - steven-strogatz.md
+      - van-savage.md
+  - index.md
