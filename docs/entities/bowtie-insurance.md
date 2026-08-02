@@ -49,9 +49,9 @@ backlinks: []
 
 # In This Wiki
 
-- Related to [[savings-insurance-hong-kong-myths-exposed]] through their educational content
+- Related to [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md) through their educational content
 - Connected to Hong Kong insurance industry
-- Part of broader [[insurtech]] trends in Asia
+- Part of broader [insurtech](concepts/insurtech.md) trends in Asia
 
 # Sources and Verification
 
@@ -65,14 +65,14 @@ Information primarily derived from their YouTube content focusing on insurance e
 
 ## Related
 
-- [[term-life-insurance]]
-- [[opportunity-cost]]
-- [[financial-planning]]
-- [[investment-risk]]
-- [[investment-vehicles]]
-- [[universal-life]]
-- [[annuities]]
-- [[investment-returns]]
-- [[emergency-fund]]
-- [[savings-insurance]]
-- [[endowment-policies]]
+- [term-life-insurance](concepts/term-life-insurance.md)
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [financial-planning](concepts/financial-planning.md)
+- [investment-risk](concepts/investment-risk.md)
+- [investment-vehicles](concepts/investment-vehicles.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)
+- [investment-returns](concepts/investment-returns.md)
+- [emergency-fund](concepts/emergency-fund.md)
+- [savings-insurance](concepts/savings-insurance.md)
+- [endowment-policies](concepts/endowment-policies.md)

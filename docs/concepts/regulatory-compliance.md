@@ -35,10 +35,10 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[clia-regulations]] — Primary US regulation
-- [[accreditation/index|Laboratory Accreditation]] — Accreditation compliance
-- [[laboratory-verification]] — Compliance requirement
-- [[laboratory-validation]] — Compliance requirement
-- [[quality-control]] — Ongoing compliance
-- [[proficiency-testing]] — Compliance monitoring
-- [[change-control]] — Maintains compliance through changes
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — Primary US regulation
+- [Laboratory Accreditation](findings/index.md) — Accreditation compliance
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Compliance requirement
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Compliance requirement
+- [quality-control](concepts/quality-control.md) — Ongoing compliance
+- [proficiency-testing](concepts/proficiency-testing.md) — Compliance monitoring
+- [change-control](concepts/change-control.md) — Maintains compliance through changes

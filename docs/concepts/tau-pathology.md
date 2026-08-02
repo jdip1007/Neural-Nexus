@@ -37,7 +37,7 @@ Tau is a microtubule-associated protein that becomes hyperphosphorylated in , le
 ### Clinical Correlation
 - Progressive accumulation and spread correlates strongly with cognitive impairment^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 - Spreads from entorhinal cortex → hippocampus → neocortex (Braak staging)
-- More predictive of cognitive status than [[amyloid-beta]] burden^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- More predictive of cognitive status than [amyloid-beta](concepts/amyloid-beta.md) burden^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ## Structural Heterogeneity
 
@@ -162,7 +162,7 @@ Novel approaches for removing toxic intracellular tau aggregates:
 
 ## Why It Matters
 
-Tau pathology is the strongest correlate of cognitive impairment in AD. Unlike [[amyloid-beta]], which initiates the disease cascade, tau pathology drives the actual neurodegeneration and cognitive decline. Understanding its structural heterogeneity, PTM landscape, and propagation mechanisms is critical for developing effective tau-targeted therapies. Recent structural biology breakthroughs have enabled rational design of therapeutics targeting disease-specific tau conformations.
+Tau pathology is the strongest correlate of cognitive impairment in AD. Unlike [amyloid-beta](concepts/amyloid-beta.md), which initiates the disease cascade, tau pathology drives the actual neurodegeneration and cognitive decline. Understanding its structural heterogeneity, PTM landscape, and propagation mechanisms is critical for developing effective tau-targeted therapies. Recent structural biology breakthroughs have enabled rational design of therapeutics targeting disease-specific tau conformations.
 
 ## Open Questions
 
@@ -180,8 +180,8 @@ Tau pathology is the strongest correlate of cognitive impairment in AD. Unlike [
 
 ## Related Concepts
 
-- [[amyloid-beta]]: Seeds tau pathology; anti-amyloid therapies slow tau progression^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[neuroinflammation]]: Tau pathology triggers inflammatory responses; glial cells contribute to propagation^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [amyloid-beta](concepts/amyloid-beta.md): Seeds tau pathology; anti-amyloid therapies slow tau progression^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [neuroinflammation](concepts/neuroinflammation.md): Tau pathology triggers inflammatory responses; glial cells contribute to propagation^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 - : p-tau217, p-tau181, p-tau205, MTBR-tau243 as fluid biomarkers^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 - : Anti-tau antibodies, PROTACs, AUTOTACs under development^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 - : Revealed disease-specific tau filament structures^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]

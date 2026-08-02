@@ -23,17 +23,17 @@ Savings insurance is marketed as "low risk" but carries hidden risks: underperfo
 
 ## Related
 
-- [[savings-insurance]] — Hidden risks in "guaranteed" products
-- [[opportunity-cost]] — Risk of foregone alternatives
-- [[financial-planning]] — Risk management in planning
-- [[savings-insurance-hong-kong-myths-exposed]]
-- [[investment-returns]]
-- [[emergency-fund]]
-- [[insurance-commissions]]
-- [[term-life-insurance]]
-- [[bowtie-insurance]]
-- [[endowment-policies]]
-- [[investment-vehicles]]
-- [[insurance-comparison]]
-- [[universal-life]]
-- [[annuities]]
+- [savings-insurance](concepts/savings-insurance.md) — Hidden risks in "guaranteed" products
+- [opportunity-cost](concepts/opportunity-cost.md) — Risk of foregone alternatives
+- [financial-planning](concepts/financial-planning.md) — Risk management in planning
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
+- [investment-returns](concepts/investment-returns.md)
+- [emergency-fund](concepts/emergency-fund.md)
+- [insurance-commissions](concepts/insurance-commissions.md)
+- [term-life-insurance](concepts/term-life-insurance.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [investment-vehicles](concepts/investment-vehicles.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)

@@ -36,11 +36,11 @@ The simultaneous presence of two or more psychiatric diagnoses in one person. No
 | **Internalizing** | GAD, Depression, ED, SP | Emotional distress | 44–67% shared neural edges |
 | **Cross-group** | — | — | 20–37% shared neural edges |
 
-Cross-group overlap (20–37%) is lower but substantial — this is the territory the [[neuropsychopathological-factor]] explains.
+Cross-group overlap (20–37%) is lower but substantial — this is the territory the [neuropsychopathological-factor](concepts/neuropsychopathological-factor.md) explains.
 
 ## Neurobiological Explanation
 
-The [[neuropsychopathological-factor]] provides a mechanistic account:
+The [neuropsychopathological-factor](concepts/neuropsychopathological-factor.md) provides a mechanistic account:
 1. **Genetic risk**: ADHD and depression PRS → neurodevelopmental SNPs
 2. **Delayed development**: Prefrontal circuits mature slower
 3. **Weak connectivity**: SMF, SAL, FPN networks show reduced FC
@@ -75,9 +75,9 @@ This chain explains *why* comorbidity is so common: one neural vulnerability →
 
 ## Related Concepts
 
-- [[neuropsychopathological-factor]] — Neural mechanism underlying comorbidity
+- [neuropsychopathological-factor](concepts/neuropsychopathological-factor.md) — Neural mechanism underlying comorbidity
 -  — Cognitive domain linking comorbidity to neural circuits
-- [[prefrontal-cortex-development]] — Developmental trajectory explaining adolescent comorbidity onset
+- [prefrontal-cortex-development](concepts/prefrontal-cortex-development.md) — Developmental trajectory explaining adolescent comorbidity onset
 -  — Behavioral p factor (statistical precursor)
-- [[mental-health]] — Hub page
-- [[psychology]] — Parent domain
+- [mental-health](concepts/mental-health.md) — Hub page
+- [psychology](concepts/psychology.md) — Parent domain

@@ -23,15 +23,15 @@ Capital locked in savings insurance for decades cannot be invested elsewhere. Th
 
 ## Related
 
-- [[savings-insurance]] — Product with high opportunity cost
-- [[investment-vehicles]] — Foregone alternatives
-- [[investment-risk]] — Risk-return trade-offs
-- [[term-life-insurance]]
-- [[bowtie-insurance]]
-- [[endowment-policies]]
-- [[insurance-comparison]]
-- [[universal-life]]
-- [[annuities]]
-- [[savings-insurance-hong-kong-myths-exposed]]
-- [[emergency-fund]]
-- [[insurance-commissions]]
+- [savings-insurance](concepts/savings-insurance.md) — Product with high opportunity cost
+- [investment-vehicles](concepts/investment-vehicles.md) — Foregone alternatives
+- [investment-risk](concepts/investment-risk.md) — Risk-return trade-offs
+- [term-life-insurance](concepts/term-life-insurance.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
+- [emergency-fund](concepts/emergency-fund.md)
+- [insurance-commissions](concepts/insurance-commissions.md)

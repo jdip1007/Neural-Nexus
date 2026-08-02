@@ -34,12 +34,12 @@ This content from HealthyGamerGG explores why your partner doesn't support your 
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[i-did-everything-right-i-still-cant-find-love]]
-- [[why-smart-people-are-bad-at-dating]]
-- [[why-modern-dating-feels-like-parenting]]
-- [[can-men-women-be-friends_]]
-- [[why-validating-feelings-can-ruin-relationships]]
-- [[how-your-brain-perceives-love-when-you-have-autism]]
+- [i-did-everything-right-i-still-cant-find-love](concepts/i-did-everything-right-i-still-cant-find-love.md)
+- [why-smart-people-are-bad-at-dating](concepts/why-smart-people-are-bad-at-dating.md)
+- [why-modern-dating-feels-like-parenting](concepts/why-modern-dating-feels-like-parenting.md)
+- [can-men-women-be-friends_](concepts/can-men-women-be-friends_.md)
+- [why-validating-feelings-can-ruin-relationships](concepts/why-validating-feelings-can-ruin-relationships.md)
+- [how-your-brain-perceives-love-when-you-have-autism](concepts/how-your-brain-perceives-love-when-you-have-autism.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -48,7 +48,7 @@ This content from HealthyGamerGG explores why your partner doesn't support your 
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

@@ -47,7 +47,7 @@ Three-layer structure:
 
 ## Related
 
-- [[neural-nexus|About Neural Nexus]]
-- [[knowledge-preservation|Knowledge Preservation]]
-- [[reproducibility-crisis|Reproducibility Crisis]]
-- [[molecular-biology]]
+- [About Neural Nexus](concepts/neural-nexus.md)
+- [Knowledge Preservation](concepts/knowledge-preservation.md)
+- [Reproducibility Crisis](concepts/reproducibility-crisis.md)
+- [molecular-biology](concepts/molecular-biology.md)

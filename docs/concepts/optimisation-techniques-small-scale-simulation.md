@@ -337,9 +337,9 @@ These techniques are mature and well-known in game development circles, but rare
 
 ## Related Concepts
 
-- [[cellular-automata]] — Grid-based computation models where these optimisation techniques directly apply
-- [[game-loop]] — The requestAnimationFrame-driven update-render cycle
-- [[canvas-rendering]] — HTML5 Canvas 2D API and ImageData manipulation patterns
+- [cellular-automata](concepts/cellular-automata.md) — Grid-based computation models where these optimisation techniques directly apply
+- [game-loop](concepts/game-loop.md) — The requestAnimationFrame-driven update-render cycle
+- [canvas-rendering](concepts/canvas-rendering.md) — HTML5 Canvas 2D API and ImageData manipulation patterns
 
 ## Sources
 

@@ -34,7 +34,7 @@ The PFC is the anterior portion of the frontal lobes, responsible for executive 
 
 ### Networks Involved
 
-The PFC is central to three networks identified in the [[neuropsychopathological-factor]]:
+The PFC is central to three networks identified in the [neuropsychopathological-factor](concepts/neuropsychopathological-factor.md):
 
 - **Frontoparietal Network (FPN)**: mPFC and IFG are core nodes — working memory and cognitive control
 - **Salience Network (SAL)**: PFC helps switch between default mode and executive control
@@ -53,11 +53,11 @@ PFC development is genetically guided:
 
 1. **Adolescence is the critical window**: PFC maturation coincides with peak psychiatric symptom onset. Disruption during this window has lasting effects.
 
-2. **NP factor mechanism**: The [[neuropsychopathological-factor]] represents delayed PFC development — the same neural signature predicts multiple disorders because PFC supports multiple executive functions.
+2. **NP factor mechanism**: The [neuropsychopathological-factor](concepts/neuropsychopathological-factor.md) represents delayed PFC development — the same neural signature predicts multiple disorders because PFC supports multiple executive functions.
 
 3. **Intervention target**: If PFC circuits can be strengthened during adolescence (through cognitive training, targeted stimulation, or environmental enrichment), psychiatric risk may be reduced.
 
-4. **Explains comorbidity**: One developmental deficit (PFC maturation) → one neural signature (NP factor) → multiple symptom expressions = [[psychiatric-comorbidity]]
+4. **Explains comorbidity**: One developmental deficit (PFC maturation) → one neural signature (NP factor) → multiple symptom expressions = [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md)
 
 ## Current State
 
@@ -94,9 +94,9 @@ PFC development is genetically guided:
 
 ## Related Concepts
 
-- [[neuropsychopathological-factor]] — Neural signature of delayed PFC development
+- [neuropsychopathological-factor](concepts/neuropsychopathological-factor.md) — Neural signature of delayed PFC development
 -  — Cognitive processes dependent on PFC
-- [[psychiatric-comorbidity]] — Phenomenon explained by shared PFC vulnerability
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — Phenomenon explained by shared PFC vulnerability
 -  — Measure of PFC network integration
-- [[mental-health]] — Hub page
-- [[psychology]] — Parent domain
+- [mental-health](concepts/mental-health.md) — Hub page
+- [psychology](concepts/psychology.md) — Parent domain

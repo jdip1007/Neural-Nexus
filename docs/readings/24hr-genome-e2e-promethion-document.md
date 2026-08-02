@@ -84,10 +84,10 @@ The PromethION represents Oxford Nanopore Technologies' high-throughput sequenci
 ## Concepts Referenced
 
 - [nanopore-sequencing](concepts/nanopore-sequencing.md) - Core sequencing technology
-- [[nanopore-sequencing]] - Key advantage over short-read methods
-- [[nanopore-sequencing]] - Broader field of application
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) - Key advantage over short-read methods
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) - Broader field of application
 - [genomics](concepts/genomics.md) - Primary research application
-- [[molecular-biology]] - Implementation context
+- [molecular-biology](concepts/molecular-biology.md) - Implementation context
 
 ## My Takeaways
 
@@ -99,14 +99,14 @@ The PromethION represents Oxford Nanopore Technologies' high-throughput sequenci
 
 ## Related Readings
 
-- [[nanopore-sequencing]]
-- [[nanopore-sequencing]]
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
 - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
-- [[tissue-specific-dna-extraction]]
-- [[genomics]]
-- [[adaptive-sampling-document]]
-- [[environmental-dna-analysis]]
-- [[dna-extraction-methodologies]]
-- [[sample-preparation]]
-- [[dna-extraction]]
-- [[pcr]]
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+- [genomics](concepts/genomics.md)
+- [adaptive-sampling-document](raw/articles/adaptive-sampling-document.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [sample-preparation](concepts/sample-preparation.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [pcr](concepts/pcr.md)

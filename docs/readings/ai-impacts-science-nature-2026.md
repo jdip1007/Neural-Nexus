@@ -81,10 +81,10 @@ Individual gains vs. collective contraction. AI optimizes known problems, reinfo
 
 ## Related Pages
 
-- [[ai-individual-gains-collective-loss]] - Key finding on individual vs. collective AI impact
-- [[qianyue-hao]] - Lead researcher
-- [[fengli-xu]] - Corresponding author
-- [[yong-li]] - Corresponding author
-- [[james-evans]] - Corresponding author
-- [[dangerous-person-2-0-research-overview]] - Knowledge preservation and systems
-- [[dangerous-person-2-0-research-project]] - Knowledge preservation systems
+- [ai-individual-gains-collective-loss](findings/ai-individual-gains-collective-loss.md) - Key finding on individual vs. collective AI impact
+- [qianyue-hao](entities/qianyue-hao.md) - Lead researcher
+- [fengli-xu](entities/fengli-xu.md) - Corresponding author
+- [yong-li](entities/yong-li.md) - Corresponding author
+- [james-evans](entities/james-evans.md) - Corresponding author
+- [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) - Knowledge preservation and systems
+- [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md) - Knowledge preservation systems

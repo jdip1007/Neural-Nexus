@@ -117,6 +117,6 @@ Based on Rainford's current work, future research may focus on:
 
 ## Related Pages
 
-- [[knowledge-preservation]] — Knowledge preservation concept
-- [[reproducibility-crisis]] — Reproducibility in science
-- [[knowledge-preservation-big-science-ai-rainford-et-al-2026]] — Source reading
+- [knowledge-preservation](concepts/knowledge-preservation.md) — Knowledge preservation concept
+- [reproducibility-crisis](concepts/reproducibility-crisis.md) — Reproducibility in science
+- [knowledge-preservation-big-science-ai-rainford-et-al-2026](raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md) — Source reading

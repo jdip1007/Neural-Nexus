@@ -34,10 +34,10 @@ This content from HealthyGamerGG explores what everyone gets wrong about adhd an
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[how-your-brain-perceives-love-when-you-have-autism]]
-- [[how-trauma-splits-a-soul]]
-- [[ai-therapy-is-making-you-mentally-weak]]
-- [[the-most-misdiagnosed-condition-in-mental-health]]
+- [how-your-brain-perceives-love-when-you-have-autism](concepts/how-your-brain-perceives-love-when-you-have-autism.md)
+- [how-trauma-splits-a-soul](concepts/how-trauma-splits-a-soul.md)
+- [ai-therapy-is-making-you-mentally-weak](concepts/ai-therapy-is-making-you-mentally-weak.md)
+- [the-most-misdiagnosed-condition-in-mental-health](concepts/the-most-misdiagnosed-condition-in-mental-health.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -46,7 +46,7 @@ This content from HealthyGamerGG explores what everyone gets wrong about adhd an
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

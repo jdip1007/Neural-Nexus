@@ -54,7 +54,7 @@ His work on mental health stigma (with Martinez 2016; with Stier 2008) examines 
 
 ## In This Wiki
 
-- [[adhd]] — Comprehensive concept page on ADHD
-- [[hinshaw-2018-adhd-review]] — Full reading with complete reference list
-- [[psychiatric-comorbidity]] — Comorbidity patterns
-- [[mental-health]] — Broader mental health context
+- [adhd](concepts/adhd.md) — Comprehensive concept page on ADHD
+- [hinshaw-2018-adhd-review](raw/articles/hinshaw-2018-adhd-review.md) — Full reading with complete reference list
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — Comorbidity patterns
+- [mental-health](concepts/mental-health.md) — Broader mental health context

@@ -89,9 +89,9 @@ Where:
 ## Relationship to Other Researchers
 
 **Theoreticians who explained his empirical law:**
-- [[geoffrey-west]] - Developed WBE theory explaining 3/4 power scaling
-- [[james-brown]] - Co-developer of WBE theory
-- [[brian-enquist]] - Co-developer of WBE theory
+- [geoffrey-west](entities/geoffrey-west.md) - Developed WBE theory explaining 3/4 power scaling
+- [james-brown](entities/james-brown.md) - Co-developer of WBE theory
+- [brian-enquist](entities/brian-enquist.md) - Co-developer of WBE theory
 
 **Contemporaries and successors:**
 - Built on Kleiber's empirical findings
@@ -122,9 +122,9 @@ Where:
 
 ## In This Wiki
 
-- **Discoverer of:** [[kleibers-law]] - The 3/4 power scaling law of metabolic rate
-- **Related to:** [[metabolic-scaling]] - Broader category of scaling in metabolism
-- **Cited in:** [[one-billion-heartbeats-veritasium]] - Veritasium video covering his work
+- **Discoverer of:** [kleibers-law](concepts/kleibers-law.md) - The 3/4 power scaling law of metabolic rate
+- **Related to:** [metabolic-scaling](concepts/metabolic-scaling.md) - Broader category of scaling in metabolism
+- **Cited in:** [one-billion-heartbeats-veritasium](raw/videos/one-billion-heartbeats-veritasium.md) - Veritasium video covering his work
 
 ## Further Reading
 

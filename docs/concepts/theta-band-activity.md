@@ -20,7 +20,7 @@ Theta-band activity refers to neural oscillations in the 6–9 Hz frequency rang
 
 ## Role in NREM Sleep
 
-- Theta-band power fluctuations during NREM sleep are tightly coupled to [[brain-blood-volume]] changes
+- Theta-band power fluctuations during NREM sleep are tightly coupled to [brain-blood-volume](concepts/brain-blood-volume.md) changes
 - Theta-band activity **precedes** BBV changes by ~4–5 seconds
 - This predictive relationship can be modeled by a FIR-BRF (finite-impulse-response brain-blood-volume response function)
 - Suggests a homeostatic mechanism that adjusts energy delivery to match neuronal demand
@@ -33,8 +33,8 @@ Theta-band activity refers to neural oscillations in the 6–9 Hz frequency rang
 
 ## Related
 
-- [[neurovascular-coupling]] — How theta-band activity relates to blood flow
-- [[rem-sleep]] — Sustained high theta power
-- [[nrem-sleep]] — Intermittent theta with predictive coupling
-- [[brain-blood-volume]] — The vascular response to theta activity
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — How theta-band activity relates to blood flow
+- [rem-sleep](concepts/rem-sleep.md) — Sustained high theta power
+- [nrem-sleep](concepts/nrem-sleep.md) — Intermittent theta with predictive coupling
+- [brain-blood-volume](concepts/brain-blood-volume.md) — The vascular response to theta activity
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

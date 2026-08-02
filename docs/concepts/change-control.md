@@ -34,8 +34,8 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[bridging-studies]] — Evaluating modifications
-- [[method-evaluation-decision-flow]] — Determines if re-V&V needed
-- [[quality-control]] — Monitors post-change performance
-- [[clia-regulations]] — Regulatory change requirements
-- [[laboratory-validation]] — Revalidation triggers
+- [bridging-studies](concepts/bridging-studies.md) — Evaluating modifications
+- [method-evaluation-decision-flow](concepts/accreditation/method-evaluation-decision-flow.md) — Determines if re-V&V needed
+- [quality-control](concepts/quality-control.md) — Monitors post-change performance
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — Regulatory change requirements
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Revalidation triggers

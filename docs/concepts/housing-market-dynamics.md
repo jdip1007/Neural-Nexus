@@ -176,15 +176,15 @@ Housing market dynamics refer to the complex interplay of factors that influence
 
 ## Related Concepts
 
-- [[wealth-concentration]]
-- [[generational-wealth-transfer]]
-- [[baby-boomers]]
-- [[economic-inequality]]
-- [[inheritance-economics]]
-- [[asset-inflation]]
-- [[demographic-economic-impact]]
-- [[interest-rate-policy]]
-- [[labor-market-changes]]
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [baby-boomers](concepts/baby-boomers.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [inheritance-economics](concepts/inheritance-economics.md)
+- [asset-inflation](concepts/asset-inflation.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [interest-rate-policy](concepts/interest-rate-policy.md)
+- [labor-market-changes](concepts/labor-market-changes.md)
 
 ## Critical Questions
 

@@ -332,10 +332,10 @@ The project demonstrates how external content can be systematically processed an
 
 ## Related Pages
 
-- [[dangerous-person-2-0-research-overview]] — Research overview
-- [[dna-evidence-hong-kong-legal-system]] — DNA evidence in Hong Kong
-- [[criminal-psychology-behavior-patterns]] — Criminal psychology patterns
-- [[lam-kwok-wai-tuen-mun-rapist]] — Lam Kwok Wai case
-- [[knowledge-preservation]]
-- [[x-television-celebrity]]
-- [[celebrity-privacy-media-ethics]]
+- [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) — Research overview
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md) — DNA evidence in Hong Kong
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md) — Criminal psychology patterns
+- [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md) — Lam Kwok Wai case
+- [knowledge-preservation](concepts/knowledge-preservation.md)
+- [x-television-celebrity](entities/x-television-celebrity.md)
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)

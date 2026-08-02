@@ -223,9 +223,9 @@ All platforms demonstrated >97% agreement across sample types:^[raw/laboratory/v
 
 ## Related Pages
 
-[[nucleic-acid-extraction-platforms]] - General concept of platform selection
-[[emag-magana-easymag-respiratory-virus-extraction-comparison-2019]] - Full reading with detailed study design
-[[laboratory-validation]] - Method evaluation processes
-[[performance-characteristics]] - Sensitivity, specificity, LOD metrics
-[[biomerieux]] - easyMAG and eMAG manufacturer
-[[roche]] - MagNA PURE 96 manufacturer
+[nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md) - General concept of platform selection
+[emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md) - Full reading with detailed study design
+[laboratory-validation](concepts/accreditation/laboratory-validation.md) - Method evaluation processes
+[performance-characteristics](concepts/laboratory-performance/performance-characteristics.md) - Sensitivity, specificity, LOD metrics
+[biomerieux](entities/biomerieux.md) - easyMAG and eMAG manufacturer
+[roche](entities/roche.md) - MagNA PURE 96 manufacturer

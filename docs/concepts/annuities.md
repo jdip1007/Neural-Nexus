@@ -19,18 +19,18 @@ backlinks: []
 
 ## Related
 
-- [[savings-insurance]] — Related insurance product
-- [[financial-planning]] — Retirement planning
-- [[investment-vehicles]] — Investment alternatives
-- [[term-life-insurance]]
-- [[bowtie-insurance]]
-- [[investment-risk]]
-- [[endowment-policies]]
-- [[insurance-comparison]]
-- [[insurtech]]
-- [[universal-life]]
-- [[opportunity-cost]]
-- [[savings-insurance-hong-kong-myths-exposed]]
-- [[investment-returns]]
-- [[emergency-fund]]
-- [[insurance-commissions]]
+- [savings-insurance](concepts/savings-insurance.md) — Related insurance product
+- [financial-planning](concepts/financial-planning.md) — Retirement planning
+- [investment-vehicles](concepts/investment-vehicles.md) — Investment alternatives
+- [term-life-insurance](concepts/term-life-insurance.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [investment-risk](concepts/investment-risk.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [insurtech](concepts/insurtech.md)
+- [universal-life](concepts/universal-life.md)
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
+- [investment-returns](concepts/investment-returns.md)
+- [emergency-fund](concepts/emergency-fund.md)
+- [insurance-commissions](concepts/insurance-commissions.md)

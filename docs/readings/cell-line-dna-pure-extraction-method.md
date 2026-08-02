@@ -70,9 +70,9 @@ The method specifies precise buffer formulations including:
 ## Concepts Referenced
 
 - [dna-extraction](concepts/dna-extraction.md) — Core molecular biology technique
-- [[cell-line-culture]] — Source material preparation
+- [cell-line-culture](concepts/cell-line-culture.md) — Source material preparation
 - [molecular-biology](concepts/molecular-biology.md) — Field of application
-- [[molecular-biology]] — Broader context
+- [molecular-biology](concepts/molecular-biology.md) — Broader context
 
 ## My Takeaways
 
@@ -85,15 +85,15 @@ The method specifies precise buffer formulations including:
 
 - [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
 - [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
-- [[brain-tissue-dna-extraction-method]]
-- [[dna-extraction-methodologies]]
-- [[agarose-plug-dna-extraction-method]]
-- [[dna-extraction]]
-- [[environmental-dna-analysis]]
-- [[pcr]]
-- [[nanopore-sequencing]]
-- [[colony-pcr-dna-extraction-method]]
-- [[genomics]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
-- [[tissue-specific-dna-extraction]]
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [pcr](concepts/pcr.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [genomics](concepts/genomics.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)

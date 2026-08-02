@@ -27,11 +27,11 @@ Tohoku University (東北大学) is a national university located in Sendai, Jap
 
 ## In This Wiki
 
-- [[ko-matsui]] — PI at Super-network Brain Physiology lab
-- [[yusuke-takahashi]] — Researcher at the lab
-- [[yoko-ikoma]] — Researcher at the lab
-- [[rem-sleep-energy-paradox]] — Research conducted at this institution
+- [ko-matsui](entities/ko-matsui.md) — PI at Super-network Brain Physiology lab
+- [yusuke-takahashi](entities/yusuke-takahashi.md) — Researcher at the lab
+- [yoko-ikoma](entities/yoko-ikoma.md) — Researcher at the lab
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — Research conducted at this institution
 
 ## Related
 
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

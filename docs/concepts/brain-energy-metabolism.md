@@ -26,7 +26,7 @@ Brain energy metabolism encompasses the processes by which the brain generates, 
 2. **Uptake**: Both astrocytes and neurons can take up glucose directly
 3. **Glycolysis**: Glucose → pyruvate (cytosolic, anaerobic)
 4. **Oxidative phosphorylation**: Pyruvate → mitochondrial ATP production (aerobic)
-5. **Lactate shuttle**: Astrocyte-derived lactate → neuronal pyruvate → mitochondrial ATP (see [[astrocyte-neuron-lactate-shuttle]])
+5. **Lactate shuttle**: Astrocyte-derived lactate → neuronal pyruvate → mitochondrial ATP (see [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md))
 
 ### Major Energy Consumers
 
@@ -50,7 +50,7 @@ Brain energy metabolism encompasses the processes by which the brain generates, 
 
 ### Wakefulness
 - High metabolic demand from active information processing
-- Blood flow regulated by [[neurovascular-coupling]]
+- Blood flow regulated by [neurovascular-coupling](concepts/neurovascular-coupling.md)
 - Neuronal ATP levels remain relatively stable under normal conditions
 
 ### NREM Sleep
@@ -60,7 +60,7 @@ Brain energy metabolism encompasses the processes by which the brain generates, 
 - Anterior-to-posterior vascular waves help distribute energy substrates
 
 ### REM Sleep
-- Marked by the [[rem-sleep-energy-paradox]]: increased BBV, elevated astrocytic pyruvate, but declining neuronal ATP
+- Marked by the [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md): increased BBV, elevated astrocytic pyruvate, but declining neuronal ATP
 - The balance between energy consumption and supply breaks down
 - Suggests distinct energy-allocation strategies for different computational modes
 
@@ -68,7 +68,7 @@ Brain energy metabolism encompasses the processes by which the brain generates, 
 
 1. **Vascular regulation**: Dilation/constriction adjusts glucose and oxygen delivery
 2. **Neurovascular coupling**: Neuronal activity signals blood flow changes
-3. **Astrocyte-mediated transfer**: [[astrocyte-neuron-lactate-shuttle]] and glycogen mobilization
+3. **Astrocyte-mediated transfer**: [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) and glycogen mobilization
 4. **Glycogen storage**: Astrocytes store glycogen as an energy reserve
 5. **MCT efficiency**: Monocarboxylate transporter efficiency affects lactate shuttle rate
 
@@ -81,8 +81,8 @@ Brain energy metabolism encompasses the processes by which the brain generates, 
 
 ## Related
 
-- [[rem-sleep-energy-paradox]] — State-dependent energy decoupling during REM
-- [[neurovascular-coupling]] — Blood flow regulation by neuronal activity
-- [[astrocyte-neuron-lactate-shuttle]] — Energy transfer from astrocytes to neurons
-- [[brain-blood-volume]] — Vascular component of energy supply
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — State-dependent energy decoupling during REM
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — Blood flow regulation by neuronal activity
+- [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) — Energy transfer from astrocytes to neurons
+- [brain-blood-volume](concepts/brain-blood-volume.md) — Vascular component of energy supply
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

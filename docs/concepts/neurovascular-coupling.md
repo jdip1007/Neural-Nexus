@@ -41,7 +41,7 @@ Recent findings from Takahashi, Ikoma & Matsui (2026) reveal that neurovascular 
 - BBV increases dramatically but the coupling to neuronal activity changes
 - BBV originates in the posterior cortex and propagates slowly anteriorly
 - The standard neurovascular coupling relationship breaks down — blood flow increases but neuronal ATP decreases
-- This is the core of the [[rem-sleep-energy-paradox]]
+- This is the core of the [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md)
 
 ### Wakefulness
 - BBV fluctuations are less tightly coupled to theta-band activity than during NREM
@@ -75,8 +75,8 @@ The hemodynamic response function (HRF) models how neuronal activity translates 
 
 ## Related
 
-- [[rem-sleep-energy-paradox]] — The paradox that arises from altered neurovascular coupling during REM
-- [[brain-blood-volume]] — The vascular component of neurovascular coupling
-- [[brain-energy-metabolism]] — The metabolic component
-- [[astrocyte-neuron-lactate-shuttle]] — Astrocyte-mediated energy delivery
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — The paradox that arises from altered neurovascular coupling during REM
+- [brain-blood-volume](concepts/brain-blood-volume.md) — The vascular component of neurovascular coupling
+- [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — The metabolic component
+- [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) — Astrocyte-mediated energy delivery
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

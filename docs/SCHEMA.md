@@ -61,7 +61,7 @@ sha256: <hex digest of body content>
 - biotech, genomics, dna, nanotechnology, synthetic-biology, neuroscience, medical-research, drug-development, sleep-research
 - finance, insurance, savings-insurance, trading, economics, cryptocurrency, risk-management, financial-literacy, personal-finance, financial-planning
 - devops, infrastructure, security, reliability, monitoring
-- psychology, cognitive-science, behavior, mental-health
+- psychology, cognitive-science, behavior, mental-health, bpsd, neuropsychiatric-symptoms, person-centered-dementia-care, nonpharmacologic-interventions, deprescribing
 - hermes, automation, workflow, knowledge-management
 - laboratory, clinical-laboratory, laboratory-regulations, laboratory-developed-tests, ldt
 - biology, metabolism, scaling-laws, allometry, ecological-scaling

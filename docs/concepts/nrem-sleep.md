@@ -35,8 +35,8 @@ Non-rapid eye movement (NREM) sleep is the predominant sleep stage, characterize
 
 ## Related
 
-- [[rem-sleep]] — The contrasting sleep state with distinct energy dynamics
-- [[rem-sleep-energy-paradox]] — The paradox observed during REM
-- [[neurovascular-coupling]] — Theta-band coupling during NREM
-- [[brain-energy-metabolism]] — Overall brain energy dynamics
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [rem-sleep](concepts/rem-sleep.md) — The contrasting sleep state with distinct energy dynamics
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — The paradox observed during REM
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — Theta-band coupling during NREM
+- [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — Overall brain energy dynamics
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

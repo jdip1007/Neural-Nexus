@@ -334,11 +334,11 @@ Polynomial regression (if needed)
 
 ## Related
 
-- [[laboratory-verification]] — Verifying manufacturer claims
-- [[laboratory-validation]] — Establishing performance for LDTs
-- [[clia-regulations]] — 42 CFR §493.1253 requirements
-- [[statistical-analysis]] — Statistical methods
-- [[reference-interval-verification]] — Reference interval procedures
-- [[diagnostic-accuracy]] — Diagnostic performance metrics
-- [[roc-analysis]] — ROC curve methodology
-- [[quality-control]] — Ongoing performance monitoring
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Verifying manufacturer claims
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Establishing performance for LDTs
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — 42 CFR §493.1253 requirements
+- [statistical-analysis](concepts/statistical-analysis.md) — Statistical methods
+- [reference-interval-verification](concepts/reference-interval-verification.md) — Reference interval procedures
+- [diagnostic-accuracy](concepts/diagnostic-accuracy.md) — Diagnostic performance metrics
+- [roc-analysis](concepts/roc-analysis.md) — ROC curve methodology
+- [quality-control](concepts/quality-control.md) — Ongoing performance monitoring

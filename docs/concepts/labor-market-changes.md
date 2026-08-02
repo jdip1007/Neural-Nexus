@@ -162,15 +162,15 @@ Labor market changes refer to the evolving dynamics of work, employment, compens
 
 ## Related Concepts
 
-- [[wealth-concentration]]
-- [[generational-wealth-transfer]]
-- [[baby-boomers]]
-- [[economic-inequality]]
-- [[inheritance-economics]]
-- [[asset-inflation]]
-- [[housing-market-dynamics]]
-- [[interest-rate-policy]]
-- [[demographic-economic-impact]]
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [baby-boomers](concepts/baby-boomers.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [inheritance-economics](concepts/inheritance-economics.md)
+- [asset-inflation](concepts/asset-inflation.md)
+- [housing-market-dynamics](concepts/housing-market-dynamics.md)
+- [interest-rate-policy](concepts/interest-rate-policy.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
 
 ## Critical Questions
 

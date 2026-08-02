@@ -287,11 +287,11 @@ The concept demonstrates the complex interplay between privacy, media responsibi
 
 ## Related Pages
 
-- [[criminal-psychology-behavior-patterns]] — Psychological factors in criminal behavior
-- [[dna-evidence-hong-kong-legal-system]] — DNA evidence in Hong Kong justice
-- [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research context
-- [[x-television-celebrity]] — X先生 celebrity profile
-- [[lam-kwok-wai-tuen-mun-rapist]]
-- [[dangerous-person-2-0-research-project]]
-- [[relationships]]
-- [[psychology]]
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md) — Psychological factors in criminal behavior
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md) — DNA evidence in Hong Kong justice
+- [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) — DangerousPerson2.0 research context
+- [x-television-celebrity](entities/x-television-celebrity.md) — X先生 celebrity profile
+- [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md)
+- [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)
+- [relationships](concepts/relationships.md)
+- [psychology](concepts/psychology.md)

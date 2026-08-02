@@ -62,7 +62,7 @@ The exponents cancel out, giving a product that is independent of body mass.
 
 ## Connection to Metabolic Scaling
 
-This phenomenon is a consequence of [[kleibers-law]]:
+This phenomenon is a consequence of [kleibers-law](concepts/kleibers-law.md):
 
 ```
 BMR = B₀ × M^(3/4)
@@ -77,7 +77,7 @@ The scaling relationships naturally lead to the constant heartbeat product.
 ## Explanatory Frameworks
 
 ### WBE Theory
-The [[wbe-theory]] (West-Brown-Enquist) explains this phenomenon through fractal distribution networks:
+The [wbe-theory](concepts/wbe-theory.md) (West-Brown-Enquist) explains this phenomenon through fractal distribution networks:
 
 **Fractal circulatory and respiratory networks:**
 - Must fill 3D organismal space
@@ -207,14 +207,14 @@ Scaling relationships help understand:
 ## Related Concepts
 
 **Directly explains:**
-- [[kleibers-law]] - Metabolic rate ∝ M^(3/4) → leads to constant heartbeat product
-- [[wbe-theory]] - Fractal network explanation for scaling relationships
+- [kleibers-law](concepts/kleibers-law.md) - Metabolic rate ∝ M^(3/4) → leads to constant heartbeat product
+- [wbe-theory](concepts/wbe-theory.md) - Fractal network explanation for scaling relationships
 
 **Related to:**
-- [[metabolic-scaling]] - Broader category of scaling in metabolism
-- [[scaling-laws]] - Mathematical relationships between size and function
-- [[comparative-physiology]] - Study of physiological differences across species
-- [[lifespan]] - How lifespan scales with body mass
+- [metabolic-scaling](concepts/metabolic-scaling.md) - Broader category of scaling in metabolism
+- [scaling-laws](concepts/scaling-laws.md) - Mathematical relationships between size and function
+- [comparative-physiology](concepts/comparative-physiology.md) - Study of physiological differences across species
+- [lifespan](concepts/lifespan.md) - How lifespan scales with body mass
 
 **Contrasts with:**
 - one notable exception - Why humans exceed typical mammalian pattern
@@ -222,12 +222,12 @@ Scaling relationships help understand:
 ## Key Researchers
 
 **Developed explanations:**
-- [[geoffrey-west]] - WBE theory co-developer, scaling laws expert
-- [[james-brown]] - WBE theory co-developer
-- [[brian-enquist]] - WBE theory co-developer
+- [geoffrey-west](entities/geoffrey-west.md) - WBE theory co-developer, scaling laws expert
+- [james-brown](entities/james-brown.md) - WBE theory co-developer
+- [brian-enquist](entities/brian-enquist.md) - WBE theory co-developer
 
 **Discovered empirical relationship:**
-- [[max-kleiber]] - Discoverer of Kleiber's Law, foundation for scaling relationships
+- [max-kleiber](entities/max-kleiber.md) - Discoverer of Kleiber's Law, foundation for scaling relationships
 
 ## Further Reading
 

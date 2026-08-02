@@ -247,12 +247,12 @@ Is the test FDA-approved, FDA-cleared, or FDA-modified?
 
 ## Related
 
-- [[laboratory-verification]] — Verification process details
-- [[laboratory-validation]] — Validation process details
-- [[clia-regulations]] — 42 CFR §493.1253 requirements
-- [[method-performance]] — Performance characteristics
-- [[laboratory-developed-tests]] — LDT evaluation
-- [[bridging-studies]] — Evaluating modifications
-- [[change-control]] — Managing test changes
-- [[method-implementation]] — Implementation process
-- [[regulatory-compliance]] — Ensuring compliance
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Verification process details
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Validation process details
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — 42 CFR §493.1253 requirements
+- [method-performance](concepts/accreditation/method-performance.md) — Performance characteristics
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md) — LDT evaluation
+- [bridging-studies](concepts/bridging-studies.md) — Evaluating modifications
+- [change-control](concepts/change-control.md) — Managing test changes
+- [method-implementation](concepts/method-implementation.md) — Implementation process
+- [regulatory-compliance](concepts/regulatory-compliance.md) — Ensuring compliance

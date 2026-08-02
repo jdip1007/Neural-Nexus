@@ -24,8 +24,8 @@ Diagnostic accuracy refers to the degree of agreement between a test's results a
 - **Specificity** measures the proportion of true negatives correctly identified. Low specificity produces false positives, which can lead to unnecessary follow-up testing or treatment.
 - **Overall accuracy** is calculated as (TP + TN) / (TP + TN + FP + FN), though it can be misleading in datasets with class imbalance.
 - **Predictive values** (PPV and NPV) depend on disease prevalence and are therefore not intrinsic properties of the test alone.
-- Diagnostic accuracy is typically evaluated against a reference method during [[method-performance]] studies as part of [[laboratory-validation]].
-- Accuracy estimates should include confidence intervals; pooled estimates benefit from [[statistical-analysis]] such as meta-analytic techniques.
+- Diagnostic accuracy is typically evaluated against a reference method during [method-performance](concepts/accreditation/method-performance.md) studies as part of [laboratory-validation](concepts/accreditation/laboratory-validation.md).
+- Accuracy estimates should include confidence intervals; pooled estimates benefit from [statistical-analysis](concepts/statistical-analysis.md) such as meta-analytic techniques.
 
 ## Common Metrics
 
@@ -39,12 +39,12 @@ Diagnostic accuracy refers to the degree of agreement between a test's results a
 
 ## Relationship to ROC Analysis
 
-Diagnostic accuracy is often summarized visually and quantitatively through [[roc-analysis]], which plots sensitivity against (1 − specificity) across all possible thresholds and yields an area under the curve (AUC) as a threshold-independent accuracy measure.
+Diagnostic accuracy is often summarized visually and quantitatively through [roc-analysis](concepts/roc-analysis.md), which plots sensitivity against (1 − specificity) across all possible thresholds and yields an area under the curve (AUC) as a threshold-independent accuracy measure.
 
 ## Related
 
-- [[method-performance]]
-- [[statistical-analysis]]
-- [[laboratory-validation]]
-- [[roc-analysis]]
-- [[clinical-utility]]
+- [method-performance](concepts/accreditation/method-performance.md)
+- [statistical-analysis](concepts/statistical-analysis.md)
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md)
+- [roc-analysis](concepts/roc-analysis.md)
+- [clinical-utility](concepts/clinical-utility.md)

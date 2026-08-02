@@ -19,7 +19,7 @@ reviewed: 2026-07-26
 **Affiliation:** Cold Spring Harbor Laboratory Press (publication context)
 
 ## Key Facts
-- Co-author of "Polymerase Chain Reaction (PCR) Amplification of GC-Rich Templates" (Cold Spring Harbor Protocols, 2019) with [[michael-r-green]]
+- Co-author of "Polymerase Chain Reaction (PCR) Amplification of GC-Rich Templates" (Cold Spring Harbor Protocols, 2019) with [michael-r-green](entities/michael-r-green.md)
 - Contributed to the Molecular Cloning collection (classic reference work) ^[raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md]
 
 ## Contributions
@@ -28,5 +28,5 @@ reviewed: 2026-07-26
 - Expert in PCR enhancer selection and optimization ^[raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md]
 
 ## Related Pages
-- [[michael-r-green]] (collaborator)
-- [[pcr-gc-rich-templates-green-sambrook-2019]] (protocol)
+- [michael-r-green](entities/michael-r-green.md) (collaborator)
+- [pcr-gc-rich-templates-green-sambrook-2019](raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md) (protocol)

@@ -127,12 +127,12 @@ Conservation biology operates through several key approaches:
 ## Related Concepts
 - [ecology](concepts/ecology.md) — Scientific foundation for conservation biology
 - [environmental-dna-analysis](concepts/environmental-dna-analysis.md) — Tool for monitoring biodiversity
-- [[conservation-biology]] — Central focus of conservation biology
+- [conservation-biology](concepts/conservation-biology.md) — Central focus of conservation biology
 - [environmental-monitoring](concepts/environmental-monitoring.md) — Assessment of conservation effectiveness
-- [[environmental-monitoring]] — Long-term conservation goals
-- [[environmental-monitoring]] — Major threat addressed by conservation biology
-- [[environmental-water-edna-extraction-method]]
-- [[ecology]]
+- [environmental-monitoring](concepts/environmental-monitoring.md) — Long-term conservation goals
+- [environmental-monitoring](concepts/environmental-monitoring.md) — Major threat addressed by conservation biology
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+- [ecology](concepts/ecology.md)
 ## History
 - **1800s**: Early conservation movements and protected areas
 - **1900s**: National parks movement and wildlife protection

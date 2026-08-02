@@ -34,8 +34,8 @@ This content from HealthyGamerGG explores why 'learning from failure' is ruining
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[how-to-actually-have-an-elite-mindset]]
-- [[the-impatient-man_-why-you-feel-like-a-failure]]
+- [how-to-actually-have-an-elite-mindset](concepts/how-to-actually-have-an-elite-mindset.md)
+- [the-impatient-man_-why-you-feel-like-a-failure](concepts/the-impatient-man_-why-you-feel-like-a-failure.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -44,7 +44,7 @@ This content from HealthyGamerGG explores why 'learning from failure' is ruining
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

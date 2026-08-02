@@ -19,20 +19,20 @@ backlinks: []
 
 ## Key Pages
 
-- [[ai-therapy-is-making-you-mentally-weak]] — AI and mental health
-- [[the-most-misdiagnosed-condition-in-mental-health]] — Misdiagnosis
-- [[what-everyone-gets-wrong-about-adhd]] — ADHD misconceptions
+- [ai-therapy-is-making-you-mentally-weak](concepts/ai-therapy-is-making-you-mentally-weak.md) — AI and mental health
+- [the-most-misdiagnosed-condition-in-mental-health](concepts/the-most-misdiagnosed-condition-in-mental-health.md) — Misdiagnosis
+- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md) — ADHD misconceptions
 
 ## Comorbidity and Neural Mechanisms
 
-- [[psychiatric-comorbidity]] — Shared neural basis for co-occurring disorders
-- [[neuropsychopathological-factor]] — NP factor: crossdisorder brain signature
-- [[prefrontal-cortex-development]] — Delayed PFC maturation → psychiatric vulnerability
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — Shared neural basis for co-occurring disorders
+- [neuropsychopathological-factor](concepts/neuropsychopathological-factor.md) — NP factor: crossdisorder brain signature
+- [prefrontal-cortex-development](concepts/prefrontal-cortex-development.md) — Delayed PFC maturation → psychiatric vulnerability
 
 ## Related Concepts
 
-- [[psychology]] — Parent domain
-- [[relationships]] — Interpersonal impact on mental health
-- [[how-trauma-splits-a-soul]] — Trauma and dissociative identity
-- [[what-everyone-gets-wrong-about-adhd]] — ADHD
-- [[the-most-misdiagnosed-condition-in-mental-health]] — Misdiagnosis
+- [psychology](concepts/psychology.md) — Parent domain
+- [relationships](concepts/relationships.md) — Interpersonal impact on mental health
+- [how-trauma-splits-a-soul](concepts/how-trauma-splits-a-soul.md) — Trauma and dissociative identity
+- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md) — ADHD
+- [the-most-misdiagnosed-condition-in-mental-health](concepts/the-most-misdiagnosed-condition-in-mental-health.md) — Misdiagnosis

@@ -28,7 +28,7 @@ reviewed: 2026-07-31
 ## Major Contribution: WBE Theory
 
 ### Collaboration
-- Worked with [[geoffrey-west]] (physicist) and [[james-brown]] (ecologist)
+- Worked with [geoffrey-west](entities/geoffrey-west.md) (physicist) and [james-brown](entities/james-brown.md) (ecologist)
 - Brought ecological expertise to theoretical framework
 - Provided biological context for scaling patterns
 
@@ -76,11 +76,11 @@ Developing mathematical models for:
 ## Relationships with Other Researchers
 
 **WBE Theory collaborators:**
-- [[geoffrey-west]] - Physicist, co-developer of WBE theory
-- [[james-brown]] - Ecologist, co-developer of WBE theory
+- [geoffrey-west](entities/geoffrey-west.md) - Physicist, co-developer of WBE theory
+- [james-brown](entities/james-brown.md) - Ecologist, co-developer of WBE theory
 
 **Consulted for:**
-- [[one-billion-heartbeats-veritasium]] - Veritasium video on biological scaling
+- [one-billion-heartbeats-veritasium](raw/videos/one-billion-heartbeats-veritasium.md) - Veritasium video on biological scaling
 
 ## Key Publications
 
@@ -93,9 +93,9 @@ Developing mathematical models for:
 
 ## In This Wiki
 
-- **Co-developer of:** [[wbe-theory]] - Fractal network explanation for biological scaling
-- **Related to:** [[kleibers-law]], [[metabolic-scaling]], [[fractal-networks]]
-- **Consulted for:** [[one-billion-heartbeats-veritasium]] - Veritasium video
+- **Co-developer of:** [wbe-theory](concepts/wbe-theory.md) - Fractal network explanation for biological scaling
+- **Related to:** [kleibers-law](concepts/kleibers-law.md), [metabolic-scaling](concepts/metabolic-scaling.md), [fractal-networks](concepts/fractal-networks.md)
+- **Consulted for:** [one-billion-heartbeats-veritasium](raw/videos/one-billion-heartbeats-veritasium.md) - Veritasium video
 
 ## Further Reading
 

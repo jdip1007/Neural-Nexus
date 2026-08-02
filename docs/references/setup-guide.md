@@ -852,8 +852,8 @@ sources: []
 confidence: medium
 status: draft
 ---
-- [[writing-guide]]
-- [[neural-nexus]]
+- [writing-guide](references/writing-guide.md)
+- [neural-nexus](concepts/neural-nexus.md)
 # {{title}}
 
 ## Question

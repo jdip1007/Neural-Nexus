@@ -19,10 +19,10 @@ backlinks: []
 
 ## In This Wiki
 
-The [[optimisation-techniques-small-scale-simulation]] page covers CA-based sand/falling-particle simulations using a single-grid architecture with neighbor-based state transitions.^[raw/articles/sand-game-simulation.md]
+The [optimisation-techniques-small-scale-simulation](concepts/optimisation-techniques-small-scale-simulation.md) page covers CA-based sand/falling-particle simulations using a single-grid architecture with neighbor-based state transitions.^[raw/articles/sand-game-simulation.md]
 
 ## Related
 
-- [[optimisation-techniques-small-scale-simulation]] — Optimised CA implementation
-- [[game-loop]] — Simulation loop architecture
-- [[canvas-rendering]] — Rendering approach
+- [optimisation-techniques-small-scale-simulation](concepts/optimisation-techniques-small-scale-simulation.md) — Optimised CA implementation
+- [game-loop](concepts/game-loop.md) — Simulation loop architecture
+- [canvas-rendering](concepts/canvas-rendering.md) — Rendering approach

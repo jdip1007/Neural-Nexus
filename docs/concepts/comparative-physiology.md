@@ -26,15 +26,15 @@ reviewed: 2026-07-31
 
 ## Historical Figures
 
-- [[max-kleiber]] — Discovered the 3/4 metabolic scaling law
-- [[geoffrey-west]] — Developed fractal network theory
-- [[james-brown]] — Extended scaling to ecology
+- [max-kleiber](entities/max-kleiber.md) — Discovered the 3/4 metabolic scaling law
+- [geoffrey-west](entities/geoffrey-west.md) — Developed fractal network theory
+- [james-brown](entities/james-brown.md) — Extended scaling to ecology
 
 ## Related
 
-- [[kleibers-law]] — Foundational scaling relationship
-- [[wbe-theory]] — Modern theoretical framework
-- [[metabolic-scaling]] — Core topic
-- [[scaling-laws]] — Mathematical basis
-- [[one-billion-heartbeats-phenomenon]] — Popular application
-- [[max-kleiber]] — Pioneer
+- [kleibers-law](concepts/kleibers-law.md) — Foundational scaling relationship
+- [wbe-theory](concepts/wbe-theory.md) — Modern theoretical framework
+- [metabolic-scaling](concepts/metabolic-scaling.md) — Core topic
+- [scaling-laws](concepts/scaling-laws.md) — Mathematical basis
+- [one-billion-heartbeats-phenomenon](concepts/one-billion-heartbeats-phenomenon.md) — Popular application
+- [max-kleiber](entities/max-kleiber.md) — Pioneer

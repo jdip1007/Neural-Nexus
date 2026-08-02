@@ -275,11 +275,11 @@ All three extraction platforms demonstrated comparable analytical and clinical p
 
 ## Related Concepts
 
-- [[nucleic-acid-extraction-platforms]] - General concept of extraction platform selection
-- [[laboratory-validation]] - Method evaluation and validation processes
-- [[qpcr-performance-characteristics]] - Sensitivity, specificity, LOD in qPCR
-- [[respiratory-virus-testing]] - Clinical virology testing workflows
-- [[laboratory-automation]] - Automated vs manual extraction workflows
+- [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md) - General concept of extraction platform selection
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) - Method evaluation and validation processes
+- [qpcr-performance-characteristics](concepts/laboratory-performance/qpcr-performance-characteristics.md) - Sensitivity, specificity, LOD in qPCR
+- [respiratory-virus-testing](concepts/clinical-testing/respiratory-virus-testing.md) - Clinical virology testing workflows
+- [laboratory-automation](concepts/laboratory-methods/laboratory-automation.md) - Automated vs manual extraction workflows
 
 ---
 

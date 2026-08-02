@@ -16,14 +16,14 @@ reviewed: 2026-07-31
 
 ## Definition
 
-Clinical utility refers to the extent to which a test result leads to measurable improvements in patient outcomes, clinical decisions, or healthcare value. It goes beyond analytical validity and [[diagnostic-accuracy]] to ask whether the test actually changes what clinicians do and whether those changes benefit the patient. Clinical utility is a central consideration in [[laboratory-validation]] decisions, technology assessments, and reimbursement determinations.
+Clinical utility refers to the extent to which a test result leads to measurable improvements in patient outcomes, clinical decisions, or healthcare value. It goes beyond analytical validity and [diagnostic-accuracy](concepts/diagnostic-accuracy.md) to ask whether the test actually changes what clinicians do and whether those changes benefit the patient. Clinical utility is a central consideration in [laboratory-validation](concepts/accreditation/laboratory-validation.md) decisions, technology assessments, and reimbursement determinations.
 
 ## Key Points
 
-- **Three-tier framework:** Tests are evaluated for (1) analytical validity, (2) clinical validity ([[diagnostic-accuracy]]), and (3) clinical utility. A test may be analytically sound and accurate yet still lack utility if results do not alter management.
+- **Three-tier framework:** Tests are evaluated for (1) analytical validity, (2) clinical validity ([diagnostic-accuracy](concepts/diagnostic-accuracy.md)), and (3) clinical utility. A test may be analytically sound and accurate yet still lack utility if results do not alter management.
 - **Outcome measures:** Utility is demonstrated through changes in diagnosis, treatment selection, timing of intervention, patient quality of life, or cost-effectiveness.
 - **Evidence types:** Randomized trials, prospective cohort studies, decision-analytic modeling, and health technology assessments all contribute to utility evidence.
-- **[[method-performance]] is necessary but not sufficient:** High precision and accuracy support but do not establish utility; utility requires linking test results to patient-relevant outcomes.
+- **[method-performance](concepts/accreditation/method-performance.md) is necessary but not sufficient:** High precision and accuracy support but do not establish utility; utility requires linking test results to patient-relevant outcomes.
 - **Context dependence:** Utility varies by population, healthcare setting, and availability of effective interventions. A test useful in one context may have low utility in another.
 - **Reimbursement and policy:** Payers increasingly require utility evidence for coverage of new tests, particularly expensive genomic or LDT assays.
 
@@ -36,7 +36,7 @@ Analytical Validity → Clinical Validity → Clinical Utility
 
 ## Related
 
-- [[laboratory-validation]]
-- [[diagnostic-accuracy]]
-- [[method-performance]]
-- [[clinical-utility]]
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md)
+- [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
+- [method-performance](concepts/accreditation/method-performance.md)
+- [clinical-utility](concepts/clinical-utility.md)

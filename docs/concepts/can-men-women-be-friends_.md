@@ -34,12 +34,12 @@ This content from HealthyGamerGG explores can men & women be friends? and provid
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[how-your-brain-perceives-love-when-you-have-autism]]
-- [[i-did-everything-right-i-still-cant-find-love]]
-- [[why-smart-people-are-bad-at-dating]]
-- [[why-your-partner-doesnt-support-your-dreams]]
-- [[why-validating-feelings-can-ruin-relationships]]
-- [[why-modern-dating-feels-like-parenting]]
+- [how-your-brain-perceives-love-when-you-have-autism](concepts/how-your-brain-perceives-love-when-you-have-autism.md)
+- [i-did-everything-right-i-still-cant-find-love](concepts/i-did-everything-right-i-still-cant-find-love.md)
+- [why-smart-people-are-bad-at-dating](concepts/why-smart-people-are-bad-at-dating.md)
+- [why-your-partner-doesnt-support-your-dreams](concepts/why-your-partner-doesnt-support-your-dreams.md)
+- [why-validating-feelings-can-ruin-relationships](concepts/why-validating-feelings-can-ruin-relationships.md)
+- [why-modern-dating-feels-like-parenting](concepts/why-modern-dating-feels-like-parenting.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -48,7 +48,7 @@ This content from HealthyGamerGG explores can men & women be friends? and provid
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

@@ -166,21 +166,21 @@ Humans have longer lifespans than predicted:
 
 ## Related Concepts
 
-- [[wbe-theory]] - Fractal network explanation for 3/4 power scaling
-- [[metabolic-scaling]] - Broader category for scaling of metabolic processes
-- [[scaling-laws]] - Mathematical relationships between size and function
-- [[fractal-networks]] - Self-similar branching patterns in organisms
-- [[surface-law]] - Historical 2/3 power theory (superseded)
-- [[comparative-physiology]] - Study of physiological differences across species
-- [[scaling-laws]] - Mathematical relationship of the form y = ax^n
+- [wbe-theory](concepts/wbe-theory.md) - Fractal network explanation for 3/4 power scaling
+- [metabolic-scaling](concepts/metabolic-scaling.md) - Broader category for scaling of metabolic processes
+- [scaling-laws](concepts/scaling-laws.md) - Mathematical relationships between size and function
+- [fractal-networks](concepts/fractal-networks.md) - Self-similar branching patterns in organisms
+- [surface-law](concepts/surface-law.md) - Historical 2/3 power theory (superseded)
+- [comparative-physiology](concepts/comparative-physiology.md) - Study of physiological differences across species
+- [scaling-laws](concepts/scaling-laws.md) - Mathematical relationship of the form y = ax^n
 
 ## Key Researchers
 
-- [[max-kleiber]] - Discoverer of Kleiber's Law (1930s)
-- [[geoffrey-west]] - Leading researcher in scaling theory, co-developer of WBE theory
-- [[brian-enquist]] - Co-developer of WBE theory
-- [[james-brown]] - Co-developer of WBE theory
-- [[van-savage]] - Researcher in biological scaling
+- [max-kleiber](entities/max-kleiber.md) - Discoverer of Kleiber's Law (1930s)
+- [geoffrey-west](entities/geoffrey-west.md) - Leading researcher in scaling theory, co-developer of WBE theory
+- [brian-enquist](entities/brian-enquist.md) - Co-developer of WBE theory
+- [james-brown](entities/james-brown.md) - Co-developer of WBE theory
+- [van-savage](entities/van-savage.md) - Researcher in biological scaling
 
 ## Common Misconceptions
 
@@ -218,7 +218,7 @@ Humans have longer lifespans than predicted:
 - West, G.B., Brown, J.H., Enquist, B.J. (1997). A general model for the origin of allometric scaling laws in biology
 
 **Books:**
-- [[scale-book]] - Geoffrey West's comprehensive treatment of scaling laws
+- [scale-book](concepts/scale-book.md) - Geoffrey West's comprehensive treatment of scaling laws
 - "Ecological Scaling" by various authors
 
 **Reviews:**

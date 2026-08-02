@@ -35,9 +35,9 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[kleibers-law]] — Most famous biological scaling law
-- [[wbe-theory]] — Theoretical framework explaining exponents
-- [[metabolic-scaling]] — The field of study
-- [[surface-law]] — Historical predecessor
-- [[comparative-physiology]] — Applications
-- [[geoffrey-west]] — Key theorist
+- [kleibers-law](concepts/kleibers-law.md) — Most famous biological scaling law
+- [wbe-theory](concepts/wbe-theory.md) — Theoretical framework explaining exponents
+- [metabolic-scaling](concepts/metabolic-scaling.md) — The field of study
+- [surface-law](concepts/surface-law.md) — Historical predecessor
+- [comparative-physiology](concepts/comparative-physiology.md) — Applications
+- [geoffrey-west](entities/geoffrey-west.md) — Key theorist

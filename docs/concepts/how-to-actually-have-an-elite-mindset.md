@@ -34,8 +34,8 @@ This content from HealthyGamerGG explores how to actually have an elite mindset 
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[the-impatient-man_-why-you-feel-like-a-failure]]
-- [[why-learning-from-failure-is-ruining-your-life]]
+- [the-impatient-man_-why-you-feel-like-a-failure](concepts/the-impatient-man_-why-you-feel-like-a-failure.md)
+- [why-learning-from-failure-is-ruining-your-life](concepts/why-learning-from-failure-is-ruining-your-life.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -44,7 +44,7 @@ This content from HealthyGamerGG explores how to actually have an elite mindset 
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

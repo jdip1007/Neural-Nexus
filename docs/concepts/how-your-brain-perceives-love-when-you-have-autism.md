@@ -34,13 +34,13 @@ This content from HealthyGamerGG explores how your brain perceives love when you
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[i-did-everything-right-i-still-cant-find-love]]
-- [[why-smart-people-are-bad-at-dating]]
-- [[what-everyone-gets-wrong-about-adhd]]
-- [[can-men-women-be-friends_]]
-- [[why-your-partner-doesnt-support-your-dreams]]
-- [[why-validating-feelings-can-ruin-relationships]]
-- [[why-modern-dating-feels-like-parenting]]
+- [i-did-everything-right-i-still-cant-find-love](concepts/i-did-everything-right-i-still-cant-find-love.md)
+- [why-smart-people-are-bad-at-dating](concepts/why-smart-people-are-bad-at-dating.md)
+- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md)
+- [can-men-women-be-friends_](concepts/can-men-women-be-friends_.md)
+- [why-your-partner-doesnt-support-your-dreams](concepts/why-your-partner-doesnt-support-your-dreams.md)
+- [why-validating-feelings-can-ruin-relationships](concepts/why-validating-feelings-can-ruin-relationships.md)
+- [why-modern-dating-feels-like-parenting](concepts/why-modern-dating-feels-like-parenting.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -49,7 +49,7 @@ This content from HealthyGamerGG explores how your brain perceives love when you
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

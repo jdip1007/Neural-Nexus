@@ -17,7 +17,7 @@ backlinks: []
 
 ## Overview
 
-Jason D. Ulrich is a neurology researcher at Washington University specializing in Alzheimer's disease mechanisms and therapeutics. Co-author of comprehensive reviews on recent advances in AD research with [[david-holtzman]] and [[michelle-rudman]].^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+Jason D. Ulrich is a neurology researcher at Washington University specializing in Alzheimer's disease mechanisms and therapeutics. Co-author of comprehensive reviews on recent advances in AD research with [david-holtzman](entities/david-holtzman.md) and [michelle-rudman](entities/michelle-rudman.md).^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ## Key Facts
 
@@ -49,19 +49,19 @@ Jason D. Ulrich is a neurology researcher at Washington University specializing 
 ## Impact
 
 Contributing to understanding of:
-- [[amyloid-beta]] therapeutic targeting^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[tau-pathology]] approaches^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[neuroinflammation]] mechanisms^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [amyloid-beta](concepts/amyloid-beta.md) therapeutic targeting^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [tau-pathology](concepts/tau-pathology.md) approaches^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [neuroinflammation](concepts/neuroinflammation.md) mechanisms^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 -  for AD^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ## In This Wiki
 
 ### Authored Works
-- [[readings/recent-advances-alzheimers-disease-cell-review-2026]]: Comprehensive AD review^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [readings/recent-advances-alzheimers-disease-cell-review-2026](readings/recent-advances-alzheimers-disease-cell-review-2026.md): Comprehensive AD review^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ### Related Entities
-- [[david-holtzman]]: Senior author and mentor
-- [[michelle-rudman]]: Co-author and collaborator
+- [david-holtzman](entities/david-holtzman.md): Senior author and mentor
+- [michelle-rudman](entities/michelle-rudman.md): Co-author and collaborator
 
 ### Related Concepts
-- [[amyloid-beta]], [[tau-pathology]], [[neuroinflammation]], [[apoe]], , 
+- [amyloid-beta](concepts/amyloid-beta.md), [tau-pathology](concepts/tau-pathology.md), [neuroinflammation](concepts/neuroinflammation.md), [apoe](concepts/apoe.md), , 

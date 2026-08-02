@@ -17,7 +17,7 @@ backlinks: []
 
 ## Definition
 
-Neuroinflammation in  refers to the activation of innate and adaptive immune cells in the brain, particularly microglia and astrocytes, in response to pathological changes including [[amyloid-beta]] plaques, [[tau-pathology]], and neuronal damage. Once thought to be a secondary response, neuroinflammation is now recognized as a central driver of AD pathogenesis and a critical therapeutic target.^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+Neuroinflammation in  refers to the activation of innate and adaptive immune cells in the brain, particularly microglia and astrocytes, in response to pathological changes including [amyloid-beta](concepts/amyloid-beta.md) plaques, [tau-pathology](concepts/tau-pathology.md), and neuronal damage. Once thought to be a secondary response, neuroinflammation is now recognized as a central driver of AD pathogenesis and a critical therapeutic target.^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ## Core Mechanisms
 
@@ -171,11 +171,11 @@ Neuroinflammation represents a critical therapeutic target in AD:
 
 ## Related Concepts
 
-- [[amyloid-beta]]: Triggers neuroinflammation; anti-amyloid therapies attenuate inflammatory responses^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[tau-pathology]]: Triggers neuroinflammation; glial cells contribute to tau propagation^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [amyloid-beta](concepts/amyloid-beta.md): Triggers neuroinflammation; anti-amyloid therapies attenuate inflammatory responses^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [tau-pathology](concepts/tau-pathology.md): Triggers neuroinflammation; glial cells contribute to tau propagation^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 - : GFAP, sTREM2, TSPO PET enable inflammation monitoring^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 - : Immunomodulatory and CAR-based approaches targeting inflammation^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[apoe]]: APOE4 associated with heightened neuroinflammatory responses
+- [apoe](concepts/apoe.md): APOE4 associated with heightened neuroinflammatory responses
 
 ## Common Misconceptions
 

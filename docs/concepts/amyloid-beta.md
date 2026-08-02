@@ -41,7 +41,7 @@ As plaques age, Aβ undergoes post-translational modifications:
 ### Timeline
 - Aβ accumulation begins in brain ~20 years before cognitive impairment onset^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 - Considered a critical first step in AD pathological cascade
-- However, cognitive decline correlates more strongly with [[tau-pathology]] than amyloid burden^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- However, cognitive decline correlates more strongly with [tau-pathology](concepts/tau-pathology.md) than amyloid burden^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ## Structural Heterogeneity
 
@@ -121,9 +121,9 @@ Aβ is the earliest detectable pathology in AD and a validated therapeutic targe
 
 ## Related Concepts
 
-- [[tau-pathology]]: Aβ seeds tau pathology, which correlates with cognitive decline
-- [[neuroinflammation]]: Aβ clearance attenuates neuroinflammation; microglial activation required for therapeutic effect
-- [[apoe]]: Major genetic risk factor that modifies Aβ aggregation and clearance
+- [tau-pathology](concepts/tau-pathology.md): Aβ seeds tau pathology, which correlates with cognitive decline
+- [neuroinflammation](concepts/neuroinflammation.md): Aβ clearance attenuates neuroinflammation; microglial activation required for therapeutic effect
+- [apoe](concepts/apoe.md): Major genetic risk factor that modifies Aβ aggregation and clearance
 - : Anti-Aβ antibodies first to show clinical benefit
 - : Amyloid PET, CSF Aβ42/40, plasma Aβ for detection and monitoring
 

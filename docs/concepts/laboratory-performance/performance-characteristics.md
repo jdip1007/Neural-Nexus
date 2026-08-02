@@ -40,7 +40,7 @@ Metrics used to evaluate and validate laboratory methods and diagnostic tests.
 
 ## Related
 
-- [[qpcr-performance-characteristics]]
-- [[diagnostic-accuracy]]
-- [[roc-analysis]]
+- [qpcr-performance-characteristics](concepts/laboratory-performance/qpcr-performance-characteristics.md)
+- [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
+- [roc-analysis](concepts/roc-analysis.md)
 - [[clinical-validation]]

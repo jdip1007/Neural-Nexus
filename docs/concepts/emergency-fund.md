@@ -23,17 +23,17 @@ An emergency fund provides financial resilience without the lock-up penalties an
 
 ## Related
 
-- [[savings-insurance]] — Less flexible alternative
-- [[financial-planning]] — Component of financial plan
-- [[investment-vehicles]] — Long-term investments (complement)
-- [[investment-returns]]
-- [[insurance-commissions]]
-- [[term-life-insurance]]
-- [[bowtie-insurance]]
-- [[investment-risk]]
-- [[endowment-policies]]
-- [[insurance-comparison]]
-- [[universal-life]]
-- [[annuities]]
-- [[opportunity-cost]]
-- [[savings-insurance-hong-kong-myths-exposed]]
+- [savings-insurance](concepts/savings-insurance.md) — Less flexible alternative
+- [financial-planning](concepts/financial-planning.md) — Component of financial plan
+- [investment-vehicles](concepts/investment-vehicles.md) — Long-term investments (complement)
+- [investment-returns](concepts/investment-returns.md)
+- [insurance-commissions](concepts/insurance-commissions.md)
+- [term-life-insurance](concepts/term-life-insurance.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [investment-risk](concepts/investment-risk.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)

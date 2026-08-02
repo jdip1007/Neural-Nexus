@@ -269,9 +269,9 @@ The concept demonstrates how technological innovation can drive legal evolution 
 
 ## Related Pages
 
-- [[criminal-psychology-behavior-patterns]] — Criminal psychology context
-- [[lam-kwok-wai-tuen-mun-rapist]] — Tuen Mun Rapist case (Hong Kong's first DNA case)
-- [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research
-- [[celebrity-privacy-media-ethics]] — Privacy and media ethics
-- [[x-television-celebrity]]
-- [[psychology]]
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md) — Criminal psychology context
+- [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md) — Tuen Mun Rapist case (Hong Kong's first DNA case)
+- [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) — DangerousPerson2.0 research
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md) — Privacy and media ethics
+- [x-television-celebrity](entities/x-television-celebrity.md)
+- [psychology](concepts/psychology.md)

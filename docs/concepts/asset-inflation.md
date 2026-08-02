@@ -185,15 +185,15 @@ Asset inflation refers to the sustained increase in the prices of financial asse
 
 ## Related Concepts
 
-- [[wealth-concentration]]
-- [[generational-wealth-transfer]]
-- [[baby-boomers]]
-- [[economic-inequality]]
-- [[inheritance-economics]]
-- [[demographic-economic-impact]]
-- [[housing-market-dynamics]]
-- [[interest-rate-policy]]
-- [[labor-market-changes]]
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [baby-boomers](concepts/baby-boomers.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [inheritance-economics](concepts/inheritance-economics.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [housing-market-dynamics](concepts/housing-market-dynamics.md)
+- [interest-rate-policy](concepts/interest-rate-policy.md)
+- [labor-market-changes](concepts/labor-market-changes.md)
 
 ## Critical Questions
 

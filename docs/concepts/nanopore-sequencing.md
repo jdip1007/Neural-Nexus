@@ -100,24 +100,24 @@ Modern nanopore sequencing has evolved significantly:
 
 ## Related Concepts
 
-- [[nanopore-sequencing]] - Key advantage category
-- [[nanopore-sequencing]] - Broader field of application
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) - Key advantage category
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) - Broader field of application
 - [genomics](concepts/genomics.md) - Primary research domain
-- [[molecular-biology]] - Implementation context
+- [molecular-biology](concepts/molecular-biology.md) - Implementation context
 - [molecular-biology](concepts/molecular-biology.md) - Scientific foundation
-- [[agarose-plug-dna-extraction-method]]
-- [[dna-extraction]]
-- [[brain-tissue-dna-extraction-method]]
-- [[environmental-dna-analysis]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[sample-preparation]]
-- [[colony-pcr-dna-extraction-method]]
-- [[cell-line-culture]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[genomics]]
-- [[tissue-specific-dna-extraction]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [sample-preparation](concepts/sample-preparation.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [genomics](concepts/genomics.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
 ## Sources
 
 - ^[raw/articles/24hr-genome-e2e-promethion-document.md]

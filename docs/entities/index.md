@@ -11,55 +11,55 @@ Entities are people, organizations, tools, projects, and other real-world object
 #### Lam Kwok Wai (林國偉) - Tuen Mun Rapist
 - **Role**: Serial criminal, perpetrator of Hong Kong's first DNA case
 - **Significance**: Case established DNA evidence precedent in Hong Kong
-- **Related**: [[dna-evidence-hong-kong-legal-system]], [[criminal-psychology-behavior-patterns]]
+- **Related**: [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md), [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md)
 
 #### X先生 (Mr. X) - Television Celebrity
 - **Role**: Celebrity victim of sophisticated blackmail scheme
 - **Significance**: High-profile case highlighting celebrity privacy issues
-- **Related**: [[celebrity-privacy-media-ethics]], [[media-law]]
+- **Related**: [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md), [[media-law]]
 
 ## Browse Entities
 
 ### People
-- [[lam-kwok-wai-tuen-mun-rapist]] - Serial criminal from Hong Kong's first DNA case
-- [[x-television-celebrity]] - Television celebrity and blackmail victim
-- [[penn-rainford]] - Researcher and contributor
-- [[katherine-johns]] - Medical reviewer for Chubbyemu channel
+- [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md) - Serial criminal from Hong Kong's first DNA case
+- [x-television-celebrity](entities/x-television-celebrity.md) - Television celebrity and blackmail victim
+- [penn-rainford](entities/penn-rainford.md) - Researcher and contributor
+- [katherine-johns](entities/katherine-johns.md) - Medical reviewer for Chubbyemu channel
 
 ### Researchers
-- [[geoffrey-west]] - WBE theory co-developer, scaling laws researcher
-- [[brian-enquist]] - WBE theory co-developer
-- [[max-kleiber]] - Discoverer of Kleiber's Law
-- [[derek-muller]] - Creator of Veritasium science channel
-- [[michel-mandelboim]] - Researcher in respiratory virus diagnostics
-- [[musa-hindiyeh]] - Researcher in respiratory virus diagnostics
-- [[orna-mor]] - Researcher in respiratory virus diagnostics
-- [[david-holtzman]] - Alzheimer's disease researcher
-- [[jason-ulrich]] - Alzheimer's disease researcher
-- [[michelle-rudman]] - Alzheimer's disease researcher
-- [[ko-matsui]] - Brain energy dynamics researcher
-- [[stephen-p-hinshaw]] - ADHD research expert
+- [geoffrey-west](entities/geoffrey-west.md) - WBE theory co-developer, scaling laws researcher
+- [brian-enquist](entities/brian-enquist.md) - WBE theory co-developer
+- [max-kleiber](entities/max-kleiber.md) - Discoverer of Kleiber's Law
+- [derek-muller](entities/derek-muller.md) - Creator of Veritasium science channel
+- [michel-mandelboim](entities/michel-mandelboim.md) - Researcher in respiratory virus diagnostics
+- [musa-hindiyeh](entities/musa-hindiyeh.md) - Researcher in respiratory virus diagnostics
+- [orna-mor](entities/orna-mor.md) - Researcher in respiratory virus diagnostics
+- [david-holtzman](entities/david-holtzman.md) - Alzheimer's disease researcher
+- [jason-ulrich](entities/jason-ulrich.md) - Alzheimer's disease researcher
+- [michelle-rudman](entities/michelle-rudman.md) - Alzheimer's disease researcher
+- [ko-matsui](entities/ko-matsui.md) - Brain energy dynamics researcher
+- [stephen-p-hinshaw](entities/stephen-p-hinshaw.md) - ADHD research expert
 
 ### AI/Computer Science Researchers
-- [[james-evans]] - AI's impact on science researcher
-- [[qianyue-hao]] - AI's impact on science researcher
-- [[fengli-xu]] - AI's impact on science researcher
-- [[yong-li]] - AI's impact on science researcher
-- [[james-brown]] - Complex systems researcher
-- [[peter-sheridan-dodds]] - Scaling laws researcher
-- [[van-savage]] - Scaling laws researcher
-- [[steven-strogatz]] - Network theory researcher
+- [james-evans](entities/james-evans.md) - AI's impact on science researcher
+- [qianyue-hao](entities/qianyue-hao.md) - AI's impact on science researcher
+- [fengli-xu](entities/fengli-xu.md) - AI's impact on science researcher
+- [yong-li](entities/yong-li.md) - AI's impact on science researcher
+- [james-brown](entities/james-brown.md) - Complex systems researcher
+- [peter-sheridan-dodds](entities/peter-sheridan-dodds.md) - Scaling laws researcher
+- [van-savage](entities/van-savage.md) - Scaling laws researcher
+- [steven-strogatz](entities/steven-strogatz.md) - Network theory researcher
 
 ### Lab/Molecular Biology
-- [[joseph-sambrook]] - Molecular cloning researcher
-- [[michael-r-green]] - Molecular cloning researcher
+- [joseph-sambrook](entities/joseph-sambrook.md) - Molecular cloning researcher
+- [michael-r-green](entities/michael-r-green.md) - Molecular cloning researcher
 
 ### Organizations
-- [[biomerieux]] - Medical diagnostics company (eMAG platform)
-- [[roche]] - Medical diagnostics company (MagNA PURE platform)
+- [biomerieux](entities/biomerieux.md) - Medical diagnostics company (eMAG platform)
+- [roche](entities/roche.md) - Medical diagnostics company (MagNA PURE platform)
 
 ### Media & Insurance
-- [[bowtie-insurance]] - Hong Kong virtual insurance company
+- [bowtie-insurance](entities/bowtie-insurance.md) - Hong Kong virtual insurance company
 
 ### Projects
 - Additional projects will be listed here as they are added

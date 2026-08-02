@@ -110,21 +110,21 @@ Modern cell line culture has evolved significantly:
 
 - [dna-extraction](concepts/dna-extraction.md) — Downstream application from cultured cells
 - [molecular-biology](concepts/molecular-biology.md) — Field that relies on cell culture techniques
-- [[molecular-biology]] — Broader application domain
-- [[tissue-specific-dna-extraction]] — Advanced applications of cell culture
-- [[tissue-specific-dna-extraction]] — Clinical applications of cultured cells
-- [[environmental-dna-analysis]]
-- [[dna-extraction-methodologies]]
-- [[sample-preparation]]
-- [[colony-pcr-dna-extraction-method]]
-- [[agarose-plug-dna-extraction-method]]
-- [[brain-tissue-dna-extraction-method]]
-- [[pcr]]
-- [[nanopore-sequencing]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[genomics]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
+- [molecular-biology](concepts/molecular-biology.md) — Broader application domain
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md) — Advanced applications of cell culture
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md) — Clinical applications of cultured cells
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [sample-preparation](concepts/sample-preparation.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [pcr](concepts/pcr.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [genomics](concepts/genomics.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
 ## Sources
 
 - ^[raw/articles/cell-line-dna-pure-extraction-method.md]

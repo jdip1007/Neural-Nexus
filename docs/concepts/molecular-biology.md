@@ -101,10 +101,10 @@ Molecular biology operates through several fundamental processes:
 - [genomics](concepts/genomics.md) — Study of entire genomes and their functions
 - [pcr](concepts/pcr.md) — Key technique for DNA amplification and analysis
 - [dna-extraction](concepts/dna-extraction.md) — Fundamental process for obtaining molecular samples
-- [[genomics]] — Computational analysis of molecular data
-- [[cell-line-culture]] — Study of cellular structures and processes
-- [[molecular-biology]] — Study of heredity and gene functions
-- [[neural-nexus]]
+- [genomics](concepts/genomics.md) — Computational analysis of molecular data
+- [cell-line-culture](concepts/cell-line-culture.md) — Study of cellular structures and processes
+- [molecular-biology](concepts/molecular-biology.md) — Study of heredity and gene functions
+- [neural-nexus](concepts/neural-nexus.md)
 ## History
 - **1869**: Friedrich Miescher discovers DNA
 - **1953**: Watson and Crick propose DNA double helix structure

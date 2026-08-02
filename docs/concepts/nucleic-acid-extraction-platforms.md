@@ -145,11 +145,11 @@ All platforms demonstrated >97% agreement across:
 
 ## Related Concepts
 
-- [[qpcr]] - Real-time PCR detection methods
-- [[laboratory-validation]] - Method evaluation and validation processes
-- [[respiratory-virus-testing]] - Clinical virology workflows
-- [[performance-characteristics]] - Sensitivity, specificity, LOD metrics
-- [[laboratory-automation]] - Automated vs manual workflows
+- [qpcr](concepts/laboratory-methods/qpcr.md) - Real-time PCR detection methods
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) - Method evaluation and validation processes
+- [respiratory-virus-testing](concepts/clinical-testing/respiratory-virus-testing.md) - Clinical virology workflows
+- [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md) - Sensitivity, specificity, LOD metrics
+- [laboratory-automation](concepts/laboratory-methods/laboratory-automation.md) - Automated vs manual workflows
 
 ---
 

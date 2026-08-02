@@ -100,9 +100,9 @@ This audit compares the current wiki state against Neural Nexus quality standard
 - Finance/insurance links (3 pages × 4-5 links = 15 warnings)
 
 **Common Broken Links**:
-- `[[psychology]]`, `[[relationships]]`, `[[mental-health]]` (appear on 15+ pages)
-- `[[term-life-insurance]]`, `[[investment-vehicles]]`, `[[emergency-fund]]` (finance concepts)
-- `[[cellular-automata]]`, `[[game-loop]]`, `[[canvas-rendering]]` (simulation concepts)
+- `[psychology](concepts/psychology.md)`, `[relationships](concepts/relationships.md)`, `[mental-health](concepts/mental-health.md)` (appear on 15+ pages)
+- `[term-life-insurance](concepts/term-life-insurance.md)`, `[investment-vehicles](concepts/investment-vehicles.md)`, `[emergency-fund](concepts/emergency-fund.md)` (finance concepts)
+- `[cellular-automata](concepts/cellular-automata.md)`, `[game-loop](concepts/game-loop.md)`, `[canvas-rendering](concepts/canvas-rendering.md)` (simulation concepts)
 
 **Root Cause**: Wikilinks created to non-existent placeholder pages
 
@@ -225,7 +225,7 @@ classification-overlap: 3 suggestions
 
 ### Fix Strategy
 
-1. Create stub pages for common broken links (`[[psychology]]`, `[[relationships]]`, `[[mental-health]]`)
+1. Create stub pages for common broken links (`[psychology](concepts/psychology.md)`, `[relationships](concepts/relationships.md)`, `[mental-health](concepts/mental-health.md)`)
 2. Add links to reference pages from `concepts/neural-nexus.md`
 3. Link new finance pages from existing pages
 4. Run suggest-links.js to identify missing connections
@@ -321,8 +321,8 @@ classification-overlap: 3 suggestions
    - **Impact**: Documentation accuracy, future validation
 
 5. **Create stub pages for common broken links**
-   - `[[psychology]]`, `[[relationships]]`, `[[mental-health]]`
-   - `[[term-life-insurance]]`, `[[investment-vehicles]]`, `[[emergency-fund]]`
+   - `[psychology](concepts/psychology.md)`, `[relationships](concepts/relationships.md)`, `[mental-health](concepts/mental-health.md)`
+   - `[term-life-insurance](concepts/term-life-insurance.md)`, `[investment-vehicles](concepts/investment-vehicles.md)`, `[emergency-fund](concepts/emergency-fund.md)`
    - **Effort**: 1 hour
    - **Impact**: Eliminates 45-60 wikilink warnings, reduces orphans
 

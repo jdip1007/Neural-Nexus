@@ -34,8 +34,8 @@ This content from HealthyGamerGG explores the impatient man: why you feel like a
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[why-learning-from-failure-is-ruining-your-life]]
-- [[how-to-actually-have-an-elite-mindset]]
+- [why-learning-from-failure-is-ruining-your-life](concepts/why-learning-from-failure-is-ruining-your-life.md)
+- [how-to-actually-have-an-elite-mindset](concepts/how-to-actually-have-an-elite-mindset.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -44,7 +44,7 @@ This content from HealthyGamerGG explores the impatient man: why you feel like a
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

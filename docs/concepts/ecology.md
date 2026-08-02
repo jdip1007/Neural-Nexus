@@ -123,9 +123,9 @@ Ecology operates through several fundamental principles:
 - [environmental-dna-analysis](concepts/environmental-dna-analysis.md) — Uses ecological principles for species detection
 - [conservation-biology](concepts/conservation-biology.md) — Applied ecology focused on preserving biodiversity
 - [environmental-monitoring](concepts/environmental-monitoring.md) — Ecological assessment and tracking
-- [[conservation-biology]] — Study of species diversity and distribution
-- [[ecology]] — Study of ecological systems and processes
-- [[environmental-monitoring]] — Impact on ecological systems
+- [conservation-biology](concepts/conservation-biology.md) — Study of species diversity and distribution
+- [ecology](concepts/ecology.md) — Study of ecological systems and processes
+- [environmental-monitoring](concepts/environmental-monitoring.md) — Impact on ecological systems
 
 ## History
 - **Ancient Times**: Early observations of natural relationships

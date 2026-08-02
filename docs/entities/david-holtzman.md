@@ -17,7 +17,7 @@ backlinks: []
 
 ## Overview
 
-David M. Holtzman is a prominent neurology researcher and Alzheimer's disease expert at Washington University School of Medicine. He is the senior author of major reviews on recent advances in AD research, including groundbreaking work on [[amyloid-beta]], [[tau-pathology]], [[neuroinflammation]], and .^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+David M. Holtzman is a prominent neurology researcher and Alzheimer's disease expert at Washington University School of Medicine. He is the senior author of major reviews on recent advances in AD research, including groundbreaking work on [amyloid-beta](concepts/amyloid-beta.md), [tau-pathology](concepts/tau-pathology.md), [neuroinflammation](concepts/neuroinflammation.md), and .^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ## Key Facts
 
@@ -86,12 +86,12 @@ David M. Holtzman is a prominent neurology researcher and Alzheimer's disease ex
 ## In This Wiki
 
 ### Authored Works
-- [[readings/recent-advances-alzheimers-disease-cell-review-2026]]: Comprehensive review of AD advances^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [readings/recent-advances-alzheimers-disease-cell-review-2026](readings/recent-advances-alzheimers-disease-cell-review-2026.md): Comprehensive review of AD advances^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ### Related Concepts
-- [[amyloid-beta]]: Research on pathogenic species and therapeutic targeting
-- [[tau-pathology]]: Structural biology and therapeutic approaches
-- [[neuroinflammation]]: Immune system contributions to AD
-- [[apoe]]: Genetics and therapeutic targeting
+- [amyloid-beta](concepts/amyloid-beta.md): Research on pathogenic species and therapeutic targeting
+- [tau-pathology](concepts/tau-pathology.md): Structural biology and therapeutic approaches
+- [neuroinflammation](concepts/neuroinflammation.md): Immune system contributions to AD
+- [apoe](concepts/apoe.md): Genetics and therapeutic targeting
 - : Fluid and imaging biomarkers for AD
 - : Current and emerging treatments

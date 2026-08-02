@@ -19,15 +19,15 @@ backlinks: []
 
 ## Key Pages
 
-- [[can-men-women-be-friends_]] — Gender and friendship
-- [[how-your-brain-perceives-love-when-you-have-autism]] — Love and neurodiversity
-- [[i-did-everything-right-i-still-cant-find-love]] — Relationship struggles
-- [[why-validating-feelings-can-ruin-relationships]] — Emotional validation
-- [[why-your-partner-doesnt-support-your-dreams]] — Partner support
+- [can-men-women-be-friends_](concepts/can-men-women-be-friends_.md) — Gender and friendship
+- [how-your-brain-perceives-love-when-you-have-autism](concepts/how-your-brain-perceives-love-when-you-have-autism.md) — Love and neurodiversity
+- [i-did-everything-right-i-still-cant-find-love](concepts/i-did-everything-right-i-still-cant-find-love.md) — Relationship struggles
+- [why-validating-feelings-can-ruin-relationships](concepts/why-validating-feelings-can-ruin-relationships.md) — Emotional validation
+- [why-your-partner-doesnt-support-your-dreams](concepts/why-your-partner-doesnt-support-your-dreams.md) — Partner support
 
 ## Related Concepts
 
-- [[psychology]] — Parent domain
-- [[why-modern-dating-feels-like-parenting]] — Dating dynamics
-- [[why-validating-feelings-can-ruin-relationships]] — Communication in relationships
-- [[mental-health]] — Mental health impacts on relationships
+- [psychology](concepts/psychology.md) — Parent domain
+- [why-modern-dating-feels-like-parenting](concepts/why-modern-dating-feels-like-parenting.md) — Dating dynamics
+- [why-validating-feelings-can-ruin-relationships](concepts/why-validating-feelings-can-ruin-relationships.md) — Communication in relationships
+- [mental-health](concepts/mental-health.md) — Mental health impacts on relationships

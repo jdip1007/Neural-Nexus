@@ -83,20 +83,20 @@ The video references sources available at: https://pastebin.com/KG6ZNMz ^[https:
 
 ## Related Concepts
 
-- [[generational-wealth-transfer]]
-- [[economic-inequality]]
-- [[asset-inflation]]
-- [[demographic-economic-impact]]
-- [[housing-market-dynamics]]
-- [[interest-rate-policy]]
-- [[inheritance-economics]]
-- [[wealth-concentration]]
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [asset-inflation](concepts/asset-inflation.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [housing-market-dynamics](concepts/housing-market-dynamics.md)
+- [interest-rate-policy](concepts/interest-rate-policy.md)
+- [inheritance-economics](concepts/inheritance-economics.md)
+- [wealth-concentration](concepts/wealth-concentration.md)
 
 ## Entities Mentioned
 
-- [[baby-boomers]]
-- [[the-infographics-show]]
-- [[josh-risser]]
+- [baby-boomers](concepts/baby-boomers.md)
+- [the-infographics-show](entities/the-infographics-show.md)
+- [josh-risser](entities/josh-risser.md)
 
 ## Takeaways
 

@@ -108,13 +108,13 @@ Specific to **executive function** deficits only:
 
 ## Related Concepts
 
-- [[psychiatric-comorbidity]] — The phenomenon the NP factor explains
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — The phenomenon the NP factor explains
 -  — The cognitive domain linked to the NP factor
-- [[prefrontal-cortex-development]] — The developmental process underlying the NP factor
+- [prefrontal-cortex-development](concepts/prefrontal-cortex-development.md) — The developmental process underlying the NP factor
 -  — The FC measure used to construct the NP factor
 -  — The behavioral p factor (predecessor concept)
-- [[mental-health]] — Hub page for mental health concepts
-- [[psychology]] — Parent domain
+- [mental-health](concepts/mental-health.md) — Hub page for mental health concepts
+- [psychology](concepts/psychology.md) — Parent domain
 
 ## Related Entities
 

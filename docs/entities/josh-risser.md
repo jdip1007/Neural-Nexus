@@ -168,11 +168,11 @@ backlinks: []
 
 ## Related Concepts
 
-- [[the-infographics-show]]
-- [[generational-wealth-transfer]]
-- [[baby-boomers]]
-- [[economic-inequality]]
-- [[wealth-concentration]]
+- [the-infographics-show](entities/the-infographics-show.md)
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [baby-boomers](concepts/baby-boomers.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [wealth-concentration](concepts/wealth-concentration.md)
 - [[media-influence]]
 - [[educational-content]]
 - [[youtube-education]]

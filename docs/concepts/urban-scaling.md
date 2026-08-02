@@ -28,13 +28,13 @@ Unlike biological organisms (which scale sublinearly at ¾), cities show two sca
 
 ## Theoretical Basis
 
-[[geoffrey-west]] and colleagues proposed that superlinear social scaling results from increasing interaction rates in denser populations, analogous to metabolic scaling in organisms but with different network properties.
+[geoffrey-west](entities/geoffrey-west.md) and colleagues proposed that superlinear social scaling results from increasing interaction rates in denser populations, analogous to metabolic scaling in organisms but with different network properties.
 
 ## Related
 
-- [[wbe-theory]] — Biological scaling theory extended to cities
-- [[geoffrey-west]] — Key researcher
-- [[scaling-laws]] — Mathematical framework
-- [[metabolic-scaling]] — Biological counterpart
-- [[scale-book]] — Discussed in detail in this book
+- [wbe-theory](concepts/wbe-theory.md) — Biological scaling theory extended to cities
+- [geoffrey-west](entities/geoffrey-west.md) — Key researcher
+- [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
+- [metabolic-scaling](concepts/metabolic-scaling.md) — Biological counterpart
+- [scale-book](concepts/scale-book.md) — Discussed in detail in this book
 - complex systems — Field of study

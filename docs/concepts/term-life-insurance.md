@@ -39,13 +39,13 @@ Term life insurance is recommended as a cost-effective alternative to savings in
 
 ## Related
 
-- [[savings-insurance]] — Comparison counterpart
-- [[financial-planning]] — Insurance in financial planning
-- [[insurance-commissions]] — Sales incentive structures
-- [[insurtech]]
-- [[annuities]]
-- [[opportunity-cost]]
-- [[investment-returns]]
-- [[emergency-fund]]
-- [[bowtie-insurance]]
-- [[investment-risk]]
+- [savings-insurance](concepts/savings-insurance.md) — Comparison counterpart
+- [financial-planning](concepts/financial-planning.md) — Insurance in financial planning
+- [insurance-commissions](concepts/insurance-commissions.md) — Sales incentive structures
+- [insurtech](concepts/insurtech.md)
+- [annuities](concepts/annuities.md)
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [investment-returns](concepts/investment-returns.md)
+- [emergency-fund](concepts/emergency-fund.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [investment-risk](concepts/investment-risk.md)

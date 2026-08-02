@@ -302,11 +302,11 @@ The entity demonstrates how celebrity status creates unique vulnerabilities and 
 
 ## Related Pages
 
-- [[celebrity-privacy-media-ethics]] — Privacy and media ethics
-- [[criminal-psychology-behavior-patterns]] — Criminal psychology
-- [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research
-- [[lam-kwok-wai-tuen-mun-rapist]]
-- [[dangerous-person-2-0-research-project]]
-- [[relationships]]
-- [[dna-evidence-hong-kong-legal-system]]
-- [[psychology]]
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md) — Privacy and media ethics
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md) — Criminal psychology
+- [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) — DangerousPerson2.0 research
+- [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md)
+- [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)
+- [relationships](concepts/relationships.md)
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
+- [psychology](concepts/psychology.md)

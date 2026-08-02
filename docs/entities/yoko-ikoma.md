@@ -16,7 +16,7 @@ reviewed: 2026-07-29
 
 ## Overview
 
-Yoko Ikoma is a researcher at the Super-network Brain Physiology laboratory, Tohoku University, Sendai, Japan. She is a co-author of the 2026 Communications Biology paper on the [[rem-sleep-energy-paradox]] and contributed to the development of the experimental method and tools.
+Yoko Ikoma is a researcher at the Super-network Brain Physiology laboratory, Tohoku University, Sendai, Japan. She is a co-author of the 2026 Communications Biology paper on the [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) and contributed to the development of the experimental method and tools.
 
 ## Key Facts
 
@@ -30,11 +30,11 @@ Yoko Ikoma is a researcher at the Super-network Brain Physiology laboratory, Toh
 
 ## In This Wiki
 
-- [[rem-sleep-energy-paradox]] — Co-author on the discovery paper
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — Co-author on the discovery paper
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
 
 ## Related
 
-- [[ko-matsui]] — Senior author and PI
-- [[yusuke-takahashi]] — First author
-- [[tohoku-university]] — Affiliated institution
+- [ko-matsui](entities/ko-matsui.md) — Senior author and PI
+- [yusuke-takahashi](entities/yusuke-takahashi.md) — First author
+- [tohoku-university](entities/tohoku-university.md) — Affiliated institution

@@ -84,8 +84,8 @@ This method is particularly valuable for:
 - [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
 - [pcr](concepts/pcr.md) - Primary downstream application
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
-- [[molecular-biology]] - Broader context
-- [[colony-pcr-dna-extraction-method]] - Specialized research domain
+- [molecular-biology](concepts/molecular-biology.md) - Broader context
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md) - Specialized research domain
 
 ## My Takeaways
 
@@ -97,18 +97,18 @@ This method is particularly valuable for:
 ## Related Readings
 
 - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
-- [[pcr]]
-- [[genomics]]
-- [[environmental-dna-analysis]]
-- [[nanopore-sequencing]]
-- [[dna-extraction-methodologies]]
-- [[sample-preparation]]
-- [[cell-line-culture]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[agarose-plug-dna-extraction-method]]
-- [[dna-extraction]]
-- [[brain-tissue-dna-extraction-method]]
-- [[tissue-specific-dna-extraction]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
+- [pcr](concepts/pcr.md)
+- [genomics](concepts/genomics.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [sample-preparation](concepts/sample-preparation.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)

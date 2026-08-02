@@ -19,10 +19,10 @@ backlinks: []
 
 ## Core Components
 
-1. **Protection**: Adequate insurance coverage (see [[term-life-insurance]])
-2. **Growth**: Investment portfolio (see [[investment-vehicles]])
-3. **Liquidity**: Emergency reserves (see [[emergency-fund]])
-4. **Risk management**: Understanding [[investment-risk]] and [[opportunity-cost]]
+1. **Protection**: Adequate insurance coverage (see [term-life-insurance](concepts/term-life-insurance.md))
+2. **Growth**: Investment portfolio (see [investment-vehicles](concepts/investment-vehicles.md))
+3. **Liquidity**: Emergency reserves (see [emergency-fund](concepts/emergency-fund.md))
+4. **Risk management**: Understanding [investment-risk](concepts/investment-risk.md) and [opportunity-cost](concepts/opportunity-cost.md)
 
 ## In Insurance Context
 
@@ -30,14 +30,14 @@ A key principle is separating insurance from investment. Savings insurance combi
 
 ## Related
 
-- [[savings-insurance]] — Product to evaluate carefully
-- [[term-life-insurance]] — Protection component
-- [[investment-vehicles]] — Growth component
-- [[emergency-fund]] — Liquidity component
-- [[bowtie-insurance]]
-- [[insurance-comparison]]
-- [[universal-life]]
-- [[savings-insurance-hong-kong-myths-exposed]]
-- [[investment-returns]]
-- [[endowment-policies]]
-- [[insurance-commissions]]
+- [savings-insurance](concepts/savings-insurance.md) — Product to evaluate carefully
+- [term-life-insurance](concepts/term-life-insurance.md) — Protection component
+- [investment-vehicles](concepts/investment-vehicles.md) — Growth component
+- [emergency-fund](concepts/emergency-fund.md) — Liquidity component
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [universal-life](concepts/universal-life.md)
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
+- [investment-returns](concepts/investment-returns.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [insurance-commissions](concepts/insurance-commissions.md)

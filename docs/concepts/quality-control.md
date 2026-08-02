@@ -25,27 +25,27 @@ reviewed: 2026-07-31
 - **Westgard rules** provide a multi-rule framework for evaluating whether an analytical run is in control or should be rejected.
 - QC must be performed at defined intervals and after calibration, reagent changes, or major maintenance events.
 - Failure of QC triggers corrective action, documentation, and review of affected patient results.
-- QC is a mandatory component of regulatory compliance under [[clia-regulations]] and accreditation standards.
+- QC is a mandatory component of regulatory compliance under [clia-regulations](concepts/accreditation/clia-regulations.md) and accreditation standards.
 
 ## Relationship to Method Evaluation
 
 Quality control is distinct from but closely tied to method evaluation activities:
 
-- [[laboratory-verification]] — Confirms that a method meets performance specifications in a specific laboratory before patient testing begins.
-- [[laboratory-validation]] — Establishes the analytical performance characteristics of a method.
-- [[method-performance]] — Ongoing assessment of precision, accuracy, and other metrics that QC monitors in routine operation.
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Confirms that a method meets performance specifications in a specific laboratory before patient testing begins.
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Establishes the analytical performance characteristics of a method.
+- [method-performance](concepts/accreditation/method-performance.md) — Ongoing assessment of precision, accuracy, and other metrics that QC monitors in routine operation.
 
 QC serves as the continuous, operational layer of the quality management system, while verification and validation are discrete, pre-implementation activities.
 
 ## Regulatory Context
 
-Under CLIA, laboratories must establish and follow written QC procedures for each test system. The regulations specify frequency, evaluation criteria, and documentation requirements. QC records are routinely inspected during [[clia-regulations]] surveys and accreditation audits.
+Under CLIA, laboratories must establish and follow written QC procedures for each test system. The regulations specify frequency, evaluation criteria, and documentation requirements. QC records are routinely inspected during [clia-regulations](concepts/accreditation/clia-regulations.md) surveys and accreditation audits.
 
 ## Related
 
-- [[laboratory-verification]]
-- [[laboratory-validation]]
-- [[method-performance]]
-- [[clia-regulations]]
-- [[proficiency-testing]]
-- [[statistical-analysis]]
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md)
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md)
+- [method-performance](concepts/accreditation/method-performance.md)
+- [clia-regulations](concepts/accreditation/clia-regulations.md)
+- [proficiency-testing](concepts/proficiency-testing.md)
+- [statistical-analysis](concepts/statistical-analysis.md)

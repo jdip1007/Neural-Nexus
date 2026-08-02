@@ -77,20 +77,20 @@ Each cycle doubles the amount of the target DNA sequence, resulting in exponenti
 - [genomics](concepts/genomics.md) — Field that relies on PCR techniques for DNA analysis
 - [molecular-biology](concepts/molecular-biology.md) — Broader scientific discipline encompassing PCR
 - [sample-preparation](concepts/sample-preparation.md) — Critical step ensuring PCR success
-- [[adaptive-sampling-document]]
-- [[environmental-dna-analysis]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[sample-preparation]]
-- [[cell-line-culture]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[agarose-plug-dna-extraction-method]]
-- [[brain-tissue-dna-extraction-method]]
-- [[tissue-specific-dna-extraction]]
-- [[24hr-genome-e2e-promethion-document]]
-- [[genomics]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
-- [[environmental-monitoring]]
+- [adaptive-sampling-document](raw/articles/adaptive-sampling-document.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [sample-preparation](concepts/sample-preparation.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+- [24hr-genome-e2e-promethion-document](raw/articles/24hr-genome-e2e-promethion-document.md)
+- [genomics](concepts/genomics.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+- [environmental-monitoring](concepts/environmental-monitoring.md)
 ## History
 - **1983**: Kary Mullis invents PCR while working at Cetus Corporation
 - **1985**: First publication of PCR technique
@@ -127,8 +127,8 @@ PCR is a cornerstone technique in modern molecular biology, enabling:
 
 ## Related Pages
 
-- [[dna-extraction]] — DNA extraction fundamentals
-- [[nanopore-sequencing]] — Sequencing technology
-- [[molecular-biology]] — Molecular biology concepts
-- [[colony-pcr-dna-extraction-method]] — Colony PCR method
+- [dna-extraction](concepts/dna-extraction.md) — DNA extraction fundamentals
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) — Sequencing technology
+- [molecular-biology](concepts/molecular-biology.md) — Molecular biology concepts
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md) — Colony PCR method
 *Last updated: July 19, 2026*

@@ -105,10 +105,10 @@ Adaptive sampling represents a paradigm shift in data collection, moving from pr
 ## Concepts Referenced
 
 - [genomics](concepts/genomics.md) - Primary research domain
-- [[genomics]] - Computational implementation
-- [[nanopore-sequencing]] - Core technology
-- [[genomics]] - Broader field
-- [[molecular-biology]] - Implementation context
+- [genomics](concepts/genomics.md) - Computational implementation
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) - Core technology
+- [genomics](concepts/genomics.md) - Broader field
+- [molecular-biology](concepts/molecular-biology.md) - Implementation context
 
 ## My Takeaways
 
@@ -120,11 +120,11 @@ Adaptive sampling represents a paradigm shift in data collection, moving from pr
 ## Related Readings
 
 - [nanopore-sequencing](concepts/nanopore-sequencing.md)
-- [[nanopore-sequencing]]
-- [[adaptive-sampling]]
-- [[environmental-dna-analysis]]
-- [[dna-extraction-methodologies]]
-- [[dna-extraction]]
-- [[pcr]]
-- [[24hr-genome-e2e-promethion-document]]
-- [[tissue-specific-dna-extraction]]
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [adaptive-sampling](concepts/adaptive-sampling.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [pcr](concepts/pcr.md)
+- [24hr-genome-e2e-promethion-document](raw/articles/24hr-genome-e2e-promethion-document.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)

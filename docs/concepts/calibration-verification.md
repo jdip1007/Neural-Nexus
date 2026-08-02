@@ -24,8 +24,8 @@ Calibration verification is the process of confirming that a measurement system'
 - **Distinguished from recalibration:** Recalibration re-establishes the calibration curve; verification confirms the existing curve is still valid without changing it.
 - **CLIA triggers:** Calibration verification is required every six months, after major service/replacement of critical components, when reagent lot changes affect performance, and after a defined set of QC failures.
 - **Materials:** Uses materials with known values spanning low, mid, and high points of the reportable range. Acceptability criteria are based on the laboratory's established limits.
-- **Documentation:** Results, dates, materials, lot numbers, and acceptability must be documented per [[clia-regulations]] and laboratory [[quality-control]] policy.
-- Calibration verification is a component of ongoing [[method-performance]] monitoring rather than one-time validation.
+- **Documentation:** Results, dates, materials, lot numbers, and acceptability must be documented per [clia-regulations](concepts/accreditation/clia-regulations.md) and laboratory [quality-control](concepts/quality-control.md) policy.
+- Calibration verification is a component of ongoing [method-performance](concepts/accreditation/method-performance.md) monitoring rather than one-time validation.
 
 ## Typical Workflow
 
@@ -37,7 +37,7 @@ Calibration verification is the process of confirming that a measurement system'
 
 ## Related
 
-- [[quality-control]]
-- [[method-performance]]
-- [[clia-regulations]]
-- [[laboratory-validation]]
+- [quality-control](concepts/quality-control.md)
+- [method-performance](concepts/accreditation/method-performance.md)
+- [clia-regulations](concepts/accreditation/clia-regulations.md)
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md)

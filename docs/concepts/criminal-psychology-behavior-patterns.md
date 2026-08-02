@@ -255,9 +255,9 @@ The concept demonstrates how psychological insights can improve understanding, p
 
 ## Related Pages
 
-- [[dna-evidence-hong-kong-legal-system]] — DNA evidence in legal proceedings
-- [[celebrity-privacy-media-ethics]] — Privacy and media ethics
-- [[lam-kwok-wai-tuen-mun-rapist]] — Case study: Tuen Mun Rapist
-- [[dangerous-person-2-0-research-overview]] — DangerousPerson2.0 research
-- [[psychology]]
-- [[relationships]]
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md) — DNA evidence in legal proceedings
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md) — Privacy and media ethics
+- [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md) — Case study: Tuen Mun Rapist
+- [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) — DangerousPerson2.0 research
+- [psychology](concepts/psychology.md)
+- [relationships](concepts/relationships.md)

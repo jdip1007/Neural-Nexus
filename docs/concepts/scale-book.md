@@ -14,7 +14,7 @@ reviewed: 2026-07-31
 
 # Scale: The Universal Laws of Growth
 
-**Scale** is a book by [[geoffrey-west]] that explores how biological and social systems scale according to universal mathematical laws. It presents the WBE theory of metabolic scaling and extends it to cities, companies, and organisms.
+**Scale** is a book by [geoffrey-west](entities/geoffrey-west.md) that explores how biological and social systems scale according to universal mathematical laws. It presents the WBE theory of metabolic scaling and extends it to cities, companies, and organisms.
 
 ## Key Ideas
 
@@ -25,8 +25,8 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[wbe-theory]] — The theoretical framework presented in the book
-- [[kleibers-law]] — The ¾ power law central to the book
-- [[geoffrey-west]] — Author
-- [[metabolic-scaling]] — Core topic
-- [[scaling-laws]] — Mathematical framework
+- [wbe-theory](concepts/wbe-theory.md) — The theoretical framework presented in the book
+- [kleibers-law](concepts/kleibers-law.md) — The ¾ power law central to the book
+- [geoffrey-west](entities/geoffrey-west.md) — Author
+- [metabolic-scaling](concepts/metabolic-scaling.md) — Core topic
+- [scaling-laws](concepts/scaling-laws.md) — Mathematical framework

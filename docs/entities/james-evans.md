@@ -35,10 +35,10 @@ James Evans is a professor at the University of Chicago and external professor a
 
 ## Relationships
 
-- **Co-authors**: [[qianyue-hao]], [[fengli-xu]], [[yong-li]]
+- **Co-authors**: [qianyue-hao](entities/qianyue-hao.md), [fengli-xu](entities/fengli-xu.md), [yong-li](entities/yong-li.md)
 - **Institutions**: University of Chicago, Santa Fe Institute
 - **Research Center**: Knowledge Lab
-- **Related**: [[ai-impacts-science-nature-2026]]
+- **Related**: [ai-impacts-science-nature-2026](raw/articles/ai-impacts-science-nature-2026.md)
 
 ## In This Wiki
 

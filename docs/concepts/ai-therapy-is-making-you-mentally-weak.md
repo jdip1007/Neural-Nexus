@@ -34,9 +34,9 @@ This content from HealthyGamerGG explores ai therapy is making you mentally weak
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[how-trauma-splits-a-soul]]
-- [[the-most-misdiagnosed-condition-in-mental-health]]
-- [[what-everyone-gets-wrong-about-adhd]]
+- [how-trauma-splits-a-soul](concepts/how-trauma-splits-a-soul.md)
+- [the-most-misdiagnosed-condition-in-mental-health](concepts/the-most-misdiagnosed-condition-in-mental-health.md)
+- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -45,7 +45,7 @@ This content from HealthyGamerGG explores ai therapy is making you mentally weak
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

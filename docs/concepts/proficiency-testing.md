@@ -36,8 +36,8 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[clia-regulations]] — CLIA PT requirements (42 CFR §493.801-955)
-- [[cms]] — CMS approves PT programs
-- [[quality-control]] — Complements internal QC
-- [[laboratory-verification]] — PT verifies ongoing performance
-- [[accreditation/index|Laboratory Accreditation]] — PT required for accreditation
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — CLIA PT requirements (42 CFR §493.801-955)
+- [cms](concepts/cms.md) — CMS approves PT programs
+- [quality-control](concepts/quality-control.md) — Complements internal QC
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — PT verifies ongoing performance
+- [Laboratory Accreditation](findings/index.md) — PT required for accreditation

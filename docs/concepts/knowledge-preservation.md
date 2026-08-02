@@ -130,11 +130,11 @@ Into a coherent, navigable web of scientific knowledge
 ## Related Concepts
 
 - [Reproducibility-crisis](concepts/reproducibility-crisis.md) - The broader crisis of scientific reproducibility that knowledge preservation addresses
-- [[knowledge-preservation]] - The movement towards open access and sharing of scientific knowledge
-- [[knowledge-preservation]] - Framework for making data Findable, Accessible, Interoperable, and Reusable
-- [[knowledge-preservation]] - Unwritten expertise that's particularly vulnerable to loss through researcher turnover
-- [[knowledge-preservation]] - Broader field encompassing strategies for organizational knowledge retention and sharing
-- [[dangerous-person-2-0-research-project]]
+- [knowledge-preservation](concepts/knowledge-preservation.md) - The movement towards open access and sharing of scientific knowledge
+- [knowledge-preservation](concepts/knowledge-preservation.md) - Framework for making data Findable, Accessible, Interoperable, and Reusable
+- [knowledge-preservation](concepts/knowledge-preservation.md) - Unwritten expertise that's particularly vulnerable to loss through researcher turnover
+- [knowledge-preservation](concepts/knowledge-preservation.md) - Broader field encompassing strategies for organizational knowledge retention and sharing
+- [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)
 ## Open Questions
 
 1. How can we effectively capture and preserve tacit knowledge that's often unwritten and difficult to formalize?
@@ -146,10 +146,10 @@ Into a coherent, navigable web of scientific knowledge
 ## Resources
 
 - **Reading**: [Knowledge-preservation-big-science-ai-rainford-et-al-2026](raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md) - Core perspective on knowledge preservation challenges and strategies
-- **Framework**: [[knowledge-preservation]] - Data management principles for research
-- **Implementation**: [[neural-nexus]] - Multi-domain knowledge base system for knowledge preservation
+- **Framework**: [knowledge-preservation](concepts/knowledge-preservation.md) - Data management principles for research
+- **Implementation**: [neural-nexus](concepts/neural-nexus.md) - Multi-domain knowledge base system for knowledge preservation
 
 ## Related Pages
 
-- [[reproducibility-crisis]] — Reproducibility challenges in science
-- [[penn-rainford]] — Lead researcher
+- [reproducibility-crisis](concepts/reproducibility-crisis.md) — Reproducibility challenges in science
+- [penn-rainford](entities/penn-rainford.md) — Lead researcher

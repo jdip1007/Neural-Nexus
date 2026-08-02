@@ -18,21 +18,21 @@ reviewed: 2026-07-31
 
 ## Key Contributions
 
-- Co-developed the WBE model of metabolic scaling with [[geoffrey-west]] and [[brian-enquist]]
+- Co-developed the WBE model of metabolic scaling with [geoffrey-west](entities/geoffrey-west.md) and [brian-enquist](entities/brian-enquist.md)
 - Developed the Metabolic Theory of Ecology
 - Pioneered macroecology — studying ecological patterns at large scales
 - Authored influential textbooks on ecology
 
 ## Collaborators
 
-- [[geoffrey-west]] — Santa Fe Institute, WBE co-author
-- [[brian-enquist]] — University of Arizona, WBE co-author
-- [[van-savage]] — Mathematical biologist who extended WBE
+- [geoffrey-west](entities/geoffrey-west.md) — Santa Fe Institute, WBE co-author
+- [brian-enquist](entities/brian-enquist.md) — University of Arizona, WBE co-author
+- [van-savage](entities/van-savage.md) — Mathematical biologist who extended WBE
 
 ## Related
 
-- [[wbe-theory]] — His most famous theoretical contribution
-- [[kleibers-law]] — The law WBE explains
-- [[metabolic-scaling]] — Field he helped found
-- [[scaling-laws]] — Mathematical framework
-- [[brian-enquist]] — Long-term collaborator
+- [wbe-theory](concepts/wbe-theory.md) — His most famous theoretical contribution
+- [kleibers-law](concepts/kleibers-law.md) — The law WBE explains
+- [metabolic-scaling](concepts/metabolic-scaling.md) — Field he helped found
+- [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
+- [brian-enquist](entities/brian-enquist.md) — Long-term collaborator

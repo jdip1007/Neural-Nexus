@@ -162,7 +162,7 @@ The crisis stems from fundamental inadequacies in how research outputs are docum
 ## Resources
 
 - **Reading**: [Knowledge-preservation-big-science-ai-rainford-et-al-2026](raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md) - Comprehensive overview of reproducibility challenges in modern research
-- **Framework**: [[knowledge-preservation]] - Data management principles supporting reproducibility
+- **Framework**: [knowledge-preservation](concepts/knowledge-preservation.md) - Data management principles supporting reproducibility
 - **Implementation**: [Knowledge-preservation](concepts/knowledge-preservation.md) - Broader preservation framework addressing reproducibility
 - **Tool**: [Neural-nexus](concepts/neural-nexus.md) - Knowledge system for maintaining reproducible research practices
 
@@ -176,5 +176,5 @@ The crisis stems from fundamental inadequacies in how research outputs are docum
 
 ## Related Pages
 
-- [[knowledge-preservation]] — Knowledge preservation strategies
-- [[penn-rainford]] — Researcher in reproducibility
+- [knowledge-preservation](concepts/knowledge-preservation.md) — Knowledge preservation strategies
+- [penn-rainford](entities/penn-rainford.md) — Researcher in reproducibility

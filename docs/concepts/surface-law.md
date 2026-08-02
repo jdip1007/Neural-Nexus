@@ -16,7 +16,7 @@ reviewed: 2026-07-31
 
 ## Definition
 
-**Surface Law** (also known as the surface-to-volume theory) was an early biological scaling hypothesis that proposed metabolic rate scales with surface area, which in turn scales with body mass to the 2/3 power. This theory was later superseded by [[kleibers-law]] (3/4 power scaling) which better matched empirical data.^[raw/videos/one-billion-heartbeats-veritasium.md]
+**Surface Law** (also known as the surface-to-volume theory) was an early biological scaling hypothesis that proposed metabolic rate scales with surface area, which in turn scales with body mass to the 2/3 power. This theory was later superseded by [kleibers-law](concepts/kleibers-law.md) (3/4 power scaling) which better matched empirical data.^[raw/videos/one-billion-heartbeats-veritasium.md]
 
 ## Historical Context
 
@@ -52,7 +52,7 @@ When researchers collected empirical data across species:
 - **Systematic deviation:** Surface law consistently underestimated metabolic rate
 
 ### Max Kleiber's Discovery (1930s)
-- [[max-kleiber]] measured metabolic rates across many species
+- [max-kleiber](entities/max-kleiber.md) measured metabolic rates across many species
 - Found exponent closer to 3/4 than 2/3
 - Published findings establishing what became Kleiber's Law
 - Surface law was recognized as incomplete
@@ -168,18 +168,18 @@ Surface law remains relevant as:
 ## Related Concepts
 
 **Superseded by:**
-- [[kleibers-law]] - 3/4 power scaling of metabolic rate
+- [kleibers-law](concepts/kleibers-law.md) - 3/4 power scaling of metabolic rate
 
 **Explained by:**
-- [[wbe-theory]] - Fractal networks produce 3/4 exponent
+- [wbe-theory](concepts/wbe-theory.md) - Fractal networks produce 3/4 exponent
 
 **Related to:**
-- [[metabolic-scaling]] - Broader category of scaling in metabolism
-- [[comparative-physiology]] - Study of physiological differences across species
-- [[scaling-laws]] - Mathematical relationships between size and function
+- [metabolic-scaling](concepts/metabolic-scaling.md) - Broader category of scaling in metabolism
+- [comparative-physiology](concepts/comparative-physiology.md) - Study of physiological differences across species
+- [scaling-laws](concepts/scaling-laws.md) - Mathematical relationships between size and function
 
 **Historical context:**
-- [[max-kleiber]] - Researcher who discovered discrepancy with surface law
+- [max-kleiber](entities/max-kleiber.md) - Researcher who discovered discrepancy with surface law
 
 ## Further Reading
 

@@ -109,11 +109,11 @@ Based on the video title and description:
 - Specific patient timeline and symptoms not documented
 
 ## Related Topics
-- [[amyloid-beta]] - Similar protein aggregation in Alzheimer's disease
-- [[tau-pathology]] - Another protein misfolding mechanism in neurodegeneration
-- [[neuroinflammation]] - Immune response in neurodegenerative diseases
-- [[prion-disease]] - Concept page on prion diseases (infectious proteins)
-- [[katherine-johns]] - Medical reviewer for this video
+- [amyloid-beta](concepts/amyloid-beta.md) - Similar protein aggregation in Alzheimer's disease
+- [tau-pathology](concepts/tau-pathology.md) - Another protein misfolding mechanism in neurodegeneration
+- [neuroinflammation](concepts/neuroinflammation.md) - Immune response in neurodegenerative diseases
+- [prion-disease](concepts/prion-disease.md) - Concept page on prion diseases (infectious proteins)
+- [katherine-johns](entities/katherine-johns.md) - Medical reviewer for this video
 
 ## Source Quality
 - **Channel**: Chubbyemu - established medical education channel with 3.86M subscribers

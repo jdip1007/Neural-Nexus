@@ -35,10 +35,10 @@ Yong Li is a researcher at Tsinghua University's BNRist and Zhongguancun Academy
 
 ## Relationships
 
-- **Co-authors**: [[qianyue-hao]], [[fengli-xu]], [[james-evans]]
+- **Co-authors**: [qianyue-hao](entities/qianyue-hao.md), [fengli-xu](entities/fengli-xu.md), [james-evans](entities/james-evans.md)
 - **Institutions**: Tsinghua University, Zhongguancun Academy
 - **Research Center**: BNRist
-- **Related**: [[ai-impacts-science-nature-2026]]
+- **Related**: [ai-impacts-science-nature-2026](raw/articles/ai-impacts-science-nature-2026.md)
 
 ## In This Wiki
 

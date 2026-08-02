@@ -262,16 +262,16 @@ The toolkit helps clinical laboratories:
 
 ## Related Concepts
 
-- [[accreditation/index|Laboratory Accreditation]] — Accreditation requirements
-- [[clia-regulations]] — 42 CFR Part 493
-- [[laboratory-verification]] — Verification process
-- [[laboratory-validation]] — Validation process
-- [[method-performance]] — Performance characteristics
-- [[quality-control]] — Ongoing monitoring
-- [[proficiency-testing]] — External quality assessment
-- [[risk-assessment]] — Laboratory safety assessment
-- [[statistical-analysis]] — Statistical methods for V&V
-- [[sample-requirements]] — Sample type and number requirements
+- [Laboratory Accreditation](findings/index.md) — Accreditation requirements
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — 42 CFR Part 493
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Verification process
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Validation process
+- [method-performance](concepts/accreditation/method-performance.md) — Performance characteristics
+- [quality-control](concepts/quality-control.md) — Ongoing monitoring
+- [proficiency-testing](concepts/proficiency-testing.md) — External quality assessment
+- [risk-assessment](concepts/risk-assessment.md) — Laboratory safety assessment
+- [statistical-analysis](concepts/statistical-analysis.md) — Statistical methods for V&V
+- [sample-requirements](concepts/sample-requirements.md) — Sample type and number requirements
 
 ## Download Location
 

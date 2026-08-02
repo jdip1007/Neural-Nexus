@@ -32,7 +32,7 @@ This paradox suggests that during REM, the energy consumed by neurons exceeds wh
 
 ### 1. Astrocyte-Neuron Energy Competition
 - During REM, astrocytes may consume more pyruvate for their own oxidative metabolism
-- This reduces the metabolite availability for the [[astrocyte-neuron-lactate-shuttle]] (ANLS)
+- This reduces the metabolite availability for the [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) (ANLS)
 - Astrocytes and neurons may exhibit a partially reciprocal energy relationship
 
 ### 2. Disrupted ANLS Efficiency
@@ -85,9 +85,9 @@ This paradox suggests that during REM, the energy consumed by neurons exceeds wh
 
 ## Related
 
-- [[neurovascular-coupling]] — How neuronal activity relates to blood flow changes
-- [[astrocyte-neuron-lactate-shuttle]] — The ANLS mechanism for energy transfer
-- [[brain-energy-metabolism]] — Overall energy dynamics in the brain
-- [[rem-sleep]] — The sleep state characterized by the energy paradox
-- [[nrem-sleep]] — The contrasting sleep state with stable energy dynamics
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — How neuronal activity relates to blood flow changes
+- [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) — The ANLS mechanism for energy transfer
+- [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — Overall energy dynamics in the brain
+- [rem-sleep](concepts/rem-sleep.md) — The sleep state characterized by the energy paradox
+- [nrem-sleep](concepts/nrem-sleep.md) — The contrasting sleep state with stable energy dynamics
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

@@ -29,9 +29,9 @@ The fractal network model explains why metabolic rate scales as M^(3/4) rather t
 
 ## Related
 
-- [[wbe-theory]] — Theory built on fractal networks
-- [[kleibers-law]] — Explains the 3/4 exponent
-- [[metabolic-scaling]] — Broader field
-- [[scaling-laws]] — Mathematical framework
-- [[geoffrey-west]] — Co-developer of fractal network model
-- [[brian-enquist]] — Co-developer
+- [wbe-theory](concepts/wbe-theory.md) — Theory built on fractal networks
+- [kleibers-law](concepts/kleibers-law.md) — Explains the 3/4 exponent
+- [metabolic-scaling](concepts/metabolic-scaling.md) — Broader field
+- [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
+- [geoffrey-west](entities/geoffrey-west.md) — Co-developer of fractal network model
+- [brian-enquist](entities/brian-enquist.md) — Co-developer

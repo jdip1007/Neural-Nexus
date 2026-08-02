@@ -113,8 +113,8 @@ Complex patterns emerge from simple rules:
 ## Relationships with Other Researchers
 
 **WBE Theory collaborators:**
-- [[james-brown]] - Ecologist, co-developer of WBE theory
-- [[brian-enquist]] - Ecologist, co-developer of WBE theory
+- [james-brown](entities/james-brown.md) - Ecologist, co-developer of WBE theory
+- [brian-enquist](entities/brian-enquist.md) - Ecologist, co-developer of WBE theory
 
 **Mentored and influenced:**
 - Next generation of scaling researchers
@@ -122,7 +122,7 @@ Complex patterns emerge from simple rules:
 - Interdisciplinary researchers
 
 **Featured in:**
-- [[one-billion-heartbeats-veritasium]] - Veritasium video discussing his work
+- [one-billion-heartbeats-veritasium](raw/videos/one-billion-heartbeats-veritasium.md) - Veritasium video discussing his work
 
 ## Key Publications
 
@@ -156,11 +156,11 @@ Complex patterns emerge from simple rules:
 
 ## In This Wiki
 
-- **Co-developer of:** [[wbe-theory]] - Fractal network explanation for biological scaling
-- **Explains:** [[kleibers-law]] - Theoretical foundation for 3/4 power scaling
-- **Author of:** [[scale-book]] - Comprehensive treatment of scaling laws
-- **Related to:** [[metabolic-scaling]], [[fractal-networks]], [[scaling-laws]]
-- **Cited in:** [[one-billion-heartbeats-veritasium]] - Veritasium video discussing his work
+- **Co-developer of:** [wbe-theory](concepts/wbe-theory.md) - Fractal network explanation for biological scaling
+- **Explains:** [kleibers-law](concepts/kleibers-law.md) - Theoretical foundation for 3/4 power scaling
+- **Author of:** [scale-book](concepts/scale-book.md) - Comprehensive treatment of scaling laws
+- **Related to:** [metabolic-scaling](concepts/metabolic-scaling.md), [fractal-networks](concepts/fractal-networks.md), [scaling-laws](concepts/scaling-laws.md)
+- **Cited in:** [one-billion-heartbeats-veritasium](raw/videos/one-billion-heartbeats-veritasium.md) - Veritasium video discussing his work
 
 ## Recognition
 

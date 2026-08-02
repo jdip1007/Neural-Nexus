@@ -179,9 +179,9 @@ This research project demonstrates the successful integration of external conten
 The project serves as a model for future research initiatives and demonstrates the flexibility and power of the Neural Nexus platform for managing complex research projects.
 
 ## Related Topics
-- [[dna-evidence-hong-kong-legal-system]] - Overview of Hong Kong's legal framework
-- [[criminal-psychology-behavior-patterns]] - Issues in Hong Kong's justice system
-- [[dna-evidence-hong-kong-legal-system]] - Modern forensic investigation techniques
-- [[criminal-psychology-behavior-patterns]] - Methods for reducing crime in Hong Kong
-- [[knowledge-preservation]] - Best practices for knowledge organization
-- [[lam-kwok-wai-tuen-mun-rapist]]
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md) - Overview of Hong Kong's legal framework
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md) - Issues in Hong Kong's justice system
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md) - Modern forensic investigation techniques
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md) - Methods for reducing crime in Hong Kong
+- [knowledge-preservation](concepts/knowledge-preservation.md) - Best practices for knowledge organization
+- [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md)

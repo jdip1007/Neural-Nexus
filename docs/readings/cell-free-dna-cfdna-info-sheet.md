@@ -98,9 +98,9 @@ cfDNA enables revolutionary diagnostic approaches:
 
 - [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
-- [[molecular-biology]] - Broader context
-- [[cell-free-dna-cfdna-info-sheet]] - Clinical implementation
-- [[cell-free-dna-cfdna-info-sheet]] - Emerging diagnostic approach
+- [molecular-biology](concepts/molecular-biology.md) - Broader context
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md) - Clinical implementation
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md) - Emerging diagnostic approach
 
 ## My Takeaways
 
@@ -112,18 +112,18 @@ cfDNA enables revolutionary diagnostic approaches:
 ## Related Readings
 
 - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[genomics]]
-- [[dna-extraction]]
-- [[environmental-dna-analysis]]
-- [[nanopore-sequencing]]
-- [[dna-extraction-methodologies]]
-- [[colony-pcr-dna-extraction-method]]
-- [[cell-line-culture]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[agarose-plug-dna-extraction-method]]
-- [[brain-tissue-dna-extraction-method]]
-- [[pcr]]
-- [[tissue-specific-dna-extraction]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[environmental-water-edna-extraction-method]]
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [genomics](concepts/genomics.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [pcr](concepts/pcr.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)

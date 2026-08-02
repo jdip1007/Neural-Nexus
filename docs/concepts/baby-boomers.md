@@ -104,14 +104,14 @@ Baby Boomers are the generation born between 1946 and 1964, following World War 
 
 ## Related Concepts
 
-- [[generational-wealth-transfer]]
-- [[wealth-concentration]]
-- [[economic-inequality]]
-- [[demographic-economic-impact]]
-- [[inheritance-economics]]
-- [[housing-market-dynamics]]
-- [[interest-rate-policy]]
-- [[labor-market-changes]]
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [inheritance-economics](concepts/inheritance-economics.md)
+- [housing-market-dynamics](concepts/housing-market-dynamics.md)
+- [interest-rate-policy](concepts/interest-rate-policy.md)
+- [labor-market-changes](concepts/labor-market-changes.md)
 
 ## Future Outlook
 

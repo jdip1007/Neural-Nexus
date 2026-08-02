@@ -145,20 +145,20 @@ Modern tissue-specific extraction has evolved significantly:
 - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md) - General extraction framework
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
 - [genomics](concepts/genomics.md) - Primary research domain
-- [[molecular-biology]] - Implementation context
+- [molecular-biology](concepts/molecular-biology.md) - Implementation context
 - [sample-preparation](concepts/sample-preparation.md) - Essential precursor step
-- [[pcr]]
-- [[24hr-genome-e2e-promethion-document]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[genomics]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
-- [[adaptive-sampling-document]]
-- [[environmental-dna-analysis]]
-- [[nanopore-sequencing]]
-- [[colony-pcr-dna-extraction-method]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[agarose-plug-dna-extraction-method]]
+- [pcr](concepts/pcr.md)
+- [24hr-genome-e2e-promethion-document](raw/articles/24hr-genome-e2e-promethion-document.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [genomics](concepts/genomics.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+- [adaptive-sampling-document](raw/articles/adaptive-sampling-document.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
 ## Sources
 
 - ^[raw/articles/agarose-plug-dna-extraction-method.md]
@@ -169,5 +169,5 @@ Modern tissue-specific extraction has evolved significantly:
 
 ## Related Pages
 
-- [[dna-extraction]] — DNA extraction overview
-- [[sample-preparation]] — Sample preparation methods
+- [dna-extraction](concepts/dna-extraction.md) — DNA extraction overview
+- [sample-preparation](concepts/sample-preparation.md) — Sample preparation methods

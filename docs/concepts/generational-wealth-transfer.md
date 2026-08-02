@@ -85,14 +85,14 @@ Generational wealth transfer refers to the movement of assets, property, and fin
 
 ## Related Concepts
 
-- [[wealth-concentration]]
-- [[economic-inequality]]
-- [[inheritance-economics]]
-- [[asset-inflation]]
-- [[demographic-economic-impact]]
-- [[housing-market-dynamics]]
-- [[interest-rate-policy]]
-- [[baby-boomers]]
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [inheritance-economics](concepts/inheritance-economics.md)
+- [asset-inflation](concepts/asset-inflation.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [housing-market-dynamics](concepts/housing-market-dynamics.md)
+- [interest-rate-policy](concepts/interest-rate-policy.md)
+- [baby-boomers](concepts/baby-boomers.md)
 
 ## Policy Implications
 

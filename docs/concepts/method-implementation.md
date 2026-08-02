@@ -37,9 +37,9 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[laboratory-verification]] — Precedes implementation
-- [[laboratory-validation]] — Precedes implementation
-- [[method-evaluation-decision-flow]] — Overall process
-- [[quality-control]] — Established during implementation
-- [[change-control]] — Manages post-implementation changes
-- [[proficiency-testing]] — Enrolled during implementation
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Precedes implementation
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Precedes implementation
+- [method-evaluation-decision-flow](concepts/accreditation/method-evaluation-decision-flow.md) — Overall process
+- [quality-control](concepts/quality-control.md) — Established during implementation
+- [change-control](concepts/change-control.md) — Manages post-implementation changes
+- [proficiency-testing](concepts/proficiency-testing.md) — Enrolled during implementation

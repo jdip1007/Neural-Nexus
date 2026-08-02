@@ -263,10 +263,10 @@ Comprehensive review integrating ADHD's neurobiological underpinnings with conte
 
 ## Related
 
-- [[adhd]] — Comprehensive concept page on ADHD
-- [[executive-function]] — Core cognitive mechanism in ADHD
-- [[psychiatric-comorbidity]] — Comorbidity patterns in psychiatric disorders
-- [[what-everyone-gets-wrong-about-adhd]] — HealthyGamerGG perspective on ADHD misconceptions
-- [[prefrontal-cortex-development]] — Brain development and ADHD
-- [[mental-health]] — Broader mental health context
-- [[psychology]] — Overview of psychological concepts
+- [adhd](concepts/adhd.md) — Comprehensive concept page on ADHD
+- [executive-function](concepts/executive-function.md) — Core cognitive mechanism in ADHD
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — Comorbidity patterns in psychiatric disorders
+- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md) — HealthyGamerGG perspective on ADHD misconceptions
+- [prefrontal-cortex-development](concepts/prefrontal-cortex-development.md) — Brain development and ADHD
+- [mental-health](concepts/mental-health.md) — Broader mental health context
+- [psychology](concepts/psychology.md) — Overview of psychological concepts

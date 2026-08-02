@@ -22,19 +22,19 @@ Bridging studies are focused method-evaluation experiments conducted when a vali
 
 - **Scope:** Narrower than full validation. Bridges address only the parameters affected by the change (e.g., accuracy, precision, reportable range).
 - **Triggers:** Reagent lot-to-lot changes, instrument replacement, software updates affecting results, site-to-site method transfer, or minor protocol changes.
-- **Study design:** Typically involves parallel testing of a defined number of patient specimens (often 20–40) and QC materials by both the original and modified methods, analyzed with [[method-comparison]] statistics.
+- **Study design:** Typically involves parallel testing of a defined number of patient specimens (often 20–40) and QC materials by both the original and modified methods, analyzed with [method-comparison](concepts/method-comparison.md) statistics.
 - **Acceptability:** Pre-defined criteria based on allowable total error, biological variation, or prior validation performance must be met.
-- **Documentation:** Bridges are part of the lifecycle [[laboratory-validation]] record and inform the [[method-evaluation-decision-flow]] governing whether a change requires bridging vs. full revalidation.
+- **Documentation:** Bridges are part of the lifecycle [laboratory-validation](concepts/accreditation/laboratory-validation.md) record and inform the [method-evaluation-decision-flow](concepts/accreditation/method-evaluation-decision-flow.md) governing whether a change requires bridging vs. full revalidation.
 - **Regulatory context:** FDA-cleared assays and LDTs both use bridging studies; the depth depends on the change's risk classification.
 
 ## Decision Context
 
-Bridging studies sit between no-action and full revalidation in the [[method-evaluation-decision-flow]]. Minor changes (e.g., equivalent reagent lot) may require only verification; major changes (e.g., new analyte or new principle) require full revalidation. [[laboratory-verification]] activities often rely on bridging to confirm equivalency before patient reporting resumes.
+Bridging studies sit between no-action and full revalidation in the [method-evaluation-decision-flow](concepts/accreditation/method-evaluation-decision-flow.md). Minor changes (e.g., equivalent reagent lot) may require only verification; major changes (e.g., new analyte or new principle) require full revalidation. [laboratory-verification](concepts/accreditation/laboratory-verification.md) activities often rely on bridging to confirm equivalency before patient reporting resumes.
 
 ## Related
 
-- [[laboratory-validation]]
-- [[method-evaluation-decision-flow]]
-- [[laboratory-verification]]
-- [[method-comparison]]
-- [[method-development]]
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md)
+- [method-evaluation-decision-flow](concepts/accreditation/method-evaluation-decision-flow.md)
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md)
+- [method-comparison](concepts/method-comparison.md)
+- [method-development](concepts/method-development.md)

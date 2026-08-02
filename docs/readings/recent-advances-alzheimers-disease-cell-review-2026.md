@@ -77,10 +77,10 @@ First disease-modifying therapies for Alzheimer's disease (AD) now exist — lec
 - **Washington University:** Knight Alzheimer's Disease Research Center^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ### Concepts
-- [[amyloid-beta]]: Primary constituent of neuritic plaques; Aβ42 more aggregation-prone; protofibrils and pE3-Aβ are pathogenic^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[tau-pathology]]: Hyperphosphorylated tau aggregates into NFT; structural heterogeneity across tauopathies; correlates with cognitive decline^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[neuroinflammation]]: Microglial and astrocyte activation; TSPO, GFAP, sTREM2 as biomarkers; both innate and adaptive immune involvement^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[apoe]]: Major genetic risk factor; rare protective variants discovered; therapeutic targeting via gene therapy^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [amyloid-beta](concepts/amyloid-beta.md): Primary constituent of neuritic plaques; Aβ42 more aggregation-prone; protofibrils and pE3-Aβ are pathogenic^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [tau-pathology](concepts/tau-pathology.md): Hyperphosphorylated tau aggregates into NFT; structural heterogeneity across tauopathies; correlates with cognitive decline^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [neuroinflammation](concepts/neuroinflammation.md): Microglial and astrocyte activation; TSPO, GFAP, sTREM2 as biomarkers; both innate and adaptive immune involvement^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [apoe](concepts/apoe.md): Major genetic risk factor; rare protective variants discovered; therapeutic targeting via gene therapy^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 
 ## Takeaways
 
@@ -102,10 +102,10 @@ First disease-modifying therapies for Alzheimer's disease (AD) now exist — lec
 
 ## Related Pages
 
-- [[amyloid-beta]]: Amyloid-β pathology and therapeutic targeting
-- [[tau-pathology]]: Tau aggregation and neurofibrillary tangle formation
-- [[neuroinflammation]]: Microglial and astrocyte activation in AD
-- [[apoe]]: Apolipoprotein E biology and genetics in AD risk
+- [amyloid-beta](concepts/amyloid-beta.md): Amyloid-β pathology and therapeutic targeting
+- [tau-pathology](concepts/tau-pathology.md): Tau aggregation and neurofibrillary tangle formation
+- [neuroinflammation](concepts/neuroinflammation.md): Microglial and astrocyte activation in AD
+- [apoe](concepts/apoe.md): Apolipoprotein E biology and genetics in AD risk
 - : Fluid and imaging biomarkers for AD diagnosis and staging
 - : Current and emerging treatments for AD
 - : Cryogenic electron microscopy applications in neurodegenerative disease research

@@ -100,8 +100,8 @@ This method enables revolutionary environmental monitoring:
 
 - [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
-- [[molecular-biology]] - Broader context
-- [[environmental-dna-analysis]] - Implementation domain
+- [molecular-biology](concepts/molecular-biology.md) - Broader context
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md) - Implementation domain
 - [ecology](concepts/ecology.md) - Scientific foundation
 
 ## My Takeaways
@@ -116,19 +116,19 @@ This method enables revolutionary environmental monitoring:
 - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
 - [environmental-monitoring](concepts/environmental-monitoring.md)
 - [conservation-biology](concepts/conservation-biology.md)
-- [[dna-extraction-methodologies]]
-- [[conservation-biology]]
-- [[ecology]]
-- [[environmental-monitoring]]
-- [[colony-pcr-dna-extraction-method]]
-- [[agarose-plug-dna-extraction-method]]
-- [[dna-extraction]]
-- [[brain-tissue-dna-extraction-method]]
-- [[pcr]]
-- [[nanopore-sequencing]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[cell-line-culture]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[genomics]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[tissue-specific-dna-extraction]]
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [conservation-biology](concepts/conservation-biology.md)
+- [ecology](concepts/ecology.md)
+- [environmental-monitoring](concepts/environmental-monitoring.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [pcr](concepts/pcr.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [genomics](concepts/genomics.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)

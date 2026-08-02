@@ -26,8 +26,8 @@ The **Laboratory Director** is the qualified individual responsible for overall 
 
 ## Related
 
-- [[clia-regulations]] — Director requirements defined in 42 CFR §493
-- [[accreditation/index|Laboratory Accreditation]] — Director role in accreditation
-- [[laboratory-verification]] — Director approves verification
-- [[laboratory-validation]] — Director approves validation
-- [[quality-control]] — Director oversees QC program
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — Director requirements defined in 42 CFR §493
+- [Laboratory Accreditation](findings/index.md) — Director role in accreditation
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Director approves verification
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Director approves validation
+- [quality-control](concepts/quality-control.md) — Director oversees QC program

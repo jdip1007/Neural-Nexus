@@ -228,13 +228,13 @@ Verification is required when:
 
 ## Related
 
-- [[laboratory-validation]] — For laboratory-developed tests
-- [[clia-regulations]] — 42 CFR §493.1253 verification requirements
-- [[method-performance]] — All performance characteristics
-- [[quality-control]] — Ongoing monitoring after verification
-- [[accreditation/index|Laboratory Accreditation]] — Accreditation requirements
-- [[fda-approval-process]] — FDA test approval process
-- [[statistical-analysis]] — Statistical methods for verification
-- [[reference-interval-verification]] — Reference interval verification
-- [[calibration-verification]] — Calibration confirmation
-- [[method-comparison]] — Accuracy assessment methods
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — For laboratory-developed tests
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — 42 CFR §493.1253 verification requirements
+- [method-performance](concepts/accreditation/method-performance.md) — All performance characteristics
+- [quality-control](concepts/quality-control.md) — Ongoing monitoring after verification
+- [Laboratory Accreditation](findings/index.md) — Accreditation requirements
+- [fda-approval-process](concepts/fda-approval-process.md) — FDA test approval process
+- [statistical-analysis](concepts/statistical-analysis.md) — Statistical methods for verification
+- [reference-interval-verification](concepts/reference-interval-verification.md) — Reference interval verification
+- [calibration-verification](concepts/calibration-verification.md) — Calibration confirmation
+- [method-comparison](concepts/method-comparison.md) — Accuracy assessment methods

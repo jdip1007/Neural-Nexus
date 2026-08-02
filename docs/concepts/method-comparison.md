@@ -16,7 +16,7 @@ reviewed: 2026-07-31
 
 ## Definition
 
-Method comparison is the experimental and statistical evaluation of two analytical methods — typically a new or candidate method against an established comparative (reference) method — to determine whether they produce equivalent results across a clinically relevant range. It is a core component of [[method-performance]] evaluation during [[laboratory-verification]] of new instruments, reagents, or modified assays.
+Method comparison is the experimental and statistical evaluation of two analytical methods — typically a new or candidate method against an established comparative (reference) method — to determine whether they produce equivalent results across a clinically relevant range. It is a core component of [method-performance](concepts/accreditation/method-performance.md) evaluation during [laboratory-verification](concepts/accreditation/laboratory-verification.md) of new instruments, reagents, or modified assays.
 
 ## Key Points
 
@@ -24,7 +24,7 @@ Method comparison is the experimental and statistical evaluation of two analytic
 - **Bias estimation:** Average bias between methods is assessed via regression (ordinary least squares, Deming, or Passing-Bablok depending on error structure).
 - **Agreement visualization:** Bland-Altman (difference) plots complement regression by showing bias and limits of agreement as a function of concentration.
 - **Acceptability criteria:** Clinical, not purely statistical, criteria determine whether observed bias is acceptable (e.g., based on biological variation or total allowable error).
-- **Statistical rigor:** Appropriate [[statistical-analysis]] accounts for measurement error in both methods, heteroscedasticity, and potential non-linearity.
+- **Statistical rigor:** Appropriate [statistical-analysis](concepts/statistical-analysis.md) accounts for measurement error in both methods, heteroscedasticity, and potential non-linearity.
 - **Correlation is insufficient:** A high correlation coefficient does not prove agreement; regression and difference analysis are required.
 
 ## Common Regression Approaches
@@ -37,7 +37,7 @@ Method comparison is the experimental and statistical evaluation of two analytic
 
 ## Related
 
-- [[statistical-analysis]]
-- [[method-performance]]
-- [[laboratory-verification]]
-- [[calibration-verification]]
+- [statistical-analysis](concepts/statistical-analysis.md)
+- [method-performance](concepts/accreditation/method-performance.md)
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md)
+- [calibration-verification](concepts/calibration-verification.md)

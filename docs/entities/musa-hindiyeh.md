@@ -52,7 +52,7 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 ## Collaborators
 
 **Co-authors (equal contribution):**
-- [[orna-mor]] - Equal contribution^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
+- [orna-mor](entities/orna-mor.md) - Equal contribution^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 
 **Additional co-authors:**
 - Rakefet Pando
@@ -61,7 +61,7 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 - Hadar Assraf-Zarfati
 - Ella Mendelson
 - Danit Sofer
-- [[michel-mandelboim]] (Corresponding author)^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
+- [michel-mandelboim](entities/michel-mandelboim.md) (Corresponding author)^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 
 ---
 
@@ -74,7 +74,7 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 
 ## In This Wiki
 
-[[michel-mandelboim]] - Corresponding author
-[[orna-mor]] - Co-author (equal contribution)
-[[emag-magana-easymag-respiratory-virus-extraction-comparison-2019]] - Validation study
-[[nucleic-acid-extraction-platforms]] - Platform comparison findings
+[michel-mandelboim](entities/michel-mandelboim.md) - Corresponding author
+[orna-mor](entities/orna-mor.md) - Co-author (equal contribution)
+[emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md) - Validation study
+[nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md) - Platform comparison findings

@@ -87,20 +87,20 @@ Genomic data analysis involves:
 - [dna-extraction](concepts/dna-extraction.md) — Essential first step in genomic sample preparation
 - [pcr](concepts/pcr.md) — Used for DNA amplification before sequencing
 - [molecular-biology](concepts/molecular-biology.md) — Broader field encompassing genomic techniques
-- [[genomics]] — Computational methods for genomic data analysis
-- [[genomics]] — Study of heritable changes not involving DNA sequence changes
-- [[sample-preparation]]
-- [[agarose-plug-dna-extraction-method]]
-- [[brain-tissue-dna-extraction-method]]
-- [[pcr]]
-- [[nanopore-sequencing]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[cell-line-culture]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[environmental-water-edna-extraction-method]]
-- [[tissue-specific-dna-extraction]]
-- [[environmental-dna-analysis]]
-- [[dna-extraction-methodologies]]
+- [genomics](concepts/genomics.md) — Computational methods for genomic data analysis
+- [genomics](concepts/genomics.md) — Study of heritable changes not involving DNA sequence changes
+- [sample-preparation](concepts/sample-preparation.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [pcr](concepts/pcr.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
 ## History
 - **1953**: Watson and Crick discover DNA double helix structure
 - **1977**: Frederick Sanger develops DNA sequencing method

@@ -21,11 +21,11 @@ Receiver Operating Characteristic (ROC) analysis is a statistical method for eva
 ## Key Points
 
 - The **Area Under the Curve (AUC)** is the primary summary statistic. An AUC of 0.5 indicates no discrimination; 1.0 indicates perfect discrimination. AUC ≥ 0.9 is generally considered excellent.
-- ROC analysis is threshold-independent, making it well suited to [[diagnostic-accuracy]] evaluation when the optimal cutoff is not yet established.
+- ROC analysis is threshold-independent, making it well suited to [diagnostic-accuracy](concepts/diagnostic-accuracy.md) evaluation when the optimal cutoff is not yet established.
 - The **Youden index** (J = sensitivity + specificity − 1) identifies the threshold maximizing overall correct classification.
-- Confidence intervals for AUC are typically computed via the DeLong method or bootstrap resampling, requiring rigorous [[statistical-analysis]].
+- Confidence intervals for AUC are typically computed via the DeLong method or bootstrap resampling, requiring rigorous [statistical-analysis](concepts/statistical-analysis.md).
 - Comparing two tests on the same population requires paired ROC analysis (e.g., DeLong's test) rather than independent comparison of AUCs.
-- ROC analysis complements, but does not replace, [[method-performance]] evaluation of bias, imprecision, and analytical validity.
+- ROC analysis complements, but does not replace, [method-performance](concepts/accreditation/method-performance.md) evaluation of bias, imprecision, and analytical validity.
 
 ## Interpretation Guide
 
@@ -38,7 +38,7 @@ Receiver Operating Characteristic (ROC) analysis is a statistical method for eva
 
 ## Related
 
-- [[diagnostic-accuracy]]
-- [[method-performance]]
-- [[statistical-analysis]]
-- [[clinical-utility]]
+- [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
+- [method-performance](concepts/accreditation/method-performance.md)
+- [statistical-analysis](concepts/statistical-analysis.md)
+- [clinical-utility](concepts/clinical-utility.md)

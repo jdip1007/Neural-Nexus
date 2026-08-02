@@ -148,27 +148,27 @@ Modern eDNA analysis has evolved significantly:
 - [ecology](concepts/ecology.md) - Application domain
 - [conservation-biology](concepts/conservation-biology.md) - Primary use case
 - [environmental-monitoring](concepts/environmental-monitoring.md) - Broader context
-- [[brain-tissue-dna-extraction-method]]
-- [[genomics]]
-- [[tissue-specific-dna-extraction]]
-- [[24hr-genome-e2e-promethion-document]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-monitoring]]
-- [[adaptive-sampling-document]]
-- [[pcr]]
-- [[molecular-biology]]
-- [[nanopore-sequencing]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[colony-pcr-dna-extraction-method]]
-- [[cell-line-culture]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[agarose-plug-dna-extraction-method]]
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [genomics](concepts/genomics.md)
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+- [24hr-genome-e2e-promethion-document](raw/articles/24hr-genome-e2e-promethion-document.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-monitoring](concepts/environmental-monitoring.md)
+- [adaptive-sampling-document](raw/articles/adaptive-sampling-document.md)
+- [pcr](concepts/pcr.md)
+- [molecular-biology](concepts/molecular-biology.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
 ## Sources
 
 - ^[raw/articles/environmental-water-edna-extraction-method.md]
 
 ## Related Pages
 
-- [[dna-extraction]] — DNA extraction methods
-- [[ecology]] — Ecology concepts
-- [[conservation-biology]] — Conservation biology
+- [dna-extraction](concepts/dna-extraction.md) — DNA extraction methods
+- [ecology](concepts/ecology.md) — Ecology concepts
+- [conservation-biology](concepts/conservation-biology.md) — Conservation biology

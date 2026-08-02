@@ -127,12 +127,12 @@ Environmental monitoring operates through a systematic process:
 - [ecology](concepts/ecology.md) — Scientific foundation for environmental monitoring
 - [conservation-biology](concepts/conservation-biology.md) — Application of monitoring to biodiversity protection
 - [environmental-dna-analysis](concepts/environmental-dna-analysis.md) — Advanced monitoring technique for species detection
-- [[environmental-monitoring]] — Long-term monitoring for sustainable development
-- [[environmental-monitoring]] — Climate monitoring and adaptation
-- [[environmental-monitoring]] — Monitoring of environmental contaminants
-- [[environmental-water-edna-extraction-method]]
-- [[environmental-dna-analysis]]
-- [[ecology]]
+- [environmental-monitoring](concepts/environmental-monitoring.md) — Long-term monitoring for sustainable development
+- [environmental-monitoring](concepts/environmental-monitoring.md) — Climate monitoring and adaptation
+- [environmental-monitoring](concepts/environmental-monitoring.md) — Monitoring of environmental contaminants
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [ecology](concepts/ecology.md)
 ## History
 - **Early 1900s**: Beginning of systematic environmental monitoring
 - **1960s-1970s**: Expansion of monitoring networks and environmental awareness

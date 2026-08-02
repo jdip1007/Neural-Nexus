@@ -35,6 +35,6 @@ Use of automated systems to perform laboratory procedures with minimal human int
 
 ## Related
 
-- [[nucleic-acid-extraction-platforms]]
-- [[biomerieux]]
-- [[roche]]
+- [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md)
+- [biomerieux](entities/biomerieux.md)
+- [roche](entities/roche.md)

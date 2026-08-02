@@ -34,8 +34,8 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[laboratory-validation]] — Parent validation process
-- [[ngs-validation]] — NGS-specific validation
-- [[laboratory-developed-tests]] — Bioinformatics pipelines are often LDTs
-- [[method-performance]] — Performance characteristics
-- [[molecular-diagnostics]] — Application area
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Parent validation process
+- [ngs-validation](concepts/ngs-validation.md) — NGS-specific validation
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md) — Bioinformatics pipelines are often LDTs
+- [method-performance](concepts/accreditation/method-performance.md) — Performance characteristics
+- [molecular-diagnostics](concepts/molecular-diagnostics.md) — Application area

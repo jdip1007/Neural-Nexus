@@ -25,17 +25,17 @@ backlinks: []
 
 ## Related
 
-- [[savings-insurance]] — High-commission product
-- [[term-life-insurance]] — Lower-commission alternative
-- [[bowtie-insurance]] — Company challenging traditional commission model
-- [[investment-returns]]
-- [[emergency-fund]]
-- [[financial-planning]]
-- [[investment-risk]]
-- [[endowment-policies]]
-- [[investment-vehicles]]
-- [[insurance-comparison]]
-- [[universal-life]]
-- [[annuities]]
-- [[opportunity-cost]]
-- [[savings-insurance-hong-kong-myths-exposed]]
+- [savings-insurance](concepts/savings-insurance.md) — High-commission product
+- [term-life-insurance](concepts/term-life-insurance.md) — Lower-commission alternative
+- [bowtie-insurance](entities/bowtie-insurance.md) — Company challenging traditional commission model
+- [investment-returns](concepts/investment-returns.md)
+- [emergency-fund](concepts/emergency-fund.md)
+- [financial-planning](concepts/financial-planning.md)
+- [investment-risk](concepts/investment-risk.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [investment-vehicles](concepts/investment-vehicles.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)

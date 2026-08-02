@@ -76,21 +76,21 @@ This Bowtie Insurance video exposes common myths about **savings insurance** pro
 - Compare actual historical returns vs. projected returns before committing
 
 # Related Pages
-- [[investment-returns]]
-- [[savings-insurance]]
-- [[insurance-comparison]]
-- [[term-life-insurance]]
+- [investment-returns](concepts/investment-returns.md)
+- [savings-insurance](concepts/savings-insurance.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [term-life-insurance](concepts/term-life-insurance.md)
 
 ## Related
 
-- [[emergency-fund]]
-- [[insurance-commissions]]
-- [[savings-insurance]]
-- [[bowtie-insurance]]
-- [[financial-planning]]
-- [[investment-risk]]
-- [[endowment-policies]]
-- [[investment-vehicles]]
-- [[universal-life]]
-- [[annuities]]
-- [[opportunity-cost]]
+- [emergency-fund](concepts/emergency-fund.md)
+- [insurance-commissions](concepts/insurance-commissions.md)
+- [savings-insurance](concepts/savings-insurance.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [financial-planning](concepts/financial-planning.md)
+- [investment-risk](concepts/investment-risk.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [investment-vehicles](concepts/investment-vehicles.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)
+- [opportunity-cost](concepts/opportunity-cost.md)

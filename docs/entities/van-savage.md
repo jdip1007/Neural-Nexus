@@ -21,14 +21,14 @@ reviewed: 2026-07-31
 - Extended WBE theory with more rigorous mathematical foundations
 - Developed predictions for additional scaling relationships
 - Worked on allometric scaling of biological networks
-- Collaborated with [[geoffrey-west]] and [[james-brown]]
+- Collaborated with [geoffrey-west](entities/geoffrey-west.md) and [james-brown](entities/james-brown.md)
 
 ## Related
 
-- [[wbe-theory]] — Extended this theoretical framework
-- [[geoffrey-west]] — Collaborator
-- [[james-brown]] — Collaborator
-- [[brian-enquist]] — Collaborator
-- [[fractal-networks]] — His mathematical contribution area
-- [[metabolic-scaling]] — Field of study
-- [[scaling-laws]] — Mathematical framework
+- [wbe-theory](concepts/wbe-theory.md) — Extended this theoretical framework
+- [geoffrey-west](entities/geoffrey-west.md) — Collaborator
+- [james-brown](entities/james-brown.md) — Collaborator
+- [brian-enquist](entities/brian-enquist.md) — Collaborator
+- [fractal-networks](concepts/fractal-networks.md) — His mathematical contribution area
+- [metabolic-scaling](concepts/metabolic-scaling.md) — Field of study
+- [scaling-laws](concepts/scaling-laws.md) — Mathematical framework

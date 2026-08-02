@@ -19,10 +19,10 @@ backlinks: []
 
 ## In This Wiki
 
-Used in the sand game simulation discussed in [[optimisation-techniques-small-scale-simulation]].
+Used in the sand game simulation discussed in [optimisation-techniques-small-scale-simulation](concepts/optimisation-techniques-small-scale-simulation.md).
 
 ## Related
 
-- [[optimisation-techniques-small-scale-simulation]] — Implementation details
-- [[cellular-automata]] — Simulation model
-- [[game-loop]] — Architecture pattern
+- [optimisation-techniques-small-scale-simulation](concepts/optimisation-techniques-small-scale-simulation.md) — Implementation details
+- [cellular-automata](concepts/cellular-automata.md) — Simulation model
+- [game-loop](concepts/game-loop.md) — Architecture pattern

@@ -34,10 +34,10 @@ This content from HealthyGamerGG explores why you freeze up when you talk to wom
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[why-smart-people-are-bad-at-dating]]
-- [[why-modern-dating-feels-like-parenting]]
-- [[why-validating-feelings-can-ruin-relationships]]
-- [[i-did-everything-right-i-still-cant-find-love]]
+- [why-smart-people-are-bad-at-dating](concepts/why-smart-people-are-bad-at-dating.md)
+- [why-modern-dating-feels-like-parenting](concepts/why-modern-dating-feels-like-parenting.md)
+- [why-validating-feelings-can-ruin-relationships](concepts/why-validating-feelings-can-ruin-relationships.md)
+- [i-did-everything-right-i-still-cant-find-love](concepts/i-did-everything-right-i-still-cant-find-love.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -46,7 +46,7 @@ This content from HealthyGamerGG explores why you freeze up when you talk to wom
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

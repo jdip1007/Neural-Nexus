@@ -31,13 +31,13 @@ When separating insurance from investment (as recommended over savings insurance
 
 ## Related
 
-- [[savings-insurance]] — Insurance + investment hybrid (alternative)
-- [[term-life-insurance]] — Pure insurance (complementary)
-- [[opportunity-cost]] — Cost of locked-up capital
-- [[financial-planning]] — Holistic approach
-- [[savings-insurance-hong-kong-myths-exposed]]
-- [[insurance-commissions]]
-- [[bowtie-insurance]]
-- [[investment-risk]]
-- [[endowment-policies]]
-- [[universal-life]]
+- [savings-insurance](concepts/savings-insurance.md) — Insurance + investment hybrid (alternative)
+- [term-life-insurance](concepts/term-life-insurance.md) — Pure insurance (complementary)
+- [opportunity-cost](concepts/opportunity-cost.md) — Cost of locked-up capital
+- [financial-planning](concepts/financial-planning.md) — Holistic approach
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
+- [insurance-commissions](concepts/insurance-commissions.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [investment-risk](concepts/investment-risk.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [universal-life](concepts/universal-life.md)

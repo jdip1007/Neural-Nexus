@@ -19,15 +19,15 @@ backlinks: []
 
 ## In This Wiki
 
-[[bowtie-insurance]] is an example of a Hong Kong-based insurtech company that uses educational content to challenge traditional insurance sales practices.
+[bowtie-insurance](entities/bowtie-insurance.md) is an example of a Hong Kong-based insurtech company that uses educational content to challenge traditional insurance sales practices.
 
 ## Related
 
-- [[bowtie-insurance]] — Insurtech company
-- [[savings-insurance]] — Product being disrupted
-- [[insurance-commissions]] — Traditional model being challenged
-- [[term-life-insurance]]
-- [[insurance-comparison]]
-- [[universal-life]]
-- [[annuities]]
-- [[endowment-policies]]
+- [bowtie-insurance](entities/bowtie-insurance.md) — Insurtech company
+- [savings-insurance](concepts/savings-insurance.md) — Product being disrupted
+- [insurance-commissions](concepts/insurance-commissions.md) — Traditional model being challenged
+- [term-life-insurance](concepts/term-life-insurance.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)
+- [endowment-policies](concepts/endowment-policies.md)

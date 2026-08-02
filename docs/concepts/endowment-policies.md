@@ -19,18 +19,18 @@ backlinks: []
 
 ## Related
 
-- [[savings-insurance]] — Closely related product type
-- [[term-life-insurance]] — Pure protection alternative
-- [[universal-life]] — Flexible premium alternative
-- [[investment-vehicles]]
-- [[insurance-comparison]]
-- [[annuities]]
-- [[investment-returns]]
-- [[emergency-fund]]
-- [[insurance-commissions]]
-- [[insurtech]]
-- [[bowtie-insurance]]
-- [[opportunity-cost]]
-- [[financial-planning]]
-- [[savings-insurance-hong-kong-myths-exposed]]
-- [[investment-risk]]
+- [savings-insurance](concepts/savings-insurance.md) — Closely related product type
+- [term-life-insurance](concepts/term-life-insurance.md) — Pure protection alternative
+- [universal-life](concepts/universal-life.md) — Flexible premium alternative
+- [investment-vehicles](concepts/investment-vehicles.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [annuities](concepts/annuities.md)
+- [investment-returns](concepts/investment-returns.md)
+- [emergency-fund](concepts/emergency-fund.md)
+- [insurance-commissions](concepts/insurance-commissions.md)
+- [insurtech](concepts/insurtech.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [financial-planning](concepts/financial-planning.md)
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
+- [investment-risk](concepts/investment-risk.md)

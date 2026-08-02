@@ -356,13 +356,13 @@ Revalidation is required when:
 
 ## Related
 
-- [[laboratory-validation]] — Validation process for LDTs
-- [[laboratory-verification]] — For FDA-approved tests
-- [[clia-regulations]] — CLIA requirements
-- [[fda-ldt-oversight]] — FDA policy on LDTs
-- [[bioinformatics-validation]] — NGS validation
-- [[ngs-validation]] — Next-generation sequencing validation
-- [[method-development]] — LDT development process
-- [[quality-control]] — QC for LDTs
-- [[clinical-utility]] — Establishing clinical value
-- [[molecular-diagnostics]] — Molecular LDT applications
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Validation process for LDTs
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — For FDA-approved tests
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — CLIA requirements
+- [fda-ldt-oversight](concepts/fda-ldt-oversight.md) — FDA policy on LDTs
+- [bioinformatics-validation](concepts/bioinformatics-validation.md) — NGS validation
+- [ngs-validation](concepts/ngs-validation.md) — Next-generation sequencing validation
+- [method-development](concepts/method-development.md) — LDT development process
+- [quality-control](concepts/quality-control.md) — QC for LDTs
+- [clinical-utility](concepts/clinical-utility.md) — Establishing clinical value
+- [molecular-diagnostics](concepts/molecular-diagnostics.md) — Molecular LDT applications

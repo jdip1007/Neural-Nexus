@@ -113,6 +113,6 @@ French in vitro diagnostics company specializing in nucleic acid extraction plat
 
 ## In This Wiki
 
-[[nucleic-acid-extraction-platforms]] - Platform comparison and selection criteria
-[[emag-magana-easymag-respiratory-virus-extraction-comparison-2019]] - Clinical validation study
-[[roche]] - Competitor (MagNA PURE 96 manufacturer)
+[nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md) - Platform comparison and selection criteria
+[emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md) - Clinical validation study
+[roche](entities/roche.md) - Competitor (MagNA PURE 96 manufacturer)

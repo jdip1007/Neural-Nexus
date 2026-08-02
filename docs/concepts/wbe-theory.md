@@ -206,18 +206,18 @@ Where:
 ## Relationship to Other Concepts
 
 **Explains:**
-- [[kleibers-law]] - Provides mechanistic explanation for 3/4 power scaling
-- [[metabolic-scaling]] - Theoretical foundation for metabolic scaling
-- [[one-billion-heartbeats-veritasium]] - Explains why heartbeats × lifespan ≈ constant
+- [kleibers-law](concepts/kleibers-law.md) - Provides mechanistic explanation for 3/4 power scaling
+- [metabolic-scaling](concepts/metabolic-scaling.md) - Theoretical foundation for metabolic scaling
+- [one-billion-heartbeats-veritasium](raw/videos/one-billion-heartbeats-veritasium.md) - Explains why heartbeats × lifespan ≈ constant
 
 **Related to:**
-- [[fractal-networks]] - Self-similar branching patterns in organisms
-- [[scaling-laws]] - Mathematical relationships between size and function
-- [[comparative-physiology]] - Study of physiological differences across species
-- [[surface-law]] - Historical 2/3 power theory (superseded by WBE)
+- [fractal-networks](concepts/fractal-networks.md) - Self-similar branching patterns in organisms
+- [scaling-laws](concepts/scaling-laws.md) - Mathematical relationships between size and function
+- [comparative-physiology](concepts/comparative-physiology.md) - Study of physiological differences across species
+- [surface-law](concepts/surface-law.md) - Historical 2/3 power theory (superseded by WBE)
 
 **Applied to:**
-- [[urban-scaling]] - Similar principles in city growth and organization
+- [urban-scaling](concepts/urban-scaling.md) - Similar principles in city growth and organization
 
 ## Current Status
 
@@ -241,13 +241,13 @@ Where:
 ## Key Researchers
 
 **Developers:**
-- [[geoffrey-west]] - Physicist, leader in scaling theory and complex systems
-- [[james-brown]] - Ecologist and evolutionary biologist
-- [[brian-enquist]] - Ecologist and evolutionary biologist
+- [geoffrey-west](entities/geoffrey-west.md) - Physicist, leader in scaling theory and complex systems
+- [james-brown](entities/james-brown.md) - Ecologist and evolutionary biologist
+- [brian-enquist](entities/brian-enquist.md) - Ecologist and evolutionary biologist
 
 **Critics and Alternative Viewpoints:**
-- [[van-savage]] - Researcher critical of universal scaling claims
-- [[peter-sheridan-dodds]] - Researcher critical of WBE theory universality
+- [van-savage](entities/van-savage.md) - Researcher critical of universal scaling claims
+- [peter-sheridan-dodds](entities/peter-sheridan-dodds.md) - Researcher critical of WBE theory universality
 
 ## Common Misconceptions
 

@@ -14,7 +14,7 @@ reviewed: 2026-07-31
 
 # Metabolic Scaling
 
-**Metabolic scaling** describes the relationship between an organism's body mass and its metabolic rate. The field was founded on [[kleibers-law]], which observed that metabolic rate scales as mass to the ¾ power.
+**Metabolic scaling** describes the relationship between an organism's body mass and its metabolic rate. The field was founded on [kleibers-law](concepts/kleibers-law.md), which observed that metabolic rate scales as mass to the ¾ power.
 
 ## Key Theories
 
@@ -31,11 +31,11 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[kleibers-law]] — The foundational ¾ power law
-- [[wbe-theory]] — West, Brown, Enquist fractal network model
-- [[surface-law]] — Historical predecessor (superseded)
-- [[one-billion-heartbeats-phenomenon]] — Popular application
-- [[scaling-laws]] — General mathematical framework
-- [[comparative-physiology]] — Field of study
-- [[geoffrey-west]] — WBE co-author
-- [[max-kleiber]] — Original discoverer
+- [kleibers-law](concepts/kleibers-law.md) — The foundational ¾ power law
+- [wbe-theory](concepts/wbe-theory.md) — West, Brown, Enquist fractal network model
+- [surface-law](concepts/surface-law.md) — Historical predecessor (superseded)
+- [one-billion-heartbeats-phenomenon](concepts/one-billion-heartbeats-phenomenon.md) — Popular application
+- [scaling-laws](concepts/scaling-laws.md) — General mathematical framework
+- [comparative-physiology](concepts/comparative-physiology.md) — Field of study
+- [geoffrey-west](entities/geoffrey-west.md) — WBE co-author
+- [max-kleiber](entities/max-kleiber.md) — Original discoverer

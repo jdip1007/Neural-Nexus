@@ -28,7 +28,7 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[method-performance]] — Required performance characteristic
-- [[laboratory-verification]] — Verification process
-- [[laboratory-validation]] — Establishment process
-- [[statistical-analysis]] — Statistical methods used
+- [method-performance](concepts/accreditation/method-performance.md) — Required performance characteristic
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Verification process
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Establishment process
+- [statistical-analysis](concepts/statistical-analysis.md) — Statistical methods used

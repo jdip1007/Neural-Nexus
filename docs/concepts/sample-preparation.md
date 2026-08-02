@@ -106,14 +106,14 @@ Sample preparation involves several key stages:
 - [dna-extraction](concepts/dna-extraction.md) — Specific sample preparation technique for isolating DNA
 - [pcr](concepts/pcr.md) — Requires properly prepared DNA samples for amplification
 - [molecular-biology](concepts/molecular-biology.md) — Broader field that relies on sample preparation
-- [[sample-preparation]] — General category of laboratory procedures
-- [[sample-preparation]] — Ensuring sample preparation meets standards
-- [[sample-preparation]] — Field that depends on proper sample preparation
-- [[molecular-biology]]
-- [[dna-extraction-methodologies]]
-- [[cell-line-culture]]
-- [[pcr]]
-- [[environmental-monitoring]]
+- [sample-preparation](concepts/sample-preparation.md) — General category of laboratory procedures
+- [sample-preparation](concepts/sample-preparation.md) — Ensuring sample preparation meets standards
+- [sample-preparation](concepts/sample-preparation.md) — Field that depends on proper sample preparation
+- [molecular-biology](concepts/molecular-biology.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [pcr](concepts/pcr.md)
+- [environmental-monitoring](concepts/environmental-monitoring.md)
 ## History
 - **Ancient Times**: Basic sample preparation for simple analyses
 - **19th Century**: Development of laboratory techniques for chemical analysis

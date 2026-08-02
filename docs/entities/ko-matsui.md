@@ -16,7 +16,7 @@ reviewed: 2026-07-29
 
 ## Overview
 
-Ko Matsui is a Japanese neuroscientist and the principal investigator of the Super-network Brain Physiology laboratory at Tohoku University, Sendai, Japan. He is the corresponding author of the 2026 Communications Biology paper on the [[rem-sleep-energy-paradox]].
+Ko Matsui is a Japanese neuroscientist and the principal investigator of the Super-network Brain Physiology laboratory at Tohoku University, Sendai, Japan. He is the corresponding author of the 2026 Communications Biology paper on the [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md).
 
 ## Key Facts
 
@@ -24,7 +24,7 @@ Ko Matsui is a Japanese neuroscientist and the principal investigator of the Sup
 - **Email**: matsui@tohoku.ac.jp
 - **Research focus**: Glial modulation of neural circuits, brain energy dynamics, astrocyte-neuron interactions
 - **Key contributions**: 
-  - Discovery of the [[rem-sleep-energy-paradox]] (2026)
+  - Discovery of the [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) (2026)
   - Glial modulation of synaptic signals (Beppu, Kubo & Matsui, 2021)
   - Glial modulation of parallel memory formation (Kanaya et al., 2023)
   - Astrocytic determinant of long-term memory fate (Yamao & Matsui, 2025)
@@ -40,13 +40,13 @@ Ko Matsui is a Japanese neuroscientist and the principal investigator of the Sup
 
 ## In This Wiki
 
-- [[rem-sleep-energy-paradox]] — Lead author on the discovery paper
-- [[neurovascular-coupling]] — Research on brain-blood volume dynamics
-- [[astrocyte-neuron-lactate-shuttle]] — Work on astrocyte-neuron energy transfer
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — Lead author on the discovery paper
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — Research on brain-blood volume dynamics
+- [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) — Work on astrocyte-neuron energy transfer
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
 
 ## Related
 
-- [[yusuke-takahashi]] — First author on the REM sleep paper
-- [[yoko-ikoma]] — Co-author on the REM sleep paper
-- [[tohoku-university]] — Affiliated institution
+- [yusuke-takahashi](entities/yusuke-takahashi.md) — First author on the REM sleep paper
+- [yoko-ikoma](entities/yoko-ikoma.md) — Co-author on the REM sleep paper
+- [tohoku-university](entities/tohoku-university.md) — Affiliated institution

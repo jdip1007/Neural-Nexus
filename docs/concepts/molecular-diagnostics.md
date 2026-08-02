@@ -33,8 +33,8 @@ Molecular tests often require specialized validation including:
 
 ## Related
 
-- [[laboratory-validation]] — Validation framework
-- [[laboratory-developed-tests]] — Many molecular tests are LDTs
-- [[ngs-validation]] — NGS-specific validation
-- [[bioinformatics-validation]] — Pipeline validation
-- [[method-performance]] — Performance characteristics
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Validation framework
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md) — Many molecular tests are LDTs
+- [ngs-validation](concepts/ngs-validation.md) — NGS-specific validation
+- [bioinformatics-validation](concepts/bioinformatics-validation.md) — Pipeline validation
+- [method-performance](concepts/accreditation/method-performance.md) — Performance characteristics

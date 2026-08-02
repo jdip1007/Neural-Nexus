@@ -28,12 +28,12 @@ reviewed: 2026-07-31
 
 - His work on network topology connects to fractal network theory
 - Collaborated with researchers at the Santa Fe Institute on complex systems
-- His mathematics underpins aspects of [[wbe-theory]]
+- His mathematics underpins aspects of [wbe-theory](concepts/wbe-theory.md)
 
 ## Related
 
-- [[wbe-theory]] — Connected through complex systems
-- [[geoffrey-west]] — Fellow Santa Fe Institute researcher
-- [[scaling-laws]] — Mathematical framework
-- [[peter-sheridan-dodds]] — Related network science researcher
-- [[fractal-networks]] — Network structure connections
+- [wbe-theory](concepts/wbe-theory.md) — Connected through complex systems
+- [geoffrey-west](entities/geoffrey-west.md) — Fellow Santa Fe Institute researcher
+- [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
+- [peter-sheridan-dodds](entities/peter-sheridan-dodds.md) — Related network science researcher
+- [fractal-networks](concepts/fractal-networks.md) — Network structure connections

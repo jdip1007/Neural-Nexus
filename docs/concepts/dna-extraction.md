@@ -95,23 +95,23 @@ Modern DNA extraction has evolved significantly:
 
 ## Related Concepts
 
-- [[cell-line-culture]] — Source material preparation for DNA extraction
-- [[pcr]] — Downstream application requiring quality DNA
-- [[genomics]] — Field that relies on DNA extraction techniques
-- [[molecular-biology]] — Broader scientific discipline
-- [[sample-preparation]] — Essential precursor step
-- [[dna-extraction-methodologies]] — Comprehensive overview of extraction methods
-- [[tissue-specific-dna-extraction]] — Specialized extraction approach
-- [[nanopore-sequencing]] — Sequencing application requiring pure DNA
-- [[environmental-dna-analysis]] — Environmental sample processing
-- [[agarose-plug-dna-extraction-method]]
-- [[brain-tissue-dna-extraction-method]]
-- [[24hr-genome-e2e-promethion-document]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
-- [[adaptive-sampling-document]]
-- [[colony-pcr-dna-extraction-method]]
+- [cell-line-culture](concepts/cell-line-culture.md) — Source material preparation for DNA extraction
+- [pcr](concepts/pcr.md) — Downstream application requiring quality DNA
+- [genomics](concepts/genomics.md) — Field that relies on DNA extraction techniques
+- [molecular-biology](concepts/molecular-biology.md) — Broader scientific discipline
+- [sample-preparation](concepts/sample-preparation.md) — Essential precursor step
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md) — Comprehensive overview of extraction methods
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md) — Specialized extraction approach
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) — Sequencing application requiring pure DNA
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md) — Environmental sample processing
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
+- [24hr-genome-e2e-promethion-document](raw/articles/24hr-genome-e2e-promethion-document.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+- [adaptive-sampling-document](raw/articles/adaptive-sampling-document.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
 ## Sources
 
 - ^[raw/articles/cell-line-dna-pure-extraction-method.md]

@@ -104,11 +104,11 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 
 ## In This Wiki
 
-[[musa-hindiyeh]] - Co-author (equal contribution)
-[[orna-mor]] - Co-author (equal contribution)
-[[emag-magana-easymag-respiratory-virus-extraction-comparison-2019]] - Lead validation study
-[[nucleic-acid-extraction-platforms]] - Platform comparison findings
-[[respiratory-virus-testing]] - Clinical testing workflows
+[musa-hindiyeh](entities/musa-hindiyeh.md) - Co-author (equal contribution)
+[orna-mor](entities/orna-mor.md) - Co-author (equal contribution)
+[emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md) - Lead validation study
+[nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md) - Platform comparison findings
+[respiratory-virus-testing](concepts/clinical-testing/respiratory-virus-testing.md) - Clinical testing workflows
 
 ---
 

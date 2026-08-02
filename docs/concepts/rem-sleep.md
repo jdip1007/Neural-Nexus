@@ -22,8 +22,8 @@ Rapid eye movement (REM) sleep is a distinct sleep stage characterized by promin
 
 - **ECoG**: Strong theta-band oscillations (6–9 Hz), absence of most other frequency bands
 - **EMG**: Low amplitude (muscle atonia)
-- **Blood flow**: Pronounced increase in [[brain-blood-volume]], originating in posterior cortex
-- **Metabolism**: Elevated astrocytic pyruvate, but paradoxically declining neuronal ATP (see [[rem-sleep-energy-paradox]])
+- **Blood flow**: Pronounced increase in [brain-blood-volume](concepts/brain-blood-volume.md), originating in posterior cortex
+- **Metabolism**: Elevated astrocytic pyruvate, but paradoxically declining neuronal ATP (see [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md))
 - **Function**: Associated with memory selection, consolidation, and dreaming
 
 ## REM-Specific Vascular Dynamics
@@ -34,8 +34,8 @@ Rapid eye movement (REM) sleep is a distinct sleep stage characterized by promin
 
 ## Related
 
-- [[rem-sleep-energy-paradox]] — The paradoxical energy dynamics during REM
-- [[nrem-sleep]] — The contrasting sleep state
-- [[neurovascular-coupling]] — State-dependent blood flow regulation
-- [[brain-energy-metabolism]] — Overall brain energy dynamics
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — The paradoxical energy dynamics during REM
+- [nrem-sleep](concepts/nrem-sleep.md) — The contrasting sleep state
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — State-dependent blood flow regulation
+- [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — Overall brain energy dynamics
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

@@ -16,7 +16,7 @@ reviewed: 2026-07-29
 
 ## Definition
 
-Brain blood volume (BBV) refers to the total volume of blood within the cerebral vasculature at any given time. Changes in BBV reflect vascular dilation or constriction, which regulate the delivery of oxygen and glucose to brain tissue. BBV is a key component of [[neurovascular-coupling]] and cerebral hemodynamics.
+Brain blood volume (BBV) refers to the total volume of blood within the cerebral vasculature at any given time. Changes in BBV reflect vascular dilation or constriction, which regulate the delivery of oxygen and glucose to brain tissue. BBV is a key component of [neurovascular-coupling](concepts/neurovascular-coupling.md) and cerebral hemodynamics.
 
 ## Measurement
 
@@ -67,7 +67,7 @@ Brain blood volume (BBV) refers to the total volume of blood within the cerebral
 
 ## Related
 
-- [[neurovascular-coupling]] — How neuronal activity drives BBV changes
-- [[rem-sleep-energy-paradox]] — The paradoxical relationship between increased BBV and decreased neuronal ATP during REM
-- [[brain-energy-metabolism]] — The metabolic context for BBV regulation
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — How neuronal activity drives BBV changes
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — The paradoxical relationship between increased BBV and decreased neuronal ATP during REM
+- [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — The metabolic context for BBV regulation
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

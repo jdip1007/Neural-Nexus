@@ -195,12 +195,12 @@ ADHD is one of the most prevalent neurodevelopmental conditions worldwide, with 
 
 ## Related
 
-- [[executive-function]] — Core cognitive mechanism in ADHD
-- [[psychiatric-comorbidity]] — Comorbidity patterns in psychiatric disorders
-- [[prefrontal-cortex-development]] — Delayed cortical maturation in ADHD
-- [[neuropsychopathological-factor]] — Cross-disorder brain signature
-- [[mental-health]] — Broader mental health context
-- [[psychology]] — Overview of psychological concepts
-- [[what-everyone-gets-wrong-about-adhd]] — ADHD misconceptions (HealthyGamerGG)
-- [[the-most-misdiagnosed-condition-in-mental-health]] — Misdiagnosis in mental health
-- [[hinshaw-2018-adhd-review]] — Full reading with complete reference list
+- [executive-function](concepts/executive-function.md) — Core cognitive mechanism in ADHD
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — Comorbidity patterns in psychiatric disorders
+- [prefrontal-cortex-development](concepts/prefrontal-cortex-development.md) — Delayed cortical maturation in ADHD
+- [neuropsychopathological-factor](concepts/neuropsychopathological-factor.md) — Cross-disorder brain signature
+- [mental-health](concepts/mental-health.md) — Broader mental health context
+- [psychology](concepts/psychology.md) — Overview of psychological concepts
+- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md) — ADHD misconceptions (HealthyGamerGG)
+- [the-most-misdiagnosed-condition-in-mental-health](concepts/the-most-misdiagnosed-condition-in-mental-health.md) — Misdiagnosis in mental health
+- [hinshaw-2018-adhd-review](raw/articles/hinshaw-2018-adhd-review.md) — Full reading with complete reference list

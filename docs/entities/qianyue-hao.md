@@ -32,10 +32,10 @@ Qianyue Hao is a researcher in electronic engineering at Tsinghua University's B
 
 ## Relationships
 
-- **Co-authors**: [[fengli-xu]], [[yong-li]], [[james-evans]]
+- **Co-authors**: [fengli-xu](entities/fengli-xu.md), [yong-li](entities/yong-li.md), [james-evans](entities/james-evans.md)
 - **Institution**: Tsinghua University
 - **Research Center**: BNRist
-- **Related**: [[ai-impacts-science-nature-2026]]
+- **Related**: [ai-impacts-science-nature-2026](raw/articles/ai-impacts-science-nature-2026.md)
 
 ## In This Wiki
 

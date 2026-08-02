@@ -34,17 +34,17 @@ Savings insurance vs. term life insurance + separate investment, based on analys
 
 ## Related
 
-- [[savings-insurance]] — Detailed analysis
-- [[term-life-insurance]] — Alternative
-- [[investment-vehicles]] — Investment component
-- [[bowtie-insurance]] — Source
-- [[emergency-fund]]
-- [[insurance-commissions]]
-- [[financial-planning]]
-- [[investment-risk]]
-- [[endowment-policies]]
-- [[insurtech]]
-- [[universal-life]]
-- [[annuities]]
-- [[opportunity-cost]]
-- [[investment-returns]]
+- [savings-insurance](concepts/savings-insurance.md) — Detailed analysis
+- [term-life-insurance](concepts/term-life-insurance.md) — Alternative
+- [investment-vehicles](concepts/investment-vehicles.md) — Investment component
+- [bowtie-insurance](entities/bowtie-insurance.md) — Source
+- [emergency-fund](concepts/emergency-fund.md)
+- [insurance-commissions](concepts/insurance-commissions.md)
+- [financial-planning](concepts/financial-planning.md)
+- [investment-risk](concepts/investment-risk.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [insurtech](concepts/insurtech.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [investment-returns](concepts/investment-returns.md)

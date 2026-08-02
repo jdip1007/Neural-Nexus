@@ -34,13 +34,13 @@ This content from HealthyGamerGG explores why modern dating feels like parenting
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[why-smart-people-are-bad-at-dating]]
-- [[can-men-women-be-friends_]]
-- [[why-your-partner-doesnt-support-your-dreams]]
-- [[why-validating-feelings-can-ruin-relationships]]
-- [[how-your-brain-perceives-love-when-you-have-autism]]
-- [[i-did-everything-right-i-still-cant-find-love]]
-- [[why-you-freeze-up-when-you-talk-to-women]]
+- [why-smart-people-are-bad-at-dating](concepts/why-smart-people-are-bad-at-dating.md)
+- [can-men-women-be-friends_](concepts/can-men-women-be-friends_.md)
+- [why-your-partner-doesnt-support-your-dreams](concepts/why-your-partner-doesnt-support-your-dreams.md)
+- [why-validating-feelings-can-ruin-relationships](concepts/why-validating-feelings-can-ruin-relationships.md)
+- [how-your-brain-perceives-love-when-you-have-autism](concepts/how-your-brain-perceives-love-when-you-have-autism.md)
+- [i-did-everything-right-i-still-cant-find-love](concepts/i-did-everything-right-i-still-cant-find-love.md)
+- [why-you-freeze-up-when-you-talk-to-women](concepts/why-you-freeze-up-when-you-talk-to-women.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -49,7 +49,7 @@ This content from HealthyGamerGG explores why modern dating feels like parenting
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

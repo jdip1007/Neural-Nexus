@@ -151,15 +151,15 @@ Wealth concentration refers to the disproportionate ownership of assets and fina
 
 ## Related Concepts
 
-- [[economic-inequality]]
-- [[generational-wealth-transfer]]
-- [[baby-boomers]]
-- [[inheritance-economics]]
-- [[asset-inflation]]
-- [[demographic-economic-impact]]
-- [[housing-market-dynamics]]
-- [[interest-rate-policy]]
-- [[labor-market-changes]]
+- [economic-inequality](concepts/economic-inequality.md)
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [baby-boomers](concepts/baby-boomers.md)
+- [inheritance-economics](concepts/inheritance-economics.md)
+- [asset-inflation](concepts/asset-inflation.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [housing-market-dynamics](concepts/housing-market-dynamics.md)
+- [interest-rate-policy](concepts/interest-rate-policy.md)
+- [labor-market-changes](concepts/labor-market-changes.md)
 
 ## Future Outlook
 

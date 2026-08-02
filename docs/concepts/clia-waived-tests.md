@@ -33,7 +33,7 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[clia-regulations]] — CLIA classification system
-- [[laboratory-verification]] — Non-waived tests require verification
-- [[accreditation/index|Laboratory Accreditation]] — Waived labs have minimal requirements
-- [[fda-approval-process]] — FDA clearance for waiver status
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — CLIA classification system
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Non-waived tests require verification
+- [Laboratory Accreditation](findings/index.md) — Waived labs have minimal requirements
+- [fda-approval-process](concepts/fda-approval-process.md) — FDA clearance for waiver status

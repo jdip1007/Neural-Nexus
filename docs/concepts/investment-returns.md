@@ -23,16 +23,16 @@ Savings insurance "expected returns" are sales projections, not guarantees. Only
 
 ## Related
 
-- [[savings-insurance]] — Product with unreliable projections
-- [[investment-vehicles]] — Alternative investments
-- [[opportunity-cost]] — Foregone returns
-- [[term-life-insurance]]
-- [[bowtie-insurance]]
-- [[financial-planning]]
-- [[investment-risk]]
-- [[endowment-policies]]
-- [[insurance-comparison]]
-- [[universal-life]]
-- [[annuities]]
-- [[emergency-fund]]
-- [[insurance-commissions]]
+- [savings-insurance](concepts/savings-insurance.md) — Product with unreliable projections
+- [investment-vehicles](concepts/investment-vehicles.md) — Alternative investments
+- [opportunity-cost](concepts/opportunity-cost.md) — Foregone returns
+- [term-life-insurance](concepts/term-life-insurance.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [financial-planning](concepts/financial-planning.md)
+- [investment-risk](concepts/investment-risk.md)
+- [endowment-policies](concepts/endowment-policies.md)
+- [insurance-comparison](comparisons/insurance-comparison.md)
+- [universal-life](concepts/universal-life.md)
+- [annuities](concepts/annuities.md)
+- [emergency-fund](concepts/emergency-fund.md)
+- [insurance-commissions](concepts/insurance-commissions.md)

@@ -34,9 +34,9 @@ This content from HealthyGamerGG explores the most misdiagnosed condition in men
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[ai-therapy-is-making-you-mentally-weak]]
-- [[what-everyone-gets-wrong-about-adhd]]
-- [[how-trauma-splits-a-soul]]
+- [ai-therapy-is-making-you-mentally-weak](concepts/ai-therapy-is-making-you-mentally-weak.md)
+- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md)
+- [how-trauma-splits-a-soul](concepts/how-trauma-splits-a-soul.md)
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
@@ -45,7 +45,7 @@ This content from HealthyGamerGG explores the most misdiagnosed condition in men
 
 ## Related
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 

@@ -117,11 +117,11 @@ Conclusion: The NP factor is specifically associated with executive function def
 
 ## Concepts Referenced
 
-- [[psychiatric-comorbidity]] — Co-occurrence of multiple psychiatric diagnoses
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — Co-occurrence of multiple psychiatric diagnoses
 -  — The "p factor", statistical summary of symptom correlations
 -  — CPM, machine-learning approach for brain-behavior mapping
 -  — FC, temporal correlation between brain regions
-- [[prefrontal-cortex-development]] — Maturation of executive circuits during adolescence
+- [prefrontal-cortex-development](concepts/prefrontal-cortex-development.md) — Maturation of executive circuits during adolescence
 -  — Cognitive control processes (working memory, inhibition, decision-making)
 
 ## My Takeaways
@@ -134,5 +134,5 @@ The NP factor's specificity to executive function (not all cognition) is clinica
 
 ## Related Readings
 
-- [[savings-insurance-hong-kong-myths-exposed]] — Another longitudinal study with systematic analysis approach
-- [[pcr-gc-rich-templates-green-sambrook-2019]] — Research methodology using multiple validation approaches
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md) — Another longitudinal study with systematic analysis approach
+- [pcr-gc-rich-templates-green-sambrook-2019](raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md) — Research methodology using multiple validation approaches

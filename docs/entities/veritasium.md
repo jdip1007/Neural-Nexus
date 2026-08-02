@@ -16,7 +16,7 @@ reviewed: 2026-07-31
 
 ## Overview
 
-**Veritasium** is a popular science YouTube channel created and hosted by [[derek-muller]]. The channel produces high-quality educational videos exploring scientific concepts, often through experiments, interviews with experts, and visual explanations. As of July 2026, the channel has over 21 million subscribers.^[raw/videos/one-billion-heartbeats-veritasium.md]
+**Veritasium** is a popular science YouTube channel created and hosted by [derek-muller](entities/derek-muller.md). The channel produces high-quality educational videos exploring scientific concepts, often through experiments, interviews with experts, and visual explanations. As of July 2026, the channel has over 21 million subscribers.^[raw/videos/one-billion-heartbeats-veritasium.md]
 
 ## Key Facts
 
@@ -64,10 +64,10 @@ Videos often feature extensive consultation with experts:
 - Scientific debate presentation
 
 **Experts consulted:**
-- [[brian-enquist]] - Co-developer of WBE theory
-- [[van-savage]] - Researcher in biological scaling
-- [[steven-strogatz]] - Mathematician in complex systems
-- [[peter-sheridan-dodds]] - Critic of universal scaling claims
+- [brian-enquist](entities/brian-enquist.md) - Co-developer of WBE theory
+- [van-savage](entities/van-savage.md) - Researcher in biological scaling
+- [steven-strogatz](entities/steven-strogatz.md) - Mathematician in complex systems
+- [peter-sheridan-dodds](entities/peter-sheridan-dodds.md) - Critic of universal scaling claims
 
 ### Other Popular Topics
 - Physics and mathematics explanations
@@ -117,7 +117,7 @@ Videos involve large production teams:
 
 ## In This Wiki
 
-- **Created:** [[one-billion-heartbeats-veritasium]] - Video summary in readings
+- **Created:** [one-billion-heartbeats-veritasium](raw/videos/one-billion-heartbeats-veritasium.md) - Video summary in readings
 - **Related to:** All concepts and entities mentioned in their videos
 - **Source for:** Many biology and physics concepts covered in videos
 

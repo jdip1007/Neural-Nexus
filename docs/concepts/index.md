@@ -11,47 +11,47 @@ Concepts are fundamental ideas, principles, and frameworks that form the foundat
 #### DNA Evidence in Hong Kong Legal System
 - **Focus**: Revolutionary impact of DNA evidence on Hong Kong criminal justice
 - **Key Insights**: First DNA case, forensic science advancement, legal precedents
-- **Related**: [[criminal-psychology-behavior-patterns]], [[dna-evidence-hong-kong-legal-system]]
+- **Related**: [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md), [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
 
 #### Criminal Psychology and Behavior Patterns
 - **Focus**: Psychological factors in criminal behavior and development
 - **Key Insights**: Deception techniques, escalation patterns, psychological evolution
-- **Related**: [[dna-evidence-hong-kong-legal-system]], [[dna-evidence-hong-kong-legal-system]]
+- **Related**: [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md), [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
 
 #### Celebrity Privacy and Media Ethics
 - **Focus**: Privacy rights and media responsibility for public figures
 - **Key Insights**: Blackmail prevention, media ethics, digital rights
-- **Related**: [[celebrity-privacy-media-ethics]]
+- **Related**: [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
 
 #### DangerousPerson2.0 Channel Research Project
 - **Focus**: Methodology and findings from integrating YouTube legal content
 - **Key Insights**: Transcript processing, case analysis, knowledge integration
-- **Related**: [[dangerous-person-2-0-research-project]], [[dangerous-person-2-0-research-overview]], [[knowledge-preservation]]
+- **Related**: [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md), [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md), [knowledge-preservation](concepts/knowledge-preservation.md)
 
 ## Browse Concepts
 
 ### Legal and Justice
-- [[dna-evidence-hong-kong-legal-system]] - DNA evidence impact on Hong Kong legal system
-- [[criminal-psychology-behavior-patterns]] - Psychological factors in criminal behavior
-- [[celebrity-privacy-media-ethics]] - Privacy rights and media ethics for celebrities
-- [[dna-evidence-hong-kong-legal-system]] - Overview of Hong Kong's legal framework
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md) - DNA evidence impact on Hong Kong legal system
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md) - Psychological factors in criminal behavior
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md) - Privacy rights and media ethics for celebrities
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md) - Overview of Hong Kong's legal framework
 
 ### Science and Technology
-- [[dna-evidence-hong-kong-legal-system]] - Forensic methodologies and applications
-- [[dna-extraction]] - DNA extraction methodologies and techniques
-- [[environmental-dna-analysis]] - Environmental DNA analysis methods
-- [[nanopore-sequencing]] - Nanopore sequencing technologies
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md) - Forensic methodologies and applications
+- [dna-extraction](concepts/dna-extraction.md) - DNA extraction methodologies and techniques
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md) - Environmental DNA analysis methods
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) - Nanopore sequencing technologies
 
 ### Research and Methodology
-- [[knowledge-preservation]] - Knowledge preservation strategies
-- [[reproducibility-crisis]] - Challenges in research reproducibility
-- [[dangerous-person-2-0-research-project]] - YouTube channel integration case study
+- [knowledge-preservation](concepts/knowledge-preservation.md) - Knowledge preservation strategies
+- [reproducibility-crisis](concepts/reproducibility-crisis.md) - Challenges in research reproducibility
+- [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md) - YouTube channel integration case study
 
 ### Environmental and Biological
-- [[ecology]] - Ecological systems and principles
-- [[conservation-biology]] - Conservation biology approaches
-- [[environmental-monitoring]] - Environmental monitoring techniques
-- [[sample-preparation]] - Sample preparation methodologies
+- [ecology](concepts/ecology.md) - Ecological systems and principles
+- [conservation-biology](concepts/conservation-biology.md) - Conservation biology approaches
+- [environmental-monitoring](concepts/environmental-monitoring.md) - Environmental monitoring techniques
+- [sample-preparation](concepts/sample-preparation.md) - Sample preparation methodologies
 
 ## Add Concept
 

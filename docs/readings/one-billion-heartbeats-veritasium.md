@@ -128,25 +128,25 @@ The video features extensive consultation with leading researchers in scaling th
 ## Entities Mentioned
 
 ### People
-- [[max-kleiber]] - Discoverer of Kleiber's Law
-- [[geoffrey-west]] - Author of "Scale", leading researcher in scaling theory
-- [[brian-enquist]] - Co-developer of WBE theory
-- [[van-savage]] - Researcher in biological scaling
-- [[steven-strogatz]] - Mathematician specializing in complex systems
-- [[peter-sheridan-dodds]] - Researcher critical of universal scaling claims
+- [max-kleiber](entities/max-kleiber.md) - Discoverer of Kleiber's Law
+- [geoffrey-west](entities/geoffrey-west.md) - Author of "Scale", leading researcher in scaling theory
+- [brian-enquist](entities/brian-enquist.md) - Co-developer of WBE theory
+- [van-savage](entities/van-savage.md) - Researcher in biological scaling
+- [steven-strogatz](entities/steven-strogatz.md) - Mathematician specializing in complex systems
+- [peter-sheridan-dodds](entities/peter-sheridan-dodds.md) - Researcher critical of universal scaling claims
 
 ### Organizations
-- [[veritasium]] - Science YouTube channel
+- [veritasium](entities/veritasium.md) - Science YouTube channel
 
 ## Concepts Explained
 
-- [[kleibers-law]] - 3/4 power scaling of metabolic rate
-- [[wbe-theory]] - Fractal network explanation for biological scaling
-- [[metabolic-scaling]] - How biological processes scale with size
-- [[fractal-networks]] - Self-similar branching patterns in organisms
-- [[scaling-laws]] - Mathematical relationships between size and function
-- [[urban-scaling]] - How scaling laws apply to cities
-- [[surface-law]] - Historical 2/3 power theory (superseded by Kleiber's Law)
+- [kleibers-law](concepts/kleibers-law.md) - 3/4 power scaling of metabolic rate
+- [wbe-theory](concepts/wbe-theory.md) - Fractal network explanation for biological scaling
+- [metabolic-scaling](concepts/metabolic-scaling.md) - How biological processes scale with size
+- [fractal-networks](concepts/fractal-networks.md) - Self-similar branching patterns in organisms
+- [scaling-laws](concepts/scaling-laws.md) - Mathematical relationships between size and function
+- [urban-scaling](concepts/urban-scaling.md) - How scaling laws apply to cities
+- [surface-law](concepts/surface-law.md) - Historical 2/3 power theory (superseded by Kleiber's Law)
 
 ## Takeaways
 
@@ -170,10 +170,10 @@ The video features extensive consultation with leading researchers in scaling th
 
 ## Related Pages
 
-- [[scale-book]] - Geoffrey West's comprehensive book on scaling laws
-- [[fractal-networks]] - Applications of fractals in biological systems
-- [[comparative-physiology]] - Study of physiological differences across species
-- [[metabolic-scaling]] - Broader category for all scaling phenomena
+- [scale-book](concepts/scale-book.md) - Geoffrey West's comprehensive book on scaling laws
+- [fractal-networks](concepts/fractal-networks.md) - Applications of fractals in biological systems
+- [comparative-physiology](concepts/comparative-physiology.md) - Study of physiological differences across species
+- [metabolic-scaling](concepts/metabolic-scaling.md) - Broader category for all scaling phenomena
 
 ## Limitations
 

@@ -131,11 +131,11 @@ Modern adaptive sampling has evolved significantly:
 
 ## Related Concepts
 
-- [[genomics]] - Computational implementation domain
+- [genomics](concepts/genomics.md) - Computational implementation domain
 - [genomics](concepts/genomics.md) - Primary application field
-- [[nanopore-sequencing]] - Core technology platform
-- [[genomics]] - Broader scientific field
-- [[genomics]] - Methodological foundation
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) - Core technology platform
+- [genomics](concepts/genomics.md) - Broader scientific field
+- [genomics](concepts/genomics.md) - Methodological foundation
 
 ## Sources
 

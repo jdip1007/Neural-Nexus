@@ -131,13 +131,13 @@ Accreditation provides independent verification that a laboratory operates accor
 
 ## Related
 
-- [[clia-regulations]] — US federal laboratory regulations
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — US federal laboratory regulations
 - [[iso-15189]] — International laboratory quality standard
-- [[laboratory-verification]] — Verifying test method performance
-- [[laboratory-validation]] — Establishing test method performance
-- [[quality-control]] — Ongoing monitoring of test performance
-- [[proficiency-testing]] — External quality assessment
-- [[laboratory-director]] — Leadership role in accredited labs
-- [[method-performance]] — Performance characteristics required
-- [[risk-assessment]] — Risk management in laboratory operations
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Verifying test method performance
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Establishing test method performance
+- [quality-control](concepts/quality-control.md) — Ongoing monitoring of test performance
+- [proficiency-testing](concepts/proficiency-testing.md) — External quality assessment
+- [laboratory-director](concepts/laboratory-director.md) — Leadership role in accredited labs
+- [method-performance](concepts/accreditation/method-performance.md) — Performance characteristics required
+- [risk-assessment](concepts/risk-assessment.md) — Risk management in laboratory operations
 - [[laboratory-safety]] — Safety requirements in accredited labs

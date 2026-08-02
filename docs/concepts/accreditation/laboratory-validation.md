@@ -336,13 +336,13 @@ Validation is required when:
 
 ## Related
 
-- [[laboratory-verification]] — For FDA-approved tests
-- [[clia-regulations]] — 42 CFR §493.1253 validation requirements
-- [[method-performance]] — All performance characteristics
-- [[laboratory-developed-tests]] — LDT overview
-- [[quality-control]] — Ongoing monitoring
-- [[fda-ldt-oversight]] — FDA LDT policy
-- [[bioinformatics-validation]] — Validation of bioinformatics pipelines
-- [[ngs-validation]] — NGS-specific validation requirements
-- [[clinical-utility]] — Establishing clinical performance
-- [[method-development]] — LDT development process
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — For FDA-approved tests
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — 42 CFR §493.1253 validation requirements
+- [method-performance](concepts/accreditation/method-performance.md) — All performance characteristics
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md) — LDT overview
+- [quality-control](concepts/quality-control.md) — Ongoing monitoring
+- [fda-ldt-oversight](concepts/fda-ldt-oversight.md) — FDA LDT policy
+- [bioinformatics-validation](concepts/bioinformatics-validation.md) — Validation of bioinformatics pipelines
+- [ngs-validation](concepts/ngs-validation.md) — NGS-specific validation requirements
+- [clinical-utility](concepts/clinical-utility.md) — Establishing clinical performance
+- [method-development](concepts/method-development.md) — LDT development process

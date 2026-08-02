@@ -37,10 +37,10 @@ Dr Katherine Johns is a medical professional who serves as a reviewer for the Ch
 Limited information available about Dr Katherine Johns from the video metadata. This page is based on a single video mention. Additional biographical details, institutional affiliation, publication record, and specific research areas are not captured in the available source material.^[raw/videos/prion-disease-colleague-story.md]
 
 ## Related Pages
-- [[prion-disease]] - Concept page covering prion diseases reviewed by Dr Johns
-- [[prion-disease-colleague-story]] - Reading page for the reviewed video
-- [[amyloid-beta]] - Related protein aggregation in neurodegenerative disease
-- [[tau-pathology]] - Another neurodegenerative disease mechanism
+- [prion-disease](concepts/prion-disease.md) - Concept page covering prion diseases reviewed by Dr Johns
+- [prion-disease-colleague-story](raw/videos/prion-disease-colleague-story.md) - Reading page for the reviewed video
+- [amyloid-beta](concepts/amyloid-beta.md) - Related protein aggregation in neurodegenerative disease
+- [tau-pathology](concepts/tau-pathology.md) - Another neurodegenerative disease mechanism
 
 ## Data Quality Note
 This entity page has low confidence as it is based on a single video mention with minimal biographical information. Additional primary sources (publication records, institutional affiliations, professional profiles) would be needed to create a comprehensive entity page.^[raw/videos/prion-disease-colleague-story.md]

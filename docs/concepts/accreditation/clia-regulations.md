@@ -171,13 +171,13 @@ Before reporting patient test results, laboratories must verify the following pe
 
 ## Related
 
-- [[accreditation/index|Laboratory Accreditation]] — Implementation of quality standards
-- [[laboratory-verification]] — CLIA requirement for FDA-approved tests
-- [[laboratory-validation]] — CLIA requirement for LDTs
-- [[quality-control]] — Daily QC requirements
-- [[proficiency-testing]] — External quality assessment
-- [[cms]] — Agency enforcing CLIA
-- [[clia-regulations]] — Complete regulatory text
-- [[laboratory-director]] — Key personnel requirement
-- [[method-performance]] — Required performance characteristics
-- [[clia-waived-tests]] — Tests exempt from most requirements
+- [Laboratory Accreditation](findings/index.md) — Implementation of quality standards
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — CLIA requirement for FDA-approved tests
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — CLIA requirement for LDTs
+- [quality-control](concepts/quality-control.md) — Daily QC requirements
+- [proficiency-testing](concepts/proficiency-testing.md) — External quality assessment
+- [cms](concepts/cms.md) — Agency enforcing CLIA
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — Complete regulatory text
+- [laboratory-director](concepts/laboratory-director.md) — Key personnel requirement
+- [method-performance](concepts/accreditation/method-performance.md) — Required performance characteristics
+- [clia-waived-tests](concepts/clia-waived-tests.md) — Tests exempt from most requirements

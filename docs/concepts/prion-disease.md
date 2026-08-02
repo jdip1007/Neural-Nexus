@@ -205,15 +205,15 @@ Prions are "proteinaceous infectious particles" that propagate their misfolded c
 | Cross-species transmission risk | Partial | Animal models |
 
 ## Related Concepts
-- [[amyloid-beta]] - Similar protein aggregation in Alzheimer's disease
-- [[tau-pathology]] - Another protein misfolding mechanism in neurodegeneration
-- [[neuroinflammation]] - Immune response in neurodegenerative diseases
+- [amyloid-beta](concepts/amyloid-beta.md) - Similar protein aggregation in Alzheimer's disease
+- [tau-pathology](concepts/tau-pathology.md) - Another protein misfolding mechanism in neurodegeneration
+- [neuroinflammation](concepts/neuroinflammation.md) - Immune response in neurodegenerative diseases
 
 ## Related Entities
-- [[katherine-johns]] - Medical reviewer for Chubbyemu content
+- [katherine-johns](entities/katherine-johns.md) - Medical reviewer for Chubbyemu content
 
 ## Related Readings
-- [[prion-disease-colleague-story]] - Chubbyemu video case study on prion disease
+- [prion-disease-colleague-story](raw/videos/prion-disease-colleague-story.md) - Chubbyemu video case study on prion disease
 
 ## Misconceptions
 

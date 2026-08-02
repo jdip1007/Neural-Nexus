@@ -30,9 +30,9 @@ The **FDA approval process** for in vitro diagnostic (IVD) devices determines wh
 
 ## Related
 
-- [[laboratory-verification]] — Required for FDA-approved tests
-- [[laboratory-validation]] — Required for non-FDA tests
-- [[clia-regulations]] — CLIA relies on FDA status
-- [[laboratory-developed-tests]] — Tests without FDA approval
-- [[fda-ldt-oversight]] — Evolving FDA LDT policy
-- [[clia-waived-tests]] — FDA-cleared for waiver status
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Required for FDA-approved tests
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Required for non-FDA tests
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — CLIA relies on FDA status
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md) — Tests without FDA approval
+- [fda-ldt-oversight](concepts/fda-ldt-oversight.md) — Evolving FDA LDT policy
+- [clia-waived-tests](concepts/clia-waived-tests.md) — FDA-cleared for waiver status

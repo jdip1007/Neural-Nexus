@@ -91,9 +91,9 @@ This method is essential for:
 
 - [dna-extraction](concepts/dna-extraction.md) - Core molecular biology technique
 - [molecular-biology](concepts/molecular-biology.md) - Field of application
-- [[molecular-biology]] - Broader context
-- [[molecular-biology]] - Specialized research domain
-- [[tissue-specific-dna-extraction]] - Essential precursor step
+- [molecular-biology](concepts/molecular-biology.md) - Broader context
+- [molecular-biology](concepts/molecular-biology.md) - Specialized research domain
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md) - Essential precursor step
 
 ## My Takeaways
 
@@ -107,16 +107,16 @@ This method is essential for:
 - [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
 - [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
 - [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
-- [[environmental-dna-analysis]]
-- [[dna-extraction-methodologies]]
-- [[sample-preparation]]
-- [[colony-pcr-dna-extraction-method]]
-- [[cell-line-culture]]
-- [[agarose-plug-dna-extraction-method]]
-- [[dna-extraction]]
-- [[pcr]]
-- [[nanopore-sequencing]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[genomics]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [sample-preparation](concepts/sample-preparation.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [agarose-plug-dna-extraction-method](raw/articles/agarose-plug-dna-extraction-method.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [pcr](concepts/pcr.md)
+- [nanopore-sequencing](concepts/nanopore-sequencing.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [genomics](concepts/genomics.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)

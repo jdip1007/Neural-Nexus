@@ -99,11 +99,11 @@ Protocol for amplifying GC-rich DNA templates (>60% G+C) using a 4-additive cock
 - **Last resort:** Introduce null mutations into central regions of GC-rich oligonucleotides ^[raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md]
 
 ## Entities Mentioned
-- [[michael-r-green]] (author)
-- [[joseph-sambrook]] (author)
+- [michael-r-green](entities/michael-r-green.md) (author)
+- [joseph-sambrook](entities/joseph-sambrook.md) (author)
 
 ## Concepts Mentioned
-- [[pcr]] (Polymerase Chain Reaction)
+- [pcr](concepts/pcr.md) (Polymerase Chain Reaction)
 
 ## Important Notes
 - Additive solution should be stored at 4°C for no longer than 1 week
@@ -122,4 +122,4 @@ Protocol for amplifying GC-rich DNA templates (>60% G+C) using a 4-additive cock
 6. **"Slowdown" PCR is last resort** — requires 7-deaza-2′-deoxyguanosine + specific ramp rates ^[raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md]
 
 ## Related Pages
-- See [[pcr]] for general PCR protocols
+- See [pcr](concepts/pcr.md) for general PCR protocols

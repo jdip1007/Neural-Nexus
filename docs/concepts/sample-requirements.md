@@ -25,7 +25,7 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[method-performance]] — Performance depends on sample quality
-- [[laboratory-verification]] — Verification sample requirements
-- [[laboratory-validation]] — Validation sample requirements
-- [[quality-control]] — QC sample requirements
+- [method-performance](concepts/accreditation/method-performance.md) — Performance depends on sample quality
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Verification sample requirements
+- [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Validation sample requirements
+- [quality-control](concepts/quality-control.md) — QC sample requirements

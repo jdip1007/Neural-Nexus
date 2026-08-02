@@ -35,7 +35,7 @@ reviewed: 2026-07-31
 
 ## Related
 
-- [[clia-regulations]] — CLIA safety requirements
-- [[accreditation/index|Laboratory Accreditation]] — Accreditation requires risk assessment
-- [[quality-control]] — Risk assessment complements QC
-- [[laboratory-director]] — Director oversees risk assessment
+- [clia-regulations](concepts/accreditation/clia-regulations.md) — CLIA safety requirements
+- [Laboratory Accreditation](findings/index.md) — Accreditation requires risk assessment
+- [quality-control](concepts/quality-control.md) — Risk assessment complements QC
+- [laboratory-director](concepts/laboratory-director.md) — Director oversees risk assessment

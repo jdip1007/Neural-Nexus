@@ -131,21 +131,21 @@ Unlike pure term life insurance, savings policies promise both protection and re
 # Related Concepts
 
 ## Direct Alternatives
-- [[term-life-insurance]] - Pure protection without investment component
-- [[investment-vehicles]] - Index funds, ETFs, mutual funds for growth
-- [[emergency-fund]] - Liquid savings for unexpected expenses
+- [term-life-insurance](concepts/term-life-insurance.md) - Pure protection without investment component
+- [investment-vehicles](concepts/investment-vehicles.md) - Index funds, ETFs, mutual funds for growth
+- [emergency-fund](concepts/emergency-fund.md) - Liquid savings for unexpected expenses
 
 ## Related Financial Products
-- [[endowment-policies]] - Similar structure with fixed maturity dates
-- [[universal-life]] - More flexible premium payments and coverage adjustments
-- [[annuities]] - Guaranteed income products (some hybrid products combine features)
-- [[bowtie-insurance]]
-- [[savings-insurance-hong-kong-myths-exposed]]
+- [endowment-policies](concepts/endowment-policies.md) - Similar structure with fixed maturity dates
+- [universal-life](concepts/universal-life.md) - More flexible premium payments and coverage adjustments
+- [annuities](concepts/annuities.md) - Guaranteed income products (some hybrid products combine features)
+- [bowtie-insurance](entities/bowtie-insurance.md)
+- [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
 ## Core Concepts
-- [[opportunity-cost]] - Trade-offs from locked-up capital
-- [[investment-risk]] - Understanding risk-return profiles
-- [[financial-planning]] - Comprehensive approach to wealth building and protection
-- [[insurance-commissions]] - Impact of sales incentives on product recommendations
+- [opportunity-cost](concepts/opportunity-cost.md) - Trade-offs from locked-up capital
+- [investment-risk](concepts/investment-risk.md) - Understanding risk-return profiles
+- [financial-planning](concepts/financial-planning.md) - Comprehensive approach to wealth building and protection
+- [insurance-commissions](concepts/insurance-commissions.md) - Impact of sales incentives on product recommendations
 
 # Key Considerations for Evaluation
 

@@ -150,9 +150,9 @@ APOE is at the center of AD genetics, pathophysiology, and therapeutics. Underst
 
 ## Related Concepts
 
-- [[amyloid-beta]]: APOE modulates Aβ aggregation and clearance^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-- [[tau-pathology]]: APOE4 exacerbates tau pathology
-- [[neuroinflammation]]: APOE genotype influences inflammatory responses
+- [amyloid-beta](concepts/amyloid-beta.md): APOE modulates Aβ aggregation and clearance^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
+- [tau-pathology](concepts/tau-pathology.md): APOE4 exacerbates tau pathology
+- [neuroinflammation](concepts/neuroinflammation.md): APOE genotype influences inflammatory responses
 - : APOE-targeted gene therapy under development^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 - : APOE modifies biomarker trajectories; used in risk stratification
 

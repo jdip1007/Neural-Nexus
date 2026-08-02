@@ -86,7 +86,7 @@ Findings from Takahashi, Ikoma & Matsui (2026) suggest the ANLS efficiency varie
 
 ## Related
 
-- [[rem-sleep-energy-paradox]] — The paradox that arises when ANLS appears disrupted during REM
-- [[neurovascular-coupling]] — How blood flow changes relate to neuronal activity
-- [[brain-energy-metabolism]] — Overall energy dynamics in the brain
-- [[energy-paradox-rem-sleep-2026]] — Source reading
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — The paradox that arises when ANLS appears disrupted during REM
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — How blood flow changes relate to neuronal activity
+- [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — Overall energy dynamics in the brain
+- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading

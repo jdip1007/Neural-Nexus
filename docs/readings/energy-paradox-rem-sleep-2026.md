@@ -46,7 +46,7 @@ During REM sleep, brain blood volume increases dramatically, astrocytic pyruvate
 - During NREM, astrocytic pyruvate and neuronal ATP are relatively stable
 - During REM, the astrocyte-neuron energy relationship becomes partially reciprocal
 - Astrocytes may consume more pyruvate for their own oxidative metabolism during REM, reducing metabolite availability for neuronal transfer
-- The [[astrocyte-neuron-lactate-shuttle]] (ANLS) may be less efficient during REM
+- The [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) (ANLS) may be less efficient during REM
 
 ### 5. Vascular Wave Propagation
 - NREM: Fast anterior-to-posterior vascular waves (~4–5 s propagation)
@@ -76,18 +76,18 @@ During REM sleep, brain blood volume increases dramatically, astrocytic pyruvate
 
 ## Entities & Concepts Mentioned
 
-- [[ko-matsui]] — Senior/corresponding author
-- [[yusuke-takahashi]] — First author
-- [[yoko-ikoma]] — Co-author
-- [[tohoku-university]] — Affiliated institution
-- [[rem-sleep-energy-paradox]] — Core concept
-- [[neurovascular-coupling]] — Brain-blood volume relationship
-- [[astrocyte-neuron-lactate-shuttle]] — ANLS mechanism
-- [[brain-blood-volume]] — BBV measurement
-- [[brain-energy-metabolism]] — Energy dynamics in the brain
-- [[theta-band-activity]] — 6–9 Hz oscillations
-- [[nrem-sleep]] — Non-REM sleep state
-- [[rem-sleep]] — REM sleep state
+- [ko-matsui](entities/ko-matsui.md) — Senior/corresponding author
+- [yusuke-takahashi](entities/yusuke-takahashi.md) — First author
+- [yoko-ikoma](entities/yoko-ikoma.md) — Co-author
+- [tohoku-university](entities/tohoku-university.md) — Affiliated institution
+- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — Core concept
+- [neurovascular-coupling](concepts/neurovascular-coupling.md) — Brain-blood volume relationship
+- [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) — ANLS mechanism
+- [brain-blood-volume](concepts/brain-blood-volume.md) — BBV measurement
+- [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — Energy dynamics in the brain
+- [theta-band-activity](concepts/theta-band-activity.md) — 6–9 Hz oscillations
+- [nrem-sleep](concepts/nrem-sleep.md) — Non-REM sleep state
+- [rem-sleep](concepts/rem-sleep.md) — REM sleep state
 
 ## Takeaways
 

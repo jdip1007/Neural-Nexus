@@ -181,15 +181,15 @@ Interest rate policy refers to the decisions made by central banks and monetary 
 
 ## Related Concepts
 
-- [[wealth-concentration]]
-- [[generational-wealth-transfer]]
-- [[baby-boomers]]
-- [[economic-inequality]]
-- [[inheritance-economics]]
-- [[asset-inflation]]
-- [[demographic-economic-impact]]
-- [[housing-market-dynamics]]
-- [[labor-market-changes]]
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [baby-boomers](concepts/baby-boomers.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [inheritance-economics](concepts/inheritance-economics.md)
+- [asset-inflation](concepts/asset-inflation.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [housing-market-dynamics](concepts/housing-market-dynamics.md)
+- [labor-market-changes](concepts/labor-market-changes.md)
 
 ## Critical Questions
 

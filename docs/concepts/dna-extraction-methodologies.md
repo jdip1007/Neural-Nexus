@@ -114,23 +114,23 @@ Modern DNA extraction methodologies have evolved significantly:
 - [molecular-biology](concepts/molecular-biology.md) — Field that relies on DNA extraction techniques
 - [genomics](concepts/genomics.md) — Application domain requiring high-quality DNA
 - [sample-preparation](concepts/sample-preparation.md) — Essential precursor to extraction
-- [[dna-extraction]] — Fundamental technique being described
-- [[nanopore-sequencing]] — Downstream application requiring quality DNA
-- [[tissue-specific-dna-extraction]] — Specialized extraction methodology
-- [[environmental-dna-analysis]] — Application to environmental samples
-- [[pcr]] — Common downstream application
-- [[24hr-genome-e2e-promethion-document]]
-- [[cell-line-dna-pure-extraction-method]]
-- [[genomics]]
-- [[cell-free-dna-cfdna-info-sheet]]
-- [[environmental-water-edna-extraction-method]]
-- [[adaptive-sampling-document]]
-- [[molecular-biology]]
-- [[sample-preparation]]
-- [[colony-pcr-dna-extraction-method]]
-- [[cell-line-culture]]
-- [[cell-line-dna-qgn-extraction-method]]
-- [[brain-tissue-dna-extraction-method]]
+- [dna-extraction](concepts/dna-extraction.md) — Fundamental technique being described
+- [nanopore-sequencing](concepts/nanopore-sequencing.md) — Downstream application requiring quality DNA
+- [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md) — Specialized extraction methodology
+- [environmental-dna-analysis](concepts/environmental-dna-analysis.md) — Application to environmental samples
+- [pcr](concepts/pcr.md) — Common downstream application
+- [24hr-genome-e2e-promethion-document](raw/articles/24hr-genome-e2e-promethion-document.md)
+- [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
+- [genomics](concepts/genomics.md)
+- [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
+- [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+- [adaptive-sampling-document](raw/articles/adaptive-sampling-document.md)
+- [molecular-biology](concepts/molecular-biology.md)
+- [sample-preparation](concepts/sample-preparation.md)
+- [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md)
+- [cell-line-culture](concepts/cell-line-culture.md)
+- [cell-line-dna-qgn-extraction-method](raw/articles/cell-line-dna-qgn-extraction-method.md)
+- [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
 ## Sources
 
 - ^[raw/articles/cell-line-dna-pure-extraction-method.md]

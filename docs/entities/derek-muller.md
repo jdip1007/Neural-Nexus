@@ -16,12 +16,12 @@ reviewed: 2026-07-31
 
 ## Overview
 
-**Derek Muller** is a science communicator, physicist, and creator of the [[veritasium]] YouTube channel. He produces high-quality educational science videos that combine rigorous scientific accuracy with engaging explanations and visual demonstrations.^[raw/videos/one-billion-heartbeats-veritasium.md]
+**Derek Muller** is a science communicator, physicist, and creator of the [veritasium](entities/veritasium.md) YouTube channel. He produces high-quality educational science videos that combine rigorous scientific accuracy with engaging explanations and visual demonstrations.^[raw/videos/one-billion-heartbeats-veritasium.md]
 
 ## Key Facts
 
 - **Profession:** Science communicator, physicist, educator
-- **Primary Channel:** [[veritasium]] (21 million+ subscribers)
+- **Primary Channel:** [veritasium](entities/veritasium.md) (21 million+ subscribers)
 - **Co-host:** Henry van Dyck (for some videos)
 - **Approach:** Expert consultation, in-depth explanations, visual demonstrations
 - **Significance:** Leading figure in science communication on YouTube
@@ -124,7 +124,7 @@ Balancing competing goals:
 ## Relationships
 
 **Organization:**
-- **Creator of:** [[veritasium]] - Popular science YouTube channel
+- **Creator of:** [veritasium](entities/veritasium.md) - Popular science YouTube channel
 
 **Collaborators:**
 - **Henry van Dyck** - Co-host for some videos
@@ -142,9 +142,9 @@ Balancing competing goals:
 
 ## In This Wiki
 
-- **Creator of:** [[veritasium]] - Science YouTube channel
+- **Creator of:** [veritasium](entities/veritasium.md) - Science YouTube channel
 - **Related to:** All science topics covered in Veritasium videos
-- **Created:** [[one-billion-heartbeats-veritasium]] - Video summary in readings
+- **Created:** [one-billion-heartbeats-veritasium](raw/videos/one-billion-heartbeats-veritasium.md) - Video summary in readings
 
 ## Further Reading
 
