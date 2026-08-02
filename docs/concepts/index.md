@@ -21,12 +21,12 @@ Concepts are fundamental ideas, principles, and frameworks that form the foundat
 #### Celebrity Privacy and Media Ethics
 - **Focus**: Privacy rights and media responsibility for public figures
 - **Key Insights**: Blackmail prevention, media ethics, digital rights
-- **Related**: [[media-law]], [[digital-rights]], [[legal-ethics]]
+- **Related**: [[celebrity-privacy-media-ethics]]
 
 #### DangerousPerson2.0 Channel Research Project
 - **Focus**: Methodology and findings from integrating YouTube legal content
 - **Key Insights**: Transcript processing, case analysis, knowledge integration
-- **Related**: [[research-methodology]], [[legal-education]], [[crime-investigation]]
+- **Related**: [[dangerous-person-2-0-research-project]], [[dangerous-person-2-0-research-overview]], [[knowledge-preservation]]
 
 ## Browse Concepts
 
@@ -43,7 +43,6 @@ Concepts are fundamental ideas, principles, and frameworks that form the foundat
 - [[nanopore-sequencing]] - Nanopore sequencing technologies
 
 ### Research and Methodology
-- [[research-methodology]] - Research approaches and methodologies
 - [[knowledge-preservation]] - Knowledge preservation strategies
 - [[reproducibility-crisis]] - Challenges in research reproducibility
 - [[dangerous-person-2-0-research-project]] - YouTube channel integration case study
