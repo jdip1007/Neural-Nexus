@@ -193,8 +193,26 @@ The Multimodal Treatment Study of ADHD (MTA) is the landmark longitudinal RCT. K
 
 ADHD is one of the most prevalent neurodevelopmental conditions worldwide, with massive personal, familial, and economic costs. Understanding it requires multiple levels of analysis — spanning genes, neurotransmission, brain pathways, individual skill levels, family socialization, peer relationships, and educational and cultural forces — which must be integrated to surpass reductionist accounts, reduce stigma, and maximize the impact of prevention and intervention efforts.^[raw/articles/hinshaw-2018-adhd-review.md]
 
+## Treatment and Medications
+
+### First-Line Medications
+**Stimulant medications** constitute the first-line treatment for ADHD, with response rates of 70-80% for acute symptom reduction. Vyvanse (lisdexamfetamine dimesylate) is a Schedule II controlled substance and CNS stimulant that acts as a prodrug, converting to dextroamphetamine to increase dopamine and norepinephrine neurotransmission.
+
+### Key Medication Characteristics
+| Medication | Class | Mechanism | Duration | Abuse Potential |
+|------------|-------|-----------|----------|----------------|
+| **Vyvanse** | Amphetamine prodrug | Dopamine/norepinephrine release | 10-14 hours | High (CII) |
+| Other stimulants | Various | Similar mechanisms | Variable | High (CII) |
+
+### MTA Study Findings
+The landmark Multimodal Treatment Study of ADHD (MTA) demonstrated:
+- 14-month trial: Carefully monitored medication + behavioral intervention superior for promoting competencies
+- Long-term follow-up: Initial benefits diminish without continued treatment
+- Medication alone insufficient for functional outcomes (academic, social, emotional)
+
 ## Related
 
+- [vyvanse](concepts/vyvanse.md) — Specific medication for ADHD treatment
 - [executive-function](concepts/executive-function.md) — Core cognitive mechanism in ADHD
 - [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — Comorbidity patterns in psychiatric disorders
 - [prefrontal-cortex-development](concepts/prefrontal-cortex-development.md) — Delayed cortical maturation in ADHD

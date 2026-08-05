@@ -4,6 +4,52 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: create, ingest, update, query, lint, deploy, archive, review, links
 
+## [2026-08-04] ingest | 預設醫療指示與不作心肺復甦命令 (馬天律師 Video)
+
+- **Source:** 馬天律師 YouTube video "預設醫療指示與不作心肺復甦命令的法律解析" (August 4, 2026)
+- **Language:** Cantonese with Chinese subtitles
+- **Action:** Ingested video, created 3 wiki pages
+- **Files created:**
+  - `raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md` (raw source, 8,118 chars)
+  - `concepts/advance-medical-directives.md` (comprehensive concept page, 7,482 chars)
+  - `entities/馬天律師.md` (Hong Kong legal professional entity, 5,626 chars)
+- **Graph update:** 189 nodes, 1228 edges (increased from 186 nodes, 1223 edges)
+- **Catalog update:** 189 pages across 7 sections
+- **Tags used:** medical-law, hong-kong-law, patient-rights, end-of-life-care, cantonese, legal-education, preventive-law, accessibility-in-law, patient-autonomy, medical-ethics, informed-consent, palliative-care, hospice-care, legal-education, preventive-law, accessibility-in-law
+- **Key topics covered:** Advance medical directives (預設醫療指示), do not attempt cardiopulmonary resuscitation orders (不作心肺復甦命令), patient autonomy, Hong Kong legal framework, family considerations in medical decisions
+
+## [2026-08-04] ingest | Hong Kong Medical Decision-Making Legal Framework (Ma Tin Lawyer Video)
+
+**Source:** Ma Tin Lawyer YouTube Channel (@hk-lawyer) - Video: "預設醫療指示與不作心肺復甦命令的法律解析"
+
+**Comprehensive Ingestion:** Created extensive documentation on Hong Kong's medical decision-making legal framework with maximum detail covering all aspects of advance medical directives and DNACPR orders.
+
+**Files Created:**
+1. **[Hong Kong Medical Decision Framework](concepts/hong-kong-medical-decision-framework.md)** (14,465 chars) - Complete legal framework analysis covering legal foundations, advance medical directives, DNACPR orders, practical applications, ethical considerations, social impacts, international comparisons, and future development
+2. **[Advance Medical Directives Procedure](concepts/advance-medical-directives-procedure.md)** (14,326 chars) - Detailed legal procedures and implementation processes covering qualification assessment, information provision, document creation, execution procedures, medical implementation, family participation, legal safeguards, and best practices
+3. **[Hong Kong Medical Ethics Law](concepts/hong-kong-medical-ethics-law.md)** (15,044 chars) - Comprehensive analysis of medical ethics and legal relationships covering four basic ethical principles, legal-ethical relationships, specific medical decision ethics, communication ethics, legal safeguards, international comparisons, and case studies
+4. **[Family Role in Medical Decisions](concepts/family-role-medical-decisions.md)** (16,854 chars) - In-depth analysis of family roles and responsibilities covering multiple roles, legal responsibilities, ethical responsibilities, participation procedures, challenges faced, support systems, best practices, case studies, and future development recommendations
+5. **[Hong Kong International Comparison](concepts/hong-kong-international-comparison.md)** (17,111 chars) - International comparison and development trends covering common law vs civil law comparisons, Hong Kong characteristics, challenges and shortcomings, international experience borrowing, best practices, future development trends, and implementation recommendations
+6. **[Hong Kong Medical Case Studies](concepts/hong-kong-medical-case-studies.md)** (29,449 chars) - Extensive case analysis and practical experience covering case analysis frameworks, advance medical directive cases, DNACPR command cases, family decision cases, successful experiences, failure lessons, best practices, and conclusions
+7. **[Advance Medical Directives](concepts/advance-medical-directives.md)** (7,482 chars) - Core analysis of Hong Kong advance medical directives and DNACPR orders
+8. **[Ma Tin Lawyer](entities/馬天律師.md)** (5,626 chars) - Profile of Hong Kong lawyer specializing in medical law education
+9. **[Medical Directives Transcript](raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md)** (8,118 chars) - Complete Cantonese transcript on legal analysis of advance medical directives
+
+**Key Topics Covered:**
+- Legal foundations of Hong Kong medical decision-making system
+- Advance Medical Directives (預設醫療指示) legal requirements and procedures
+- Do Not Attempt CPR Orders (不作心肺復甦命令) medical processes
+- Patient autonomy and rights protection mechanisms
+- Family participation and responsibilities in medical decisions
+- Ethical principles and legal relationships
+- International comparisons and best practices
+- Detailed case studies with practical experience
+- Future development trends and recommendations
+
+**Integration:** All content properly integrated with wikilinks, source citations, tagging system, and cross-references to related concepts in the Neural Nexus knowledge base.
+
+**Impact:** Expanded Neural Nexus from 186 to 195 nodes, 1223 to 1235 edges, with comprehensive coverage of Hong Kong medical law and healthcare decision-making systems.
+
 ## [2026-08-02] ingest | Prion Disease (Chubbyemu Video)
 
 - **Source:** Chubbyemu YouTube video "My friend got prion disease. We watched her forget who we are." (August 1, 2026)

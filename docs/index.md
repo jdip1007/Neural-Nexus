@@ -13,14 +13,31 @@ A personal knowledge base combining:
 
 ## Browse by Type
 
-| Type | Description |
-|------|-------------|
-| [Concepts](concepts/) | Technical concepts, theories, frameworks |
-| [Entities](entities/) | People, organizations, tools, projects |
-| [Ideas](ideas/) | Raw thoughts, brainstorming |
-| [Findings](findings/) | Processed insights from research |
-| [Readings](readings/) | Summaries of books, papers, videos |
-| [Comparisons](comparisons/) | Side-by-side analyses |
+|| Type | Description ||
+||------|-------------||
+|| [Concepts](concepts/) | Technical concepts, theories, frameworks ||
+|| [Entities](entities/) | People, organizations, tools, projects ||
+|| [Ideas](ideas/) | Raw thoughts, brainstorming ||
+|| [Findings](findings/) | Processed insights from research ||
+|| [Readings](readings/) | Summaries of books, papers, videos ||
+|| [Comparisons](comparisons/) | Side-by-side analyses ||
+
+## Recent Additions
+
+### Medical Law & Healthcare
+- **[預設醫療指示與不作心肺復甦命令](concepts/advance-medical-directives.md)** - Legal framework for advance medical directives in Hong Kong, covering patient autonomy and end-of-life care decisions
+- **[馬天律師](entities/馬天律師.md)** - Hong Kong legal professional creating educational content about medical law and patient rights
+- **[香港醫療決定法律框架](concepts/hong-kong-medical-decision-framework.md)** - Comprehensive legal framework for advance medical directives and DNACPR orders in Hong Kong
+- **[預設醫療指示的法律程序和實施](concepts/advance-medical-directives-procedure.md)** - Detailed legal procedures and implementation processes for advance medical directives
+- **[香港醫療倫理和法律關係](concepts/hong-kong-medical-ethics-law.md)** - Analysis of medical ethics and legal relationships in Hong Kong healthcare
+- **[醫療決定中的家庭角色和責任](concepts/family-role-medical-decisions.md)** - Comprehensive analysis of family roles and responsibilities in medical decision-making
+- **[香港醫療決定的國際比較和發展趨勢](concepts/hong-kong-international-comparison.md)** - International comparison and development trends of Hong Kong medical decision framework
+- **[香港醫療決定的案例分析和實踐經驗](concepts/hong-kong-medical-case-studies.md)** - Detailed case analysis and practical experience of medical decision-making in Hong Kong
+
+### Legal Education
+- **[Legal Education](concepts/legal-education.md)** - Methods and approaches to legal education for the public
+- **[Preventive Law](concepts/preventive-law.md)** - Legal strategies to prevent conflicts before they arise
+- **[Accessibility in Law](concepts/accessibility-in-law.md)** - Making legal information accessible to non-lawyers
 
 ## Explore
 
