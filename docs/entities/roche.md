@@ -38,7 +38,7 @@ German pharmaceutical and diagnostics company specializing in nucleic acid extra
 - **Technology:** Magnetic bead technology^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 - **Launch:** 2009^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 - **Applications:** Clinical sample nucleic acid extraction, high-throughput workflows^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
-- **Extraction time:** ~90 minutes^[raw/laborary/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
+- **Extraction time:** ~90 minutes^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 
 ---
 

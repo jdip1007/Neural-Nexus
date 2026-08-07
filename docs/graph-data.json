@@ -4264,7 +4264,7 @@
     {
       "id": 220,
       "slug": "readings/infographics-show-boomers-inequality-2026",
-      "title": "infographics-show-boomers-inequality-2026",
+      "title": "It's Not Inflation You Should Be Watching. It's The Boomers.",
       "type": "reading",
       "classification": null,
       "domain": "finance",
@@ -4278,7 +4278,7 @@
         "generational-wealth",
         "housing-market-dynamics"
       ],
-      "updated": "1970-01-01",
+      "updated": "2026-08-07",
       "url": "/readings/infographics-show-boomers-inequality-2026/",
       "inboundLinks": 1,
       "outboundLinks": 3
@@ -7164,6 +7164,6 @@
   "metadata": {
     "totalNodes": 234,
     "totalEdges": 653,
-    "generatedAt": "2026-08-07T09:51:30.232Z"
+    "generatedAt": "2026-08-07T10:12:45.757Z"
   }
 }

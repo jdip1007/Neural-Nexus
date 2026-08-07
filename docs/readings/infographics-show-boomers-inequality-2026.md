@@ -1,12 +1,15 @@
 ---
+title: "It's Not Inflation You Should Be Watching. It's The Boomers."
 source_url: https://www.youtube.com/watch?v=D1KomlztSuA
 source_type: video
 ingested: 2026-08-02
 sha256: d1komlzt_sua_video_content
+created: 2026-08-02
+updated: 2026-08-07
 type: reading
 domain: finance
 tags: [baby-boomers, wealth-concentration, economic-inequality, asset-inflation, interest-rates, monetary-policy, generational-wealth, housing-market-dynamics]
-sources: []
+sources: [raw/videos/infographics-show-boomers-inequality-2026.md]
 confidence: high
 status: active
 reviewed: 2026-08-07
@@ -14,7 +17,7 @@ reviewed: 2026-08-07
 
 # It's Not Inflation You Should Be Watching. It's The Boomers.
 
-**Source:** The Infographics Show, YouTube. Published June 22, 2026. 256,884 views ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+**Source:** The Infographics Show, YouTube. Published June 22, 2026. 256,884 views 
 
 ## TL;DR
 
@@ -49,28 +52,28 @@ The real story isn't inflation—it's **who owns everything while everyone else 
 ## Core Arguments
 
 ### 1. Generational Wealth Transfer
-- Baby Boomers control unprecedented levels of wealth ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-- High interest rates benefit asset owners more than borrowers ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-- Inheritance patterns are reshaping economic opportunity ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+- Baby Boomers control unprecedented levels of wealth 
+- High interest rates benefit asset owners more than borrowers 
+- Inheritance patterns are reshaping economic opportunity 
 
 ### 2. Asset Inflation Legacy
-- Decades of asset price growth created wealth concentration ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-- Housing markets transformed by cash buyers and generational wealth ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-- Traditional economic metrics miss generational wealth dynamics ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+- Decades of asset price growth created wealth concentration 
+- Housing markets transformed by cash buyers and generational wealth 
+- Traditional economic metrics miss generational wealth dynamics 
 
 ### 3. Policy Paradox
-- Policies designed to slow spending may enrich the wealthy ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-- High interest rates help those with existing assets ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-- "Reverse Robin Hood" effect: taking from future generations to benefit current asset owners ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+- Policies designed to slow spending may enrich the wealthy 
+- High interest rates help those with existing assets 
+- "Reverse Robin Hood" effect: taking from future generations to benefit current asset owners 
 
 ### 4. Demographic Economic Impact
-- Baby Boomer demographic bulge affects economic outcomes ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-- Labor market changes reflect generational shifts ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-- Future economic "demographic wall" as Boomers transition wealth ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+- Baby Boomer demographic bulge affects economic outcomes 
+- Labor market changes reflect generational shifts 
+- Future economic "demographic wall" as Boomers transition wealth 
 
 ## Sources
 
-The video references sources available at: https://pastebin.com/KG6ZNMz ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+The video references sources available at: https://pastebin.com/KG6ZNMz 
 
 ## Production Details
 
@@ -84,9 +87,9 @@ The video references sources available at: https://pastebin.com/KG6ZNMz ^[https:
 
 - **Comments:** 1,870 comments showing strong public engagement
 - **Notable Comment Themes:**
-  - "Born too early to explore the universe. Born too late to afford a basic necessity" ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-  - "The real divide isn't just income anymore, it's ownership" ^[https://www.youtube.com/watch?v=D1KomlztSuA]
-  - Generational frustration and economic anxiety ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+  - "Born too early to explore the universe. Born too late to afford a basic necessity" 
+  - "The real divide isn't just income anymore, it's ownership" 
+  - Generational frustration and economic anxiety 
 
 ## Related Concepts
 
@@ -107,17 +110,17 @@ The video references sources available at: https://pastebin.com/KG6ZNMz ^[https:
 
 ## Takeaways
 
-1. **Wealth concentration is the real story:** $79 trillion controlled by Boomers dwarfs traditional economic concerns like inflation ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+1. **Wealth concentration is the real story:** $79 trillion controlled by Boomers dwarfs traditional economic concerns like inflation 
 
-2. **Interest rates help the wealthy:** High rates generate massive interest income for asset owners, creating a "Reverse Robin Hood" effect ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+2. **Interest rates help the wealthy:** High rates generate massive interest income for asset owners, creating a "Reverse Robin Hood" effect 
 
-3. **Housing markets are generational:** Cash buyers and inheritance are transforming who can afford homes ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+3. **Housing markets are generational:** Cash buyers and inheritance are transforming who can afford homes 
 
-4. **Labor market decline:** Economic changes have reduced labor's share of economic gains ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+4. **Labor market decline:** Economic changes have reduced labor's share of economic gains 
 
-5. **Future demographic reckoning:** As Boomers transfer wealth, economic structures will face significant changes ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+5. **Future demographic reckoning:** As Boomers transfer wealth, economic structures will face significant changes 
 
-6. **Policy paradox:** Intended economic policies often have opposite effects due to wealth concentration ^[https://www.youtube.com/watch?v=D1KomlztSuA]
+6. **Policy paradox:** Intended economic policies often have opposite effects due to wealth concentration 
 
 ## Critical Questions
 

@@ -156,7 +156,7 @@ Labor market changes refer to the evolving dynamics of work, employment, compens
 | Metric | Value | Source |
 |--------|-------|--------|
 | Boomer wealth control | ~$79 trillion | Infographics Show (2026) ^[readings/infographics-show-boomers-inequality-2026.md] |
-| Annual interest income | Hundreds of billions | Infographics Show (2026) ^[readings/infographics-show-boomers-2026.md] |
+| Annual interest income | Hundreds of billions | Infographics Show (2026) ^[readings/infographics-show-boomers-inequality-2026.md] |
 | Wealth concentration level | Modern American history high | Infographics Show (2026) ^[readings/infographics-show-boomers-inequality-2026.md] |
 | Public engagement | 7.2K likes, 1,870 comments | YouTube data ^[readings/infographics-show-boomers-inequality-2026.md] |
 

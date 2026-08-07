@@ -48,7 +48,7 @@ French in vitro diagnostics company specializing in nucleic acid extraction plat
 - **Features:**
   - Direct extraction from primary tubes (1.5-14 mL)
   - Built-in barcode reader (enables simple workflow with barcoded tubes)^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
-  - Dual independently operated 24-sample subunits^[raw/laborary/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
+  - Dual independently operated 24-sample subunits^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
   - Direct transfer to PCR strips or storage tubes^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 - **Extraction time:** ~90 minutes^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 - **Target laboratories:** Medium-sized laboratories^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]

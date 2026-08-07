@@ -187,3 +187,13 @@
   - **Precision Medicine**: Framework, applications in ADHD, ethical considerations, implementation strategies
 - **SCHEMA.md update:** Added 8 new tags to taxonomy: twin-studies, family-studies, biostatistics, population-genetics, computational-biology, case-control, complex-traits, personalized-medicine
 - **Catalog update:** Added to research-methodology.genetics and research-methodology.healthcare sections
+## [2026-08-07] audit | Full Neural Nexus Audit & Fix
+
+- **Lint warnings:** 655 → 176 (fixed 479)
+- **Tag taxonomy:** Added 130+ missing tags to SCHEMA.md
+- **Metadata:** Fixed domain/classification on 10 pages, reviewed on 9 pages
+- **Graph:** 49 → 653 edges, 210 → 0 orphan pages
+- **Broken paths:** Fixed typo laborary→laboratory, wrong citation path, vyvanse sources
+- **Dead files:** Removed wikilinks_plugin.py duplicate
+- **Frontmatter:** Added title/created/updated to infographics reading
+- **Remaining warnings:** 92 broken wikilinks (pages not yet created), 30 no-sources concepts, 50 large pages
