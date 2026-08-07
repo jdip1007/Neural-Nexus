@@ -135,3 +135,9 @@ Generational wealth transfer refers to the movement of assets, property, and fin
 - **Policy Evolution:** Need for new economic frameworks addressing generational dynamics ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Opportunity Reforms:** Potential for policies to create more level economic playing fields ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Wealth Redesign:** Possible rethinking of how wealth is created and distributed across generations ^[readings/infographics-show-boomers-inequality-2026.md]
+
+## Related Pages
+
+- [[reverse-robin-hood-heist]]
+- [[wealth-concentration]]
+- [[asset-inflation]]

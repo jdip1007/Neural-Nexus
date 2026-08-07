@@ -39,3 +39,8 @@ backlinks: []
 - [annuities](concepts/annuities.md)
 - [opportunity-cost](concepts/opportunity-cost.md)
 - [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
+
+## Related Pages
+
+- [[savings-insurance]]
+- [[annuities]]

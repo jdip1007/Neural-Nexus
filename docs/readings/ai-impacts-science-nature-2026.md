@@ -88,3 +88,6 @@ Individual gains vs. collective contraction. AI optimizes known problems, reinfo
 - [james-evans](entities/james-evans.md) - Corresponding author
 - [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) - Knowledge preservation and systems
 - [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md) - Knowledge preservation systems
+## Related Pages
+- [[knowledge-preservation]]
+- [[neural-nexus]]

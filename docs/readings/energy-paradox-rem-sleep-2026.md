@@ -104,3 +104,9 @@ During REM sleep, brain blood volume increases dramatically, astrocytic pyruvate
 > "Theta-band ECoG activity during NREM sleep reliably predicts subsequent BBV fluctuations, suggesting a homeostatic mechanism that dynamically adjusts energy delivery to match ongoing neuronal demands."
 
 > "The delicate balance between energy consumption and supply breaks down during the transition to REM sleep."
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[nrem-sleep]]
+- [[ko-matsui]]

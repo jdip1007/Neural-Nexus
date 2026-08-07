@@ -51,3 +51,9 @@ Three-layer structure:
 - [Knowledge Preservation](concepts/knowledge-preservation.md)
 - [Reproducibility Crisis](concepts/reproducibility-crisis.md)
 - [molecular-biology](concepts/molecular-biology.md)
+
+## Related Pages
+
+- [[concepts/molecular-biology]]
+- [[references/setup-guide]]
+- [[references/writing-guide]]

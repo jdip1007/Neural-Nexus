@@ -187,3 +187,8 @@ Demographic economic impact refers to how changes in population structure, age d
 - **Policy analysis** of effective interventions for demographic economic issues
 - **International comparison** of demographic economic patterns and impacts
 - **Behavioral research** on how demographic changes affect individual decision-making
+
+## Related Pages
+
+- [[baby-boomers]]
+- [[demographic-wall]]

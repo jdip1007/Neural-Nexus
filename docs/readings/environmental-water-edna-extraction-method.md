@@ -132,3 +132,9 @@ This method enables revolutionary environmental monitoring:
 - [genomics](concepts/genomics.md)
 - [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
 - [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+
+## Related Pages
+
+- [[conservation-biology]]
+- [[environmental-monitoring]]
+- [[dna-extraction]]

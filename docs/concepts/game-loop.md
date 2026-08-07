@@ -26,3 +26,9 @@ Discussed in [optimisation-techniques-small-scale-simulation](concepts/optimisat
 - [optimisation-techniques-small-scale-simulation](concepts/optimisation-techniques-small-scale-simulation.md) — Optimisation techniques
 - [cellular-automata](concepts/cellular-automata.md) — Simulation model
 - [canvas-rendering](concepts/canvas-rendering.md) — Rendering layer
+
+## Related Pages
+
+- [[concepts/optimisation-techniques-small-scale-simulation]]
+- [[concepts/cellular-automata]]
+- [[concepts/canvas-rendering]]

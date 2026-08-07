@@ -275,3 +275,8 @@ The concept demonstrates how technological innovation can drive legal evolution 
 - [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md) — Privacy and media ethics
 - [x-television-celebrity](entities/x-television-celebrity.md)
 - [psychology](concepts/psychology.md)
+## Related Pages
+
+- [[celebrity-privacy-media-ethics]]
+- [[criminal-psychology-behavior-patterns]]
+- [[dangerous-person-2-0-research-project]]

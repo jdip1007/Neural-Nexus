@@ -178,3 +178,7 @@ The crisis stems from fundamental inadequacies in how research outputs are docum
 
 - [knowledge-preservation](concepts/knowledge-preservation.md) — Knowledge preservation strategies
 - [penn-rainford](entities/penn-rainford.md) — Researcher in reproducibility
+## Related Pages
+
+- [[knowledge-preservation]]
+- [[neural-nexus]]

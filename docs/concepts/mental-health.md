@@ -36,3 +36,9 @@ backlinks: []
 - [how-trauma-splits-a-soul](concepts/how-trauma-splits-a-soul.md) — Trauma and dissociative identity
 - [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md) — ADHD
 - [the-most-misdiagnosed-condition-in-mental-health](concepts/the-most-misdiagnosed-condition-in-mental-health.md) — Misdiagnosis
+
+## Related Pages
+
+- [[relationships]]
+- [[psychology]]
+- [[adhd]]

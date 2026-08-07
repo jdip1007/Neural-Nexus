@@ -38,3 +38,8 @@ Theta-band activity refers to neural oscillations in the 6–9 Hz frequency rang
 - [nrem-sleep](concepts/nrem-sleep.md) — Intermittent theta with predictive coupling
 - [brain-blood-volume](concepts/brain-blood-volume.md) — The vascular response to theta activity
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[nrem-sleep]]

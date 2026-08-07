@@ -80,3 +80,9 @@ The hemodynamic response function (HRF) models how neuronal activity translates 
 - [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — The metabolic component
 - [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) — Astrocyte-mediated energy delivery
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[nrem-sleep]]
+- [[theta-band-activity]]

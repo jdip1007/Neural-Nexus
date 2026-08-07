@@ -115,3 +115,9 @@ Modern DNA extraction has evolved significantly:
 ## Sources
 
 - ^[raw/articles/cell-line-dna-pure-extraction-method.md]
+
+## Related Pages
+
+- [[sample-preparation]]
+- [[molecular-biology]]
+- [[genomics]]

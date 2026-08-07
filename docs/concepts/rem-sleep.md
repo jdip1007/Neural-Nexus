@@ -39,3 +39,9 @@ Rapid eye movement (REM) sleep is a distinct sleep stage characterized by promin
 - [neurovascular-coupling](concepts/neurovascular-coupling.md) — State-dependent blood flow regulation
 - [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — Overall brain energy dynamics
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+
+## Related Pages
+
+- [[concepts/nrem-sleep]]
+- [[concepts/rem-sleep-energy-paradox]]
+- [[concepts/theta-band-activity]]

@@ -196,3 +196,9 @@ Tau pathology is the strongest correlate of cognitive impairment in AD. Unlike [
 | Anti-tau antibodies will inevitably work | Multiple candidates have failed; need better understanding of pathogenic species^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md] |
 | Tau spreads only cell-autonomously | Non-cell-autonomous mechanisms (glial cells, exosomes) are major contributors^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md] |
 | PTMs are random events | Specific ordered addition of PTMs associated with aggregation and disease progression^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md] |
+
+## Related Pages
+
+- [[concepts/amyloid-beta]]
+- [[readings/recent-advances-alzheimers-disease-cell-review-2026]]
+- [[concepts/apoe]]

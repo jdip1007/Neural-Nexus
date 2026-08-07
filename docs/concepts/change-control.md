@@ -39,3 +39,8 @@ reviewed: 2026-07-31
 - [quality-control](concepts/quality-control.md) — Monitors post-change performance
 - [clia-regulations](concepts/accreditation/clia-regulations.md) — Regulatory change requirements
 - [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Revalidation triggers
+
+## Related Pages
+
+- [[bridging-studies]]
+- [[performance-characteristics]]

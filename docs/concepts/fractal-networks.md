@@ -35,3 +35,9 @@ The fractal network model explains why metabolic rate scales as M^(3/4) rather t
 - [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
 - [geoffrey-west](entities/geoffrey-west.md) — Co-developer of fractal network model
 - [brian-enquist](entities/brian-enquist.md) — Co-developer
+
+## Related Pages
+
+- [[wbe-theory]]
+- [[surface-law]]
+- [[metabolic-scaling]]

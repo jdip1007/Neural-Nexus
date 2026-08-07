@@ -161,3 +161,8 @@ Sample preparation is crucial because:
 
 ---
 *Last updated: July 19, 2026*
+
+## Related Pages
+
+- [[environmental-monitoring]]
+- [[molecular-biology]]

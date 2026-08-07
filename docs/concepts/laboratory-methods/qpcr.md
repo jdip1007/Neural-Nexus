@@ -38,3 +38,9 @@ Quantitative real-time polymerase chain reaction (qPCR) - a molecular biology te
 - [qpcr-performance-characteristics](concepts/laboratory-performance/qpcr-performance-characteristics.md)
 - [respiratory-virus-testing](concepts/clinical-testing/respiratory-virus-testing.md)
 - [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md)
+
+## Related Pages
+
+- [[concepts/clinical-testing/respiratory-virus-testing]]
+- [[readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019]]
+- [[concepts/bioinformatics-validation]]

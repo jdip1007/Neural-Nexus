@@ -3,7 +3,7 @@ title: Roche
 created: 2026-08-01
 updated: 2026-08-01
 type: entity
-classification: organization
+classification: organization.manufacturer
 domain: laboratory
 tags: [manufacturer, laboratory-equipment, nucleic-acid-extraction, in-vitro-diagnostics]
 sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
@@ -118,3 +118,9 @@ German pharmaceutical and diagnostics company specializing in nucleic acid extra
 [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md) - Platform comparison and selection criteria
 [emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md) - Clinical validation study
 [biomerieux](entities/biomerieux.md) - Competitor (easyMAG and eMAG manufacturer)
+
+## Related Pages
+
+- [[nucleic-acid-extraction-platforms]]
+- [[biomerieux]]
+- [[laboratory-automation]]

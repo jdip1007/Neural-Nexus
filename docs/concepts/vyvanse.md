@@ -237,3 +237,8 @@ Lisdexamfetamine dimesylate is a prodrug that is converted to dextroamphetamine,
 - [binge-eating-disorder](concepts/binge-eating-disorder.md) — BED indication
 - [controlled-substances](concepts/controlled-substances.md) — Regulatory classification
 - [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) — Comorbidity patterns
+## Related Pages
+
+- [[adhd]]
+- [[mental-health]]
+- [[executive-function]]

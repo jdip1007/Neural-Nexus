@@ -50,3 +50,8 @@ Ko Matsui is a Japanese neuroscientist and the principal investigator of the Sup
 - [yusuke-takahashi](entities/yusuke-takahashi.md) — First author on the REM sleep paper
 - [yoko-ikoma](entities/yoko-ikoma.md) — Co-author on the REM sleep paper
 - [tohoku-university](entities/tohoku-university.md) — Affiliated institution
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[tohoku-university]]

@@ -101,3 +101,9 @@ This method is particularly valuable for:
 - [brain-tissue-dna-extraction-method](raw/articles/brain-tissue-dna-extraction-method.md)
 - [pcr](concepts/pcr.md)
 - [nanopore-sequencing](concepts/nanopore-sequencing.md)
+
+## Related Pages
+
+- [[sample-preparation]]
+- [[dna-extraction]]
+- [[molecular-biology]]

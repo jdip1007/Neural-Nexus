@@ -55,3 +55,9 @@ wanting to maintain a hands off approach.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+## Related Pages
+
+- [[youtube-q9GpzCudQb4-but-ubisoft]]
+- [[youtube-q9GpzCudQb4-brothers-ltd]]
+- [[youtube-q9GpzCudQb4-yves-guillemot]]

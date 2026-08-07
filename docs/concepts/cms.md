@@ -30,3 +30,8 @@ The **Centers for Medicare and Medicaid Services (CMS)** is the US federal agenc
 - [Laboratory Accreditation](findings/index.md) — CMS certification process
 - [proficiency-testing](concepts/proficiency-testing.md) — CMS-approved PT programs
 - [laboratory-verification](concepts/accreditation/laboratory-verification.md) — CMS verification requirements
+
+## Related Pages
+
+- [[clia-regulations]]
+- [[proficiency-testing]]

@@ -181,3 +181,9 @@ Before reporting patient test results, laboratories must verify the following pe
 - [laboratory-director](concepts/laboratory-director.md) — Key personnel requirement
 - [method-performance](concepts/accreditation/method-performance.md) — Required performance characteristics
 - [clia-waived-tests](concepts/clia-waived-tests.md) — Tests exempt from most requirements
+
+## Related Pages
+
+- [[laboratory-developed-tests]]
+- [[quality-control]]
+- [[method-performance]]

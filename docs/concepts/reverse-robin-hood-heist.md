@@ -143,3 +143,9 @@ The "Reverse Robin Hood Heist" describes how economic policies intended to help 
 - **Social change** possible rethinking of wealth and opportunity ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Policy innovation** development of new approaches to wealth distribution ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Global impact** international implications of wealth concentration ^[readings/infographics-show-boomers-inequality-2026.md]
+
+## Related Pages
+
+- [[inheritance-trap]]
+- [[wealth-concentration]]
+- [[interest-rate-policy]]

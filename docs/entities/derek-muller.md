@@ -174,3 +174,9 @@ This entity page is based primarily on the Veritasium video on metabolic scaling
 ## References
 
 - Veritasium video: "Why does every mammal get 1 billion heartbeats in their life?"^[raw/videos/one-billion-heartbeats-veritasium.md]
+
+## Related Pages
+
+- [[entities/josh-risser]]
+- [[entities/brian-enquist]]
+- [[entities/camiel-m-van-der-laan]]

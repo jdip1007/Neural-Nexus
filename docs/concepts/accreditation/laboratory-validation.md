@@ -346,3 +346,9 @@ Validation is required when:
 - [ngs-validation](concepts/ngs-validation.md) — NGS-specific validation requirements
 - [clinical-utility](concepts/clinical-utility.md) — Establishing clinical performance
 - [method-development](concepts/method-development.md) — LDT development process
+
+## Related Pages
+
+- [[change-control]]
+- [[roc-analysis]]
+- [[laboratory-developed-tests]]

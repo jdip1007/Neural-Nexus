@@ -238,3 +238,9 @@ Additional verification recommended through:
 - Academic research on insurance product performance
 - Consumer advocacy organization reports
 - Historical performance data from multiple insurance providers
+
+## Related Pages
+
+- [[opportunity-cost]]
+- [[annuities]]
+- [[bowtie-insurance]]

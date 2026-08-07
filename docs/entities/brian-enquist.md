@@ -124,3 +124,9 @@ This entity page is based primarily on Brian Enquist's contribution to the Verit
 
 - Veritasium video: "Why does every mammal get 1 billion heartbeats in their life?"^[raw/videos/one-billion-heartbeats-veritasium.md]
 - Geoffrey West's "Scale" book: https://ve42.co/ScaleBook
+
+## Related Pages
+
+- [[lifespan]]
+- [[metabolic-scaling]]
+- [[scaling-laws]]

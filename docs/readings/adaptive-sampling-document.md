@@ -128,3 +128,8 @@ Adaptive sampling represents a paradigm shift in data collection, moving from pr
 - [pcr](concepts/pcr.md)
 - [24hr-genome-e2e-promethion-document](raw/articles/24hr-genome-e2e-promethion-document.md)
 - [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+
+## Related Pages
+
+- [[adaptive-sampling]]
+- [[genomics]]

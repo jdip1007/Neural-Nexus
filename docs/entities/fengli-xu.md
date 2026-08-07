@@ -45,3 +45,8 @@ Fengli Xu is a researcher at Tsinghua University's BNRist. Xu is corresponding a
 - Corresponding author on large-scale analysis of AI's impact on scientific careers and collective science (41.3M papers)
 - Led development of two-stage fine-tuned BERT model for AI paper detection (F1=0.875)
 - Contributed to analysis of knowledge extent and follow-on engagement metrics
+
+## Related Pages
+
+- [[yong-li]]
+- [[james-evans]]

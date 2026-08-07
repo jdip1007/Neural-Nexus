@@ -29,3 +29,8 @@ reviewed: 2026-07-31
 - [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Verification sample requirements
 - [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Validation sample requirements
 - [quality-control](concepts/quality-control.md) — QC sample requirements
+
+## Related Pages
+
+- [[laboratory-verification]]
+- [[proficiency-testing]]

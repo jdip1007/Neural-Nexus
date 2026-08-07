@@ -227,3 +227,9 @@ Prions are "proteinaceous infectious particles" that propagate their misfolded c
 
 ## Notes
 This concept page is based on limited video content (title, description, references) due to transcript API unavailability. Full clinical details, molecular mechanisms, and current research directions may require additional primary literature. The video provides a compelling personal case but the full scientific depth of prion biology is not captured.^[raw/videos/prion-disease-colleague-story.md]
+
+## Related Pages
+
+- [[readings/prion-disease-colleague-story]]
+- [[concepts/amyloid-beta]]
+- [[concepts/apoe]]

@@ -137,3 +137,9 @@ Modern DNA extraction methodologies have evolved significantly:
 - ^[raw/articles/cell-line-dna-pure-extraction-method-en-13.md]
 - ^[raw/articles/cell-line-dna-qgn-extraction-method.md]
 - ^[raw/articles/cell-line-dna-qgn-extraction-method-en-13.md]
+
+## Related Pages
+
+- [[sample-preparation]]
+- [[dna-extraction]]
+- [[molecular-biology]]

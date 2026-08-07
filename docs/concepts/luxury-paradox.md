@@ -133,3 +133,9 @@ The "Luxury Paradox" describes how high interest rates intended to control infla
 - **Social change** possible rethinking of monetary policy objectives ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Policy innovation** development of approaches that balance inflation control with equity ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Global coordination** potential for addressing international wealth concentration ^[readings/infographics-show-boomers-inequality-2026.md]
+
+## Related Pages
+
+- [[economic-inequality]]
+- [[wealth-concentration]]
+- [[interest-rate-policy]]

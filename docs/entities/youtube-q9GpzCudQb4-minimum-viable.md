@@ -25,3 +25,9 @@ Mentioned in the context of research and development.
 
 ## Sources
 ^[raw/videos/youtube-q9GpzCudQb4-transcript.md] Video mention at timestamp
+
+## Related Pages
+
+- [[entities/youtube-q9GpzCudQb4-but-ubisoft]]
+- [[entities/youtube-q9GpzCudQb4-just-dance]]
+- [[entities/youtube-q9GpzCudQb4-qin-dynasty]]

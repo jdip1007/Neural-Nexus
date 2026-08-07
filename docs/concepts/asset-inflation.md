@@ -210,3 +210,9 @@ Asset inflation refers to the sustained increase in the prices of financial asse
 - **Policy analysis** of effective interventions for asset inflation
 - **International comparison** of asset inflation patterns and impacts
 - **Behavioral research** on how asset inflation affects individual decision-making
+
+## Related Pages
+
+- [[reverse-robin-hood-heist]]
+- [[inheritance-trap]]
+- [[wealth-concentration]]

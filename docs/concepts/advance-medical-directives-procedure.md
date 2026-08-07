@@ -3,8 +3,13 @@ title: 預設醫療指示的法律程序和實施
 created: 2026-08-04
 updated: 2026-08-04
 type: concept
+classification: legal-science.medical-law
+domain: general
 tags: [legal-procedure, medical-law, hong-kong-law, healthcare-administration, patient-rights]
 sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
+confidence: high
+status: active
+reviewed: 2026-08-07
 ---
 
 # 預設醫療指示的法律程序和實施
@@ -415,3 +420,9 @@ sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 **Video ID:** `fehagloD4fw`
 **Transcript:** [[raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]]
 **Accessed:** 2026-08-04
+
+## Related Pages
+
+- [[concepts/advance-medical-directives]]
+- [[concepts/hong-kong-medical-decision-framework]]
+- [[concepts/hong-kong-medical-ethics-law]]

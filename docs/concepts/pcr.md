@@ -132,3 +132,8 @@ PCR is a cornerstone technique in modern molecular biology, enabling:
 - [molecular-biology](concepts/molecular-biology.md) — Molecular biology concepts
 - [colony-pcr-dna-extraction-method](raw/articles/colony-pcr-dna-extraction-method.md) — Colony PCR method
 *Last updated: July 19, 2026*
+## Related Pages
+
+- [[dna-extraction]]
+- [[molecular-biology]]
+- [[dna-extraction-methodologies]]

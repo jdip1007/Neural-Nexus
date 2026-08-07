@@ -238,3 +238,9 @@ Verification is required when:
 - [reference-interval-verification](concepts/reference-interval-verification.md) — Reference interval verification
 - [calibration-verification](concepts/calibration-verification.md) — Calibration confirmation
 - [method-comparison](concepts/method-comparison.md) — Accuracy assessment methods
+
+## Related Pages
+
+- [[laboratory-developed-tests]]
+- [[reference-interval-verification]]
+- [[sample-requirements]]

@@ -153,3 +153,7 @@ Into a coherent, navigable web of scientific knowledge
 
 - [reproducibility-crisis](concepts/reproducibility-crisis.md) — Reproducibility challenges in science
 - [penn-rainford](entities/penn-rainford.md) — Lead researcher
+## Related Pages
+
+- [[neural-nexus]]
+- [[reproducibility-crisis]]

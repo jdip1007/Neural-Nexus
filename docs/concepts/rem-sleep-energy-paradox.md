@@ -91,3 +91,9 @@ This paradox suggests that during REM, the energy consumed by neurons exceeds wh
 - [rem-sleep](concepts/rem-sleep.md) — The sleep state characterized by the energy paradox
 - [nrem-sleep](concepts/nrem-sleep.md) — The contrasting sleep state with stable energy dynamics
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[brain-blood-volume]]
+- [[theta-band-activity]]

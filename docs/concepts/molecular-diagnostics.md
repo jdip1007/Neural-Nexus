@@ -38,3 +38,9 @@ Molecular tests often require specialized validation including:
 - [ngs-validation](concepts/ngs-validation.md) — NGS-specific validation
 - [bioinformatics-validation](concepts/bioinformatics-validation.md) — Pipeline validation
 - [method-performance](concepts/accreditation/method-performance.md) — Performance characteristics
+
+## Related Pages
+
+- [[concepts/bioinformatics-validation]]
+- [[concepts/ngs-validation]]
+- [[concepts/clinical-utility]]

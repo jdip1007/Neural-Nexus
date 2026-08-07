@@ -344,3 +344,9 @@ These techniques are mature and well-known in game development circles, but rare
 ## Sources
 
 - ^[raw/articles/sand-game-simulation.md] — The sand game implementation that demonstrates all 10 techniques in practice
+
+## Related Pages
+
+- [[concepts/canvas-rendering]]
+- [[concepts/cellular-automata]]
+- [[concepts/game-loop]]

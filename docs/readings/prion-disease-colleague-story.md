@@ -123,3 +123,9 @@ Based on the video title and description:
 
 ## Data Quality Note
 This reading page is based on limited video content (title, description, references) due to transcript API unavailability. Full clinical details, symptom progression, and diagnostic information are not captured. For comprehensive prion disease information, consult the primary scientific references cited in the video description.^[raw/videos/prion-disease-colleague-story.md]
+
+## Related Pages
+
+- [[prion-disease]]
+- [[katherine-johns]]
+- [[neuroinflammation]]

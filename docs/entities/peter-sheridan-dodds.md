@@ -30,3 +30,9 @@ reviewed: 2026-07-31
 - [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
 - [fractal-networks](concepts/fractal-networks.md) — Network structure research
 - [steven-strogatz](entities/steven-strogatz.md) — Related complex systems researcher
+
+## Related Pages
+
+- [[entities/geoffrey-west]]
+- [[entities/steven-strogatz]]
+- [[entities/van-savage]]

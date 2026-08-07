@@ -81,3 +81,9 @@ This chain explains *why* comorbidity is so common: one neural vulnerability →
 -  — Behavioral p factor (statistical precursor)
 - [mental-health](concepts/mental-health.md) — Hub page
 - [psychology](concepts/psychology.md) — Parent domain
+
+## Related Pages
+
+- [[executive-function]]
+- [[psychology]]
+- [[adhd]]

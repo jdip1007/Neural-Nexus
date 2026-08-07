@@ -38,3 +38,8 @@ reviewed: 2026-07-31
 - [scaling-laws](concepts/scaling-laws.md) — Mathematical basis
 - [one-billion-heartbeats-phenomenon](concepts/one-billion-heartbeats-phenomenon.md) — Popular application
 - [max-kleiber](entities/max-kleiber.md) — Pioneer
+
+## Related Pages
+
+- [[lifespan]]
+- [[metabolic-scaling]]

@@ -49,3 +49,8 @@ Under CLIA, laboratories must establish and follow written QC procedures for eac
 - [clia-regulations](concepts/accreditation/clia-regulations.md)
 - [proficiency-testing](concepts/proficiency-testing.md)
 - [statistical-analysis](concepts/statistical-analysis.md)
+
+## Related Pages
+
+- [[performance-characteristics]]
+- [[regulatory-compliance]]

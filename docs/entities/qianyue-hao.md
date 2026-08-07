@@ -42,3 +42,9 @@ Qianyue Hao is a researcher in electronic engineering at Tsinghua University's B
 - Lead researcher on large-scale analysis of AI's impact on scientific careers and collective science (41.3M papers)
 - Contributed to development of fine-tuned BERT model for AI paper detection (F1=0.875)
 - Helped identify individual career advantages (+3.02× papers, +4.84× citations) and collective narrowing (-4.63% topic breadth)
+
+## Related Pages
+
+- [[yong-li]]
+- [[fengli-xu]]
+- [[james-evans]]

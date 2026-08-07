@@ -52,3 +52,8 @@ Zahra Goodarzi's research centers on:
 ## Key Publications
 
 - Annual Review of Clinical Psychology: Management of Behavioral and Psychological Symptoms of Dementia (2026) ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
+
+## Related Pages
+
+- [[bpsd]]
+- [[psychology]]

@@ -138,3 +138,52 @@
   - `findings/ai-individual-gains-collective-loss.md` (key finding)
 - **Note:** First PDF (doc_ec779b330804_file.pdf) was empty (0 chars) — skipped
 - **Tags used:** ai, research, researcher, scientific-method, open-science, reproducibility, knowledge-management, analysis, computer-science
+
+## [2026-08-06] ingest | ADHD Genetics Meta-Analysis (Nature Genetics 2025)
+
+- **Source:** van der Laan, C. M. et al. (2025). "Genome-wide association meta-analysis of childhood ADHD symptoms and diagnosis identifies new loci and potential effector genes." Nature Genetics, 57, 2427–2435. DOI: 10.1038/s41588-025-02295-y
+- **Action:** Ingested paper, created 6 wiki pages
+- **Files created:**
+  - `raw/articles/adhd-genetics-nature-genetics-2025.md` (raw source, 8,679 chars)
+  - `readings/adhd-genetics-meta-analysis-nature-genetics-2025.md` (comprehensive reading summary, 12,424 chars)
+  - `concepts/adhd-risk-genes-effect-sizes.md` (risk genes and effect sizes, 11,366 chars)
+  - `findings/adhd-genetic-meta-analysis-findings.md` (key findings and implications, 9,368 chars)
+  - `entities/camiel-m-van-der-laan.md` (lead author entity, 6,694 chars)
+  - `comparisons/adhd-genetics-research-evolution.md` (research evolution comparison, 10,788 chars)
+- **SCHEMA.md update:** Added 16 new tags to taxonomy: neuropsychiatry, neurodevelopmental, externalizing-behaviors, executive-function, heritability, polygenic-risk, meta-analysis, genome-wide-association, genetic-epidemiology
+- **Study scope:** 70,953 unique individuals with 290,134 ADHD symptom measures from 28 cohorts, plus 38,691 cases and 186,843 controls
+- **Key findings:** 39 independent loci (17 new), 8 novel effector genes, strong continuum model validation (rg = 1.00), comprehensive genetic correlations with other traits
+- **Tags used:** adhd, genetics, genome-wide-association, meta-analysis, neurodevelopmental, neuropsychiatry, heritability, polygenic-risk, meta-analysis, genome-wide-association, genetic-epidemiology, research-findings, research-comparison, scientific-progress
+
+## [2026-08-06] add | Polygenic Scores Concept Page
+
+- **Purpose:** Comprehensive introduction to polygenic scores explaining their importance, calculation methods, and advantages over traditional diagnosis
+- **Action:** Created comprehensive concept page covering all aspects of polygenic scores
+- **Files created:**
+  - `concepts/polygenic-scores.md` (comprehensive concept page, 13,442 chars)
+- **Content includes:**
+  - Definition and mathematical foundation of polygenic scores
+  - Step-by-step calculation methodology (GWAS discovery, SNP selection, effect size estimation, validation)
+  - Advantages over traditional diagnosis (earlier detection, quantitative risk assessment, personalized medicine)
+  - Clinical applications in ADHD and other complex traits
+  - Ethical considerations and best practices
+  - Common misconceptions and limitations
+- **SCHEMA.md update:** Added 4 new tags to taxonomy: statistical-genetics, quantitative-genetics, genetic-epidemiology, precision-medicine
+- **Catalog update:** Added to research-methodology.genetics section with comprehensive tag coverage
+
+## [2026-08-06] add | Comprehensive Genetics Concept Pages
+
+- **Purpose:** Create foundational genetics concepts to support polygenic scores and ADHD genetics content
+- **Action:** Created 5 comprehensive concept pages covering essential genetics topics
+- **Files created:**
+  - `concepts/heritability.md` (comprehensive concept page, 8,774 chars)
+  - `concepts/genome-wide-association.md` (GWAS methodology, 12,401 chars)
+  - `concepts/statistical-genetics.md` (statistical methods, 12,458 chars)
+  - `concepts/precision-medicine.md` (personalized healthcare, 14,156 chars)
+- **Content includes:**
+  - **Heritability**: Definition, estimation methods, applications in ADHD, clinical implications
+  - **GWAS**: Methodology, study design, statistical analysis, applications in ADHD research
+  - **Statistical Genetics**: Fundamental concepts, advanced methods, quality control, best practices
+  - **Precision Medicine**: Framework, applications in ADHD, ethical considerations, implementation strategies
+- **SCHEMA.md update:** Added 8 new tags to taxonomy: twin-studies, family-studies, biostatistics, population-genetics, computational-biology, case-control, complex-traits, personalized-medicine
+- **Catalog update:** Added to research-methodology.genetics and research-methodology.healthcare sections

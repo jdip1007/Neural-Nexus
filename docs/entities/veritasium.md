@@ -139,3 +139,9 @@ This entity page represents the Veritasium channel as an organization. The host 
 ## References
 
 - Veritasium video: "Why does every mammal get 1 billion heartbeats in their life?"^[raw/videos/one-billion-heartbeats-veritasium.md]
+
+## Related Pages
+
+- [[entities/the-infographics-show]]
+- [[entities/biomerieux]]
+- [[entities/bowtie-insurance]]

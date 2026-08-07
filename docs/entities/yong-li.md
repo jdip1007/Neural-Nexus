@@ -45,3 +45,8 @@ Yong Li is a researcher at Tsinghua University's BNRist and Zhongguancun Academy
 - Corresponding author on large-scale analysis of AI's impact on scientific careers and collective science (41.3M papers)
 - Contributed to development of birth-death model for career transition analysis
 - Helped identify collective knowledge narrowing and follow-on engagement patterns
+
+## Related Pages
+
+- [[fengli-xu]]
+- [[james-evans]]

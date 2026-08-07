@@ -97,3 +97,9 @@ The method specifies precise buffer formulations including:
 - [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
 - [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
 - [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
+
+## Related Pages
+
+- [[dna-extraction]]
+- [[molecular-biology]]
+- [[genomics]]

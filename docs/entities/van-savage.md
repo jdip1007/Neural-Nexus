@@ -32,3 +32,9 @@ reviewed: 2026-07-31
 - [fractal-networks](concepts/fractal-networks.md) — His mathematical contribution area
 - [metabolic-scaling](concepts/metabolic-scaling.md) — Field of study
 - [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
+
+## Related Pages
+
+- [[wbe-theory]]
+- [[scaling-laws]]
+- [[metabolic-scaling]]

@@ -131,3 +131,9 @@ Modern scientific research is losing knowledge through unpublished negative resu
 - [knowledge-preservation](concepts/knowledge-preservation.md)
 - [knowledge-preservation](concepts/knowledge-preservation.md)
 - [knowledge-preservation](concepts/knowledge-preservation.md)
+
+## Related Pages
+
+- [[concepts/knowledge-preservation]]
+- [[findings/ai-individual-gains-collective-loss]]
+- [[readings/ai-impacts-science-nature-2026]]

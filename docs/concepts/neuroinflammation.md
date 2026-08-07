@@ -187,3 +187,9 @@ Neuroinflammation represents a critical therapeutic target in AD:
 | Inflammation is always bad | Can be protective early (phagocytosis); becomes detrimental when chronic |
 | Microglia are the only players | Astrocytes and T cells also make major contributions |
 | All inflammation is the same | Different inflammatory states across disease stages, brain regions, and individuals |
+
+## Related Pages
+
+- [[concepts/amyloid-beta]]
+- [[concepts/apoe]]
+- [[concepts/tau-pathology]]

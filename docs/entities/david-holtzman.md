@@ -95,3 +95,9 @@ David M. Holtzman is a prominent neurology researcher and Alzheimer's disease ex
 - [apoe](concepts/apoe.md): Genetics and therapeutic targeting
 - : Fluid and imaging biomarkers for AD
 - : Current and emerging treatments
+
+## Related Pages
+
+- [[recent-advances-alzheimers-disease-cell-review-2026]]
+- [[neuroinflammation]]
+- [[jason-ulrich]]

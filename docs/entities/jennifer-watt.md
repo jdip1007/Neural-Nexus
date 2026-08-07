@@ -95,3 +95,8 @@ Watt's work has significantly influenced:
 - Understanding of comparative efficacy and safety of BPSD interventions ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
 - Deprescribing practices in vulnerable older populations ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
 - Knowledge translation in geriatric medicine ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
+
+## Related Pages
+
+- [[bpsd]]
+- [[psychology]]

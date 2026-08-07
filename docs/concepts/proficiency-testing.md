@@ -41,3 +41,9 @@ reviewed: 2026-07-31
 - [quality-control](concepts/quality-control.md) — Complements internal QC
 - [laboratory-verification](concepts/accreditation/laboratory-verification.md) — PT verifies ongoing performance
 - [Laboratory Accreditation](findings/index.md) — PT required for accreditation
+
+## Related Pages
+
+- [[concepts/cms]]
+- [[concepts/quality-control]]
+- [[concepts/accreditation/clia-regulations]]

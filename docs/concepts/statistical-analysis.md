@@ -50,3 +50,8 @@ Statistical analysis is the quantitative engine connecting several laboratory qu
 - [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
 - [quality-control](concepts/quality-control.md)
 - [proficiency-testing](concepts/proficiency-testing.md)
+
+## Related Pages
+
+- [[roc-analysis]]
+- [[method-comparison]]

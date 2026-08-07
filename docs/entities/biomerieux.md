@@ -3,7 +3,7 @@ title: bioMérieux
 created: 2026-08-01
 updated: 2026-08-01
 type: entity
-classification: organization
+classification: organization.manufacturer
 domain: laboratory
 tags: [manufacturer, laboratory-equipment, nucleic-acid-extraction, in-vitro-diagnostics]
 sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
@@ -116,3 +116,9 @@ French in vitro diagnostics company specializing in nucleic acid extraction plat
 [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md) - Platform comparison and selection criteria
 [emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md) - Clinical validation study
 [roche](entities/roche.md) - Competitor (MagNA PURE 96 manufacturer)
+
+## Related Pages
+
+- [[nucleic-acid-extraction-platforms]]
+- [[roche]]
+- [[laboratory-automation]]

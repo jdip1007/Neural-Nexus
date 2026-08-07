@@ -49,3 +49,8 @@ James Evans is a professor at the University of Chicago and external professor a
 ## Background
 
 James Evans directs the Knowledge Lab at the University of Chicago, studying how knowledge is produced, consumed, and transformed in science and society. His work spans computational social science, bibliometrics, and the sociology of innovation. The Santa Fe Institute affiliation reflects expertise in complex systems and network science.
+
+## Related Pages
+
+- [[yong-li]]
+- [[fengli-xu]]

@@ -3,8 +3,13 @@ title: 香港醫療決定的國際比較和發展趨勢
 created: 2026-08-04
 updated: 2026-08-04
 type: concept
+classification: legal-science.medical-law
+domain: general
 tags: [international-comparison, healthcare-trends, hong-kong-law, medical-decision-making, global-health, cantonese]
 sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
+confidence: high
+status: active
+reviewed: 2026-08-07
 ---
 
 # 香港醫療決定的國際比較和發展趨勢
@@ -494,3 +499,9 @@ sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 **Video ID:** `fehagloD4fw`
 **Transcript:** [[raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]]
 **Accessed:** 2026-08-04
+
+## Related Pages
+
+- [[concepts/family-role-medical-decisions]]
+- [[concepts/advance-medical-directives]]
+- [[concepts/hong-kong-medical-case-studies]]

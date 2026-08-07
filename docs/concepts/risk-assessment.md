@@ -39,3 +39,9 @@ reviewed: 2026-07-31
 - [Laboratory Accreditation](findings/index.md) — Accreditation requires risk assessment
 - [quality-control](concepts/quality-control.md) — Risk assessment complements QC
 - [laboratory-director](concepts/laboratory-director.md) — Director oversees risk assessment
+
+## Related Pages
+
+- [[concepts/change-control]]
+- [[concepts/laboratory-director]]
+- [[concepts/method-implementation]]

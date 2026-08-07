@@ -74,3 +74,8 @@ Zahinoor Ismail's research centers on:
 - American Journal of Clinical Psychopharmacology: Aripiprazole once-monthly in the treatment of acute psychotic episodes (2017) ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
 - Journal of the Neurological Sciences: Functional neuroimaging study of appetite loss in Alzheimer's disease (2008) ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
 - American Journal of Geriatric Psychiatry: Criteria for psychosis in major and mild neurocognitive disorders (2020) ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
+
+## Related Pages
+
+- [[bpsd]]
+- [[psychology]]

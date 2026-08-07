@@ -50,3 +50,7 @@ This content from HealthyGamerGG explores why you freeze up when you talk to wom
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+## Related Pages
+
+- [[relationships]]
+- [[psychology]]

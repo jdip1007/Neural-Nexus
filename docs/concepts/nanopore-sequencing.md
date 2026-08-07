@@ -121,3 +121,9 @@ Modern nanopore sequencing has evolved significantly:
 ## Sources
 
 - ^[raw/articles/24hr-genome-e2e-promethion-document.md]
+
+## Related Pages
+
+- [[sample-preparation]]
+- [[dna-extraction]]
+- [[genomics]]

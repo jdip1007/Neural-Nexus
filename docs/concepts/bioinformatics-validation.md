@@ -39,3 +39,9 @@ reviewed: 2026-07-31
 - [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md) — Bioinformatics pipelines are often LDTs
 - [method-performance](concepts/accreditation/method-performance.md) — Performance characteristics
 - [molecular-diagnostics](concepts/molecular-diagnostics.md) — Application area
+
+## Related Pages
+
+- [[concepts/molecular-diagnostics]]
+- [[concepts/ngs-validation]]
+- [[concepts/clinical-utility]]

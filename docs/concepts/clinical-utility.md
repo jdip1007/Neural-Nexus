@@ -40,3 +40,9 @@ Analytical Validity → Clinical Validity → Clinical Utility
 - [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
 - [method-performance](concepts/accreditation/method-performance.md)
 - [clinical-utility](concepts/clinical-utility.md)
+
+## Related Pages
+
+- [[concepts/bioinformatics-validation]]
+- [[concepts/method-implementation]]
+- [[concepts/molecular-diagnostics]]

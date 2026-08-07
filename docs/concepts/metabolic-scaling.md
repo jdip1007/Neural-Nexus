@@ -39,3 +39,9 @@ reviewed: 2026-07-31
 - [comparative-physiology](concepts/comparative-physiology.md) — Field of study
 - [geoffrey-west](entities/geoffrey-west.md) — WBE co-author
 - [max-kleiber](entities/max-kleiber.md) — Original discoverer
+
+## Related Pages
+
+- [[kleibers-law]]
+- [[wbe-theory]]
+- [[surface-law]]

@@ -179,3 +179,9 @@ Economic inequality refers to the unequal distribution of economic resources, in
 - **Policy Analysis:** Limited research on effective interventions for wealth concentration
 - **International Comparison:** Insufficient comparative analysis across different economic systems
 - **Behavioral Impact:** Research on how inequality affects individual behavior and decision-making
+
+## Related Pages
+
+- [[reverse-robin-hood-heist]]
+- [[inheritance-trap]]
+- [[wealth-concentration]]

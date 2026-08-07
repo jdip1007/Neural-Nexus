@@ -43,3 +43,8 @@ reviewed: 2026-07-31
 - [quality-control](concepts/quality-control.md) — Established during implementation
 - [change-control](concepts/change-control.md) — Manages post-implementation changes
 - [proficiency-testing](concepts/proficiency-testing.md) — Enrolled during implementation
+
+## Related Pages
+
+- [[method-performance]]
+- [[proficiency-testing]]

@@ -138,3 +138,9 @@ The "Demographic Wall" describes the significant economic and social consequence
 - **Social change** possible rethinking of wealth and opportunity across generations ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Policy innovation** development of new approaches to demographic economic issues ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Global impact** international implications of demographic wealth transfer ^[readings/infographics-show-boomers-inequality-2026.md]
+
+## Related Pages
+
+- [[concepts/demographic-economic-impact]]
+- [[concepts/baby-boomers]]
+- [[concepts/inheritance-economics]]

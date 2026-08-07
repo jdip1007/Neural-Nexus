@@ -41,3 +41,9 @@ When separating insurance from investment (as recommended over savings insurance
 - [investment-risk](concepts/investment-risk.md)
 - [endowment-policies](concepts/endowment-policies.md)
 - [universal-life](concepts/universal-life.md)
+
+## Related Pages
+
+- [[concepts/savings-insurance]]
+- [[concepts/investment-returns]]
+- [[concepts/investment-risk]]

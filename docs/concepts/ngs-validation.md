@@ -39,3 +39,9 @@ reviewed: 2026-07-31
 - [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md) — NGS tests are often LDTs
 - [method-performance](concepts/accreditation/method-performance.md) — Performance characteristics
 - [molecular-diagnostics](concepts/molecular-diagnostics.md) — Application area
+
+## Related Pages
+
+- [[concepts/bioinformatics-validation]]
+- [[concepts/molecular-diagnostics]]
+- [[concepts/clinical-utility]]

@@ -31,3 +31,8 @@ backlinks: []
 - [why-modern-dating-feels-like-parenting](concepts/why-modern-dating-feels-like-parenting.md) — Dating dynamics
 - [why-validating-feelings-can-ruin-relationships](concepts/why-validating-feelings-can-ruin-relationships.md) — Communication in relationships
 - [mental-health](concepts/mental-health.md) — Mental health impacts on relationships
+
+## Related Pages
+
+- [[mental-health]]
+- [[psychology]]

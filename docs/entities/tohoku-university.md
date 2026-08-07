@@ -35,3 +35,9 @@ Tohoku University (東北大学) is a national university located in Sendai, Jap
 ## Related
 
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+
+## Related Pages
+
+- [[concepts/amyloid-beta]]
+- [[concepts/apoe]]
+- [[concepts/astrocyte-neuron-lactate-shuttle]]

@@ -38,3 +38,9 @@ Yoko Ikoma is a researcher at the Super-network Brain Physiology laboratory, Toh
 - [ko-matsui](entities/ko-matsui.md) — Senior author and PI
 - [yusuke-takahashi](entities/yusuke-takahashi.md) — First author
 - [tohoku-university](entities/tohoku-university.md) — Affiliated institution
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[tohoku-university]]
+- [[rem-sleep-energy-paradox]]

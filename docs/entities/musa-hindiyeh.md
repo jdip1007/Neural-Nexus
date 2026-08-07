@@ -78,3 +78,9 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 [orna-mor](entities/orna-mor.md) - Co-author (equal contribution)
 [emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md) - Validation study
 [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md) - Platform comparison findings
+
+## Related Pages
+
+- [[entities/michel-mandelboim]]
+- [[entities/orna-mor]]
+- [[concepts/clinical-testing/respiratory-virus-testing]]

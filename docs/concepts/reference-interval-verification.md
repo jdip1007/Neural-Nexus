@@ -32,3 +32,9 @@ reviewed: 2026-07-31
 - [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Verification process
 - [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Establishment process
 - [statistical-analysis](concepts/statistical-analysis.md) — Statistical methods used
+
+## Related Pages
+
+- [[concepts/bioinformatics-validation]]
+- [[concepts/calibration-verification]]
+- [[concepts/clinical-utility]]

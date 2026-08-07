@@ -148,3 +148,9 @@ Genomics is transforming multiple fields:
 
 ---
 *Last updated: July 19, 2026*
+
+## Related Pages
+
+- [[concepts/cell-line-culture]]
+- [[concepts/dna-extraction-methodologies]]
+- [[concepts/dna-extraction]]

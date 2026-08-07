@@ -196,3 +196,9 @@ Inheritance economics is the study of how wealth is transferred between generati
 - **Policy analysis** of effective interventions for inheritance inequality
 - **International comparison** of inheritance systems and impacts
 - **Behavioral research** on how inheritance affects individual behavior and decision-making
+
+## Related Pages
+
+- [[inheritance-trap]]
+- [[wealth-concentration]]
+- [[generational-wealth-transfer]]

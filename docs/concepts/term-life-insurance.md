@@ -49,3 +49,9 @@ Term life insurance is recommended as a cost-effective alternative to savings in
 - [emergency-fund](concepts/emergency-fund.md)
 - [bowtie-insurance](entities/bowtie-insurance.md)
 - [investment-risk](concepts/investment-risk.md)
+
+## Related Pages
+
+- [[financial-planning]]
+- [[insurtech]]
+- [[savings-insurance]]

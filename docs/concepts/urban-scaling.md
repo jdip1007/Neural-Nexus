@@ -38,3 +38,9 @@ Unlike biological organisms (which scale sublinearly at ¾), cities show two sca
 - [metabolic-scaling](concepts/metabolic-scaling.md) — Biological counterpart
 - [scale-book](concepts/scale-book.md) — Discussed in detail in this book
 - complex systems — Field of study
+
+## Related Pages
+
+- [[concepts/kleibers-law]]
+- [[concepts/metabolic-scaling]]
+- [[concepts/scaling-laws]]

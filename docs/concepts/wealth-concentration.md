@@ -190,3 +190,9 @@ Wealth concentration refers to the disproportionate ownership of assets and fina
 - **Policy analysis** of effective interventions for wealth concentration
 - **International comparison** of wealth concentration patterns and impacts
 - **Behavioral research** on how concentration affects individual decision-making
+
+## Related Pages
+
+- [[inheritance-trap]]
+- [[interest-rate-policy]]
+- [[generational-wealth-transfer]]

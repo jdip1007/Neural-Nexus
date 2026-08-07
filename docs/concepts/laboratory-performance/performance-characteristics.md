@@ -44,3 +44,8 @@ Metrics used to evaluate and validate laboratory methods and diagnostic tests.
 - [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
 - [roc-analysis](concepts/roc-analysis.md)
 - [[clinical-validation]]
+
+## Related Pages
+
+- [[diagnostic-accuracy]]
+- [[qpcr]]

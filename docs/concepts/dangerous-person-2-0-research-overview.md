@@ -185,3 +185,9 @@ The project serves as a model for future research initiatives and demonstrates t
 - [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md) - Methods for reducing crime in Hong Kong
 - [knowledge-preservation](concepts/knowledge-preservation.md) - Best practices for knowledge organization
 - [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md)
+
+## Related Pages
+
+- [[concepts/dangerous-person-2-0-research-project]]
+- [[concepts/knowledge-preservation]]
+- [[findings/ai-individual-gains-collective-loss]]

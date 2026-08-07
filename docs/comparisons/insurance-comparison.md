@@ -48,3 +48,9 @@ Savings insurance vs. term life insurance + separate investment, based on analys
 - [annuities](concepts/annuities.md)
 - [opportunity-cost](concepts/opportunity-cost.md)
 - [investment-returns](concepts/investment-returns.md)
+
+## Related Pages
+
+- [[annuities]]
+- [[insurtech]]
+- [[bowtie-insurance]]

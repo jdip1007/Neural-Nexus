@@ -166,3 +166,8 @@ APOE is at the center of AD genetics, pathophysiology, and therapeutics. Underst
 | APOE testing is always beneficial | Clinical utility limited; testing primarily for research/trial contexts |
 | Gene therapy for APOE is proven | Early-stage (mouse model data); human trials ongoing^[raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md] |
 | APOE4 is the only genetic risk factor | Other genes (TREM2, SORL1, BIN1) contribute; APOE4 is strongest but not sole genetic factor |
+
+## Related Pages
+
+- [[neuroinflammation]]
+- [[tau-pathology]]

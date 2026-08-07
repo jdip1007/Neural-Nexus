@@ -71,3 +71,8 @@ Brain blood volume (BBV) refers to the total volume of blood within the cerebral
 - [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — The paradoxical relationship between increased BBV and decreased neuronal ATP during REM
 - [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — The metabolic context for BBV regulation
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[nrem-sleep]]

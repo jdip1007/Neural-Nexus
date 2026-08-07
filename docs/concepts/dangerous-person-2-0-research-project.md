@@ -339,3 +339,8 @@ The project demonstrates how external content can be systematically processed an
 - [knowledge-preservation](concepts/knowledge-preservation.md)
 - [x-television-celebrity](entities/x-television-celebrity.md)
 - [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
+## Related Pages
+
+- [[dangerous-person-2-0-research-overview]]
+- [[criminal-psychology-behavior-patterns]]
+- [[celebrity-privacy-media-ethics]]

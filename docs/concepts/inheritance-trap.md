@@ -126,3 +126,9 @@ The "Inheritance Trap" describes how intergenerational wealth transfer through i
 - **Social change** possible rethinking of wealth and opportunity ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Policy innovation** development of new approaches to wealth distribution ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Global impact** international implications of wealth concentration ^[readings/infographics-show-boomers-inequality-2026.md]
+
+## Related Pages
+
+- [[generational-wealth-transfer]]
+- [[economic-inequality]]
+- [[wealth-concentration]]

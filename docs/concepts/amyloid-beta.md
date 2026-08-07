@@ -136,3 +136,9 @@ Aβ is the earliest detectable pathology in AD and a validated therapeutic targe
 | Amyloid removal should halt disease | Amyloid removal slows but doesn't stop progression due to semi-autonomous co-pathologies |
 | Synthetic fibrils model human disease | Brain-derived filaments have different structures; synthetic fibrils may not accurately model disease |
 | Cognitive decline correlates with amyloid burden | Cognitive decline correlates more strongly with tau pathology; amyloid is upstream trigger |
+
+## Related Pages
+
+- [[neuroinflammation]]
+- [[apoe]]
+- [[tau-pathology]]

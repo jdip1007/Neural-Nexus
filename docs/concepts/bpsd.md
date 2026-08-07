@@ -240,3 +240,8 @@ See [[deprescribing]] for detailed coverage.
 ## References
 
 Annual Review of Clinical Psychology: Management of Behavioral and Psychological Symptoms of Dementia: Nonpharmacologic and Pharmacologic Interventions (2026)^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
+
+## Related Pages
+
+- [[mental-health]]
+- [[psychology]]

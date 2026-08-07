@@ -42,3 +42,8 @@ reviewed: 2026-07-31
 - [quality-control](concepts/quality-control.md) — Ongoing compliance
 - [proficiency-testing](concepts/proficiency-testing.md) — Compliance monitoring
 - [change-control](concepts/change-control.md) — Maintains compliance through changes
+
+## Related Pages
+
+- [[quality-control]]
+- [[proficiency-testing]]

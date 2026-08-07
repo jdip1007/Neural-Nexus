@@ -90,3 +90,9 @@ Findings from Takahashi, Ikoma & Matsui (2026) suggest the ANLS efficiency varie
 - [neurovascular-coupling](concepts/neurovascular-coupling.md) — How blood flow changes relate to neuronal activity
 - [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — Overall energy dynamics in the brain
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[nrem-sleep]]
+- [[theta-band-activity]]

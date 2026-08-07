@@ -86,3 +86,9 @@ Brain energy metabolism encompasses the processes by which the brain generates, 
 - [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) — Energy transfer from astrocytes to neurons
 - [brain-blood-volume](concepts/brain-blood-volume.md) — Vascular component of energy supply
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+
+## Related Pages
+
+- [[rem-sleep]]
+- [[neurovascular-coupling]]
+- [[nrem-sleep]]

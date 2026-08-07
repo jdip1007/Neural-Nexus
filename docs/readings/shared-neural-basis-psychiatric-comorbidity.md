@@ -136,3 +136,9 @@ The NP factor's specificity to executive function (not all cognition) is clinica
 
 - [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md) — Another longitudinal study with systematic analysis approach
 - [pcr-gc-rich-templates-green-sambrook-2019](raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md) — Research methodology using multiple validation approaches
+
+## Related Pages
+
+- [[executive-function]]
+- [[psychiatric-comorbidity]]
+- [[adhd]]

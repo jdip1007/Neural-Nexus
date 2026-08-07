@@ -127,3 +127,8 @@ cfDNA enables revolutionary diagnostic approaches:
 - [tissue-specific-dna-extraction](concepts/tissue-specific-dna-extraction.md)
 - [cell-line-dna-pure-extraction-method](raw/articles/cell-line-dna-pure-extraction-method.md)
 - [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+
+## Related Pages
+
+- [[molecular-biology]]
+- [[genomics]]

@@ -263,3 +263,7 @@ The entity demonstrates how individual criminal cases can have profound impacts 
 - [x-television-celebrity](entities/x-television-celebrity.md)
 - [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
 - [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md)
+## Related Pages
+- [[dna-evidence-hong-kong-legal-system]]
+- [[criminal-psychology-behavior-patterns]]
+- [[celebrity-privacy-media-ethics]]

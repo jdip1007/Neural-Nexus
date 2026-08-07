@@ -110,3 +110,9 @@ The PromethION represents Oxford Nanopore Technologies' high-throughput sequenci
 - [sample-preparation](concepts/sample-preparation.md)
 - [dna-extraction](concepts/dna-extraction.md)
 - [pcr](concepts/pcr.md)
+
+## Related Pages
+
+- [[sample-preparation]]
+- [[dna-extraction]]
+- [[genomics]]

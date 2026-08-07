@@ -41,3 +41,8 @@ Lifespan (longevity) refers to the duration of life of an organism, typically me
 - [one-billion-heartbeats-phenomenon](concepts/one-billion-heartbeats-phenomenon.md)
 - [kleibers-law](concepts/kleibers-law.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
+
+## Related Pages
+
+- [[comparative-physiology]]
+- [[metabolic-scaling]]

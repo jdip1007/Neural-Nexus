@@ -120,3 +120,9 @@ This method is essential for:
 - [genomics](concepts/genomics.md)
 - [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
 - [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+
+## Related Pages
+
+- [[sample-preparation]]
+- [[dna-extraction]]
+- [[molecular-biology]]

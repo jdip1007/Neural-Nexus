@@ -31,3 +31,9 @@ The **Laboratory Director** is the qualified individual responsible for overall 
 - [laboratory-verification](concepts/accreditation/laboratory-verification.md) — Director approves verification
 - [laboratory-validation](concepts/accreditation/laboratory-validation.md) — Director approves validation
 - [quality-control](concepts/quality-control.md) — Director oversees QC program
+
+## Related Pages
+
+- [[concepts/regulatory-compliance]]
+- [[concepts/change-control]]
+- [[concepts/clia-waived-tests]]

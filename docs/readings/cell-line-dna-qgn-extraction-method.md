@@ -98,3 +98,9 @@ Compared to traditional pure extraction methods, QGN appears to offer:
 - [genomics](concepts/genomics.md)
 - [cell-free-dna-cfdna-info-sheet](raw/articles/cell-free-dna-cfdna-info-sheet.md)
 - [environmental-water-edna-extraction-method](raw/articles/environmental-water-edna-extraction-method.md)
+
+## Related Pages
+
+- [[dna-extraction]]
+- [[molecular-biology]]
+- [[genomics]]

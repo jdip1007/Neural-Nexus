@@ -201,3 +201,8 @@ Housing market dynamics refer to the complex interplay of factors that influence
 - **Policy analysis** of effective interventions for housing market distortions
 - **International comparison** of housing market patterns and impacts
 - **Behavioral research** on how housing wealth affects individual decision-making
+
+## Related Pages
+
+- [[concepts/cash-buyer-cartel]]
+- [[readings/infographics-show-boomers-inequality-2026]]

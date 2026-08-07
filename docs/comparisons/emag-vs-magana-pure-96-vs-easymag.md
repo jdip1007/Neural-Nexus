@@ -229,3 +229,7 @@ All platforms demonstrated >97% agreement across sample types:^[raw/laboratory/v
 [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md) - Sensitivity, specificity, LOD metrics
 [biomerieux](entities/biomerieux.md) - easyMAG and eMAG manufacturer
 [roche](entities/roche.md) - MagNA PURE 96 manufacturer
+## Related Pages
+- [[biomerieux]]
+- [[roche]]
+- [[nucleic-acid-extraction-platforms]]

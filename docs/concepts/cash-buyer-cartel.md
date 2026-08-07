@@ -133,3 +133,9 @@ The "Cash Buyer Cartel" describes how wealthy individuals and families, often us
 - **Wealth redistribution** through housing policy reform ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Social change** possible rethinking of housing as investment vs. necessity ^[readings/infographics-show-boomers-inequality-2026.md]
 - **Economic evolution** new approaches to housing market regulation ^[readings/infographics-show-boomers-inequality-2026.md]
+
+## Related Pages
+
+- [[concepts/housing-market-dynamics]]
+- [[concepts/economic-inequality]]
+- [[concepts/inheritance-trap]]

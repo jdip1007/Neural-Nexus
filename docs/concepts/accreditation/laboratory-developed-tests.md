@@ -366,3 +366,9 @@ Revalidation is required when:
 - [quality-control](concepts/quality-control.md) — QC for LDTs
 - [clinical-utility](concepts/clinical-utility.md) — Establishing clinical value
 - [molecular-diagnostics](concepts/molecular-diagnostics.md) — Molecular LDT applications
+
+## Related Pages
+
+- [[bridging-studies]]
+- [[performance-characteristics]]
+- [[change-control]]

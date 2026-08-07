@@ -147,3 +147,9 @@ Baby Boomers are the generation born between 1946 and 1964, following World War 
 - Increasing discussion of intergenerational economic inequality ^[readings/infographics-show-boomers-inequality-2026.md]
 - Public demand for policies addressing wealth concentration ^[readings/infographics-show-boomers-inequality-2026.md]
 - Debates about fairness of economic systems across generations ^[readings/infographics-show-boomers-inequality-2026.md]
+
+## Related Pages
+
+- [[concepts/demographic-economic-impact]]
+- [[concepts/demographic-wall]]
+- [[concepts/generational-wealth-transfer]]

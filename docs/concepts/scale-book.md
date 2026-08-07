@@ -30,3 +30,8 @@ reviewed: 2026-07-31
 - [geoffrey-west](entities/geoffrey-west.md) — Author
 - [metabolic-scaling](concepts/metabolic-scaling.md) — Core topic
 - [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
+
+## Related Pages
+
+- [[wbe-theory]]
+- [[metabolic-scaling]]

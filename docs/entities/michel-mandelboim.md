@@ -118,3 +118,9 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 - Sheba Ethical Committee approval #4421-17-SMC^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 - Use of anonymous archived samples
 - Full data anonymization at collection^[raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
+
+## Related Pages
+
+- [[molecular-diagnostics]]
+- [[musa-hindiyeh]]
+- [[orna-mor]]

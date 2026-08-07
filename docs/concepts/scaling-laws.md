@@ -41,3 +41,9 @@ reviewed: 2026-07-31
 - [surface-law](concepts/surface-law.md) — Historical predecessor
 - [comparative-physiology](concepts/comparative-physiology.md) — Applications
 - [geoffrey-west](entities/geoffrey-west.md) — Key theorist
+
+## Related Pages
+
+- [[surface-law]]
+- [[kleibers-law]]
+- [[urban-scaling]]

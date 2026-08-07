@@ -3,6 +3,13 @@ source_url: https://www.youtube.com/watch?v=D1KomlztSuA
 source_type: video
 ingested: 2026-08-02
 sha256: d1komlzt_sua_video_content
+type: reading
+domain: finance
+tags: [baby-boomers, wealth-concentration, economic-inequality, asset-inflation, interest-rates, monetary-policy, generational-wealth, housing-market-dynamics]
+sources: []
+confidence: high
+status: active
+reviewed: 2026-08-07
 ---
 
 # It's Not Inflation You Should Be Watching. It's The Boomers.
@@ -127,3 +134,9 @@ The video references sources available at: https://pastebin.com/KG6ZNMz ^[https:
 - Study inheritance patterns and their economic impacts
 - Examine housing market dynamics across generations
 - Explore policy solutions for addressing generational wealth gaps
+
+## Related Pages
+
+- [[concepts/asset-inflation]]
+- [[concepts/cash-buyer-cartel]]
+- [[concepts/economic-inequality]]

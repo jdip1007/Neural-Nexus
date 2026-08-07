@@ -37,3 +37,9 @@ reviewed: 2026-07-31
 - [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
 - [peter-sheridan-dodds](entities/peter-sheridan-dodds.md) — Related network science researcher
 - [fractal-networks](concepts/fractal-networks.md) — Network structure connections
+
+## Related Pages
+
+- [[entities/geoffrey-west]]
+- [[entities/peter-sheridan-dodds]]
+- [[entities/james-brown]]

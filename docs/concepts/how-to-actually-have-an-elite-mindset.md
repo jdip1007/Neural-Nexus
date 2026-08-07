@@ -48,3 +48,7 @@ This content from HealthyGamerGG explores how to actually have an elite mindset 
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+## Related Pages
+
+- [[relationships]]
+- [[psychology]]

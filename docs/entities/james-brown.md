@@ -36,3 +36,9 @@ reviewed: 2026-07-31
 - [metabolic-scaling](concepts/metabolic-scaling.md) — Field he helped found
 - [scaling-laws](concepts/scaling-laws.md) — Mathematical framework
 - [brian-enquist](entities/brian-enquist.md) — Long-term collaborator
+
+## Related Pages
+
+- [[entities/van-savage]]
+- [[entities/brian-enquist]]
+- [[concepts/scale-book]]

@@ -69,3 +69,8 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 [michel-mandelboim](entities/michel-mandelboim.md) - Corresponding author
 [musa-hindiyeh](entities/musa-hindiyeh.md) - Co-author (equal contribution)
 [emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md) - Validation study
+
+## Related Pages
+
+- [[nucleic-acid-extraction-platforms]]
+- [[performance-characteristics]]

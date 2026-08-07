@@ -295,3 +295,8 @@ The concept demonstrates the complex interplay between privacy, media responsibi
 - [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)
 - [relationships](concepts/relationships.md)
 - [psychology](concepts/psychology.md)
+## Related Pages
+
+- [[criminal-psychology-behavior-patterns]]
+- [[dna-evidence-hong-kong-legal-system]]
+- [[lam-kwok-wai-tuen-mun-rapist]]

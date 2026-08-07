@@ -3,7 +3,7 @@ title: Interest Rate Policy
 created: 2026-08-02
 updated: 2026-08-02
 type: concept
-classification: monetary-policy
+classification: finance.monetary-policy
 domain: economics
 tags: [interest-rate-policy, monetary-policy, central-banking, asset-valuation, wealth-concentration, economic-inequality, financial-markets, economics]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
@@ -206,3 +206,9 @@ Interest rate policy refers to the decisions made by central banks and monetary 
 - **Policy analysis** of effective interventions for distributional issues
 - **International comparison** of interest rate policy patterns and impacts
 - **Behavioral research** on how interest rate changes affect individual decision-making
+
+## Related Pages
+
+- [[generational-wealth-transfer]]
+- [[reverse-robin-hood-heist]]
+- [[luxury-paradox]]

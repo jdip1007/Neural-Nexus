@@ -292,3 +292,9 @@ Key references include:
 - Garcia M, et al. (2017). Comparison of eMAG versus NucliSENS EasyMAG performance on clinical specimens. J Clin Virol 88: 52-57.
 - Hindiyeh M, et al. (2013). Evaluation of Simplexa Flu A/B & RSV for direct detection of influenza viruses. J Clin Microbiol 51: 2421-2424.
 - Loens K, et al. (2007). Evaluation of NucliSens easyMAG for automated nucleic acid extraction from various clinical specimens. J Clin Microbiol 45: 421-425.
+
+## Related Pages
+
+- [[orna-mor]]
+- [[michel-mandelboim]]
+- [[nucleic-acid-extraction-platforms]]

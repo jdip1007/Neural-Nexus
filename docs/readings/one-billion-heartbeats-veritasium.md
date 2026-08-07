@@ -189,3 +189,7 @@ The video features extensive consultation with leading researchers in scaling th
 3. How do scaling laws apply to microscopic organisms (bacteria, cells)?
 4. Can scaling laws predict responses to climate change across species?
 5. How do human interventions (medicine, nutrition) interact with scaling constraints?
+## Related Pages
+- [[kleibers-law]]
+- [[scaling-laws]]
+- [[metabolic-scaling]]

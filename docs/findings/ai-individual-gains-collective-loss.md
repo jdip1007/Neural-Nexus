@@ -84,3 +84,6 @@ AI adoption in science presents a paradox: dramatic individual career advantages
 - [ai-impacts-science-nature-2026](raw/articles/ai-impacts-science-nature-2026.md) - Source reading
 - [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) - Knowledge preservation and systems
 - [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md) - Knowledge preservation systems
+## Related Pages
+- [[knowledge-preservation]]
+- [[reproducibility-crisis]]

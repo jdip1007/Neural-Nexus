@@ -35,3 +35,8 @@ Capital locked in savings insurance for decades cannot be invested elsewhere. Th
 - [savings-insurance-hong-kong-myths-exposed](readings/savings-insurance-hong-kong-myths-exposed.md)
 - [emergency-fund](concepts/emergency-fund.md)
 - [insurance-commissions](concepts/insurance-commissions.md)
+
+## Related Pages
+
+- [[savings-insurance]]
+- [[annuities]]

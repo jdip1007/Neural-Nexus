@@ -100,3 +100,9 @@ PFC development is genetically guided:
 -  — Measure of PFC network integration
 - [mental-health](concepts/mental-health.md) — Hub page
 - [psychology](concepts/psychology.md) — Parent domain
+
+## Related Pages
+
+- [[executive-function]]
+- [[psychology]]
+- [[adhd]]

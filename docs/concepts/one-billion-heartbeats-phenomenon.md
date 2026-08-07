@@ -245,3 +245,9 @@ Scaling relationships help understand:
 - Veritasium video: "Why does every mammal get 1 billion heartbeats in their life?"^[raw/videos/one-billion-heartbeats-veritasium.md]
 - Geoffrey West's "Scale" book: https://ve42.co/ScaleBook
 - Detailed references: https://ve42.co/ScaleRefs
+
+## Related Pages
+
+- [[scaling-laws]]
+- [[lifespan]]
+- [[metabolic-scaling]]

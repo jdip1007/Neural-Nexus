@@ -187,3 +187,9 @@ Labor market changes refer to the evolving dynamics of work, employment, compens
 - **Policy analysis** of effective interventions for labor market issues
 - **International comparison** of labor market patterns and impacts
 - **Behavioral research** on how labor market changes affect individual decision-making
+
+## Related Pages
+
+- [[concepts/economic-inequality]]
+- [[concepts/inheritance-trap]]
+- [[concepts/asset-inflation]]

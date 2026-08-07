@@ -249,3 +249,9 @@ Behaviors are not random—they reflect unmet needs, feelings, or responses to e
 7. **Deprescribing is feasible:** Antipsychotics and other psychotropic medications can be successfully deprescribed with proper support ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
 
 8. **Health equity matters:** Social determinants significantly influence BPSD experience and access to care ^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
+
+## Related Pages
+
+- [[bpsd]]
+- [[mental-health]]
+- [[psychology]]

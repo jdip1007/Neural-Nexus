@@ -64,4 +64,10 @@ Contributing to understanding of:
 - [michelle-rudman](entities/michelle-rudman.md): Co-author and collaborator
 
 ### Related Concepts
-- [amyloid-beta](concepts/amyloid-beta.md), [tau-pathology](concepts/tau-pathology.md), [neuroinflammation](concepts/neuroinflammation.md), [apoe](concepts/apoe.md), , 
+- [amyloid-beta](concepts/amyloid-beta.md), [tau-pathology](concepts/tau-pathology.md), [neuroinflammation](concepts/neuroinflammation.md), [apoe](concepts/apoe.md), ,
+
+## Related Pages
+
+- [[recent-advances-alzheimers-disease-cell-review-2026]]
+- [[neuroinflammation]]
+- [[michelle-rudman]]

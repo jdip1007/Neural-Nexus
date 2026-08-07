@@ -166,3 +166,9 @@ When selecting or validating a nucleic acid extraction platform:
 - [ ] Train technicians on operational procedures
 - [ ] Document performance characteristics in validation report
 - [ ] Plan for ongoing maintenance and troubleshooting
+
+## Related Pages
+
+- [[respiratory-virus-testing]]
+- [[qpcr]]
+- [[quality-control]]

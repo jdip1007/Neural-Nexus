@@ -3,8 +3,13 @@ title: 香港醫療決定的案例分析和實踐經驗
 created: 2026-08-04
 updated: 2026-08-04
 type: concept
+classification: legal-science.medical-law
+domain: general
 tags: [case-studies, medical-practice, hong-kong-law, healthcare-experience, decision-making, cantonese]
 sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
+confidence: high
+status: active
+reviewed: 2026-08-07
 ---
 
 # 香港醫療決定的案例分析和實踐經驗
@@ -754,3 +759,9 @@ sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 **Video ID:** `fehagloD4fw`
 **Transcript:** [[raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]]
 **Accessed:** 2026-08-04
+
+## Related Pages
+
+- [[concepts/advance-medical-directives]]
+- [[concepts/family-role-medical-decisions]]
+- [[concepts/hong-kong-international-comparison]]
