@@ -1,0 +1,27 @@
+---
+title: Sonoma County
+created: 2026-08-08
+updated: 2026-08-08
+type: entity
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, 8xMGlbFSWWc]
+sources: [raw/videos/youtube-8xMGlbFSWWc-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-08-08
+---
+
+# Sonoma County
+
+## Overview
+Sonoma County is mentioned in the YouTube video "Insane Conspiracy Theories That Turned Out to be True".
+
+## Context
+Mentioned in the context of research and development.
+
+## In This Wiki
+- [[youtube-8xMGlbFSWWc-summary|Video Summary]]
+
+## Sources
+^[raw/videos/youtube-8xMGlbFSWWc-transcript.md] Video mention at timestamp
