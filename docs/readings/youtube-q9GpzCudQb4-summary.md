@@ -1,17 +1,17 @@
 ---
 title: $2.45 BILLION Debt. Ubisoft is DOOMED. - Summary
-created: 2026-08-05
-updated: 2026-08-05
+created: 2026-08-09
+updated: 2026-08-09
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, q9GpzCudQb4]
 sources: [raw/videos/youtube-q9GpzCudQb4-transcript.md]
-published: 2026-08-05
+published: 2026-08-09
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-05
+reviewed: 2026-08-09
 ---
 
 # $2.45 BILLION Debt. Ubisoft is DOOMED. - Summary
@@ -35,14 +35,14 @@ have to figure out a new way to do business
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Yves Guillemot, But Ubisoft, Just Dance
+- **Persons**: Even Assassin, The French, The Assassin
 - **Organizations**: Brothers Ltd
 
 ## Related Concepts
-- [[llm]]
-- [[algorithm]]
 - [[api]]
 - [[ai]]
+- [[llm]]
+- [[algorithm]]
 
 ## Transcript Highlights
 > But that independence hasn’t 
@@ -55,9 +55,3 @@ wanting to maintain a hands off approach.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-## Related Pages
-
-- [[youtube-q9GpzCudQb4-but-ubisoft]]
-- [[youtube-q9GpzCudQb4-brothers-ltd]]
-- [[youtube-q9GpzCudQb4-yves-guillemot]]
