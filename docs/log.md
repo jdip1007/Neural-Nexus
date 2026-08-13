@@ -197,3 +197,37 @@
 - **Dead files:** Removed wikilinks_plugin.py duplicate
 - **Frontmatter:** Added title/created/updated to infographics reading
 - **Remaining warnings:** 92 broken wikilinks (pages not yet created), 30 no-sources concepts, 50 large pages
+
+## [2026-08-11] ingest | Stephen Roach: China's Deepening Japan Problem
+
+- **Source:** Stephen Roach Substack article "China's Deepening Japan Problem" (August 2026) + 笑談中國經濟 YouTube video discussion
+- **Action:** Ingested PDF and video transcript, created 3 wiki pages with comprehensive economic analysis
+- **Files created:**
+  - `raw/pdfs/china-deepening-japan-problem-stephen-roach.pdf` (original PDF document)
+  - `raw/pdfs/china-deepening-japan-problem-stephen-roach.md` (document summary, 5,065 chars)
+  - `raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md` (transcript metadata, 1,660 chars)
+  - `raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening-transcript.json` (full transcript JSON, 1,714 entries)
+  - `concepts/capital-deepening-trap.md` (comprehensive concept page, 16,095 chars)
+  - `comparisons/china-vs-japan-economic-comparison.md` (detailed comparison page, 17,129 chars)
+  - `entities/stephen-roach.md` (economist profile, 10,715 chars)
+- **Graph update:** Cross-linked all new pages with wikilinks to related concepts
+- **Index update:** Added Economics section to main index with 3 new entries
+- **Tags used:** capital-deepening, china-economy, productivity, japan-comparison, structural-economics, china, japan, economic-comparison, lost-decades, economist, morgan-stanley, china-bull-turned-bear, stephen-roach
+- **Key topics covered:**
+  - Capital deepening (資本深化) - rising capital-output ratios as economic warning sign
+  - Japan's lost decades: 24% capital-output ratio increase (1990-2000)
+  - China's current trajectory: 62% capital-output ratio increase (2008-2023) - 2.5× Japan's rate
+  - Policy-driven vs. market-driven capital allocation differences
+  - Failed capital allocation: Chinese semiconductor failures (Wuhan Hongxin, Tsinghua Unigroup)
+  - Production-Only death spiral: Export-led growth without consumption development
+  - Systemic differences: Democratic vs. authoritarian economic constraints
+  - "Eat grass" theory: Authoritarian advantage in suppressing consumption
+  - Global impact: China's WTO entry kept global inflation low (2000s)
+  - Expert consensus: Stephen Roach and Michael Pettis alignment on growth model sustainability
+- **Key data points:**
+  - Japan capital-output ratio: +24% (1990-2000) → 3 lost decades
+  - China capital-output ratio: +62% (2008-2023) → converging with Japan by 2022
+  - China GDP growth: Below 4.5-5% target for 2026
+  - Post-2023 intensification: AI data center construction frenzy
+- **Analysis depth:** Comprehensive coverage of capital-labor dynamics, failed investment case studies, systemic constraints, technology criticism, recovery path analysis, and expert assessments
+- **Schema update:** Added 11 new tags to SCHEMA.md taxonomy: capital-deepening, china-economy, productivity, japan-comparison, structural-economics, economic-comparison, lost-decades, economist, morgan-stanley, china-bull-turned-bear, stephen-roach

@@ -1,0 +1,116 @@
+#!/usr/bin/env python3
+"""
+Video Tracker for YouTube Ingestion Pipeline
+Tracks processed videos to avoid duplicate processing and implements random selection.
+"""
+
+import json
+import os
+import random
+import re
+from datetime import datetime
+from typing import List, Dict, Set
+
+
+class VideoTracker:
+    def __init__(self, tracker_file: str = "video_tracker.json"):
+        self.tracker_file = tracker_file
+        self.processed_videos = self.load_processed_videos()
+    
+    def load_processed_videos(self) -> Dict:
+        """Load processed videos from tracker file."""
+        if os.path.exists(self.tracker_file):
+            try:
+                with open(self.tracker_file, 'r') as f:
+                    return json.load(f)
+            except (json.JSONDecodeError, IOError):
+                return {"processed_videos": [], "last_updated": None}
+        return {"processed_videos": [], "last_updated": None}
+    
+    def save_processed_videos(self):
+        """Save processed videos to tracker file."""
+        self.processed_videos["last_updated"] = datetime.now().isoformat()
+        with open(self.tracker_file, 'w') as f:
+            json.dump(self.processed_videos, f, indent=2)
+    
+    def add_processed_video(self, video_id: str, video_title: str, video_url: str):
+        """Add a video to the processed list."""
+        if video_id not in [video["id"] for video in self.processed_videos["processed_videos"]]:
+            self.processed_videos["processed_videos"].append({
+                "id": video_id,
+                "title": video_title,
+                "url": video_url,
+                "processed_at": datetime.now().isoformat()
+            })
+            self.save_processed_videos()
+            return True
+        return False
+    
+    def is_video_processed(self, video_id: str) -> bool:
+        """Check if a video has already been processed."""
+        return video_id in [video["id"] for video in self.processed_videos["processed_videos"]]
+    
+    def get_unprocessed_videos(self, all_videos: List[Dict]) -> List[Dict]:
+        """Filter out already processed videos."""
+        unprocessed = []
+        for video in all_videos:
+            if not self.is_video_processed(video["id"]):
+                unprocessed.append(video)
+        return unprocessed
+    
+    def select_random_videos(self, unprocessed_videos: List[Dict], count: int = 3) -> List[Dict]:
+        """Randomly select videos from unprocessed list."""
+        if len(unprocessed_videos) <= count:
+            return unprocessed_videos
+        
+        return random.sample(unprocessed_videos, count)
+    
+    def get_processed_count(self) -> int:
+        """Get total number of processed videos."""
+        return len(self.processed_videos["processed_videos"])
+    
+    def get_recent_videos(self, limit: int = 10) -> List[Dict]:
+        """Get most recently processed videos."""
+        sorted_videos = sorted(
+            self.processed_videos["processed_videos"],
+            key=lambda x: x.get("processed_at", ""),
+            reverse=True
+        )
+        return sorted_videos[:limit]
+
+
+def generate_summary_report(tracker: VideoTracker, processed_videos: List[Dict], 
+                          selected_videos: List[Dict]) -> str:
+    """Generate a summary report of the ingestion process."""
+    report = f"""
+=== YouTube Ingestion Pipeline Report ===
+Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+
+=== Statistics ===
+Total videos in channel: {len(processed_videos)}
+Already processed: {tracker.get_processed_count()}
+New videos processed: {len(selected_videos)}
+Unprocessed remaining: {len(processed_videos) - tracker.get_processed_count()}
+
+=== Processed Videos ===
+"""
+    
+    for video in selected_videos:
+        report += f"- {video['title']}\n"
+        report += f"  ID: {video['id']}\n"
+        report += f"  URL: {video['url']}\n"
+        report += f"  Processed: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    
+    report += f"=== Recent Activity ===\n"
+    recent = tracker.get_recent_videos(5)
+    for video in recent:
+        processed_time = datetime.fromisoformat(video.get("processed_at", "")).strftime('%Y-%m-%d %H:%M:%S')
+        report += f"- {video['title']} ({processed_time})\n"
+    
+    return report
+
+
+if __name__ == "__main__":
+    # Example usage
+    tracker = VideoTracker()
+    print(f"Loaded tracker with {tracker.get_processed_count()} processed videos")

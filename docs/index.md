@@ -39,6 +39,11 @@ A personal knowledge base combining:
 - **[Preventive Law](concepts/preventive-law.md)** - Legal strategies to prevent conflicts before they arise
 - **[Accessibility in Law](concepts/accessibility-in-law.md)** - Making legal information accessible to non-lawyers
 
+### Economics
+- **[Capital Deepening Trap](concepts/capital-deepening-trap.md)** - Economic phenomenon where rising capital-output ratios signal declining productivity and structural decline; comparison of Japan's lost decades and China's current trajectory
+- **[China vs. Japan Economic Comparison](comparisons/china-vs-japan-economic-comparison.md)** - Side-by-side analysis of structural economic challenges, capital deepening patterns, systemic differences (democratic vs. authoritarian), and recovery prospects
+- **[Stephen Roach](entities/stephen-roach.md)** - American economist and former Morgan Stanley executive, long-time China bull turned increasingly critical analyst of China's economic trajectory and structural imbalances
+
 ## Explore
 
 - [Knowledge Graph](graph.md) — visualize connections

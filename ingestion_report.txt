@@ -1,0 +1,27 @@
+
+=== YouTube Ingestion Pipeline Report ===
+Generated: 2026-08-11 13:32:37
+
+=== Statistics ===
+Total videos in channel: 5
+Already processed: 5
+New videos processed: 2
+Unprocessed remaining: 0
+
+=== Processed Videos ===
+- Tool Restoration Project - Old Power Tools
+  ID: 2Z4m4n5R6tU
+  URL: https://www.youtube.com/watch?v=2Z4m4n5R6tU
+  Processed: 2026-08-11 13:32:37
+
+- Building a Custom Workbench
+  ID: 3A4b5C6dE7f
+  URL: https://www.youtube.com/watch?v=3A4b5C6dE7f
+  Processed: 2026-08-11 13:32:37
+
+=== Recent Activity ===
+- Building a Custom Workbench (2026-08-11 13:32:36)
+- Tool Restoration Project - Old Power Tools (2026-08-11 13:32:35)
+- Workshop Tour and Organization Tips (2026-08-11 13:32:24)
+- Building a Workshop from Scratch - Ep 1 (2026-08-11 13:32:23)
+- Tool Review: Latest Power Tools (2026-08-11 13:32:22)
