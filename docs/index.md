@@ -24,6 +24,11 @@ A personal knowledge base combining:
 
 ## Recent Additions
 
+### Psychology & Autism
+- **[Pattern Seeking in Autism](concepts/pattern-seeking-in-autism.md)** - Simon Baron-Cohen's theory that pattern-seeking cognitive styles in autism have driven human invention and progress
+- **[Cognitive vs Affective Empathy](concepts/cognitive-vs-affective-empathy.md)** - Distinction between recognizing others' mental states (cognitive) and emotional response (affective) in autism
+- **[Simon Baron-Cohen](entities/simon-baron-cohen.md)** - Leading autism researcher at Cambridge University, author of "The Pattern Seekers," and advocate for neurodiversity and human rights
+
 ### Medical Law & Healthcare
 - **[預設醫療指示與不作心肺復甦命令](concepts/advance-medical-directives.md)** - Legal framework for advance medical directives in Hong Kong, covering patient autonomy and end-of-life care decisions
 - **[馬天律師](entities/馬天律師.md)** - Hong Kong legal professional creating educational content about medical law and patient rights
@@ -60,4 +65,3 @@ Send URLs, videos, or notes to Hermes Agent:
 - "Process this video: https://youtube.com/watch?v=xxx"
 - "Create an idea page for: [your thought]"
 - "Dump this finding: [your analysis]"
-

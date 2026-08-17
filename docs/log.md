@@ -231,3 +231,41 @@
   - Post-2023 intensification: AI data center construction frenzy
 - **Analysis depth:** Comprehensive coverage of capital-labor dynamics, failed investment case studies, systemic constraints, technology criticism, recovery path analysis, and expert assessments
 - **Schema update:** Added 11 new tags to SCHEMA.md taxonomy: capital-deepening, china-economy, productivity, japan-comparison, structural-economics, economic-comparison, lost-decades, economist, morgan-stanley, china-bull-turned-bear, stephen-roach
+
+## [2026-08-17] ingest | Autism and Human Progress - Simon Baron-Cohen (YouTube Video)
+
+**Source:** How the Light Gets In YouTube Channel (@howthelightgetsin) - Video: "Autism and Human Progress - Simon Baron-Cohen"
+**Video URL:** https://www.youtube.com/watch?v=phqIVUoy70k
+**Language:** English
+
+**Files Created:**
+1. **[Pattern Seeking in Autism](concepts/pattern-seeking-in-autism.md)** (6,984 chars) - Analysis of pattern-seeking cognitive strengths in autism, Baron-Cohen's thesis about autistic contributions to human invention, STEM correlations, and shift from deficit to difference models
+2. **[Cognitive vs Affective Empathy](concepts/cognitive-vs-affective-empathy.md)** (9,362 chars) - Comprehensive analysis distinguishing between cognitive empathy (mental state recognition) and affective empathy (emotional response), challenging myths about autism and empathy deficits
+3. **[Simon Baron-Cohen](entities/simon-baron-cohen.md)** (9,038 chars) - Profile of Cambridge University autism researcher covering his career, key contributions (Pattern Seekers book, empathy theory, systematizing theory), neurodiversity advocacy, and research philosophy
+4. **[Transcript](raw/transcripts/youtube/phqIVUoy70k.md)** (16,206 chars, 406 segments) - Complete raw transcript with timestamps and metadata
+
+**Key Topics Covered:**
+- Pattern-seeking cognitive strengths in autism and relationship to human invention
+- "If-then" pattern recognition and systematic thinking in autistic individuals
+- STEM field correlation with autistic traits and adaptive cognitive profiles
+- Distinction between cognitive empathy (recognition challenges) and affective empathy (intact emotional caring)
+- Baron-Cohen's "sea change" from deficit-based to strength-based autism research
+- Neurodiversity paradigm: respect for cognitive differences vs. normal/abnormal brain framework
+- UN Autism Awareness Day human rights presentation and stereotypes contributing to rights violations
+- Avoiding new stereotypes while recognizing autistic cognitive strengths
+- Universal human value regardless of diagnosis or abilities
+
+**Research Integration:**
+- Connected to existing autism research and cognitive psychology frameworks
+- Synthesized Baron-Cohen's empathizing-systematizing theory components
+- Integrated neurodiversity paradigm with human rights considerations
+- Cross-referenced pattern-seeking with STEM fields and human invention
+- Addressed both cognitive strengths and social support needs
+
+**Tags Used:** autism, pattern-recognition, neurodiversity, cognitive-traits, stem, systematizing, human-invention, empathy, cognitive-empathy, affective-empathy, emotional-processing, social-cognition, autism-researcher, cambridge-university, empathy-theory, the-pattern-seekers, youtube, english-content
+
+**Graph Impact:** Added 3 new pages with extensive cross-references to related concepts and entities
+
+**Update:** Added 4th conceptual page - [Autism and Human Invention](concepts/autism-and-human-invention.md) (10,386 chars) - Comprehensive analysis of Baron-Cohen's thesis about autism's role in human progress, evolutionary perspectives on cognitive diversity, historical validation, and implications for education, workplace, and society
+
+**Total Content Created:** 4 pages (3 concepts, 1 entity) + 1 raw transcript, totaling ~42,470 characters of synthesized content
