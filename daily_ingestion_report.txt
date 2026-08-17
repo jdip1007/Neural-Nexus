@@ -1,0 +1,27 @@
+
+=== YouTube Ingestion Pipeline Report ===
+Generated: 2026-08-16 15:03:39
+
+=== Statistics ===
+Total videos in channel: 5
+Already processed: 11
+New videos processed: 2
+Unprocessed remaining: -6
+
+=== Processed Videos ===
+- Most Viewed The Infographics Show Videos (Compilation)
+  ID: 8zUhBnpVgdE
+  URL: https://www.youtube.com/watch?v=8zUhBnpVgdE
+  Processed: 2026-08-16 15:03:39
+
+- The Horror of the Zodiac Killer || The Infographics Show
+  ID: D4nPxik59oE
+  URL: https://www.youtube.com/watch?v=D4nPxik59oE
+  Processed: 2026-08-16 15:03:39
+
+=== Recent Activity ===
+- The Horror of the Zodiac Killer || The Infographics Show (2026-08-16 15:03:38)
+- Most Viewed The Infographics Show Videos (Compilation) (2026-08-16 15:03:37)
+- Test Video (2026-08-16 15:03:37)
+- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react (2026-08-16 14:52:48)
+- Why Your Brain Can't Handle Modern Life || The Infographics Show (2026-08-16 14:52:47)
