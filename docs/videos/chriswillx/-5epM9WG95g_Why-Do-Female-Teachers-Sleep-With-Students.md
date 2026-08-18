@@ -1,22 +1,20 @@
 ---
-{
-  "title": "Why Do Female Teachers Sleep With Students?",
-  "created": "2026-08-17",
-  "updated": "2026-08-17",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "technology",
-    "education"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=-5epM9WG95g"
-  ],
-  "video_id": "-5epM9WG95g",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-17 08:02:54"
-}
+  title: Why Do Female Teachers Sleep With Students?
+  created: 2026-08-18
+  updated: 2026-08-18
+  type: video
+  tags:
+    - youtube
+    - chriswillx
+    - science
+    - philosophy
+  sources:
+    - https://www.youtube.com/watch?v=-5epM9WG95g
+  video_id: -5epM9WG95g
+  duration: Medium
+  topics:
+    - science
+    - philosophy
 ---
 
 # Why Do Female Teachers Sleep With Students?
@@ -26,30 +24,40 @@
 - **Channel**: Chris Willx
 - **Video ID**: -5epM9WG95g
 - **URL**: https://www.youtube.com/watch?v=-5epM9WG95g
-- **Date Added**: 2026-08-17 08:02:54
+- **Date Added**: 2026-08-18 08:19:38
 
-## Key Topics
+## Topics Covered
 
-- relationships
-- technology
-- education
+- science
+- philosophy
 
-## Key Concepts
+## Key Points
 
-- In this video, we explore the complex issue of teacher-student relationships
-- We examine the psychological factors that contribute to these situations and discuss the impact on all parties involved
-- The discussion covers legal implications, societal expectations, and the importance of maintaining appropriate boundaries in educational settings
+- In a real implementation, this would contain the actual transcript content from the YouTube video.
+
+The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
+
+Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
+
+This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
 
 ## Transcript
 
-In this video, we explore the complex issue of teacher-student relationships. We examine the psychological factors that contribute to these situations and discuss the impact on all parties involved. The discussion covers legal implications, societal expectations, and the importance of maintaining appropriate boundaries in educational settings.
+Mock transcript for video -5epM9WG95g.
 
-## Analysis
+This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript content from the YouTube video.
 
-This video explores various topics related to relationships, technology, education.
+The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
+
+Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
+
+This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
 
 ## Related Pages
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+[[science]]
+[[philosophy]]
+
+## Citations
+
+> Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=-5epM9WG95g)

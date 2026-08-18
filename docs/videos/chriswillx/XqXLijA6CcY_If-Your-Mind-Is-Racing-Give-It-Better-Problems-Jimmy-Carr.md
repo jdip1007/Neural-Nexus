@@ -1,35 +1,35 @@
 ---
-  title: Q&A: Becoming A Dad, Favourite Peptides & Red Rising
+  title: If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
   created: 2026-08-18
   updated: 2026-08-18
   type: video
   tags:
     - youtube
     - chriswillx
-    - science
     - philosophy
+    - science
   sources:
-    - https://www.youtube.com/watch?v=8Oj3NxSLP1U
-  video_id: 8Oj3NxSLP1U
+    - https://www.youtube.com/watch?v=XqXLijA6CcY
+  video_id: XqXLijA6CcY
   duration: Medium
   topics:
-    - science
     - philosophy
+    - science
 ---
 
-# Q&A: Becoming A Dad, Favourite Peptides & Red Rising
+# If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
 
 ## Video Information
 
 - **Channel**: Chris Willx
-- **Video ID**: 8Oj3NxSLP1U
-- **URL**: https://www.youtube.com/watch?v=8Oj3NxSLP1U
-- **Date Added**: 2026-08-18 08:19:38
+- **Video ID**: XqXLijA6CcY
+- **URL**: https://www.youtube.com/watch?v=XqXLijA6CcY
+- **Date Added**: 2026-08-18 08:21:35
 
 ## Topics Covered
 
-- science
 - philosophy
+- science
 
 ## Key Points
 
@@ -43,7 +43,7 @@ This mock transcript serves as a placeholder for the actual transcript data that
 
 ## Transcript
 
-Mock transcript for video 8Oj3NxSLP1U.
+Mock transcript for video XqXLijA6CcY.
 
 This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript content from the YouTube video.
 
@@ -55,9 +55,9 @@ This mock transcript serves as a placeholder for the actual transcript data that
 
 ## Related Pages
 
-[[science]]
 [[philosophy]]
+[[science]]
 
 ## Citations
 
-> Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=8Oj3NxSLP1U)
+> Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=XqXLijA6CcY)

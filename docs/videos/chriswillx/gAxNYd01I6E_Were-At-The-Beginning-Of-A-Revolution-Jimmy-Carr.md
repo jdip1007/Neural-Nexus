@@ -1,18 +1,20 @@
 ---
-{
-  "title": "\"We're At The Beginning Of A Revolution\" - Jimmy Carr",
-  "created": "2026-08-17",
-  "updated": "2026-08-17",
-  "type": "video",
-  "tags": [],
-  "sources": [
-    "https://www.youtube.com/watch?v=gAxNYd01I6E"
-  ],
-  "video_id": "gAxNYd01I6E",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-17 08:02:51"
-}
+  title: "We're At The Beginning Of A Revolution" - Jimmy Carr
+  created: 2026-08-18
+  updated: 2026-08-18
+  type: video
+  tags:
+    - youtube
+    - chriswillx
+    - philosophy
+    - science
+  sources:
+    - https://www.youtube.com/watch?v=gAxNYd01I6E
+  video_id: gAxNYd01I6E
+  duration: Medium
+  topics:
+    - philosophy
+    - science
 ---
 
 # "We're At The Beginning Of A Revolution" - Jimmy Carr
@@ -22,27 +24,40 @@
 - **Channel**: Chris Willx
 - **Video ID**: gAxNYd01I6E
 - **URL**: https://www.youtube.com/watch?v=gAxNYd01I6E
-- **Date Added**: 2026-08-17 08:02:51
+- **Date Added**: 2026-08-18 08:23:12
 
-## Key Topics
+## Topics Covered
 
+- philosophy
+- science
 
+## Key Points
 
-## Key Concepts
+- In a real implementation, this would contain the actual transcript content from the YouTube video.
 
-- Comedian Jimmy Carr shares his unique perspective on current societal changes and technological developments
-- He discusses how we're entering a period of rapid transformation and what this means for individuals and communities
+The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
+
+Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
+
+This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
 
 ## Transcript
 
-Comedian Jimmy Carr shares his unique perspective on current societal changes and technological developments. He discusses how we're entering a period of rapid transformation and what this means for individuals and communities.
+Mock transcript for video gAxNYd01I6E.
 
-## Analysis
+This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript content from the YouTube video.
 
-This video explores various topics related to .
+The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
+
+Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
+
+This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
 
 ## Related Pages
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+[[philosophy]]
+[[science]]
+
+## Citations
+
+> Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=gAxNYd01I6E)
