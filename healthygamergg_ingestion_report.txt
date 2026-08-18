@@ -1,0 +1,35 @@
+
+=== HealthyGamerGG YouTube Ingestion Report ===
+Generated: 2026-08-17 15:49:13
+
+=== Environment ===
+- Neural Nexus Path: /home/hermes/Neural-Nexus/docs
+- Neural Nexus Repo: github.com/jdip1007/Neural-Nexus
+- Transcript API: True
+
+=== Statistics ===
+Total videos found: 8
+Already processed: 18
+New videos selected: 2
+Successfully processed: 2
+Processing success rate: 100.0%
+
+=== Processed Videos ===
+- How To Actually Have An Elite Mindset
+  ID: sample3
+  URL: https://www.youtube.com/watch?v=sample3
+  Processed: 2026-08-17 15:49:13
+
+- I Did Everything Right. I Still Can't Find Love
+  ID: sample8
+  URL: https://www.youtube.com/watch?v=sample8
+  Processed: 2026-08-17 15:49:13
+
+=== Unprocessed Videos ===
+
+=== Recent Activity ===
+- I Did Everything Right. I Still Can't Find Love (2026-08-17 15:49:11)
+- How To Actually Have An Elite Mindset (2026-08-17 15:49:08)
+- Can Men & Women Be Friends? (2026-08-17 15:37:52)
+- Why You Freeze Up When You Talk to Women (2026-08-17 15:37:49)
+- Why Modern Dating Feels Like Parenting (2026-08-17 15:37:46)

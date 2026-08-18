@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: entity
 classification: person.legal-figure
 domain: psychology
-tags: [criminal, serial-offender, hong-kong, dna-evidence, dangerous-person-2-0]
+tags: [criminal, serial-offender, hong-kong, dangerous-person-2-0]
 confidence: medium
 status: active
 reviewed: 2026-07-19

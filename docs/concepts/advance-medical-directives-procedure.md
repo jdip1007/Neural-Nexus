@@ -5,7 +5,7 @@ updated: 2026-08-04
 type: concept
 classification: legal-science.medical-law
 domain: general
-tags: [legal-procedure, medical-law, hong-kong-law, healthcare-administration, patient-rights]
+tags: [legal-procedure, hong-kong-law, healthcare-administration, patient-rights]
 sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 confidence: high
 status: active

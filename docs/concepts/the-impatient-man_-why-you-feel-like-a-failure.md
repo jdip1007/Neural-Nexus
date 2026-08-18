@@ -5,7 +5,7 @@ updated: 2026-07-21
 type: concept
 classification: psychology.personal-development
 domain: psychology
-tags: ['impatience', 'failure', 'self-perception', 'personal-development', 'healthygamergg']
+tags: [failure, self-perception, personal-development, healthygamergg]
 sources: [raw/videos/healthygamergg/The Impatient Man_ Why You Feel Like A Failure.md]
 confidence: medium
 status: active

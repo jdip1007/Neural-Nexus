@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: reading
 classification: laboratory.regulatory.guidance
 domain: laboratory
-tags: [aphl, verification, validation, clia, toolkit, method-evaluation, quality-management]
+tags: [aphl, clia, toolkit, method-evaluation, quality-management]
 sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
 url: https://aphl.org/resources/collections/toolkits/verification-validation-toolkit
 confidence: high

@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: real-estate.markets
 domain: real-estate
-tags: [housing-market-dynamics, real-estate, property-values, home-ownership, generational-wealth, cash-buyers, housing-affordability, real-estate-economics]
+tags: [housing-market-dynamics, property-values, home-ownership, generational-wealth, housing-affordability, real-estate-economics]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: medium
 status: active

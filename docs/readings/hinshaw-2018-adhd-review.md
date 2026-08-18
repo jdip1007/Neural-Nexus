@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: reading
 classification: psychology.mental-health
 domain: psychology
-tags: [adhd, mental-health, developmental-psychopathology, executive-function, heritability, neurobiology, comorbidity, intervention, stigma, gender-differences, prevalence, epigenetics]
+tags: [adhd, mental-health, developmental-psychopathology, executive-function, stigma, gender-differences]
 sources: [raw/articles/hinshaw-2018-adhd-review.md]
 confidence: high
 status: active

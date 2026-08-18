@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: biology.theoretical-biology.metabolic-scaling
 domain: biology
-tags: [wbe-theory, fractal-networks, metabolic-scaling, kleibers-law, scaling-laws, biological-networks, theoretical-biology]
+tags: [fractal-networks, metabolic-scaling, biological-networks, theoretical-biology]
 sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
 status: active

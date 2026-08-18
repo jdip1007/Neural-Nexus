@@ -4,7 +4,7 @@ created: {{date}}
 updated: {{date}}
 type: comparison
 domain: 
-tags: [comparison]
+tags: []
 sources: []
 confidence: medium
 status: active

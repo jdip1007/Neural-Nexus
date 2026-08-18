@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.method-evaluation.quality
 domain: laboratory
-tags: [verification, clia, fda-approved-tests, performance-characteristics, method-evaluation]
+tags: [clia, fda-approved-tests, performance-characteristics, method-evaluation]
 sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
 confidence: high
 status: active

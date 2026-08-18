@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: entity
 classification: person.media-figure
 domain: media
-tags: [science-communication, veritasium, youtube-educator, science-education, snatoms]
+tags: [science-communication, youtube-educator, science-education, snatoms]
 sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
 status: active

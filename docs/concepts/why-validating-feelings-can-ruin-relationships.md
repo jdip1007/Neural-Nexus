@@ -5,7 +5,7 @@ updated: 2026-07-21
 type: concept
 classification: psychology.relationships
 domain: psychology
-tags: ['relationships', 'emotions', 'validation', 'communication', 'healthygamergg']
+tags: [relationships, emotions, communication, healthygamergg]
 sources: [raw/videos/healthygamergg/Why _Validating Feelings_ Can Ruin Relationships.md]
 confidence: medium
 status: active

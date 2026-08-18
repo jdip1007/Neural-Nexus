@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: biology.metabolic-scaling
 domain: biology
-tags: [scale-book, geoffrey-west, scaling-laws, metabolic-scaling, theoretical-biology]
+tags: [geoffrey-west, metabolic-scaling, theoretical-biology]
 sources: []
 confidence: high
 status: active

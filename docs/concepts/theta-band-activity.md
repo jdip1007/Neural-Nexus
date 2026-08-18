@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: concept
 classification: biotechnology.neuroscience.brain-energy-dynamics
 domain: biotech
-tags: [neuroscience, brain-metabolism, neurovascular-coupling, sleep]
+tags: [brain-metabolism, neurovascular-coupling, sleep]
 sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
 status: active

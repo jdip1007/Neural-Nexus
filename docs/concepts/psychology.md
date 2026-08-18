@@ -5,7 +5,7 @@ updated: 2026-07-25
 type: concept
 classification: psychology.general
 domain: psychology
-tags: [psychology, behavior, cognitive-science, neuroscience]
+tags: [behavior, cognitive-science]
 sources: []
 confidence: high
 status: active

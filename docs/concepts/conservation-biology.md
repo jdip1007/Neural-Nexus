@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: concept
 classification: biotechnology.environmental-biology
 domain: biotech
-tags: [biology, ecology, environmental-science, biodiversity]
+tags: [biology, ecology, environmental-science]
 sources: []
 confidence: medium
 status: active

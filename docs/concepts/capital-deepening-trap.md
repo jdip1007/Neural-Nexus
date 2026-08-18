@@ -5,7 +5,7 @@ updated: 2026-08-11
 type: concept
 classification: economics.china
 domain: economics
-tags: [capital-deepening, china-economy, productivity, japan-comparison, structural-economics]
+tags: [capital-deepening, china-economy, japan-comparison, structural-economics]
 sources: [raw/pdfs/china-deepening-japan-problem-stephen-roach.md, raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 confidence: high
 status: active

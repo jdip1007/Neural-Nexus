@@ -5,7 +5,7 @@ updated: 2026-08-04
 type: concept
 classification: legal-science.medical-law
 domain: general
-tags: [case-studies, medical-practice, hong-kong-law, healthcare-experience, decision-making, cantonese]
+tags: [medical-practice, hong-kong-law, healthcare-experience, decision-making, cantonese]
 sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 confidence: high
 status: active

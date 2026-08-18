@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: biology.metabolic-scaling
 domain: biology
-tags: [metabolic-scaling, scaling-laws, power-law, metabolism, comparative-physiology]
+tags: [metabolic-scaling, power-law, comparative-physiology]
 sources: []
 confidence: high
 status: active

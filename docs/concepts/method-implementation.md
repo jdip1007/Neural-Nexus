@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.testing
 domain: laboratory
-tags: [method-implementation, laboratory, quality-management, method-evaluation]
+tags: [method-implementation, quality-management, method-evaluation]
 sources: []
 confidence: high
 status: active

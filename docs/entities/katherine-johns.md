@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: entity
 classification: person.researcher
 domain: biotech
-tags: [medical-research, medical-reviewer, hematology, medical-education]
+tags: [medical-research, medical-reviewer, medical-education]
 sources: [raw/videos/prion-disease-colleague-story.md]
 confidence: low
 status: active

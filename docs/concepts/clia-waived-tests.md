@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.regulatory
 domain: laboratory
-tags: [clia-waived-tests, clia, laboratory, fda-approved-tests, regulatory-compliance]
+tags: [clia-waived-tests, clia, fda-approved-tests, regulatory-compliance]
 sources: []
 confidence: high
 status: active

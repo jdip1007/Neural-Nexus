@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: concept
 classification: legal-science.forensic-evidence
 domain: psychology
-tags: [legal-science, forensic-science, hong-kong, dna-evidence, criminal-justice, dangerous-person-2-0]
+tags: [legal-science, forensic-science, hong-kong, criminal-justice, dangerous-person-2-0]
 confidence: medium
 status: active
 reviewed: 2026-07-19

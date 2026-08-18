@@ -4,7 +4,7 @@ created: 2026-07-29
 updated: 2026-07-29
 type: reading
 domain: biotech
-tags: [neuroscience, neurodegeneration, alzheimers-disease, tau-pathology, amyloid-beta, neuroimmunology, biomarker-discovery, disease-modifying-therapies, cryo-em, therapeutic-antibodies, biotech]
+tags: [neurodegeneration, alzheimers-disease, tau-pathology, neuroimmunology, biomarker-discovery, disease-modifying-therapies, cryo-em, therapeutic-antibodies, biotech]
 sources: [raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 confidence: high
 status: active

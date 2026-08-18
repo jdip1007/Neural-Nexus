@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.method-evaluation
 domain: laboratory
-tags: [statistical-analysis, accuracy, precision, diagnostic-accuracy, roc-analysis]
+tags: [statistical-analysis, accuracy, precision, diagnostic-accuracy]
 sources: []
 confidence: high
 status: active

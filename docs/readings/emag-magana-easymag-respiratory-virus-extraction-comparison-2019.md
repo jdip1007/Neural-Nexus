@@ -5,7 +5,7 @@ updated: 2026-08-01
 type: reading
 classification: laboratory.method-evaluation
 domain: laboratory
-tags: [validation, nucleic-acid-extraction, respiratory-viruses, qpcr, influenza, rsv, hmpv, adenovirus, laboratory-platform-comparison, performance-characteristics, clinical-validation, analytical-sensitivity, limit-of-detection]
+tags: [nucleic-acid-extraction, respiratory-viruses, qpcr, influenza, rsv, hmpv, laboratory-platform-comparison, performance-characteristics, clinical-validation, analytical-sensitivity, limit-of-detection]
 sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 confidence: high
 status: active

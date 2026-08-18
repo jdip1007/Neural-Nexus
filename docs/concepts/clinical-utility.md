@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.method-evaluation
 domain: laboratory
-tags: [clinical-utility, diagnostic-accuracy, laboratory, method-evaluation]
+tags: [clinical-utility, diagnostic-accuracy, method-evaluation]
 sources: []
 confidence: high
 status: active

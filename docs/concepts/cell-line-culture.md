@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: concept
 classification: biotechnology.laboratory-methods
 domain: biotech
-tags: [cell-biology, molecular-biology, tissue-culture, biotechnology]
+tags: [molecular-biology, tissue-culture, biotechnology]
 sources: [raw/articles/cell-line-dna-pure-extraction-method.md, raw/articles/cell-line-dna-pure-extraction-method-en-13.md]
 confidence: high
 status: active

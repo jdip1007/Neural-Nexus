@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: entity
 classification: person.researcher
 domain: biology
-tags: [complex-systems, theoretical-physics, scaling-laws, fractal-networks]
+tags: [complex-systems, theoretical-physics, fractal-networks]
 sources: []
 confidence: high
 status: active

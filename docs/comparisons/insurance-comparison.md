@@ -5,7 +5,7 @@ updated: 2026-07-25
 type: comparison
 classification: finance.insurance-products
 domain: finance
-tags: [insurance, comparison, financial-planning]
+tags: [insurance, financial-planning]
 sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
 confidence: high
 status: active

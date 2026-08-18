@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: concept
 classification: systems.knowledge-systems
 domain: biotech
-tags: [biology, genetics, biochemistry, biotechnology]
+tags: [biology, genetics, biotechnology]
 sources: []
 confidence: medium
 status: active

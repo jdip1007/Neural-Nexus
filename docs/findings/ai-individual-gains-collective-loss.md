@@ -5,7 +5,7 @@ updated: 2026-07-30
 type: finding
 classification: research-methodology.knowledge-management
 domain: ai
-tags: [ai, research, researcher, scientific-method, analysis, knowledge-management]
+tags: [ai, research, scientific-method, analysis, knowledge-management]
 sources: [raw/articles/ai-impacts-science-nature-2026.md]
 confidence: high
 status: active

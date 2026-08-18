@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: economics.labor
 domain: economics
-tags: [labor-market-changes, wage-growth, employment-trends, worker-rights, economic-inequality, generational-wealth, labor-economics, economics]
+tags: [labor-market-changes, employment-trends, worker-rights, economic-inequality, generational-wealth, labor-economics, economics]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: medium
 status: active

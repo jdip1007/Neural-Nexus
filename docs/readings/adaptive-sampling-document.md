@@ -4,7 +4,7 @@ created: 2026-07-19
 updated: 2026-07-19
 type: reading
 domain: biotech
-tags: [genomics, sequencing, bioinformatics, computational-biology, biotechnology]
+tags: [genomics, bioinformatics, computational-biology, biotechnology]
 sources: [raw/articles/adaptive-sampling-document.md]
 confidence: high
 status: active

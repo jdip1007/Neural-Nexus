@@ -5,7 +5,7 @@ updated: 2026-08-01
 type: entity
 classification: person.researcher
 domain: laboratory
-tags: [researcher, clinical-virology, respiratory-viruses, molecular-diagnostics]
+tags: [clinical-virology, respiratory-viruses, molecular-diagnostics]
 sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 confidence: high
 status: active

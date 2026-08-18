@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: entity
 classification: person.researcher
 domain: psychology
-tags: [researcher, bpsd, dementia, deprescribing, geriatric-medicine, knowledge-translation, university-of-toronto, research]
+tags: [bpsd, dementia, deprescribing, geriatric-medicine, knowledge-translation, university-of-toronto, research]
 sources: [raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
 confidence: high
 status: active

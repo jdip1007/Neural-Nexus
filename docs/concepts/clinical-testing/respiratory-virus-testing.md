@@ -5,7 +5,7 @@ updated: 2026-08-01
 type: concept
 classification: laboratory.clinical-testing
 domain: laboratory
-tags: [respiratory-viruses, clinical-virology, molecular-diagnostics, qpcr, influenza, rsv, hmpv, adenovirus]
+tags: [respiratory-viruses, clinical-virology, molecular-diagnostics, qpcr, influenza, rsv, hmpv]
 sources: []
 confidence: low
 status: stub

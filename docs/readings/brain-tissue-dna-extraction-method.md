@@ -4,7 +4,7 @@ created: 2026-07-19
 updated: 2026-07-19
 type: reading
 domain: biotech
-tags: [dna-extraction, molecular-biology, biotechnology, neuroscience, tissue-preparation]
+tags: [dna-extraction, molecular-biology, biotechnology, tissue-preparation]
 sources: [raw/articles/brain-tissue-dna-extraction-method.md]
 confidence: high
 status: active

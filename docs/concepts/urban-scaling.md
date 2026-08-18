@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: biology.metabolic-scaling
 domain: biology
-tags: [urban-scaling, scaling-laws, complex-systems, metabolic-scaling, power-law]
+tags: [urban-scaling, complex-systems, metabolic-scaling, power-law]
 sources: []
 confidence: high
 status: active

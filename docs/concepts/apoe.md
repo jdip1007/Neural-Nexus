@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: concept
 classification: biotechnology.neuroscience.neurodegeneration
 domain: biotech
-tags: [neuroscience, neurodegeneration, alzheimers-disease, apoe, genetics, gene-therapy, therapeutic-targeting]
+tags: [neurodegeneration, alzheimers-disease, apoe, genetics, therapeutic-targeting]
 sources: [raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 confidence: high
 status: active

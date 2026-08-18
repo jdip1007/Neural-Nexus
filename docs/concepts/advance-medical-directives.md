@@ -5,7 +5,7 @@ updated: 2026-08-04
 type: concept
 classification: legal-science.medical-law
 domain: general
-tags: [medical-law, hong-kong-law, patient-rights, end-of-life-care, cantonese]
+tags: [hong-kong-law, patient-rights, end-of-life-care, cantonese]
 sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 confidence: high
 status: active

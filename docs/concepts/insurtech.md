@@ -5,7 +5,7 @@ updated: 2026-07-25
 type: concept
 classification: finance.insurance-products
 domain: finance
-tags: [insurance, technology]
+tags: [insurance]
 sources: []
 confidence: medium
 status: draft

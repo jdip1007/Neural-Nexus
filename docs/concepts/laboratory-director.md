@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.regulatory
 domain: laboratory
-tags: [laboratory-director, clia, laboratory, regulatory-compliance, quality-management]
+tags: [laboratory-director, clia, regulatory-compliance, quality-management]
 sources: []
 confidence: high
 status: active

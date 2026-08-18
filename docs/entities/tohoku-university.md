@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: entity
 classification: organization.research-institution
 domain: biotech
-tags: [university, research-institution, japan, neuroscience]
+tags: [research-institution, japan]
 sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
 status: active

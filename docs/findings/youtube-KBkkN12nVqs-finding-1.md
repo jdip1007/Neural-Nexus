@@ -5,7 +5,7 @@ updated: 2026-08-16
 type: finding
 domain: ai
 classification: general.media.insights
-tags: [youtube, video-derived, finding, KBkkN12nVqs]
+tags: [video-derived, finding]
 sources: [raw/videos/youtube-KBkkN12nVqs-transcript.md]
 confidence: medium
 status: active

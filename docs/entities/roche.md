@@ -5,7 +5,7 @@ updated: 2026-08-01
 type: entity
 classification: organization.manufacturer
 domain: laboratory
-tags: [manufacturer, laboratory-equipment, nucleic-acid-extraction, in-vitro-diagnostics]
+tags: [laboratory-equipment, nucleic-acid-extraction, in-vitro-diagnostics]
 sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
 confidence: high
 status: active

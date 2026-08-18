@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: reading
 classification: biotechnology.neuroscience.neurodegeneration
 domain: biotech
-tags: [neurodegeneration, prion-disease, creutzfeldt-jakob-disease, kuru, medical-case, neurodegenerative-disease, infectious-proteins, brain-disease]
+tags: [neurodegeneration, prion-disease, creutzfeldt-jakob-disease, kuru, neurodegenerative-disease, infectious-proteins, brain-disease]
 sources: [raw/videos/prion-disease-colleague-story.md]
 confidence: medium
 status: active

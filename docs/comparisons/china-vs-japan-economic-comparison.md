@@ -5,7 +5,7 @@ updated: 2026-08-11
 type: comparison
 classification: economics.comparative
 domain: economics
-tags: [china, japan, economic-comparison, capital-deepening, lost-decades]
+tags: [china, japan, economic-comparison, capital-deepening]
 sources: [raw/pdfs/china-deepening-japan-problem-stephen-roach.md, raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 confidence: high
 status: active

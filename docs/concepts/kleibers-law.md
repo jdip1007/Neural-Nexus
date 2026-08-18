@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: biology.comparative-physiology.metabolic-scaling
 domain: biology
-tags: [metabolic-scaling, power-law, metabolism, scaling-laws, comparative-physiology, basal-metabolic-rate]
+tags: [metabolic-scaling, power-law, comparative-physiology, basal-metabolic-rate]
 sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
 status: active

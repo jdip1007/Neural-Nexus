@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.regulatory
 domain: laboratory
-tags: [change-control, quality-management, laboratory, regulatory-compliance]
+tags: [change-control, quality-management, regulatory-compliance]
 sources: []
 confidence: high
 status: active

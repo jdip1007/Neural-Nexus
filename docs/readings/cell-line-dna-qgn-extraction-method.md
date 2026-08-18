@@ -4,7 +4,7 @@ created: 2026-07-19
 updated: 2026-07-19
 type: reading
 domain: biotech
-tags: [dna-extraction, cell-line, molecular-biology, biotechnology, qgn-method]
+tags: [dna-extraction, cell-line, molecular-biology, biotechnology]
 sources: [raw/articles/cell-line-dna-qgn-extraction-method.md, raw/articles/cell-line-dna-qgn-extraction-method-en-13.md]
 confidence: high
 status: active

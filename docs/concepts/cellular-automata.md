@@ -5,7 +5,7 @@ updated: 2026-07-25
 type: concept
 classification: computer-science.simulation
 domain: devops
-tags: [simulation, data-structures, algorithms]
+tags: [data-structures]
 sources: [raw/articles/sand-game-simulation.md]
 confidence: medium
 status: draft

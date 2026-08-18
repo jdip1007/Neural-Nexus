@@ -5,7 +5,7 @@ updated: 2026-08-07
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, m5q-PIN3KSE]
+tags: [video-summary]
 sources: [raw/videos/youtube-m5q-PIN3KSE-transcript.md]
 published: 2026-08-07
 time_sensitive: True

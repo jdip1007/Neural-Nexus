@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: concept
 classification: biotechnology.neuroscience.neurodegeneration
 domain: biotech
-tags: [neuroscience, neurodegeneration, alzheimers-disease, neuroinflammation, microglia, astrocytes, innate-immunity, adaptive-immunity, biomarkers]
+tags: [neurodegeneration, alzheimers-disease, neuroinflammation, microglia, innate-immunity, adaptive-immunity]
 sources: [raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 confidence: high
 status: active

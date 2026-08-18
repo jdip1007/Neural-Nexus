@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.method-evaluation.quality
 domain: laboratory
-tags: [validation, laboratory-developed-tests, ldt, performance-characteristics, method-development]
+tags: [laboratory-developed-tests, ldt, performance-characteristics, method-development]
 sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
 confidence: high
 status: active

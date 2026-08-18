@@ -1,0 +1,42 @@
+
+=== YouTube Ingestion Pipeline Report ===
+Generated: 2026-08-17 08:03:47
+
+=== Statistics ===
+Total videos in channel: 10
+Already processed: 10
+New videos processed: 5
+Unprocessed remaining: 0
+
+=== Processed Videos ===
+- The Hugging Face AI Attack Should Terrify Us
+  ID: 4dIgq-efQpY
+  URL: https://www.youtube.com/watch?v=4dIgq-efQpY
+  Processed: 2026-08-17 08:03:47
+
+- Marriage Kills Women's Sex Drive: Here's Why
+  ID: _ZMYDb86DzY
+  URL: https://www.youtube.com/watch?v=_ZMYDb86DzY
+  Processed: 2026-08-17 08:03:47
+
+- Q&A: Becoming A Dad, Favourite Peptides & Red Rising
+  ID: 8Oj3NxSLP1U
+  URL: https://www.youtube.com/watch?v=8Oj3NxSLP1U
+  Processed: 2026-08-17 08:03:47
+
+- "It wasn't my baggie. But if it was..." - Hunter Biden
+  ID: XzIY0M612A0
+  URL: https://www.youtube.com/watch?v=XzIY0M612A0
+  Processed: 2026-08-17 08:03:47
+
+- Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
+  ID: ka2GKBfviic
+  URL: https://www.youtube.com/watch?v=ka2GKBfviic
+  Processed: 2026-08-17 08:03:47
+
+=== Recent Activity ===
+- Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2 (2026-08-17 08:03:42)
+- "It wasn't my baggie. But if it was..." - Hunter Biden (2026-08-17 08:03:40)
+- Q&A: Becoming A Dad, Favourite Peptides & Red Rising (2026-08-17 08:03:38)
+- Marriage Kills Women's Sex Drive: Here's Why (2026-08-17 08:03:35)
+- The Hugging Face AI Attack Should Terrify Us (2026-08-17 08:03:33)

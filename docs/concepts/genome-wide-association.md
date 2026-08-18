@@ -5,7 +5,7 @@ updated: 2026-08-06
 type: concept
 classification: research-methodology.genetics
 domain: research-methodology
-tags: [genome-wide-association, gwas, genetics, statistical-genetics, genetic-epidemiology, complex-traits, case-control, quantitative-genetics]
+tags: [genome-wide-association, gwas, genetics, statistical-genetics, genetic-epidemiology, complex-traits, quantitative-genetics]
 sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
 confidence: high
 status: active

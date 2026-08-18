@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: entity
 classification: person.researcher
 domain: biology
-tags: [metabolic-scaling, ecological-scaling, theoretical-biology, scaling-laws]
+tags: [metabolic-scaling, ecological-scaling, theoretical-biology]
 sources: []
 confidence: high
 status: active

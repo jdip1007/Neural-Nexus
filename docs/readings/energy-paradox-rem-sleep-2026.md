@@ -4,7 +4,7 @@ created: 2026-07-29
 updated: 2026-07-29
 type: reading
 domain: biotech
-tags: [neuroscience, sleep, brain-metabolism, REM-sleep, neurovascular-coupling, astrocytes, ATP, pyruvate, energy-dynamics]
+tags: [sleep, brain-metabolism, REM-sleep, neurovascular-coupling, ATP, pyruvate, energy-dynamics]
 sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
 status: active

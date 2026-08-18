@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: entity
 classification: person.researcher
 domain: biology
-tags: [kleibers-law, metabolic-scaling, comparative-physiology, agricultural-science, historical-biologist]
+tags: [metabolic-scaling, comparative-physiology, agricultural-science, historical-biologist]
 sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
 status: active

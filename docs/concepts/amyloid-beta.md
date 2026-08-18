@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: concept
 classification: biotechnology.neuroscience.neurodegeneration
 domain: biotech
-tags: [neuroscience, neurodegeneration, alzheimers-disease, amyloid-beta, therapeutic-antibodies, cryo-em]
+tags: [neurodegeneration, alzheimers-disease, therapeutic-antibodies, cryo-em]
 sources: [raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 confidence: high
 status: active

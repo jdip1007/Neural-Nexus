@@ -5,7 +5,7 @@ updated: 2026-07-18
 type: concept
 classification: systems.knowledge-systems
 domain: hermes
-tags: [knowledge-management, workflow, automation]
+tags: [knowledge-management, workflow]
 sources: []
 confidence: high
 status: active

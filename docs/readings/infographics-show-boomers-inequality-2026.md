@@ -8,7 +8,7 @@ created: 2026-08-02
 updated: 2026-08-07
 type: reading
 domain: finance
-tags: [baby-boomers, wealth-concentration, economic-inequality, asset-inflation, interest-rates, monetary-policy, generational-wealth, housing-market-dynamics]
+tags: [wealth-concentration, economic-inequality, asset-inflation, interest-rates, monetary-policy, generational-wealth, housing-market-dynamics]
 sources: [raw/videos/infographics-show-boomers-inequality-2026.md]
 confidence: high
 status: active

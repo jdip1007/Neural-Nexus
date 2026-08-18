@@ -5,7 +5,7 @@ updated: 2026-08-06
 type: reading
 classification: psychology.mental-health
 domain: psychology
-tags: [adhd, genetics, genome-wide-association, meta-analysis, neurodevelopmental, neuropsychiatry, heritability, polygenic-risk]
+tags: [adhd, genetics, genome-wide-association, meta-analysis, neurodevelopmental, neuropsychiatry, polygenic-risk]
 sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
 confidence: high
 status: active

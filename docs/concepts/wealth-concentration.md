@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: economics.wealth-distribution
 domain: economics
-tags: [wealth-concentration, economic-inequality, wealth-inequality, wealth-gap, wealth-distribution, economic-power, wealth-accumulation, economics]
+tags: [wealth-concentration, economic-inequality, wealth-inequality, wealth-distribution, economic-power, wealth-accumulation, economics]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: high
 status: active

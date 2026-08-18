@@ -5,7 +5,7 @@ updated: 2026-08-04
 type: concept
 classification: legal-science.medical-law
 domain: general
-tags: [hong-kong-law, medical-law, healthcare-system, legal-framework, patient-rights, cantonese]
+tags: [hong-kong-law, healthcare-system, legal-framework, patient-rights, cantonese]
 sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 confidence: high
 status: active

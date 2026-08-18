@@ -5,7 +5,7 @@ updated: 2026-07-18
 type: entity
 classification: person.researcher
 domain: ai, biotech, research
-tags: [researcher, computer-science, knowledge-management, ai]
+tags: [computer-science, knowledge-management, ai]
 sources: [raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md]
 confidence: high
 status: active

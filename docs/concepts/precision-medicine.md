@@ -5,7 +5,7 @@ updated: 2026-08-06
 type: concept
 classification: research-methodology.healthcare
 domain: research-methodology
-tags: [precision-medicine, personalized-medicine, healthcare, genomics, pharmacogenomics, biomarkers, treatment-personalization, individualized-care]
+tags: [precision-medicine, personalized-medicine, genomics, pharmacogenomics, treatment-personalization, individualized-care]
 sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
 confidence: high
 status: active

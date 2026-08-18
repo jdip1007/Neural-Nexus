@@ -5,7 +5,7 @@ updated: 2026-08-01
 type: concept
 classification: laboratory.method-evaluation
 domain: laboratory
-tags: [performance-characteristics, accuracy, precision, sensitivity, specificity, analytical-sensitivity, clinical-validation]
+tags: [performance-characteristics, accuracy, precision, analytical-sensitivity, clinical-validation]
 sources: []
 confidence: low
 status: stub

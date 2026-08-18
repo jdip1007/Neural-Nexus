@@ -4,7 +4,7 @@ created: 2026-07-31
 updated: 2026-07-31
 type: reading
 domain: biology
-tags: [metabolic-scaling, kleibers-law, scaling-laws, fractal-networks, lifespan, heart-rate, biology, mathematics, wbe-theory]
+tags: [metabolic-scaling, fractal-networks, lifespan, biology]
 sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
 status: active

@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: demographics.economics
 domain: demographics
-tags: [demographic-economic-impact, generational-cohorts, population-aging, labor-market, economic-growth, demographic-bulge, demographic-wall, economics]
+tags: [demographic-economic-impact, generational-cohorts, population-aging, economic-growth, demographic-bulge, demographic-wall, economics]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: medium
 status: active

@@ -5,7 +5,7 @@ updated: 2026-07-21
 type: concept
 classification: psychology.dating
 domain: psychology
-tags: ['intelligence', 'dating', 'relationships', 'smart-people', 'healthygamergg']
+tags: [dating, relationships, healthygamergg]
 sources: [raw/videos/healthygamergg/Why Smart People Are Bad At Dating.md]
 confidence: medium
 status: active

@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: biology.metabolic-scaling
 domain: biology
-tags: [fractal-networks, fractal-geometry, biological-networks, scaling-laws, wbe-theory]
+tags: [fractal-networks, fractal-geometry, biological-networks]
 sources: []
 confidence: high
 status: active

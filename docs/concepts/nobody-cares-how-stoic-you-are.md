@@ -5,7 +5,7 @@ updated: 2026-07-21
 type: concept
 classification: psychology.personality
 domain: psychology
-tags: ['stoicism', 'personality', 'authenticity', 'social-perception', 'healthygamergg']
+tags: [stoicism, social-perception, healthygamergg]
 sources: [raw/videos/healthygamergg/Nobody Cares How Stoic You Are (Anima_Animus).md]
 confidence: medium
 status: active

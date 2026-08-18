@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: economics.income-distribution
 domain: economics
-tags: [economic-inequality, wealth-gap, income-inequality, generational-wealth, wealth-concentration, economic-justice, social-mobility, economics]
+tags: [economic-inequality, income-inequality, generational-wealth, wealth-concentration, economic-justice, social-mobility, economics]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: high
 status: active

@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: concept
 classification: psychology.media-ethics
 domain: psychology
-tags: [media-ethics, celebrity-privacy, blackmail, hong-kong, dangerous-person-2-0]
+tags: [celebrity-privacy, blackmail, hong-kong, dangerous-person-2-0]
 confidence: medium
 status: active
 reviewed: 2026-07-19

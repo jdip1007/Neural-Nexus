@@ -5,7 +5,7 @@ updated: 2026-08-06
 type: concept
 classification: research-methodology.genetics
 domain: research-methodology
-tags: [heritability, genetics, quantitative-genetics, twin-studies, family-studies, genetic-epidemiology, statistical-genetics]
+tags: [genetics, quantitative-genetics, family-studies, genetic-epidemiology, statistical-genetics]
 sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
 confidence: high
 status: active

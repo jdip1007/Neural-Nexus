@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.regulatory
 domain: laboratory
-tags: [fda-approval-process, fda-oversight, fda-approved-tests, laboratory, regulatory-compliance]
+tags: [fda-approval-process, fda-oversight, fda-approved-tests, regulatory-compliance]
 sources: []
 confidence: high
 status: active

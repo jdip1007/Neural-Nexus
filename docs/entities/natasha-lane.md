@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: entity
 classification: person.researcher
 domain: psychology
-tags: [researcher, bpsd, geriatric-medicine, university-of-british-columbia, aging, research]
+tags: [bpsd, geriatric-medicine, university-of-british-columbia, aging, research]
 sources: [raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
 confidence: high
 status: active

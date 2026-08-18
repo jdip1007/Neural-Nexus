@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.testing
 domain: laboratory
-tags: [method-development, ldt, laboratory-developed-tests, method-evaluation, validation]
+tags: [method-development, ldt, laboratory-developed-tests, method-evaluation]
 sources: []
 confidence: high
 status: active

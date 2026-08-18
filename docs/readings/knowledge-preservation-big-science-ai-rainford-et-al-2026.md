@@ -4,7 +4,7 @@ created: 2026-07-18
 updated: 2026-07-18
 type: reading
 domain: ai, biotech
-tags: [knowledge-management, research, reproducibility, open-science, ai]
+tags: [knowledge-management, research, reproducibility, ai]
 sources: [raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md]
 confidence: high
 status: active

@@ -5,7 +5,7 @@ updated: 2026-07-30
 type: entity
 classification: person.researcher
 domain: ai
-tags: [researcher, researcher, ai, research-methodology, knowledge-management, computer-science]
+tags: [ai, research-methodology, knowledge-management, computer-science]
 sources: [raw/articles/ai-impacts-science-nature-2026.md]
 confidence: high
 status: active

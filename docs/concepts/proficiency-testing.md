@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.regulatory
 domain: laboratory
-tags: [proficiency-testing, quality-control, clia, laboratory, cms]
+tags: [proficiency-testing, quality-control, clia, cms]
 sources: []
 confidence: high
 status: active

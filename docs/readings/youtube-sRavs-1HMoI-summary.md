@@ -5,7 +5,7 @@ updated: 2026-08-16
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, sRavs-1HMoI]
+tags: [video-summary]
 sources: [raw/videos/youtube-sRavs-1HMoI-transcript.md]
 published: 2026-08-16
 time_sensitive: True

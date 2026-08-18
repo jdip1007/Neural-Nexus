@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: concept
 classification: biotechnology.laboratory-methods
 domain: biotech
-tags: [laboratory-technique, molecular-biology, biochemistry, quality-control]
+tags: [laboratory-technique, molecular-biology, quality-control]
 sources: []
 confidence: medium
 status: active

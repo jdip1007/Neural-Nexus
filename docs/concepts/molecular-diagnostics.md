@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.testing
 domain: laboratory
-tags: [molecular-diagnostics, ngs-validation, bioinformatics-validation, laboratory, method-evaluation]
+tags: [molecular-diagnostics, ngs-validation, bioinformatics-validation, method-evaluation]
 sources: []
 confidence: high
 status: active

@@ -5,7 +5,7 @@ updated: 2025-01-18
 type: comparison
 classification: systems.knowledge-systems
 domain: hermes
-tags: [audit, neural-nexus, quality-assurance, lint, knowledge-base, systems-audit]
+tags: [audit, quality-assurance, lint, knowledge-base, systems-audit]
 sources: []
 confidence: high
 status: active

@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: psychology.neuroscience.prefrontal-cortex-development
 domain: psychology
-tags: [prefrontal-cortex, executive-function, brain-connectivity, neurodevelopment, adolescence, genetics, longitudinal-study, mental-health, research]
+tags: [prefrontal-cortex, executive-function, brain-connectivity, neurodevelopment, genetics, longitudinal-study, mental-health, research]
 sources: [raw/articles/shared-neural-basis-psychiatric-comorbidity.md]
 confidence: high
 status: active

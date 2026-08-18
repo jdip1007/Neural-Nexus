@@ -22,9 +22,10 @@ nav:
     - ideas/
   - Findings:
     - findings/
-  - Knowledge Graph: graph.md
-  - Schema: SCHEMA.md
+  - Videos:
+    - videos/
   - Extra Pages:
+    - Schema: SCHEMA.md
     - Tags: tags.md
     - Log: log.md
     - Index Catalog: index-catalog.md

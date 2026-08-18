@@ -5,7 +5,7 @@ updated: 2026-07-18
 type: concept
 classification: research-methodology.reproducibility
 domain: ai, biotech, research
-tags: [reproducibility, research-crisis, scientific-method, validation]
+tags: [reproducibility, research-crisis, scientific-method]
 sources: [raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md]
 confidence: high
 status: active

@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: economics.wealth-distribution
 domain: economics
-tags: [generational-wealth-transfer, wealth-concentration, inheritance, economic-inequality, baby-boomers, intergenerational, wealth-distribution, economics]
+tags: [generational-wealth-transfer, wealth-concentration, economic-inequality, intergenerational, wealth-distribution, economics]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: medium
 status: active

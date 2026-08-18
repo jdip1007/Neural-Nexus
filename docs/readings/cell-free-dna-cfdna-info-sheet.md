@@ -4,7 +4,7 @@ created: 2026-07-19
 updated: 2026-07-19
 type: reading
 domain: biotech
-tags: [dna-extraction, molecular-biology, biotechnology, liquid-biopsy, diagnostics]
+tags: [dna-extraction, molecular-biology, biotechnology, liquid-biopsy]
 sources: [raw/articles/cell-free-dna-cfdna-info-sheet.md]
 confidence: high
 status: active

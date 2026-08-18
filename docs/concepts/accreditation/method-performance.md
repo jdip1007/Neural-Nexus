@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.method-evaluation.quality
 domain: laboratory
-tags: [performance-characteristics, accuracy, precision, sensitivity, specificity, analytical-validation]
+tags: [performance-characteristics, accuracy, precision, analytical-validation]
 sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
 confidence: high
 status: active

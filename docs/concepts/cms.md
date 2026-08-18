@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.regulatory
 domain: laboratory
-tags: [cms, clia, federal-regulations, laboratory, regulatory-compliance]
+tags: [cms, clia, federal-regulations, regulatory-compliance]
 sources: []
 confidence: high
 status: active

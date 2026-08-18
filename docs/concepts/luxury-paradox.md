@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: economics.monetary-policy
 domain: economics
-tags: [luxury-paradox, interest-rates, monetary-policy, asset-owners, economic-policy, wealth-concentration, economics]
+tags: [luxury-paradox, interest-rates, monetary-policy, economic-policy, wealth-concentration, economics]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: medium
 status: active

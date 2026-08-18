@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: concept
 classification: psychology.forensic-psychology
 domain: psychology
-tags: [psychology, criminal-behavior, forensic-psychology, hong-kong, dangerous-person-2-0]
+tags: [criminal-behavior, forensic-psychology, hong-kong, dangerous-person-2-0]
 confidence: medium
 status: active
 reviewed: 2026-07-19

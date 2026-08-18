@@ -4,7 +4,7 @@ created: 2025-01-21
 updated: 2026-07-31
 type: reading
 domain: psychology
-tags: [psychiatric-comorbidity, neuropsychopathology, connectomics, longitudinal-study, executive-function, prefrontal-cortex, genetics, mental-health, research]
+tags: [psychiatric-comorbidity, neuropsychopathology, longitudinal-study, executive-function, prefrontal-cortex, genetics, mental-health, research]
 sources: [raw/articles/shared-neural-basis-psychiatric-comorbidity.md]
 confidence: high
 status: active

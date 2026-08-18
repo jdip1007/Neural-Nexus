@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: entity
 classification: person.researcher
 domain: biotech
-tags: [neuroscience, researcher, tohoku-university, glial-biology, brain-physiology]
+tags: [tohoku-university, glial-biology, brain-physiology]
 sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
 status: active

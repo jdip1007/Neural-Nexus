@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: demographics.generation
 domain: demographics
-tags: [baby-boomers, generational-cohort, demographic-bulge, wealth-concentration, economic-impact, generation-x, millennials, gen-z, demographics]
+tags: [generational-cohort, demographic-bulge, wealth-concentration, economic-impact, gen-z]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: medium
 status: active

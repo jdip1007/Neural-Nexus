@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: entity
 classification: person.researcher
 domain: biology
-tags: [wbe-theory, scaling-laws, complex-systems, theoretical-physics, fractal-geometry, urban-scaling]
+tags: [complex-systems, theoretical-physics, fractal-geometry, urban-scaling]
 sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
 status: active

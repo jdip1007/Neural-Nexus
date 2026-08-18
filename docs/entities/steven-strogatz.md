@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: entity
 classification: person.researcher
 domain: biology
-tags: [complex-systems, mathematics, theoretical-physics, scaling-laws]
+tags: [complex-systems, theoretical-physics]
 sources: []
 confidence: high
 status: active

@@ -5,7 +5,7 @@ updated: 2026-08-07
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, I_17-FIqadU]
+tags: [video-summary]
 sources: [raw/videos/youtube-I_17-FIqadU-transcript.md]
 published: 2026-08-07
 time_sensitive: True

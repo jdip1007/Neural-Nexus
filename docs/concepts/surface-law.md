@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: biology.historical-theories.comparative-physiology
 domain: biology
-tags: [surface-law, metabolic-scaling, historical-biology, superseded-theory, allometry]
+tags: [metabolic-scaling, historical-biology, superseded-theory, allometry]
 sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
 status: active

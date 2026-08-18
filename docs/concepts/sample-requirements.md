@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.method-evaluation
 domain: laboratory
-tags: [sample-requirements, method-evaluation, laboratory, quality-control]
+tags: [sample-requirements, method-evaluation, quality-control]
 sources: []
 confidence: high
 status: active

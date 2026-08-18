@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: laboratory.regulatory.legal
 domain: laboratory
-tags: [clia, laboratory-regulations, cms, 42-cfr-493, federal-regulations]
+tags: [clia, laboratory-regulations, cms, federal-regulations]
 sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md, ]
 confidence: high
 status: active
