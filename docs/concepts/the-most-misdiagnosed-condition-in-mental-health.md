@@ -5,7 +5,7 @@ updated: 2026-07-21
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: ['mental-health', 'diagnosis', 'misdiagnosis', 'cognitive-disengagement', 'healthygamergg']
+tags: [mental-health, diagnosis, cognitive-disengagement, healthygamergg]
 sources: [raw/videos/healthygamergg/The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome).md]
 confidence: medium
 status: active

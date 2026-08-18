@@ -1,4 +1,6 @@
 ---
+created: 2026-08-18
+title: Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
 {
   "title": "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2",
   "created": "2026-08-17",
@@ -15,6 +17,8 @@
   "transcript_api": "transcriptapi.com",
   "ingestion_date": "2026-08-17 08:03:42"
 }
+updated: 2026-08-18
+domain: internet-culture
 ---
 
 # Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2

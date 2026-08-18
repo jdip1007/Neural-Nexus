@@ -15,6 +15,7 @@
   topics:
     - philosophy
     - science
+domain: internet-culture
 ---
 
 # "We're At The Beginning Of A Revolution" - Jimmy Carr

@@ -5,7 +5,7 @@ updated: 2026-07-31
 type: concept
 classification: psychology.mental-health.comorbidity
 domain: psychology
-tags: [psychiatric-comorbidity, mental-health, diagnosis, executive-function, prefrontal-cortex, genetics, neuroscience, longitudinal-study]
+tags: [psychiatric-comorbidity, mental-health, diagnosis, executive-function, prefrontal-cortex, genetics, longitudinal-study]
 sources: [raw/articles/shared-neural-basis-psychiatric-comorbidity.md]
 confidence: high
 status: active

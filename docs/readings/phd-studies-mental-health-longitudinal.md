@@ -18,6 +18,7 @@ published: "19 September 2025"
 related: [phd-mental-health-crisis, academic-burnout]
 classification: psychology.mental-health.academia
 domain: psychology
+sources: [raw/articles/phd-mental-health-longitudinal-bergvall-2025.md]
 ---
 
 # The Impact of PhD Studies on Mental Health — A Longitudinal Population Study

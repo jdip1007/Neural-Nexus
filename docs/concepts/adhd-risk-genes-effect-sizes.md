@@ -5,7 +5,7 @@ updated: 2026-08-06
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: [adhd, genetics, risk-genes, odd-ratios, genome-wide-association, polygenic, neuropsychiatry]
+tags: [adhd, genetics, genome-wide-association, polygenic, neuropsychiatry]
 sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
 confidence: high
 status: active

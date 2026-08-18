@@ -9,6 +9,7 @@ sources: [raw/transcripts/youtube/phqIVUoy70k.md]
 confidence: high
 status: active
 reviewed: 2026-08-17
+classification: psychology.cognitive-science.neurodiversity
 ---
 
 # Pattern Seeking in Autism

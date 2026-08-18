@@ -17,6 +17,7 @@
     - health
     - technology
     - psychology
+domain: internet-culture
 ---
 
 # Understanding Mental Health in the Digital Age

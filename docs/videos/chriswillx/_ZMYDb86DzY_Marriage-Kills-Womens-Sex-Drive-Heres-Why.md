@@ -15,6 +15,7 @@
   topics:
     - philosophy
     - science
+domain: internet-culture
 ---
 
 # Marriage Kills Women's Sex Drive: Here's Why

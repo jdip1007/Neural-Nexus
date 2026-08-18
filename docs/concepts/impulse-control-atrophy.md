@@ -1,6 +1,7 @@
 ---
+title: Impulse Control Atrophy
 type: concept
-tags: [digital-wellness, impulse-control, frontal-lobe, atrophy]
+tags: [digital-wellness, impulse-control, atrophy]
 related: [terminal-boredom, executive-function-rust, brain-rot]
 classification: psychology.mental-health.digital-wellness
 domain: psychology

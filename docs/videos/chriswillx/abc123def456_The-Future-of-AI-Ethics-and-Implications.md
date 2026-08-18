@@ -21,6 +21,7 @@
     - health
     - economics
     - AI
+domain: internet-culture
 ---
 
 # The Future of AI: Ethics and Implications

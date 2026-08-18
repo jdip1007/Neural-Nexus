@@ -17,6 +17,7 @@
     - health
     - psychology
     - philosophy
+domain: internet-culture
 ---
 
 # The Philosophy of Happiness: Ancient Wisdom for Modern Life

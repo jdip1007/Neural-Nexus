@@ -1,4 +1,5 @@
 ---
+title: Brain Rot
 type: concept
 tags: [digital-wellness, addiction, mental-health, dopamine]
 related: [dopamine-lemon-metaphor, artificial-brain-circuit-activation, social-media-addiction]

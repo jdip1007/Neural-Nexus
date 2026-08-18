@@ -5,7 +5,7 @@ updated: 2026-08-07
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, I_17-FIqadU]
+tags: [video-derived, persons]
 sources: [raw/videos/youtube-I_17-FIqadU-transcript.md]
 confidence: medium
 status: active

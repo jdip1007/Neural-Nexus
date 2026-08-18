@@ -1,6 +1,7 @@
 ---
+title: Dopamine Tolerance
 type: concept
-tags: [digital-wellness, dopamine, neuroscience, tolerance]
+tags: [digital-wellness, dopamine, tolerance]
 related: [terminal-boredom, dopamine-lemon-metaphor, brain-rot]
 classification: psychology.mental-health.dopamine
 domain: psychology

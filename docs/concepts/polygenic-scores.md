@@ -5,7 +5,7 @@ updated: 2026-08-06
 type: concept
 classification: research-methodology.genetics
 domain: research-methodology
-tags: [polygenic-risk, genetics, statistical-genetics, risk-prediction, heritability, genome-wide-association, quantitative-genetics, genetic-epidemiology, precision-medicine]
+tags: [polygenic-risk, genetics, statistical-genetics, risk-prediction, genome-wide-association, quantitative-genetics, genetic-epidemiology, precision-medicine]
 sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
 confidence: high
 status: active

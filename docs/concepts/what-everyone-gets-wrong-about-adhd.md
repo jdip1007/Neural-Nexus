@@ -1,15 +1,15 @@
 ---
 title: What Everyone Gets Wrong About ADHD
-created: 2026-07-21
-updated: 2026-07-21
+created: 2026-08-17
+updated: 2026-08-17
 type: concept
-classification: psychology.mental-health
+classification: psychology.relationships
 domain: psychology
-tags: ['adhd', 'mental-health', 'misconceptions', 'neurodiversity', 'healthygamergg']
-sources: [raw/videos/healthygamergg/What Everyone Gets Wrong About ADHD.md]
+tags: [adhd, mental-health, misconceptions, focus, attention, healthygamergg]
+sources: [raw/videos/healthygamergg/sample2.md]
 confidence: medium
 status: active
-reviewed: 2026-07-21
+reviewed: 2026-08-17
 backlinks: []
 ---
 
@@ -17,41 +17,74 @@ backlinks: []
 
 ## Overview
 
-This content from HealthyGamerGG explores what everyone gets wrong about adhd and provides insights into the psychological and emotional aspects of this topic.
+This content from HealthyGamerGG explores what everyone gets wrong about adhd and provides insights into the psychological and emotional aspects of this topic. Dr. K offers valuable perspectives on modern psychological challenges and practical strategies for personal growth.
 
 ## Key Topics
 
-<!-- Extract main topics from the video content -->
+- **ADHD**
+- **mental health**
+- **misconceptions**
+- **focus**
+- **attention**
 
 ## Key Insights
 
-<!-- Important takeaways and revelations from the video -->
+- Common myths about ADHD
+- Understanding ADHD brain function
 
 ## Practical Applications
 
 <!-- How viewers can apply these insights in their lives -->
 
+- Self-reflection and awareness
+- Improved communication skills
+- Better relationship dynamics
+- Personal development strategies
+
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [how-your-brain-perceives-love-when-you-have-autism](concepts/how-your-brain-perceives-love-when-you-have-autism.md)
-- [how-trauma-splits-a-soul](concepts/how-trauma-splits-a-soul.md)
-- [ai-therapy-is-making-you-mentally-weak](concepts/ai-therapy-is-making-you-mentally-weak.md)
-- [the-most-misdiagnosed-condition-in-mental-health](concepts/the-most-misdiagnosed-condition-in-mental-health.md)
+
+- [[psychology]] - Overview of psychological concepts
+- [[relationships]] - Understanding interpersonal dynamics
+- [[mental-health]] - Broader context of psychological well-being
+- [[neurodiversity]] - Understanding neurological differences
+
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** What Everyone Gets Wrong About ADHD.md
-**Accessed:** 2026-07-21
+**Video URL:** https://www.youtube.com/watch?v=sample2
+**Video ID:** sample2
+**Accessed:** 2026-08-17
+
+## Transcript
+
+
+            This is a mock transcript for video sample2.
+            
+            In this video, Dr. K discusses important psychological concepts related to:
+            - Mental health awareness
+            - Relationship dynamics
+            - Self-improvement strategies
+            - Neurodiversity understanding
+            
+            Key insights include practical advice for viewers dealing with:
+            - Anxiety and social situations
+            - Dating and communication challenges
+            - Personal development goals
+            - Building healthy relationships
+            
+            The content provides valuable perspectives on modern psychological issues
+            and offers actionable steps for personal growth.
+            
 
 ## Related
 
-- [psychology](concepts/psychology.md) - Overview of psychological concepts
-- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
-- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
+- [[ADHD]] - Adhd
+- [[mental health]] - Mental Health
+- [[misconceptions]] - Misconceptions
+- [[focus]] - Focus
+- [[attention]] - Attention
 
-## Related Pages
-
-- [[relationships]]
-- [[psychology]]
-- [[adhd]]
+---
+*This page was automatically generated from HealthyGamerGG YouTube content as part of the daily ingestion process.*

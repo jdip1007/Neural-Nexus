@@ -5,7 +5,7 @@ updated: 2026-08-06
 type: entity
 classification: person.researcher
 domain: psychology
-tags: [researcher, genetics, adhd, genome-wide-association, meta-analysis, neuropsychiatry]
+tags: [genetics, adhd, genome-wide-association, meta-analysis, neuropsychiatry]
 sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
 confidence: high
 status: active

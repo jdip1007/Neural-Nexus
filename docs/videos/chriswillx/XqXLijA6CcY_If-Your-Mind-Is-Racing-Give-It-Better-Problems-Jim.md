@@ -1,4 +1,6 @@
 ---
+created: 2026-08-18
+title: If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
 {
   "title": "If Your Mind Is Racing, Give It Better Problems - Jimmy Carr",
   "created": "2026-08-17",
@@ -16,6 +18,8 @@
   "transcript_api": "transcriptapi.com",
   "ingestion_date": "2026-08-17 08:02:49"
 }
+updated: 2026-08-18
+domain: internet-culture
 ---
 
 # If Your Mind Is Racing, Give It Better Problems - Jimmy Carr

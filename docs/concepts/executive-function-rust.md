@@ -1,6 +1,7 @@
 ---
+title: Executive Function Rust
 type: concept
-tags: [digital-wellness, executive-function, frontal-lobe, atrophy]
+tags: [digital-wellness, executive-function, atrophy]
 related: [terminal-boredom, brain-rot, impulse-control-atrophy, dopamine-depletion]
 classification: psychology.mental-health.digital-wellness
 domain: psychology

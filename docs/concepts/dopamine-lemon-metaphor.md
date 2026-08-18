@@ -1,6 +1,7 @@
 ---
+title: The Dopamine Lemon Metaphor
 type: concept
-tags: [dopamine, mental-health, motivation, neuroscience]
+tags: [dopamine, mental-health]
 related: [brain-rot, artificial-brain-circuit-activation, dopamine-depletion]
 classification: psychology.mental-health.dopamine
 domain: psychology

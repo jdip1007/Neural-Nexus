@@ -15,6 +15,7 @@
   topics:
     - philosophy
     - science
+domain: internet-culture
 ---
 
 # "Blue Zone Science" Is A Total Scam

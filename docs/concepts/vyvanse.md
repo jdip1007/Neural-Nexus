@@ -5,7 +5,7 @@ updated: 2026-08-04
 type: concept
 classification: psychiatry.medication
 domain: psychiatry
-tags: [vyvanse, lisdexamfetamine, stimulant, adhd, binge-eating-disorder, cns-stimulant, amphetamine, controlled-substance, fda-approved]
+tags: [vyvanse, lisdexamfetamine, stimulant, adhd, binge-eating-disorder, cns-stimulant, controlled-substance]
 sources: []
 confidence: high
 status: active

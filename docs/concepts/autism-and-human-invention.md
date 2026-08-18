@@ -4,11 +4,12 @@ created: 2026-08-17
 updated: 2026-08-17
 type: concept
 domain: psychology
-tags: [autism, human-invention, neurodiversity, cognitive-diversity, human-progress, innovation, cognitive-strengths]
+tags: [autism, human-invention, neurodiversity, cognitive-diversity, human-progress, cognitive-strengths]
 sources: [raw/transcripts/youtube/phqIVUoy70k.md]
 confidence: high
 status: active
 reviewed: 2026-08-17
+classification: psychology.cognitive-science.neurodiversity
 ---
 
 # Autism and Human Invention

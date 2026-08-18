@@ -1,4 +1,5 @@
 ---
+title: Terminal Boredom
 type: concept
 tags: [digital-wellness, screen-addiction, dopamine, mental-health]
 related: [brain-rot, dopamine-tolerance, executive-function-rust, impulse-control-atrophy]

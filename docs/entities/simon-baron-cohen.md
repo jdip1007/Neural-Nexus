@@ -4,11 +4,12 @@ created: 2026-08-17
 updated: 2026-08-17
 type: entity
 domain: psychology
-tags: [autism-researcher, cambridge-university, empathy-theory, systematizing, neurodiversity, the-pattern-seekers]
+tags: [systematizing, neurodiversity]
 sources: [raw/transcripts/youtube/phqIVUoy70k.md]
 confidence: high
 status: active
 reviewed: 2026-08-17
+classification: psychology.cognitive-science.neurodiversity
 ---
 
 # Simon Baron-Cohen

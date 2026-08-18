@@ -15,6 +15,7 @@
   topics:
     - philosophy
     - science
+domain: internet-culture
 ---
 
 # If Your Mind Is Racing, Give It Better Problems - Jimmy Carr

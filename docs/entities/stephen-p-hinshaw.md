@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: entity
 classification: person.researcher
 domain: psychology
-tags: [researcher, psychology, adhd, developmental-psychopathology, mental-health, university-of-california]
+tags: [adhd, developmental-psychopathology, mental-health, university-of-california]
 sources: [raw/articles/hinshaw-2018-adhd-review.md]
 confidence: high
 status: active

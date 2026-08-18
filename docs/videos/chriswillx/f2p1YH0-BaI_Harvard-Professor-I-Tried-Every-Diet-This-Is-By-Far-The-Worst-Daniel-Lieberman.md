@@ -15,6 +15,7 @@
   topics:
     - science
     - philosophy
+domain: internet-culture
 ---
 
 # Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman

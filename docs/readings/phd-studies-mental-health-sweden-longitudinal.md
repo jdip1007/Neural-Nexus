@@ -1,13 +1,19 @@
 ---
+title: The Impact of PhD Studies on Mental Health — Sweden Longitudinal
+created: 2026-08-13
+updated: 2026-08-13
 type: reading
-tags: [mental-health, phd-studies, academic-burnout, research, sweden]
-source_url: "https://doi.org/10.1016/j.jhealeco.2023.102876" (assumed)
+tags: [mental-health, academic-burnout, research, sweden]
+source_url: "https://doi.org/10.1016/j.jhealeco.2023.102876"
 source_type: paper
 ingested: 2026-08-13
 authors: "Sanna Bergvall, Clara Fernström, Eva Ranehill, Anna Sandberg"
 year: 2024
 journal: "Journal of Health Economics (assumed)"
 related: [academic-burnout, graduate-student-mental-health]
+classification: psychology.mental-health.academia
+domain: psychology
+sources: [raw/articles/phd-mental-health-longitudinal-bergvall-2025.md]
 ---
 
 # The Impact of PhD Studies on Mental Health — A Longitudinal Population Study

@@ -15,6 +15,7 @@
   topics:
     - philosophy
     - science
+domain: internet-culture
 ---
 
 # The Hugging Face AI Attack Should Terrify Us

@@ -15,6 +15,7 @@
   topics:
     - science
     - philosophy
+domain: internet-culture
 ---
 
 # Q&A: Becoming A Dad, Favourite Peptides & Red Rising

@@ -1,4 +1,6 @@
 ---
+created: 2026-08-18
+title: Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman
 {
   "title": "Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel Lieberman",
   "created": "2026-08-17",
@@ -16,6 +18,8 @@
   "transcript_api": "transcriptapi.com",
   "ingestion_date": "2026-08-17 08:02:58"
 }
+updated: 2026-08-18
+domain: internet-culture
 ---
 
 # Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman

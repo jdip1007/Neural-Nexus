@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: [adhd, mental-health, executive-function, heritability, neurobiology, developmental-psychopathology, comorbidity, intervention, stigma, gender-differences, prevalence, epigenetics, dopamine, cortical-maturation]
+tags: [adhd, mental-health, executive-function, developmental-psychopathology, stigma, gender-differences, dopamine, cortical-maturation]
 sources: [raw/articles/hinshaw-2018-adhd-review.md]
 confidence: high
 status: active

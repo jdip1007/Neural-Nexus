@@ -15,6 +15,7 @@
   topics:
     - philosophy
     - science
+domain: internet-culture
 ---
 
 # Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2

@@ -15,6 +15,7 @@
   topics:
     - science
     - philosophy
+domain: internet-culture
 ---
 
 # "It wasn't my baggie. But if it was..." - Hunter Biden

@@ -15,6 +15,7 @@
   topics:
     - science
     - philosophy
+domain: internet-culture
 ---
 
 # Why Do Female Teachers Sleep With Students?
