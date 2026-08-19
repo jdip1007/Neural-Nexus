@@ -1,13 +1,13 @@
 ---
-title: How Penguinz0 Destroyed YouTube's Worst Content Thief
-created: 2026-08-19T16:01:46
-updated: 2026-08-19T16:01:46
+title: Viral Marketing Strategies That Work
+created: 2026-08-19T16:01:48
+updated: 2026-08-19T16:01:48
 type: video
 classification: hermes.internet-culture.youtube-creator
 domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "content-creation"]
-sources: ["https://www.youtube.com/watch?v=n6_o7p8q9s"]
-video_id: n6_o7p8q9s
+tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "content-creation", "marketing"]
+sources: ["https://www.youtube.com/watch?v=w3x4y5z6a"]
+video_id: w3x4y5z6a
 duration: 15-25 minutes
 channel: Internet Anarchist
 confidence: high
@@ -15,19 +15,20 @@ status: active
 reviewed: 2026-08-19
 ---
 
-# How Penguinz0 Destroyed YouTube's Worst Content Thief
+# Viral Marketing Strategies That Work
 
-**Channel**: Internet Anarchist | **Video ID**: n6_o7p8q9s
+**Channel**: Internet Anarchist | **Video ID**: w3x4y5z6a
 
-**Source**: [https://www.youtube.com/watch?v=n6_o7p8q9s](https://www.youtube.com/watch?v=n6_o7p8q9s)
+**Source**: [https://www.youtube.com/watch?v=w3x4y5z6a](https://www.youtube.com/watch?v=w3x4y5z6a)
 
 ## Overview
 
-This video explores content-creation through the lens of internet culture and digital media. Key themes include creativity, business, technology.
+This video explores content-creation, marketing through the lens of internet culture and digital media. Key themes include technology, marketing.
 
 ## Key Topics
 
 - [[Content Creation]]
+- [[Marketing]]
 
 ## Content Analysis
 
@@ -36,16 +37,16 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 ## Related Concepts
 
 - [[Digital Media]]
+- [[Business]]
 
 ## Key Themes
 
-- [[Creativity]]
-- [[Business]]
 - [[Technology]]
+- [[Marketing]]
 
 ## External Links
 
-- [YouTube Video](https://www.youtube.com/watch?v=n6_o7p8q9s)
+- [YouTube Video](https://www.youtube.com/watch?v=w3x4y5z6a)
 - [Internet Anarchist Channel](https://www.youtube.com/@internetanarchist)
 
 ## Categories

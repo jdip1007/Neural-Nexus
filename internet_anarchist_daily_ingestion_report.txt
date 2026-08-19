@@ -1,0 +1,42 @@
+
+=== YouTube Ingestion Pipeline Report ===
+Generated: 2026-08-19 16:01:54
+
+=== Statistics ===
+Total videos in channel: 10
+Already processed: 18
+New videos processed: 5
+Unprocessed remaining: -8
+
+=== Processed Videos ===
+- The Rise and Fall of Logan Paul
+  ID: p7_q8r9s0t
+  URL: https://www.youtube.com/watch?v=p7_q8r9s0t
+  Processed: 2026-08-19 16:01:54
+
+- How Penguinz0 Destroyed YouTube's Worst Content Thief
+  ID: n6_o7p8q9s
+  URL: https://www.youtube.com/watch?v=n6_o7p8q9s
+  Processed: 2026-08-19 16:01:54
+
+- Viral Marketing Strategies That Work
+  ID: w3x4y5z6a
+  URL: https://www.youtube.com/watch?v=w3x4y5z6a
+  Processed: 2026-08-19 16:01:54
+
+- PewDiePie's Journey
+  ID: s9_t0u1v2w
+  URL: https://www.youtube.com/watch?v=s9_t0u1v2w
+  Processed: 2026-08-19 16:01:54
+
+- MrBeast: Behind the Scenes
+  ID: q8_r9s0t1u
+  URL: https://www.youtube.com/watch?v=q8_r9s0t1u
+  Processed: 2026-08-19 16:01:54
+
+=== Recent Activity ===
+- MrBeast: Behind the Scenes (2026-08-19 16:01:52)
+- PewDiePie's Journey (2026-08-19 16:01:50)
+- Viral Marketing Strategies That Work (2026-08-19 16:01:48)
+- How Penguinz0 Destroyed YouTube's Worst Content Thief (2026-08-19 16:01:46)
+- The Rise and Fall of Logan Paul (2026-08-19 16:01:44)
