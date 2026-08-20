@@ -1,21 +1,20 @@
 ---
-  title: "Blue Zone Science" Is A Total Scam
-  created: 2026-08-18
-  updated: 2026-08-18
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - philosophy
-    - science
-  sources:
-    - https://www.youtube.com/watch?v=YGAjgLtJJFI
-  video_id: YGAjgLtJJFI
-  duration: Medium
-  topics:
-    - philosophy
-    - science
-domain: internet-culture
+{
+  "title": "\"Blue Zone Science\" Is A Total Scam",
+  "created": "2026-08-20",
+  "updated": "2026-08-20",
+  "type": "video",
+  "tags": [
+    "technology"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=YGAjgLtJJFI"
+  ],
+  "video_id": "YGAjgLtJJFI",
+  "channel": "Chris Willx",
+  "transcript_api": "transcriptapi.com",
+  "ingestion_date": "2026-08-20 09:19:56"
+}
 ---
 
 # "Blue Zone Science" Is A Total Scam
@@ -25,40 +24,28 @@ domain: internet-culture
 - **Channel**: Chris Willx
 - **Video ID**: YGAjgLtJJFI
 - **URL**: https://www.youtube.com/watch?v=YGAjgLtJJFI
-- **Date Added**: 2026-08-18 08:23:11
+- **Date Added**: 2026-08-20 09:19:56
 
-## Topics Covered
+## Key Topics
 
-- philosophy
-- science
+- technology
 
-## Key Points
+## Key Concepts
 
-- In a real implementation, this would contain the actual transcript content from the YouTube video.
-
-The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
-
-Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
-
-This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
+- Mock transcript for video YGAjgLtJJFI
+- This is a simulated transcript for demonstration purposes
+- In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions
 
 ## Transcript
 
-Mock transcript for video YGAjgLtJJFI.
+Mock transcript for video YGAjgLtJJFI. This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions.
 
-This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript content from the YouTube video.
+## Analysis
 
-The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
-
-Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
-
-This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
+This video explores various topics related to technology.
 
 ## Related Pages
 
-[[philosophy]]
-[[science]]
-
-## Citations
-
-> Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=YGAjgLtJJFI)
+- [[Chris Willx]] - Main channel page
+- [[Philosophy]] - General philosophy topics
+- [[Psychology]] - Psychological concepts discussed

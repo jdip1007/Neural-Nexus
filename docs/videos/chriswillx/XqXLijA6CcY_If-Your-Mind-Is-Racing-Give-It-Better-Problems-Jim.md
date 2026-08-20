@@ -1,13 +1,13 @@
 ---
-created: 2026-08-18
-title: If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
 {
   "title": "If Your Mind Is Racing, Give It Better Problems - Jimmy Carr",
-  "created": "2026-08-17",
-  "updated": "2026-08-17",
+  "created": "2026-08-20",
+  "updated": "2026-08-20",
   "type": "video",
   "tags": [
+    "relationships",
     "psychology",
+    "philosophy",
     "technology"
   ],
   "sources": [
@@ -16,10 +16,8 @@ title: If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
   "video_id": "XqXLijA6CcY",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-17 08:02:49"
+  "ingestion_date": "2026-08-20 09:19:04"
 }
-updated: 2026-08-18
-domain: internet-culture
 ---
 
 # If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
@@ -29,25 +27,47 @@ domain: internet-culture
 - **Channel**: Chris Willx
 - **Video ID**: XqXLijA6CcY
 - **URL**: https://www.youtube.com/watch?v=XqXLijA6CcY
-- **Date Added**: 2026-08-17 08:02:49
+- **Date Added**: 2026-08-20 09:19:04
 
 ## Key Topics
 
+- relationships
 - psychology
+- philosophy
 - technology
 
 ## Key Concepts
 
-- Jimmy Carr offers practical advice for managing racing thoughts and providing better mental problems to solve
-- He discusses cognitive techniques, mindfulness practices, and strategies for maintaining mental clarity in an increasingly complex world
+- If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
+
+Comedian and thinker Jimmy Carr shares his unique perspective on managing an active mind and turning mental energy into productive creativity
+- Main themes:
+- The relationship between anxiety and creativity
+- How to channel racing thoughts constructively
+- The importance of mental stimulation
+- Finding balance in a world of constant information
+- Practical techniques for mind management
+
+Carr combines humor with wisdom to provide practical advice for anyone who feels overwhelmed by their own thoughts, offering strategies to transform mental chaos into creative energy
 
 ## Transcript
 
-Jimmy Carr offers practical advice for managing racing thoughts and providing better mental problems to solve. He discusses cognitive techniques, mindfulness practices, and strategies for maintaining mental clarity in an increasingly complex world.
+If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
+
+Comedian and thinker Jimmy Carr shares his unique perspective on managing an active mind and turning mental energy into productive creativity.
+
+Main themes:
+- The relationship between anxiety and creativity
+- How to channel racing thoughts constructively
+- The importance of mental stimulation
+- Finding balance in a world of constant information
+- Practical techniques for mind management
+
+Carr combines humor with wisdom to provide practical advice for anyone who feels overwhelmed by their own thoughts, offering strategies to transform mental chaos into creative energy.
 
 ## Analysis
 
-This video explores various topics related to psychology, technology.
+This video explores various topics related to relationships, psychology, philosophy, technology.
 
 ## Related Pages
 

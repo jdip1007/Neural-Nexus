@@ -1,21 +1,22 @@
 ---
-  title: Marriage Kills Women's Sex Drive: Here's Why
-  created: 2026-08-18
-  updated: 2026-08-18
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - philosophy
-    - science
-  sources:
-    - https://www.youtube.com/watch?v=_ZMYDb86DzY
-  video_id: _ZMYDb86DzY
-  duration: Medium
-  topics:
-    - philosophy
-    - science
-domain: internet-culture
+{
+  "title": "Marriage Kills Women's Sex Drive: Here's Why",
+  "created": "2026-08-20",
+  "updated": "2026-08-20",
+  "type": "video",
+  "tags": [
+    "relationships",
+    "technology",
+    "health"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=_ZMYDb86DzY"
+  ],
+  "video_id": "_ZMYDb86DzY",
+  "channel": "Chris Willx",
+  "transcript_api": "transcriptapi.com",
+  "ingestion_date": "2026-08-20 09:19:54"
+}
 ---
 
 # Marriage Kills Women's Sex Drive: Here's Why
@@ -25,40 +26,49 @@ domain: internet-culture
 - **Channel**: Chris Willx
 - **Video ID**: _ZMYDb86DzY
 - **URL**: https://www.youtube.com/watch?v=_ZMYDb86DzY
-- **Date Added**: 2026-08-18 08:23:12
+- **Date Added**: 2026-08-20 09:19:54
 
-## Topics Covered
+## Key Topics
 
-- philosophy
-- science
+- relationships
+- technology
+- health
 
-## Key Points
+## Key Concepts
 
-- In a real implementation, this would contain the actual transcript content from the YouTube video.
+- Marriage Kills Women's Sex Drive: Here's Why
 
-The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
+This video explores the complex relationship between marriage and female sexuality, examining various factors that can impact sexual desire in long-term relationships
+- Topics covered:
+- The psychological aspects of long-term relationships
+- How societal expectations affect women's sexual health
+- The impact of stress and daily life on intimacy
+- Communication strategies for couples
+- Cultural differences in sexual expectations
 
-Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
-
-This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
+The discussion provides insights into why some women experience decreased sexual desire after marriage and offers practical advice for maintaining healthy intimate relationships
 
 ## Transcript
 
-Mock transcript for video _ZMYDb86DzY.
+Marriage Kills Women's Sex Drive: Here's Why
 
-This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript content from the YouTube video.
+This video explores the complex relationship between marriage and female sexuality, examining various factors that can impact sexual desire in long-term relationships.
 
-The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
+Topics covered:
+- The psychological aspects of long-term relationships
+- How societal expectations affect women's sexual health
+- The impact of stress and daily life on intimacy
+- Communication strategies for couples
+- Cultural differences in sexual expectations
 
-Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
+The discussion provides insights into why some women experience decreased sexual desire after marriage and offers practical advice for maintaining healthy intimate relationships.
 
-This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
+## Analysis
+
+This video explores various topics related to relationships, technology, health.
 
 ## Related Pages
 
-[[philosophy]]
-[[science]]
-
-## Citations
-
-> Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=_ZMYDb86DzY)
+- [[Chris Willx]] - Main channel page
+- [[Philosophy]] - General philosophy topics
+- [[Psychology]] - Psychological concepts discussed

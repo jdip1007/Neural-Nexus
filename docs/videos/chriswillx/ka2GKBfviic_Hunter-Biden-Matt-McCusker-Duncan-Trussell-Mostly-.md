@@ -1,13 +1,14 @@
 ---
-created: 2026-08-18
-title: Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
 {
   "title": "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2",
-  "created": "2026-08-17",
-  "updated": "2026-08-17",
+  "created": "2026-08-20",
+  "updated": "2026-08-20",
   "type": "video",
   "tags": [
-    "society"
+    "relationships",
+    "psychology",
+    "technology",
+    "health"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=ka2GKBfviic"
@@ -15,10 +16,8 @@ title: Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
   "video_id": "ka2GKBfviic",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-17 08:03:42"
+  "ingestion_date": "2026-08-20 09:19:50"
 }
-updated: 2026-08-18
-domain: internet-culture
 ---
 
 # Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
@@ -28,24 +27,47 @@ domain: internet-culture
 - **Channel**: Chris Willx
 - **Video ID**: ka2GKBfviic
 - **URL**: https://www.youtube.com/watch?v=ka2GKBfviic
-- **Date Added**: 2026-08-17 08:03:42
+- **Date Added**: 2026-08-20 09:19:50
 
 ## Key Topics
 
-- society
+- relationships
+- psychology
+- technology
+- health
 
 ## Key Concepts
 
-- Join us for an engaging conversation with Hunter Biden, Matt McCusker, and Duncan Trussell as they discuss current events, personal experiences, and philosophical perspectives
-- The conversation covers a wide range of topics from politics to personal growth
+- Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
+
+This engaging conversation features Hunter Biden in a candid discussion with Matt McCusker and Duncan Trussell, covering a wide range of topics with humor and insight
+- Discussion topics:
+- Personal growth and self-improvement
+- Navigating public life and media scrutiny
+- Family relationships and personal challenges
+- Mental health and wellness
+- The importance of authentic communication
+
+The conversation provides a rare glimpse into Hunter Biden's personal perspective while maintaining an entertaining and thought-provoking dialogue
 
 ## Transcript
 
-Join us for an engaging conversation with Hunter Biden, Matt McCusker, and Duncan Trussell as they discuss current events, personal experiences, and philosophical perspectives. The conversation covers a wide range of topics from politics to personal growth.
+Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
+
+This engaging conversation features Hunter Biden in a candid discussion with Matt McCusker and Duncan Trussell, covering a wide range of topics with humor and insight.
+
+Discussion topics:
+- Personal growth and self-improvement
+- Navigating public life and media scrutiny
+- Family relationships and personal challenges
+- Mental health and wellness
+- The importance of authentic communication
+
+The conversation provides a rare glimpse into Hunter Biden's personal perspective while maintaining an entertaining and thought-provoking dialogue.
 
 ## Analysis
 
-This video explores various topics related to society.
+This video explores various topics related to relationships, psychology, technology, health.
 
 ## Related Pages
 

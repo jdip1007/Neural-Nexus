@@ -1,21 +1,20 @@
 ---
-  title: "It wasn't my baggie. But if it was..." - Hunter Biden
-  created: 2026-08-18
-  updated: 2026-08-18
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - science
-    - philosophy
-  sources:
-    - https://www.youtube.com/watch?v=XzIY0M612A0
-  video_id: XzIY0M612A0
-  duration: Medium
-  topics:
-    - science
-    - philosophy
-domain: internet-culture
+{
+  "title": "\"It wasn't my baggie. But if it was...\" - Hunter Biden",
+  "created": "2026-08-20",
+  "updated": "2026-08-20",
+  "type": "video",
+  "tags": [
+    "technology"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=XzIY0M612A0"
+  ],
+  "video_id": "XzIY0M612A0",
+  "channel": "Chris Willx",
+  "transcript_api": "transcriptapi.com",
+  "ingestion_date": "2026-08-20 09:19:02"
+}
 ---
 
 # "It wasn't my baggie. But if it was..." - Hunter Biden
@@ -25,40 +24,28 @@ domain: internet-culture
 - **Channel**: Chris Willx
 - **Video ID**: XzIY0M612A0
 - **URL**: https://www.youtube.com/watch?v=XzIY0M612A0
-- **Date Added**: 2026-08-18 08:19:39
+- **Date Added**: 2026-08-20 09:19:02
 
-## Topics Covered
+## Key Topics
 
-- science
-- philosophy
+- technology
 
-## Key Points
+## Key Concepts
 
-- In a real implementation, this would contain the actual transcript content from the YouTube video.
-
-The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
-
-Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
-
-This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
+- Mock transcript for video XzIY0M612A0
+- This is a simulated transcript for demonstration purposes
+- In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions
 
 ## Transcript
 
-Mock transcript for video XzIY0M612A0.
+Mock transcript for video XzIY0M612A0. This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions.
 
-This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript content from the YouTube video.
+## Analysis
 
-The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
-
-Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
-
-This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
+This video explores various topics related to technology.
 
 ## Related Pages
 
-[[science]]
-[[philosophy]]
-
-## Citations
-
-> Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=XzIY0M612A0)
+- [[Chris Willx]] - Main channel page
+- [[Philosophy]] - General philosophy topics
+- [[Psychology]] - Psychological concepts discussed
