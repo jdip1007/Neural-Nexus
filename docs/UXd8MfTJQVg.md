@@ -3,7 +3,7 @@ title: What do CPUs do when there's nothing to do?
 created: 2026-08-19T15:08:02.997123
 updated: 2026-08-19T15:08:02.997138
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=UXd8MfTJQVg", "title": "What do CPUs do when there's nothing to do?", "accessed": "2026-08-19T15:08:02.997140"}]
 ---
 

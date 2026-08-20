@@ -3,7 +3,7 @@ title: Microsoft's Secret 90s Weapon That Made Windows Fast
 created: 2026-08-18T14:56:01.392521
 updated: 2026-08-18T14:56:01.392540
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=7xqJnKpYQ8U", "title": "Microsoft's Secret 90s Weapon That Made Windows Fast", "accessed": "2026-08-18T14:56:01.392543"}]
 ---
 

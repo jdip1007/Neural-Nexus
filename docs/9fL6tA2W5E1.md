@@ -3,7 +3,7 @@ title: The Truth About Electric Vehicles: Battery Technology and Range
 created: 2026-08-18T14:58:00.734292
 updated: 2026-08-18T14:58:00.734303
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=9fL6tA2W5E1", "title": "The Truth About Electric Vehicles: Battery Technology and Range", "accessed": "2026-08-18T14:58:00.734305"}]
 ---
 

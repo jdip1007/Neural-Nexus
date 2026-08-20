@@ -3,7 +3,7 @@ title: Why I Deleted printf() from Windows COM in 1994!
 created: 2026-08-19T15:08:03.629161
 updated: 2026-08-19T15:08:03.629172
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=VYTF4KIF2z0", "title": "Why I Deleted printf() from Windows COM in 1994!", "accessed": "2026-08-19T15:08:03.629174"}]
 ---
 

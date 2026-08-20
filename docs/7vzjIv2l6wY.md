@@ -3,7 +3,7 @@ title: Ethernet Explained so well that even YOU can Understand it!
 created: 2026-08-18T14:56:02.030271
 updated: 2026-08-18T14:56:02.030286
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY", "title": "Ethernet Explained so well that even YOU can Understand it!", "accessed": "2026-08-18T14:56:02.030288"}]
 ---
 

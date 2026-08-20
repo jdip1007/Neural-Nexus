@@ -1,32 +1,27 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-08-18 16:39:45
+Generated: 2026-08-19 16:45:36
 
 === Statistics ===
 Total videos in channel: 5
-Already processed: 13
-New videos processed: 3
-Unprocessed remaining: -8
+Already processed: 20
+New videos processed: 2
+Unprocessed remaining: -15
 
 === Processed Videos ===
-- Most Insane The Infographics Show Videos of All Time (Compilation)
-  ID: cemy5eP5Jjs
-  URL: https://www.youtube.com/watch?v=cemy5eP5Jjs
-  Processed: 2026-08-18 16:39:45
+- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react
+  ID: uzg-tGiK_y8
+  URL: https://www.youtube.com/watch?v=uzg-tGiK_y8
+  Processed: 2026-08-19 16:45:36
 
-- Most Viewed The Infographics Show Videos (Compilation)
-  ID: 8zUhBnpVgdE
-  URL: https://www.youtube.com/watch?v=8zUhBnpVgdE
-  Processed: 2026-08-18 16:39:45
-
-- Why Your Brain Can't Handle Modern Life || The Infographics Show
-  ID: k0ksj42YJaM
-  URL: https://www.youtube.com/watch?v=k0ksj42YJaM
-  Processed: 2026-08-18 16:39:45
+- The Horror of the Zodiac Killer || The Infographics Show
+  ID: D4nPxik59oE
+  URL: https://www.youtube.com/watch?v=D4nPxik59oE
+  Processed: 2026-08-19 16:45:36
 
 === Recent Activity ===
-- Why Your Brain Can't Handle Modern Life || The Infographics Show (2026-08-18 16:39:44)
-- Most Viewed The Infographics Show Videos (Compilation) (2026-08-18 16:39:43)
-- Most Insane The Infographics Show Videos of All Time (Compilation) (2026-08-18 16:39:42)
-- HealthyGamerGG Video 4: Understanding Mental Health in Gaming (2026-08-18 16:32:38)
-- HealthyGamerGG Video 24: Understanding Mental Health in Gaming (2026-08-18 16:32:38)
+- The Horror of the Zodiac Killer || The Infographics Show (2026-08-19 16:45:35)
+- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react (2026-08-19 16:45:34)
+- MrBeast: Behind the Scenes (2026-08-19 16:01:52)
+- PewDiePie's Journey (2026-08-19 16:01:50)
+- Viral Marketing Strategies That Work (2026-08-19 16:01:48)

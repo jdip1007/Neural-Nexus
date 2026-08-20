@@ -3,7 +3,7 @@ title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 created: 2026-08-18T14:58:00.420357
 updated: 2026-08-18T14:58:00.420370
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=LJSgsf9ro38", "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown", "accessed": "2026-08-18T14:58:00.420373"}]
 ---
 

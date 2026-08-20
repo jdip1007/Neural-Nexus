@@ -3,7 +3,7 @@ title: The Challenge: Can we build Notepad in 3K in assembly language?
 created: 2026-08-18T14:57:59.792993
 updated: 2026-08-18T14:57:59.793005
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=OG91c7xsNMc", "title": "The Challenge: Can we build Notepad in 3K in assembly language?", "accessed": "2026-08-18T14:57:59.793007"}]
 ---
 

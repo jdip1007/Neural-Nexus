@@ -5,7 +5,7 @@ updated: 2026-08-19
 type: entity
 classification: psychology.media-ethics
 domain: psychology
-tags: ["youtube", "chris-willx", "podcast", "media-figure", "interview", "discussion"]
+tags: [youtube, podcast, interview]
 sources: []
 confidence: high
 status: active

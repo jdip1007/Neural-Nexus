@@ -3,7 +3,7 @@ title: The AI Model TOO POWERFUL to be Released to the Public...
 created: 2026-08-19T15:08:03.310459
 updated: 2026-08-19T15:08:03.310473
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=vELETrEp27k", "title": "The AI Model TOO POWERFUL to be Released to the Public...", "accessed": "2026-08-19T15:08:03.310476"}]
 ---
 

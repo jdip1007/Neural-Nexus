@@ -1,20 +1,20 @@
 ---
 source_url: https://www.youtube.com/watch?v=Unzc731iCUY
 source_type: video
-ingested: 2026-08-19
-published: 2026-08-19
+ingested: 2026-08-20
+published: 2026-08-20
 duration_minutes: 63
 language: en
 sha256: 1cc474c1bf5348e04e0607f1bca36ca463ec0f40cd834b133f5240510edb4021
 time_sensitive: True
 ---
 
-# YouTube Transcript: How to Speak
+# YouTube Transcript: Video Unzc731iCUY
 
 ## Video Information
-- **Title**: How to Speak
+- **Title**: Video Unzc731iCUY
 - **Video ID**: Unzc731iCUY
-- **Published**: Unknown
+- **Published**: 2026-08-20
 - **Views**: Unknown
 - **Language**: en
 

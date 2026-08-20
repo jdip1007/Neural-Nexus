@@ -3,7 +3,7 @@ title: Hidden Code: How Slot Machines Actually Work - The Computer Inside
 created: 2026-08-18T14:56:01.068044
 updated: 2026-08-18T14:56:01.068059
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=3mXnL4pZ2R9", "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside", "accessed": "2026-08-18T14:56:01.068061"}]
 ---
 

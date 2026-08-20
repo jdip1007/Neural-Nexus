@@ -3,7 +3,7 @@ title: 1980s: Learning To Code Back in the '80s!
 created: 2026-08-19T15:08:02.604363
 updated: 2026-08-19T15:08:02.604378
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=vEAjtOI-Oaw", "title": "1980s: Learning To Code Back in the '80s!", "accessed": "2026-08-19T15:08:02.604380"}]
 ---
 

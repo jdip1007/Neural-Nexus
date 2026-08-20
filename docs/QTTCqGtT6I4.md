@@ -3,7 +3,7 @@ title: CANBUS – Networking so simple, even YOU can understand it!
 created: 2026-08-18T14:58:00.106609
 updated: 2026-08-18T14:58:00.106624
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4", "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!", "accessed": "2026-08-18T14:58:00.106627"}]
 ---
 

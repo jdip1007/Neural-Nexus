@@ -3,7 +3,7 @@ title: The Future of AI: Quantum Computing and Neural Networks
 created: 2026-08-18T14:56:01.716338
 updated: 2026-08-18T14:56:01.716350
 type: finding
-tags: ["youtube", "daves-garage"]
+tags: [youtube]
 sources: [{"type": "youtube", "url": "https://www.youtube.com/watch?v=8kP5vW3Q1X6", "title": "The Future of AI: Quantum Computing and Neural Networks", "accessed": "2026-08-18T14:56:01.716352"}]
 ---
 

@@ -1,23 +1,23 @@
 ---
-title: How to Speak - Summary
-created: 2026-08-19
-updated: 2026-08-19
+title: Video Unzc731iCUY - Summary
+created: 2026-08-20
+updated: 2026-08-20
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, Unzc731iCUY]
+tags: [youtube, video-summary]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
-published: 2026-08-19
+published: 2026-08-20
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-19
+reviewed: 2026-08-20
 ---
 
-# How to Speak - Summary
+# Video Unzc731iCUY - Summary
 
 ## TL;DR
-This video discusses How to Speak
+This video discusses Video Unzc731iCUY
 
 ## Key Points
 - **And**: And the most important
@@ -37,18 +37,18 @@ most important thing I do is teach people how to think
 it's important to talk about your research in context
 
 ## Time-Sensitive Information
-- **Content Date**: Unknown
+- **Content Date**: 2026-08-20
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Military Justice, San Diego, And Doug
+- **Persons**: Delores Etter, Logan Airport, And Doug
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- [[ai]]
+- [[artificial-intelligence]]
 - [[framework]]
 - [[algorithm]]
-- [[artificial-intelligence]]
+- [[ai]]
 
 ## Transcript Highlights
 > about the place? And the most important

@@ -1,17 +1,17 @@
 ---
 title: Lecture 1: Introduction to CS and Programming Using Python - Summary
-created: 2026-08-19
-updated: 2026-08-19
+created: 2026-08-20
+updated: 2026-08-20
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, xAcTmDO6NTI]
+tags: [youtube, video-summary]
 sources: [raw/videos/youtube-xAcTmDO6NTI-transcript.md]
-published: 2026-08-19
+published: 2026-08-20
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-19
+reviewed: 2026-08-20
 ---
 
 # Lecture 1: Introduction to CS and Programming Using Python - Summary
@@ -41,13 +41,13 @@ that the type of the object is actually really important
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Arithmetic Logic, Code Editor, Ana Bell
+- **Persons**: Arithmetic Logic, Code Editor, Alan Turing
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
 - [[cloud]]
+- [[algorithm]]
 - [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > to actually do some coding. And that's important-- I call them "you try it" breaks. That's important to make

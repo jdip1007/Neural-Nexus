@@ -5,7 +5,7 @@ updated: 2026-08-17
 type: concept
 classification: psychology.relationships
 domain: psychology
-tags: [attention, cognition, focus, modern-life, healthygamergg]
+tags: [attention, cognition, focus, healthygamergg]
 sources: [raw/videos/healthygamergg/sample4.md]
 confidence: medium
 status: active
