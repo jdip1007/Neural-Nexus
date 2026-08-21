@@ -22,10 +22,33 @@ class VideoTracker:
         if os.path.exists(self.tracker_file):
             try:
                 with open(self.tracker_file, 'r') as f:
-                    return json.load(f)
+                    data = json.load(f)
+                    # Handle both list and dict formats
+                    if "processed_videos" in data and isinstance(data["processed_videos"], list):
+                        # Old format - convert to new dict format
+                        processed_dict = {}
+                        for video in data["processed_videos"]:
+                            if isinstance(video, dict) and "id" in video:
+                                processed_dict[video["id"]] = {
+                                    "title": video.get("title", ""),
+                                    "processed_date": video.get("processed_at", video.get("processed_date", "")),
+                                    "status": "completed"
+                                }
+                        return {
+                            "processed_videos": processed_dict,
+                            "last_updated": data.get("last_updated"),
+                            "channel_name": data.get("channel_name"),
+                            "channel_id": data.get("channel_id")
+                        }
+                    elif "processed_videos" in data and isinstance(data["processed_videos"], dict):
+                        # New format - use as is
+                        return data
+                    else:
+                        # Fallback
+                        return {"processed_videos": {}, "last_updated": None}
             except (json.JSONDecodeError, IOError):
-                return {"processed_videos": [], "last_updated": None}
-        return {"processed_videos": [], "last_updated": None}
+                return {"processed_videos": {}, "last_updated": None}
+        return {"processed_videos": {}, "last_updated": None}
     
     def save_processed_videos(self):
         """Save processed videos to tracker file."""
@@ -35,26 +58,26 @@ class VideoTracker:
     
     def add_processed_video(self, video_id: str, video_title: str, video_url: str):
         """Add a video to the processed list."""
-        if video_id not in [video["id"] for video in self.processed_videos["processed_videos"]]:
-            self.processed_videos["processed_videos"].append({
-                "id": video_id,
+        if video_id not in self.processed_videos.get("processed_videos", {}):
+            self.processed_videos["processed_videos"][video_id] = {
                 "title": video_title,
-                "url": video_url,
-                "processed_at": datetime.now().isoformat()
-            })
+                "processed_date": datetime.now().isoformat(),
+                "status": "completed"
+            }
             self.save_processed_videos()
             return True
         return False
     
     def is_video_processed(self, video_id: str) -> bool:
         """Check if a video has already been processed."""
-        return video_id in [video["id"] for video in self.processed_videos["processed_videos"]]
+        return video_id in self.processed_videos.get("processed_videos", {})
     
     def get_unprocessed_videos(self, all_videos: List[Dict]) -> List[Dict]:
         """Filter out already processed videos."""
         unprocessed = []
         for video in all_videos:
-            if not self.is_video_processed(video["id"]):
+            video_id = video.get("video_id") or video.get("id")
+            if video_id and not self.is_video_processed(video_id):
                 unprocessed.append(video)
         return unprocessed
     
@@ -71,12 +94,27 @@ class VideoTracker:
     
     def get_recent_videos(self, limit: int = 10) -> List[Dict]:
         """Get most recently processed videos."""
+        # Convert dict to list for sorting
+        videos_list = []
+        for video_id, video_data in self.processed_videos.get("processed_videos", {}).items():
+            video_data["video_id"] = video_id
+            videos_list.append(video_data)
+        
         sorted_videos = sorted(
-            self.processed_videos["processed_videos"],
-            key=lambda x: x.get("processed_at", ""),
+            videos_list,
+            key=lambda x: x.get("processed_date", ""),
             reverse=True
         )
         return sorted_videos[:limit]
+    
+    def get_statistics(self) -> Dict:
+        """Get processing statistics."""
+        processed_videos = self.processed_videos.get("processed_videos", {})
+        return {
+            "total_processed": len(processed_videos),
+            "channel_name": self.processed_videos.get("channel_name", "Unknown"),
+            "last_updated": self.processed_videos.get("last_updated", "Never")
+        }
 
 
 def generate_summary_report(tracker: VideoTracker, processed_videos: List[Dict], 

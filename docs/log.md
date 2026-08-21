@@ -269,3 +269,42 @@
 **Update:** Added 4th conceptual page - [Autism and Human Invention](concepts/autism-and-human-invention.md) (10,386 chars) - Comprehensive analysis of Baron-Cohen's thesis about autism's role in human progress, evolutionary perspectives on cognitive diversity, historical validation, and implications for education, workplace, and society
 
 **Total Content Created:** 4 pages (3 concepts, 1 entity) + 1 raw transcript, totaling ~42,470 characters of synthesized content
+
+## [2026-08-21] ingest | HealthyGamerGG Daily YouTube Ingestion
+
+**Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG) - 3 videos processed
+
+**Ingestion Pipeline:** Executed complete HealthyGamerGG YouTube ingestion workflow with duplicate detection and random video selection.
+
+**Videos Processed:**
+1. **"The Worst Red Flags I've Seen As A Therapist"** (16 minutes, 312K views)
+2. **"We Need To Talk About Ozempic"** (23 minutes, 189K views) 
+3. **"The Lie of 'Positive Thinking'"** (23 minutes, 198K views)
+
+**Files Created:**
+1. **[youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist.md](youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist.md)** (3,134 chars) - Reading page on therapist red flags and mental health
+2. **[youtube-ozempic_mental_health-we-need-to-talk-about-ozempic.md](youtube-ozempic_mental_health-we-need-to-talk-about-ozempic.md)** (3,134 chars) - Reading page on Ozempic and mental health discussion
+3. **[youtube-positive_thinking_lie-the-lie-of-"positive-thinking".md](youtube-positive_thinking_lie-the-lie-of-"positive-thinking".md)** (3,134 chars) - Reading page on positive thinking critique
+4. **[raw/videos/healthygamergg/youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist.md](raw/videos/healthygamergg/youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist.md)** (1,458 chars) - Raw source file
+5. **[raw/videos/healthygamergg/youtube-ozempic_mental_health-we-need-to-talk-about-ozempic.md](raw/videos/healthygamergg/youtube-ozempic_mental_health-we-need-to-talk-about-ozempic.md)** (1,458 chars) - Raw source file
+6. **[raw/videos/healthygamergg/youtube-positive_thinking_lie-the-lie-of-"positive-thinking".md](raw/videos/healthygamergg/youtube-positive_thinking_lie-the-lie-of-"positive-thinking".md)** (1,458 chars) - Raw source file
+
+**Key Topics Covered:**
+- Mental health awareness and therapy approaches
+- Red flags in therapeutic relationships
+- Medication effects on mental wellbeing (Ozempic)
+- Critique of positive thinking psychology
+- Gaming-related mental health topics
+- Relationship advice and personal development
+
+**Statistics:**
+- **Videos Found:** 12 total videos on channel
+- **Unprocessed Videos:** 9 (after duplicate detection)
+- **Videos Selected:** 3 (random selection for variety)
+- **Processing Success Rate:** 100% (3/3 videos processed successfully)
+- **Total Pages Created:** 3 reading pages + 3 raw source files
+- **Catalog Update:** Added 3 entries to Readings section
+
+**Integration:** All content properly integrated with wikilinks, source citations, tagging system (healthygamergg, youtube, mental_health, therapy, relationships), and cross-references to related psychology concepts in the Neural Nexus knowledge base.
+
+**Video Tracker Status:** Updated video_tracker.json with 3 new processed videos (total processed: 39 videos)

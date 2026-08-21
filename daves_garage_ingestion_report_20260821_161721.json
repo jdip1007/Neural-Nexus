@@ -1,0 +1,191 @@
+{
+  "processing_date": "2026-08-21T16:17:21.325429",
+  "channel": "Dave's Garage",
+  "total_videos_found": 8,
+  "videos_processed": 5,
+  "videos_failed": 0,
+  "success_rate": 62.5,
+  "processed_videos": [
+    {
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
+      "page_path": "./docs/readings/youtube-772c9b359bb40b2801e49f8eabc5ffb9-CANBUS-Networking-so-simple-even-YOU-can-understan.md",
+      "analysis": {
+        "topics": [
+          "code",
+          "network",
+          "system",
+          "diy",
+          "development",
+          "ethernet",
+          "tech",
+          "assembly",
+          "hardware",
+          "tutorial",
+          "programming",
+          "software",
+          "led"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1022,
+        "word_count": 132
+      }
+    },
+    {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "page_path": "./docs/readings/youtube-e96cc006ebe07e07a82d5f3a87b3c5c4-The-Secret-RGB-LED-Features-I-Hid-in-this-1970-Lin.md",
+      "analysis": {
+        "topics": [
+          "code",
+          "network",
+          "system",
+          "diy",
+          "development",
+          "ethernet",
+          "tech",
+          "assembly",
+          "hardware",
+          "tutorial",
+          "programming",
+          "software",
+          "led"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1022,
+        "word_count": 132
+      }
+    },
+    {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
+      "page_path": "./docs/readings/youtube-29d1488ba568e3d6a415a48eced17423-Microsofts-Secret-90s-Weapon-That-Made-Windows-Fas.md",
+      "analysis": {
+        "topics": [
+          "code",
+          "network",
+          "system",
+          "diy",
+          "development",
+          "ethernet",
+          "tech",
+          "assembly",
+          "hardware",
+          "tutorial",
+          "programming",
+          "software",
+          "led"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1022,
+        "word_count": 132
+      }
+    },
+    {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "page_path": "./docs/readings/youtube-17690d3bfe321f095d5a3d11e0b03ad5-Ethernet-Explained-so-well-that-even-YOU-can-Under.md",
+      "analysis": {
+        "topics": [
+          "code",
+          "network",
+          "system",
+          "diy",
+          "development",
+          "ethernet",
+          "tech",
+          "assembly",
+          "hardware",
+          "tutorial",
+          "programming",
+          "software",
+          "led"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1022,
+        "word_count": 132
+      }
+    },
+    {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "page_path": "./docs/readings/youtube-ca231d3ce1234405aab600e13bf76077-The-Challenge-Can-we-build-Notepad-in-3K-in-assemb.md",
+      "analysis": {
+        "topics": [
+          "code",
+          "network",
+          "system",
+          "diy",
+          "development",
+          "ethernet",
+          "tech",
+          "assembly",
+          "hardware",
+          "tutorial",
+          "programming",
+          "software",
+          "led"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1022,
+        "word_count": 132
+      }
+    }
+  ],
+  "failed_videos": []
+}
