@@ -1,0 +1,36 @@
+{
+  "processing_date": "2026-08-21T16:09:43.397717",
+  "channel": "Dave's Garage",
+  "total_videos_found": 8,
+  "videos_processed": 0,
+  "videos_failed": 5,
+  "success_rate": 0.0,
+  "processed_videos": [],
+  "failed_videos": [
+    {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "error": "Failed to fetch transcript: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/hRhBuHJ-j_o/transcript (Caused by NameResolutionError(\"HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "error": "Failed to fetch transcript: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/7vzjIv2l6wY/transcript (Caused by NameResolutionError(\"HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
+      "error": "Failed to fetch transcript: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/LJSgsf9ro38/transcript (Caused by NameResolutionError(\"HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
+      "error": "Failed to fetch transcript: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/8c4Yf7WzQzY/transcript (Caused by NameResolutionError(\"HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
+      "error": "Failed to fetch transcript: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/2c4Yf7WzQzY/transcript (Caused by NameResolutionError(\"HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)\"))"
+    }
+  ]
+}

@@ -1,23 +1,23 @@
 ---
-title: Video Unzc731iCUY - Summary
-created: 2026-08-20
-updated: 2026-08-20
+title: How to Speak - Summary
+created: 2026-08-21
+updated: 2026-08-21
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
-published: 2026-08-20
+published: 2026-08-21
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-20
+reviewed: 2026-08-21
 ---
 
-# Video Unzc731iCUY - Summary
+# How to Speak - Summary
 
 ## TL;DR
-This video discusses Video Unzc731iCUY
+This video discusses How to Speak
 
 ## Key Points
 - **And**: And the most important
@@ -37,17 +37,17 @@ most important thing I do is teach people how to think
 it's important to talk about your research in context
 
 ## Time-Sensitive Information
-- **Content Date**: 2026-08-20
+- **Content Date**: Unknown
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Delores Etter, Logan Airport, And Doug
+- **Persons**: And Lazarus, Delores Etter, Massachusetts Institute
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- [[artificial-intelligence]]
-- [[framework]]
 - [[algorithm]]
+- [[framework]]
+- [[artificial-intelligence]]
 - [[ai]]
 
 ## Transcript Highlights

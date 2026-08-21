@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=yXAgVyGY6M8
 source_type: video
-ingested: 2026-08-19
-published: 2026-08-19
+ingested: 2026-08-21
+published: 2026-08-21
 duration_minutes: 0
 language: en
 sha256: 26d828d85d26854aa2f53fa1163e597ed36a10b057db1ed4ec92b8d58c233247

@@ -1,0 +1,69 @@
+{
+  "processed_videos": {
+    "772c9b359bb40b2801e49f8eabc5ffb9": {
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "processed_date": "2026-08-21T16:16:48.918321",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4"
+    },
+    "e96cc006ebe07e07a82d5f3a87b3c5c4": {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "processed_date": "2026-08-21T16:16:49.239345",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o"
+    },
+    "29d1488ba568e3d6a415a48eced17423": {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "processed_date": "2026-08-21T16:16:49.554418",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY"
+    },
+    "17690d3bfe321f095d5a3d11e0b03ad5": {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "processed_date": "2026-08-21T16:16:49.869300",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY"
+    },
+    "ca231d3ce1234405aab600e13bf76077": {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "processed_date": "2026-08-21T16:16:50.182990",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc"
+    }
+  },
+  "last_updated": "2026-08-21T16:16:50.182996",
+  "channel_name": "Dave's Garage",
+  "channel_id": "davesgarage",
+  "ingestion_history": [
+    {
+      "video_title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "video_url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
+      "processed_date": "2026-08-21T16:16:48.918326",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "video_url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "processed_date": "2026-08-21T16:16:49.239350",
+      "status": "completed"
+    },
+    {
+      "video_title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "video_url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
+      "processed_date": "2026-08-21T16:16:49.554429",
+      "status": "completed"
+    },
+    {
+      "video_title": "Ethernet Explained so well that even YOU can Understand it!",
+      "video_url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "processed_date": "2026-08-21T16:16:49.869307",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "video_url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "processed_date": "2026-08-21T16:16:50.182995",
+      "status": "completed"
+    }
+  ]
+}
