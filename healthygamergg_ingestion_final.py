@@ -169,15 +169,50 @@ class HealthyGamerGGIngestion:
             "created": datetime.now().strftime('%Y-%m-%d'),
             "updated": datetime.now().strftime('%Y-%m-%d'),
             "type": "video",
+            "classification": "psychology.mental-health",
+            "domain": "psychology",
             "tags": analysis["topics"] + ["youtube", "healthygamergg"],
             "sources": [f"youtube.com/watch?v={video_id}"],
             "video_id": video_id,
             "channel": "HealthyGamerGG",
-            "word_count": analysis["word_count"]
+            "word_count": analysis["word_count"],
+            "confidence": "medium",
+            "status": "active",
+            "reviewed": datetime.now().strftime('%Y-%m-%d'),
+            "backlinks": []
         }
         
-        # Create content
-        content = f"""# {video_title}
+        # Create content with YAML frontmatter
+        yaml_frontmatter = """---
+{title}
+created: {created}
+updated: {updated}
+type: video
+classification: psychology.mental-health
+domain: psychology
+tags: {tags}
+sources: {sources}
+video_id: {video_id}
+channel: HealthyGamerGG
+word_count: {word_count}
+confidence: medium
+status: active
+reviewed: {reviewed}
+backlinks: []
+---
+
+""".format(
+            title=frontmatter["title"],
+            created=frontmatter["created"],
+            updated=frontmatter["updated"],
+            tags=str(frontmatter["tags"]).replace("'", ""),
+            sources=str(frontmatter["sources"]).replace("'", ""),
+            video_id=frontmatter["video_id"],
+            word_count=frontmatter["word_count"],
+            reviewed=frontmatter["reviewed"]
+        )
+        
+        content = yaml_frontmatter + f"""# {video_title}
 
 ## Video Information
 
