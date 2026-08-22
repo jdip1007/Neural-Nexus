@@ -237,7 +237,7 @@
       ],
       "updated": "2026-08-20",
       "url": "/concepts/ai/",
-      "inboundLinks": 55,
+      "inboundLinks": 67,
       "outboundLinks": 0
     },
     {
@@ -254,7 +254,7 @@
       ],
       "updated": "2026-08-20",
       "url": "/concepts/algorithm/",
-      "inboundLinks": 7,
+      "inboundLinks": 8,
       "outboundLinks": 3
     },
     {
@@ -305,7 +305,7 @@
       ],
       "updated": "2026-08-20",
       "url": "/concepts/api/",
-      "inboundLinks": 32,
+      "inboundLinks": 36,
       "outboundLinks": 1
     },
     {
@@ -795,7 +795,7 @@
       ],
       "updated": "2026-08-20",
       "url": "/concepts/cloud/",
-      "inboundLinks": 11,
+      "inboundLinks": 13,
       "outboundLinks": 3
     },
     {
@@ -4235,6 +4235,60 @@
     },
     {
       "id": 233,
+      "slug": "entities/youtube-2fbrl6WoIyo-arnold-schwarzenegger",
+      "title": "Arnold Schwarzenegger",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "2fbrl6WoIyo"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-2fbrl6WoIyo-arnold-schwarzenegger/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 234,
+      "slug": "entities/youtube-2fbrl6WoIyo-north-america",
+      "title": "North America",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "2fbrl6WoIyo"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-2fbrl6WoIyo-north-america/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 235,
+      "slug": "entities/youtube-2fbrl6WoIyo-roger-shepard",
+      "title": "Roger Shepard",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "2fbrl6WoIyo"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-2fbrl6WoIyo-roger-shepard/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 236,
       "slug": "entities/youtube-2uJhjqBz5Tk-alexander-yuvchenko",
       "title": "Alexander Yuvchenko",
       "type": "entity",
@@ -4252,7 +4306,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 234,
+      "id": 237,
       "slug": "entities/youtube-2uJhjqBz5Tk-kurchatov-institute",
       "title": "Kurchatov Institute",
       "type": "entity",
@@ -4270,7 +4324,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 235,
+      "id": 238,
       "slug": "entities/youtube-2uJhjqBz5Tk-nuclear-war",
       "title": "Nuclear War",
       "type": "entity",
@@ -4288,7 +4342,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 236,
+      "id": 239,
       "slug": "entities/youtube-2uJhjqBz5Tk-power-plant",
       "title": "Power Plant",
       "type": "entity",
@@ -4306,7 +4360,97 @@
       "outboundLinks": 1
     },
     {
-      "id": 237,
+      "id": 240,
+      "slug": "entities/youtube-4EPW0Ht7XCc-in-august",
+      "title": "In August",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "4EPW0Ht7XCc"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-4EPW0Ht7XCc-in-august/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 241,
+      "slug": "entities/youtube-4EPW0Ht7XCc-openai",
+      "title": "OpenAI",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "tools",
+        "4EPW0Ht7XCc"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-4EPW0Ht7XCc-openai/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 242,
+      "slug": "entities/youtube-4EPW0Ht7XCc-sejong-institute",
+      "title": "Sejong Institute",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "organizations",
+        "4EPW0Ht7XCc"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-4EPW0Ht7XCc-sejong-institute/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 243,
+      "slug": "entities/youtube-4EPW0Ht7XCc-so-google",
+      "title": "So Google",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "4EPW0Ht7XCc"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-4EPW0Ht7XCc-so-google/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 244,
+      "slug": "entities/youtube-4EPW0Ht7XCc-south-korean",
+      "title": "South Korean",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "4EPW0Ht7XCc"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-4EPW0Ht7XCc-south-korean/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 245,
       "slug": "entities/youtube-4_tngSkFXes-live-view",
       "title": "Live View",
       "type": "entity",
@@ -4323,7 +4467,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 238,
+      "id": 246,
       "slug": "entities/youtube-5tilhR0C6DY-julius-caesar",
       "title": "Julius Caesar",
       "type": "entity",
@@ -4339,7 +4483,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 239,
+      "id": 247,
       "slug": "entities/youtube-5tilhR0C6DY-the-emperor",
       "title": "The Emperor",
       "type": "entity",
@@ -4355,7 +4499,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 240,
+      "id": 248,
       "slug": "entities/youtube-5tilhR0C6DY-the-romans",
       "title": "The Romans",
       "type": "entity",
@@ -4371,7 +4515,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 241,
+      "id": 249,
       "slug": "entities/youtube-6dPNiN5nf0E-admiral-timothy",
       "title": "Admiral Timothy",
       "type": "entity",
@@ -4387,7 +4531,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 242,
+      "id": 250,
       "slug": "entities/youtube-6dPNiN5nf0E-eleanor-watson",
       "title": "Eleanor Watson",
       "type": "entity",
@@ -4403,7 +4547,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 243,
+      "id": 251,
       "slug": "entities/youtube-6dPNiN5nf0E-news-pentagon",
       "title": "News Pentagon",
       "type": "entity",
@@ -4419,7 +4563,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 244,
+      "id": 252,
       "slug": "entities/youtube-6kD5RbQCjFg-about-doing",
       "title": "About Doing",
       "type": "entity",
@@ -4436,7 +4580,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 245,
+      "id": 253,
       "slug": "entities/youtube-6kD5RbQCjFg-doing-stuff",
       "title": "Doing Stuff",
       "type": "entity",
@@ -4453,7 +4597,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 246,
+      "id": 254,
       "slug": "entities/youtube-6kD5RbQCjFg-monster-hunter",
       "title": "Monster Hunter",
       "type": "entity",
@@ -4470,7 +4614,61 @@
       "outboundLinks": 1
     },
     {
-      "id": 247,
+      "id": 255,
+      "slug": "entities/youtube-6xdW0bdVkVU-and-jimmy",
+      "title": "And Jimmy",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "6xdW0bdVkVU"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-6xdW0bdVkVU-and-jimmy/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 256,
+      "slug": "entities/youtube-6xdW0bdVkVU-avengers-endgame",
+      "title": "Avengers Endgame",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "6xdW0bdVkVU"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-6xdW0bdVkVU-avengers-endgame/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 257,
+      "slug": "entities/youtube-6xdW0bdVkVU-casey-neistat",
+      "title": "Casey Neistat",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "6xdW0bdVkVU"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-6xdW0bdVkVU-casey-neistat/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 258,
       "slug": "entities/youtube-7HF6UuVdihA-big-three",
       "title": "Big Three",
       "type": "entity",
@@ -4486,7 +4684,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 248,
+      "id": 259,
       "slug": "entities/youtube-7HF6UuVdihA-european-new",
       "title": "European New",
       "type": "entity",
@@ -4502,7 +4700,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 249,
+      "id": 260,
       "slug": "entities/youtube-7HF6UuVdihA-the-big",
       "title": "The Big",
       "type": "entity",
@@ -4518,7 +4716,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 250,
+      "id": 261,
       "slug": "entities/youtube-8xMGlbFSWWc-bohemian-club",
       "title": "Bohemian Club",
       "type": "entity",
@@ -4534,7 +4732,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 251,
+      "id": 262,
       "slug": "entities/youtube-8xMGlbFSWWc-central-intelligence",
       "title": "Central Intelligence",
       "type": "entity",
@@ -4550,7 +4748,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 252,
+      "id": 263,
       "slug": "entities/youtube-8xMGlbFSWWc-sonoma-county",
       "title": "Sonoma County",
       "type": "entity",
@@ -4566,7 +4764,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 253,
+      "id": 264,
       "slug": "entities/youtube-8zUhBnpVgdE-harris-alton",
       "title": "Harris Alton",
       "type": "entity",
@@ -4582,7 +4780,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 254,
+      "id": 265,
       "slug": "entities/youtube-8zUhBnpVgdE-sleepy-soldier",
       "title": "Sleepy Soldier",
       "type": "entity",
@@ -4598,7 +4796,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 255,
+      "id": 266,
       "slug": "entities/youtube-8zUhBnpVgdE-stir-it",
       "title": "Stir It",
       "type": "entity",
@@ -4614,7 +4812,61 @@
       "outboundLinks": 1
     },
     {
-      "id": 256,
+      "id": 267,
+      "slug": "entities/youtube-D-uK2Xs6D9s-betsy-stevenson",
+      "title": "Betsy Stevenson",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "D-uK2Xs6D9s"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-D-uK2Xs6D9s-betsy-stevenson/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 268,
+      "slug": "entities/youtube-D-uK2Xs6D9s-the-fed",
+      "title": "The Fed",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "D-uK2Xs6D9s"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-D-uK2Xs6D9s-the-fed/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 269,
+      "slug": "entities/youtube-D-uK2Xs6D9s-the-pentagon",
+      "title": "The Pentagon",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "D-uK2Xs6D9s"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-D-uK2Xs6D9s-the-pentagon/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 270,
       "slug": "entities/youtube-D4nPxik59oE-japanese-army",
       "title": "Japanese Army",
       "type": "entity",
@@ -4630,7 +4882,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 257,
+      "id": 271,
       "slug": "entities/youtube-D4nPxik59oE-testing-weapons",
       "title": "Testing Weapons",
       "type": "entity",
@@ -4646,7 +4898,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 258,
+      "id": 272,
       "slug": "entities/youtube-D4nPxik59oE-the-cold",
       "title": "The Cold",
       "type": "entity",
@@ -4662,7 +4914,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 259,
+      "id": 273,
       "slug": "entities/youtube-I_17-FIqadU-cape-race",
       "title": "Cape Race",
       "type": "entity",
@@ -4678,7 +4930,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 260,
+      "id": 274,
       "slug": "entities/youtube-I_17-FIqadU-if-murdoch",
       "title": "If Murdoch",
       "type": "entity",
@@ -4694,7 +4946,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 261,
+      "id": 275,
       "slug": "entities/youtube-I_17-FIqadU-officer-lightoller",
       "title": "Officer Lightoller",
       "type": "entity",
@@ -4710,7 +4962,97 @@
       "outboundLinks": 1
     },
     {
-      "id": 262,
+      "id": 276,
+      "slug": "entities/youtube-J7DzL2_Na80-gilbert-strang",
+      "title": "Gilbert Strang",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "J7DzL2_Na80"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-J7DzL2_Na80-gilbert-strang/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 277,
+      "slug": "entities/youtube-J7DzL2_Na80-linear-algebra",
+      "title": "Linear Algebra",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "J7DzL2_Na80"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-J7DzL2_Na80-linear-algebra/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 278,
+      "slug": "entities/youtube-K1QDYuHGa_I-four-walls",
+      "title": "Four Walls",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "K1QDYuHGa_I"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-K1QDYuHGa_I-four-walls/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 279,
+      "slug": "entities/youtube-K1QDYuHGa_I-gonna-knock",
+      "title": "Gonna Knock",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "K1QDYuHGa_I"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-K1QDYuHGa_I-gonna-knock/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 280,
+      "slug": "entities/youtube-K1QDYuHGa_I-great-dane",
+      "title": "Great Dane",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "K1QDYuHGa_I"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-K1QDYuHGa_I-great-dane/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 281,
       "slug": "entities/youtube-L9U-81fvZbA-life-behind",
       "title": "Life Behind",
       "type": "entity",
@@ -4726,7 +5068,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 263,
+      "id": 282,
       "slug": "entities/youtube-L9U-81fvZbA-mafia-twang",
       "title": "Mafia Twang",
       "type": "entity",
@@ -4742,7 +5084,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 264,
+      "id": 283,
       "slug": "entities/youtube-L9U-81fvZbA-the-negotiator",
       "title": "The Negotiator",
       "type": "entity",
@@ -4758,7 +5100,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 265,
+      "id": 284,
       "slug": "entities/youtube-Mg9Tr3qLXks-religious-experience",
       "title": "Religious Experience",
       "type": "entity",
@@ -4775,7 +5117,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 266,
+      "id": 285,
       "slug": "entities/youtube-Mg9Tr3qLXks-thomas-nagel",
       "title": "Thomas Nagel",
       "type": "entity",
@@ -4792,7 +5134,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 267,
+      "id": 286,
       "slug": "entities/youtube-Mg9Tr3qLXks-william-james",
       "title": "William James",
       "type": "entity",
@@ -4809,7 +5151,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 268,
+      "id": 287,
       "slug": "entities/youtube-OunJtLnyPT4-in-july",
       "title": "In July",
       "type": "entity",
@@ -4825,7 +5167,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 269,
+      "id": 288,
       "slug": "entities/youtube-OunJtLnyPT4-insurance-services",
       "title": "Insurance Services",
       "type": "entity",
@@ -4841,7 +5183,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 270,
+      "id": 289,
       "slug": "entities/youtube-OunJtLnyPT4-jane-street",
       "title": "Jane Street",
       "type": "entity",
@@ -4857,7 +5199,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 271,
+      "id": 290,
       "slug": "entities/youtube-OunJtLnyPT4-openai",
       "title": "OpenAI",
       "type": "entity",
@@ -4873,7 +5215,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 272,
+      "id": 291,
       "slug": "entities/youtube-PtOmjej-YDE-cambridge-analytica",
       "title": "Cambridge Analytica",
       "type": "entity",
@@ -4891,7 +5233,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 273,
+      "id": 292,
       "slug": "entities/youtube-PtOmjej-YDE-dead-internet",
       "title": "Dead Internet",
       "type": "entity",
@@ -4909,7 +5251,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 274,
+      "id": 293,
       "slug": "entities/youtube-PtOmjej-YDE-if-facebook",
       "title": "If Facebook",
       "type": "entity",
@@ -4927,7 +5269,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 275,
+      "id": 294,
       "slug": "entities/youtube-PtOmjej-YDE-metaai",
       "title": "MetaAI",
       "type": "entity",
@@ -4945,7 +5287,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 276,
+      "id": 295,
       "slug": "entities/youtube-PtOmjej-YDE-platforms-inc",
       "title": "Platforms Inc",
       "type": "entity",
@@ -4963,7 +5305,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 277,
+      "id": 296,
       "slug": "entities/youtube-RhelaTtcmEo-it-it",
       "title": "It It",
       "type": "entity",
@@ -4980,7 +5322,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 278,
+      "id": 297,
       "slug": "entities/youtube-RhelaTtcmEo-not-psycho",
       "title": "Not Psycho",
       "type": "entity",
@@ -4997,7 +5339,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 279,
+      "id": 298,
       "slug": "entities/youtube-RhelaTtcmEo-so-so",
       "title": "So So",
       "type": "entity",
@@ -5014,7 +5356,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 280,
+      "id": 299,
       "slug": "entities/youtube-RpRZ8BQiiMo-bill-gates",
       "title": "Bill Gates",
       "type": "entity",
@@ -5030,7 +5372,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 281,
+      "id": 300,
       "slug": "entities/youtube-RpRZ8BQiiMo-next-generation",
       "title": "Next Generation",
       "type": "entity",
@@ -5046,7 +5388,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 282,
+      "id": 301,
       "slug": "entities/youtube-RpRZ8BQiiMo-outlook-express",
       "title": "Outlook Express",
       "type": "entity",
@@ -5062,7 +5404,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 283,
+      "id": 302,
       "slug": "entities/youtube-Sdr-ZCs1yzU-bloom-lab",
       "title": "Bloom Lab",
       "type": "entity",
@@ -5078,7 +5420,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 284,
+      "id": 303,
       "slug": "entities/youtube-Sdr-ZCs1yzU-jesse-bloom",
       "title": "Jesse Bloom",
       "type": "entity",
@@ -5094,7 +5436,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 285,
+      "id": 304,
       "slug": "entities/youtube-Sdr-ZCs1yzU-saudi-arabia",
       "title": "Saudi Arabia",
       "type": "entity",
@@ -5110,7 +5452,187 @@
       "outboundLinks": 1
     },
     {
-      "id": 286,
+      "id": 305,
+      "slug": "entities/youtube-Sx-lddna-qg-activision-blizzard",
+      "title": "Activision Blizzard",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "Sx-lddna-qg"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-Sx-lddna-qg-activision-blizzard/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 306,
+      "slug": "entities/youtube-Sx-lddna-qg-electronic-arts",
+      "title": "Electronic Arts",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "Sx-lddna-qg"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-Sx-lddna-qg-electronic-arts/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 307,
+      "slug": "entities/youtube-Sx-lddna-qg-playtime-tracking",
+      "title": "Playtime Tracking",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "Sx-lddna-qg"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-Sx-lddna-qg-playtime-tracking/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 308,
+      "slug": "entities/youtube-THodtjsCTSI-american-institute",
+      "title": "American Institute",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "organizations",
+        "THodtjsCTSI"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-THodtjsCTSI-american-institute/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 309,
+      "slug": "entities/youtube-THodtjsCTSI-atmospheric-administration",
+      "title": "Atmospheric Administration",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "THodtjsCTSI"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-THodtjsCTSI-atmospheric-administration/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 310,
+      "slug": "entities/youtube-THodtjsCTSI-national-institute",
+      "title": "National Institute",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "organizations",
+        "THodtjsCTSI"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-THodtjsCTSI-national-institute/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 311,
+      "slug": "entities/youtube-THodtjsCTSI-openai",
+      "title": "OpenAI",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "tools",
+        "THodtjsCTSI"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-THodtjsCTSI-openai/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 312,
+      "slug": "entities/youtube-THodtjsCTSI-science-foundation",
+      "title": "Science Foundation",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "organizations",
+        "THodtjsCTSI"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-THodtjsCTSI-science-foundation/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 313,
+      "slug": "entities/youtube-THodtjsCTSI-silicon-valley",
+      "title": "Silicon Valley",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "THodtjsCTSI"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-THodtjsCTSI-silicon-valley/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 314,
+      "slug": "entities/youtube-THodtjsCTSI-yong-jerene",
+      "title": "Yong Jerene",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "THodtjsCTSI"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-THodtjsCTSI-yong-jerene/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 315,
       "slug": "entities/youtube-TuvSVH-UNAE-bernard-baruch",
       "title": "Bernard Baruch",
       "type": "entity",
@@ -5126,7 +5648,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 287,
+      "id": 316,
       "slug": "entities/youtube-TuvSVH-UNAE-hollyweird-while",
       "title": "Hollyweird While",
       "type": "entity",
@@ -5142,7 +5664,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 288,
+      "id": 317,
       "slug": "entities/youtube-TuvSVH-UNAE-truman-capote",
       "title": "Truman Capote",
       "type": "entity",
@@ -5158,7 +5680,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 289,
+      "id": 318,
       "slug": "entities/youtube-Unzc731iCUY-and-doug",
       "title": "And Doug",
       "type": "entity",
@@ -5175,7 +5697,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 290,
+      "id": 319,
       "slug": "entities/youtube-Unzc731iCUY-and-lazarus",
       "title": "And Lazarus",
       "type": "entity",
@@ -5193,7 +5715,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 291,
+      "id": 320,
       "slug": "entities/youtube-Unzc731iCUY-delores-etter",
       "title": "Delores Etter",
       "type": "entity",
@@ -5211,7 +5733,25 @@
       "outboundLinks": 1
     },
     {
-      "id": 292,
+      "id": 321,
+      "slug": "entities/youtube-Unzc731iCUY-democratic-convention",
+      "title": "Democratic Convention",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "Unzc731iCUY"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-Unzc731iCUY-democratic-convention/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 322,
       "slug": "entities/youtube-Unzc731iCUY-logan-airport",
       "title": "Logan Airport",
       "type": "entity",
@@ -5228,7 +5768,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 293,
+      "id": 323,
       "slug": "entities/youtube-Unzc731iCUY-massachusetts-institute",
       "title": "Massachusetts Institute",
       "type": "entity",
@@ -5240,13 +5780,31 @@
         "organizations",
         "Unzc731iCUY"
       ],
-      "updated": "2026-08-21",
+      "updated": "2026-08-22",
       "url": "/entities/youtube-Unzc731iCUY-massachusetts-institute/",
       "inboundLinks": 0,
       "outboundLinks": 1
     },
     {
-      "id": 294,
+      "id": 324,
+      "slug": "entities/youtube-Unzc731iCUY-media-lab",
+      "title": "Media Lab",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "Unzc731iCUY"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-Unzc731iCUY-media-lab/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 325,
       "slug": "entities/youtube-Unzc731iCUY-military-justice",
       "title": "Military Justice",
       "type": "entity",
@@ -5263,7 +5821,25 @@
       "outboundLinks": 1
     },
     {
-      "id": 295,
+      "id": 326,
+      "slug": "entities/youtube-Unzc731iCUY-navy-science",
+      "title": "Navy Science",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "Unzc731iCUY"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-Unzc731iCUY-navy-science/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 327,
       "slug": "entities/youtube-Unzc731iCUY-san-diego",
       "title": "San Diego",
       "type": "entity",
@@ -5280,7 +5856,133 @@
       "outboundLinks": 1
     },
     {
-      "id": 296,
+      "id": 328,
+      "slug": "entities/youtube-VCJFzVtvhBQ-openai",
+      "title": "OpenAI",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "tools",
+        "VCJFzVtvhBQ"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-VCJFzVtvhBQ-openai/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 329,
+      "slug": "entities/youtube-VCJFzVtvhBQ-read-jonathan",
+      "title": "Read Jonathan",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "VCJFzVtvhBQ"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-VCJFzVtvhBQ-read-jonathan/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 330,
+      "slug": "entities/youtube-VCJFzVtvhBQ-stuart-russell",
+      "title": "Stuart Russell",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "VCJFzVtvhBQ"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-VCJFzVtvhBQ-stuart-russell/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 331,
+      "slug": "entities/youtube-VCJFzVtvhBQ-the-anxious",
+      "title": "The Anxious",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "VCJFzVtvhBQ"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-VCJFzVtvhBQ-the-anxious/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 332,
+      "slug": "entities/youtube-VaoGl-soL1g-ralph-lauren",
+      "title": "Ralph Lauren",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "VaoGl-soL1g"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-VaoGl-soL1g-ralph-lauren/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 333,
+      "slug": "entities/youtube-VaoGl-soL1g-robert-maxwell",
+      "title": "Robert Maxwell",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "VaoGl-soL1g"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-VaoGl-soL1g-robert-maxwell/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 334,
+      "slug": "entities/youtube-VaoGl-soL1g-steve-bushi",
+      "title": "Steve Bushi",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "VaoGl-soL1g"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-VaoGl-soL1g-steve-bushi/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 335,
       "slug": "entities/youtube-WEP5ubPMGDU-big-bang",
       "title": "Big Bang",
       "type": "entity",
@@ -5298,7 +6000,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 297,
+      "id": 336,
       "slug": "entities/youtube-WEP5ubPMGDU-invent-yourself",
       "title": "Invent Yourself",
       "type": "entity",
@@ -5316,7 +6018,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 298,
+      "id": 337,
       "slug": "entities/youtube-WEP5ubPMGDU-lead-you",
       "title": "Lead You",
       "type": "entity",
@@ -5334,7 +6036,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 299,
+      "id": 338,
       "slug": "entities/youtube-WNSZ6xouNv4-and-that",
       "title": "And That",
       "type": "entity",
@@ -5352,7 +6054,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 300,
+      "id": 339,
       "slug": "entities/youtube-WNSZ6xouNv4-hurt-me",
       "title": "Hurt Me",
       "type": "entity",
@@ -5370,7 +6072,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 301,
+      "id": 340,
       "slug": "entities/youtube-WNSZ6xouNv4-used-to",
       "title": "Used To",
       "type": "entity",
@@ -5388,7 +6090,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 302,
+      "id": 341,
       "slug": "entities/youtube-XJ_DP8SJfa0-nutty-nutty",
       "title": "Nutty Nutty",
       "type": "entity",
@@ -5406,7 +6108,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 303,
+      "id": 342,
       "slug": "entities/youtube-XJ_DP8SJfa0-social-media",
       "title": "Social Media",
       "type": "entity",
@@ -5424,7 +6126,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 304,
+      "id": 343,
       "slug": "entities/youtube-XJ_DP8SJfa0-youtube-learning",
       "title": "Youtube Learning",
       "type": "entity",
@@ -5442,7 +6144,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 305,
+      "id": 344,
       "slug": "entities/youtube-YQQMF8ibxVw-ahad-israfil",
       "title": "Ahad Israfil",
       "type": "entity",
@@ -5458,7 +6160,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 306,
+      "id": 345,
       "slug": "entities/youtube-YQQMF8ibxVw-what-happens",
       "title": "What Happens",
       "type": "entity",
@@ -5474,7 +6176,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 307,
+      "id": 346,
       "slug": "entities/youtube-YQQMF8ibxVw-when-you",
       "title": "When You",
       "type": "entity",
@@ -5490,7 +6192,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 308,
+      "id": 347,
       "slug": "entities/youtube-ZwYrXkPJA1s-ivy-league",
       "title": "Ivy League",
       "type": "entity",
@@ -5506,7 +6208,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 309,
+      "id": 348,
       "slug": "entities/youtube-ZwYrXkPJA1s-so-so",
       "title": "So So",
       "type": "entity",
@@ -5522,7 +6224,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 310,
+      "id": 349,
       "slug": "entities/youtube-ZwYrXkPJA1s-what-what",
       "title": "What What",
       "type": "entity",
@@ -5538,7 +6240,61 @@
       "outboundLinks": 1
     },
     {
-      "id": 311,
+      "id": 350,
+      "slug": "entities/youtube-_W3qPymBEBA-field-link",
+      "title": "Field Link",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "_W3qPymBEBA"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-_W3qPymBEBA-field-link/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 351,
+      "slug": "entities/youtube-_W3qPymBEBA-stanford-review",
+      "title": "Stanford Review",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "_W3qPymBEBA"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-_W3qPymBEBA-stanford-review/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 352,
+      "slug": "entities/youtube-_W3qPymBEBA-wall-street",
+      "title": "Wall Street",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "_W3qPymBEBA"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-_W3qPymBEBA-wall-street/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 353,
       "slug": "entities/youtube-ahDC1sQCDzY-crazy-and",
       "title": "Crazy And",
       "type": "entity",
@@ -5556,7 +6312,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 312,
+      "id": 354,
       "slug": "entities/youtube-ahDC1sQCDzY-in-the",
       "title": "In The",
       "type": "entity",
@@ -5574,7 +6330,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 313,
+      "id": 355,
       "slug": "entities/youtube-ahDC1sQCDzY-sad-story",
       "title": "Sad Story",
       "type": "entity",
@@ -5592,7 +6348,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 314,
+      "id": 356,
       "slug": "entities/youtube-cemy5eP5Jjs-death-down",
       "title": "Death Down",
       "type": "entity",
@@ -5608,7 +6364,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 315,
+      "id": 357,
       "slug": "entities/youtube-cemy5eP5Jjs-lou-lui",
       "title": "Lou Lui",
       "type": "entity",
@@ -5624,7 +6380,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 316,
+      "id": 358,
       "slug": "entities/youtube-cemy5eP5Jjs-president-john",
       "title": "President John",
       "type": "entity",
@@ -5640,7 +6396,61 @@
       "outboundLinks": 1
     },
     {
-      "id": 317,
+      "id": 359,
+      "slug": "entities/youtube-edLnZgF9mUg-aeronautical-knowledge",
+      "title": "Aeronautical Knowledge",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "edLnZgF9mUg"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-edLnZgF9mUg-aeronautical-knowledge/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 360,
+      "slug": "entities/youtube-edLnZgF9mUg-and-mark",
+      "title": "And Mark",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "edLnZgF9mUg"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-edLnZgF9mUg-and-mark/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 361,
+      "slug": "entities/youtube-edLnZgF9mUg-and-phillip",
+      "title": "And Phillip",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "edLnZgF9mUg"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-edLnZgF9mUg-and-phillip/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 362,
       "slug": "entities/youtube-f47Qi11cfs8-iron-curtain",
       "title": "Iron Curtain",
       "type": "entity",
@@ -5658,7 +6468,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 318,
+      "id": 363,
       "slug": "entities/youtube-f47Qi11cfs8-western-europe",
       "title": "Western Europe",
       "type": "entity",
@@ -5676,7 +6486,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 319,
+      "id": 364,
       "slug": "entities/youtube-f47Qi11cfs8-what-will",
       "title": "What Will",
       "type": "entity",
@@ -5694,7 +6504,61 @@
       "outboundLinks": 1
     },
     {
-      "id": 320,
+      "id": 365,
+      "slug": "entities/youtube-g2nXwiNl9tg-but-sirenhead",
+      "title": "But Sirenhead",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "g2nXwiNl9tg"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-g2nXwiNl9tg-but-sirenhead/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 366,
+      "slug": "entities/youtube-g2nXwiNl9tg-national-park",
+      "title": "National Park",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "g2nXwiNl9tg"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-g2nXwiNl9tg-national-park/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 367,
+      "slug": "entities/youtube-g2nXwiNl9tg-when-sirenhead",
+      "title": "When Sirenhead",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "g2nXwiNl9tg"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-g2nXwiNl9tg-when-sirenhead/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 368,
       "slug": "entities/youtube-gsDGDCnntEk-dutchman-marinus",
       "title": "Dutchman Marinus",
       "type": "entity",
@@ -5710,7 +6574,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 321,
+      "id": 369,
       "slug": "entities/youtube-gsDGDCnntEk-national-security",
       "title": "National Security",
       "type": "entity",
@@ -5726,7 +6590,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 322,
+      "id": 370,
       "slug": "entities/youtube-gsDGDCnntEk-the-church",
       "title": "The Church",
       "type": "entity",
@@ -5742,7 +6606,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 323,
+      "id": 371,
       "slug": "entities/youtube-h1GtR8xJraw-chef-jarrod",
       "title": "Chef Jarrod",
       "type": "entity",
@@ -5760,7 +6624,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 324,
+      "id": 372,
       "slug": "entities/youtube-h1GtR8xJraw-new-york",
       "title": "New York",
       "type": "entity",
@@ -5778,7 +6642,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 325,
+      "id": 373,
       "slug": "entities/youtube-h1GtR8xJraw-per-se",
       "title": "Per Se",
       "type": "entity",
@@ -5796,7 +6660,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 326,
+      "id": 374,
       "slug": "entities/youtube-k0ksj42YJaM-ground-zero",
       "title": "Ground Zero",
       "type": "entity",
@@ -5812,7 +6676,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 327,
+      "id": 375,
       "slug": "entities/youtube-k0ksj42YJaM-marwan-al",
       "title": "Marwan Al",
       "type": "entity",
@@ -5828,7 +6692,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 328,
+      "id": 376,
       "slug": "entities/youtube-k0ksj42YJaM-that-don",
       "title": "That Don",
       "type": "entity",
@@ -5844,7 +6708,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 329,
+      "id": 377,
       "slug": "entities/youtube-kZmpYh5Wxto-in-april",
       "title": "In April",
       "type": "entity",
@@ -5860,7 +6724,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 330,
+      "id": 378,
       "slug": "entities/youtube-kZmpYh5Wxto-johnson-space",
       "title": "Johnson Space",
       "type": "entity",
@@ -5876,7 +6740,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 331,
+      "id": 379,
       "slug": "entities/youtube-kZmpYh5Wxto-now-jarvis",
       "title": "Now Jarvis",
       "type": "entity",
@@ -5892,7 +6756,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 332,
+      "id": 380,
       "slug": "entities/youtube-kZmpYh5Wxto-thiokol-inc",
       "title": "Thiokol Inc",
       "type": "entity",
@@ -5908,7 +6772,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 333,
+      "id": 381,
       "slug": "entities/youtube-l7BaFufR23E-bud-light",
       "title": "Bud Light",
       "type": "entity",
@@ -5924,7 +6788,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 334,
+      "id": 382,
       "slug": "entities/youtube-l7BaFufR23E-discovery-channel",
       "title": "Discovery Channel",
       "type": "entity",
@@ -5940,7 +6804,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 335,
+      "id": 383,
       "slug": "entities/youtube-l7BaFufR23E-eileen-goo",
       "title": "Eileen Goo",
       "type": "entity",
@@ -5956,7 +6820,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 336,
+      "id": 384,
       "slug": "entities/youtube-m5q-PIN3KSE-happen-again",
       "title": "Happen Again",
       "type": "entity",
@@ -5972,7 +6836,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 337,
+      "id": 385,
       "slug": "entities/youtube-m5q-PIN3KSE-the-plague",
       "title": "The Plague",
       "type": "entity",
@@ -5988,7 +6852,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 338,
+      "id": 386,
       "slug": "entities/youtube-m5q-PIN3KSE-while-washington",
       "title": "While Washington",
       "type": "entity",
@@ -6004,7 +6868,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 339,
+      "id": 387,
       "slug": "entities/youtube-mNlKWWgmpus-central-america",
       "title": "Central America",
       "type": "entity",
@@ -6020,7 +6884,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 340,
+      "id": 388,
       "slug": "entities/youtube-mNlKWWgmpus-president-nayib",
       "title": "President Nayib",
       "type": "entity",
@@ -6036,7 +6900,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 341,
+      "id": 389,
       "slug": "entities/youtube-mNlKWWgmpus-things-nobody",
       "title": "Things Nobody",
       "type": "entity",
@@ -6052,7 +6916,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 342,
+      "id": 390,
       "slug": "entities/youtube-mSjaMyP5QjY-deep-seek",
       "title": "Deep Seek",
       "type": "entity",
@@ -6070,7 +6934,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 343,
+      "id": 391,
       "slug": "entities/youtube-mSjaMyP5QjY-eight-sleep",
       "title": "Eight Sleep",
       "type": "entity",
@@ -6088,7 +6952,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 344,
+      "id": 392,
       "slug": "entities/youtube-mSjaMyP5QjY-like-elon",
       "title": "Like Elon",
       "type": "entity",
@@ -6106,7 +6970,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 345,
+      "id": 393,
       "slug": "entities/youtube-mSjaMyP5QjY-openai",
       "title": "OpenAI",
       "type": "entity",
@@ -6124,7 +6988,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 346,
+      "id": 394,
       "slug": "entities/youtube-nFY50H8nb5E-lady-brahman",
       "title": "Lady Brahman",
       "type": "entity",
@@ -6140,7 +7004,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 347,
+      "id": 395,
       "slug": "entities/youtube-nFY50H8nb5E-so-so",
       "title": "So So",
       "type": "entity",
@@ -6156,7 +7020,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 348,
+      "id": 396,
       "slug": "entities/youtube-nFY50H8nb5E-tik-tok",
       "title": "Tik Tok",
       "type": "entity",
@@ -6172,7 +7036,115 @@
       "outboundLinks": 1
     },
     {
-      "id": 349,
+      "id": 397,
+      "slug": "entities/youtube-nglN9SB-CYw-international-lunar",
+      "title": "International Lunar",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "nglN9SB-CYw"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-nglN9SB-CYw-international-lunar/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 398,
+      "slug": "entities/youtube-nglN9SB-CYw-shackleton-crater",
+      "title": "Shackleton Crater",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "nglN9SB-CYw"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-nglN9SB-CYw-shackleton-crater/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 399,
+      "slug": "entities/youtube-nglN9SB-CYw-sustained-human",
+      "title": "Sustained Human",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "nglN9SB-CYw"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-nglN9SB-CYw-sustained-human/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 400,
+      "slug": "entities/youtube-pB6nlxuytLU-america-you",
+      "title": "America You",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "pB6nlxuytLU"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-pB6nlxuytLU-america-you/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 401,
+      "slug": "entities/youtube-pB6nlxuytLU-an-uber",
+      "title": "An Uber",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "pB6nlxuytLU"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-pB6nlxuytLU-an-uber/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 402,
+      "slug": "entities/youtube-pB6nlxuytLU-jason-voorhees",
+      "title": "Jason Voorhees",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "pB6nlxuytLU"
+      ],
+      "updated": "2026-08-21",
+      "url": "/entities/youtube-pB6nlxuytLU-jason-voorhees/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 403,
       "slug": "entities/youtube-pfVR4UwwIwU-jim-preston",
       "title": "Jim Preston",
       "type": "entity",
@@ -6188,7 +7160,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 350,
+      "id": 404,
       "slug": "entities/youtube-pfVR4UwwIwU-legend-so",
       "title": "Legend So",
       "type": "entity",
@@ -6204,7 +7176,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 351,
+      "id": 405,
       "slug": "entities/youtube-pfVR4UwwIwU-turismo-jim",
       "title": "Turismo Jim",
       "type": "entity",
@@ -6220,7 +7192,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 352,
+      "id": 406,
       "slug": "entities/youtube-q9GpzCudQb4-brothers-ltd",
       "title": "Brothers Ltd",
       "type": "entity",
@@ -6236,7 +7208,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 353,
+      "id": 407,
       "slug": "entities/youtube-q9GpzCudQb4-but-ubisoft",
       "title": "But Ubisoft",
       "type": "entity",
@@ -6252,7 +7224,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 354,
+      "id": 408,
       "slug": "entities/youtube-q9GpzCudQb4-even-assassin",
       "title": "Even Assassin",
       "type": "entity",
@@ -6268,7 +7240,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 355,
+      "id": 409,
       "slug": "entities/youtube-q9GpzCudQb4-just-dance",
       "title": "Just Dance",
       "type": "entity",
@@ -6284,7 +7256,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 356,
+      "id": 410,
       "slug": "entities/youtube-q9GpzCudQb4-minimum-viable",
       "title": "Minimum Viable",
       "type": "entity",
@@ -6300,7 +7272,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 357,
+      "id": 411,
       "slug": "entities/youtube-q9GpzCudQb4-qin-dynasty",
       "title": "Qin Dynasty",
       "type": "entity",
@@ -6316,7 +7288,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 358,
+      "id": 412,
       "slug": "entities/youtube-q9GpzCudQb4-the-assassin",
       "title": "The Assassin",
       "type": "entity",
@@ -6332,7 +7304,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 359,
+      "id": 413,
       "slug": "entities/youtube-q9GpzCudQb4-the-french",
       "title": "The French",
       "type": "entity",
@@ -6348,7 +7320,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 360,
+      "id": 414,
       "slug": "entities/youtube-q9GpzCudQb4-tom-clancy",
       "title": "Tom Clancy",
       "type": "entity",
@@ -6364,7 +7336,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 361,
+      "id": 415,
       "slug": "entities/youtube-q9GpzCudQb4-yves-guillemot",
       "title": "Yves Guillemot",
       "type": "entity",
@@ -6380,7 +7352,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 362,
+      "id": 416,
       "slug": "entities/youtube-qPujplCJnlM-latin-america",
       "title": "Latin America",
       "type": "entity",
@@ -6396,7 +7368,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 363,
+      "id": 417,
       "slug": "entities/youtube-qPujplCJnlM-new-mexico",
       "title": "New Mexico",
       "type": "entity",
@@ -6412,7 +7384,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 364,
+      "id": 418,
       "slug": "entities/youtube-qPujplCJnlM-not-oil",
       "title": "Not Oil",
       "type": "entity",
@@ -6428,7 +7400,61 @@
       "outboundLinks": 1
     },
     {
-      "id": 365,
+      "id": 419,
+      "slug": "entities/youtube-qmZmKZR8S5U-jones-industrial",
+      "title": "Jones Industrial",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "qmZmKZR8S5U"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-qmZmKZR8S5U-jones-industrial/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 420,
+      "slug": "entities/youtube-qmZmKZR8S5U-the-dow",
+      "title": "The Dow",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "qmZmKZR8S5U"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-qmZmKZR8S5U-the-dow/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 421,
+      "slug": "entities/youtube-qmZmKZR8S5U-white-house",
+      "title": "White House",
+      "type": "entity",
+      "classification": "person.researcher",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-derived",
+        "persons",
+        "qmZmKZR8S5U"
+      ],
+      "updated": "2026-08-22",
+      "url": "/entities/youtube-qmZmKZR8S5U-white-house/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 422,
       "slug": "entities/youtube-sRavs-1HMoI-dark-web",
       "title": "Dark Web",
       "type": "entity",
@@ -6444,7 +7470,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 366,
+      "id": 423,
       "slug": "entities/youtube-sRavs-1HMoI-liber-primus",
       "title": "Liber Primus",
       "type": "entity",
@@ -6460,7 +7486,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 367,
+      "id": 424,
       "slug": "entities/youtube-sRavs-1HMoI-the-dark",
       "title": "The Dark",
       "type": "entity",
@@ -6476,7 +7502,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 368,
+      "id": 425,
       "slug": "entities/youtube-tFo_0eEt1IY-chernobyl-exclusion",
       "title": "Chernobyl Exclusion",
       "type": "entity",
@@ -6494,7 +7520,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 369,
+      "id": 426,
       "slug": "entities/youtube-tFo_0eEt1IY-european-union",
       "title": "European Union",
       "type": "entity",
@@ -6512,7 +7538,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 370,
+      "id": 427,
       "slug": "entities/youtube-tFo_0eEt1IY-infographics-show",
       "title": "Infographics Show",
       "type": "entity",
@@ -6530,7 +7556,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 371,
+      "id": 428,
       "slug": "entities/youtube-uzg-tGiK_y8-air-force",
       "title": "Air Force",
       "type": "entity",
@@ -6546,7 +7572,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 372,
+      "id": 429,
       "slug": "entities/youtube-uzg-tGiK_y8-individualized-training",
       "title": "Individualized Training",
       "type": "entity",
@@ -6562,7 +7588,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 373,
+      "id": 430,
       "slug": "entities/youtube-uzg-tGiK_y8-national-guard",
       "title": "National Guard",
       "type": "entity",
@@ -6578,7 +7604,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 374,
+      "id": 431,
       "slug": "entities/youtube-xAcTmDO6NTI-alan-turing",
       "title": "Alan Turing",
       "type": "entity",
@@ -6596,7 +7622,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 375,
+      "id": 432,
       "slug": "entities/youtube-xAcTmDO6NTI-ana-bell",
       "title": "Ana Bell",
       "type": "entity",
@@ -6613,7 +7639,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 376,
+      "id": 433,
       "slug": "entities/youtube-xAcTmDO6NTI-arithmetic-logic",
       "title": "Arithmetic Logic",
       "type": "entity",
@@ -6630,7 +7656,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 377,
+      "id": 434,
       "slug": "entities/youtube-xAcTmDO6NTI-code-editor",
       "title": "Code Editor",
       "type": "entity",
@@ -6648,7 +7674,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 378,
+      "id": 435,
       "slug": "entities/youtube-xAcTmDO6NTI-python-tutor",
       "title": "Python Tutor",
       "type": "entity",
@@ -6666,7 +7692,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 379,
+      "id": 436,
       "slug": "entities/youtube-xHkcIRZa6lo-does-alice",
       "title": "Does Alice",
       "type": "entity",
@@ -6683,7 +7709,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 380,
+      "id": 437,
       "slug": "entities/youtube-xHkcIRZa6lo-is-alice",
       "title": "Is Alice",
       "type": "entity",
@@ -6700,7 +7726,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 381,
+      "id": 438,
       "slug": "entities/youtube-xHkcIRZa6lo-what-robin",
       "title": "What Robin",
       "type": "entity",
@@ -6717,7 +7743,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 382,
+      "id": 439,
       "slug": "entities/yusuke-takahashi",
       "title": "Yusuke Takahashi",
       "type": "entity",
@@ -6733,7 +7759,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 383,
+      "id": 440,
       "slug": "entities/zahinoor-ismail",
       "title": "Zahinoor Ismail",
       "type": "entity",
@@ -6753,7 +7779,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 384,
+      "id": 441,
       "slug": "entities/zahra-goodarzi",
       "title": "Zahra Goodarzi",
       "type": "entity",
@@ -6772,7 +7798,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 385,
+      "id": 442,
       "slug": "entities/馬天律師",
       "title": "馬天律師",
       "type": "entity",
@@ -6791,7 +7817,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 386,
+      "id": 443,
       "slug": "findings/adhd-genetic-meta-analysis-findings",
       "title": "ADHD Genetic Meta-Analysis Key Findings",
       "type": "finding",
@@ -6811,7 +7837,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 387,
+      "id": 444,
       "slug": "findings/ai-individual-gains-collective-loss",
       "title": "AI Creates Individual Gains but Collective Loss in Science",
       "type": "finding",
@@ -6830,7 +7856,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 388,
+      "id": 445,
       "slug": "findings/youtube-KBkkN12nVqs-finding-1",
       "title": "Finding 1: from my lens of working with my patient that the p...",
       "type": "finding",
@@ -6846,7 +7872,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 389,
+      "id": 446,
       "slug": "findings/youtube-nFY50H8nb5E-finding-1",
       "title": "Finding 1: sexual availability cues were judged more effectiv...",
       "type": "finding",
@@ -6862,7 +7888,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 390,
+      "id": 447,
       "slug": "readings/24hr-genome-e2e-promethion-document",
       "title": "24-Hour Genome End-to-End Document - PromethION",
       "type": "reading",
@@ -6881,7 +7907,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 391,
+      "id": 448,
       "slug": "readings/adaptive-sampling-document",
       "title": "Adaptive Sampling Document",
       "type": "reading",
@@ -6899,7 +7925,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 392,
+      "id": 449,
       "slug": "readings/adhd-genetics-meta-analysis-nature-genetics-2025",
       "title": "ADHD Genetics Meta-Analysis - Nature Genetics 2025",
       "type": "reading",
@@ -6920,7 +7946,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 393,
+      "id": 450,
       "slug": "readings/agarose-plug-dna-extraction-method",
       "title": "Agarose Plug DNA Extraction Method",
       "type": "reading",
@@ -6938,7 +7964,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 394,
+      "id": 451,
       "slug": "readings/ai-impacts-science-nature-2026",
       "title": "AI's Impact on Science - Nature 2026",
       "type": "reading",
@@ -6957,7 +7983,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 395,
+      "id": 452,
       "slug": "readings/annual-review-bpsd-management-2026",
       "title": "Management of Behavioral and Psychological Symptoms of Dementia (2026 Review)",
       "type": "reading",
@@ -6978,7 +8004,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 396,
+      "id": 453,
       "slug": "readings/aphl-verification-validation-toolkit",
       "title": "APHL Verification and Validation Toolkit",
       "type": "reading",
@@ -6997,7 +8023,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 397,
+      "id": 454,
       "slug": "readings/brain-tissue-dna-extraction-method",
       "title": "Brain Tissue DNA Extraction Method",
       "type": "reading",
@@ -7015,7 +8041,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 398,
+      "id": 455,
       "slug": "readings/cell-free-dna-cfdna-info-sheet",
       "title": "Cell-Free DNA (cfDNA) Information Sheet",
       "type": "reading",
@@ -7033,7 +8059,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 399,
+      "id": 456,
       "slug": "readings/cell-line-dna-pure-extraction-method",
       "title": "Cell Line DNA Pure Extraction Method",
       "type": "reading",
@@ -7051,7 +8077,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 400,
+      "id": 457,
       "slug": "readings/cell-line-dna-qgn-extraction-method",
       "title": "Cell Line DNA QGN Extraction Method",
       "type": "reading",
@@ -7069,7 +8095,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 401,
+      "id": 458,
       "slug": "readings/colony-pcr-dna-extraction-method",
       "title": "Colony PCR DNA Extraction Method",
       "type": "reading",
@@ -7087,7 +8113,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 402,
+      "id": 459,
       "slug": "readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019",
       "title": "eMAG vs MagNA PURE 96 vs easyMAG Respiratory Virus Extraction Comparison",
       "type": "reading",
@@ -7112,7 +8138,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 403,
+      "id": 460,
       "slug": "readings/energy-paradox-rem-sleep-2026",
       "title": "Energy Paradox in REM Sleep: Balancing Supply and Consumption in Brain Metabolism",
       "type": "reading",
@@ -7133,7 +8159,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 404,
+      "id": 461,
       "slug": "readings/environmental-water-edna-extraction-method",
       "title": "Environmental Water eDNA Extraction Method",
       "type": "reading",
@@ -7152,7 +8178,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 405,
+      "id": 462,
       "slug": "readings/hinshaw-2018-adhd-review",
       "title": "ADHD: Controversy, Developmental Mechanisms, and Multiple Levels of Analysis (Hinshaw 2018)",
       "type": "reading",
@@ -7172,7 +8198,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 406,
+      "id": 463,
       "slug": "readings/infographics-show-boomers-inequality-2026",
       "title": "It's Not Inflation You Should Be Watching. It's The Boomers.",
       "type": "reading",
@@ -7193,7 +8219,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 407,
+      "id": 464,
       "slug": "readings/knowledge-preservation-big-science-ai-rainford-et-al-2026",
       "title": "Knowledge Preservation in the Era of Big Science and AI",
       "type": "reading",
@@ -7211,7 +8237,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 408,
+      "id": 465,
       "slug": "readings/one-billion-heartbeats-veritasium",
       "title": "One Billion Heartbeats - Veritasium Video",
       "type": "reading",
@@ -7229,7 +8255,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 409,
+      "id": 466,
       "slug": "readings/pcr-gc-rich-templates-green-sambrook-2019",
       "title": "PCR Amplification of GC-Rich Templates (Green & Sambrook 2019)",
       "type": "reading",
@@ -7251,7 +8277,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 410,
+      "id": 467,
       "slug": "readings/phd-studies-mental-health-longitudinal",
       "title": "The Impact of PhD Studies on Mental Health — A Longitudinal Population Study",
       "type": "reading",
@@ -7273,7 +8299,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 411,
+      "id": 468,
       "slug": "readings/phd-studies-mental-health-sweden-longitudinal",
       "title": "The Impact of PhD Studies on Mental Health — Sweden Longitudinal",
       "type": "reading",
@@ -7291,7 +8317,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 412,
+      "id": 469,
       "slug": "readings/prion-disease-colleague-story",
       "title": "My Friend Got Prion Disease - Chubbyemu Medical Case",
       "type": "reading",
@@ -7312,7 +8338,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 413,
+      "id": 470,
       "slug": "readings/recent-advances-alzheimers-disease-cell-review-2026",
       "title": "Recent advances in Alzheimer's disease: From molecular mechanisms to therapeutic strategies",
       "type": "reading",
@@ -7335,7 +8361,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 414,
+      "id": 471,
       "slug": "readings/savings-insurance-hong-kong-myths-exposed",
       "title": "Savings Insurance Hong Kong Myths Exposed (Bowtie Video)",
       "type": "reading",
@@ -7355,7 +8381,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 415,
+      "id": 472,
       "slug": "readings/shared-neural-basis-psychiatric-comorbidity",
       "title": "A shared neural basis underlying psychiatric comorbidity",
       "type": "reading",
@@ -7377,7 +8403,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 416,
+      "id": 473,
       "slug": "readings/terminal-boredom-and-endstage-screen-addiction",
       "title": "Terminal Boredom and Endstage Screen Addiction",
       "type": "reading",
@@ -7395,7 +8421,7 @@
       "outboundLinks": 5
     },
     {
-      "id": 417,
+      "id": 474,
       "slug": "readings/why-brain-rot-is-so-addictive",
       "title": "Why Brain Rot is So Addictive and How to Break Free",
       "type": "reading",
@@ -7413,7 +8439,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 418,
+      "id": 475,
       "slug": "readings/youtube-0UvrxfAgu48-summary",
       "title": "The Pentagon Just Declassified 50 UFO Encounters - Summary",
       "type": "reading",
@@ -7428,7 +8454,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 419,
+      "id": 476,
       "slug": "readings/youtube-17690d3bfe321f095d5a3d11e0b03ad5-Ethernet-Explained-so-well-that-even-YOU-can-Under",
       "title": "Ethernet Explained so well that even YOU can Understand it!",
       "type": "video",
@@ -7457,7 +8483,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 420,
+      "id": 477,
       "slug": "readings/youtube-29d1488ba568e3d6a415a48eced17423-Microsofts-Secret-90s-Weapon-That-Made-Windows-Fas",
       "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
       "type": "video",
@@ -7486,7 +8512,25 @@
       "outboundLinks": 0
     },
     {
-      "id": 421,
+      "id": 478,
+      "slug": "readings/youtube-2fbrl6WoIyo-summary",
+      "title": "Lec 1 | MIT 9.00SC Introduction to Psychology, Spring 2011 - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "2fbrl6WoIyo"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-2fbrl6WoIyo-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 1
+    },
+    {
+      "id": 479,
       "slug": "readings/youtube-2uJhjqBz5Tk-summary",
       "title": "Chernobyl Nuclear Explosion Disaster Explained (Hour by Hour) - Summary",
       "type": "reading",
@@ -7504,7 +8548,25 @@
       "outboundLinks": 4
     },
     {
-      "id": 422,
+      "id": 480,
+      "slug": "readings/youtube-4EPW0Ht7XCc-summary",
+      "title": "WTF is Happening with South Korean Economy - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "4EPW0Ht7XCc"
+      ],
+      "updated": "2026-08-21",
+      "url": "/readings/youtube-4EPW0Ht7XCc-summary/",
+      "inboundLinks": 5,
+      "outboundLinks": 0
+    },
+    {
+      "id": 481,
       "slug": "readings/youtube-4_tngSkFXes-summary",
       "title": "Video 7: Aperture - Summary",
       "type": "reading",
@@ -7520,7 +8582,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 423,
+      "id": 482,
       "slug": "readings/youtube-5tilhR0C6DY-summary",
       "title": "What Caused the Roman Empire to Collapse - Summary",
       "type": "reading",
@@ -7535,7 +8597,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 424,
+      "id": 483,
       "slug": "readings/youtube-6dPNiN5nf0E-summary",
       "title": "16 Most Disturbing Videos From Pentagon UFO Release - Summary",
       "type": "reading",
@@ -7550,7 +8612,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 425,
+      "id": 484,
       "slug": "readings/youtube-6kD5RbQCjFg-summary",
       "title": "What Everyone Gets Wrong About ADHD - Summary",
       "type": "reading",
@@ -7566,7 +8628,25 @@
       "outboundLinks": 1
     },
     {
-      "id": 426,
+      "id": 485,
+      "slug": "readings/youtube-6xdW0bdVkVU-summary",
+      "title": "Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "6xdW0bdVkVU"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-6xdW0bdVkVU-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 3
+    },
+    {
+      "id": 486,
       "slug": "readings/youtube-772c9b359bb40b2801e49f8eabc5ffb9-CANBUS-Networking-so-simple-even-YOU-can-understan",
       "title": "CANBUS \\u2013 Networking so simple, even YOU can understand it!",
       "type": "video",
@@ -7595,7 +8675,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 427,
+      "id": 487,
       "slug": "readings/youtube-7HF6UuVdihA-summary",
       "title": "It's a $12,000 EV. The American Car Industry Is DOOMED. - Summary",
       "type": "reading",
@@ -7610,7 +8690,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 428,
+      "id": 488,
       "slug": "readings/youtube-7wOsPc0XtpY-summary",
       "title": "Video 6: Setting the Exposure - Summary",
       "type": "reading",
@@ -7626,7 +8706,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 429,
+      "id": 489,
       "slug": "readings/youtube-8xMGlbFSWWc-summary",
       "title": "Insane Conspiracy Theories That Turned Out to be True - Summary",
       "type": "reading",
@@ -7641,7 +8721,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 430,
+      "id": 490,
       "slug": "readings/youtube-8zUhBnpVgdE-summary",
       "title": "Most Viewed The Infographics Show Videos (Compilation) - Summary",
       "type": "reading",
@@ -7656,7 +8736,25 @@
       "outboundLinks": 3
     },
     {
-      "id": 431,
+      "id": 491,
+      "slug": "readings/youtube-D-uK2Xs6D9s-summary",
+      "title": "The \"Stay-At-Home Boyfriend\" Epidemic - Women Now Outnumber Men In The Workforce - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "D-uK2Xs6D9s"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-D-uK2Xs6D9s-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 1
+    },
+    {
+      "id": 492,
       "slug": "readings/youtube-D4nPxik59oE-summary",
       "title": "The Horrors of Unit 731 - Summary",
       "type": "reading",
@@ -7671,7 +8769,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 432,
+      "id": 493,
       "slug": "readings/youtube-I_17-FIqadU-summary",
       "title": "ስሙ ነው ካሮል ፈቃዱ SIMU NEW  መዝሙር CAROL FEKADU Mezmur 2023 - Summary",
       "type": "reading",
@@ -7686,7 +8784,43 @@
       "outboundLinks": 1
     },
     {
-      "id": 433,
+      "id": 494,
+      "slug": "readings/youtube-J7DzL2_Na80-summary",
+      "title": "1. The Geometry of Linear Equations - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "J7DzL2_Na80"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-J7DzL2_Na80-summary/",
+      "inboundLinks": 2,
+      "outboundLinks": 1
+    },
+    {
+      "id": 495,
+      "slug": "readings/youtube-K1QDYuHGa_I-summary",
+      "title": "How to Win Every Single Day - David Goggins - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "K1QDYuHGa_I"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-K1QDYuHGa_I-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 1
+    },
+    {
+      "id": 496,
       "slug": "readings/youtube-KBkkN12nVqs-summary",
       "title": "The Worst Red Flags I’ve Seen As A Therapist - Summary",
       "type": "reading",
@@ -7701,7 +8835,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 434,
+      "id": 497,
       "slug": "readings/youtube-L9U-81fvZbA-summary",
       "title": "Declassified FBI Secrets You’re Not Supposed To Know - Summary",
       "type": "reading",
@@ -7716,7 +8850,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 435,
+      "id": 498,
       "slug": "readings/youtube-Mg9Tr3qLXks-summary",
       "title": "How Trauma Splits A Soul (Dissociative Identity Disorder) - Summary",
       "type": "reading",
@@ -7732,7 +8866,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 436,
+      "id": 499,
       "slug": "readings/youtube-OafdDpFjOIg-summary",
       "title": "Can Men & Women Be Friends? - Summary",
       "type": "reading",
@@ -7747,7 +8881,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 437,
+      "id": 500,
       "slug": "readings/youtube-OunJtLnyPT4-summary",
       "title": "The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Right NOW. - Summary",
       "type": "reading",
@@ -7762,7 +8896,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 438,
+      "id": 501,
       "slug": "readings/youtube-PtOmjej-YDE-summary",
       "title": "You NEED to STOP Using Meta Right NOW. The Collapse JUST Began. - Summary",
       "type": "reading",
@@ -7780,7 +8914,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 439,
+      "id": 502,
       "slug": "readings/youtube-RhelaTtcmEo-summary",
       "title": "Why Smart People Are Bad At Dating - Summary",
       "type": "reading",
@@ -7796,7 +8930,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 440,
+      "id": 503,
       "slug": "readings/youtube-RpRZ8BQiiMo-summary",
       "title": "Windows Longhorn Explained by Dave Plummer - Retired Microsoft Engineer - Summary",
       "type": "reading",
@@ -7811,7 +8945,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 441,
+      "id": 504,
       "slug": "readings/youtube-Sdr-ZCs1yzU-summary",
       "title": "New Evidence Reveals New Important Details About COVID-19 Origins - Summary",
       "type": "reading",
@@ -7826,7 +8960,43 @@
       "outboundLinks": 3
     },
     {
-      "id": 442,
+      "id": 505,
+      "slug": "readings/youtube-Sx-lddna-qg-summary",
+      "title": "WTF Is Happening To The Video Game Industry? - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "Sx-lddna-qg"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-Sx-lddna-qg-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 2
+    },
+    {
+      "id": 506,
+      "slug": "readings/youtube-THodtjsCTSI-summary",
+      "title": "Is America Chasing Away All Of Its Smart People? - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "THodtjsCTSI"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-THodtjsCTSI-summary/",
+      "inboundLinks": 7,
+      "outboundLinks": 2
+    },
+    {
+      "id": 507,
       "slug": "readings/youtube-TuvSVH-UNAE-summary",
       "title": "Declassified FBI Secrets You’re Not Supposed To Know - Summary",
       "type": "reading",
@@ -7841,7 +9011,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 443,
+      "id": 508,
       "slug": "readings/youtube-Unzc731iCUY-summary",
       "title": "How to Speak - Summary",
       "type": "reading",
@@ -7853,13 +9023,49 @@
         "transcript",
         "Unzc731iCUY"
       ],
-      "updated": "2026-08-21",
+      "updated": "2026-08-22",
       "url": "/readings/youtube-Unzc731iCUY-summary/",
-      "inboundLinks": 7,
+      "inboundLinks": 10,
       "outboundLinks": 2
     },
     {
-      "id": 444,
+      "id": 509,
+      "slug": "readings/youtube-VCJFzVtvhBQ-summary",
+      "title": "The Alibaba AI Incident Should Terrify Us - Tristan Harris - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "VCJFzVtvhBQ"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-VCJFzVtvhBQ-summary/",
+      "inboundLinks": 4,
+      "outboundLinks": 1
+    },
+    {
+      "id": 510,
+      "slug": "readings/youtube-VaoGl-soL1g-summary",
+      "title": "The Epstein Story You Haven’t Heard - Eric Weinstein - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "VaoGl-soL1g"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-VaoGl-soL1g-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 1
+    },
+    {
+      "id": 511,
       "slug": "readings/youtube-WEP5ubPMGDU-summary",
       "title": "How to Find the Meaning You’ve Been Looking For - Jordan Peterson (4K) - Summary",
       "type": "reading",
@@ -7877,7 +9083,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 445,
+      "id": 512,
       "slug": "readings/youtube-WNSZ6xouNv4-summary",
       "title": "Get Addicted to Improving Your Life - David Goggins - Summary",
       "type": "reading",
@@ -7895,7 +9101,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 446,
+      "id": 513,
       "slug": "readings/youtube-XJ_DP8SJfa0-summary",
       "title": "The Dark Side of Fitness: “I Starved Myself Until I Fainted\" - Will Tennyson (4K) - Summary",
       "type": "reading",
@@ -7913,7 +9119,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 447,
+      "id": 514,
       "slug": "readings/youtube-YQQMF8ibxVw-summary",
       "title": "What Does it Actually Feel Like to be Shot in the Head - Summary",
       "type": "reading",
@@ -7928,7 +9134,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 448,
+      "id": 515,
       "slug": "readings/youtube-ZwYrXkPJA1s-summary",
       "title": "Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. - Summary",
       "type": "reading",
@@ -7943,7 +9149,25 @@
       "outboundLinks": 1
     },
     {
-      "id": 449,
+      "id": 516,
+      "slug": "readings/youtube-_W3qPymBEBA-summary",
+      "title": "WTF Does Peter Thiel Actually Want? - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "_W3qPymBEBA"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-_W3qPymBEBA-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 3
+    },
+    {
+      "id": 517,
       "slug": "readings/youtube-ahDC1sQCDzY-summary",
       "title": "Surviving Most Extreme Mega Tsunami in Modern History - True Story - Summary",
       "type": "reading",
@@ -7961,7 +9185,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 450,
+      "id": 518,
       "slug": "readings/youtube-am0O6GpB7qI-summary",
       "title": "Using Windows 10?  Do THIS Now Before It's Too Late! - Summary",
       "type": "reading",
@@ -7976,7 +9200,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 451,
+      "id": 519,
       "slug": "readings/youtube-ca231d3ce1234405aab600e13bf76077-The-Challenge-Can-we-build-Notepad-in-3K-in-assemb",
       "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
       "type": "video",
@@ -8005,7 +9229,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 452,
+      "id": 520,
       "slug": "readings/youtube-cemy5eP5Jjs-summary",
       "title": "Most Insane The Infographics Show Videos of All Time (Compilation) - Summary",
       "type": "reading",
@@ -8020,7 +9244,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 453,
+      "id": 521,
       "slug": "readings/youtube-e96cc006ebe07e07a82d5f3a87b3c5c4-The-Secret-RGB-LED-Features-I-Hid-in-this-1970-Lin",
       "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
       "type": "video",
@@ -8049,7 +9273,25 @@
       "outboundLinks": 0
     },
     {
-      "id": 454,
+      "id": 522,
+      "slug": "readings/youtube-edLnZgF9mUg-summary",
+      "title": "Lecture 2: Airplane Aerodynamics - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "edLnZgF9mUg"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-edLnZgF9mUg-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 1
+    },
+    {
+      "id": 523,
       "slug": "readings/youtube-f47Qi11cfs8-summary",
       "title": "Germany has hit rock bottom... - Summary",
       "type": "reading",
@@ -8067,7 +9309,25 @@
       "outboundLinks": 3
     },
     {
-      "id": 455,
+      "id": 524,
+      "slug": "readings/youtube-g2nXwiNl9tg-summary",
+      "title": "Siren Head - EXPLAINED - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "g2nXwiNl9tg"
+      ],
+      "updated": "2026-08-21",
+      "url": "/readings/youtube-g2nXwiNl9tg-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 0
+    },
+    {
+      "id": 525,
       "slug": "readings/youtube-gduhiplw-pw-summary",
       "title": "Chciałem przebiec MARATON W 30 DNI (BEZ WCZEŚNIEJSZEGO DOŚWIADCZENIA) - Summary",
       "type": "reading",
@@ -8085,7 +9345,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 456,
+      "id": 526,
       "slug": "readings/youtube-gsDGDCnntEk-summary",
       "title": "INSANE Conspiracy Theories That Turned Out to be TRUE - Summary",
       "type": "reading",
@@ -8100,7 +9360,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 457,
+      "id": 527,
       "slug": "readings/youtube-h1GtR8xJraw-summary",
       "title": "Video 14: Using a Smartphone - Summary",
       "type": "reading",
@@ -8118,7 +9378,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 458,
+      "id": 528,
       "slug": "readings/youtube-k0ksj42YJaM-summary",
       "title": "9/11 Secrets They DON'T Want You to Know - Summary",
       "type": "reading",
@@ -8133,7 +9393,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 459,
+      "id": 529,
       "slug": "readings/youtube-kZmpYh5Wxto-summary",
       "title": "The Challenger Space Shuttle Disaster - Explained (Minute by Minute) - Summary",
       "type": "reading",
@@ -8148,7 +9408,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 460,
+      "id": 530,
       "slug": "readings/youtube-l7BaFufR23E-summary",
       "title": "The Lie of \"Positive Thinking\" - Summary",
       "type": "reading",
@@ -8163,7 +9423,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 461,
+      "id": 531,
       "slug": "readings/youtube-m5q-PIN3KSE-summary",
       "title": "What Made The Black Death (The Plague) so Deadly? - Summary",
       "type": "reading",
@@ -8178,7 +9438,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 462,
+      "id": 532,
       "slug": "readings/youtube-mNlKWWgmpus-summary",
       "title": "Why You Wouldn't Survive 1 Day in CECOT... World's Largest Mega Prison in El Salvador - Summary",
       "type": "reading",
@@ -8193,7 +9453,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 463,
+      "id": 533,
       "slug": "readings/youtube-mSjaMyP5QjY-summary",
       "title": "AI DEBATE: “Most People Have No Idea What’s Coming” - Summary",
       "type": "reading",
@@ -8211,7 +9471,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 464,
+      "id": 534,
       "slug": "readings/youtube-nFY50H8nb5E-summary",
       "title": "Flirting Kinda Sucks, Actually. - Summary",
       "type": "reading",
@@ -8226,7 +9486,43 @@
       "outboundLinks": 1
     },
     {
-      "id": 465,
+      "id": 535,
+      "slug": "readings/youtube-nglN9SB-CYw-summary",
+      "title": "NASA’s 100-Mile Moon Base: The Insane Plan to Colonize the Lunar South Pole by 2032 - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "nglN9SB-CYw"
+      ],
+      "updated": "2026-08-21",
+      "url": "/readings/youtube-nglN9SB-CYw-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 0
+    },
+    {
+      "id": 536,
+      "slug": "readings/youtube-pB6nlxuytLU-summary",
+      "title": "Dumb YouTube Videos That Got People Fired #2 - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "pB6nlxuytLU"
+      ],
+      "updated": "2026-08-21",
+      "url": "/readings/youtube-pB6nlxuytLU-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 0
+    },
+    {
+      "id": 537,
       "slug": "readings/youtube-pfVR4UwwIwU-summary",
       "title": "360 Degree Video Tour of Amazing Shop - Summary",
       "type": "reading",
@@ -8241,7 +9537,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 466,
+      "id": 538,
       "slug": "readings/youtube-plCuZVzK6kk-summary",
       "title": "Video 17: Looking at Videos - Summary",
       "type": "reading",
@@ -8257,7 +9553,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 467,
+      "id": 539,
       "slug": "readings/youtube-q9GpzCudQb4-summary",
       "title": "$2.45 BILLION Debt. Ubisoft is DOOMED. - Summary",
       "type": "reading",
@@ -8272,7 +9568,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 468,
+      "id": 540,
       "slug": "readings/youtube-qPujplCJnlM-summary",
       "title": "The Oil Reserve Is DEAD. The American ECONOMY Is DOOMED. - Summary",
       "type": "reading",
@@ -8287,7 +9583,25 @@
       "outboundLinks": 2
     },
     {
-      "id": 469,
+      "id": 541,
+      "slug": "readings/youtube-qmZmKZR8S5U-summary",
+      "title": "How Long Can The Stock Market Ignore Reality? - Summary",
+      "type": "reading",
+      "classification": "general.media",
+      "domain": "ai",
+      "tags": [
+        "youtube",
+        "video-summary",
+        "transcript",
+        "qmZmKZR8S5U"
+      ],
+      "updated": "2026-08-22",
+      "url": "/readings/youtube-qmZmKZR8S5U-summary/",
+      "inboundLinks": 3,
+      "outboundLinks": 2
+    },
+    {
+      "id": 542,
       "slug": "readings/youtube-sRavs-1HMoI-summary",
       "title": "Cicada 3301: The Internet's Greatest Mystery! - Summary",
       "type": "reading",
@@ -8302,7 +9616,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 470,
+      "id": 543,
       "slug": "readings/youtube-tFo_0eEt1IY-summary",
       "title": "What Caused the Catastrophic Nuclear Accident in Chernobyl? - Summary",
       "type": "reading",
@@ -8320,7 +9634,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 471,
+      "id": 544,
       "slug": "readings/youtube-uzg-tGiK_y8-summary",
       "title": "Why Marines aren't just a different kind of 'soldier' || The Infographics Show react - Summary",
       "type": "reading",
@@ -8335,7 +9649,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 472,
+      "id": 545,
       "slug": "readings/youtube-xAcTmDO6NTI-summary",
       "title": "Video xAcTmDO6NTI - Summary",
       "type": "reading",
@@ -8353,7 +9667,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 473,
+      "id": 546,
       "slug": "readings/youtube-xHkcIRZa6lo-summary",
       "title": "Why You Should NEVER Confess Your Love - Summary",
       "type": "reading",
@@ -8369,9 +9683,9 @@
       "outboundLinks": 1
     },
     {
-      "id": 474,
+      "id": 547,
       "slug": "readings/youtube-yXAgVyGY6M8-summary",
-      "title": "Color Organ Video 2 - Summary",
+      "title": "Video yXAgVyGY6M8 - Summary",
       "type": "reading",
       "classification": "general.media",
       "domain": "ai",
@@ -8381,13 +9695,13 @@
         "transcript",
         "yXAgVyGY6M8"
       ],
-      "updated": "2026-08-21",
+      "updated": "2026-08-22",
       "url": "/readings/youtube-yXAgVyGY6M8-summary/",
       "inboundLinks": 0,
       "outboundLinks": 0
     },
     {
-      "id": 475,
+      "id": 548,
       "slug": "comparisons/adhd-genetics-research-evolution",
       "title": "ADHD Genetics Research Evolution",
       "type": "comparison",
@@ -8406,7 +9720,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 476,
+      "id": 549,
       "slug": "comparisons/china-vs-japan-economic-comparison",
       "title": "China vs. Japan Economic Comparison",
       "type": "comparison",
@@ -8424,7 +9738,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 477,
+      "id": 550,
       "slug": "comparisons/emag-vs-magana-pure-96-vs-easymag",
       "title": "eMAG vs MagNA PURE 96 vs easyMAG Comparison",
       "type": "comparison",
@@ -8443,7 +9757,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 478,
+      "id": 551,
       "slug": "comparisons/insurance-comparison",
       "title": "Insurance Comparison",
       "type": "comparison",
@@ -8459,7 +9773,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 479,
+      "id": 552,
       "slug": "references/setup-guide",
       "title": "Neural Nexus Setup Guide",
       "type": "reference",
@@ -8477,7 +9791,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 480,
+      "id": 553,
       "slug": "references/writing-guide",
       "title": "Neural Nexus Writing Guide",
       "type": "reference",
@@ -8570,7 +9884,7 @@
     },
     {
       "source": 6,
-      "target": 391
+      "target": 448
     },
     {
       "source": 6,
@@ -8810,7 +10124,7 @@
     },
     {
       "source": 29,
-      "target": 396
+      "target": 453
     },
     {
       "source": 30,
@@ -8926,7 +10240,7 @@
     },
     {
       "source": 41,
-      "target": 402
+      "target": 459
     },
     {
       "source": 41,
@@ -9082,7 +10396,7 @@
     },
     {
       "source": 53,
-      "target": 387
+      "target": 444
     },
     {
       "source": 54,
@@ -9462,7 +10776,7 @@
     },
     {
       "source": 87,
-      "target": 406
+      "target": 463
     },
     {
       "source": 88,
@@ -9690,7 +11004,7 @@
     },
     {
       "source": 107,
-      "target": 402
+      "target": 459
     },
     {
       "source": 107,
@@ -9858,11 +11172,11 @@
     },
     {
       "source": 123,
-      "target": 479
+      "target": 552
     },
     {
       "source": 123,
-      "target": 480
+      "target": 553
     },
     {
       "source": 124,
@@ -10042,7 +11356,7 @@
     },
     {
       "source": 140,
-      "target": 412
+      "target": 469
     },
     {
       "source": 140,
@@ -10298,7 +11612,7 @@
     },
     {
       "source": 163,
-      "target": 413
+      "target": 470
     },
     {
       "source": 163,
@@ -10594,11 +11908,11 @@
     },
     {
       "source": 190,
-      "target": 392
+      "target": 449
     },
     {
       "source": 190,
-      "target": 386
+      "target": 443
     },
     {
       "source": 190,
@@ -10626,7 +11940,7 @@
     },
     {
       "source": 192,
-      "target": 413
+      "target": 470
     },
     {
       "source": 192,
@@ -10698,7 +12012,7 @@
     },
     {
       "source": 200,
-      "target": 413
+      "target": 470
     },
     {
       "source": 200,
@@ -10798,7 +12112,7 @@
     },
     {
       "source": 210,
-      "target": 413
+      "target": 470
     },
     {
       "source": 210,
@@ -10914,7 +12228,7 @@
     },
     {
       "source": 220,
-      "target": 476
+      "target": 549
     },
     {
       "source": 221,
@@ -10998,1536 +12312,1840 @@
     },
     {
       "source": 229,
-      "target": 418
+      "target": 475
     },
     {
       "source": 230,
-      "target": 418
+      "target": 475
     },
     {
       "source": 231,
-      "target": 418
+      "target": 475
     },
     {
       "source": 232,
-      "target": 418
+      "target": 475
     },
     {
       "source": 233,
-      "target": 421
+      "target": 478
     },
     {
       "source": 234,
-      "target": 421
+      "target": 478
     },
     {
       "source": 235,
-      "target": 421
+      "target": 478
     },
     {
       "source": 236,
-      "target": 421
-    },
-    {
-      "source": 237,
-      "target": 422
-    },
-    {
-      "source": 238,
-      "target": 423
-    },
-    {
-      "source": 239,
-      "target": 423
-    },
-    {
-      "source": 240,
-      "target": 423
-    },
-    {
-      "source": 241,
-      "target": 424
-    },
-    {
-      "source": 242,
-      "target": 424
-    },
-    {
-      "source": 243,
-      "target": 424
-    },
-    {
-      "source": 244,
-      "target": 425
-    },
-    {
-      "source": 245,
-      "target": 425
-    },
-    {
-      "source": 246,
-      "target": 425
-    },
-    {
-      "source": 247,
-      "target": 427
-    },
-    {
-      "source": 248,
-      "target": 427
-    },
-    {
-      "source": 249,
-      "target": 427
-    },
-    {
-      "source": 250,
-      "target": 429
-    },
-    {
-      "source": 251,
-      "target": 429
-    },
-    {
-      "source": 252,
-      "target": 429
-    },
-    {
-      "source": 253,
-      "target": 430
-    },
-    {
-      "source": 254,
-      "target": 430
-    },
-    {
-      "source": 255,
-      "target": 430
-    },
-    {
-      "source": 256,
-      "target": 431
-    },
-    {
-      "source": 257,
-      "target": 431
-    },
-    {
-      "source": 258,
-      "target": 431
-    },
-    {
-      "source": 259,
-      "target": 432
-    },
-    {
-      "source": 260,
-      "target": 432
-    },
-    {
-      "source": 261,
-      "target": 432
-    },
-    {
-      "source": 262,
-      "target": 434
-    },
-    {
-      "source": 263,
-      "target": 434
-    },
-    {
-      "source": 264,
-      "target": 434
-    },
-    {
-      "source": 265,
-      "target": 435
-    },
-    {
-      "source": 266,
-      "target": 435
-    },
-    {
-      "source": 267,
-      "target": 435
-    },
-    {
-      "source": 268,
-      "target": 437
-    },
-    {
-      "source": 269,
-      "target": 437
-    },
-    {
-      "source": 270,
-      "target": 437
-    },
-    {
-      "source": 271,
-      "target": 437
-    },
-    {
-      "source": 272,
-      "target": 438
-    },
-    {
-      "source": 273,
-      "target": 438
-    },
-    {
-      "source": 274,
-      "target": 438
-    },
-    {
-      "source": 275,
-      "target": 438
-    },
-    {
-      "source": 276,
-      "target": 438
-    },
-    {
-      "source": 277,
-      "target": 439
-    },
-    {
-      "source": 278,
-      "target": 439
-    },
-    {
-      "source": 279,
-      "target": 439
-    },
-    {
-      "source": 280,
-      "target": 440
-    },
-    {
-      "source": 281,
-      "target": 440
-    },
-    {
-      "source": 282,
-      "target": 440
-    },
-    {
-      "source": 283,
-      "target": 441
-    },
-    {
-      "source": 284,
-      "target": 441
-    },
-    {
-      "source": 285,
-      "target": 441
-    },
-    {
-      "source": 286,
-      "target": 442
-    },
-    {
-      "source": 287,
-      "target": 442
-    },
-    {
-      "source": 288,
-      "target": 442
-    },
-    {
-      "source": 289,
-      "target": 443
-    },
-    {
-      "source": 290,
-      "target": 443
-    },
-    {
-      "source": 291,
-      "target": 443
-    },
-    {
-      "source": 292,
-      "target": 443
-    },
-    {
-      "source": 293,
-      "target": 443
-    },
-    {
-      "source": 294,
-      "target": 443
-    },
-    {
-      "source": 295,
-      "target": 443
-    },
-    {
-      "source": 296,
-      "target": 444
-    },
-    {
-      "source": 297,
-      "target": 444
-    },
-    {
-      "source": 298,
-      "target": 444
-    },
-    {
-      "source": 299,
-      "target": 445
-    },
-    {
-      "source": 300,
-      "target": 445
-    },
-    {
-      "source": 301,
-      "target": 445
-    },
-    {
-      "source": 302,
-      "target": 446
-    },
-    {
-      "source": 303,
-      "target": 446
-    },
-    {
-      "source": 304,
-      "target": 446
-    },
-    {
-      "source": 305,
-      "target": 447
-    },
-    {
-      "source": 306,
-      "target": 447
-    },
-    {
-      "source": 307,
-      "target": 447
-    },
-    {
-      "source": 308,
-      "target": 448
-    },
-    {
-      "source": 309,
-      "target": 448
-    },
-    {
-      "source": 310,
-      "target": 448
-    },
-    {
-      "source": 311,
-      "target": 449
-    },
-    {
-      "source": 312,
-      "target": 449
-    },
-    {
-      "source": 313,
-      "target": 449
-    },
-    {
-      "source": 314,
-      "target": 452
-    },
-    {
-      "source": 315,
-      "target": 452
-    },
-    {
-      "source": 316,
-      "target": 452
-    },
-    {
-      "source": 317,
-      "target": 454
-    },
-    {
-      "source": 318,
-      "target": 454
-    },
-    {
-      "source": 319,
-      "target": 454
-    },
-    {
-      "source": 320,
-      "target": 456
-    },
-    {
-      "source": 321,
-      "target": 456
-    },
-    {
-      "source": 322,
-      "target": 456
-    },
-    {
-      "source": 323,
-      "target": 457
-    },
-    {
-      "source": 324,
-      "target": 457
-    },
-    {
-      "source": 325,
-      "target": 457
-    },
-    {
-      "source": 326,
-      "target": 458
-    },
-    {
-      "source": 327,
-      "target": 458
-    },
-    {
-      "source": 328,
-      "target": 458
-    },
-    {
-      "source": 329,
-      "target": 459
-    },
-    {
-      "source": 330,
-      "target": 459
-    },
-    {
-      "source": 331,
-      "target": 459
-    },
-    {
-      "source": 332,
-      "target": 459
-    },
-    {
-      "source": 333,
-      "target": 460
-    },
-    {
-      "source": 334,
-      "target": 460
-    },
-    {
-      "source": 335,
-      "target": 460
-    },
-    {
-      "source": 336,
-      "target": 461
-    },
-    {
-      "source": 337,
-      "target": 461
-    },
-    {
-      "source": 338,
-      "target": 461
-    },
-    {
-      "source": 339,
-      "target": 462
-    },
-    {
-      "source": 340,
-      "target": 462
-    },
-    {
-      "source": 341,
-      "target": 462
-    },
-    {
-      "source": 342,
-      "target": 463
-    },
-    {
-      "source": 343,
-      "target": 463
-    },
-    {
-      "source": 344,
-      "target": 463
-    },
-    {
-      "source": 345,
-      "target": 463
-    },
-    {
-      "source": 346,
-      "target": 464
-    },
-    {
-      "source": 347,
-      "target": 464
-    },
-    {
-      "source": 348,
-      "target": 464
-    },
-    {
-      "source": 349,
-      "target": 465
-    },
-    {
-      "source": 350,
-      "target": 465
-    },
-    {
-      "source": 351,
-      "target": 465
-    },
-    {
-      "source": 352,
-      "target": 467
-    },
-    {
-      "source": 353,
-      "target": 467
-    },
-    {
-      "source": 353,
-      "target": 355
-    },
-    {
-      "source": 353,
-      "target": 356
-    },
-    {
-      "source": 353,
-      "target": 357
-    },
-    {
-      "source": 354,
-      "target": 467
-    },
-    {
-      "source": 355,
-      "target": 467
-    },
-    {
-      "source": 355,
-      "target": 353
-    },
-    {
-      "source": 355,
-      "target": 356
-    },
-    {
-      "source": 355,
-      "target": 357
-    },
-    {
-      "source": 356,
-      "target": 467
-    },
-    {
-      "source": 356,
-      "target": 353
-    },
-    {
-      "source": 356,
-      "target": 355
-    },
-    {
-      "source": 356,
-      "target": 357
-    },
-    {
-      "source": 357,
-      "target": 467
-    },
-    {
-      "source": 357,
-      "target": 353
-    },
-    {
-      "source": 357,
-      "target": 355
-    },
-    {
-      "source": 357,
-      "target": 356
-    },
-    {
-      "source": 358,
-      "target": 467
-    },
-    {
-      "source": 359,
-      "target": 467
-    },
-    {
-      "source": 360,
-      "target": 467
-    },
-    {
-      "source": 360,
-      "target": 353
-    },
-    {
-      "source": 360,
-      "target": 355
-    },
-    {
-      "source": 360,
-      "target": 356
-    },
-    {
-      "source": 361,
-      "target": 467
-    },
-    {
-      "source": 361,
-      "target": 353
-    },
-    {
-      "source": 361,
-      "target": 355
-    },
-    {
-      "source": 361,
-      "target": 356
-    },
-    {
-      "source": 362,
-      "target": 468
-    },
-    {
-      "source": 363,
-      "target": 468
-    },
-    {
-      "source": 364,
-      "target": 468
-    },
-    {
-      "source": 365,
-      "target": 469
-    },
-    {
-      "source": 366,
-      "target": 469
-    },
-    {
-      "source": 367,
-      "target": 469
-    },
-    {
-      "source": 368,
-      "target": 470
-    },
-    {
-      "source": 369,
-      "target": 470
-    },
-    {
-      "source": 370,
-      "target": 470
-    },
-    {
-      "source": 371,
-      "target": 471
-    },
-    {
-      "source": 372,
-      "target": 471
-    },
-    {
-      "source": 373,
-      "target": 471
-    },
-    {
-      "source": 374,
-      "target": 472
-    },
-    {
-      "source": 375,
-      "target": 472
-    },
-    {
-      "source": 376,
-      "target": 472
-    },
-    {
-      "source": 377,
-      "target": 472
-    },
-    {
-      "source": 378,
-      "target": 472
-    },
-    {
-      "source": 379,
-      "target": 473
-    },
-    {
-      "source": 380,
-      "target": 473
-    },
-    {
-      "source": 381,
-      "target": 473
-    },
-    {
-      "source": 382,
-      "target": 149
-    },
-    {
-      "source": 382,
-      "target": 223
-    },
-    {
-      "source": 382,
-      "target": 403
-    },
-    {
-      "source": 383,
-      "target": 25
-    },
-    {
-      "source": 383,
-      "target": 143
-    },
-    {
-      "source": 384,
-      "target": 25
-    },
-    {
-      "source": 384,
-      "target": 143
-    },
-    {
-      "source": 385,
-      "target": 10
-    },
-    {
-      "source": 386,
-      "target": 415
-    },
-    {
-      "source": 386,
-      "target": 82
-    },
-    {
-      "source": 386,
-      "target": 71
-    },
-    {
-      "source": 387,
-      "target": 103
-    },
-    {
-      "source": 387,
-      "target": 150
-    },
-    {
-      "source": 388,
-      "target": 433
-    },
-    {
-      "source": 389,
-      "target": 464
-    },
-    {
-      "source": 390,
-      "target": 154
-    },
-    {
-      "source": 390,
-      "target": 60
-    },
-    {
-      "source": 390,
-      "target": 81
-    },
-    {
-      "source": 391,
-      "target": 6
-    },
-    {
-      "source": 391,
-      "target": 81
-    },
-    {
-      "source": 392,
-      "target": 8
-    },
-    {
-      "source": 392,
-      "target": 71
-    },
-    {
-      "source": 392,
-      "target": 142
-    },
-    {
-      "source": 392,
-      "target": 82
-    },
-    {
-      "source": 393,
-      "target": 154
-    },
-    {
-      "source": 393,
-      "target": 60
-    },
-    {
-      "source": 393,
-      "target": 120
-    },
-    {
-      "source": 394,
-      "target": 103
-    },
-    {
-      "source": 394,
-      "target": 123
-    },
-    {
-      "source": 395,
-      "target": 25
-    },
-    {
-      "source": 395,
-      "target": 113
-    },
-    {
-      "source": 395,
-      "target": 143
-    },
-    {
-      "source": 396,
-      "target": 29
-    },
-    {
-      "source": 396,
-      "target": 3
-    },
-    {
-      "source": 396,
-      "target": 30
-    },
-    {
-      "source": 397,
-      "target": 154
-    },
-    {
-      "source": 397,
-      "target": 60
-    },
-    {
-      "source": 397,
-      "target": 120
-    },
-    {
-      "source": 398,
-      "target": 120
-    },
-    {
-      "source": 398,
-      "target": 81
-    },
-    {
-      "source": 399,
-      "target": 60
-    },
-    {
-      "source": 399,
-      "target": 120
-    },
-    {
-      "source": 399,
-      "target": 81
-    },
-    {
-      "source": 400,
-      "target": 60
-    },
-    {
-      "source": 400,
-      "target": 120
-    },
-    {
-      "source": 400,
-      "target": 81
-    },
-    {
-      "source": 401,
-      "target": 154
-    },
-    {
-      "source": 401,
-      "target": 60
-    },
-    {
-      "source": 401,
-      "target": 120
-    },
-    {
-      "source": 402,
-      "target": 213
-    },
-    {
-      "source": 402,
-      "target": 209
-    },
-    {
-      "source": 402,
-      "target": 130
-    },
-    {
-      "source": 403,
-      "target": 149
-    },
-    {
-      "source": 403,
-      "target": 129
-    },
-    {
-      "source": 403,
-      "target": 205
-    },
-    {
-      "source": 404,
-      "target": 48
-    },
-    {
-      "source": 404,
-      "target": 69
-    },
-    {
-      "source": 404,
-      "target": 60
-    },
-    {
-      "source": 405,
-      "target": 143
-    },
-    {
-      "source": 405,
-      "target": 8
-    },
-    {
-      "source": 405,
-      "target": 219
-    },
-    {
-      "source": 406,
-      "target": 19
-    },
-    {
-      "source": 406,
-      "target": 35
-    },
-    {
-      "source": 406,
-      "target": 64
-    },
-    {
-      "source": 407,
-      "target": 103
-    },
-    {
-      "source": 407,
-      "target": 387
-    },
-    {
-      "source": 407,
-      "target": 394
-    },
-    {
-      "source": 408,
-      "target": 102
-    },
-    {
-      "source": 408,
-      "target": 158
-    },
-    {
-      "source": 408,
-      "target": 114
-    },
-    {
-      "source": 409,
-      "target": 135
-    },
-    {
-      "source": 409,
-      "target": 60
-    },
-    {
-      "source": 409,
-      "target": 120
-    },
-    {
-      "source": 412,
-      "target": 140
-    },
-    {
-      "source": 412,
-      "target": 204
-    },
-    {
-      "source": 412,
-      "target": 124
-    },
-    {
-      "source": 413,
-      "target": 14
-    },
-    {
-      "source": 413,
-      "target": 163
-    },
-    {
-      "source": 413,
-      "target": 124
-    },
-    {
-      "source": 414,
-      "target": 132
-    },
-    {
-      "source": 414,
-      "target": 15
-    },
-    {
-      "source": 414,
-      "target": 188
-    },
-    {
-      "source": 415,
-      "target": 71
-    },
-    {
-      "source": 415,
-      "target": 142
-    },
-    {
-      "source": 415,
-      "target": 8
-    },
-    {
-      "source": 416,
-      "target": 166
-    },
-    {
-      "source": 416,
-      "target": 62
-    },
-    {
-      "source": 416,
-      "target": 70
-    },
-    {
-      "source": 416,
-      "target": 92
-    },
-    {
-      "source": 416,
-      "target": 28
-    },
-    {
-      "source": 417,
-      "target": 28
-    },
-    {
-      "source": 417,
-      "target": 61
-    },
-    {
-      "source": 418,
-      "target": 12
-    },
-    {
-      "source": 421,
-      "target": 43
-    },
-    {
-      "source": 421,
-      "target": 16
-    },
-    {
-      "source": 421,
-      "target": 49
-    },
-    {
-      "source": 421,
-      "target": 12
-    },
-    {
-      "source": 422,
-      "target": 12
-    },
-    {
-      "source": 423,
-      "target": 12
-    },
-    {
-      "source": 424,
-      "target": 16
-    },
-    {
-      "source": 424,
-      "target": 12
-    },
-    {
-      "source": 425,
-      "target": 12
-    },
-    {
-      "source": 427,
-      "target": 16
-    },
-    {
-      "source": 427,
-      "target": 12
-    },
-    {
-      "source": 427,
-      "target": 18
-    },
-    {
-      "source": 428,
-      "target": 12
-    },
-    {
-      "source": 429,
-      "target": 16
-    },
-    {
-      "source": 429,
-      "target": 12
-    },
-    {
-      "source": 430,
-      "target": 12
-    },
-    {
-      "source": 430,
-      "target": 43
-    },
-    {
-      "source": 430,
-      "target": 16
-    },
-    {
-      "source": 431,
-      "target": 12
-    },
-    {
-      "source": 432,
-      "target": 12
-    },
-    {
-      "source": 433,
-      "target": 12
-    },
-    {
-      "source": 433,
-      "target": 13
-    },
-    {
-      "source": 433,
-      "target": 43
-    },
-    {
-      "source": 433,
-      "target": 16
-    },
-    {
-      "source": 434,
-      "target": 12
-    },
-    {
-      "source": 434,
-      "target": 43
-    },
-    {
-      "source": 434,
-      "target": 49
-    },
-    {
-      "source": 434,
-      "target": 16
-    },
-    {
-      "source": 435,
-      "target": 12
-    },
-    {
-      "source": 435,
-      "target": 16
-    },
-    {
-      "source": 436,
-      "target": 12
-    },
-    {
-      "source": 437,
-      "target": 12
-    },
-    {
-      "source": 437,
-      "target": 43
-    },
-    {
-      "source": 437,
-      "target": 16
-    },
-    {
-      "source": 438,
-      "target": 13
-    },
-    {
-      "source": 438,
-      "target": 16
-    },
-    {
-      "source": 438,
-      "target": 18
-    },
-    {
-      "source": 438,
-      "target": 12
-    },
-    {
-      "source": 439,
-      "target": 12
-    },
-    {
-      "source": 439,
-      "target": 16
-    },
-    {
-      "source": 440,
-      "target": 43
-    },
-    {
-      "source": 440,
-      "target": 18
-    },
-    {
-      "source": 440,
-      "target": 16
-    },
-    {
-      "source": 440,
-      "target": 12
-    },
-    {
-      "source": 441,
-      "target": 16
-    },
-    {
-      "source": 441,
-      "target": 12
-    },
-    {
-      "source": 441,
-      "target": 18
-    },
-    {
-      "source": 442,
-      "target": 12
-    },
-    {
-      "source": 443,
-      "target": 13
-    },
-    {
-      "source": 443,
-      "target": 12
-    },
-    {
-      "source": 444,
-      "target": 16
-    },
-    {
-      "source": 444,
-      "target": 13
-    },
-    {
-      "source": 444,
-      "target": 12
-    },
-    {
-      "source": 445,
-      "target": 12
-    },
-    {
-      "source": 446,
-      "target": 12
-    },
-    {
-      "source": 446,
-      "target": 16
-    },
-    {
-      "source": 447,
-      "target": 12
-    },
-    {
-      "source": 447,
-      "target": 16
-    },
-    {
-      "source": 448,
-      "target": 12
-    },
-    {
-      "source": 449,
-      "target": 12
-    },
-    {
-      "source": 450,
-      "target": 18
-    },
-    {
-      "source": 450,
-      "target": 12
-    },
-    {
-      "source": 452,
-      "target": 12
-    },
-    {
-      "source": 452,
-      "target": 43
-    },
-    {
-      "source": 452,
-      "target": 16
-    },
-    {
-      "source": 454,
-      "target": 16
-    },
-    {
-      "source": 454,
-      "target": 18
-    },
-    {
-      "source": 454,
-      "target": 12
-    },
-    {
-      "source": 455,
-      "target": 12
-    },
-    {
-      "source": 455,
-      "target": 16
-    },
-    {
-      "source": 456,
-      "target": 12
-    },
-    {
-      "source": 456,
-      "target": 16
-    },
-    {
-      "source": 457,
-      "target": 12
-    },
-    {
-      "source": 458,
-      "target": 16
-    },
-    {
-      "source": 458,
-      "target": 12
-    },
-    {
-      "source": 459,
-      "target": 16
-    },
-    {
-      "source": 459,
-      "target": 12
-    },
-    {
-      "source": 459,
-      "target": 43
-    },
-    {
-      "source": 460,
-      "target": 12
-    },
-    {
-      "source": 460,
-      "target": 16
-    },
-    {
-      "source": 461,
-      "target": 12
-    },
-    {
-      "source": 462,
-      "target": 16
-    },
-    {
-      "source": 462,
-      "target": 12
-    },
-    {
-      "source": 463,
-      "target": 16
-    },
-    {
-      "source": 463,
-      "target": 43
-    },
-    {
-      "source": 463,
-      "target": 13
-    },
-    {
-      "source": 464,
-      "target": 12
-    },
-    {
-      "source": 465,
-      "target": 12
-    },
-    {
-      "source": 466,
-      "target": 12
-    },
-    {
-      "source": 467,
-      "target": 16
-    },
-    {
-      "source": 467,
-      "target": 12
-    },
-    {
-      "source": 467,
-      "target": 13
-    },
-    {
-      "source": 468,
-      "target": 12
-    },
-    {
-      "source": 468,
-      "target": 49
-    },
-    {
-      "source": 469,
-      "target": 12
-    },
-    {
-      "source": 470,
-      "target": 16
-    },
-    {
-      "source": 470,
-      "target": 12
-    },
-    {
-      "source": 471,
-      "target": 12
-    },
-    {
-      "source": 472,
-      "target": 16
-    },
-    {
-      "source": 472,
-      "target": 13
-    },
-    {
-      "source": 472,
-      "target": 43
-    },
-    {
-      "source": 472,
-      "target": 12
-    },
-    {
-      "source": 473,
-      "target": 12
-    },
-    {
-      "source": 475,
-      "target": 7
-    },
-    {
-      "source": 475,
-      "target": 386
-    },
-    {
-      "source": 475,
-      "target": 82
-    },
-    {
-      "source": 475,
-      "target": 142
-    },
-    {
-      "source": 476,
-      "target": 33
-    },
-    {
-      "source": 477,
-      "target": 187
-    },
-    {
-      "source": 477,
-      "target": 217
-    },
-    {
-      "source": 477,
-      "target": 130
-    },
-    {
-      "source": 478,
-      "target": 15
-    },
-    {
-      "source": 478,
-      "target": 97
-    },
-    {
-      "source": 478,
-      "target": 188
-    },
-    {
-      "source": 479,
-      "target": 123
-    },
-    {
-      "source": 479,
-      "target": 480
-    },
-    {
-      "source": 480,
       "target": 479
     },
     {
-      "source": 480,
+      "source": 237,
+      "target": 479
+    },
+    {
+      "source": 238,
+      "target": 479
+    },
+    {
+      "source": 239,
+      "target": 479
+    },
+    {
+      "source": 240,
+      "target": 480
+    },
+    {
+      "source": 241,
+      "target": 480
+    },
+    {
+      "source": 242,
+      "target": 480
+    },
+    {
+      "source": 243,
+      "target": 480
+    },
+    {
+      "source": 244,
+      "target": 480
+    },
+    {
+      "source": 245,
+      "target": 481
+    },
+    {
+      "source": 246,
+      "target": 482
+    },
+    {
+      "source": 247,
+      "target": 482
+    },
+    {
+      "source": 248,
+      "target": 482
+    },
+    {
+      "source": 249,
+      "target": 483
+    },
+    {
+      "source": 250,
+      "target": 483
+    },
+    {
+      "source": 251,
+      "target": 483
+    },
+    {
+      "source": 252,
+      "target": 484
+    },
+    {
+      "source": 253,
+      "target": 484
+    },
+    {
+      "source": 254,
+      "target": 484
+    },
+    {
+      "source": 255,
+      "target": 485
+    },
+    {
+      "source": 256,
+      "target": 485
+    },
+    {
+      "source": 257,
+      "target": 485
+    },
+    {
+      "source": 258,
+      "target": 487
+    },
+    {
+      "source": 259,
+      "target": 487
+    },
+    {
+      "source": 260,
+      "target": 487
+    },
+    {
+      "source": 261,
+      "target": 489
+    },
+    {
+      "source": 262,
+      "target": 489
+    },
+    {
+      "source": 263,
+      "target": 489
+    },
+    {
+      "source": 264,
+      "target": 490
+    },
+    {
+      "source": 265,
+      "target": 490
+    },
+    {
+      "source": 266,
+      "target": 490
+    },
+    {
+      "source": 267,
+      "target": 491
+    },
+    {
+      "source": 268,
+      "target": 491
+    },
+    {
+      "source": 269,
+      "target": 491
+    },
+    {
+      "source": 270,
+      "target": 492
+    },
+    {
+      "source": 271,
+      "target": 492
+    },
+    {
+      "source": 272,
+      "target": 492
+    },
+    {
+      "source": 273,
+      "target": 493
+    },
+    {
+      "source": 274,
+      "target": 493
+    },
+    {
+      "source": 275,
+      "target": 493
+    },
+    {
+      "source": 276,
+      "target": 494
+    },
+    {
+      "source": 277,
+      "target": 494
+    },
+    {
+      "source": 278,
+      "target": 495
+    },
+    {
+      "source": 279,
+      "target": 495
+    },
+    {
+      "source": 280,
+      "target": 495
+    },
+    {
+      "source": 281,
+      "target": 497
+    },
+    {
+      "source": 282,
+      "target": 497
+    },
+    {
+      "source": 283,
+      "target": 497
+    },
+    {
+      "source": 284,
+      "target": 498
+    },
+    {
+      "source": 285,
+      "target": 498
+    },
+    {
+      "source": 286,
+      "target": 498
+    },
+    {
+      "source": 287,
+      "target": 500
+    },
+    {
+      "source": 288,
+      "target": 500
+    },
+    {
+      "source": 289,
+      "target": 500
+    },
+    {
+      "source": 290,
+      "target": 500
+    },
+    {
+      "source": 291,
+      "target": 501
+    },
+    {
+      "source": 292,
+      "target": 501
+    },
+    {
+      "source": 293,
+      "target": 501
+    },
+    {
+      "source": 294,
+      "target": 501
+    },
+    {
+      "source": 295,
+      "target": 501
+    },
+    {
+      "source": 296,
+      "target": 502
+    },
+    {
+      "source": 297,
+      "target": 502
+    },
+    {
+      "source": 298,
+      "target": 502
+    },
+    {
+      "source": 299,
+      "target": 503
+    },
+    {
+      "source": 300,
+      "target": 503
+    },
+    {
+      "source": 301,
+      "target": 503
+    },
+    {
+      "source": 302,
+      "target": 504
+    },
+    {
+      "source": 303,
+      "target": 504
+    },
+    {
+      "source": 304,
+      "target": 504
+    },
+    {
+      "source": 305,
+      "target": 505
+    },
+    {
+      "source": 306,
+      "target": 505
+    },
+    {
+      "source": 307,
+      "target": 505
+    },
+    {
+      "source": 308,
+      "target": 506
+    },
+    {
+      "source": 309,
+      "target": 506
+    },
+    {
+      "source": 310,
+      "target": 506
+    },
+    {
+      "source": 311,
+      "target": 506
+    },
+    {
+      "source": 312,
+      "target": 506
+    },
+    {
+      "source": 313,
+      "target": 506
+    },
+    {
+      "source": 314,
+      "target": 506
+    },
+    {
+      "source": 315,
+      "target": 507
+    },
+    {
+      "source": 316,
+      "target": 507
+    },
+    {
+      "source": 317,
+      "target": 507
+    },
+    {
+      "source": 318,
+      "target": 508
+    },
+    {
+      "source": 319,
+      "target": 508
+    },
+    {
+      "source": 320,
+      "target": 508
+    },
+    {
+      "source": 321,
+      "target": 508
+    },
+    {
+      "source": 322,
+      "target": 508
+    },
+    {
+      "source": 323,
+      "target": 508
+    },
+    {
+      "source": 324,
+      "target": 508
+    },
+    {
+      "source": 325,
+      "target": 508
+    },
+    {
+      "source": 326,
+      "target": 508
+    },
+    {
+      "source": 327,
+      "target": 508
+    },
+    {
+      "source": 328,
+      "target": 509
+    },
+    {
+      "source": 329,
+      "target": 509
+    },
+    {
+      "source": 330,
+      "target": 509
+    },
+    {
+      "source": 331,
+      "target": 509
+    },
+    {
+      "source": 332,
+      "target": 510
+    },
+    {
+      "source": 333,
+      "target": 510
+    },
+    {
+      "source": 334,
+      "target": 510
+    },
+    {
+      "source": 335,
+      "target": 511
+    },
+    {
+      "source": 336,
+      "target": 511
+    },
+    {
+      "source": 337,
+      "target": 511
+    },
+    {
+      "source": 338,
+      "target": 512
+    },
+    {
+      "source": 339,
+      "target": 512
+    },
+    {
+      "source": 340,
+      "target": 512
+    },
+    {
+      "source": 341,
+      "target": 513
+    },
+    {
+      "source": 342,
+      "target": 513
+    },
+    {
+      "source": 343,
+      "target": 513
+    },
+    {
+      "source": 344,
+      "target": 514
+    },
+    {
+      "source": 345,
+      "target": 514
+    },
+    {
+      "source": 346,
+      "target": 514
+    },
+    {
+      "source": 347,
+      "target": 515
+    },
+    {
+      "source": 348,
+      "target": 515
+    },
+    {
+      "source": 349,
+      "target": 515
+    },
+    {
+      "source": 350,
+      "target": 516
+    },
+    {
+      "source": 351,
+      "target": 516
+    },
+    {
+      "source": 352,
+      "target": 516
+    },
+    {
+      "source": 353,
+      "target": 517
+    },
+    {
+      "source": 354,
+      "target": 517
+    },
+    {
+      "source": 355,
+      "target": 517
+    },
+    {
+      "source": 356,
+      "target": 520
+    },
+    {
+      "source": 357,
+      "target": 520
+    },
+    {
+      "source": 358,
+      "target": 520
+    },
+    {
+      "source": 359,
+      "target": 522
+    },
+    {
+      "source": 360,
+      "target": 522
+    },
+    {
+      "source": 361,
+      "target": 522
+    },
+    {
+      "source": 362,
+      "target": 523
+    },
+    {
+      "source": 363,
+      "target": 523
+    },
+    {
+      "source": 364,
+      "target": 523
+    },
+    {
+      "source": 365,
+      "target": 524
+    },
+    {
+      "source": 366,
+      "target": 524
+    },
+    {
+      "source": 367,
+      "target": 524
+    },
+    {
+      "source": 368,
+      "target": 526
+    },
+    {
+      "source": 369,
+      "target": 526
+    },
+    {
+      "source": 370,
+      "target": 526
+    },
+    {
+      "source": 371,
+      "target": 527
+    },
+    {
+      "source": 372,
+      "target": 527
+    },
+    {
+      "source": 373,
+      "target": 527
+    },
+    {
+      "source": 374,
+      "target": 528
+    },
+    {
+      "source": 375,
+      "target": 528
+    },
+    {
+      "source": 376,
+      "target": 528
+    },
+    {
+      "source": 377,
+      "target": 529
+    },
+    {
+      "source": 378,
+      "target": 529
+    },
+    {
+      "source": 379,
+      "target": 529
+    },
+    {
+      "source": 380,
+      "target": 529
+    },
+    {
+      "source": 381,
+      "target": 530
+    },
+    {
+      "source": 382,
+      "target": 530
+    },
+    {
+      "source": 383,
+      "target": 530
+    },
+    {
+      "source": 384,
+      "target": 531
+    },
+    {
+      "source": 385,
+      "target": 531
+    },
+    {
+      "source": 386,
+      "target": 531
+    },
+    {
+      "source": 387,
+      "target": 532
+    },
+    {
+      "source": 388,
+      "target": 532
+    },
+    {
+      "source": 389,
+      "target": 532
+    },
+    {
+      "source": 390,
+      "target": 533
+    },
+    {
+      "source": 391,
+      "target": 533
+    },
+    {
+      "source": 392,
+      "target": 533
+    },
+    {
+      "source": 393,
+      "target": 533
+    },
+    {
+      "source": 394,
+      "target": 534
+    },
+    {
+      "source": 395,
+      "target": 534
+    },
+    {
+      "source": 396,
+      "target": 534
+    },
+    {
+      "source": 397,
+      "target": 535
+    },
+    {
+      "source": 398,
+      "target": 535
+    },
+    {
+      "source": 399,
+      "target": 535
+    },
+    {
+      "source": 400,
+      "target": 536
+    },
+    {
+      "source": 401,
+      "target": 536
+    },
+    {
+      "source": 402,
+      "target": 536
+    },
+    {
+      "source": 403,
+      "target": 537
+    },
+    {
+      "source": 404,
+      "target": 537
+    },
+    {
+      "source": 405,
+      "target": 537
+    },
+    {
+      "source": 406,
+      "target": 539
+    },
+    {
+      "source": 407,
+      "target": 539
+    },
+    {
+      "source": 407,
+      "target": 409
+    },
+    {
+      "source": 407,
+      "target": 410
+    },
+    {
+      "source": 407,
+      "target": 411
+    },
+    {
+      "source": 408,
+      "target": 539
+    },
+    {
+      "source": 409,
+      "target": 539
+    },
+    {
+      "source": 409,
+      "target": 407
+    },
+    {
+      "source": 409,
+      "target": 410
+    },
+    {
+      "source": 409,
+      "target": 411
+    },
+    {
+      "source": 410,
+      "target": 539
+    },
+    {
+      "source": 410,
+      "target": 407
+    },
+    {
+      "source": 410,
+      "target": 409
+    },
+    {
+      "source": 410,
+      "target": 411
+    },
+    {
+      "source": 411,
+      "target": 539
+    },
+    {
+      "source": 411,
+      "target": 407
+    },
+    {
+      "source": 411,
+      "target": 409
+    },
+    {
+      "source": 411,
+      "target": 410
+    },
+    {
+      "source": 412,
+      "target": 539
+    },
+    {
+      "source": 413,
+      "target": 539
+    },
+    {
+      "source": 414,
+      "target": 539
+    },
+    {
+      "source": 414,
+      "target": 407
+    },
+    {
+      "source": 414,
+      "target": 409
+    },
+    {
+      "source": 414,
+      "target": 410
+    },
+    {
+      "source": 415,
+      "target": 539
+    },
+    {
+      "source": 415,
+      "target": 407
+    },
+    {
+      "source": 415,
+      "target": 409
+    },
+    {
+      "source": 415,
+      "target": 410
+    },
+    {
+      "source": 416,
+      "target": 540
+    },
+    {
+      "source": 417,
+      "target": 540
+    },
+    {
+      "source": 418,
+      "target": 540
+    },
+    {
+      "source": 419,
+      "target": 541
+    },
+    {
+      "source": 420,
+      "target": 541
+    },
+    {
+      "source": 421,
+      "target": 541
+    },
+    {
+      "source": 422,
+      "target": 542
+    },
+    {
+      "source": 423,
+      "target": 542
+    },
+    {
+      "source": 424,
+      "target": 542
+    },
+    {
+      "source": 425,
+      "target": 543
+    },
+    {
+      "source": 426,
+      "target": 543
+    },
+    {
+      "source": 427,
+      "target": 543
+    },
+    {
+      "source": 428,
+      "target": 544
+    },
+    {
+      "source": 429,
+      "target": 544
+    },
+    {
+      "source": 430,
+      "target": 544
+    },
+    {
+      "source": 431,
+      "target": 545
+    },
+    {
+      "source": 432,
+      "target": 545
+    },
+    {
+      "source": 433,
+      "target": 545
+    },
+    {
+      "source": 434,
+      "target": 545
+    },
+    {
+      "source": 435,
+      "target": 545
+    },
+    {
+      "source": 436,
+      "target": 546
+    },
+    {
+      "source": 437,
+      "target": 546
+    },
+    {
+      "source": 438,
+      "target": 546
+    },
+    {
+      "source": 439,
+      "target": 149
+    },
+    {
+      "source": 439,
+      "target": 223
+    },
+    {
+      "source": 439,
+      "target": 460
+    },
+    {
+      "source": 440,
+      "target": 25
+    },
+    {
+      "source": 440,
+      "target": 143
+    },
+    {
+      "source": 441,
+      "target": 25
+    },
+    {
+      "source": 441,
+      "target": 143
+    },
+    {
+      "source": 442,
+      "target": 10
+    },
+    {
+      "source": 443,
+      "target": 472
+    },
+    {
+      "source": 443,
+      "target": 82
+    },
+    {
+      "source": 443,
+      "target": 71
+    },
+    {
+      "source": 444,
+      "target": 103
+    },
+    {
+      "source": 444,
+      "target": 150
+    },
+    {
+      "source": 445,
+      "target": 496
+    },
+    {
+      "source": 446,
+      "target": 534
+    },
+    {
+      "source": 447,
+      "target": 154
+    },
+    {
+      "source": 447,
+      "target": 60
+    },
+    {
+      "source": 447,
+      "target": 81
+    },
+    {
+      "source": 448,
+      "target": 6
+    },
+    {
+      "source": 448,
+      "target": 81
+    },
+    {
+      "source": 449,
+      "target": 8
+    },
+    {
+      "source": 449,
+      "target": 71
+    },
+    {
+      "source": 449,
+      "target": 142
+    },
+    {
+      "source": 449,
+      "target": 82
+    },
+    {
+      "source": 450,
+      "target": 154
+    },
+    {
+      "source": 450,
+      "target": 60
+    },
+    {
+      "source": 450,
+      "target": 120
+    },
+    {
+      "source": 451,
+      "target": 103
+    },
+    {
+      "source": 451,
+      "target": 123
+    },
+    {
+      "source": 452,
+      "target": 25
+    },
+    {
+      "source": 452,
+      "target": 113
+    },
+    {
+      "source": 452,
+      "target": 143
+    },
+    {
+      "source": 453,
+      "target": 29
+    },
+    {
+      "source": 453,
+      "target": 3
+    },
+    {
+      "source": 453,
+      "target": 30
+    },
+    {
+      "source": 454,
+      "target": 154
+    },
+    {
+      "source": 454,
+      "target": 60
+    },
+    {
+      "source": 454,
+      "target": 120
+    },
+    {
+      "source": 455,
+      "target": 120
+    },
+    {
+      "source": 455,
+      "target": 81
+    },
+    {
+      "source": 456,
+      "target": 60
+    },
+    {
+      "source": 456,
+      "target": 120
+    },
+    {
+      "source": 456,
+      "target": 81
+    },
+    {
+      "source": 457,
+      "target": 60
+    },
+    {
+      "source": 457,
+      "target": 120
+    },
+    {
+      "source": 457,
+      "target": 81
+    },
+    {
+      "source": 458,
+      "target": 154
+    },
+    {
+      "source": 458,
+      "target": 60
+    },
+    {
+      "source": 458,
+      "target": 120
+    },
+    {
+      "source": 459,
+      "target": 213
+    },
+    {
+      "source": 459,
+      "target": 209
+    },
+    {
+      "source": 459,
+      "target": 130
+    },
+    {
+      "source": 460,
+      "target": 149
+    },
+    {
+      "source": 460,
+      "target": 129
+    },
+    {
+      "source": 460,
+      "target": 205
+    },
+    {
+      "source": 461,
+      "target": 48
+    },
+    {
+      "source": 461,
+      "target": 69
+    },
+    {
+      "source": 461,
+      "target": 60
+    },
+    {
+      "source": 462,
+      "target": 143
+    },
+    {
+      "source": 462,
+      "target": 8
+    },
+    {
+      "source": 462,
+      "target": 219
+    },
+    {
+      "source": 463,
+      "target": 19
+    },
+    {
+      "source": 463,
+      "target": 35
+    },
+    {
+      "source": 463,
+      "target": 64
+    },
+    {
+      "source": 464,
+      "target": 103
+    },
+    {
+      "source": 464,
+      "target": 444
+    },
+    {
+      "source": 464,
+      "target": 451
+    },
+    {
+      "source": 465,
+      "target": 102
+    },
+    {
+      "source": 465,
+      "target": 158
+    },
+    {
+      "source": 465,
+      "target": 114
+    },
+    {
+      "source": 466,
+      "target": 135
+    },
+    {
+      "source": 466,
+      "target": 60
+    },
+    {
+      "source": 466,
+      "target": 120
+    },
+    {
+      "source": 469,
+      "target": 140
+    },
+    {
+      "source": 469,
+      "target": 204
+    },
+    {
+      "source": 469,
+      "target": 124
+    },
+    {
+      "source": 470,
+      "target": 14
+    },
+    {
+      "source": 470,
+      "target": 163
+    },
+    {
+      "source": 470,
+      "target": 124
+    },
+    {
+      "source": 471,
+      "target": 132
+    },
+    {
+      "source": 471,
+      "target": 15
+    },
+    {
+      "source": 471,
+      "target": 188
+    },
+    {
+      "source": 472,
+      "target": 71
+    },
+    {
+      "source": 472,
+      "target": 142
+    },
+    {
+      "source": 472,
+      "target": 8
+    },
+    {
+      "source": 473,
+      "target": 166
+    },
+    {
+      "source": 473,
+      "target": 62
+    },
+    {
+      "source": 473,
+      "target": 70
+    },
+    {
+      "source": 473,
+      "target": 92
+    },
+    {
+      "source": 473,
+      "target": 28
+    },
+    {
+      "source": 474,
+      "target": 28
+    },
+    {
+      "source": 474,
+      "target": 61
+    },
+    {
+      "source": 475,
+      "target": 12
+    },
+    {
+      "source": 478,
+      "target": 12
+    },
+    {
+      "source": 479,
+      "target": 43
+    },
+    {
+      "source": 479,
+      "target": 16
+    },
+    {
+      "source": 479,
+      "target": 49
+    },
+    {
+      "source": 479,
+      "target": 12
+    },
+    {
+      "source": 481,
+      "target": 12
+    },
+    {
+      "source": 482,
+      "target": 12
+    },
+    {
+      "source": 483,
+      "target": 16
+    },
+    {
+      "source": 483,
+      "target": 12
+    },
+    {
+      "source": 484,
+      "target": 12
+    },
+    {
+      "source": 485,
+      "target": 43
+    },
+    {
+      "source": 485,
+      "target": 16
+    },
+    {
+      "source": 485,
+      "target": 12
+    },
+    {
+      "source": 487,
+      "target": 16
+    },
+    {
+      "source": 487,
+      "target": 12
+    },
+    {
+      "source": 487,
+      "target": 18
+    },
+    {
+      "source": 488,
+      "target": 12
+    },
+    {
+      "source": 489,
+      "target": 16
+    },
+    {
+      "source": 489,
+      "target": 12
+    },
+    {
+      "source": 490,
+      "target": 12
+    },
+    {
+      "source": 490,
+      "target": 43
+    },
+    {
+      "source": 490,
+      "target": 16
+    },
+    {
+      "source": 491,
+      "target": 12
+    },
+    {
+      "source": 492,
+      "target": 12
+    },
+    {
+      "source": 493,
+      "target": 12
+    },
+    {
+      "source": 494,
+      "target": 12
+    },
+    {
+      "source": 495,
+      "target": 12
+    },
+    {
+      "source": 496,
+      "target": 12
+    },
+    {
+      "source": 496,
+      "target": 13
+    },
+    {
+      "source": 496,
+      "target": 43
+    },
+    {
+      "source": 496,
+      "target": 16
+    },
+    {
+      "source": 497,
+      "target": 12
+    },
+    {
+      "source": 497,
+      "target": 43
+    },
+    {
+      "source": 497,
+      "target": 49
+    },
+    {
+      "source": 497,
+      "target": 16
+    },
+    {
+      "source": 498,
+      "target": 12
+    },
+    {
+      "source": 498,
+      "target": 16
+    },
+    {
+      "source": 499,
+      "target": 12
+    },
+    {
+      "source": 500,
+      "target": 12
+    },
+    {
+      "source": 500,
+      "target": 43
+    },
+    {
+      "source": 500,
+      "target": 16
+    },
+    {
+      "source": 501,
+      "target": 13
+    },
+    {
+      "source": 501,
+      "target": 16
+    },
+    {
+      "source": 501,
+      "target": 18
+    },
+    {
+      "source": 501,
+      "target": 12
+    },
+    {
+      "source": 502,
+      "target": 12
+    },
+    {
+      "source": 502,
+      "target": 16
+    },
+    {
+      "source": 503,
+      "target": 43
+    },
+    {
+      "source": 503,
+      "target": 18
+    },
+    {
+      "source": 503,
+      "target": 16
+    },
+    {
+      "source": 503,
+      "target": 12
+    },
+    {
+      "source": 504,
+      "target": 16
+    },
+    {
+      "source": 504,
+      "target": 12
+    },
+    {
+      "source": 504,
+      "target": 18
+    },
+    {
+      "source": 505,
+      "target": 12
+    },
+    {
+      "source": 505,
+      "target": 16
+    },
+    {
+      "source": 506,
+      "target": 16
+    },
+    {
+      "source": 506,
+      "target": 12
+    },
+    {
+      "source": 507,
+      "target": 12
+    },
+    {
+      "source": 508,
+      "target": 12
+    },
+    {
+      "source": 508,
+      "target": 13
+    },
+    {
+      "source": 509,
+      "target": 12
+    },
+    {
+      "source": 510,
+      "target": 12
+    },
+    {
+      "source": 511,
+      "target": 16
+    },
+    {
+      "source": 511,
+      "target": 13
+    },
+    {
+      "source": 511,
+      "target": 12
+    },
+    {
+      "source": 512,
+      "target": 12
+    },
+    {
+      "source": 513,
+      "target": 12
+    },
+    {
+      "source": 513,
+      "target": 16
+    },
+    {
+      "source": 514,
+      "target": 12
+    },
+    {
+      "source": 514,
+      "target": 16
+    },
+    {
+      "source": 515,
+      "target": 12
+    },
+    {
+      "source": 516,
+      "target": 16
+    },
+    {
+      "source": 516,
+      "target": 12
+    },
+    {
+      "source": 516,
+      "target": 13
+    },
+    {
+      "source": 517,
+      "target": 12
+    },
+    {
+      "source": 518,
+      "target": 18
+    },
+    {
+      "source": 518,
+      "target": 12
+    },
+    {
+      "source": 520,
+      "target": 12
+    },
+    {
+      "source": 520,
+      "target": 43
+    },
+    {
+      "source": 520,
+      "target": 16
+    },
+    {
+      "source": 522,
+      "target": 12
+    },
+    {
+      "source": 523,
+      "target": 16
+    },
+    {
+      "source": 523,
+      "target": 18
+    },
+    {
+      "source": 523,
+      "target": 12
+    },
+    {
+      "source": 525,
+      "target": 12
+    },
+    {
+      "source": 525,
+      "target": 16
+    },
+    {
+      "source": 526,
+      "target": 12
+    },
+    {
+      "source": 526,
+      "target": 16
+    },
+    {
+      "source": 527,
+      "target": 12
+    },
+    {
+      "source": 528,
+      "target": 16
+    },
+    {
+      "source": 528,
+      "target": 12
+    },
+    {
+      "source": 529,
+      "target": 16
+    },
+    {
+      "source": 529,
+      "target": 12
+    },
+    {
+      "source": 529,
+      "target": 43
+    },
+    {
+      "source": 530,
+      "target": 12
+    },
+    {
+      "source": 530,
+      "target": 16
+    },
+    {
+      "source": 531,
+      "target": 12
+    },
+    {
+      "source": 532,
+      "target": 16
+    },
+    {
+      "source": 532,
+      "target": 12
+    },
+    {
+      "source": 533,
+      "target": 16
+    },
+    {
+      "source": 533,
+      "target": 43
+    },
+    {
+      "source": 533,
+      "target": 13
+    },
+    {
+      "source": 534,
+      "target": 12
+    },
+    {
+      "source": 537,
+      "target": 12
+    },
+    {
+      "source": 538,
+      "target": 12
+    },
+    {
+      "source": 539,
+      "target": 16
+    },
+    {
+      "source": 539,
+      "target": 12
+    },
+    {
+      "source": 539,
+      "target": 13
+    },
+    {
+      "source": 540,
+      "target": 12
+    },
+    {
+      "source": 540,
+      "target": 49
+    },
+    {
+      "source": 541,
+      "target": 43
+    },
+    {
+      "source": 541,
+      "target": 12
+    },
+    {
+      "source": 542,
+      "target": 12
+    },
+    {
+      "source": 543,
+      "target": 16
+    },
+    {
+      "source": 543,
+      "target": 12
+    },
+    {
+      "source": 544,
+      "target": 12
+    },
+    {
+      "source": 545,
+      "target": 16
+    },
+    {
+      "source": 545,
+      "target": 13
+    },
+    {
+      "source": 545,
+      "target": 43
+    },
+    {
+      "source": 545,
+      "target": 12
+    },
+    {
+      "source": 546,
+      "target": 12
+    },
+    {
+      "source": 548,
+      "target": 7
+    },
+    {
+      "source": 548,
+      "target": 443
+    },
+    {
+      "source": 548,
+      "target": 82
+    },
+    {
+      "source": 548,
+      "target": 142
+    },
+    {
+      "source": 549,
+      "target": 33
+    },
+    {
+      "source": 550,
+      "target": 187
+    },
+    {
+      "source": 550,
+      "target": 217
+    },
+    {
+      "source": 550,
+      "target": 130
+    },
+    {
+      "source": 551,
+      "target": 15
+    },
+    {
+      "source": 551,
+      "target": 97
+    },
+    {
+      "source": 551,
+      "target": 188
+    },
+    {
+      "source": 552,
+      "target": 123
+    },
+    {
+      "source": 552,
+      "target": 553
+    },
+    {
+      "source": 553,
+      "target": 552
+    },
+    {
+      "source": 553,
       "target": 123
     }
   ],
   "metadata": {
-    "totalNodes": 481,
-    "totalEdges": 1007,
-    "generatedAt": "2026-08-21T17:38:02.595Z"
+    "totalNodes": 554,
+    "totalEdges": 1083,
+    "generatedAt": "2026-08-22T15:30:45.945Z"
   }
 }

@@ -1,21 +1,21 @@
 ---
-title: Massachusetts Institute
+title: Media Lab
 created: 2026-08-22
 updated: 2026-08-22
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, organizations, Unzc731iCUY]
+tags: [youtube, video-derived, persons, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
 confidence: medium
 status: active
 reviewed: 2026-08-22
 ---
 
-# Massachusetts Institute
+# Media Lab
 
 ## Overview
-Massachusetts Institute is mentioned in the YouTube video "How to Speak".
+Media Lab is mentioned in the YouTube video "How to Speak".
 
 ## Context
 Mentioned in the context of research and development.
