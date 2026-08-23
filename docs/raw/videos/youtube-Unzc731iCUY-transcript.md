@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=Unzc731iCUY
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
+ingested: 2026-08-23
+published: 2026-08-23
 duration_minutes: 63
 language: en
 sha256: 1cc474c1bf5348e04e0607f1bca36ca463ec0f40cd834b133f5240510edb4021

@@ -1,15 +1,15 @@
 ---
 title: Military Justice
-created: 2026-08-19
-updated: 2026-08-19
+created: 2026-08-23
+updated: 2026-08-23
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons]
+tags: [youtube, video-derived, persons, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-08-19
+reviewed: 2026-08-23
 ---
 
 # Military Justice

@@ -1,21 +1,21 @@
 ---
-title: Massachusetts Institute
+title: Mary Lou
 created: 2026-08-23
 updated: 2026-08-23
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, organizations, Unzc731iCUY]
+tags: [youtube, video-derived, persons, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
 confidence: medium
 status: active
 reviewed: 2026-08-23
 ---
 
-# Massachusetts Institute
+# Mary Lou
 
 ## Overview
-Massachusetts Institute is mentioned in the YouTube video "How to Speak".
+Mary Lou is mentioned in the YouTube video "How to Speak".
 
 ## Context
 Mentioned in the context of research and development.

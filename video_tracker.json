@@ -69,11 +69,36 @@
       "title": "New Video 1",
       "processed_date": "2026-08-22T17:46:25.416693",
       "status": "completed"
+    },
+    "8Oj3NxSLP1U": {
+      "title": "Q&A: Becoming A Dad, Favourite Peptides & Red Rising",
+      "processed_date": "2026-08-23T09:59:58.092033",
+      "status": "completed"
+    },
+    "f2p1YH0-BaI": {
+      "title": "Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel Lieberman",
+      "processed_date": "2026-08-23T09:59:58.092050",
+      "status": "completed"
+    },
+    "-5epM9WG95g": {
+      "title": "Why Do Female Teachers Sleep With Students?",
+      "processed_date": "2026-08-23T09:59:58.092051",
+      "status": "completed"
+    },
+    "XzIY0M612A0": {
+      "title": "It wasn't my baggie. But if it was... - Hunter Biden",
+      "processed_date": "2026-08-23T09:59:58.092052",
+      "status": "completed"
+    },
+    "YGAjgLtJJFI": {
+      "title": "\"Blue Zone Science\" Is A Total Scam",
+      "processed_date": "2026-08-23T09:59:58.092053",
+      "status": "completed"
     }
   },
-  "last_updated": "2026-08-22T17:46:25.416701",
-  "channel_name": "Internet Anarchist",
-  "channel_id": "internetanarchist",
+  "last_updated": "2026-08-23T09:59:58.092056",
+  "channel_name": "Chris Willx",
+  "channel_id": "ChrisWillx",
   "ingestion_history": [
     {
       "video_title": "The Most Evil Father on TikTok",
@@ -103,6 +128,36 @@
       "video_title": "The Deserved Downfall of Yo Mama",
       "video_url": "https://www.youtube.com/watch?v=davesgarage_hidden-code-how-slot-machines-actually-work-the-computer-inside",
       "processed_date": "2026-08-20T16:11:58.492645",
+      "status": "completed"
+    },
+    {
+      "video_title": "Q&A: Becoming A Dad, Favourite Peptides & Red Rising",
+      "video_url": "https://www.youtube.com/watch?v=8Oj3NxSLP1U",
+      "processed_date": "2026-08-23T09:59:58.092033",
+      "status": "completed"
+    },
+    {
+      "video_title": "Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel Lieberman",
+      "video_url": "https://www.youtube.com/watch?v=f2p1YH0-BaI",
+      "processed_date": "2026-08-23T09:59:58.092050",
+      "status": "completed"
+    },
+    {
+      "video_title": "Why Do Female Teachers Sleep With Students?",
+      "video_url": "https://www.youtube.com/watch?v=-5epM9WG95g",
+      "processed_date": "2026-08-23T09:59:58.092051",
+      "status": "completed"
+    },
+    {
+      "video_title": "It wasn't my baggie. But if it was... - Hunter Biden",
+      "video_url": "https://www.youtube.com/watch?v=XzIY0M612A0",
+      "processed_date": "2026-08-23T09:59:58.092052",
+      "status": "completed"
+    },
+    {
+      "video_title": "\"Blue Zone Science\" Is A Total Scam",
+      "video_url": "https://www.youtube.com/watch?v=YGAjgLtJJFI",
+      "processed_date": "2026-08-23T09:59:58.092053",
       "status": "completed"
     }
   ]

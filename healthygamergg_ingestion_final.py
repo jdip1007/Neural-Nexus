@@ -184,7 +184,7 @@ class HealthyGamerGGIngestion:
         
         # Create content with YAML frontmatter
         yaml_frontmatter = """---
-{title}
+title: {title}
 created: {created}
 updated: {updated}
 type: video

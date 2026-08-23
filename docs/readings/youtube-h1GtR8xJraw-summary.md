@@ -1,17 +1,17 @@
 ---
 title: Video 14: Using a Smartphone - Summary
-created: 2026-08-21
-updated: 2026-08-21
+created: 2026-08-23
+updated: 2026-08-23
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, h1GtR8xJraw]
 sources: [raw/videos/youtube-h1GtR8xJraw-transcript.md]
-published: 2026-08-21
+published: 2026-08-23
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-21
+reviewed: 2026-08-23
 ---
 
 # Video 14: Using a Smartphone - Summary

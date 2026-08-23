@@ -1,17 +1,17 @@
 ---
 title: How to Speak - Summary
-created: 2026-08-22
-updated: 2026-08-22
+created: 2026-08-23
+updated: 2026-08-23
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
-published: 2026-08-22
+published: 2026-08-23
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-22
+reviewed: 2026-08-23
 ---
 
 # How to Speak - Summary
@@ -41,14 +41,14 @@ it's important to talk about your research in context
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Navy Science, Democratic Convention, Media Lab
+- **Persons**: Military Justice, Professor Winston, Mary Lou
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- [[ai]]
 - [[framework]]
 - [[artificial-intelligence]]
 - [[algorithm]]
+- [[ai]]
 
 ## Transcript Highlights
 > about the place? And the most important
