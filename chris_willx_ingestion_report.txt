@@ -1,42 +1,42 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-08-20 09:19:58
+Generated: 2026-08-23 09:53:33
 
 === Statistics ===
 Total videos in channel: 10
-Already processed: 10
+Already processed: 39
 New videos processed: 5
-Unprocessed remaining: 0
+Unprocessed remaining: -29
 
 === Processed Videos ===
 - Q&A: Becoming A Dad, Favourite Peptides & Red Rising
   ID: 8Oj3NxSLP1U
   URL: https://www.youtube.com/watch?v=8Oj3NxSLP1U
-  Processed: 2026-08-20 09:19:58
+  Processed: 2026-08-23 09:53:33
 
-- Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
-  ID: ka2GKBfviic
-  URL: https://www.youtube.com/watch?v=ka2GKBfviic
-  Processed: 2026-08-20 09:19:58
+- Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman
+  ID: f2p1YH0-BaI
+  URL: https://www.youtube.com/watch?v=f2p1YH0-BaI
+  Processed: 2026-08-23 09:53:33
 
 - Why Do Female Teachers Sleep With Students?
   ID: -5epM9WG95g
   URL: https://www.youtube.com/watch?v=-5epM9WG95g
-  Processed: 2026-08-20 09:19:58
+  Processed: 2026-08-23 09:53:33
 
-- Marriage Kills Women's Sex Drive: Here's Why
-  ID: _ZMYDb86DzY
-  URL: https://www.youtube.com/watch?v=_ZMYDb86DzY
-  Processed: 2026-08-20 09:19:58
+- "It wasn't my baggie. But if it was..." - Hunter Biden
+  ID: XzIY0M612A0
+  URL: https://www.youtube.com/watch?v=XzIY0M612A0
+  Processed: 2026-08-23 09:53:33
 
 - "Blue Zone Science" Is A Total Scam
   ID: YGAjgLtJJFI
   URL: https://www.youtube.com/watch?v=YGAjgLtJJFI
-  Processed: 2026-08-20 09:19:58
+  Processed: 2026-08-23 09:53:33
 
 === Recent Activity ===
-- "Blue Zone Science" Is A Total Scam (2026-08-20 09:19:56)
-- Marriage Kills Women's Sex Drive: Here's Why (2026-08-20 09:19:54)
-- Why Do Female Teachers Sleep With Students? (2026-08-20 09:19:52)
-- Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2 (2026-08-20 09:19:50)
-- Q&A: Becoming A Dad, Favourite Peptides & Red Rising (2026-08-20 09:19:47)
+- The Lie of "Positive Thinking" (2026-08-21 17:29:38)
+- We Need To Talk About Ozempic (2026-08-21 17:29:36)
+- The Worst Red Flags I've Seen As A Therapist (2026-08-21 17:29:34)
+- WTF Is Happening To The Video Game Industry? (2026-08-21 15:16:22)
+- Is America Chasing Away All Of Its Smart People? (2026-08-21 15:16:22)

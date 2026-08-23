@@ -1,8 +1,8 @@
 ---
 {
   "title": "\"It wasn't my baggie. But if it was...\" - Hunter Biden",
-  "created": "2026-08-20",
-  "updated": "2026-08-20",
+  "created": "2026-08-23",
+  "updated": "2026-08-23",
   "type": "video",
   "tags": [
     "technology"
@@ -13,7 +13,7 @@
   "video_id": "XzIY0M612A0",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-20 09:19:02"
+  "ingestion_date": "2026-08-23 09:53:28"
 }
 ---
 
@@ -24,7 +24,7 @@
 - **Channel**: Chris Willx
 - **Video ID**: XzIY0M612A0
 - **URL**: https://www.youtube.com/watch?v=XzIY0M612A0
-- **Date Added**: 2026-08-20 09:19:02
+- **Date Added**: 2026-08-23 09:53:28
 
 ## Key Topics
 

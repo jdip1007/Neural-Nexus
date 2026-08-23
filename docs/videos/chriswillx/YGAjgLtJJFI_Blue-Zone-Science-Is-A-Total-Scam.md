@@ -1,8 +1,8 @@
 ---
 {
   "title": "\"Blue Zone Science\" Is A Total Scam",
-  "created": "2026-08-20",
-  "updated": "2026-08-20",
+  "created": "2026-08-23",
+  "updated": "2026-08-23",
   "type": "video",
   "tags": [
     "technology"
@@ -13,7 +13,7 @@
   "video_id": "YGAjgLtJJFI",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-20 09:19:56"
+  "ingestion_date": "2026-08-23 09:53:31"
 }
 ---
 
@@ -24,7 +24,7 @@
 - **Channel**: Chris Willx
 - **Video ID**: YGAjgLtJJFI
 - **URL**: https://www.youtube.com/watch?v=YGAjgLtJJFI
-- **Date Added**: 2026-08-20 09:19:56
+- **Date Added**: 2026-08-23 09:53:31
 
 ## Key Topics
 

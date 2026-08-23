@@ -1,8 +1,8 @@
 ---
 {
   "title": "Q&A: Becoming A Dad, Favourite Peptides & Red Rising",
-  "created": "2026-08-20",
-  "updated": "2026-08-20",
+  "created": "2026-08-23",
+  "updated": "2026-08-23",
   "type": "video",
   "tags": [
     "technology"
@@ -13,7 +13,7 @@
   "video_id": "8Oj3NxSLP1U",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-20 09:19:47"
+  "ingestion_date": "2026-08-23 09:53:21"
 }
 ---
 
@@ -24,7 +24,7 @@
 - **Channel**: Chris Willx
 - **Video ID**: 8Oj3NxSLP1U
 - **URL**: https://www.youtube.com/watch?v=8Oj3NxSLP1U
-- **Date Added**: 2026-08-20 09:19:47
+- **Date Added**: 2026-08-23 09:53:21
 
 ## Key Topics
 

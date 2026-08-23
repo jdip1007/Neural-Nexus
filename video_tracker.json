@@ -64,9 +64,14 @@
       "title": "HealthyGamerGG Video 3: Understanding Mental Health in Gaming",
       "processed_date": "2026-08-22T17:40:48.254121",
       "status": "completed"
+    },
+    "new1": {
+      "title": "New Video 1",
+      "processed_date": "2026-08-22T17:46:25.416693",
+      "status": "completed"
     }
   },
-  "last_updated": "2026-08-22T17:40:48.254123",
+  "last_updated": "2026-08-22T17:46:25.416701",
   "channel_name": "Internet Anarchist",
   "channel_id": "internetanarchist",
   "ingestion_history": [
