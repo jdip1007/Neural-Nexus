@@ -1,8 +1,8 @@
 ---
 {
   "title": "How Long Can The Stock Market Ignore Reality?",
-  "created": "2026-08-18T14:01:47.930184",
-  "updated": "2026-08-18T14:01:47.930196",
+  "created": "2026-08-23T15:46:31.215758",
+  "updated": "2026-08-23T15:46:31.215769",
   "type": "video",
   "tags": [
     "youtube",
@@ -20,7 +20,7 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=jkl012mno345)  
 > **Video ID:** jkl012mno345  
-> **Analyzed:** 2026-08-18 14:01:47
+> **Analyzed:** 2026-08-23 15:46:31
 
 ## Summary
 
@@ -47,4 +47,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-18T14:01:47.930226*
+*Last updated: 2026-08-23T15:46:31.215797*

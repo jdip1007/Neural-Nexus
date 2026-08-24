@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=Wu7zcamEAI0
 source_type: video
-ingested: 2026-07-21
+ingested: 2026-08-06
 video_id: Wu7zcamEAI0
 title: How To Actually Have An Elite Mindset
 series: 
@@ -13,7 +13,7 @@ series:
 **Video URL:** https://www.youtube.com/watch?v=Wu7zcamEAI0
 **Video ID:** `Wu7zcamEAI0`
 **Transcript:** [[How To Actually Have An Elite Mindset.md]]
-**Accessed:** 2026-07-21
+**Accessed:** 2026-08-06
 
 ## Transcript
 [00:00] A lot of people are obsessed with how

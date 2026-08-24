@@ -1,15 +1,15 @@
 ---
 title: The Most Misdiagnosed Condition In Mental Health
-created: 2026-07-21
-updated: 2026-07-21
+created: 2026-08-23
+updated: 2026-08-23
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: [mental-health, diagnosis, cognitive-disengagement, healthygamergg]
+tags: ['mental-health', 'diagnosis', 'misdiagnosis', 'cognitive-disengagement', 'healthygamergg']
 sources: [raw/videos/healthygamergg/The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome).md]
 confidence: medium
 status: active
-reviewed: 2026-07-21
+reviewed: 2026-08-23
 backlinks: []
 ---
 
@@ -34,23 +34,16 @@ This content from HealthyGamerGG explores the most misdiagnosed condition in men
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [ai-therapy-is-making-you-mentally-weak](concepts/ai-therapy-is-making-you-mentally-weak.md)
-- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md)
-- [how-trauma-splits-a-soul](concepts/how-trauma-splits-a-soul.md)
+
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome).md
-**Accessed:** 2026-07-21
+**Original Page:** [[The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome).md]]
+**Accessed:** 2026-08-23
 
 ## Related
 
-- [psychology](concepts/psychology.md) - Overview of psychological concepts
-- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
-- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
+- [[psychology]] - Overview of psychological concepts
+- [[relationships]] - Understanding interpersonal dynamics
+- [[mental-health]] - Broader context of psychological well-being
 
-## Related Pages
-
-- [[relationships]]
-- [[mental-health]]
-- [[psychology]]

@@ -1,17 +1,17 @@
 ---
 title: Video 6: Setting the Exposure - Summary
-created: 2026-08-19
-updated: 2026-08-19
+created: 2026-08-24
+updated: 2026-08-24
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, 7wOsPc0XtpY]
 sources: [raw/videos/youtube-7wOsPc0XtpY-transcript.md]
-published: 2026-08-19
+published: 2026-08-24
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-19
+reviewed: 2026-08-24
 ---
 
 # Video 6: Setting the Exposure - Summary

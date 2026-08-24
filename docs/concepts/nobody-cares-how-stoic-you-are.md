@@ -1,15 +1,15 @@
 ---
 title: Nobody Cares How Stoic You Are
-created: 2026-07-21
-updated: 2026-07-21
+created: 2026-08-23
+updated: 2026-08-23
 type: concept
 classification: psychology.personality
 domain: psychology
-tags: [stoicism, social-perception, healthygamergg]
+tags: ['stoicism', 'personality', 'authenticity', 'social-perception', 'healthygamergg']
 sources: [raw/videos/healthygamergg/Nobody Cares How Stoic You Are (Anima_Animus).md]
 confidence: medium
 status: active
-reviewed: 2026-07-21
+reviewed: 2026-08-23
 backlinks: []
 ---
 
@@ -38,16 +38,12 @@ This content from HealthyGamerGG explores nobody cares how stoic you are and pro
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** Nobody Cares How Stoic You Are (Anima_Animus).md
-**Accessed:** 2026-07-21
+**Original Page:** [[Nobody Cares How Stoic You Are (Anima_Animus).md]]
+**Accessed:** 2026-08-23
 
 ## Related
 
-- [psychology](concepts/psychology.md) - Overview of psychological concepts
-- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
-- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
+- [[psychology]] - Overview of psychological concepts
+- [[relationships]] - Understanding interpersonal dynamics
+- [[mental-health]] - Broader context of psychological well-being
 
-## Related Pages
-
-- [[relationships]]
-- [[psychology]]

@@ -17,6 +17,13 @@ class VideoTracker:
         self.tracker_file = tracker_file
         self.processed_videos = self.load_processed_videos()
     
+    def extract_video_id(self, url):
+        """Extract video ID from YouTube URL"""
+        from urllib.parse import urlparse, parse_qs
+        parsed_url = urlparse(url)
+        video_id = parse_qs(parsed_url.query).get('v', [None])[0]
+        return video_id
+    
     def load_processed_videos(self) -> Dict:
         """Load processed videos from tracker file."""
         if os.path.exists(self.tracker_file):

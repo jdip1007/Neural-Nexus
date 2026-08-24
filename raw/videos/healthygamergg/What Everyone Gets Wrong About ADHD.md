@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=6kD5RbQCjFg
 source_type: video
-ingested: 2026-07-21
+ingested: 2026-08-06
 video_id: 6kD5RbQCjFg
 title: What Everyone Gets Wrong About ADHD
 series: 
@@ -13,7 +13,7 @@ series:
 **Video URL:** https://www.youtube.com/watch?v=6kD5RbQCjFg
 **Video ID:** `6kD5RbQCjFg`
 **Transcript:** [[What Everyone Gets Wrong About ADHD.md]]
-**Accessed:** 2026-07-21
+**Accessed:** 2026-08-06
 
 ## Transcript
 [00:00] So this is an ADHD assessment, okay? I'm

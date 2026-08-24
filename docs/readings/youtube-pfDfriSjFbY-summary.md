@@ -1,17 +1,17 @@
 ---
 title: 1. Introduction (CMS.611J Creating Video Games) - Summary
-created: 2026-08-23
-updated: 2026-08-23
+created: 2026-08-24
+updated: 2026-08-24
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, pfDfriSjFbY]
 sources: [raw/videos/youtube-pfDfriSjFbY-transcript.md]
-published: 2026-08-23
+published: 2026-08-24
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-23
+reviewed: 2026-08-24
 ---
 
 # 1. Introduction (CMS.611J Creating Video Games) - Summary
@@ -39,7 +39,7 @@ that we'd really like them to enjoy being here
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: So Civilization, And Yusef, Andrew Grant
+- **Persons**: Creative Commons, For Linux, Lincoln Lab
 - **Organizations**: Rockefeller Foundation
 
 ## Related Concepts

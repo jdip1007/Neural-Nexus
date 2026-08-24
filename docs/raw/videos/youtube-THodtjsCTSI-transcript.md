@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=THodtjsCTSI
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
+ingested: 2026-08-24
+published: 2026-08-24
 duration_minutes: 21
 language: en
 sha256: 284b9ddb90f989e68c693a75e671b25e5e29b546fd630050e8dcaafcd894e46a

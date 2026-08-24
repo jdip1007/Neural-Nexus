@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=zFp4n3h75cM
 source_type: video
-ingested: 2026-07-21
+ingested: 2026-08-06
 video_id: zFp4n3h75cM
 title: Why "Validating Feelings" Can Ruin Relationships
 series: 
@@ -13,7 +13,7 @@ series:
 **Video URL:** https://www.youtube.com/watch?v=zFp4n3h75cM
 **Video ID:** `zFp4n3h75cM`
 **Transcript:** [[Why _Validating Feelings_ Can Ruin Relationships.md]]
-**Accessed:** 2026-07-21
+**Accessed:** 2026-08-06
 
 ## Transcript
 [00:00] Today we're going to talk about holding

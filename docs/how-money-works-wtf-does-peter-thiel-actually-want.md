@@ -1,8 +1,8 @@
 ---
 {
   "title": "WTF Does Peter Thiel Actually Want?",
-  "created": "2026-08-18T14:13:46.522239",
-  "updated": "2026-08-18T14:13:46.522257",
+  "created": "2026-08-23T15:46:28.902031",
+  "updated": "2026-08-23T15:46:28.902042",
   "type": "video",
   "tags": [
     "youtube",
@@ -20,7 +20,7 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=mno345pqr678)  
 > **Video ID:** mno345pqr678  
-> **Analyzed:** 2026-08-18 14:13:46
+> **Analyzed:** 2026-08-23 15:46:28
 
 ## Summary
 
@@ -47,4 +47,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-18T14:13:46.522308*
+*Last updated: 2026-08-23T15:46:28.902070*

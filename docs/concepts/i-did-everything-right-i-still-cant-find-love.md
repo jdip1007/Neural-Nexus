@@ -1,88 +1,49 @@
 ---
-title: I Did Everything Right. I Still Can't Find Love
-created: 2026-08-17
-updated: 2026-08-17
+title: I Did Everything Right. I still Can't Find Love
+created: 2026-08-23
+updated: 2026-08-23
 type: concept
 classification: psychology.relationships
 domain: psychology
-tags: [relationships, self-improvement, mental-health, healthygamergg]
-sources: [raw/videos/healthygamergg/sample8.md]
+tags: ['love', 'relationships', 'dating', 'frustration', 'healthygamergg']
+sources: [raw/videos/healthygamergg/I did EVERYTHING right. I still can't find love. _ Lovemaxxing w_ Dr. K.md]
 confidence: medium
 status: active
-reviewed: 2026-08-17
+reviewed: 2026-08-23
 backlinks: []
 ---
 
-# I Did Everything Right. I Still Can't Find Love
+# I Did Everything Right. I still Can't Find Love
 
 ## Overview
 
-This content from HealthyGamerGG explores i did everything right. i still can't find love and provides insights into the psychological and emotional aspects of this topic. Dr. K offers valuable perspectives on modern psychological challenges and practical strategies for personal growth.
+This content from HealthyGamerGG explores i did everything right. i still can't find love and provides insights into the psychological and emotional aspects of this topic.
 
 ## Key Topics
 
-- **psychology**
-- **relationships**
-- **self-improvement**
-- **mental health**
+<!-- Extract main topics from the video content -->
 
 ## Key Insights
 
-- General psychological insights
-- Relationship advice
+<!-- Important takeaways and revelations from the video -->
 
 ## Practical Applications
 
 <!-- How viewers can apply these insights in their lives -->
 
-- Self-reflection and awareness
-- Improved communication skills
-- Better relationship dynamics
-- Personal development strategies
-
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
-- [[neurodiversity]] - Understanding neurological differences
-
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Video URL:** https://www.youtube.com/watch?v=sample8
-**Video ID:** sample8
-**Accessed:** 2026-08-17
-
-## Transcript
-
-
-            This is a mock transcript for video sample8.
-            
-            In this video, Dr. K discusses important psychological concepts related to:
-            - Mental health awareness
-            - Relationship dynamics
-            - Self-improvement strategies
-            - Neurodiversity understanding
-            
-            Key insights include practical advice for viewers dealing with:
-            - Anxiety and social situations
-            - Dating and communication challenges
-            - Personal development goals
-            - Building healthy relationships
-            
-            The content provides valuable perspectives on modern psychological issues
-            and offers actionable steps for personal growth.
-            
+**Original Page:** [[I did EVERYTHING right. I still can't find love. _ Lovemaxxing w_ Dr. K.md]]
+**Accessed:** 2026-08-23
 
 ## Related
 
-- [[psychology]] - Psychology
-- [[relationships]] - Relationships
-- [[self-improvement]] - Self Improvement
-- [[mental health]] - Mental Health
+- [[psychology]] - Overview of psychological concepts
+- [[relationships]] - Understanding interpersonal dynamics
+- [[mental-health]] - Broader context of psychological well-being
 
----
-*This page was automatically generated from HealthyGamerGG YouTube content as part of the daily ingestion process.*

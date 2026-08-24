@@ -1,8 +1,8 @@
 ---
 {
   "title": "WTF Is Happening To The Video Game Industry?",
-  "created": "2026-08-18T14:13:44.207799",
-  "updated": "2026-08-18T14:13:44.207814",
+  "created": "2026-08-23T15:46:24.273562",
+  "updated": "2026-08-23T15:46:24.273573",
   "type": "video",
   "tags": [
     "youtube",
@@ -20,7 +20,7 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=ghi789jkl012)  
 > **Video ID:** ghi789jkl012  
-> **Analyzed:** 2026-08-18 14:13:44
+> **Analyzed:** 2026-08-23 15:46:24
 
 ## Summary
 
@@ -47,4 +47,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-18T14:13:44.207867*
+*Last updated: 2026-08-23T15:46:24.273619*

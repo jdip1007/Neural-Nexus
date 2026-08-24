@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=ZwYrXkPJA1s
 source_type: video
-ingested: 2026-07-21
+ingested: 2026-08-06
 video_id: ZwYrXkPJA1s
 title: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr.
 series: 
@@ -13,7 +13,7 @@ series:
 **Video URL:** https://www.youtube.com/watch?v=ZwYrXkPJA1s
 **Video ID:** `ZwYrXkPJA1s`
 **Transcript:** [[Why Modern Dating Feels Like Parenting _ Lovemaxxing w_ Dr..md]]
-**Accessed:** 2026-07-21
+**Accessed:** 2026-08-06
 
 ## Transcript
 [00:00] Yeah, we have a whole culture now of

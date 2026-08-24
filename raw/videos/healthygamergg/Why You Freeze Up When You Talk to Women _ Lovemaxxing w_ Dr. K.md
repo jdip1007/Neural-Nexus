@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=919XuYNqyjw
 source_type: video
-ingested: 2026-07-21
+ingested: 2026-08-06
 video_id: 919XuYNqyjw
 title: Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K
 series: 
@@ -13,7 +13,7 @@ series:
 **Video URL:** https://www.youtube.com/watch?v=919XuYNqyjw
 **Video ID:** `919XuYNqyjw`
 **Transcript:** [[Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K.md]]
-**Accessed:** 2026-07-21
+**Accessed:** 2026-08-06
 
 ## Transcript
 [00:00] What are you afraid of them seeing?

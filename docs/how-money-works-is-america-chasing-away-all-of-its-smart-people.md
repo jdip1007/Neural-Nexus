@@ -1,8 +1,8 @@
 ---
 {
   "title": "Is America Chasing Away All Of Its Smart People?",
-  "created": "2026-08-18T14:10:29.523560",
-  "updated": "2026-08-18T14:10:29.523571",
+  "created": "2026-08-23T15:46:33.529353",
+  "updated": "2026-08-23T15:46:33.529364",
   "type": "video",
   "tags": [
     "youtube",
@@ -20,7 +20,7 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=def456ghi789)  
 > **Video ID:** def456ghi789  
-> **Analyzed:** 2026-08-18 14:10:29
+> **Analyzed:** 2026-08-23 15:46:33
 
 ## Summary
 
@@ -47,4 +47,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-18T14:10:29.523601*
+*Last updated: 2026-08-23T15:46:33.529391*

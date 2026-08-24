@@ -1,15 +1,15 @@
 ---
 title: The Impatient Man: Why You Feel Like A Failure
-created: 2026-07-21
-updated: 2026-07-21
+created: 2026-08-23
+updated: 2026-08-23
 type: concept
 classification: psychology.personal-development
 domain: psychology
-tags: [failure, self-perception, personal-development, healthygamergg]
+tags: ['impatience', 'failure', 'self-perception', 'personal-development', 'healthygamergg']
 sources: [raw/videos/healthygamergg/The Impatient Man_ Why You Feel Like A Failure.md]
 confidence: medium
 status: active
-reviewed: 2026-07-21
+reviewed: 2026-08-23
 backlinks: []
 ---
 
@@ -34,21 +34,16 @@ This content from HealthyGamerGG explores the impatient man: why you feel like a
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [why-learning-from-failure-is-ruining-your-life](concepts/why-learning-from-failure-is-ruining-your-life.md)
-- [how-to-actually-have-an-elite-mindset](concepts/how-to-actually-have-an-elite-mindset.md)
+
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** The Impatient Man_ Why You Feel Like A Failure.md
-**Accessed:** 2026-07-21
+**Original Page:** [[The Impatient Man_ Why You Feel Like A Failure.md]]
+**Accessed:** 2026-08-23
 
 ## Related
 
-- [psychology](concepts/psychology.md) - Overview of psychological concepts
-- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
-- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
+- [[psychology]] - Overview of psychological concepts
+- [[relationships]] - Understanding interpersonal dynamics
+- [[mental-health]] - Broader context of psychological well-being
 
-## Related Pages
-
-- [[relationships]]
-- [[psychology]]

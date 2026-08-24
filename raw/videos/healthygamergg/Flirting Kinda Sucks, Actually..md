@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=nFY50H8nb5E
 source_type: video
-ingested: 2026-07-21
+ingested: 2026-08-06
 video_id: nFY50H8nb5E
 title: Flirting Kinda Sucks, Actually.
 series: 
@@ -13,7 +13,7 @@ series:
 **Video URL:** https://www.youtube.com/watch?v=nFY50H8nb5E
 **Video ID:** `nFY50H8nb5E`
 **Transcript:** [[Flirting Kinda Sucks, Actually..md]]
-**Accessed:** 2026-07-21
+**Accessed:** 2026-08-06
 
 ## Transcript
 [00:00] Let's talk about what makes flirting

@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=50FtUPGLyyo
 source_type: video
-ingested: 2026-07-21
+ingested: 2026-08-06
 video_id: 50FtUPGLyyo
 title: The Cost Of Attention
 series: 
@@ -13,7 +13,7 @@ series:
 **Video URL:** https://www.youtube.com/watch?v=50FtUPGLyyo
 **Video ID:** `50FtUPGLyyo`
 **Transcript:** [[The Cost Of Attention.md]]
-**Accessed:** 2026-07-21
+**Accessed:** 2026-08-06
 
 ## Transcript
 [00:00] Hey y'all. I saw this video of Kaiat

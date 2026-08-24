@@ -1,17 +1,17 @@
 ---
 title: Is America Chasing Away All Of Its Smart People? - Summary
-created: 2026-08-22
-updated: 2026-08-22
+created: 2026-08-24
+updated: 2026-08-24
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, THodtjsCTSI]
 sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
-published: 2026-08-22
+published: 2026-08-24
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-22
+reviewed: 2026-08-24
 ---
 
 # Is America Chasing Away All Of Its Smart People? - Summary
@@ -33,13 +33,13 @@ their life
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Silicon Valley, Yong Jerene, Atmospheric Administration
-- **Organizations**: National Institute, American Institute, Science Foundation
+- **Persons**: The Atlantic, Santa Barbara, United States
+- **Organizations**: American Institute, National Institute, Science Foundation
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[api]]
 - [[ai]]
+- [[api]]
 - [[llm]]
 
 ## Transcript Highlights

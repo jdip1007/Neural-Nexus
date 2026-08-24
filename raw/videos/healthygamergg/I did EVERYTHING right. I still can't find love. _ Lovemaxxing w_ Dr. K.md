@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=NEe1tg6iC40
 source_type: video
-ingested: 2026-07-21
+ingested: 2026-08-06
 video_id: NEe1tg6iC40
 title: I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K
 series: 
@@ -13,7 +13,7 @@ series:
 **Video URL:** https://www.youtube.com/watch?v=NEe1tg6iC40
 **Video ID:** `NEe1tg6iC40`
 **Transcript:** [[I did EVERYTHING right. I still can't find love. _ Lovemaxxing w_ Dr. K.md]]
-**Accessed:** 2026-07-21
+**Accessed:** 2026-08-06
 
 ## Transcript
 [00:00] I mean, the bar is in hell. If I was

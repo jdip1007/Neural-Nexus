@@ -1,8 +1,8 @@
 ---
 {
   "title": "So... Is Private Equity Collapsing Yet?",
-  "created": "2026-08-18T14:10:24.895306",
-  "updated": "2026-08-18T14:10:24.895321",
+  "created": "2026-08-23T15:44:29.957896",
+  "updated": "2026-08-23T15:44:29.957907",
   "type": "video",
   "tags": [
     "youtube",
@@ -20,7 +20,7 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=vwx234yza567)  
 > **Video ID:** vwx234yza567  
-> **Analyzed:** 2026-08-18 14:10:24
+> **Analyzed:** 2026-08-23 15:44:29
 
 ## Summary
 
@@ -47,4 +47,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-18T14:10:24.895358*
+*Last updated: 2026-08-23T15:44:29.957935*

@@ -1,15 +1,15 @@
 ---
 title: AI Therapy is Making You Mentally Weak
-created: 2026-07-21
-updated: 2026-07-21
+created: 2026-08-23
+updated: 2026-08-23
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: [ai, therapy, mental-health, healthygamergg]
+tags: ['ai', 'therapy', 'mental-health', 'technology', 'healthygamergg']
 sources: [raw/videos/healthygamergg/AI Therapy is Making You Mentally Weak.md]
 confidence: medium
 status: active
-reviewed: 2026-07-21
+reviewed: 2026-08-23
 backlinks: []
 ---
 
@@ -34,23 +34,16 @@ This content from HealthyGamerGG explores ai therapy is making you mentally weak
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [how-trauma-splits-a-soul](concepts/how-trauma-splits-a-soul.md)
-- [the-most-misdiagnosed-condition-in-mental-health](concepts/the-most-misdiagnosed-condition-in-mental-health.md)
-- [what-everyone-gets-wrong-about-adhd](concepts/what-everyone-gets-wrong-about-adhd.md)
+
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** AI Therapy is Making You Mentally Weak.md
-**Accessed:** 2026-07-21
+**Original Page:** [[AI Therapy is Making You Mentally Weak.md]]
+**Accessed:** 2026-08-23
 
 ## Related
 
-- [psychology](concepts/psychology.md) - Overview of psychological concepts
-- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
-- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
+- [[psychology]] - Overview of psychological concepts
+- [[relationships]] - Understanding interpersonal dynamics
+- [[mental-health]] - Broader context of psychological well-being
 
-## Related Pages
-
-- [[relationships]]
-- [[psychology]]
-- [[adhd]]
