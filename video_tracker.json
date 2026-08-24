@@ -1,164 +1,32 @@
 {
   "processed_videos": {
-    "abc123": {
-      "title": "Test Video 1",
-      "processed_date": "2026-08-20T15:34:07.910669",
+    "dummy1": {
+      "title": "25 Years Later: \"We Were Wrong About The War\"",
+      "processed_date": "2026-08-24T10:21:59.447541",
       "status": "completed"
     },
-    "def456": {
-      "title": "Test Video 2",
-      "processed_date": "2026-08-20T15:34:07.910992",
+    "dummy4": {
+      "title": "Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3",
+      "processed_date": "2026-08-24T10:22:00.448859",
       "status": "completed"
     },
-    "9bea3420e9eb": {
-      "title": "The Most Evil Father on TikTok",
-      "processed_date": "2026-08-20T16:11:58.489700",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=microsofts-secret-90s-weapon-that-made-windows-fast"
-    },
-    "8ff9bfd22347": {
-      "title": "How Penguinz0 Destroyed the Technoblade Copycat",
-      "processed_date": "2026-08-20T16:11:58.490553",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=the-challenge-can-we-build-notepad-in-3k-in-assembly-language"
-    },
-    "a6b9a102ba1e": {
-      "title": "Ryan's World Is Finally Ending",
-      "processed_date": "2026-08-20T16:11:58.491302",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=fopen-is-magic-find-out-what-youve-been-missing-all-these-years"
-    },
-    "07a1ae855fbf": {
-      "title": "JiDion's Past Is Catching Up To Him",
-      "processed_date": "2026-08-20T16:11:58.491974",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=So-Is-Private-Equity-Collapsing-Yet"
-    },
-    "db08456b1e85": {
-      "title": "The Deserved Downfall of Yo Mama",
-      "processed_date": "2026-08-20T16:11:58.492642",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=davesgarage_hidden-code-how-slot-machines-actually-work-the-computer-inside"
-    },
-    "919XuYNqyjw": {
-      "title": "HealthyGamerGG Video 6: Understanding Mental Health in Gaming",
-      "processed_date": "2026-08-22T17:40:48.252935",
-      "status": "completed"
-    },
-    "6kD5RbQCjFg": {
-      "title": "HealthyGamerGG Video 4: Understanding Mental Health in Gaming",
-      "processed_date": "2026-08-22T17:40:48.253353",
-      "status": "completed"
-    },
-    "oCB-sCIKnkU": {
-      "title": "HealthyGamerGG Video 24: Understanding Mental Health in Gaming",
-      "processed_date": "2026-08-22T17:40:48.253560",
-      "status": "completed"
-    },
-    "3bHdic_l5Hg": {
-      "title": "HealthyGamerGG Video 1: Understanding Mental Health in Gaming",
-      "processed_date": "2026-08-22T17:40:48.253893",
-      "status": "completed"
-    },
-    "50FtUPGLyyo": {
-      "title": "HealthyGamerGG Video 3: Understanding Mental Health in Gaming",
-      "processed_date": "2026-08-22T17:40:48.254121",
-      "status": "completed"
-    },
-    "new1": {
-      "title": "New Video 1",
-      "processed_date": "2026-08-22T17:46:25.416693",
-      "status": "completed"
-    },
-    "8Oj3NxSLP1U": {
-      "title": "Q&A: Becoming A Dad, Favourite Peptides & Red Rising",
-      "processed_date": "2026-08-23T09:59:58.092033",
-      "status": "completed"
-    },
-    "f2p1YH0-BaI": {
+    "dummy9": {
       "title": "Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel Lieberman",
-      "processed_date": "2026-08-23T09:59:58.092050",
+      "processed_date": "2026-08-24T10:22:01.450208",
       "status": "completed"
     },
-    "-5epM9WG95g": {
+    "dummy5": {
+      "title": "\"After 3 Days\u2026 I Start To Feel Amazing\" - Dr David Sinclair",
+      "processed_date": "2026-08-24T10:22:02.451671",
+      "status": "completed"
+    },
+    "dummy8": {
       "title": "Why Do Female Teachers Sleep With Students?",
-      "processed_date": "2026-08-23T09:59:58.092051",
-      "status": "completed"
-    },
-    "XzIY0M612A0": {
-      "title": "It wasn't my baggie. But if it was... - Hunter Biden",
-      "processed_date": "2026-08-23T09:59:58.092052",
-      "status": "completed"
-    },
-    "YGAjgLtJJFI": {
-      "title": "\"Blue Zone Science\" Is A Total Scam",
-      "processed_date": "2026-08-23T09:59:58.092053",
+      "processed_date": "2026-08-24T10:22:03.452918",
       "status": "completed"
     }
   },
-  "last_updated": "2026-08-23T09:59:58.092056",
+  "last_updated": "2026-08-24T10:22:03.452921",
   "channel_name": "Chris Willx",
-  "channel_id": "ChrisWillx",
-  "ingestion_history": [
-    {
-      "video_title": "The Most Evil Father on TikTok",
-      "video_url": "https://www.youtube.com/watch?v=microsofts-secret-90s-weapon-that-made-windows-fast",
-      "processed_date": "2026-08-20T16:11:58.489705",
-      "status": "completed"
-    },
-    {
-      "video_title": "How Penguinz0 Destroyed the Technoblade Copycat",
-      "video_url": "https://www.youtube.com/watch?v=the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "processed_date": "2026-08-20T16:11:58.490556",
-      "status": "completed"
-    },
-    {
-      "video_title": "Ryan's World Is Finally Ending",
-      "video_url": "https://www.youtube.com/watch?v=fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "processed_date": "2026-08-20T16:11:58.491305",
-      "status": "completed"
-    },
-    {
-      "video_title": "JiDion's Past Is Catching Up To Him",
-      "video_url": "https://www.youtube.com/watch?v=So-Is-Private-Equity-Collapsing-Yet",
-      "processed_date": "2026-08-20T16:11:58.491977",
-      "status": "completed"
-    },
-    {
-      "video_title": "The Deserved Downfall of Yo Mama",
-      "video_url": "https://www.youtube.com/watch?v=davesgarage_hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "processed_date": "2026-08-20T16:11:58.492645",
-      "status": "completed"
-    },
-    {
-      "video_title": "Q&A: Becoming A Dad, Favourite Peptides & Red Rising",
-      "video_url": "https://www.youtube.com/watch?v=8Oj3NxSLP1U",
-      "processed_date": "2026-08-23T09:59:58.092033",
-      "status": "completed"
-    },
-    {
-      "video_title": "Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel Lieberman",
-      "video_url": "https://www.youtube.com/watch?v=f2p1YH0-BaI",
-      "processed_date": "2026-08-23T09:59:58.092050",
-      "status": "completed"
-    },
-    {
-      "video_title": "Why Do Female Teachers Sleep With Students?",
-      "video_url": "https://www.youtube.com/watch?v=-5epM9WG95g",
-      "processed_date": "2026-08-23T09:59:58.092051",
-      "status": "completed"
-    },
-    {
-      "video_title": "It wasn't my baggie. But if it was... - Hunter Biden",
-      "video_url": "https://www.youtube.com/watch?v=XzIY0M612A0",
-      "processed_date": "2026-08-23T09:59:58.092052",
-      "status": "completed"
-    },
-    {
-      "video_title": "\"Blue Zone Science\" Is A Total Scam",
-      "video_url": "https://www.youtube.com/watch?v=YGAjgLtJJFI",
-      "processed_date": "2026-08-23T09:59:58.092053",
-      "status": "completed"
-    }
-  ]
+  "channel_id": "ChrisWillx"
 }
