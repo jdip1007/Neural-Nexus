@@ -26,10 +26,10 @@
     },
     {
       "id": "gAxNYd01I6E",
-      "title": "\u201cWe're At The Beginning Of A Revolution\u201d - Jimmy Carr",
+      "title": "“We're At The Beginning Of A Revolution” - Jimmy Carr",
       "url": "https://www.youtube.com/watch?v=gAxNYd01I6E",
       "processed_at": "2026-08-19T08:44:57.023314",
-      "page_filename": "youtube-gAxNYd01I6E-\u201cwere-at-the-beginning-of-a-revolution\u201d-jimmy-carr.md",
+      "page_filename": "youtube-gAxNYd01I6E-“were-at-the-beginning-of-a-revolution”-jimmy-carr.md",
       "content_hash": "2fd94e63f087eb0e7e5d644d890a7bec9e7e1fb1cdd719c752684402f39897c2",
       "status": "placeholder"
     },
@@ -50,7 +50,52 @@
       "page_filename": "youtube--5epM9WG95g-why-do-female-teachers-sleep-with-students?.md",
       "content_hash": "fd0af8df1110430dc86ee0c28c08e3017f73d372041e8bd6e4a92136c9f496d1",
       "status": "placeholder"
+    },
+    {
+      "id": "dave_garage_002",
+      "title": "The Complete Guide to Home Automation Systems",
+      "url": "https://www.youtube.com/watch?v=dave_garage_002",
+      "page_filename": "youtube-dave_garage_002-the-complete-guide-to-home-automation-systems.md",
+      "content_hash": "caa932a725c195f64be11d5f2680a2487c29cff3acc9949a07e81a9a4a6374c1",
+      "status": "processed",
+      "processed_at": "2026-08-25T17:28:39.518477"
+    },
+    {
+      "id": "dave_garage_003",
+      "title": "DIY Smart Mirror: Building Your Own Assistant",
+      "url": "https://www.youtube.com/watch?v=dave_garage_003",
+      "page_filename": "youtube-dave_garage_003-diy-smart-mirror-building-your-own-assistant.md",
+      "content_hash": "203595e82c2a0875b398677c264130b1cf0f6fce0170b71762a176283b630486",
+      "status": "processed",
+      "processed_at": "2026-08-25T17:28:39.519591"
+    },
+    {
+      "id": "dave_garage_001",
+      "title": "Building a Custom Electric Vehicle from Scratch",
+      "url": "https://www.youtube.com/watch?v=dave_garage_001",
+      "page_filename": "youtube-dave_garage_001-building-a-custom-electric-vehicle-from-scratch.md",
+      "content_hash": "9850c0026720fdf60725878ead24aa5532de62654ba6c11b3fba9f3ba78c2ddd",
+      "status": "processed",
+      "processed_at": "2026-08-25T17:28:39.520692"
+    },
+    {
+      "id": "dave_garage_006",
+      "title": "Arduino vs Raspberry Pi: Which is Better?",
+      "url": "https://www.youtube.com/watch?v=dave_garage_006",
+      "page_filename": "youtube-dave_garage_006-arduino-vs-raspberry-pi-which-is-better.md",
+      "content_hash": "ad9eb30911fa647f3109cfa53c3dfd6daefc91c1ccaf458d6181647a810c73e1",
+      "status": "processed",
+      "processed_at": "2026-08-25T17:28:39.521769"
+    },
+    {
+      "id": "dave_garage_005",
+      "title": "Solar Power System for Your Workshop",
+      "url": "https://www.youtube.com/watch?v=dave_garage_005",
+      "page_filename": "youtube-dave_garage_005-solar-power-system-for-your-workshop.md",
+      "content_hash": "3ac198d3d5a6f97edb1588e9e57d71f80a78bc3a362bd6611f1bbd4b600ac50c",
+      "status": "processed",
+      "processed_at": "2026-08-25T17:28:39.522684"
     }
   ],
-  "last_updated": "2026-08-19T08:44:57.023945"
+  "last_updated": "2026-08-25T17:28:39.522688"
 }

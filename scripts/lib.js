@@ -13,7 +13,7 @@ const ROOT_DIR = path.join(__dirname, '..');
 const DOCS_DIR = path.join(ROOT_DIR, 'docs');
 
 // All directories that contain wiki pages (content + references)
-const CONTENT_DIRS = ['concepts', 'entities', 'ideas', 'findings', 'readings', 'comparisons', 'references'];
+const CONTENT_DIRS = ['concepts', 'entities', 'ideas', 'findings', 'readings', 'comparisons', 'references', 'videos'];
 
 // ── File scanning ─────────────────────────────────────────────
 

@@ -15,6 +15,7 @@ const SECTIONS = [
   { dir: 'readings', label: 'Readings' },
   { dir: 'comparisons', label: 'Comparisons' },
   { dir: 'references', label: 'References' },
+  { dir: 'videos', label: 'Videos' },
 ];
 
 function getPages(dirPath) {
