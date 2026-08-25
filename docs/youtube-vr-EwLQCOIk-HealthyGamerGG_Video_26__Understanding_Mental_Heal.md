@@ -1,3 +1,21 @@
+---
+title: HealthyGamerGG Video 26: Understanding Mental Health in Gaming
+created: 2026-08-25
+updated: 2026-08-25
+type: video
+classification: psychology.mental-health
+domain: psychology
+tags: [Mental Health, Social Skills, Depression, Mindfulness, youtube, healthygamergg]
+sources: [youtube.com/watch?v=vr-EwLQCOIk]
+video_id: vr-EwLQCOIk
+channel: HealthyGamerGG
+word_count: 54
+confidence: medium
+status: active
+reviewed: 2026-08-25
+backlinks: []
+---
+
 # HealthyGamerGG Video 26: Understanding Mental Health in Gaming
 
 ## Video Information
@@ -5,7 +23,7 @@
 - **Video ID**: vr-EwLQCOIk
 - **Channel**: HealthyGamerGG
 - **Source**: [YouTube](https://www.youtube.com/watch?v=vr-EwLQCOIk)
-- **Date Created**: 2026-08-18
+- **Date Created**: 2026-08-25
 - **Word Count**: 54 words
 
 ## Content Analysis

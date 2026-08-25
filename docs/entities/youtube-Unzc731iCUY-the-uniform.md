@@ -1,21 +1,21 @@
 ---
-title: Massachusetts Institute
+title: The Uniform
 created: 2026-08-25
 updated: 2026-08-25
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, organizations, Unzc731iCUY]
+tags: [youtube, video-derived, persons, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
 confidence: medium
 status: active
 reviewed: 2026-08-25
 ---
 
-# Massachusetts Institute
+# The Uniform
 
 ## Overview
-Massachusetts Institute is mentioned in the YouTube video "How to Speak".
+The Uniform is mentioned in the YouTube video "How to Speak".
 
 ## Context
 Mentioned in the context of research and development.

@@ -84,11 +84,37 @@
       "type": "page"
     },
     {
+      "id": "Investing-Basics",
+      "title": "Investing Basics",
+      "file": "/home/hermes/Neural-Nexus/docs/Investing-Basics.md",
+      "tags": [
+        "finance",
+        "investing",
+        "money",
+        "markets",
+        "portfolio"
+      ],
+      "type": "page"
+    },
+    {
       "id": "7xqJnKpYQ8U",
       "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
       "file": "/home/hermes/Neural-Nexus/docs/7xqJnKpYQ8U.md",
       "tags": [
         "youtube"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "Finance-Overview",
+      "title": "Finance Overview",
+      "file": "/home/hermes/Neural-Nexus/docs/Finance-Overview.md",
+      "tags": [
+        "finance",
+        "economics",
+        "money",
+        "investing",
+        "markets"
       ],
       "type": "page"
     },
@@ -218,6 +244,13 @@
       "type": "page"
     },
     {
+      "id": "How-Much-Longer-Can-We-Hide-The-Inflation",
+      "title": "How-Much-Longer-Can-We-Hide-The-Inflation",
+      "file": "/home/hermes/Neural-Nexus/docs/How-Much-Longer-Can-We-Hide-The-Inflation.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "how-money-works-how-long-can-the-stock-market-ignore-reality",
       "title": "how-money-works-how-long-can-the-stock-market-ignore-reality",
       "file": "/home/hermes/Neural-Nexus/docs/how-money-works-how-long-can-the-stock-market-ignore-reality.md",
@@ -229,6 +262,19 @@
       "title": "how-money-works-wtf-does-peter-thiel-actually-want",
       "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-does-peter-thiel-actually-want.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "Economic-Principles",
+      "title": "Economic Principles",
+      "file": "/home/hermes/Neural-Nexus/docs/Economic-Principles.md",
+      "tags": [
+        "economics",
+        "finance",
+        "money",
+        "markets",
+        "policy"
+      ],
       "type": "page"
     },
     {
@@ -265,6 +311,13 @@
         "therapy",
         "therapy"
       ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-healthy-gamer-the-lie-of-positive-thinking",
+      "title": "The Lie of \"Positive Thinking\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-the-lie-of-positive-thinking.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -385,6 +438,13 @@
       "type": "page"
     },
     {
+      "id": "youtube-healthy-gamer-why-you-should-never-confess-your-love",
+      "title": "Why You Should NEVER Confess Your Love",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-why-you-should-never-confess-your-love.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
       "title": "MrBeast: Behind the Scenes",
       "file": "/home/hermes/Neural-Nexus/docs/q8_r9s0t1u_MrBeast_Behind_the_Scenes.md",
@@ -492,6 +552,13 @@
       "id": "youtube-YV7xNa3QO0c-2-06-15",
       "title": "youtube-YV7xNa3QO0c-2-06-15",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-YV7xNa3QO0c-2-06-15.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-healthy-gamer-we-need-to-talk-about-ozempic",
+      "title": "We Need To Talk About Ozempic",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-we-need-to-talk-about-ozempic.md",
       "tags": [],
       "type": "page"
     },
@@ -620,6 +687,13 @@
       "type": "page"
     },
     {
+      "id": "youtube-healthy-gamer-stop-overcorrecting-your-attachment-style-viewer-interview",
+      "title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-stop-overcorrecting-your-attachment-style-viewer-interview.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending",
       "title": "Ryan's World Is Finally Ending",
       "file": "/home/hermes/Neural-Nexus/docs/internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending.md",
@@ -738,6 +812,13 @@
       "type": "page"
     },
     {
+      "id": "youtube-healthy-gamer-why-you-need-constant-reassurance",
+      "title": "Why You Need Constant Reassurance",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-why-you-need-constant-reassurance.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-positive_thinking_lie-the-lie-of-\"positive-thinking\"",
       "title": "The Lie of \"Positive Thinking\" - HealthyGamerGG",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-positive_thinking_lie-the-lie-of-\"positive-thinking\".md",
@@ -773,6 +854,21 @@
     }
   ],
   "edges": [
+    {
+      "source": "WTF-Is-Happening-To-The-Video-Game-Industry",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "WTF-Is-Happening-To-The-Video-Game-Industry",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "WTF-Is-Happening-To-The-Video-Game-Industry",
+      "target": "Economic-Principles",
+      "type": "wikilink"
+    },
     {
       "source": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
       "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
@@ -844,6 +940,21 @@
       "type": "wikilink"
     },
     {
+      "source": "How-Much-Longer-Can-We-Hide-The-Inflation",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "How-Much-Longer-Can-We-Hide-The-Inflation",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "How-Much-Longer-Can-We-Hide-The-Inflation",
+      "target": "Economic-Principles",
+      "type": "wikilink"
+    },
+    {
       "source": "I14yjt00Fl8",
       "target": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
       "type": "wikilink"
@@ -856,6 +967,21 @@
     {
       "source": "youtube-dummy9-Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa",
       "target": "youtube-ZwYrXkPJA1s-HealthyGamerGG_Video_17__Understanding_Mental_Heal",
+      "type": "wikilink"
+    },
+    {
+      "source": "So-Is-Private-Equity-Collapsing-Yet",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "So-Is-Private-Equity-Collapsing-Yet",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "So-Is-Private-Equity-Collapsing-Yet",
+      "target": "Economic-Principles",
       "type": "wikilink"
     },
     {
@@ -881,6 +1007,21 @@
     {
       "source": "9fL6tA2W5E1",
       "target": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
+      "type": "wikilink"
+    },
+    {
+      "source": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce",
+      "target": "Economic-Principles",
       "type": "wikilink"
     },
     {
@@ -949,6 +1090,21 @@
       "type": "wikilink"
     },
     {
+      "source": "How-Long-Can-The-Stock-Market-Ignore-Reality",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "How-Long-Can-The-Stock-Market-Ignore-Reality",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "How-Long-Can-The-Stock-Market-Ignore-Reality",
+      "target": "Economic-Principles",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-vr-EwLQCOIk-why-gifted-people-burn-out-the-fastest",
       "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
       "type": "wikilink"
@@ -1000,8 +1156,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-24T10:23:58.696878",
-    "total_nodes": 79,
-    "total_edges": 45
+    "generated": "2026-08-25T17:44:11.956782",
+    "total_nodes": 88,
+    "total_edges": 60
   }
 }

@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=h1GtR8xJraw
 source_type: video
-ingested: 2026-08-24
-published: 2026-08-24
+ingested: 2026-08-25
+published: 2026-08-25
 duration_minutes: 4
 language: en
 sha256: bc5a23bf8241d08f15e2d598faddfc9df75346228061e3f60098d77b60383728

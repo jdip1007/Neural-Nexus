@@ -1,8 +1,8 @@
 ---
 {
-  "title": "So... Is Private Equity Collapsing Yet?",
-  "created": "2026-08-25T16:08:31.541823",
-  "updated": "2026-08-25T16:08:31.541825",
+  "title": "How Much Longer Can We \"Hide\" The Inflation?",
+  "created": "2026-08-25T16:08:31.543175",
+  "updated": "2026-08-25T16:08:31.543176",
   "type": "video",
   "tags": [
     "youtube",
@@ -14,21 +14,21 @@
     "diversification"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=5aBW_VGT130"
+    "https://www.youtube.com/watch?v=Ac25_v32dNE"
   ],
-  "duration": "20 minutes",
-  "views": "726K views",
+  "duration": "21 minutes",
+  "views": "Unknown views",
   "channel": "How Money Works"
 }
 ---
 
-# So... Is Private Equity Collapsing Yet?
+# How Much Longer Can We "Hide" The Inflation?
 
-*Source: [How Money Works](https://www.youtube.com/watch?v=5aBW_VGT130)*
+*Source: [How Money Works](https://www.youtube.com/watch?v=Ac25_v32dNE)*
 
 ## Summary
 
-[00:00] Transcript for https://www.youtube.com/watch?v=5aBW_VGT130
+[00:00] Transcript for https://www.youtube.com/watch?v=Ac25_v32dNE
 
 [00:15] This is a mock transcript for demonstration purposes. In a production environment, this would be replaced with actual transc...
 
@@ -41,7 +41,7 @@
 
 ## Transcript
 
-[00:00] Transcript for https://www.youtube.com/watch?v=5aBW_VGT130
+[00:00] Transcript for https://www.youtube.com/watch?v=Ac25_v32dNE
 
 [00:15] This is a mock transcript for demonstration purposes. In a production environment, this would be replaced with actual transcript content from the TranscriptAPI.
 

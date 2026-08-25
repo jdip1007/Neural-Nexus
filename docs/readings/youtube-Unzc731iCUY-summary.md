@@ -1,17 +1,17 @@
 ---
 title: How to Speak - Summary
-created: 2026-08-24
-updated: 2026-08-24
+created: 2026-08-25
+updated: 2026-08-25
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
-published: 2026-08-24
+published: 2026-08-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-24
+reviewed: 2026-08-25
 ---
 
 # How to Speak - Summary
@@ -41,14 +41,14 @@ it's important to talk about your research in context
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Bill Weldon, Military Justice, And Doug
+- **Persons**: The Uniform, Sun Valley, United States
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
 - [[framework]]
 - [[artificial-intelligence]]
+- [[algorithm]]
+- [[ai]]
 
 ## Transcript Highlights
 > about the place? And the most important
