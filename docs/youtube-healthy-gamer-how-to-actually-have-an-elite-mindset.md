@@ -1,7 +1,7 @@
 ---
-title: Why You Need Constant Reassurance
-created: 2026-08-26T18:58:56.400080
-updated: 2026-08-26T18:58:56.400082
+title: How To Actually Have An Elite Mindset
+created: 2026-08-26T18:58:56.401142
+updated: 2026-08-26T18:58:56.401144
 type: reading
 tags:
   - youtube
@@ -9,10 +9,10 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://www.youtube.com/watch?v=L-gJ_Fo72-k
+  - https://www.youtube.com/watch?v=Wu7zcamEAI0
 ---
 
-# Why You Need Constant Reassurance
+# How To Actually Have An Elite Mindset
 
 ## Video Summary
 

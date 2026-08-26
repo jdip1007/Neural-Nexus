@@ -1,7 +1,7 @@
 ---
-title: Why You Need Constant Reassurance
-created: 2026-08-26T18:58:56.400080
-updated: 2026-08-26T18:58:56.400082
+title: The Cost Of Attention
+created: 2026-08-26T18:58:09.400487
+updated: 2026-08-26T18:58:09.400489
 type: reading
 tags:
   - youtube
@@ -9,10 +9,10 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://www.youtube.com/watch?v=L-gJ_Fo72-k
+  - https://www.youtube.com/watch?v=50FtUPGLyyo
 ---
 
-# Why You Need Constant Reassurance
+# The Cost Of Attention
 
 ## Video Summary
 

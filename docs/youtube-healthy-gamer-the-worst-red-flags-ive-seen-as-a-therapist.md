@@ -1,7 +1,7 @@
 ---
-title: Why You Need Constant Reassurance
-created: 2026-08-26T18:58:56.400080
-updated: 2026-08-26T18:58:56.400082
+title: The Worst Red Flags I've Seen As A Therapist
+created: 2026-08-26T18:58:56.400608
+updated: 2026-08-26T18:58:56.400610
 type: reading
 tags:
   - youtube
@@ -9,10 +9,10 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://www.youtube.com/watch?v=L-gJ_Fo72-k
+  - https://www.youtube.com/watch?v=KBkkN12nVqs
 ---
 
-# Why You Need Constant Reassurance
+# The Worst Red Flags I've Seen As A Therapist
 
 ## Video Summary
 

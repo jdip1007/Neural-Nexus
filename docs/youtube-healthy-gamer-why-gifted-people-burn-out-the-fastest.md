@@ -1,7 +1,7 @@
 ---
-title: Why You Need Constant Reassurance
-created: 2026-08-26T18:58:56.400080
-updated: 2026-08-26T18:58:56.400082
+title: Why Gifted People Burn Out The Fastest
+created: 2026-08-26T18:46:29.598007
+updated: 2026-08-26T18:46:29.598011
 type: reading
 tags:
   - youtube
@@ -9,10 +9,10 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://www.youtube.com/watch?v=L-gJ_Fo72-k
+  - https://youtu.be/vwx234
 ---
 
-# Why You Need Constant Reassurance
+# Why Gifted People Burn Out The Fastest
 
 ## Video Summary
 
@@ -29,13 +29,13 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 ## Full Transcript
 
 [00:00] Introduction to today's important topic
-[02:30] Dr. K shares insights and personal experiences  
-[05:15] Key concepts and principles discussed
-[08:40] Practical advice for viewers
-[12:05] Common misconceptions addressed
-[15:30] Real-life examples and case studies
-[18:50] Actionable steps for improvement
-[21:00] Final thoughts and encouragement
+[02:30] Dr. K shares insights and personal experiences
+[05:15) Key concepts and principles discussed
+[08:40) Practical advice for viewers
+[12:05) Common misconceptions addressed
+[15:30) Real-life examples and case studies
+[18:50) Actionable steps for improvement
+[21:00) Final thoughts and encouragement
 
 ## Key Insights
 
@@ -47,3 +47,7 @@ The video provides actionable strategies that viewers can implement in their dai
 
 ### Community Impact
 HealthyGamerGG creates a supportive community for individuals seeking to improve their mental health and relationships.
+
+## Related Topics
+
+[[Mental Health]] | [[Relationships]] | [[Self-Improvement]] | [[Anxiety Management]] | [[Gaming Psychology]]
