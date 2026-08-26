@@ -1,7 +1,7 @@
 ---
 title: Try Monarch
-created: 2026-08-24
-updated: 2026-08-24
+created: 2026-08-26
+updated: 2026-08-26
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, mUBBqAjVuco]
 sources: [raw/videos/youtube-mUBBqAjVuco-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-08-24
+reviewed: 2026-08-26
 ---
 
 # Try Monarch

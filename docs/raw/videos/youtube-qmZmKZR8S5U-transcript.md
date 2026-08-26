@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=qmZmKZR8S5U
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
+ingested: 2026-08-26
+published: 2026-08-26
 duration_minutes: 17
 language: en
 sha256: eba99a8c7fee4dc816e26848f96425d698b51b826d6e3fa2be68bb1acd9883fd

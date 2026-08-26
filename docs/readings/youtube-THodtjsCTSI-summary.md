@@ -1,17 +1,17 @@
 ---
 title: Is America Chasing Away All Of Its Smart People? - Summary
-created: 2026-08-24
-updated: 2026-08-24
+created: 2026-08-26
+updated: 2026-08-26
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, THodtjsCTSI]
 sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
-published: 2026-08-24
+published: 2026-08-26
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-24
+reviewed: 2026-08-26
 ---
 
 # Is America Chasing Away All Of Its Smart People? - Summary
@@ -33,8 +33,8 @@ their life
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: The Atlantic, Santa Barbara, United States
-- **Organizations**: American Institute, National Institute, Science Foundation
+- **Persons**: Safe Place, Wall Street, From China
+- **Organizations**: National Institute, Science Foundation, American Institute
 - **Tools**: OpenAI
 
 ## Related Concepts

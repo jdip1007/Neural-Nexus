@@ -1,17 +1,17 @@
 ---
 title: "Dude I'm Broke" Why Is My Data Worth Harvesting? - Summary
-created: 2026-08-24
-updated: 2026-08-24
+created: 2026-08-26
+updated: 2026-08-26
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, 6BOxK_JrghY]
 sources: [raw/videos/youtube-6BOxK_JrghY-transcript.md]
-published: 2026-08-24
+published: 2026-08-26
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-24
+reviewed: 2026-08-26
 ---
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting? - Summary
@@ -30,12 +30,12 @@ This video discusses "Dude I'm Broke" Why Is My Data Worth Harvesting?
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: The Work, Business Insider, Sam Altman
+- **Persons**: Wall Street, Sam Altman, My Radar
 
 ## Related Concepts
-- [[database]]
 - [[ai]]
 - [[algorithm]]
+- [[database]]
 - [[api]]
 
 ## Transcript Highlights

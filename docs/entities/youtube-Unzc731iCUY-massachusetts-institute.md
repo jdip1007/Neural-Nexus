@@ -1,7 +1,7 @@
 ---
 title: Massachusetts Institute
-created: 2026-08-25
-updated: 2026-08-25
+created: 2026-08-26
+updated: 2026-08-26
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, organizations, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-08-25
+reviewed: 2026-08-26
 ---
 
 # Massachusetts Institute

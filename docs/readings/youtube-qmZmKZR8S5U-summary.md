@@ -1,17 +1,17 @@
 ---
 title: How Long Can The Stock Market Ignore Reality? - Summary
-created: 2026-08-22
-updated: 2026-08-22
+created: 2026-08-26
+updated: 2026-08-26
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, qmZmKZR8S5U]
 sources: [raw/videos/youtube-qmZmKZR8S5U-transcript.md]
-published: 2026-08-22
+published: 2026-08-26
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-22
+reviewed: 2026-08-26
 ---
 
 # How Long Can The Stock Market Ignore Reality? - Summary
@@ -27,11 +27,11 @@ This video discusses How Long Can The Stock Market Ignore Reality?
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: The Dow, White House, Jones Industrial
+- **Persons**: John Hussman, Only Nvidia, Patrick Boyle
 
 ## Related Concepts
-- [[cloud]]
 - [[ai]]
+- [[cloud]]
 
 ## Transcript Highlights
 > 2000s. Both saw a significant market

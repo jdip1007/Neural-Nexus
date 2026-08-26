@@ -1,17 +1,17 @@
 ---
 title: WTF Is Happening To The Video Game Industry? - Summary
-created: 2026-08-24
-updated: 2026-08-24
+created: 2026-08-26
+updated: 2026-08-26
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, Sx-lddna-qg]
 sources: [raw/videos/youtube-Sx-lddna-qg-transcript.md]
-published: 2026-08-24
+published: 2026-08-26
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-24
+reviewed: 2026-08-26
 ---
 
 # WTF Is Happening To The Video Game Industry? - Summary
@@ -26,7 +26,7 @@ This video discusses WTF Is Happening To The Video Game Industry?
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Cold War, Epic Games, Hell Divers
+- **Persons**: Works Media, Warner Brothers, Silicon Valley
 
 ## Related Concepts
 - [[ai]]

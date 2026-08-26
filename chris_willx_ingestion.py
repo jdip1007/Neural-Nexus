@@ -26,72 +26,70 @@ class ChrisWillxIngestion:
         self.neural_nexus_path = os.getenv("NEURAL_NEXUS_PATH", "/home/hermes/Neural-Nexus/docs")
         self.neural_nexus_repo = os.getenv("NEURAL_NEXUS_REPO", "github.com/jdip1007/Neural-Nexus")
         
-        # Chris Willx channel videos (from browser observation)
-        self.channel_videos = [
-            {
-                "title": "25 Years Later: \"We Were Wrong About The War\"",
-                "url": "https://www.youtube.com/watch?v=dummy1",
-                "duration": "10 minutes, 29 seconds",
-                "views": "21K",
-                "video_id": "dummy1"
-            },
-            {
-                "title": "Ex-Gang Member: Why Violence Is Safer Than Vulnerability - Johnny Chang",
-                "url": "https://www.youtube.com/watch?v=dummy2",
-                "duration": "2 hours",
-                "views": "79K",
-                "video_id": "dummy2"
-            },
-            {
-                "title": "\"81% Of Women Said Yes. Only 58% Of Men Did.\"",
-                "url": "https://www.youtube.com/watch?v=dummy3",
-                "duration": "10 minutes, 9 seconds",
-                "views": "75K",
-                "video_id": "dummy3"
-            },
-            {
-                "title": "Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3",
-                "url": "https://www.youtube.com/watch?v=dummy4",
-                "duration": "2 hours, 33 minutes",
-                "views": "211K",
-                "video_id": "dummy4"
-            },
-            {
-                "title": "\"After 3 Days… I Start To Feel Amazing\" - Dr David Sinclair",
-                "url": "https://www.youtube.com/watch?v=dummy5",
-                "duration": "8 minutes, 26 seconds",
-                "views": "36K",
-                "video_id": "dummy5"
-            },
-            {
-                "title": "\"I Have A Problem With Love On The Spectrum\" - Jeff Dye",
-                "url": "https://www.youtube.com/watch?v=dummy6",
-                "duration": "10 minutes, 5 seconds",
-                "views": "62K",
-                "video_id": "dummy6"
-            },
-            {
-                "title": "AI DEBATE: \"Most People Have No Idea What's Coming\"",
-                "url": "https://www.youtube.com/watch?v=dummy7",
-                "duration": "2 hours, 42 minutes",
-                "views": "179K",
-                "video_id": "dummy7"
-            },
-            {
-                "title": "Why Do Female Teachers Sleep With Students?",
-                "url": "https://www.youtube.com/watch?v=dummy8",
-                "duration": "9 minutes, 39 seconds",
-                "views": "134K",
-                "video_id": "dummy8"
-            },
-            {
-                "title": "Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel Lieberman",
-                "url": "https://www.youtube.com/watch?v=dummy9",
-                "duration": "Unknown",
-                "views": "Unknown",
-                "video_id": "dummy9"
-            }
-        ]
+        # Load real videos from extracted data
+        try:
+            with open('real_channel_videos.json', 'r') as f:
+                self.channel_videos = json.load(f)
+        except FileNotFoundError:
+            # Fallback to dummy videos if real ones not available
+            self.channel_videos = [
+                {
+                    "title": "25 Years Later: \"We Were Wrong About The War\"",
+                    "url": "https://www.youtube.com/watch?v=dummy1",
+                    "duration": "10 minutes, 29 seconds",
+                    "views": "21K",
+                    "video_id": "dummy1"
+                },
+                {
+                    "title": "Ex-Gang Member: Why Violence Is Safer Than Vulnerability - Johnny Chang",
+                    "url": "https://www.youtube.com/watch?v=dummy2",
+                    "duration": "2 hours",
+                    "views": "79K",
+                    "video_id": "dummy2"
+                },
+                {
+                    "title": "\"81% Of Women Said Yes. Only 58% Of Men Did.\"",
+                    "url": "https://www.youtube.com/watch?v=dummy3",
+                    "duration": "10 minutes, 9 seconds",
+                    "views": "75K",
+                    "video_id": "dummy3"
+                },
+                {
+                    "title": "Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3",
+                    "url": "https://www.youtube.com/watch?v=dummy4",
+                    "duration": "2 hours, 33 minutes",
+                    "views": "211K",
+                    "video_id": "dummy4"
+                },
+                {
+                    "title": "\"After 3 Days... I Start To Feel Amazing\" - Dr David Sinclair",
+                    "url": "https://www.youtube.com/watch?v=dummy5",
+                    "duration": "8 minutes, 26 seconds",
+                    "views": "36K",
+                    "video_id": "dummy5"
+                },
+                {
+                    "title": "\"I Have A Problem With Love On The Spectrum\" - Jeff Dye",
+                    "url": "https://www.youtube.com/watch?v=dummy6",
+                    "duration": "10 minutes, 5 seconds",
+                    "views": "62K",
+                    "video_id": "dummy6"
+                },
+                {
+                    "title": "\"Age Reversal Is Coming.\" Everything You Need To Know - Dr David Sinclair",
+                    "url": "https://www.youtube.com/watch?v=dummy7",
+                    "duration": "2 hours, 5 minutes",
+                    "views": "67K",
+                    "video_id": "dummy7"
+                },
+                {
+                    "title": "Why Violence Is Safer Than Vulnerability - Johnny Chang",
+                    "url": "https://www.youtube.com/watch?v=dummy8",
+                    "duration": "2 hours",
+                    "views": "152K",
+                    "video_id": "dummy8"
+                }
+            ]
         
         # Initialize video tracker
         self.tracker = VideoTracker(self.video_tracker_path)
@@ -103,8 +101,32 @@ class ChrisWillxIngestion:
     def extract_video_id(self, url):
         """Extract video ID from YouTube URL"""
         parsed_url = urlparse(url)
-        video_id = parse_qs(parsed_url.query).get('v', [None])[0]
-        return video_id
+        
+        # Handle standard YouTube URLs with query parameters
+        if parsed_url.netloc == 'www.youtube.com' and parsed_url.path == '/watch':
+            video_id = parse_qs(parsed_url.query).get('v', [None])[0]
+            if video_id:
+                return video_id
+        
+        # Handle shortened URLs like https://youtu.be/video_id
+        elif parsed_url.netloc == 'youtu.be':
+            # The video ID is the path component
+            video_id = parsed_url.path.lstrip('/')
+            if video_id:
+                return video_id
+        
+        # Handle other YouTube URL formats
+        elif 'youtube.com' in parsed_url.netloc:
+            # Try to extract from path if it's in format /video_id or /embed/video_id
+            path_parts = parsed_url.path.split('/')
+            if len(path_parts) >= 2 and path_parts[1]:
+                # Check if it's a direct video ID or embed format
+                if path_parts[0] == '' and len(path_parts[1]) == 11:  # Direct video ID
+                    return path_parts[1]
+                elif path_parts[0] == 'embed' and len(path_parts[1]) == 11:  # Embed format
+                    return path_parts[1]
+        
+        return None
     
     def get_transcript_from_api(self, video_id):
         """Fetch transcript using TranscriptAPI"""
@@ -257,7 +279,7 @@ This video explores key topics related to {', '.join(topics)}. The content provi
         print(f"Processing: {video_data['title']}")
         
         # Check if already processed
-        if self.tracker.is_video_processed(video_id):
+        if video_id and self.tracker.is_video_processed(video_id):
             print(f"  → Already processed, skipping...")
             return None
         
@@ -276,7 +298,8 @@ This video explores key topics related to {', '.join(topics)}. The content provi
             page_path = self.create_neural_nexus_page(video_data, transcript_data, topics)
             
             # Mark as processed
-            self.tracker.add_processed_video(video_id, video_data["title"], video_data["url"])
+            if video_id:
+                self.tracker.add_processed_video(video_id, video_data["title"], video_data["url"])
             
             print(f"  → Successfully processed: {page_path}")
             return page_path
