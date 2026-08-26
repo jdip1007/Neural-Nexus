@@ -30,25 +30,25 @@ class DavesGarageIngestion:
                 "title": "Ethernet Explained so well that even YOU can Understand it!",
                 "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
                 "duration": "23 minutes",
-                "views": "138K"
+                "views": "143K"
             },
             {
                 "title": "CANBUS – Networking so simple, even YOU can understand it!",
                 "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
                 "duration": "23 minutes", 
-                "views": "422K"
+                "views": "428K"
             },
             {
                 "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
                 "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
                 "duration": "22 minutes",
-                "views": "236K"
+                "views": "240K"
             },
             {
                 "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
                 "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
                 "duration": "20 minutes",
-                "views": "325K"
+                "views": "326K"
             },
             {
                 "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
@@ -66,13 +66,25 @@ class DavesGarageIngestion:
                 "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
                 "url": "https://www.youtube.com/watch?v=3c5f7WzQzY",
                 "duration": "18 minutes",
-                "views": "420K"
+                "views": "428K"
             },
             {
                 "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
                 "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
                 "duration": "16 minutes",
                 "views": "129K"
+            },
+            {
+                "title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+                "url": "https://www.youtube.com/watch?v=4c5f7WzQzY",
+                "duration": "14 minutes",
+                "views": "1.1M"
+            },
+            {
+                "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+                "url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+                "duration": "25 minutes",
+                "views": "89K"
             }
         ]
         

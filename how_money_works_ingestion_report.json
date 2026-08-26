@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-08-26T16:59:31.314227",
+  "channel": "How Money Works",
+  "channel_url": "https://www.youtube.com/@HowMoneyWorks",
+  "processing_summary": {
+    "total_videos_available": 10,
+    "videos_processed": 10,
+    "success_rate": 100.0,
+    "errors_encountered": 0
+  },
+  "content_created": {
+    "reading_pages": 10,
+    "entity_pages": 30,
+    "raw_sources": 10,
+    "findings_pages": 1
+  },
+  "quality_checks": {
+    "lint_passed": false,
+    "lint_errors": 7,
+    "lint_warnings": 1820,
+    "graph_built": true,
+    "catalog_generated": true,
+    "deployment_successful": true
+  },
+  "videos_processed": [
+    {
+      "url": "https://www.youtube.com/watch?v=6BOxK_JrghY",
+      "title": "Dude I'm Broke Why Is My Data Worth Harvesting?",
+      "segments": 572,
+      "entities": [
+        "wall-street",
+        "sam-altman",
+        "my-radar"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Sx-lddna-qg",
+      "title": "WTF Is Happening To The Video Game Industry?",
+      "segments": 233,
+      "entities": [
+        "works-media",
+        "warner-brothers",
+        "silicon-valley"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=THodtjsCTSI",
+      "title": "Is America Chasing Away All Of Its Smart People?",
+      "segments": 254,
+      "entities": [
+        "safe-place",
+        "wall-street",
+        "from-china",
+        "national-institute",
+        "science-foundation",
+        "american-institute",
+        "openai"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FVZDXz3Iibw",
+      "title": "How Much Of Our Economy Is Just Keeping Boomers Alive?",
+      "segments": 206,
+      "entities": [
+        "the-american",
+        "industries-right",
+        "open-secrets"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mUBBqAjVuco",
+      "title": "WTF Is Happening To The Car Market?",
+      "segments": 261,
+      "entities": [
+        "try-monarch",
+        "ferrari-magic",
+        "tesla-model"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pATAV2Fehw8",
+      "title": "Can We Afford For Everybody To Be Financially Responsible?",
+      "segments": 336,
+      "entities": [
+        "edward-jones",
+        "compounded-daily",
+        "trader-joe"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qmZmKZR8S5U",
+      "title": "How Long Can The Stock Market Ignore Reality?",
+      "segments": 522,
+      "entities": [
+        "john-hussman",
+        "only-nvidia",
+        "patrick-boyle"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OwuXF1AyKak",
+      "title": "SaltEMike Reacts - PREDATORY MONETIZATION OF GAMES",
+      "segments": 422,
+      "entities": [
+        "mission-impossible",
+        "pirate-bay",
+        "snow-white"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=g7sVsFGTeKE",
+      "title": "Why UPS Drivers Make 70,000 Per Year And You DON'T",
+      "segments": 150,
+      "entities": [
+        "american-market",
+        "robert-half",
+        "white-collar"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LcQl-paEdIQ",
+      "title": "SaltEMike Reacts - PREDATORY MONETIZATION OF GAMES",
+      "segments": 147,
+      "entities": []
+    }
+  ],
+  "environment": {
+    "transcript_api_key": "set",
+    "neural_nexus_path": "/home/hermes/Neural-Nexus/docs",
+    "neural_nexus_repo": "github.com/jdip1007/Neural-Nexus"
+  },
+  "workflow_completed": true,
+  "next_suggested": "Run daily at same time for continued content ingestion"
+}

@@ -29,9 +29,39 @@
       "processed_date": "2026-08-21T16:16:50.182990",
       "status": "completed",
       "url": "https://www.youtube.com/watch?v=OG91c7xsNMc"
+    },
+    "a1814b6419c40431ed1cdc5a4baf0f48": {
+      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "processed_date": "2026-08-26T17:48:32.429887",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38"
+    },
+    "7e7d5634052cf4425846e490bcf7f253": {
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "processed_date": "2026-08-26T17:48:32.748215",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=3c5f7WzQzY"
+    },
+    "2ea656d0a65023c961e46c836b2ab50e": {
+      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "processed_date": "2026-08-26T17:48:33.066668",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY"
+    },
+    "f0caae751df9da458e175f73905d9c36": {
+      "title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+      "processed_date": "2026-08-26T17:51:20.313654",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=4c5f7WzQzY"
+    },
+    "db86a0d82285d2e8e7097c38f2749d46": {
+      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "processed_date": "2026-08-26T17:51:20.629106",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY"
     }
   },
-  "last_updated": "2026-08-21T16:16:50.182996",
+  "last_updated": "2026-08-26T17:51:20.629115",
   "channel_name": "Dave's Garage",
   "channel_id": "davesgarage",
   "ingestion_history": [
@@ -63,6 +93,36 @@
       "video_title": "The Challenge: Can we build Notepad in 3K in assembly language?",
       "video_url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
       "processed_date": "2026-08-21T16:16:50.182995",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "video_url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
+      "processed_date": "2026-08-26T17:48:32.429895",
+      "status": "completed"
+    },
+    {
+      "video_title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "video_url": "https://www.youtube.com/watch?v=3c5f7WzQzY",
+      "processed_date": "2026-08-26T17:48:32.748221",
+      "status": "completed"
+    },
+    {
+      "video_title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "video_url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
+      "processed_date": "2026-08-26T17:48:33.066674",
+      "status": "completed"
+    },
+    {
+      "video_title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+      "video_url": "https://www.youtube.com/watch?v=4c5f7WzQzY",
+      "processed_date": "2026-08-26T17:51:20.313662",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "video_url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+      "processed_date": "2026-08-26T17:51:20.629113",
       "status": "completed"
     }
   ]
