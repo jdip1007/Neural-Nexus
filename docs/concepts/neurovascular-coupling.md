@@ -1,88 +1,188 @@
 ---
-title: Neurovascular Coupling
-created: 2026-07-29
-updated: 2026-07-29
+title: Neurovascular coupling
+created: 2026-08-25
+updated: 2026-08-25
 type: concept
-classification: biotechnology.neuroscience.brain-energy-dynamics
-domain: biotech
-tags: [neurovascular-coupling, brain-metabolism, cerebral-blood-flow]
-sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
+domain: biology
+tags: [blood-flow, brain, metabolism, neurovascular-unit, vascular]
+sources: []
 confidence: high
 status: active
-reviewed: 2026-07-29
+reviewed: 2026-08-25
 ---
 
-# Neurovascular Coupling
+# Neurovascular coupling
 
-## Definition
+[[Neurovascular-coupling]] (NVC), also known as functional hyperaemia, is the process by which active neurons signal to nearby blood vessels to increase local cerebral blood flow (CBF). This ensures that regions of the brain with high metabolic demand receive adequate supplies of oxygen and glucose to support their activity.
 
-Neurovascular coupling refers to the relationship between neuronal activity and cerebral blood flow changes. It is the mechanism by which local increases in neuronal activity trigger corresponding increases in blood flow to supply oxygen and glucose to active brain regions.
+## Mechanism
 
-## Core Mechanism
+### Signaling Pathway
 
-The coupling operates through several pathways:
+1. **Neuronal activation** releases neurotransmitters (glutamate, aspartate)
+2. **Postsynaptic depolarization** triggers metabolic demand
+3. **Vasoactive substances released** by neurons and astrocytes:
+   - Nitric oxide (NO)
+   - Prostaglandins
+   - Arachidonic acid metabolites
+   - Potassium ions (K+)
+4. **Vasodilation** of arterioles and capillaries increases local CBF
+5. **Enhanced delivery** of oxygen and glucose to active neurons
 
-1. **Neuronal signaling** — Neurons release vasoactive substances (e.g., nitric oxide, prostaglandins) that dilate nearby blood vessels
-2. **Astrocyte-mediated signaling** — Astrocytes receive neuronal signals (e.g., glutamate) and release vasoactive agents to modulate blood vessel diameter
-3. **Pericyte control** — Pericytes on capillaries can constrict or dilate in response to neuronal activity
-4. **Metabolic demand** — Increased neuronal firing increases Na⁺/K⁺-ATPase activity, raising ATP and oxygen demand
+### Key Cell Types
 
-## State-Dependent Coupling
+**Neurons:**
+- Initiate the signaling cascade through neurotransmitter release
+- Produce vasoactive substances that affect vessels
 
-Recent findings from Takahashi, Ikoma & Matsui (2026) reveal that neurovascular coupling is **state-dependent**:
+**Astrocytes:**
+- Form endfeet around blood vessels
+- Act as intermediaries between neurons and vasculature
+- Release vasoactive signals in response to neuronal activity
 
-### NREM Sleep
-- Theta-band (6–9 Hz) ECoG activity predicts subsequent BBV changes with ~4–5 s delay
-- The coupling can be modeled by a finite-impulse-response brain-blood-volume response function (FIR-BRF)
-- FIR-BRF peaks at 4–5 s, matching the observed cross-correlation lag
-- Suggests a **homeostatic feedforward mechanism** that adjusts energy delivery to match neuronal demand
+**Vascular cells:**
+- Endothelial cells respond to vasodilatory signals
+- Pericytes regulate capillary diameter
+- Smooth muscle cells control arteriole diameter
 
-### REM Sleep
-- BBV increases dramatically but the coupling to neuronal activity changes
-- BBV originates in the posterior cortex and propagates slowly anteriorly
-- The standard neurovascular coupling relationship breaks down — blood flow increases but neuronal ATP decreases
-- This is the core of the [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md)
+## Functions
 
-### Wakefulness
-- BBV fluctuations are less tightly coupled to theta-band activity than during NREM
-- Sensory stimuli can modulate blood flow through neurovascular coupling
+### Metabolic Support
+- Matches blood flow to neuronal metabolic demand
+- Ensures adequate oxygen delivery for oxidative phosphorylation
+- Supplies glucose for glycolysis and neurotransmitter synthesis
 
-## Hemodynamic Response Function
+### Waste Removal
+- Enhanced blood flow removes metabolic waste products:
+  - Carbon dioxide (CO2)
+  - Lactate
+  - Other metabolic byproducts
 
-The hemodynamic response function (HRF) models how neuronal activity translates to blood flow changes:
+### Activity Mapping
+- Basis for functional neuroimaging techniques:
+  - fMRI (BOLD signal reflects NVC)
+  - PET imaging of cerebral blood flow
+  - Allows mapping of brain activity patterns
 
-- **Canonical HRF**: Double-gamma function widely used in fMRI studies (Buxton et al., 2004)
-- **FIR-BRF**: Data-driven, individually optimized response function that captures the actual transformation from neuronal dynamics to blood volume changes
-- The FIR-BRF provides more flexible and accurate representation of neurovascular coupling than the canonical HRF
+## Regulation
 
-## Why It Matters
+### Temporal Dynamics
+- **Onset:** Rapid increase in CBF within 1-2 seconds of neuronal activation
+- **Duration:** Sustained as long as neuronal activity continues
+- **Return to baseline:** After activity ceases
 
-| Application | Relevance |
-|---|---|
-| **fMRI** | BOLD signal interpretation depends on understanding neurovascular coupling |
-| **Sleep research** | State-dependent coupling changes affect how brain activity is interpreted during sleep |
-| **Stroke** | Disrupted neurovascular coupling is a key feature of stroke pathology |
-| **Neurodegeneration** | Impaired coupling may contribute to cognitive decline in Alzheimer's disease |
-| **Brain-computer interfaces** | Understanding coupling enables better signal extraction from hemodynamic measurements |
+### Spatial Specificity
+- **Local:** Blood flow increases specifically in active regions
+- **Graded:** Response scales with level of neuronal activity
+- **Surround inhibition:** Reduced flow in immediately adjacent inactive regions
 
-## Common Misconceptions
+### Modulatory Factors
+- **Neurotransmitters:** Glutamate, GABA, acetylcholine modulate NVC
+- **Modulators:** Adenosine, serotonin, norepinephrine
+- **Metabolic state:** CO2, pH, lactate influence vascular tone
+- **Neural activity patterns:** Burst firing vs. tonic activity
 
-| Myth | Reality |
-|---|---|
-| Neurovascular coupling is the same across all brain states | Coupling reorganizes in a state-dependent manner (NREM vs REM vs wake) |
-| Increased blood flow always means increased neuronal energy | During REM, increased BBV coincides with decreased neuronal ATP |
-| The HRF is fixed and universal | The HRF varies across brain states and individuals |
+## Dysfunction in Obesity
 
-## Related
+### Impairment Mechanisms
 
-- [rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md) — The paradox that arises from altered neurovascular coupling during REM
-- [brain-blood-volume](concepts/brain-blood-volume.md) — The vascular component of neurovascular coupling
-- [brain-energy-metabolism](concepts/brain-energy-metabolism.md) — The metabolic component
-- [astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md) — Astrocyte-mediated energy delivery
-- [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md) — Source reading
+1. **Vascular stiffness:** Reduced vessel compliance impairs vasodilation
+2. **Endothelial dysfunction:** Impaired NO production and signaling
+3. **Pericyte loss:** Reduced capillary regulation capacity
+4. **Inflammation:** Cytokines disrupt vasoactive signaling
+5. **Insulin resistance:** Impaired metabolic signaling
 
-## Related Pages
+### Consequences
 
-- [[rem-sleep]]
-- [[nrem-sleep]]
-- [[theta-band-activity]]
+- **Energy deficits:** Active neurons receive insufficient oxygen/glucose
+- **Metabolic stress:** Accumulation of waste products
+- **Neuronal dysfunction:** Impaired neurotransmission and plasticity
+- **Cognitive decline:** Reduced performance on demanding tasks
+- **Neurodegeneration:** Progressive neuronal damage from chronic energy deficit
+
+### Relationship to Neurodegeneration
+
+Impaired NVC creates a vicious cycle:
+
+1. Metabolic overload → vascular dysfunction → impaired NVC
+2. Impaired NVC → neuronal energy deficit → neuronal dysfunction
+3. Neuronal dysfunction → impaired vascular signaling → worsened NVC
+4. Chronic energy deficit → progressive neuronal degeneration
+
+This cycle underlies the link between [[obesity]] and [[neurodegenerative-disease]].
+
+## Clinical Significance
+
+### Neuroimaging
+fMRI interpretation requires understanding of NVC:
+- BOLD signal reflects blood flow, not direct neuronal activity
+- NVC impairment can confound fMRI results
+- Age and disease states affect NVC dynamics
+
+### Vascular Cognitive Impairment
+- Chronic cerebral hypoperfusion contributes to cognitive decline
+- NVC impairment is an early marker of vascular dysfunction
+- Vascular risk factors (hypertension, diabetes) impair NVC
+
+### Stroke Recovery
+- NVC capacity affects post-stroke recovery
+- Rehabilitation can enhance NVC in peri-infarct regions
+- NVC modulation may improve outcomes
+
+### Therapeutic Approaches
+
+**Vascular protection:**
+- Blood pressure control
+- Lipid management
+- Anti-inflammatory interventions
+
+**NVC enhancement:**
+- Exercise training improves NVC capacity
+- Metabolic optimization (glucose control)
+- Neurovascular-targeted therapies (experimental)
+
+**Neuroprotection:**
+- Enhancing neuronal efficiency to reduce metabolic demand
+- Alternative energy substrate utilization
+- Reducing excitotoxic stress
+
+## Research Advances
+
+### High-Resolution Imaging
+- Two-photon microscopy allows visualization of NVC in vivo
+- Mapping of activity patterns at cellular resolution
+- Real-time observation of vessel responses
+
+### Molecular Mechanisms
+- Identification of specific vasoactive signaling pathways
+- Genetic models revealing cell-type-specific contributions
+- Pharmacological modulation of NVC
+
+### Clinical Translation
+- Development of NVC-based biomarkers
+- NVC assessment as early diagnostic tool
+- NVC-targeted therapies for cognitive decline
+
+## Related Concepts
+
+- [[neurovascular-unit]]: NVC is a key function of the NVU
+- [[blood-brain-barrier]]: BBB maintenance depends on NVC
+- [[glymphatic]]: Glymphatic function is enhanced by NVC
+- [[myelin]]: NVC supports adaptive myelination
+- [[metabolic-disorder]]: Metabolic overload impairs NVC
+- [[neurodegenerative-disease]]: NVC impairment contributes to neurodegeneration
+
+## Graph Impact
+
+This concept connects:
+- [[neuron]] to [[blood-flow]]
+- [[metabolic-demand]] to [[vascular-response]]
+- [[obesity]] to [[cognitive-decline]]
+- [[cerebral-blood-flow]] to [[neuronal-activity]]
+
+## Notes
+
+- NVC is rapid (seconds) and highly localized
+- Impairment is an early event in metabolic brain dysfunction
+- Therapeutic enhancement of NVC is an active research area
+- NVC dysfunction underlies multiple neurodegenerative pathways

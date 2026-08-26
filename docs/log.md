@@ -1,3 +1,36 @@
+## [2026-08-25] ingest | Obesity and Neurodegeneration (Nature Metabolism Paper)
+
+**Source:** Nature Metabolism, Volume 8, March 2026, pp. 546-558 (DOI: 10.1038/s42255-026-01477-0)
+
+**Authors:** Bandy Chen (UC San Diego), Amanda Rodríguez-Díaz (Yale), Marc Schneeberger (Yale), Eric Topol (Scripps Research)
+
+**Files Created:**
+1. **[Obesity and Neurodegeneration](readings/obesity-neurodegeneration.md)** (8,451 chars) - Comprehensive reading summary covering executive summary, key findings, convergent-cascade model, clinical implications, and therapeutic targets
+2. **[Neurovascular Unit](concepts/neurovascular-unit.md)** (5,333 chars) - Concept page on integrated brain system of neurons, glia, and vasculature
+3. **[Neurovascular Coupling](concepts/neurovascular-coupling.md)** (6,466 chars) - Concept page on activity-dependent blood flow regulation impaired in obesity
+4. **[Blood-Brain Barrier](concepts/blood-brain-barrier.md)** (7,552 chars) - Concept page on brain permeability barrier compromised by obesity-induced inflammation
+5. **[Glymphatic System](concepts/glymphatic.md)** (8,770 chars) - Concept page on sleep-dependent waste clearance system impaired in obesity
+6. **[Adaptive Myelination](concepts/adaptive-myelination.md)** (8,919 chars) - Concept page on activity-dependent myelin formation impaired by metabolic overload
+7. **[Raw Transcript](raw/transcripts/obesity_neurodegeneration_nature_metabolism_2026.txt)** (78,815 chars) - Full PDF text extraction
+8. **[Raw PDF](raw/sources/obesity_neurodegeneration_nature_metabolism_2026.pdf)** - Original source document
+
+**Key Topics Covered:**
+- Convergent-cascade model linking obesity to neurodegeneration
+- Neurovascular unit disruption as central pathway
+- Neurovascular coupling impairment and energy deficits
+- Blood-brain barrier breakdown and neurotoxic infiltration
+- Glymphatic system dysfunction and protein aggregation
+- Adaptive myelination impairment and conduction deficits
+- Visceral vs. subcutaneous fat differentiation
+- Temporal progression from metabolic overload to neurodegeneration
+- Therapeutic targets: vascular protection, anti-inflammatory, glymphatic enhancement
+
+**Tags Used:** obesity, neurodegeneration, neurovascular-unit, metabolism, blood-brain-barrier, glymphatic, inflammation, brain, vasculature, neurovascular-coupling, myelin, oligodendrocyte, plasticity, astrocyte, sleep, waste-clearance, adaptive-myelination
+
+**Graph Impact:** Created 6 new concept nodes with extensive wikilinks to related concepts (neuron, vascular, inflammation, metabolism, neurodegenerative-disease, etc.)
+
+**Integration:** All pages follow Neural-Nexus schema with proper frontmatter, wikilinks, source citations, and cross-references
+
 ## [2026-08-23] sync | HealthyGamerGG Content
 
 - **Source:** Hermes-Playground wiki

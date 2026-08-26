@@ -24,6 +24,14 @@ A personal knowledge base combining:
 
 ## Recent Additions
 
+### Biology: Obesity & Neurodegeneration
+- **[Obesity as a catalyst for neurodegeneration](readings/obesity-neurodegeneration.md)** - Nature Metabolism paper (2026) presenting unified framework linking visceral obesity to progressive neurodegeneration through disruption of the neurovascular unit
+- **[Neurovascular Unit](concepts/neurovascular-unit.md)** - Integrated brain system of neurons, glia, and vasculature that maintains homeostasis through coordinated communication; central pathway linking obesity to neurodegeneration
+- **[Neurovascular Coupling](concepts/neurovascular-coupling.md)** - Process by which active neurons signal blood vessels to increase cerebral blood flow; impaired in obesity, creating energy deficits that accelerate neurodegeneration
+- **[Blood-Brain Barrier](concepts/blood-brain-barrier.md)** - Specialized barrier regulating passage between blood and brain; compromised by obesity-induced inflammation, allowing neurotoxic infiltration
+- **[Glymphatic System](concepts/glymphatic.md)** - Brain waste clearance system dependent on sleep and astrocyte function; impaired in obesity, leading to accumulation of toxic proteins like amyloid-β
+- **[Adaptive Myelination](concepts/adaptive-myelination.md)** - Activity-dependent myelin formation optimizing neural transmission; impaired in obesity, reducing conduction velocity and cognitive efficiency
+
 ### Psychology & Autism
 - **[Pattern Seeking in Autism](concepts/pattern-seeking-in-autism.md)** - Simon Baron-Cohen's theory that pattern-seeking cognitive styles in autism have driven human invention and progress
 - **[Cognitive vs Affective Empathy](concepts/cognitive-vs-affective-empathy.md)** - Distinction between recognizing others' mental states (cognitive) and emotional response (affective) in autism
