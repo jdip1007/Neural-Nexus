@@ -31,6 +31,35 @@
 
 **Integration:** All pages follow Neural-Nexus schema with proper frontmatter, wikilinks, source citations, and cross-references
 
+## [2026-08-26] fix | Complete Obesity/Neurodegeneration Wiki Pages
+
+**Action:** Verification and completion of Obesity & Neurodegeneration (Nature Metabolism 2026) wiki pages
+
+**Issues Fixed:**
+
+1. **Created 5 missing concept pages:**
+   - `concepts/myelin.md` (8,077 chars) - Myelin structure, function, and obesity-related impairment
+   - `concepts/inflammation.md` (10,219 chars) - Inflammatory processes in metabolic and neurodegenerative disorders
+   - `concepts/hypothalamus.md` (8,780 chars) - Hypothalamic regulation of energy balance and obesity-induced inflammation
+   - `concepts/neurodegenerative-disease.md` (9,673 chars) - General neurodegeneration overview, protein aggregation, metabolic links
+   - `concepts/metabolic-disorder.md` (11,006 chars) - Obesity, diabetes, metabolic syndrome, and brain impacts
+
+2. **Fixed naming convention violations:**
+   - Changed `[[Alzheimer-disease]]` → `[[alzheimers-disease]]` in 3 files
+   - Changed `[[Parkinson-disease]]` → `[[parkinsons-disease]]` in 2 files
+   - Updated files: neurovascular-unit.md, glymphatic.md, blood-brain-barrier.md
+
+**Verification Results:**
+- ✅ Reading page: Accurate citation, proper source, correct content
+- ✅ All existing concept pages: Accurate and comprehensive
+- ✅ Raw source file: Exists (78KB), properly cited
+- ✅ Wikilinks: All broken links now resolved
+- ✅ Frontmatter: All pages have proper classification, domain, tags
+- ✅ Naming: All wikilinks now match SCHEMA.md taxonomy
+
+**Total Wiki Pages for This Ingest:** 11 pages (1 reading + 10 concepts)
+**Total Content:** ~95,000 characters
+
 ## [2026-08-23] sync | HealthyGamerGG Content
 
 - **Source:** Hermes-Playground wiki

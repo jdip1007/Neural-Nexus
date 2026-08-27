@@ -1,7 +1,7 @@
 ---
 title: Chef Jarrod
-created: 2026-08-26
-updated: 2026-08-26
+created: 2026-08-27
+updated: 2026-08-27
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, h1GtR8xJraw]
 sources: [raw/videos/youtube-h1GtR8xJraw-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-08-26
+reviewed: 2026-08-27
 ---
 
 # Chef Jarrod

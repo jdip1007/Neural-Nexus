@@ -78,8 +78,8 @@ The NVU is highly sensitive to metabolic disturbances:
 
 ### Neurodegenerative Diseases
 NVU dysfunction is implicated in:
-- [[Alzheimer-disease]]: BBB breakdown, reduced glymphatic clearance
-- [[Parkinson-disease]]: Vascular pathology, microglial activation
+- [[alzheimers-disease]]: BBB breakdown, reduced glymphatic clearance
+- [[parkinsons-disease]]: Vascular pathology, microglial activation
 - [[vascular-dementia]]: Impaired NVC, chronic cerebral hypoperfusion
 
 ### Metabolic Disorders

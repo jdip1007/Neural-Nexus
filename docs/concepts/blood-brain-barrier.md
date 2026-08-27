@@ -163,7 +163,7 @@ The [[blood-brain-barrier]] (BBB) is a specialized structural and functional bar
 ### Clinical Implications
 
 BBB breakdown is a early and progressive event in:
-- [[Alzheimer-disease]]: Amyloid-β accumulation, inflammation
+- [[alzheimers-disease]]: Amyloid-β accumulation, inflammation
 - [[vascular-dementia]]: Chronic hypoperfusion, vessel damage
 - [[multiple-sclerosis]]: Immune cell infiltration
 - Cognitive decline in diabetes and obesity

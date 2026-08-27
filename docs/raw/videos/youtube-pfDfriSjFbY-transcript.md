@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=pfDfriSjFbY
 source_type: video
-ingested: 2026-08-24
-published: 2026-08-24
+ingested: 2026-08-27
+published: 2026-08-27
 duration_minutes: 137
 language: en
 sha256: d0871e3e676f405e3a5b06059cc423cdc6c7ac4aa5b38c39971e954bdd8f5fc9

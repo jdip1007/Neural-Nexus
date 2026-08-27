@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=mUBBqAjVuco
 source_type: video
-ingested: 2026-08-26
-published: 2026-08-26
+ingested: 2026-08-27
+published: 2026-08-27
 duration_minutes: 22
 language: en
 sha256: db32a455a91fd9d8032b2466e78774b5fbb49adfe29d15d4784e03428fb731e2

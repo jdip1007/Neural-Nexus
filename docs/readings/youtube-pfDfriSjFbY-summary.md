@@ -1,17 +1,17 @@
 ---
 title: 1. Introduction (CMS.611J Creating Video Games) - Summary
-created: 2026-08-24
-updated: 2026-08-24
+created: 2026-08-27
+updated: 2026-08-27
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, pfDfriSjFbY]
 sources: [raw/videos/youtube-pfDfriSjFbY-transcript.md]
-published: 2026-08-24
+published: 2026-08-27
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-24
+reviewed: 2026-08-27
 ---
 
 # 1. Introduction (CMS.611J Creating Video Games) - Summary
@@ -39,13 +39,13 @@ that we'd really like them to enjoy being here
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Creative Commons, For Linux, Lincoln Lab
+- **Persons**: Deadly Premonition, New Climate, With Java
 - **Organizations**: Rockefeller Foundation
 
 ## Related Concepts
+- [[api]]
 - [[database]]
 - [[ai]]
-- [[api]]
 - [[llm]]
 
 ## Transcript Highlights

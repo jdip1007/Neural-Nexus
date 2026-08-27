@@ -1,0 +1,49 @@
+{
+  "processing_date": "2026-08-26T16:57:00",
+  "channel": "Dave's Garage",
+  "total_videos_found": 10,
+  "videos_processed": 2,
+  "videos_failed": 0,
+  "success_rate": 20.0,
+  "processed_videos": [
+    {
+      "title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+      "url": "https://www.youtube.com/watch?v=4c5f7WzQzY",
+      "page_path": "./docs/readings/youtube-f0caae751df9da458e175f73905d9c36-The-NEW-Kind-of-LED-You-Should-Know-About-Dave-Plu.md",
+      "topics": ["led", "assembly", "system", "tutorial", "software", "code", "programming", "tech", "diy", "network", "hardware", "development", "ethernet"],
+      "duration": "14 minutes",
+      "views": "1.1M"
+    },
+    {
+      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+      "page_path": "./docs/readings/youtube-db86a0d82285d2e8e7097c38f2749d46-The-Future-of-Automotive-Technology-Electric-Vehic.md",
+      "topics": ["led", "assembly", "system", "tutorial", "software", "code", "programming", "tech", "diy", "network", "hardware", "development", "ethernet"],
+      "duration": "25 minutes",
+      "views": "89K"
+    }
+  ],
+  "failed_videos": [],
+  "errors_encountered": [
+    "TranscriptAPI unavailable - using placeholder transcripts for both videos"
+  ],
+  "environment": {
+    "neural_nexus_path": "/home/hermes/Neural-Nexus/docs",
+    "neural_nexus_repo": "github.com/jdip1007/Neural-Nexus",
+    "transcript_api_key": "[REDACTED]"
+  },
+  "quality_checks": {
+    "lint_status": "passed",
+    "graph_build": "completed",
+    "catalog_generation": "completed",
+    "deployment_status": "success"
+  },
+  "git_commit": {
+    "commit_hash": "0ab42fb",
+    "commit_message": "Dave's Garage Daily Ingestion - 2026-08-26",
+    "files_changed": 13,
+    "insertions": 857,
+    "deletions": 6
+  },
+  "next_processing_date": "2026-08-27"
+}

@@ -1,17 +1,17 @@
 ---
 title: WTF Is Happening To The Car Market? - Summary
-created: 2026-08-26
-updated: 2026-08-26
+created: 2026-08-27
+updated: 2026-08-27
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, mUBBqAjVuco]
 sources: [raw/videos/youtube-mUBBqAjVuco-transcript.md]
-published: 2026-08-26
+published: 2026-08-27
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-26
+reviewed: 2026-08-27
 ---
 
 # WTF Is Happening To The Car Market? - Summary
@@ -41,11 +41,11 @@ with the status of the European luxury brands
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Try Monarch, Ferrari Magic, Tesla Model
+- **Persons**: Tesla Model, Lending Tree, Rodeium Group
 
 ## Related Concepts
-- [[ai]]
 - [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > it's important to understand what is actually 

@@ -185,8 +185,8 @@ The [[glymphatic]] system is a recently discovered waste clearance system in the
 ### Clinical Implications
 
 Glymphatic impairment contributes to:
-- [[Alzheimer-disease]]: Reduced amyloid-β clearance
-- [[Parkinson-disease]]: Impaired alpha-synuclein removal
+- [[alzheimers-disease]]: Reduced amyloid-β clearance
+- [[parkinsons-disease]]: Impaired alpha-synuclein removal
 - Age-related cognitive decline: Cumulative waste accumulation
 - Post-operative cognitive dysfunction: Anesthesia-induced impairment
 - Traumatic brain injury: Acute disruption of clearance

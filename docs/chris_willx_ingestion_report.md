@@ -1,30 +1,28 @@
 
 # Chris Willx YouTube Ingestion Report
 
-**Generated**: 2026-08-26 11:05:55
+**Generated**: 2026-08-27 11:27:59
 
 ## Summary
-- **Total videos processed**: 5
-- **Successfully processed**: 5
+- **Total videos processed**: 3
+- **Successfully processed**: 3
 - **Failed to process**: 0
 - **Success rate**: 100.0%
 
 ## Processed Videos
-- youtube-dummy_real3-25-Years-Later-We-Were-Wrong-About-The-War.md
-- youtube-dummy_real6-Jocko-Willink-Matt-McCusker-Jeff-Dye-Mostly-Wise-3.md
-- youtube-dummy_real5-81-Of-Women-Said-Yes-Only-58-Of-Men-Did.md
-- youtube-dummy_real4-Why-Violence-Is-Safer-Than-Vulnerability-Johnny-Ch.md
-- youtube-dummy_real2-Age-Reversal-Is-Coming-Everything-You-Need-To-Know.md
+- youtube-dummy_real1-We-Studied-The-Sexual-Preferences-Of-High-Income-W.md
+- youtube-dummy_real7-After-3-Days-I-Start-To-Feel-Amazing-Dr-David-Sinc.md
+- youtube-dummy_real8-I-Have-A-Problem-With-Love-On-The-Spectrum-Jeff-Dy.md
 
 ## Statistics
 - **Channel**: Chris Willx (@ChrisWillx)
 - **Total channel videos**: 8
-- **Already processed**: 21
-- **Unprocessed remaining**: -13
+- **Already processed**: 27
+- **Unprocessed remaining**: -19
 
 ## Recent Activity
-- "Age Reversal Is Coming." Everything You Need To Know - Dr David Sinclair
-- "Why Violence Is Safer Than Vulnerability - Johnny Chang"
-- "81% Of Women Said Yes. Only 58% Of Men Did."
-- "Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3"
-- "25 Years Later: "We Were Wrong About The War"
+- "I Have A Problem With Love On The Spectrum" - Jeff Dye
+- "After 3 Days... I Start To Feel Amazing" - Dr David Sinclair
+- "We Studied The Sexual Preferences Of High Income Women"
+- Most Viewed The Infographics Show Videos (Compilation)
+- Most Insane The Infographics Show Videos of All Time (Compilation)
