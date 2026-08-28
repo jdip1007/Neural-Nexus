@@ -1,20 +1,20 @@
 ---
 source_url: https://www.youtube.com/watch?v=xAcTmDO6NTI
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
+ingested: 2026-08-28
+published: 2026-08-28
 duration_minutes: 63
 language: en
 sha256: 27266cd2c28185b4d9535bf60912a404c0e2aa2243e95a08f7b1566780323fe2
 time_sensitive: True
 ---
 
-# YouTube Transcript: Video xAcTmDO6NTI
+# YouTube Transcript: Lecture 1: Introduction to CS and Programming Using Python
 
 ## Video Information
-- **Title**: Video xAcTmDO6NTI
+- **Title**: Lecture 1: Introduction to CS and Programming Using Python
 - **Video ID**: xAcTmDO6NTI
-- **Published**: 2026-08-21
+- **Published**: Unknown
 - **Views**: Unknown
 - **Language**: en
 

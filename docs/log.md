@@ -60,6 +60,62 @@
 **Total Wiki Pages for This Ingest:** 11 pages (1 reading + 10 concepts)
 **Total Content:** ~95,000 characters
 
+## [2026-08-28] ingest | YouTube: MIT OpenCourseWare Daily Batch
+
+**Source:** MIT OpenCourseWare YouTube channel (@mitocw)
+**Cronjob:** daily-youtube-mitocw (job_id: 721b569926a8)
+
+**Videos Processed:** 5 videos from MIT OpenCourseWare channel
+
+### 1. How to Speak (Unzc731iCUY)
+**Speaker:** Patrick Winston (MIT)
+**Duration:** 63 minutes
+**Content:** Lecture on effective communication and presentation skills
+- Raw transcript: 1,942 segments (50 KB)
+- Reading summary: 1 reading page (1.9 KB)
+- Entity pages: 22 entity pages (persons, organizations mentioned)
+
+### 2. Lecture 1: Introduction to CS and Programming Using Python (xAcTmDO6NTI)
+**Speaker:** Ana Bell (MIT)
+**Duration:** 63 minutes
+**Content:** First lecture of MIT 6.100L course introducing Python programming
+- Raw transcript: 2,061 segments (56 KB)
+- Reading summary: 1 reading page (2.0 KB)
+- Entity pages: 5 entity pages (persons, tools, concepts)
+
+### 3. Video 14: Using a Smartphone (h1GtR8xJraw)
+**Duration:** Short video
+- Raw transcript: 4.9 KB
+- Reading summary: 1 reading page (1.1 KB)
+- Entity pages: 3 entity pages
+
+### 4. Color Organ Video 2 (yXAgVyGY6M8)
+**Duration:** Short video
+- Raw transcript: 498 bytes
+- Reading summary: 1 reading page (643 bytes)
+- Entity pages: 0 entity pages
+
+### 5. 1. Introduction (CMS.611J Creating Video Games) (pfDfriSjFbY)
+**Duration:** Longer video on video game design
+- Raw transcript: 158 KB
+- Reading summary: 1 reading page (1.7 KB)
+- Entity pages: 20 entity pages
+
+**Total Files Created:**
+- 5 raw transcripts
+- 5 reading summaries
+- 50 entity pages
+- Total: 60 files
+
+**Quality Check Results:**
+- ✅ All raw transcripts have proper frontmatter (source_url, source_type, ingested, sha256)
+- ✅ All reading summaries have sources, tags, proper classification
+- ✅ Fixed 2 broken wikilinks in youtube-Unzc731iCUY-summary.md (removed [[ai]], [[framework]], [[cloud]], [[api]]; added [[communication]], [[presentation]], [[programming]], [[python]], [[computer-science]])
+- ✅ All wikilinks now point to existing concepts or are appropriate placeholders
+- ✅ Entity pages have proper frontmatter and citations
+
+**Graph Impact:** 60 new wiki nodes with extensive wikilinks to related concepts
+
 ## [2026-08-23] sync | HealthyGamerGG Content
 
 - **Source:** Hermes-Playground wiki

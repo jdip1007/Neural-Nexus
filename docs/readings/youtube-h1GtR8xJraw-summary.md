@@ -1,17 +1,17 @@
 ---
 title: Video 14: Using a Smartphone - Summary
-created: 2026-08-27
-updated: 2026-08-27
+created: 2026-08-28
+updated: 2026-08-28
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, h1GtR8xJraw]
 sources: [raw/videos/youtube-h1GtR8xJraw-transcript.md]
-published: 2026-08-27
+published: 2026-08-28
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-27
+reviewed: 2026-08-28
 ---
 
 # Video 14: Using a Smartphone - Summary
@@ -30,7 +30,7 @@ work, of the equipment
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: New York, Chef Jarrod, Per Se
+- **Persons**: Chef Jarrod, Per Se, New York
 
 ## Related Concepts
 - [[ai]]
