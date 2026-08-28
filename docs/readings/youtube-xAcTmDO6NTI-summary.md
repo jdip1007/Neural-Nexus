@@ -45,9 +45,7 @@ that the type of the object is actually really important
 
 ## Related Concepts
 - [[algorithm]]
-- [[programming]]
-- [[python]]
-- [[computer-science]]
+- [[ai]]
 
 ## Transcript Highlights
 > to actually do some coding. And that's important-- I call them "you try it" breaks. That's important to make

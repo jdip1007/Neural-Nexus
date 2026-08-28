@@ -44,9 +44,7 @@ that we'd really like them to enjoy being here
 
 ## Related Concepts
 - [[ai]]
-- [[api]]
-- [[database]]
-- [[llm]]
+- [[algorithm]]
 
 ## Transcript Highlights
 > But important team meetings,

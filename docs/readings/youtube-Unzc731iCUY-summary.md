@@ -45,10 +45,8 @@ it's important to talk about your research in context
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- [[artificial-intelligence]]
+- [[ai]]
 - [[algorithm]]
-- [[communication]]
-- [[presentation]]
 
 ## Transcript Highlights
 > about the place? And the most important
