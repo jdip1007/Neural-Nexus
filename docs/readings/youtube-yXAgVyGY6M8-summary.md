@@ -23,6 +23,9 @@ This video discusses Color Organ Video 2
 
 ## Entities Mentioned
 
+## Related Concepts
+- [[algorithm]]
+
 ## Transcript Highlights
 
 ## Takeaways
