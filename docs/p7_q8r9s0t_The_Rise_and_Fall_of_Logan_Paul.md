@@ -1,18 +1,13 @@
 ---
 title: The Rise and Fall of Logan Paul
-created: 2026-08-19T16:01:44
-updated: 2026-08-19T16:01:44
+created: 2026-08-28T18:55:19
+updated: 2026-08-28T18:55:19
 type: video
-classification: hermes.internet-culture.youtube-creator
-domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "content-creation", "internet-culture", "mental-health", "marketing"]
+tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "internet-culture", "mental-health"]
 sources: ["https://www.youtube.com/watch?v=p7_q8r9s0t"]
 video_id: p7_q8r9s0t
 duration: 15-25 minutes
 channel: Internet Anarchist
-confidence: high
-status: active
-reviewed: 2026-08-19
 ---
 
 # The Rise and Fall of Logan Paul
@@ -23,32 +18,23 @@ reviewed: 2026-08-19
 
 ## Overview
 
-This video explores content-creation, internet-culture, mental-health, marketing through the lens of internet culture and digital media. Key themes include culture, technology, psychology, marketing.
+This video explores content-creation, internet-culture, mental-health through the lens of internet culture and digital media. Key themes include culture, technology.
 
 ## Key Topics
 
 - [[Content Creation]]
 - [[Internet Culture]]
 - [[Mental Health]]
-- [[Marketing]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
+The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment.
 
 ## Related Concepts
 
 - [[Digital Media]]
 - [[Digital Society]]
 - [[Wellness]]
-- [[Business]]
-
-## Key Themes
-
-- [[Culture]]
-- [[Technology]]
-- [[Psychology]]
-- [[Marketing]]
 
 ## External Links
 
@@ -60,5 +46,3 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 - [[YouTube]]
 - [[Internet Culture]]
 - [[Digital Media]]
-- [[Content Creation]]
-- [[Internet Anarchist]]

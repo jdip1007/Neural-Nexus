@@ -1,27 +1,32 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-08-19 16:45:36
+Generated: 2026-08-28 19:40:56
 
 === Statistics ===
 Total videos in channel: 5
-Already processed: 20
-New videos processed: 2
-Unprocessed remaining: -15
+Already processed: 19
+New videos processed: 3
+Unprocessed remaining: -14
 
 === Processed Videos ===
 - Why Marines aren't just a different kind of 'soldier' || The Infographics Show react
   ID: uzg-tGiK_y8
   URL: https://www.youtube.com/watch?v=uzg-tGiK_y8
-  Processed: 2026-08-19 16:45:36
+  Processed: 2026-08-28 19:40:56
 
-- The Horror of the Zodiac Killer || The Infographics Show
-  ID: D4nPxik59oE
-  URL: https://www.youtube.com/watch?v=D4nPxik59oE
-  Processed: 2026-08-19 16:45:36
+- Most Viewed The Infographics Show Videos (Compilation)
+  ID: 8zUhBnpVgdE
+  URL: https://www.youtube.com/watch?v=8zUhBnpVgdE
+  Processed: 2026-08-28 19:40:56
+
+- Why Your Brain Can't Handle Modern Life || The Infographics Show
+  ID: k0ksj42YJaM
+  URL: https://www.youtube.com/watch?v=k0ksj42YJaM
+  Processed: 2026-08-28 19:40:56
 
 === Recent Activity ===
-- The Horror of the Zodiac Killer || The Infographics Show (2026-08-19 16:45:35)
-- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react (2026-08-19 16:45:34)
-- MrBeast: Behind the Scenes (2026-08-19 16:01:52)
-- PewDiePie's Journey (2026-08-19 16:01:50)
-- Viral Marketing Strategies That Work (2026-08-19 16:01:48)
+- Why Your Brain Can't Handle Modern Life || The Infographics Show (Unknown time)
+- Most Viewed The Infographics Show Videos (Compilation) (Unknown time)
+- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react (Unknown time)
+- Test Video (Unknown time)
+- Task Manager Is Lying About Your CPU Usage - Here's the Truth (Unknown time)

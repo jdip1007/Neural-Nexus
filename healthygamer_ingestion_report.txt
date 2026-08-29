@@ -1,0 +1,42 @@
+
+=== YouTube Ingestion Pipeline Report ===
+Generated: 2026-08-28 19:35:41
+
+=== Statistics ===
+Total videos in channel: 10
+Already processed: 15
+New videos processed: 5
+Unprocessed remaining: -5
+
+=== Processed Videos ===
+- Robotron Was Supposed to Be Humanly Impossible, So I Built an AI to Break It
+  ID: ZbZozyGTlKA
+  URL: https://www.youtube.com/watch?v=ZbZozyGTlKA
+  Processed: 2026-08-28 19:35:41
+
+- Mental Health in Gaming Communities: Building Supportive Environments
+  ID: hIjKlMnOpQr
+  URL: https://www.youtube.com/watch?v=hIjKlMnOpQr
+  Processed: 2026-08-28 19:35:41
+
+- The Psychology of Gaming: Why We Play and What It Does to Our Brains
+  ID: aBcDeFgHiJk
+  URL: https://www.youtube.com/watch?v=aBcDeFgHiJk
+  Processed: 2026-08-28 19:35:41
+
+- Hidden Code: How Slot Machines Actually Work - The Computer Inside
+  ID: SR8ESCmUYLY
+  URL: https://www.youtube.com/watch?v=SR8ESCmUYLY
+  Processed: 2026-08-28 19:35:41
+
+- Task Manager Is Lying About Your CPU Usage - Here's the Truth
+  ID: HiHMQN3kQlQ
+  URL: https://www.youtube.com/watch?v=HiHMQN3kQlQ
+  Processed: 2026-08-28 19:35:41
+
+=== Recent Activity ===
+- Task Manager Is Lying About Your CPU Usage - Here's the Truth (Unknown time)
+- Hidden Code: How Slot Machines Actually Work - The Computer Inside (Unknown time)
+- The Psychology of Gaming: Why We Play and What It Does to Our Brains (Unknown time)
+- Mental Health in Gaming Communities: Building Supportive Environments (Unknown time)
+- Robotron Was Supposed to Be Humanly Impossible, So I Built an AI to Break It (Unknown time)

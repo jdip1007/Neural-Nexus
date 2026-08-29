@@ -75,6 +75,24 @@ class VideoTracker:
             return True
         return False
     
+    def mark_processed(self, video_id: str, video_title: str, video_url: str):
+        """Mark a video as processed (alias for add_processed_video)."""
+        return self.add_processed_video(video_id, video_title, video_url)
+    
+    def get_recently_processed(self, limit: int = 5) -> List[Dict]:
+        """Get recently processed videos."""
+        videos_list = []
+        for video_id, video_data in self.processed_videos.get("processed_videos", {}).items():
+            video_data["video_id"] = video_id
+            videos_list.append(video_data)
+        
+        sorted_videos = sorted(
+            videos_list,
+            key=lambda x: x.get("processed_date", ""),
+            reverse=True
+        )
+        return sorted_videos[:limit]
+    
     def is_video_processed(self, video_id: str) -> bool:
         """Check if a video has already been processed."""
         return video_id in self.processed_videos.get("processed_videos", {})
@@ -149,7 +167,14 @@ Unprocessed remaining: {len(processed_videos) - tracker.get_processed_count()}
     report += f"=== Recent Activity ===\n"
     recent = tracker.get_recent_videos(5)
     for video in recent:
-        processed_time = datetime.fromisoformat(video.get("processed_at", "")).strftime('%Y-%m-%d %H:%M:%S')
+        processed_at = video.get("processed_at", "")
+        if processed_at:
+            try:
+                processed_time = datetime.fromisoformat(processed_at).strftime('%Y-%m-%d %H:%M:%S')
+            except ValueError:
+                processed_time = "Unknown time"
+        else:
+            processed_time = "Unknown time"
         report += f"- {video['title']} ({processed_time})\n"
     
     return report

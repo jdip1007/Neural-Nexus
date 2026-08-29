@@ -1,42 +1,42 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-08-18 15:38:48
+Generated: 2026-08-28 18:56:07
 
 === Statistics ===
 Total videos in channel: 10
-Already processed: 23
+Already processed: 10
 New videos processed: 5
-Unprocessed remaining: -13
+Unprocessed remaining: 0
 
 === Processed Videos ===
-- MrBeast: Behind the Scenes
-  ID: q8_r9s0t1u
-  URL: https://www.youtube.com/watch?v=q8_r9s0t1u
-  Processed: 2026-08-18 15:38:48
-
 - JiDion's Past Is Catching Up To Him
   ID: m5_n7p8q9r
   URL: https://www.youtube.com/watch?v=m5_n7p8q9r
-  Processed: 2026-08-18 15:38:48
+  Processed: 2026-08-28 18:56:07
+
+- The Evolution of YouTube Gaming
+  ID: t0_u1v2w3x
+  URL: https://www.youtube.com/watch?v=t0_u1v2w3x
+  Processed: 2026-08-28 18:56:07
+
+- Content Creator Burnout and Mental Health
+  ID: u1_v2w3x4y
+  URL: https://www.youtube.com/watch?v=u1_v2w3x4y
+  Processed: 2026-08-28 18:56:07
 
 - The Algorithm: How YouTube Recommends Content
   ID: v2_w3x4y5z
   URL: https://www.youtube.com/watch?v=v2_w3x4y5z
-  Processed: 2026-08-18 15:38:48
+  Processed: 2026-08-28 18:56:07
 
-- PewDiePie's Journey
-  ID: s9_t0u1v2w
-  URL: https://www.youtube.com/watch?v=s9_t0u1v2w
-  Processed: 2026-08-18 15:38:48
-
-- How Penguinz0 Destroyed YouTube's Worst Content Thief
-  ID: n6_o7p8q9s
-  URL: https://www.youtube.com/watch?v=n6_o7p8q9s
-  Processed: 2026-08-18 15:38:48
+- The Dark Side of Influencer Culture
+  ID: x4y5z6a7b
+  URL: https://www.youtube.com/watch?v=x4y5z6a7b
+  Processed: 2026-08-28 18:56:07
 
 === Recent Activity ===
-- How Penguinz0 Destroyed YouTube's Worst Content Thief (2026-08-18 15:38:46)
-- PewDiePie's Journey (2026-08-18 15:38:44)
-- The Algorithm: How YouTube Recommends Content (2026-08-18 15:38:42)
-- JiDion's Past Is Catching Up To Him (2026-08-18 15:38:40)
-- MrBeast: Behind the Scenes (2026-08-18 15:38:38)
+- The Dark Side of Influencer Culture (Unknown time)
+- The Algorithm: How YouTube Recommends Content (Unknown time)
+- Content Creator Burnout and Mental Health (Unknown time)
+- The Evolution of YouTube Gaming (Unknown time)
+- JiDion's Past Is Catching Up To Him (Unknown time)

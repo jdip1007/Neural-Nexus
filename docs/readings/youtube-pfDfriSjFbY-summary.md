@@ -1,17 +1,17 @@
 ---
 title: 1. Introduction (CMS.611J Creating Video Games) - Summary
-created: 2026-08-28
-updated: 2026-08-28
+created: 2026-08-29
+updated: 2026-08-29
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, pfDfriSjFbY]
 sources: [raw/videos/youtube-pfDfriSjFbY-transcript.md]
-published: 2026-08-28
+published: 2026-08-29
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-28
+reviewed: 2026-08-29
 ---
 
 # 1. Introduction (CMS.611J Creating Video Games) - Summary
@@ -39,12 +39,14 @@ that we'd really like them to enjoy being here
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Online Battle, Comparative Media, Boston Festival
+- **Persons**: Thanks Rick, Flash Builder, For Linux
 - **Organizations**: Rockefeller Foundation
 
 ## Related Concepts
+- [[llm]]
+- [[api]]
 - [[ai]]
-- [[algorithm]]
+- [[database]]
 
 ## Transcript Highlights
 > But important team meetings,

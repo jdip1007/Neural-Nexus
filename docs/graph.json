@@ -1,6 +1,18 @@
 {
   "nodes": [
     {
+      "id": "ZbZozyGTlKA_Robotron_Was_Supposed_to_Be_Humanly_Impossible,_So_I_Built_an_AI_to_Break_It",
+      "title": "Robotron Was Supposed to Be Humanly Impossible, So I Built an AI to Break It",
+      "file": "/home/hermes/Neural-Nexus/docs/ZbZozyGTlKA_Robotron_Was_Supposed_to_Be_Humanly_Impossible,_So_I_Built_an_AI_to_Break_It.md",
+      "tags": [
+        "youtube",
+        "gaming",
+        "mental-health",
+        "gaming"
+      ],
+      "type": "page"
+    },
+    {
       "id": "WTF-Is-Happening-To-The-Video-Game-Industry",
       "title": "WTF-Is-Happening-To-The-Video-Game-Industry",
       "file": "/home/hermes/Neural-Nexus/docs/WTF-Is-Happening-To-The-Video-Game-Industry.md",
@@ -68,11 +80,9 @@
         "youtube",
         "youtube-creator",
         "educational-content",
-        "internet-anarchist",
         "content-creation",
         "internet-culture",
-        "mental-health",
-        "marketing"
+        "mental-health"
       ],
       "type": "page"
     },
@@ -125,6 +135,20 @@
       "type": "page"
     },
     {
+      "id": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "title": "Content Creator Burnout and Mental Health",
+      "file": "/home/hermes/Neural-Nexus/docs/u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "content-creation",
+        "internet-culture",
+        "mental-health"
+      ],
+      "type": "page"
+    },
+    {
       "id": "Finance-Overview",
       "title": "Finance Overview",
       "file": "/home/hermes/Neural-Nexus/docs/Finance-Overview.md",
@@ -134,6 +158,34 @@
         "money",
         "investing",
         "markets"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "title": "The Psychology of Gaming: Why We Play and What It Does to Our Brains",
+      "file": "/home/hermes/Neural-Nexus/docs/aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains.md",
+      "tags": [
+        "youtube",
+        "gaming",
+        "mental-health",
+        "gaming",
+        "mental-health",
+        "addiction",
+        "community"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "title": "The Evolution of YouTube Gaming",
+      "file": "/home/hermes/Neural-Nexus/docs/t0_u1v2w3x_The_Evolution_of_YouTube_Gaming.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "content-creation",
+        "internet-culture"
       ],
       "type": "page"
     },
@@ -152,6 +204,13 @@
       "type": "page"
     },
     {
+      "id": "how-money-works-dude-im-broke-why-is-my-data-worth-harvesting",
+      "title": "how-money-works-dude-im-broke-why-is-my-data-worth-harvesting",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-dude-im-broke-why-is-my-data-worth-harvesting.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "n6_o7p8q9s_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
       "title": "How Penguinz0 Destroyed YouTube's Worst Content Thief",
       "file": "/home/hermes/Neural-Nexus/docs/n6_o7p8q9s_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief.md",
@@ -159,7 +218,6 @@
         "youtube",
         "youtube-creator",
         "educational-content",
-        "internet-anarchist",
         "content-creation"
       ],
       "type": "page"
@@ -216,8 +274,7 @@
         "youtube-creator",
         "educational-content",
         "content-creation",
-        "internet-culture",
-        "marketing"
+        "internet-culture"
       ],
       "type": "page"
     },
@@ -229,10 +286,8 @@
         "youtube",
         "youtube-creator",
         "educational-content",
-        "internet-anarchist",
         "content-creation",
-        "internet-culture",
-        "gaming"
+        "internet-culture"
       ],
       "type": "page"
     },
@@ -602,11 +657,16 @@
         "youtube",
         "youtube-creator",
         "educational-content",
-        "internet-anarchist",
         "content-creation",
-        "business-strategy",
-        "marketing"
+        "business-strategy"
       ],
+      "type": "page"
+    },
+    {
+      "id": "internet-culture",
+      "title": "Internet Culture",
+      "file": "/home/hermes/Neural-Nexus/docs/internet-culture.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -712,6 +772,13 @@
       "type": "page"
     },
     {
+      "id": "youtube-creator",
+      "title": "YouTube Creator",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-creator.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-N3tMxNJnBJ0-HealthyGamerGG_Video_12__Understanding_Mental_Heal",
       "title": "HealthyGamerGG Video 12: Understanding Mental Health in Gaming",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-N3tMxNJnBJ0-HealthyGamerGG_Video_12__Understanding_Mental_Heal.md",
@@ -733,6 +800,19 @@
       "type": "page"
     },
     {
+      "id": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "file": "/home/hermes/Neural-Nexus/docs/SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside.md",
+      "tags": [
+        "youtube",
+        "gaming",
+        "mental-health",
+        "gaming",
+        "technology"
+      ],
+      "type": "page"
+    },
+    {
       "id": "81_of_women_said_yes_only_58_of_men_did",
       "title": "81% Of Women Said Yes. Only 58% Of Men Did.",
       "file": "/home/hermes/Neural-Nexus/docs/81_of_women_said_yes_only_58_of_men_did.md",
@@ -749,6 +829,19 @@
         "automotive",
         "vehicle",
         "technology"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "hIjKlMnOpQr_Mental_Health_in_Gaming_Communities_Building_Supportive_Environments",
+      "title": "Mental Health in Gaming Communities: Building Supportive Environments",
+      "file": "/home/hermes/Neural-Nexus/docs/hIjKlMnOpQr_Mental_Health_in_Gaming_Communities_Building_Supportive_Environments.md",
+      "tags": [
+        "youtube",
+        "gaming",
+        "mental-health",
+        "gaming",
+        "mental-health"
       ],
       "type": "page"
     },
@@ -850,9 +943,8 @@
         "youtube",
         "youtube-creator",
         "educational-content",
-        "internet-anarchist",
         "content-creation",
-        "marketing"
+        "mental-health"
       ],
       "type": "page"
     },
@@ -932,6 +1024,13 @@
       "id": "youtube-healthy-gamer-stop-overcorrecting-your-attachment-style-viewer-interview",
       "title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-stop-overcorrecting-your-attachment-style-viewer-interview.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "social-media",
+      "title": "Social Media",
+      "file": "/home/hermes/Neural-Nexus/docs/social-media.md",
       "tags": [],
       "type": "page"
     },
@@ -1041,6 +1140,18 @@
       "type": "page"
     },
     {
+      "id": "HiHMQN3kQlQ_Task_Manager_Is_Lying_About_Your_CPU_Usage_-_Here's_the_Truth",
+      "title": "Task Manager Is Lying About Your CPU Usage - Here's the Truth",
+      "file": "/home/hermes/Neural-Nexus/docs/HiHMQN3kQlQ_Task_Manager_Is_Lying_About_Your_CPU_Usage_-_Here's_the_Truth.md",
+      "tags": [
+        "youtube",
+        "gaming",
+        "mental-health",
+        "general-content"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-healthy-gamer-how-to-actually-have-an-elite-mindset",
       "title": "How To Actually Have An Elite Mindset",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-how-to-actually-have-an-elite-mindset.md",
@@ -1137,6 +1248,20 @@
       "type": "page"
     },
     {
+      "id": "x4y5z6a7b_The_Dark_Side_of_Influencer_Culture",
+      "title": "The Dark Side of Influencer Culture",
+      "file": "/home/hermes/Neural-Nexus/docs/x4y5z6a7b_The_Dark_Side_of_Influencer_Culture.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "content-creation",
+        "internet-culture",
+        "mental-health"
+      ],
+      "type": "page"
+    },
+    {
       "id": "what-everyone-gets-wrong-about-adhd",
       "title": "What Everyone Gets Wrong About ADHD",
       "file": "/home/hermes/Neural-Nexus/docs/what-everyone-gets-wrong-about-adhd.md",
@@ -1150,6 +1275,21 @@
     }
   ],
   "edges": [
+    {
+      "source": "ZbZozyGTlKA_Robotron_Was_Supposed_to_Be_Humanly_Impossible,_So_I_Built_an_AI_to_Break_It",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "ZbZozyGTlKA_Robotron_Was_Supposed_to_Be_Humanly_Impossible,_So_I_Built_an_AI_to_Break_It",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "ZbZozyGTlKA_Robotron_Was_Supposed_to_Be_Humanly_Impossible,_So_I_Built_an_AI_to_Break_It",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
     {
       "source": "WTF-Is-Happening-To-The-Video-Game-Industry",
       "target": "Finance-Overview",
@@ -1172,7 +1312,12 @@
     },
     {
       "source": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1182,22 +1327,17 @@
     },
     {
       "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
     {
       "source": "youtube-xHkcIRZa6lo-the-lie-of-positive-thinking",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-xHkcIRZa6lo-the-lie-of-positive-thinking",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1206,7 +1346,42 @@
       "type": "wikilink"
     },
     {
+      "source": "internet-anarchist-db08456b1e85-the-deserved-downfall-of-yo-mama",
+      "target": "internet-culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-db08456b1e85-the-deserved-downfall-of-yo-mama",
+      "target": "youtube-creator",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-db08456b1e85-the-deserved-downfall-of-yo-mama",
+      "target": "social-media",
+      "type": "wikilink"
+    },
+    {
       "source": "7xqJnKpYQ8U",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "youtube-healthy-gamer-how-to-actually-break-an-addiction",
+      "type": "wikilink"
+    },
+    {
+      "source": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
@@ -1221,13 +1396,23 @@
       "type": "wikilink"
     },
     {
-      "source": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "source": "internet-anarchist-07a1ae855fbf-jidions-past-is-catching-up-to-him",
+      "target": "internet-culture",
       "type": "wikilink"
     },
     {
-      "source": "m5_n7p8q9r_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "source": "internet-anarchist-07a1ae855fbf-jidions-past-is-catching-up-to-him",
+      "target": "youtube-creator",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-07a1ae855fbf-jidions-past-is-catching-up-to-him",
+      "target": "social-media",
+      "type": "wikilink"
+    },
+    {
+      "source": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
     {
@@ -1242,12 +1427,22 @@
     },
     {
       "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
       "target": "canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
       "source": "youtube-KlSsI2CKYaQ-thoughts-your-therapist-has-but-doesnt-tell-you",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-KlSsI2CKYaQ-thoughts-your-therapist-has-but-doesnt-tell-you",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1277,7 +1472,12 @@
     },
     {
       "source": "youtube-3bHdic_l5Hg-the-worst-red-flags-ive-seen-as-a-therapist",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-3bHdic_l5Hg-the-worst-red-flags-ive-seen-as-a-therapist",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1307,7 +1507,12 @@
     },
     {
       "source": "youtube-vEAjtOI-Oaw-what-everyone-gets-wrong-about-adhd",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-vEAjtOI-Oaw-what-everyone-gets-wrong-about-adhd",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1372,16 +1577,6 @@
     },
     {
       "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
@@ -1402,7 +1597,12 @@
     },
     {
       "source": "youtube-LJSgsf9ro38-how-to-actually-have-an-elite-mindset",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-LJSgsf9ro38-how-to-actually-have-an-elite-mindset",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1416,6 +1616,36 @@
       "type": "wikilink"
     },
     {
+      "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "hIjKlMnOpQr_Mental_Health_in_Gaming_Communities_Building_Supportive_Environments",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "hIjKlMnOpQr_Mental_Health_in_Gaming_Communities_Building_Supportive_Environments",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "hIjKlMnOpQr_Mental_Health_in_Gaming_Communities_Building_Supportive_Environments",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-healthy-gamer-we-need-to-talk-about-ozempic",
       "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
@@ -1423,6 +1653,16 @@
     {
       "source": "2bY9rC8V7M3",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1462,7 +1702,12 @@
     },
     {
       "source": "youtube-vr-EwLQCOIk-why-gifted-people-burn-out-the-fastest",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-vr-EwLQCOIk-why-gifted-people-burn-out-the-fastest",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1481,8 +1726,28 @@
       "type": "wikilink"
     },
     {
+      "source": "internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending",
+      "target": "internet-culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending",
+      "target": "youtube-creator",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending",
+      "target": "social-media",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-oCB-sCIKnkU-stop-overcorrecting-your-attachment-style-viewer-interview",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-oCB-sCIKnkU-stop-overcorrecting-your-attachment-style-viewer-interview",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1497,7 +1762,12 @@
     },
     {
       "source": "youtube-VYTF4KIF2z0-why-modern-dating-feels-like-parenting",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-VYTF4KIF2z0-why-modern-dating-feels-like-parenting",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1512,7 +1782,12 @@
     },
     {
       "source": "youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1521,8 +1796,23 @@
       "type": "wikilink"
     },
     {
+      "source": "HiHMQN3kQlQ_Task_Manager_Is_Lying_About_Your_CPU_Usage_-_Here's_the_Truth",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "HiHMQN3kQlQ_Task_Manager_Is_Lying_About_Your_CPU_Usage_-_Here's_the_Truth",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1536,18 +1826,63 @@
       "type": "wikilink"
     },
     {
+      "source": "internet-anarchist-9bea3420e9eb-the-most-evil-father-on-tiktok",
+      "target": "internet-culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-9bea3420e9eb-the-most-evil-father-on-tiktok",
+      "target": "youtube-creator",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-9bea3420e9eb-the-most-evil-father-on-tiktok",
+      "target": "social-media",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-positive_thinking_lie-the-lie-of-\"positive-thinking\"",
-      "target": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-positive_thinking_lie-the-lie-of-\"positive-thinking\"",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
       "source": "youtube-positive_thinking_lie-the-lie-of-\"positive-thinking\"",
       "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-8ff9bfd22347-how-penguinz0-destroyed-the-technoblade-copycat",
+      "target": "internet-culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-8ff9bfd22347-how-penguinz0-destroyed-the-technoblade-copycat",
+      "target": "youtube-creator",
+      "type": "wikilink"
+    },
+    {
+      "source": "internet-anarchist-8ff9bfd22347-how-penguinz0-destroyed-the-technoblade-copycat",
+      "target": "social-media",
       "type": "wikilink"
     },
     {
       "source": "youtube-healthy-gamer-why-gifted-people-burn-out-the-fastest",
       "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
+      "type": "wikilink"
+    },
+    {
+      "source": "x4y5z6a7b_The_Dark_Side_of_Influencer_Culture",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "what-everyone-gets-wrong-about-adhd",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -1557,8 +1892,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-28T11:54:58.292098",
-    "total_nodes": 121,
-    "total_edges": 81
+    "generated": "2026-08-29T13:03:46.685294",
+    "total_nodes": 133,
+    "total_edges": 123
   }
 }

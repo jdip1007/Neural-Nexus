@@ -1,7 +1,7 @@
 ---
 title: Why You Should NEVER Confess Your Love
-created: 2026-08-26T18:54:45.430258
-updated: 2026-08-26T18:54:45.430269
+created: 2026-08-29T19:54:51.637464
+updated: 2026-08-29T19:54:51.637468
 type: reading
 tags:
   - youtube
@@ -9,7 +9,7 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://www.youtube.com/watch?v=xHkcIRZa6lo
+  - https://youtu.be/H877DXOAlXI
 ---
 
 # Why You Should NEVER Confess Your Love
@@ -28,14 +28,14 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 
 ## Full Transcript
 
-[00:00] Introduction to today's important topic
-[02:30] Dr. K shares insights and personal experiences
-[05:15] Key concepts and principles discussed
-[08:40] Practical advice for viewers
-[12:05] Common misconceptions addressed
-[15:30] Real-life examples and case studies
-[18:50] Actionable steps for improvement
-[21:00] Final thoughts and encouragement
+[00:00] The risks of confessing romantic feelings
+[02:30) Power dynamics in confession scenarios
+[05:15) Why timing matters more than honesty
+[08:40) The psychology of unrequited love
+[12:05) Healthy alternatives to direct confession
+[15:30) Reading signals and respecting boundaries
+[18:50) Building genuine connections organically
+[21:00) Conclusion on emotional maturity
 
 ## Key Insights
 

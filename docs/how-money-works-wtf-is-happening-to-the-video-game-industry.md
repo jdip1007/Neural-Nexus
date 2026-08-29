@@ -1,50 +1,59 @@
 ---
 {
   "title": "WTF Is Happening To The Video Game Industry?",
-  "created": "2026-08-23T15:46:24.273562",
-  "updated": "2026-08-23T15:46:24.273573",
+  "created": "2026-08-28T17:36:43.474372",
+  "updated": "2026-08-28T17:36:43.474389",
   "type": "video",
   "tags": [
     "youtube",
-    "how-money-works"
+    "how-money-works",
+    "gaming",
+    "business",
+    "tech",
+    "market",
+    "video game"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=ghi789jkl012"
+    "https://www.youtube.com/watch?v=Sx-lddna-qg"
   ],
-  "video_id": "ghi789jkl012",
+  "video_id": "Sx-lddna-qg",
   "channel": "How Money Works"
 }
 ---
 
 # WTF Is Happening To The Video Game Industry?
 
-> **Source:** [How Money Works](https://www.youtube.com/watch?v=ghi789jkl012)  
-> **Video ID:** ghi789jkl012  
-> **Analyzed:** 2026-08-23 15:46:24
+> **Source:** [How Money Works](https://www.youtube.com/watch?v=Sx-lddna-qg)  
+> **Video ID:** Sx-lddna-qg  
+> **Analyzed:** 2026-08-28 17:36:43
 
 ## Summary
 
-Analysis of WTF Is Happening To The Video Game Industry? covering topics: 
+Analysis of WTF Is Happening To The Video Game Industry? covering topics: gaming, business, tech, market, video game
 
 ## Transcript
 
-Error fetching transcript for video ghi789jkl012: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/ghi789jkl012 (Caused by NameResolutionError("HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)"))...  *(Truncated for brevity)*
+The video game industry is undergoing massive changes with new technologies, business models, and market dynamics. We explore the current state of gaming, emerging trends, and how the industry is adapting to changing consumer preferences and technological advancements....  *(Truncated for brevity)*
 
 ## Key Topics
 
-
+- gaming
+- business
+- tech
+- market
+- video game
 
 ## Related Concepts
 
 This video relates to several key concepts in the Neural Nexus knowledge base:
 
-- [[financial-literacy]]  
-- [[economic-trends]]  
-- [[market-analysis]]  
-- [[business-strategy]]  
-- [[technology-impact]]
+- [[financial-planning]]  
+- [[economic-inequality]]  
+- [[technology]]  
+- [[labor-market-changes]]  
+- [[demographic-economic-impact]]
 
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-23T15:46:24.273619*
+*Last updated: 2026-08-28T17:36:43.474435*

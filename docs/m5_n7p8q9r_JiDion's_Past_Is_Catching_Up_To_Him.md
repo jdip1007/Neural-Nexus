@@ -1,9 +1,9 @@
 ---
 title: JiDion's Past Is Catching Up To Him
-created: 2026-08-18T15:38:40
-updated: 2026-08-18T15:38:40
+created: 2026-08-28T18:55:55
+updated: 2026-08-28T18:55:55
 type: video
-tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "internet-culture", "marketing"]
+tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "internet-culture"]
 sources: ["https://www.youtube.com/watch?v=m5_n7p8q9r"]
 video_id: m5_n7p8q9r
 duration: 15-25 minutes
@@ -18,13 +18,12 @@ channel: Internet Anarchist
 
 ## Overview
 
-This video explores content-creation, internet-culture, marketing through the lens of internet culture and digital media. Key themes include accountability, culture, technology.
+This video explores content-creation, internet-culture through the lens of internet culture and digital media. Key themes include accountability, culture, technology.
 
 ## Key Topics
 
 - [[Content Creation]]
 - [[Internet Culture]]
-- [[Marketing]]
 
 ## Content Analysis
 
@@ -34,7 +33,6 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 - [[Digital Media]]
 - [[Digital Society]]
-- [[Advertising]]
 
 ## External Links
 

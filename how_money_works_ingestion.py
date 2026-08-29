@@ -42,7 +42,7 @@ def browser_console(expression):
 class HowMoneyWorksIngestionPipeline:
     def __init__(self, channel_url: str = "https://www.youtube.com/@HowMoneyWorks"):
         self.channel_url = channel_url
-        self.tracker = VideoTracker("/home/hermes/projects/Hermes-Playground/wiki/how_money_works_tracker.json")
+        self.tracker = VideoTracker("/home/hermes/projects/Hermes-Playground/wiki/video_tracker.json")
         self.transcript_api_key = os.getenv('TRANSCRIPT_API_KEY')
         self.neural_nexus_path = os.getenv('NEURAL_NEXUS_PATH', '/home/hermes/Neural-Nexus/docs')
         self.neural_nexus_repo = os.getenv('NEURAL_NEXUS_REPO', 'github.com/jdip1007/Neural-Nexus')

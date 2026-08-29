@@ -1,7 +1,7 @@
 ---
 title: We Need To Talk About Ozempic
-created: 2026-08-24T18:17:04.347145
-updated: 2026-08-24T18:17:04.347148
+created: 2026-08-29T19:54:51.640439
+updated: 2026-08-29T19:54:51.640441
 type: reading
 tags:
   - youtube
@@ -9,7 +9,7 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://youtu.be/stu901
+  - https://youtu.be/oCB-sCIKnkU
 ---
 
 # We Need To Talk About Ozempic

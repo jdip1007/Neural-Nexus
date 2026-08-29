@@ -120,18 +120,32 @@ def check_sources(file_path):
         
         frontmatter = yaml_frontmatter_match.group(1)
         
-        # Extract sources
+        # Extract sources (handle both JSON and YAML formats)
         sources_match = re.search(r'sources:\s*\[(.*?)\]', frontmatter, re.DOTALL)
         if not sources_match:
-            return False, "No sources found in frontmatter"
-        
-        sources_str = sources_match.group(1)
-        sources = [s.strip().strip('\'"') for s in sources_str.split(',') if s.strip()]
+            # Try alternative YAML format with line breaks - be more precise
+            sources_match = re.search(r'sources:\s*\n(.*?)(?=\n\S+:|\n---|\Z)', frontmatter, re.DOTALL)
+            if sources_match:
+                sources_str = sources_match.group(1)
+                # Extract individual source lines - only lines starting with -
+                sources = []
+                for line in sources_str.split('\n'):
+                    line = line.strip()
+                    if line.startswith('-') and not line.startswith('--') and ':' not in line:
+                        source = line[1:].strip().strip('"\'')
+                        if source:
+                            sources.append(source)
+            else:
+                return False, "No sources found in frontmatter"
+        else:
+            sources_str = sources_match.group(1)
+            sources = [s.strip().strip('"\'') for s in sources_str.split(',') if s.strip()]
         
         issues = []
         for source in sources:
-            if not source.startswith(('http://', 'https://')):
-                issues.append(f"Invalid source URL: {source}")
+            # Accept both HTTP URLs and local file paths
+            if not (source.startswith(('http://', 'https://')) or source.startswith('./') or source.startswith('/') or source.startswith('raw/')):
+                issues.append(f"Invalid source format: {source}")
         
         return True if not issues else False, issues if issues else "Sources are valid"
     
@@ -163,8 +177,18 @@ def check_tags(file_path, schema_file):
                     with open(schema_file, 'r', encoding='utf-8') as f:
                         schema_content = f.read()
                     
-                    schema_tags = re.findall(r'##\s+(.+)', schema_content)
-                    schema_tags = [tag.strip() for tag in schema_tags]
+                    # Extract individual tags from schema sections
+                    schema_tags = []
+                    sections = re.split(r'##\s+', schema_content)
+                    for section in sections[1:]:  # Skip the first part before first ##
+                        lines = section.split('\n')
+                        for line in lines:
+                            line = line.strip()
+                            if line and not line.startswith('#') and not line.startswith('*'):
+                                # Clean up tag names
+                                tag = line.replace('**', '').strip()
+                                if tag:
+                                    schema_tags.append(tag)
                     
                     issues = []
                     for tag in tags:
@@ -184,22 +208,45 @@ def check_tags(file_path, schema_file):
         
         frontmatter = yaml_frontmatter_match.group(1)
         
-        # Extract tags
+        # Extract tags (handle both JSON and YAML formats)
         tags_match = re.search(r'tags:\s*\[(.*?)\]', frontmatter, re.DOTALL)
         if not tags_match:
-            return False, "No tags found in frontmatter"
-        
-        tags_str = tags_match.group(1)
-        tags = [tag.strip().strip('\'"') for tag in tags_str.split(',') if tag.strip()]
+            # Try alternative YAML format with line breaks
+            tags_match = re.search(r'tags:\s*\n(.*?)(?=\n\S:|\n---|\Z)', frontmatter, re.DOTALL)
+            if tags_match:
+                tags_str = tags_match.group(1)
+                # Extract individual tag lines
+                tags = []
+                for line in tags_str.split('\n'):
+                    line = line.strip()
+                    if line.startswith('-') and not line.startswith('--'):
+                        tag = line[1:].strip().strip('"\'')
+                        if tag:
+                            tags.append(tag)
+            else:
+                return False, "No tags found in frontmatter"
+        else:
+            tags_str = tags_match.group(1)
+            tags = [tag.strip().strip('"\'') for tag in tags_str.split(',') if tag.strip()]
         
         # Check against schema
         if os.path.exists(schema_file):
             with open(schema_file, 'r', encoding='utf-8') as f:
                 schema_content = f.read()
             
-            schema_tags = re.findall(r'##\s+(.+)', schema_content)
-            schema_tags = [tag.strip() for tag in schema_tags]
-            
+            # Extract individual tags from schema sections
+            schema_tags = []
+            sections = re.split(r'##\s+', schema_content)
+            for section in sections[1:]:  # Skip the first part before first ##
+                lines = section.split('\n')
+                for line in lines:
+                    line = line.strip()
+                    if line and not line.startswith('#') and not line.startswith('*'):
+                        # Clean up tag names
+                        tag = line.replace('**', '').strip()
+                        if tag:
+                            schema_tags.append(tag)
+                    
             issues = []
             for tag in tags:
                 if tag not in schema_tags:

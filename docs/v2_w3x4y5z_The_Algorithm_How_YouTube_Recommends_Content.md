@@ -1,7 +1,7 @@
 ---
 title: The Algorithm: How YouTube Recommends Content
-created: 2026-08-18T15:38:42
-updated: 2026-08-18T15:38:42
+created: 2026-08-28T18:56:02
+updated: 2026-08-28T18:56:02
 type: video
 tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "youtube-algorithm"]
 sources: ["https://www.youtube.com/watch?v=v2_w3x4y5z"]
@@ -18,7 +18,7 @@ channel: Internet Anarchist
 
 ## Overview
 
-This video explores content-creation, youtube-algorithm through the lens of internet culture and digital media. Key themes include general.
+This video explores content-creation, youtube-algorithm through the lens of internet culture and digital media. Key themes include technology.
 
 ## Key Topics
 
