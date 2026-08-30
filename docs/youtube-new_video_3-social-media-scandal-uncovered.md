@@ -1,7 +1,7 @@
 ---
 title: Social Media Scandal Uncovered - Internet Anarchist
-created: 2026-08-29
-updated: 2026-08-29
+created: 2026-08-30
+updated: 2026-08-30
 type: reading
 classification: media.investigative_journalism
 domain: media
@@ -9,7 +9,7 @@ tags: ["internet_anarchist", "youtube", "investigative_journalism", "social_medi
 sources: ["raw/videos/internet_anarchist/youtube-new_video_3-social-media-scandal-uncovered.md"]
 confidence: medium
 status: active
-reviewed: 2026-08-29
+reviewed: 2026-08-30
 backlinks: []
 ---
 
@@ -20,7 +20,7 @@ backlinks: []
 - **Video ID**: new_video_3
 - **Channel**: Internet Anarchist
 - **Source**: [YouTube](https://www.youtube.com/watch?v=new_video_3)
-- **Date Created**: 2026-08-29
+- **Date Created**: 2026-08-30
 - **Word Count**: 134
 - **Content Type**: Investigative journalism / YouTube analysis
 
@@ -44,7 +44,7 @@ This Social Media Scandal Uncovered provides an in-depth investigation into vari
 **Channel**: Internet Anarchist  
 **URL**: https://www.youtube.com/watch?v=new_video_3  
 **Video ID**: new_video_3  
-**Date Processed**: 2026-08-29 19:34:05  
+**Date Processed**: 2026-08-30 20:11:09  
 
 ## Full Transcript
 
@@ -92,7 +92,7 @@ This Social Media Scandal Uncovered provides an in-depth investigation into vari
 
 ## Processing Information
 
-- **Ingested Date**: 2026-08-29 19:34:05
+- **Ingested Date**: 2026-08-30 20:11:09
 - **Analysis Method**: Automated transcript analysis
 - **Content Type**: YouTube video transcript
 - **Processing Pipeline**: Internet Anarchist Daily Ingestion

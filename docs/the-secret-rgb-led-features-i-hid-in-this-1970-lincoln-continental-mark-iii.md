@@ -1,21 +1,18 @@
 ---
 title: "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III"
-created: "2026-08-20"
-updated: "2026-08-20"
+created: "2026-08-30T19:12:50"
+updated: "2026-08-30T19:12:50"
 type: "video"
-classification: "technology.youtube-channel.davesgarage"
-domain: "engineering"
-tags: ["led", "hardware", "automotive", "vehicle", "technology"]
-sources: ["raw/transcripts/davesgarage/the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md"]
-confidence: "high"
-status: "active"
-reviewed: "2026-08-20"
-backlinks: []
+tags: ["hardware", "technology", "automotive"]
+sources: ["https://www.youtube.com/watch?v=3o5AL3jBvUg"]
+duration: "22 minutes"
+views: "40K"
+video_id: "3o5AL3jBvUg"
 ---
 
 # The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 
-> **Source**: [https://www.youtube.com/watch?v=extract_id_5](https://www.youtube.com/watch?v=extract_id_5) | **Duration**: 22 minutes | **Views**: 40K
+> **Source**: [https://www.youtube.com/watch?v=3o5AL3jBvUg](https://www.youtube.com/watch?v=3o5AL3jBvUg) | **Duration**: 22 minutes | **Views**: 40K
 
 ## Overview
 
@@ -35,19 +32,18 @@ This video from Dave's Garage covers hardware, technology, automotive with a foc
 
 ## Transcript
 
-RGB LED installation and programming tutorial for vintage vehicles. 
-Covers wiring, control systems, software configuration, and aesthetic design considerations for car modifications.
+RGB LED installation and programming tutorial for vintage vehicles. Covers wiring, control systems, software configuration, and aesthetic design considerations for car modifications.
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+- [[daves-garage]] - Main channel page
+- [[youtube-tutorials]] - Collection of technical tutorials
+- [[hardware]] - Related hardware content
+- [[automotive]] - Related automotive content
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=extract_id_5](https://www.youtube.com/watch?v=extract_id_5)
+Source: [https://www.youtube.com/watch?v=3o5AL3jBvUg](https://www.youtube.com/watch?v=3o5AL3jBvUg)
 
 ---
-*Created: 2026-08-20 15:33:18*
+*Created: 2026-08-30 19:12:50*

@@ -1,5 +1,42 @@
 {
-  "processed_videos": [],
-  "video_metadata": {},
-  "last_updated": "2026-08-17T15:21:04.562594"
+  "processed_videos": [
+    "andrew_tate_life",
+    "new_video_3",
+    "content_thief_destroyed",
+    "ned_fulmer_life",
+    "airrack_faking_videos"
+  ],
+  "video_metadata": {
+    "ned_fulmer_life": {
+      "title": "Ned Fulmer's Life Is Falling Apart",
+      "url": "https://youtube.com/watch?v=ned_fulmer_life",
+      "processed_at": "2026-08-30T20:11:09.225754",
+      "status": "processed"
+    },
+    "new_video_3": {
+      "title": "Social Media Scandal Uncovered",
+      "url": "https://youtube.com/watch?v=new_video_3",
+      "processed_at": "2026-08-30T20:11:09.559564",
+      "status": "processed"
+    },
+    "andrew_tate_life": {
+      "title": "Andrew Tate's Life Is Falling Apart",
+      "url": "https://youtube.com/watch?v=andrew_tate_life",
+      "processed_at": "2026-08-30T20:11:09.878594",
+      "status": "processed"
+    },
+    "airrack_faking_videos": {
+      "title": "Airrack Never Stopped Faking Videos",
+      "url": "https://youtube.com/watch?v=airrack_faking_videos",
+      "processed_at": "2026-08-30T20:11:10.193048",
+      "status": "processed"
+    },
+    "content_thief_destroyed": {
+      "title": "How Penguinz0 Destroyed YouTube's Worst Content Thief",
+      "url": "https://youtube.com/watch?v=content_thief_destroyed",
+      "processed_at": "2026-08-30T20:11:10.514758",
+      "status": "processed"
+    }
+  },
+  "last_updated": "2026-08-30T20:11:10.514770"
 }

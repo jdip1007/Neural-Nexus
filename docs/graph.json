@@ -87,6 +87,13 @@
       "type": "page"
     },
     {
+      "id": "youtube-healthy-gamer-why-you-always-feel-uneasy-transcendental-existential-dread",
+      "title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-why-you-always-feel-uneasy-transcendental-existential-dread.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "how-money-works-wtf-is-happening-to-the-video-game-industry",
       "title": "how-money-works-wtf-is-happening-to-the-video-game-industry",
       "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-is-happening-to-the-video-game-industry.md",
@@ -110,6 +117,22 @@
       "title": "The Deserved Downfall of Yo Mama",
       "file": "/home/hermes/Neural-Nexus/docs/internet-anarchist-db08456b1e85-the-deserved-downfall-of-yo-mama.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-new_video_2-latest-youtube-drama-investigation",
+      "title": "Latest YouTube Drama Investigation - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-new_video_2-latest-youtube-drama-investigation.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "youtube",
+        "content_creators",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
+      ],
       "type": "page"
     },
     {
@@ -158,6 +181,20 @@
         "money",
         "investing",
         "markets"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-new_video_3-social-media-scandal-uncovered",
+      "title": "Social Media Scandal Uncovered - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-new_video_3-social-media-scandal-uncovered.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
       ],
       "type": "page"
     },
@@ -219,6 +256,21 @@
         "youtube-creator",
         "educational-content",
         "content-creation"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-tutorials",
+      "title": "\"YouTube Tutorials\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-tutorials.md",
+      "tags": [
+        "youtube",
+        "tutorials",
+        "education",
+        "learning",
+        "technology",
+        "programming",
+        "creative"
       ],
       "type": "page"
     },
@@ -424,6 +476,17 @@
       "type": "page"
     },
     {
+      "id": "what-happens-when-you-lose-just-one-packet",
+      "title": "\"What Happens When You Lose Just One Packet?\"",
+      "file": "/home/hermes/Neural-Nexus/docs/what-happens-when-you-lose-just-one-packet.md",
+      "tags": [
+        "networking",
+        "technology",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "after_3_days_i_start_to_feel_amazing_-_dr_david_sinclair",
       "title": "After 3 Days\u2026 I Start To Feel Amazing - Dr David Sinclair",
       "file": "/home/hermes/Neural-Nexus/docs/after_3_days_i_start_to_feel_amazing_-_dr_david_sinclair.md",
@@ -473,6 +536,24 @@
         "youtube",
         "mental_health",
         "therapy"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-new_video_1-new-internet-scam-exposed--2026",
+      "title": "New Internet Scam Exposed - 2026 - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-new_video_1-new-internet-scam-exposed--2026.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "scams",
+        "internet_safety",
+        "exposure",
+        "controversy",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
       ],
       "type": "page"
     },
@@ -527,6 +608,17 @@
       "title": "'\"After 3 Days... I Start To Feel Amazing\" - Dr David Sinclair'",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real7-After-3-Days-I-Start-To-Feel-Amazing-Dr-David-Sinc.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "title": "\"The Challenge: Can we build Notepad in 3K in assembly language?\"",
+      "file": "/home/hermes/Neural-Nexus/docs/the-challenge-can-we-build-notepad-in-3k-in-assembly-language.md",
+      "tags": [
+        "programming",
+        "technology",
+        "tutorial"
+      ],
       "type": "page"
     },
     {
@@ -674,17 +766,16 @@
       "title": "\"The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III\"",
       "file": "/home/hermes/Neural-Nexus/docs/the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md",
       "tags": [
-        "led",
         "hardware",
+        "technology",
         "automotive",
-        "vehicle",
-        "technology"
+        "tutorial"
       ],
       "type": "page"
     },
     {
       "id": "youtube-healthy-gamer-thoughts-your-therapist-has-but-doesnt-tell-you",
-      "title": "Thoughts Your Therapist Has, But Doesn't Tell You",
+      "title": "Thoughts Your Therapist Has, But Doesnt Tell You",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-thoughts-your-therapist-has-but-doesnt-tell-you.md",
       "tags": [],
       "type": "page"
@@ -701,11 +792,9 @@
       "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
       "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
       "tags": [
-        "ethernet",
         "networking",
         "technology",
-        "engineering",
-        "youtube-education"
+        "tutorial"
       ],
       "type": "page"
     },
@@ -860,6 +949,24 @@
       "type": "page"
     },
     {
+      "id": "youtube-new_video_5-youtube-algorithm-manipulation-exposed",
+      "title": "YouTube Algorithm Manipulation Exposed - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-new_video_5-youtube-algorithm-manipulation-exposed.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "youtube",
+        "content_creators",
+        "exposure",
+        "controversy",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
+      ],
+      "type": "page"
+    },
+    {
       "id": "2bY9rC8V7M3",
       "title": "\"Building a Smart Home: IoT Devices and Security Considerations\"",
       "file": "/home/hermes/Neural-Nexus/docs/2bY9rC8V7M3.md",
@@ -992,6 +1099,22 @@
         "youtube",
         "mental_health",
         "therapy"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-new_video_4-online-predator-bust--new-evidence",
+      "title": "Online Predator Bust - New Evidence - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-new_video_4-online-predator-bust--new-evidence.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "scams",
+        "internet_safety",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
       ],
       "type": "page"
     },
@@ -1148,6 +1271,21 @@
         "gaming",
         "mental-health",
         "general-content"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "daves-garage",
+      "title": "\"Dave's Garage\"",
+      "file": "/home/hermes/Neural-Nexus/docs/daves-garage.md",
+      "tags": [
+        "daves-garage",
+        "youtube",
+        "technology",
+        "programming",
+        "hardware",
+        "automotive",
+        "tutorial"
       ],
       "type": "page"
     },
@@ -1331,6 +1469,11 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-healthy-gamer-why-you-always-feel-uneasy-transcendental-existential-dread",
+      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-xHkcIRZa6lo-the-lie-of-positive-thinking",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -1357,7 +1500,12 @@
     },
     {
       "source": "internet-anarchist-db08456b1e85-the-deserved-downfall-of-yo-mama",
-      "target": "social-media",
+      "target": "youtube-new_video_3-social-media-scandal-uncovered",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-new_video_2-latest-youtube-drama-investigation",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
     {
@@ -1407,7 +1555,7 @@
     },
     {
       "source": "internet-anarchist-07a1ae855fbf-jidions-past-is-catching-up-to-him",
-      "target": "social-media",
+      "target": "youtube-new_video_3-social-media-scandal-uncovered",
       "type": "wikilink"
     },
     {
@@ -1471,6 +1619,21 @@
       "type": "wikilink"
     },
     {
+      "source": "what-happens-when-you-lose-just-one-packet",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "what-happens-when-you-lose-just-one-packet",
+      "target": "daves-garage",
+      "type": "wikilink"
+    },
+    {
+      "source": "what-happens-when-you-lose-just-one-packet",
+      "target": "youtube-tutorials",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-3bHdic_l5Hg-the-worst-red-flags-ive-seen-as-a-therapist",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -1531,6 +1694,16 @@
       "type": "wikilink"
     },
     {
+      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "daves-garage",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "youtube-tutorials",
+      "type": "wikilink"
+    },
+    {
       "source": "vEAjtOI-Oaw",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
@@ -1582,7 +1755,17 @@
     },
     {
       "source": "the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "daves-garage",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "target": "youtube-tutorials",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-healthy-gamer-thoughts-your-therapist-has-but-doesnt-tell-you",
+      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
     },
     {
@@ -1592,7 +1775,12 @@
     },
     {
       "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "daves-garage",
+      "type": "wikilink"
+    },
+    {
+      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "youtube-tutorials",
       "type": "wikilink"
     },
     {
@@ -1648,6 +1836,11 @@
     {
       "source": "youtube-healthy-gamer-we-need-to-talk-about-ozempic",
       "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-new_video_5-youtube-algorithm-manipulation-exposed",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
     {
@@ -1737,7 +1930,7 @@
     },
     {
       "source": "internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending",
-      "target": "social-media",
+      "target": "youtube-new_video_3-social-media-scandal-uncovered",
       "type": "wikilink"
     },
     {
@@ -1806,6 +1999,16 @@
       "type": "wikilink"
     },
     {
+      "source": "daves-garage",
+      "target": "youtube-tutorials",
+      "type": "wikilink"
+    },
+    {
+      "source": "daves-garage",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -1837,7 +2040,7 @@
     },
     {
       "source": "internet-anarchist-9bea3420e9eb-the-most-evil-father-on-tiktok",
-      "target": "social-media",
+      "target": "youtube-new_video_3-social-media-scandal-uncovered",
       "type": "wikilink"
     },
     {
@@ -1867,7 +2070,7 @@
     },
     {
       "source": "internet-anarchist-8ff9bfd22347-how-penguinz0-destroyed-the-technoblade-copycat",
-      "target": "social-media",
+      "target": "youtube-new_video_3-social-media-scandal-uncovered",
       "type": "wikilink"
     },
     {
@@ -1892,8 +2095,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-29T13:03:46.685294",
-    "total_nodes": 133,
-    "total_edges": 123
+    "generated": "2026-08-30T19:43:33.136038",
+    "total_nodes": 143,
+    "total_edges": 136
   }
 }
