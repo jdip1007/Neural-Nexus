@@ -1,14 +1,14 @@
 ---
 {
   "title": "The \"Stay-At-Home Boyfriend\" Epidemic - Women Now Outnumber Men In The Workforce",
-  "created": "2026-08-28T17:36:38.844863",
-  "updated": "2026-08-28T17:36:38.844877",
+  "created": "2026-08-30T18:29:39.085623",
+  "updated": "2026-08-30T18:29:39.085638",
   "type": "video",
   "tags": [
     "youtube",
     "how-money-works",
-    "career",
-    "work"
+    "work",
+    "career"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=D-uK2Xs6D9s"
@@ -22,11 +22,11 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=D-uK2Xs6D9s)  
 > **Video ID:** D-uK2Xs6D9s  
-> **Analyzed:** 2026-08-28 17:36:38
+> **Analyzed:** 2026-08-30 18:29:39
 
 ## Summary
 
-Analysis of The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce covering topics: career, work
+Analysis of The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce covering topics: work, career
 
 ## Transcript
 
@@ -34,20 +34,20 @@ The workforce demographics are shifting dramatically, with women now outnumberin
 
 ## Key Topics
 
-- career
 - work
+- career
 
 ## Related Concepts
 
 This video relates to several key concepts in the Neural Nexus knowledge base:
 
-- [[financial-planning]]  
-- [[economic-inequality]]  
-- [[technology]]  
-- [[labor-market-changes]]  
-- [[demographic-economic-impact]]
+- [[financial-literacy]]  
+- [[economic-trends]]  
+- [[market-analysis]]  
+- [[business-strategy]]  
+- [[technology-impact]]
 
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-28T17:36:38.844916*
+*Last updated: 2026-08-30T18:29:39.085673*

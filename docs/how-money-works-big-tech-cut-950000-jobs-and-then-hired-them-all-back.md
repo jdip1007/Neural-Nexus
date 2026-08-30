@@ -1,38 +1,49 @@
 ---
 {
   "title": "Big Tech Cut 950,000 Jobs... And Then Hired Them All Back",
-  "created": "2026-08-23T15:46:26.588683",
-  "updated": "2026-08-23T15:46:26.588697",
+  "created": "2026-08-30T18:29:41.403249",
+  "updated": "2026-08-30T18:29:41.403263",
   "type": "video",
   "tags": [
     "youtube",
-    "how-money-works"
+    "how-money-works",
+    "layoff",
+    "tech",
+    "layoffs",
+    "hire",
+    "hiring"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=pqr678stu901"
+    "https://www.youtube.com/watch?v=swtfbef3HhM"
   ],
-  "video_id": "pqr678stu901",
+  "video_id": "swtfbef3HhM",
   "channel": "How Money Works"
 }
 ---
 
 # Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
 
-> **Source:** [How Money Works](https://www.youtube.com/watch?v=pqr678stu901)  
-> **Video ID:** pqr678stu901  
-> **Analyzed:** 2026-08-23 15:46:26
+> **Source:** [How Money Works](https://www.youtube.com/watch?v=swtfbef3HhM)  
+> **Video ID:** swtfbef3HhM  
+> **Analyzed:** 2026-08-30 18:29:41
 
 ## Summary
 
-Analysis of Big Tech Cut 950,000 Jobs... And Then Hired Them All Back covering topics: 
+Analysis of Big Tech Cut 950,000 Jobs... And Then Hired Them All Back covering topics: layoff, tech, layoffs, hire, hiring, job, employment
 
 ## Transcript
 
-Error fetching transcript for video pqr678stu901: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/pqr678stu901 (Caused by NameResolutionError("HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)"))...  *(Truncated for brevity)*
+The tech industry has experienced massive hiring and layoffs cycles. This analysis examines the trend of tech companies cutting hundreds of thousands of jobs only to rehire them later, exploring the economic and social implications of this volatile employment pattern....  *(Truncated for brevity)*
 
 ## Key Topics
 
-
+- layoff
+- tech
+- layoffs
+- hire
+- hiring
+- job
+- employment
 
 ## Related Concepts
 
@@ -47,4 +58,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-23T15:46:26.588759*
+*Last updated: 2026-08-30T18:29:41.403296*

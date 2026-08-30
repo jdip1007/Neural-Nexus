@@ -1,16 +1,16 @@
 ---
 {
   "title": "\"Dude I'm Broke\" Why Is My Data Worth Harvesting?",
-  "created": "2026-08-28T17:36:34.212474",
-  "updated": "2026-08-28T17:36:34.212488",
+  "created": "2026-08-30T18:29:43.727129",
+  "updated": "2026-08-30T18:29:43.727141",
   "type": "video",
   "tags": [
     "youtube",
     "how-money-works",
-    "privacy",
     "economy",
+    "data",
     "tech",
-    "data"
+    "privacy"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=6BOxK_JrghY"
@@ -24,11 +24,11 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=6BOxK_JrghY)  
 > **Video ID:** 6BOxK_JrghY  
-> **Analyzed:** 2026-08-28 17:36:34
+> **Analyzed:** 2026-08-30 18:29:43
 
 ## Summary
 
-Analysis of "Dude I'm Broke" Why Is My Data Worth Harvesting? covering topics: privacy, economy, tech, data
+Analysis of "Dude I'm Broke" Why Is My Data Worth Harvesting? covering topics: economy, data, tech, privacy
 
 ## Transcript
 
@@ -36,22 +36,22 @@ In today's digital economy, personal data has become incredibly valuable. This v
 
 ## Key Topics
 
-- privacy
 - economy
-- tech
 - data
+- tech
+- privacy
 
 ## Related Concepts
 
 This video relates to several key concepts in the Neural Nexus knowledge base:
 
-- [[financial-planning]]  
-- [[economic-inequality]]  
-- [[technology]]  
-- [[labor-market-changes]]  
-- [[demographic-economic-impact]]
+- [[financial-literacy]]  
+- [[economic-trends]]  
+- [[market-analysis]]  
+- [[business-strategy]]  
+- [[technology-impact]]
 
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-28T17:36:34.212525*
+*Last updated: 2026-08-30T18:29:43.727171*
