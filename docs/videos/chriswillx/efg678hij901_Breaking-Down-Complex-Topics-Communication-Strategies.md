@@ -1,23 +1,22 @@
 ---
   title: Breaking Down Complex Topics: Communication Strategies
-  created: 2026-08-18
-  updated: 2026-08-18
+  created: 2026-08-31
+  updated: 2026-08-31
   type: video
   tags:
     - youtube
     - chriswillx
-    - science
     - technology
     - economics
+    - science
   sources:
     - https://www.youtube.com/watch?v=efg678hij901
   video_id: efg678hij901
   duration: Medium
   topics:
-    - science
     - technology
     - economics
-domain: internet-culture
+    - science
 ---
 
 # Breaking Down Complex Topics: Communication Strategies
@@ -27,13 +26,13 @@ domain: internet-culture
 - **Channel**: Chris Willx
 - **Video ID**: efg678hij901
 - **URL**: https://www.youtube.com/watch?v=efg678hij901
-- **Date Added**: 2026-08-18 08:23:12
+- **Date Added**: 2026-08-31 14:03:48
 
 ## Topics Covered
 
-- science
 - technology
 - economics
+- science
 
 ## Key Points
 
@@ -67,9 +66,9 @@ The conversation also addresses common pitfalls in technical communication and p
 
 ## Related Pages
 
-[[science]]
 [[technology]]
 [[economics]]
+[[science]]
 
 ## Citations
 

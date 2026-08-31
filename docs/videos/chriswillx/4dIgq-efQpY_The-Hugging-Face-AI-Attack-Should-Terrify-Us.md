@@ -1,21 +1,20 @@
 ---
-{
-  "title": "The Hugging Face AI Attack Should Terrify Us",
-  "created": "2026-08-20",
-  "updated": "2026-08-20",
-  "type": "video",
-  "tags": [
-    "society",
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=4dIgq-efQpY"
-  ],
-  "video_id": "4dIgq-efQpY",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-20 09:19:06"
-}
+  title: The Hugging Face AI Attack Should Terrify Us
+  created: 2026-08-31
+  updated: 2026-08-31
+  type: video
+  tags:
+    - youtube
+    - chriswillx
+    - science
+    - philosophy
+  sources:
+    - https://www.youtube.com/watch?v=4dIgq-efQpY
+  video_id: 4dIgq-efQpY
+  duration: Medium
+  topics:
+    - science
+    - philosophy
 ---
 
 # The Hugging Face AI Attack Should Terrify Us
@@ -25,48 +24,40 @@
 - **Channel**: Chris Willx
 - **Video ID**: 4dIgq-efQpY
 - **URL**: https://www.youtube.com/watch?v=4dIgq-efQpY
-- **Date Added**: 2026-08-20 09:19:06
+- **Date Added**: 2026-08-31 14:03:48
 
-## Key Topics
+## Topics Covered
 
-- society
-- technology
+- science
+- philosophy
 
-## Key Concepts
+## Key Points
 
-- The Hugging Face AI Attack Should Terrify Us
+- In a real implementation, this would contain the actual transcript content from the YouTube video.
 
-In this video, we explore the recent security concerns surrounding Hugging Face and the broader AI ecosystem
-- The platform has become a central hub for AI model sharing, but recent incidents have raised serious questions about security and trust
-- Key points discussed:
-- The importance of model security in the AI community
-- How Hugging Face's platform has evolved over time
-- Recent security incidents and their implications
-- The need for better security practices in AI development
+The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
 
-The video examines how AI platforms like Hugging Face handle security and what users should be aware of when using third-party AI models
-- It also discusses the broader implications for the AI industry as a whole
+Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
+
+This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
 
 ## Transcript
 
-The Hugging Face AI Attack Should Terrify Us
+Mock transcript for video 4dIgq-efQpY.
 
-In this video, we explore the recent security concerns surrounding Hugging Face and the broader AI ecosystem. The platform has become a central hub for AI model sharing, but recent incidents have raised serious questions about security and trust.
+This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript content from the YouTube video.
 
-Key points discussed:
-- The importance of model security in the AI community
-- How Hugging Face's platform has evolved over time
-- Recent security incidents and their implications
-- The need for better security practices in AI development
+The discussion covers various topics related to the video title, providing insights and information on the subject matter discussed in the original content.
 
-The video examines how AI platforms like Hugging Face handle security and what users should be aware of when using third-party AI models. It also discusses the broader implications for the AI industry as a whole.
+Key points and themes from the conversation are included here to demonstrate the structure and content of a typical transcript.
 
-## Analysis
-
-This video explores various topics related to society, technology.
+This mock transcript serves as a placeholder for the actual transcript data that would be fetched from the TranscriptAPI in a production environment.
 
 ## Related Pages
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+[[science]]
+[[philosophy]]
+
+## Citations
+
+> Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=4dIgq-efQpY)

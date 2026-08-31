@@ -1,17 +1,17 @@
 ---
 title: Color Organ Video 2 - Summary
-created: 2026-08-30
-updated: 2026-08-30
+created: 2026-08-31
+updated: 2026-08-31
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, yXAgVyGY6M8]
 sources: [raw/videos/youtube-yXAgVyGY6M8-transcript.md]
-published: 2026-08-30
+published: 2026-08-31
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-08-30
+reviewed: 2026-08-31
 ---
 
 # Color Organ Video 2 - Summary

@@ -185,6 +185,22 @@
       "type": "page"
     },
     {
+      "id": "youtube-ned_fulmer_life-ned-fulmer's-life-is-falling-apart",
+      "title": "Ned Fulmer's Life Is Falling Apart - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-ned_fulmer_life-ned-fulmer's-life-is-falling-apart.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "personal_life",
+        "public_image",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-new_video_3-social-media-scandal-uncovered",
       "title": "Social Media Scandal Uncovered - Internet Anarchist",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-new_video_3-social-media-scandal-uncovered.md",
@@ -264,13 +280,8 @@
       "title": "\"YouTube Tutorials\"",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-tutorials.md",
       "tags": [
-        "youtube",
-        "tutorials",
-        "education",
-        "learning",
-        "technology",
-        "programming",
-        "creative"
+        "educational-content",
+        "youtube"
       ],
       "type": "page"
     },
@@ -481,8 +492,7 @@
       "file": "/home/hermes/Neural-Nexus/docs/what-happens-when-you-lose-just-one-packet.md",
       "tags": [
         "networking",
-        "technology",
-        "tutorial"
+        "technology"
       ],
       "type": "page"
     },
@@ -491,6 +501,22 @@
       "title": "After 3 Days\u2026 I Start To Feel Amazing - Dr David Sinclair",
       "file": "/home/hermes/Neural-Nexus/docs/after_3_days_i_start_to_feel_amazing_-_dr_david_sinclair.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-andrew_tate_life-andrew-tate's-life-is-falling-apart",
+      "title": "Andrew Tate's Life Is Falling Apart - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-andrew_tate_life-andrew-tate's-life-is-falling-apart.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "personal_life",
+        "public_image",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
+      ],
       "type": "page"
     },
     {
@@ -611,13 +637,26 @@
       "type": "page"
     },
     {
+      "id": "youtube-airrack_faking_videos-airrack-never-stopped-faking-videos",
+      "title": "Airrack Never Stopped Faking Videos - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-airrack_faking_videos-airrack-never-stopped-faking-videos.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
+      ],
+      "type": "page"
+    },
+    {
       "id": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
       "title": "\"The Challenge: Can we build Notepad in 3K in assembly language?\"",
       "file": "/home/hermes/Neural-Nexus/docs/the-challenge-can-we-build-notepad-in-3k-in-assembly-language.md",
       "tags": [
         "programming",
-        "technology",
-        "tutorial"
+        "technology"
       ],
       "type": "page"
     },
@@ -768,8 +807,7 @@
       "tags": [
         "hardware",
         "technology",
-        "automotive",
-        "tutorial"
+        "automotive"
       ],
       "type": "page"
     },
@@ -793,8 +831,7 @@
       "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
       "tags": [
         "networking",
-        "technology",
-        "tutorial"
+        "technology"
       ],
       "type": "page"
     },
@@ -918,6 +955,24 @@
         "automotive",
         "vehicle",
         "technology"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-content_thief_destroyed-how-penguinz0-destroyed-youtube's-worst-content-thief",
+      "title": "How Penguinz0 Destroyed YouTube's Worst Content Thief - Internet Anarchist",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-content_thief_destroyed-how-penguinz0-destroyed-youtube's-worst-content-thief.md",
+      "tags": [
+        "internet_anarchist",
+        "youtube",
+        "investigative_journalism",
+        "youtube",
+        "content_creators",
+        "exposure",
+        "controversy",
+        "social_media",
+        "online_reputation",
+        "internet_culture"
       ],
       "type": "page"
     },
@@ -1279,13 +1334,9 @@
       "title": "\"Dave's Garage\"",
       "file": "/home/hermes/Neural-Nexus/docs/daves-garage.md",
       "tags": [
-        "daves-garage",
-        "youtube",
         "technology",
-        "programming",
-        "hardware",
-        "automotive",
-        "tutorial"
+        "content-creation",
+        "youtube"
       ],
       "type": "page"
     },
@@ -1819,6 +1870,11 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-content_thief_destroyed-how-penguinz0-destroyed-youtube's-worst-content-thief",
+      "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
       "source": "hIjKlMnOpQr_Mental_Health_in_Gaming_Communities_Building_Supportive_Environments",
       "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
@@ -2095,8 +2151,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-30T19:43:33.136038",
-    "total_nodes": 143,
-    "total_edges": 136
+    "generated": "2026-08-31T14:15:49.514077",
+    "total_nodes": 147,
+    "total_edges": 137
   }
 }
