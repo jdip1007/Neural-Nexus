@@ -1,0 +1,1409 @@
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+546
+nature metabolism
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+Obesity as a catalyst for neurodegeneration
+ 
+Bandy Chen 
+  1 
+, Amanda Rodríguez-Díaz 
+  2, Marc Schneeberger 
+  2 
+ & 
+Eric Topol3 
+The parallel rise in obesity and neurological disorders suggests a potential 
+mechanistic link between these two conditions. Midlife obesity is a 
+well-established risk factor for cognitive decline and neurological disorders; 
+however, the underlying mechanisms and cause-and-effect relationship 
+remain poorly defined, in part owing to limited spatiotemporal resolution 
+in existing studies and the absence of a unifying framework. Recent studies 
+have begun to uncover pathways linking obesity to neurodegenerative 
+vulnerability. First, we discuss how obesity induces brain-wide 
+reprogramming across neural, metabolic and vascular systems including 
+neurovascular coupling, blood–brain barrier integrity, cerebrospinal fluid 
+dynamics and myelination. By systematically examining the disparate 
+mechanisms for each condition, a more cohesive picture emerges, revealing 
+progressive neurodegeneration driven by chronic metabolic overload. 
+Lastly, we propose a framework that integrates these different mechanisms 
+with both spatial and temporal specificity.
+“Every solution to a problem raises new unsolved problems.” – 
+Karl Popper
+The industrialization of the global food system began with 
+a well-intentioned goal: to combat hunger and food scarcity on 
+a global scale. Over time, this effort led to the mass production of 
+ultra-processed, calorie-dense and highly palatable foods. These prod-
+ucts contributed to an increased food security and longer lifespans but 
+also introduced new challenges. The modern nutritional landscape now 
+fuels chronic diseases that erode long-term metabolic, cardiovascular 
+and cognitive health1. For the first time in human history, overnutrition, 
+rather than scarcity, has become a leading driver of disease. The rapid 
+surge in obesity places immense pressure on public health systems 
+to develop prevention and treatment strategies. Current evidence 
+indicates that increased calorie intake, rather than reduced physical 
+activity, is considered the root cause of the global obesity epidemic2.
+Alongside obesity, the prevalence of type 2 diabetes mellitus 
+(T2DM), metabolic dysfunction and neurodegenerative disorders 
+has grown at an alarming rate. This parallel rise has sparked renewed 
+interest in how chronic exposure to hyperpalatable, metabolically 
+disruptive diets may rewire the brain’s homeostatic and reward circuits, 
+reinforcing cycles of overeating and physiological dysregulation3. 
+The epidemiological trajectory suggests that metabolic overload and 
+neurological vulnerability are not isolated phenomena but may reflect 
+shared biological mechanisms4.
+A growing body of evidence supports this view. Chronic meta-
+bolic overload alters central circuits that maintain energy balance, 
+disrupts neurovascular and inflammatory homeostasis and acceler-
+ates brain ageing5. Obesity is consistently associated with reduced 
+cognitive performance and brain volume, and imaging signatures 
+of accelerated brain ageing6,7. Unsurprisingly, these accumulating 
+alterations heighten the risk for neurological disorders8. Importantly, 
+obesity is not a uniform state. Visceral adiposity, defined as the excess 
+intra-abdominal fat surrounding internal organs, is the strongest pre-
+dictor of metabolic dysfunction, more so than total fat mass, and 
+is linked to greater structural and functional disruption within the 
+brain9,10. The mechanisms discussed in this Perspective, including 
+inflammatory, vascular-barrier and fluid-structural pathways, primarily 
+reflect the consequences of visceral obesity.
+Yet a shared mechanism does not automatically imply causality 
+or a unified disease model. To understand how chronic metabolic 
+overload contributes to progressive neural decline, both reductionist 
+and systems-level approaches are needed. This Perspective adopts 
+that dual framework: dissecting how obesity perturbs specific cel-
+lular, vascular and inflammatory processes (reductionist view), while 
+Received: 11 August 2025
+Accepted: 30 January 2026
+Published online: 27 February 2026
+ Check for updates
+1Department of Medicine, UC San Diego School of Medicine, La Jolla, CA, USA. 2Laboratory of Neurovascular Control of Homeostasis, Department of 
+Cellular and Molecular Physiology, Yale University School of Medicine, New Haven, CT, USA. 3Scripps Research Translational Institute, La Jolla, CA, USA. 
+ e-mail: bac008@health.ucsd.edu; marc.schneebergerpane@yale.edu; etopol@scripps.edu
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+547
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+The domino effect of neurodegeneration
+Understanding how neurocircuit dysfunction unfolds in the context of 
+obesity requires moving beyond the traditional neuron-centric model, 
+where neurons are seen as the sole drivers of brain function. Instead, 
+a more comprehensive framework is emerging in which glial, vascu-
+lar and immune cells have indispensable and interconnected roles in 
+maintaining neural stability27. Within this expanded view, the brain 
+is recognized as a dynamic neuro–glial–vascular ecosystem whose 
+homeostasis depends on coordinated communication across multiple 
+cell types. Chronic metabolic overload disrupts this balance, provok-
+ing time-dependent and region-specific shifts in cellular states. By 
+examining how signals propagate across these diverse populations, 
+we can begin to identify network-level vulnerabilities that predispose 
+specific brain circuits to neurodegeneration.
+Recent advances in neuroscience, including single-cell and spatial 
+omics, genetically defined cell-type-specific targeting and intravital 
+imaging, have enabled high-resolution mapping of cell–cell interac-
+tions within the brain28,29. These tools make it possible to move beyond 
+isolated pathways and towards an integrate understanding of how 
+obesity perturbs the broader architecture of brain function. The fol-
+lowing section introduces an emerging paradigm that shifts from a 
+neuron-centric view and integrates the entirety of the neuro–glial–
+vascular unit (NVU), capturing the microenvironmental complexity 
+and heterogeneity that shape circuit resilience.
+A well-characterized example of NVU-mediated communication 
+is neurovascular coupling (NVC) or functional hyperaemia, in which 
+active neurons signal to nearby blood vessels to increase local cerebral 
+blood flow (CBF)30. Yet neuron–vascular interactions extend far beyond 
+NVC. Neuronal activity also drives vascular remodelling, modulates 
+glymphatic clearance of metabolic waste and influences oligodendro-
+cyte maturation and adaptive myelination31–34. These processes are 
+deeply interdependent, forming an intricately coordinated network in 
+which perturbations at any node can reverberate through the system. 
+Disruption of this finely tuned coordination has profound implications 
+for both local circuit function and global network integrity.
+At the systems level, interventions such as brain-wide gamma 
+stimulation illustrate the integrative nature of NVU function: these 
+oscillatory manipulations simultaneously promote vascular remodel-
+ling, glial plasticity, waste clearance and myelin adaptation35–38. Such 
+findings underscore that brain health is inherently multicellular, sus-
+tained not by neurons alone but by the emergent properties of a coor-
+dinated, brain-wide cellular ensemble. When challenged by chronic 
+metabolic overload, this intricate system becomes increasingly fragile, 
+initiating a cascade of maladaptive responses that propagate through 
+neurons, glia and vasculature in a progressive, circuit-specific manner.
+In the following sections, we adopt a reductionist approach to dis-
+sect how obesity alters the major components of brain homeostasis. We 
+then integrate these insights into a cohesive systems-level framework, 
+proposing a convergent-cascade model in which dysfunction of the 
+NVU represents a central pathway linking chronic overnutrition to 
+progressive neurodegeneration.
+Contrasting frameworks of neurodegenerative 
+vulnerability in obesity: cascade versus 
+convergence
+Although obesity is known to alter both brain structure and function, 
+integrating these diverse effects into a unified mechanistic model 
+remains challenging. The current understanding is that the brain, 
+particularly the hypothalamus, defends a biologically stable level of 
+adiposity through long-term homeostatic mechanisms that match 
+energy intake to expenditure39. In obesity, this defended level shifts 
+upwards rather than collapsing entirely, and this resetting is accompa-
+nied by hypothalamic inflammation and gliosis40,41. Because these exact 
+glial and immune mechanisms are implicated in neurodegenerative 
+diseases42, such persistent adaptations represent only one of several 
+assembling these alterations into an integrated model of how meta-
+bolic stress accelerates neurodegeneration (systems-level view). 
+Throughout this Perspective, we clearly differentiate between pre-
+clinical and clinical evidence and explicitly note where human data 
+remain limited.
+As we uncover how metabolism sculpts the brain at the molecu-
+lar, cellular and systems levels, a holistic picture emerges: metabolic 
+health is not only about the body; it is fundamentally about the brain. 
+Understanding this relationship is essential for designing the next 
+generation of metabolic therapies, in which protecting the brain is as 
+central as controlling weight or glucose.
+Obesity-driven vulnerability to cognitive decline 
+and neurodegeneration
+Although obesity is associated with measurable cognitive impairments, 
+the extent to which these changes reflect actual neurodegeneration 
+processes remains unresolved. Obesity and neurodegeneration do 
+not constitute a strict clinical continuum. Most individuals with obe-
+sity will never develop a neurodegenerative disorder, and many peo-
+ple with Alzheimer’s disease or related conditions have no history of 
+obesity. Nevertheless, epidemiological evidence consistently links 
+metabolic dysfunction to an increased risk of accelerated cognitive 
+ageing11, suggesting that obesity can act as a vulnerability factor in 
+certain individuals.
+Large-scale neuroimaging cohorts have reported overlapping 
+patterns of brain atrophy in obesity and Alzheimer’s disease, particu-
+larly in temporo-parietal and hippocampal regions12. Dietary patterns 
+provide further insight: higher consumption of ultra-processed foods, 
+rich in refined carbohydrates, fats and additives, is associated with 
+accelerated cognitive decline13, whereas diets enriched in whole foods, 
+such as vegetables, fruit and whole grains, correlate with greater corti-
+cal and hippocampal volumes14. This relationship appears especially 
+salient in adolescence, a period of heightened neurodevelopmental 
+plasticity, when childhood obesity has become a global health con-
+cern15. Cognitive deficits, such as sluggish cognitive tempo, are more 
+prevalent in children with obesity than in their healthy peers16, rais-
+ing concern that early-life metabolic stress may reshape long-term 
+neurocognitive trajectories. Maternal obesity compounds this vul-
+nerability, with increased rates of neuropsychiatric and neurodevelop-
+ment disorders, documented across offspring cohorts17,18. Together, 
+these data underscore the urgency of public health strategies aimed 
+at mitigating childhood and maternal obesity to reduce downstream 
+neurological burden19.
+While epidemiological associations highlight the scope of the 
+problem, experimental models have begun to reveal the biological 
+pathways that may causally link obesity to neural vulnerability. Pre-
+clinical studies provide more mechanistic consistency than human 
+data, yet their translational relevance must be interpreted cautiously. 
+In mouse models, obesity induces glial senescence within neurogenic 
+niches, and clearance of these senescent cells restores neurogenesis 
+and ameliorates anxiety-like behaviour20. Obesity also heightens neu-
+roinflammation, promotes lipid accumulation in glial and endothelial 
+populations, and compromises blood–brain barrier (BBB) integrity, 
+collectively sensitizing the brain to injury and degeneration21. Nota-
+bly, metabolic overload exacerbates cognitive decline across diverse 
+models of Alzheimer’s disease and Parkinson’s disease22–24, suggesting 
+that obesity can accelerate pathogenic processes even when it is not 
+the primary driver of disease.
+Therefore, emerging evidence supports a view in which obesity 
+exerts widespread systemic effects, including metabolic, inflamma-
+tory, vascular and hormonal effects, that converge on the brain to lower 
+its threshold for dysfunction4,25,26. This Perspective synthesizes these 
+insights to examine how chronic metabolic overload reshapes cerebral 
+architecture and function, increasing susceptibility to cognitive decline 
+and neurological disease.
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+548
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+potential routes by which metabolic stress may reshape brain function 
+and increase susceptibility to neural decay.
+Two prevailing conceptual models have been used to interpret 
+neurodegenerative vulnerability in obesity. The ‘cascade hypothesis’ 
+posits that a single initiating insult, such as inflammation, triggers a 
+sequential chain of downstream events (‘domino effect’) culminating 
+in cognitive decline. The ‘convergence hypothesis’ suggests instead 
+that multiple pathological processes (vascular, immune, metabolic, 
+structural) act in parallel on shared neural substrates, ultimately con-
+verging on degenerative outcome. Canonical examples are the amyloid 
+cascade hypothesis and the two-hit model43,44. Both frameworks cap-
+ture elements of disease progression yet oversimplify the complexity 
+and interdependence of chronic metabolic injury.
+In obesity, early hypothalamic inflammation has been inter-
+preted as a potential cascade trigger. Rodents exposed to a high-fat 
+diet (HFD) for as little as 3 days exhibit reactive gliosis and neuronal 
+injury in the mediobasal hypothalamus. This phenomenon is also 
+observed in humans with obesity45,46. Early immune activation perturbs 
+NVC and CBF, processes tightly regulated by glial and endothelial 
+cells47,48. Disruption of NVU communication may, therefore, initiate a 
+self-amplifying sequence of maladaptive responses, including extra-
+cellular matrix (ECM) remodelling, myelin disruption and deficits 
+in cognition.
+The convergence hypothesis offers an alternative view, arguing 
+that overnutrition simultaneously disrupts multiple systems, each of 
+which contributes independently to neurodegeneration. Yet given the 
+extensive cross-talk among NVU components, few processes operate 
+in true isolation. Perturbations in vascular signalling rapidly influence 
+glial states; inflammatory activation alters barrier function; metabolic 
+stress reshapes neuronal firing. Thus, what appears as parallel pathol-
+ogy at the tissue level may, at the cellular level, represent a deeply 
+interconnected system undergoing progressive decoupling.
+We propose a unified ‘convergent-cascade’ framework that recon-
+ciles both models. Early metabolic overload produces a set of parallel 
+disruptions (altered NVC, reduced CBF, impaired fluid clearance) that 
+arise concurrently and may initially be compensatory. Over time, accu-
+mulated dysfunction reaches a tipping point (‘convergence’), after 
+which vascular stress, glial activation and barrier breakdown begin to 
+amplify each other in a non-linear manner49. This escalation produces 
+a downstream ‘cascade’ of maladaptive outcomes, including ECM 
+destabilization, myelin loss and network-level impairment (Fig. 1). This 
+model better reflects the multifactorial nature of obesity and aligns 
+with analogous debates in metabolic biology, such as carbohydrate–
+insulin versus energy-balance models, where overlapping mechanisms 
+reinforce one another over time.
+In the next sections, we dissect how metabolic overload per-
+turbs individual components of brain homeostasis and then inte-
+grate these findings into a cohesive systems-level framework of 
+obesity-related neurodegeneration.
+Disrupted neurovascular communication in 
+obesity
+NVC has a central role in maintaining cerebral homeostasis. It matches 
+local neuronal demand with appropriate nutrient delivery and supports 
+waste-clearance mechanisms50. Disruption of this tightly regulated 
+mechanism has been observed across neurological disorders and is 
+frequently accompanied by alterations in CBF51. Chronic overnutri-
+tion predictably perturbs both NVC and CBF, probably reflecting an 
+initial adaptive response to sustained metabolic excess that becomes 
+maladaptive over time52,53.
+Human studies consistently demonstrate that higher body mass 
+index (BMI) is associated with global reductions in CBF and dimin-
+ished cerebrovascular reactivity, particularly in regions implicated 
+in Alzheimer’s disease pathology, suggesting a mechanistic pathway 
+Vascular
+remodelling
+BBB leakage
+Neurovascular
+uncoupling
+Stage 1
+Stage 2
+Convergent initiation—parallel,
+interacting disruption 
+Network amplification
+and emergent compensation
+Cascade of structural and
+functional deterioration
+Cerebral
+hypoperfusion
+Metabolic overload
+Glymphatic
+dysfunction
+Stage 3
+Demyelination
+ECM
+destabilization
+Neurodegeneration
+Fig. 1 | Integrated framework for obesity-induced neurodegeneration. 
+The integrated framework aims to combine both parallel and sequential 
+pathophysiological processes in the metabolically compromised brain. Instead 
+of a linear cascade or isolated convergence, this model represents a dynamic 
+and interconnected system. The first stage represents a converging set of 
+parallel insults that independently respond to overnutrition yet are functionally 
+interdependent. These triggers lead to adaptive responses seen in stage 2 
+such as vascular remodelling and increased BBB permeability. While these 
+early changes in stage 2 can help maintain perfusion or allow more immune 
+surveillance and metabolic exchange, their persistence drives a maladaptive 
+shift characterized by chronic inflammation, neurovascular uncoupling, ECM 
+destabilization and demyelination. This reflects the cascade hypothesis, where 
+convergent disturbances trigger sequential downstream pathologies. Stage 3 
+is the downstream degenerative phase where compensatory and converging 
+processes result in potentially irreversible structural and functional damage. The 
+cumulative effects of these stages act as a nexus between obesity and increased 
+risk of neurodegeneration. Created in BioRender. Laboratory, S.  
+https://biorender.com/ya76dqy (2026).
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+549
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+linking metabolic overload to cognitive decline54–56. Dietary inter-
+ventions reinforce this relationship: adherence to a Mediterranean 
+diet increases whole-brain perfusion and shifts amyloid biomarkers 
+towards a lower-risk profile measured by increased Aβ42/Aβ20 ratio57, 
+whereas Western-style diets have the opposite effect54,58,59. Although 
+such biomarker changes should not be interpreted as true modifica-
+tion of Alzheimer’s disease risk, which develops over decades, they 
+demonstrate how diet can acutely shape cerebrovascular physiology.
+Physical activity exerts protective effects on cerebrovascular 
+function in individuals with obesity58. Notably, neurovascular altera-
+tions also emerge during adolescence, where obesity is associated with 
+reduced CBF in the cerebellum, precentral gyrus and supplementary 
+motor area60. Similar reductions are seen in individuals with T2DM, 
+particularly within the hippocampus, occipital and parietal cortices, 
+and amygdala61,62. These data point to a global shift in brain haemody-
+namics in response to metabolic shifts.
+Converging evidence from animal models strengthens this inter-
+pretation. In HFD-fed mice, overnutrition impairs sensory-evoked CBF 
+in the somatosensory cortex and decreases resting and odour-evoked 
+CBF in the olfactory bulb63,64. Given the olfactory bulb’s extensive 
+projections to emotion- and memory-related circuits65, olfactory loss 
+is a known early marker of neurological decline, and vascular dysfunc-
+tion in this region may represent an early sentinel of broader neural 
+vulnerability66. The hippocampus is similarly affected: a HFD reduces 
+hippocampal CBF in mice, which is associated with both visceral adi-
+posity and cognitive function67, and early T2DM impairs hippocampal 
+NVC in rats via reduced nitric oxide bioavailability68. These findings 
+reinforce altered haemodynamic signalling as a potential early driver 
+of metabolically induced neurodegeneration.
+Collectively, these findings support the hypothesis that neuro-
+vascular uncoupling and reduced CBF may serve as initiating events 
+in obesity-induced neurodegeneration (Fig. 2). The brain may, at 
+least transiently, attempt to compensate via structural remod-
+elling of vascular architecture, a response with both adaptive and 
+pathological implications69,70.
+Structural reorganization of the cerebral 
+vasculature
+As the effector arm of NVC, the cerebral vasculature dynamically adjusts 
+blood flow to match local metabolic demand71. This network, com-
+posed of endothelial cells, pericytes, smooth muscle cells and astrocyte 
+endfeet, continuously interprets metabolic and inflammatory signals 
+to maintain homeostasis. In obesity and neurodegenerative disease, 
+however, this system undergoes profound remodelling, ranging from 
+hypovascularization in vulnerable cortical regions to compensatory 
+hypervascularization in metabolically active areas72.
+Pathological angiogenesis is a well-recognized feature of neuro-
+degeneration. In Alzheimer’s disease, both amyloid-β and tau induce 
+aberrant vascular growth: amyloid-β promotes angiogenesis and dis-
+rupts the BBB, whereas tau drives vessel narrowing, abnormal spiralling 
+morphologies and increased but dysfunctional vessel density73. These 
+vessels often fail to deliver adequate nutrients and oxygen, creating 
+microdomains of hypoxia that destabilize the NVU and amplify both 
+neuronal and vascular injury. Such maladaptive angiogenesis reflects 
+a breakdown in normal coupling between vascular remodelling and 
+metabolic demand.
+Obesity appears to engage similar pathways. In humans, BMI cor-
+relates positively with tortuosity of small cerebral arteries, a marker of 
+pathological modelling associated with nearby white matter lesions74. 
+Post-mortem studies show increased arteriolar density in the hypo-
+thalamus of individuals with T2DM, consistent with region-specific 
+angiogenesis75. In murine models, a HFD or a high-fat high-sucrose 
+(HFHS) diet induces increased vessel length and density, along with 
+endothelial degeneration, particularly in the arcuate nucleus, the 
+Decreased CBF
+Healthy brain 
+Metabolic overload
+Neurovascular
+uncoupling
+Activated
+microglia
+Reactive
+astrocytes
+Amyloid-β
+plaque
+BBB breakdown
+Neurofibrillary tangle
+Leaky vessel
+Turbulent flow
+Endothelial
+basal lamina
+Glial basal
+lamina
+Vascular basal
+lamina
+Smooth
+muscle cell
+Endothelial
+cell
+Pericyte
+Microglia
+Oligodendrocyte
+Astrocyte
+Neuron
+Glymphatic
+dysfunction
+Neurovascular unit
+Healthy BBB
+CBF
+AQP4
+Periarterial
+Perivenous
+Fig. 2 | Convergent initiation—parallel, interacting disruption. Metabolic 
+overload blunts NVC, impairs CBF and disrupts glymphatic flow via shared 
+endothelial, astroglial and haemodynamic mechanisms. Although the temporal 
+order of these responses is unclear, NVC is intimately linked to both CBF 
+regulation and CSF flow. Because NVC governs activity-dependent arteriole 
+dilation and vasodynamics that pump CSF into perivascular spaces, its 
+impairment can simultaneously blunt CBF and glymphatic transport. Consistent 
+with this coupling, functional hyperaemia evoked by whisker stimulation 
+increases periarterial CSF influx. This is driven by neural activity-dependent 
+arterial diameter changes, rather than a direct neural modulation on CSF flow.
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+550
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+master regulator of energy homeostasis75. Hyperleptinaemia, a hall-
+mark of obesity, may contribute to this effect through chronic activa-
+tion of angiogenic signalling76.
+By contrast, the vascular architecture of higher-order cognitive 
+regions remains poorly characterized, although reported reductions 
+in CBF and NVC in these regions suggest progressive hypovasculariza-
+tion77. Studies in rodents highlight dynamic, phase-dependent remod-
+elling: early high-fat feeding increases vascular density and tortuosity 
+in the frontal cortex78, yet prolonged exposure produces vascular 
+rarefaction in hippocampus and cortex79. This pattern supports a 
+model in which initial maladaptive hypervascularization gives way to 
+progressive capillary loss, impairing nutrient delivery and accelerating 
+cognitive decline.
+Regional heterogeneity in remodelling suggests a broader organ-
+izing principle: brain areas at the brain–body interface (for example, 
+hypothalamus and circumventricular organs) exhibit hypervascu-
+larization to enhance nutrient sensing, whereas higher-order cogni-
+tive regions, which lack such adaptive remodelling, become more 
+susceptible to hypoperfusion and vulnerability. Irrespective of direc-
+tion, sustained vascular dysfunction is closely linked to increased BBB 
+permeability, immune activation and neuroinflammation80.
+BBB breakdown and immune cell infiltration
+The BBB serves as both a protective filter and a communication inter-
+face between the brain and periphery81. BBB dysfunction is a hallmark 
+of ageing and neurodegeneration, and growing evidence indicates that 
+it has a central role in obesity-induced brain vulnerability82. In women 
+with overweight or obesity, cerebrospinal fluid (CSF)-to-serum albu-
+min ratio, an index of BBB permeability, is higher than in lean control 
+women83. Individuals with T2DM show similarly elevated BBB perme-
+ability to magnetic resonance imaging contrast agents84, with serum 
+albumin ratio positively correlating with CSF biomarkers of endothelial 
+dysfunction85. Post-mortem analysis reveals loss of tight-junction pro-
+teins and increased immune cell infiltration in T2DM brains, indicating 
+widespread vascular leakage86.
+Interestingly, leptin transport across the BBB is impaired in obe-
+sity87. Although this might look paradoxical at first, increased passive 
+permeability to inert tracers and reduced active receptor-mediated 
+transport of hormones are consistent with a compromised BBB. 
+Chronic vascular stress thus creates a permissive environment 
+for neurodegeneration.
+The hippocampus is the region where BBB breakdown most con-
+sistently tracks with cognitive decline88. Accumulating research sug-
+gests that the hippocampal BBB is more vulnerable to breakdown 
+compared to other brain regions89. Although studies examining hip-
+pocampal BBB integrity in humans with obesity are limited, preclinical 
+studies indicate BBB dysfunction in obesity. In mice, 12–16 weeks of 
+high-fat feeding result in increased tracer penetration and reduced 
+tight-junction protein expression in hippocampus, whereas no abnor-
+malities are detectable at 8 weeks90. Remarkably, measurable increases 
+in BBB permeability emerge within 1 h of high-fat exposure91, and 3 
+days of feeding induce permeability changes associated with learning 
+and memory deficits92. These findings suggest a temporal sequence: 
+(1) immediate functional permeability changes (hours–days), (2) 
+compensatory stabilization period (weeks) and, (3) structural BBB 
+breakdown (months).
+A landmark study by Jais et al.93 revealed a mechanistic basis for this 
+progression. Short-term HFD feeding (3 days) downregulates GLUT1 
+expression in BBB endothelial cells, reducing glucose transport into the 
+brain as a compensatory mechanism93. Prolonged exposure (28 days) 
+restores GLUT1 levels in conjunction with increased vascular endothe-
+lial growth factor (VEGF) expression in BBB-associated macrophages, 
+suggesting an attempt to remodel the vasculature in response to nutri-
+ent stress. In chronic HFD conditions, myeloid-specific VEGF deletion 
+further increases BBB permeability and decreases GLUT1 expression 
+in the cortex and hippocampus. These findings point to a model in 
+which both hypervascularization and hypovascularization contribute 
+to a leaky BBB, depending on regional vascular capacity and meta-
+bolic demand94. Notably, hypothalamic regions, designed for dynamic 
+nutrient sensing, may be more capable of compensatory vascular 
+adaptation95. By contrast, cortex and hippocampus, regions with more 
+stable vascular structures, are less plastic and, therefore, more prone 
+to dysfunction. This regional disparity may explain why certain brain 
+areas are more vulnerable to obesity-induced neurodegeneration.
+BBB breakdown permits the infiltration of peripheral immune 
+cells, further altering the neuroimmune landscape96. In mice, one 
+week of a HFHS diet leads to infiltration of macrophages into the hypo-
+thalamus97. Whereas changes in regulatory T cells occur more gradu-
+ally, their decline over time correlates with increased type 1 helper 
+T cells, shifting the immune balance towards chronic inflammation. 
+Gain-of-function and loss-of-function studies confirm that regulatory 
+T cells modulate hypothalamic inflammation and metabolic health97. 
+Similar infiltration occurs in cortex and septum98, and correlates 
+strongly with body weight and adipose inflammation.
+These findings highlight a neuroinflammatory response to 
+primary metabolic overload in the brain as an initial compensatory 
+mechanism that becomes a chronic, secondary maladaptive response 
+to metabolic dysfunction (Fig. 3). In summary, obesity-induced neu-
+roinflammation is best understood as a two-phase process: an early, 
+localized hypothalamic response to nutrient excess, followed by a 
+secondary amplification driven by peripheral metabolic dysfunction 
+and systemic inflammation.
+This escalating immune system activation triggers downstream 
+processes, including the release of matrix metalloproteases that 
+degrade components of the ECM, setting the stage for structural dis-
+integration and further functional decline99.
+ECM destabilization and PNN vulnerability
+Once considered a passive structural scaffold, the ECM is now rec-
+ognized as a dynamic regulator of the neural microenvironment, 
+modulating synaptic plasticity, neuronal excitability and resistance 
+to oxidative and mechanical stress100. ECM dysfunction is increasingly 
+implicated across neurological diseases, yet its role in metabolic over-
+load is only beginning to be appreciated101. Emerging evidence suggests 
+that endothelial cell remodelling may represent a critical mechanism 
+linking obesity-induced inflammation to altered neural circuit function.
+In the hypothalamus of obese mice, perineuronal nets (PNNs), 
+specialized ECM structures surrounding neuronal soma, undergo 
+augmentation and restructuring, a phenomenon recently described 
+as neurofibrosis102. This remodelling is primarily driven by hypotha-
+lamic inflammation, which precedes and predicts metabolic dysfunc-
+tion. Notably, PNN changes are concentrated around agouti-related 
+peptide neurons in the arcuate nucleus, increasing their excitability 
+and promoting hyperphagia102. These neurofibrotic changes not only 
+enhance food intake but also impede insulin access to target neurons, 
+contributing to central insulin resistance. Disruption of these aber-
+rantly stabilized PNNs restores metabolic homeostasis and promotes 
+weight loss, identifying ECM remodelling as a promising therapeutic 
+target for metabolic diseases.
+However, the relationship is not uniform. PNNs in the median 
+eminence are required for maintaining energy balance in lean mice103. 
+This suggests that chronic metabolic overload may drive pathological 
+amplification of PNNs, parallelling the maladaptive vascular remodel-
+ling seen in obesity. However, the role of obesity in regulation of hypo-
+thalamic PNNs remains unsettled as other studies in HFD-fed mice have 
+found no increase in PNN formation in the arcuate nucleus104. These 
+discrepancies highlight methodological and temporal differences that 
+require further clarification.
+Beyond the hypothalamus, PNN-rich cortical and hippocam-
+pal circuits show distinct vulnerabilities. Short-term HFD or HFHS 
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+551
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+exposure reduces PNN intensity in cortex105,106 and decreases both 
+parvalbumin interneuron numbers and PNN density in hippocampus107. 
+These effects appear age-dependent: adolescent mice exhibit relative 
+resilience, whereas adults display rapid ECM degradation. Conversely, 
+long-term HFD exposure (23 weeks) results in excessive hippocampal 
+PNN accumulation, increased parvalbumin neuron number, impaired 
+synaptic dysregulation and emotional dysregulation108. Such opposing 
+trajectories probably reflect stage-specific responses, initial ECM loss 
+followed by reactive, maladaptive overproduction.
+Taken together, these data suggest a bidirectional vulnerability: 
+while hypothalamic circuits exhibit neurofibrotic PNN amplifica-
+tion that reinforces metabolic dysfunction, higher-order cognitive 
+regions show PNN degradation or pathological accumulation, 
+depending on exposure duration, contributing to cognitive impair-
+ment. Because the ECM regulates solute movement through the 
+interstitial space, its destabilization may also impair glymphatic 
+clearance, promoting accumulation of neurotoxic metabolites 
+such as amyloid-β and tau109,110. This positions ECM remodelling 
+as a central mediator in the bridge between metabolic overload 
+and neurodegeneration.
+Impaired glymphatic flow and accumulation of 
+neurotoxic metabolites
+The discovery of the glymphatic system reframed CSF flow as an active, 
+regulated waste-clearance pathway essential for solute exchange and 
+metabolic homeostasis111. Glymphatic efficiency depends on sleep 
+architecture, circadian rhythms, vascular pulsatility and astrocytic 
+aquaporin 4 (AQP4) polarization, all of which are disrupted in obesity112. 
+These vulnerabilities make glymphatic function particularly sensitive 
+to metabolic overload.
+Compensatory VEGF angiogenesis
+becomes maladaptive, impairing NVC
+VEGF
+Stalk cells
+Reactive
+astrocytes
+Metabolic overload
+Metabolic or hypoperfusion
+stress triggers compensatory
+nutrient-delivery responses
+Activated
+microglia
+Pro-inflammatory
+cytokines
+TNF, iNOS, IL-1β,
+IL-6, IL-12, IL-23
+Turbulent flow
+Glymphatic dysfunction
+Periarterial
+Decreased
+blood flow
+Leaky vessel
+Perivenous
+Neurovascular uncoupling
+Activated microglia
+Reactive
+astrocytes
+Amyloid-β plaque
+Neurofibrillary tangle
+BBB loosening allows leucocyte entry, causing
+capillary stalling and further NVC impairment
+Capillary
+Brain
+BBB
+Neutrophil
+Leucocyte
+Fig. 3 | Network amplification and emergent compensation. Under metabolic 
+or hypoperfusion stress, the brain mounts compensatory angiogenic and 
+permeability responses to preserve nutrient delivery. In overnutrition, 
+hypothalamic angiogenesis is driven by HIF1–VEGF signalling, which is 
+consistent with a compensatory vascular response to metabolic stress. VEGF 
+is a key signal that simultaneously increases BBB permeability and drives 
+angiogenesis; however, VEGF signalling can also stall brain capillaries and impair 
+microvascular flow. Newly formed vessels are often immature, exhibit reduced 
+mural cell coverage and show diminished vasoreactivity, which is a proxy for 
+impaired NVC. These changes destabilize CBF regulation and disrupt AQP4 
+polarization. The combination of angiogenesis and BBB loosening facilitates 
+leucocyte entry, which can further stall capillary flow and blunt NVC. Ensuing 
+vascular inflammation further comprises glymphatic transport, creating a self-
+reinforcing loop of degeneration. IL, interleukin; iNOS, inducible nitric oxide 
+synthase; TNF, tumour necrosis factor.
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+552
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+Human imaging studies link higher BMI to enlarged perivascular 
+spaces and altered vasomotor oscillations across cerebellar, brainstem, 
+insular and parietal regions113, patterns indicative of impaired intersti-
+tial waste clearance114. Glymphatic dysfunction is increasingly reported 
+across metabolic and neurodegenerative conditions: in Parkinson’s dis-
+ease, higher BMI associates with reduced glymphatic function115,116, and 
+obesity-related idiopathic intracranial hypertension features increased 
+extraventricular CSF volume and reduced venous outflow117. Parallel 
+discoveries in meningeal lymphatics, including lymphangiogenesis 
+near the cribriform plate and antigen sampling in dural lymphoid 
+structures, underscore an active immunological interface that may 
+be especially vulnerable to metabolic stress118,119.
+A seminal study by Delle et al.120 demonstrated region-specific 
+glymphatic remodelling in response to long-term HFD feeding. The 
+hypothalamus showed increased glymphatic influx and enhanced 
+AQP4 polarization, features that mirror its elevated vascularization 
+and BBB permeability, and may represent an adaptive response to 
+heightened metabolic demand. By contrast, glymphatic clearance and 
+AQP4 polarization were reduced in cortex and hippocampus, aligning 
+with their well-established vulnerability to cognitive decline121. Similar 
+reductions in AQP4 levels across frontal–striatal circuits of obese mice, 
+accompanied by gliosis and demyelination122, reinforce the interde-
+pendence of vascular, glial and fluid-transport pathways.
+Animal models of T2DM further support these findings: hip-
+pocampal glymphatic flow is reduced in T2DM rats and correlates with 
+memory impairments123. Although the relationship between specific 
+metabolic phenotypes and glymphatic failure remains incompletely 
+defined, the overarching principle is clear: altered metabolic states 
+reshape brain-wide waste-clearance capacity116.
+These findings align with a broader pattern: nutrient-sensing 
+regions such as the hypothalamus can augment vascular and glym-
+phatic function under nutrient excess. By contrast, areas with limited 
+exposure to circulating signals (cognitive loci) lack this flexibility and 
+may be predisposed to dysfunction under metabolic duress. Dys-
+regulated glymphatic flow promotes accumulation of amyloid-β, 
+tau and other neurotoxic metabolites, accelerating white matter 
+damage and cognitive decline124. Thus, glymphatic impairment 
+represents a key mechanistic link between metabolic overload and 
+progressive neurodegeneration.
+Myelin breakdown and white matter structural 
+decline
+White matter loss has long been viewed as a downstream consequence 
+of neurodegeneration, emerging only after substantial neuronal dam-
+age125. However, growing evidence indicates that myelin disruption 
+and axonal injury can arise early in disease progression, potentially 
+initiating cognitive decline rather than merely reflecting it126. Obesity 
+increases the risk of neurological disorders well before clinical symp-
+toms appear, with mounting evidence that alterations in brain myelin 
+content contribute to this vulnerability127.
+Chronic inflammation
+or severe tissue injury
+Interstitial matrix
+ECM destabilization
+Demyelination
+Interstitial matrix
+Basement membrane
+Blood vessel
+Pericytes
+Astrocyte endfeet
+Oligodendrocyte death
+Proliferated fibroblast
+Circulating immune
+cells
+Perivascular fibroblast
+Demyelinated axon
+Infiltrating immune cells
+Fibroblast
+Proteoglycan
+Myelin
+Neuron
+Collagen/elastic
+fibre
+Neurofibrillary tangle
+Amyloid-β plaque
+Reactive astrocytes
+Fig. 4 | Cascade of structural and functional deterioration. Accumulation 
+of neurotoxic molecules and pro-inflammatory immune cells can lead to 
+both structural and functional breakdown. An inflammatory milieu induces 
+perivascular fibroblasts and pericytes to expand and lay down a collagen-rich 
+scar that persists and disrupts tissue homeostasis. This results in a stiffer, leaky 
+microvasculature that halts perivascular CSF exchange. The compounding 
+effect of these processes creates a hostile microenvironment that jeopardizes 
+oligodendrocyte survival and drives demyelination.
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+553
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+In cognitively unimpaired adults, increased BMI and central adi-
+posity correlate with global reductions in myelin content, particularly 
+within later-myelinating tracts such as the corona radiata, longitudinal 
+fasciculus and thalamic radiations128. These regions are highly sus-
+ceptible to age-related degeneration, supporting the retrogenesis 
+hypothesis, which posits that circuits myelinated late in development 
+degenerate first under metabolic stress. Composite metabolic risk 
+scores also predict lower myelin density in late-developing tracts129. Vis-
+ceral obesity is associated with increased white matter hyperintensities 
+in the deep white matter, an association that persists independently of 
+common obesity comorbidities such as hypertension130. These micro-
+structural changes correlate with reduced cognitive performance131.
+Preclinical work begins to reveal underlying mechanisms. In mice, 
+chronic HFD feeding induces hypothalamic demyelination, persis-
+tent microglial activation and elevated inflammatory cytokines132. 
+These white matter abnormalities appear later than early immune 
+and vascular changes, suggesting that demyelination may represent 
+a downstream but integral phase of neurometabolic decline. Nota-
+bly, reduced myelin content also occurs in the corpus callosum, fron-
+tal cortex and hippocampus, regions associated with cognition and 
+interhemispheric communication133.
+Despite increased numbers of immature oligodendrocytes and 
+upregulated myelin-related genes, these regenerative responses 
+fail to restore structural integrity, suggesting a maladaptive or 
+exhausted repair programme. Genetic models reinforce this princi-
+ple: leptin-deficient ob/ob mice show profound hypomyelination and 
+cognitive deficits134, driven by chronic inflammation and the loss of 
+leptin’s pro-myelinating actions135. Similar processes probably occur 
+in diet-induced obesity, where leptin resistance compromises oligo-
+dendrocyte maturation and white matter stability.
+In aged mice, visceral adiposity is associated with iron deposition 
+and demyelination, supporting systemic inflammation as a key factor for 
+driving neurodegeneration136. Surgical removal of visceral fat reduces 
+central iron levels and ameliorates myelin loss in the cortex and corpus 
+callosum. Importantly, voluntary running, independent of weight loss, 
+reverses many of the obesity-induced structural abnormalities in these 
+regions, including demyelination and cerebrovascular dysfunction133, 
+underscoring the potential of behavioural interventions to restore white 
+matter integrity even under persistent metabolic stress.
+Taken together, these findings position white matter degradation 
+as both a consequence and contributor to neurometabolic decline. In 
+contrast to earlier, regionally heterogeneous changes, demyelination 
+appears to propagate more uniformly across the brain, indicating that 
+any sustained disruption to NVU function, whether through impaired 
+glymphatic flow, vascular remodelling or immune infiltration, can 
+compromise oligodendrocyte health and long-range network con-
+nectivity (Fig. 4).
+Reframing neurodegeneration through a brain–
+body framework
+Addressing the complexity of disorders such as obesity and neuro-
+degeneration demands interdisciplinary perspectives. The emerg-
+ing brain–body field reflects a transdisciplinary approach aimed at 
+understanding the bidirectional interactions between central and 
+peripheral systems137. This framework has reshaped our understand-
+ing of metabolic and neurological disease by demonstrating that they 
+share overlapping biological substrates and reciprocal regulatory 
+loops, coining the ‘neurometabolic’ field.
+A seminal example is the discovery of the hormone leptin, which 
+catalysed a conceptual shift by revealing extensive brain–body 
+cross-talk between adipose tissue and the brain138. Leptin transformed 
+obesity from a peripheral disorder of adiposity into a systemic condi-
+tion involving long-range neural, endocrine and immunological cir-
+cuits. Insights into the neurobiology of feeding behaviour and energy 
+balance subsequently led to the development of glucagon-like peptide 
+1 receptor (GLP1R) agonists, which have revolutionized clinical manage-
+ment of obesity and T2DM139. This same conceptual lens, identifying 
+systemic metabolic drivers of neural dysfunction, is now increasingly 
+applied to neurodegeneration. Preliminary data suggest that metabolic 
+interventions such as GLP1R agonists and metformin may complement 
+traditional neurological therapies140,141, although whether their benefits 
+arise from peripheral metabolic improvement, direct central nervous 
+system actions or both remains an active area of investigation (Box 1).
+The overarching message is integration. A neuron-centric view of 
+neurodegeneration is no longer sufficient; instead, the full repertoire 
+of central nervous system cell types (neurons, astrocytes, microglia, 
+oligodendrocytes and endothelial cells) must be incorporated into 
+models of disease. Similarly, rigid distinctions between ‘central’ and 
+BOX 1
+Repurposing metabolic drugs for brain–body neurodegeneration
+The purpose of viewing neurological disorders through a brain–body 
+framework is to tackle the multifaceted nature of these complex 
+pathologies. Owing to the interconnectedness between metabolic 
+and neurological disorders, it is within reason to suggest that 
+traditional metabolic drugs can be utilized for neurodegeneration. By 
+preventing or treating metabolic dysfunctions with these metabolic 
+drugs, they are indirectly mitigating the risk of neurological disorders. 
+These drugs also demonstrate direct effects on the brain by 
+targeting a variety of cell types and processes53. In individuals with 
+mild-to-moderate Alzheimer’s disease, treatment with the GLP1R 
+agonist liraglutide for 12 months reduces brain atrophy and cognition 
+compared to the placebo group142. Similarly, the use of dipeptidyl 
+peptidase 4 inhibitors reduces the rate of memory decline in people 
+with Alzheimer’s disease, whereas metformin improves memory 
+performance in healthy control individuals143. Treatment with GLP1R 
+agonists or sodium-glucose cotransporter 2 inhibitors decreases the 
+risk of Alzheimer’s disease and related dementias in patients with 
+T2DM144.
+In aged mice, metformin induces remyelination by restoring the 
+regenerative capacity of aged oligodendrocytes145. Linagliptin, a 
+dipeptidyl peptidase 4 inhibitor, ameliorates cognitive impairment 
+and brain insulin resistance in a rat model of Alzheimer’s disease146. 
+A combination of canonical neurodegenerative therapies with 
+complementary metabolic interventions may enhance treatment 
+efficacy. For example, co-administration of metformin and donepezil 
+improves cognitive function and abnormal glucose metabolism in 
+individuals with non-dementia vascular cognitive impairment147. 
+The same combination improves brain antioxidant defences and 
+attenuates hippocampal endoplasmic reticulum stress in diabetic 
+rats148. Although the data on human clinical trials are mixed, 
+preclinical models demonstrate the potential of these metabolic 
+drugs to improve neurological outcomes149. Future optimization of 
+the dose, timing and duration of treatment is required to maximize 
+the therapeutic efficacy. It is also important to determine the optimal 
+treatment window by identifying the proper patient populations that 
+will most likely benefit from these treatments.
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+554
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+‘peripheral’ disorders obscure the multifactorial nature of pathologi-
+cal processes and limit therapeutic discovery. Obesity, traditionally 
+classified as a peripheral disorder, illustrates this principle: chronic 
+metabolic overload reshapes neurovascular, immune and glial systems, 
+thereby elevating long-term neurological risk.
+A holistic brain–body framework opens avenues for interven-
+tion by acknowledging multiple interacting nodes of vulnerability 
+(metabolic, vascular, inflammatory, synaptic and structural) that can 
+be targeted to break self-reinforcing loops of degeneration.
+Conclusion
+Once regarded as separate clinical entities, obesity and neurologi-
+cal disorders are now understood to share deeply intertwined patho-
+physiological mechanisms. The obese brain exhibits features that 
+map onto multiple models of neurodegenerative vulnerability: con-
+vergent initiation, cascade propagation, tipping-point transitions, 
+network-level failure and, ultimately, multisystem homeostatic col-
+lapse. Chronic metabolic overload acts as a systemic stressor that per-
+turbs neurons, glia, vasculature and immune cells. These disruptions 
+are not isolated; instead, they interact dynamically across space and 
+time, creating a self-reinforcing cycle of vulnerability. Importantly, 
+metabolic stress increases the probability, not the inevitability, of 
+neurodegenerative outcomes.
+By integrating cascade and convergence models into a unified 
+framework, we highlight where these processes intersect and how they 
+evolve. This systems-level view reveals critical windows for interven-
+tion: blocking early triggers, slowing progressive cascades or inter-
+rupting feedback loops that amplify dysfunction.
+Addressing the neurometabolic consequences of obesity will 
+require strategies that extend beyond weight loss to target the cellular 
+and molecular underpinnings of brain vulnerability. The fact that the 
+system collapses only under multiple insults suggests that it may also 
+be rescued through multiple therapeutic entry points. By elucidating 
+the complex brain–body interactions that govern neurometabolic 
+health, we can lay the foundation for more effective treatments for 
+both metabolic and neurological diseases and ultimately bridge the 
+gap between them.
+References
+1.	
+Lane, M. M. et al. Ultra-processed food exposure and adverse 
+health outcomes: umbrella review of epidemiological 
+meta-analyses. BMJ 384, e077310 (2024).
+2.	
+McGrosky, A. et al. Energy expenditure and obesity across the 
+economic spectrum. Proc. Natl Acad. Sci. USA 122, e2420902122 
+(2025).
+3.	
+Zhu, Z. et al. Hedonic eating is controlled by dopamine neurons 
+that oppose GLP-1R satiety. Science 387, eadt0773 (2025).
+4.	
+Chen, B. & Schneeberger, M. Neuro-adipokine crosstalk in 
+Alzheimer's disease. Int. J. Mol. Sci. 25, 5932 (2024).
+5.	
+Wieckowska-Gacek, A., Mietelska-Porowska, A., Wydrych, M. &  
+Wojda, U. Western diet as a trigger of Alzheimer’s disease: 
+from metabolic syndrome and systemic inflammation to 
+neuroinflammation and neurodegeneration. Ageing Res. Rev. 70, 
+101397 (2021).
+6.	
+Li, P. et al. Effects of obesity on aging brain and cognitive decline: 
+a cohort study from the UK Biobank. IBRO Neurosci. Rep. 18, 
+148–157 (2025).
+7.	
+Golan Shekhtman, S. et al. Abdominal fat depots are related  
+to lower cognitive functioning and brain volumes in middle- 
+aged males at high Alzheimer’s risk. Obesity 32, 1009–1022 
+(2024).
+8.	
+Patel, V. & Edison, P. Cardiometabolic risk factors and 
+neurodegeneration: a review of the mechanisms underlying 
+diabetes, obesity and hypertension in Alzheimer’s disease.  
+J. Neurol. Neurosurg. Psychiatry 95, 581–589 (2024).
+9.	
+Tchernof, A. & Despres, J. P. Pathophysiology of human visceral 
+obesity: an update. Physiol. Rev. 93, 359–404 (2013).
+10.	 Zhang, D. et al. Regional adiposity shapes brain and cognition in 
+adults. Nat. Mental Health 3, 1168–1180 (2025).
+11.	
+Assuncao, N., Sudo, F. K., Drummond, C., de Felice, F. G. & Mattos, P.  
+Metabolic syndrome and cognitive decline in the elderly: a 
+systematic review. PLoS ONE 13, e0194990 (2018).
+12.	 Morys, F. et al. Obesity-associated neurodegeneration pattern 
+mimics Alzheimer’s disease in an observational cohort study.  
+J. Alzheimers Dis. 91, 1059–1071 (2023).
+13.	 Gomes Goncalves, N. et al. Association between consumption 
+of ultraprocessed foods and cognitive decline. JAMA Neurol. 80, 
+142–150 (2023).
+14.	 Croll, P. H. et al. Better diet quality relates to larger brain tissue 
+volumes: the Rotterdam study. Neurology 90, e2166–e2173 (2018).
+15.	 Lister, N. B. et al. Child and adolescent obesity. Nat. Rev. Dis. 
+Primers 9, 24 (2023).
+16.	 Yolcu, O. et al. Evaluation of sluggish cognitive tempo in children 
+and adolescents with obesity and morbid obesity. Clin. Child 
+Psychol. Psychiatry 30, 479–490 (2025).
+17.	
+Eleftheriades, A., Koulouraki, S., Belegrinos, A., Eleftheriades, M. &  
+Pervanidou, P. Maternal obesity and neurodevelopment of the 
+offspring. Nutrients 17, 891 (2025).
+18.	 Chen, B., de Launoit, E., Renier, N. & Schneeberger, M. Maternal 
+nutritional programming shapes the cerebral landscape. Trends 
+Endocrinol. Metab. 35, 367–370 (2024).
+19.	 Aychiluhm, S. B., Mondal, U. K., Isaac, V., Ross, A. G. & Ahmed, K. Y. 
+Interventions for childhood central obesity: a systematic review 
+and meta-analysis. JAMA Netw. Open 8, e254331 (2025).
+20.	 Ogrodnik, M. et al. ObesIty-induced cellular senescence drives 
+anxiety and impairs neurogenesis. Cell Metab. 29, 1061–1077 
+(2019).
+21.	 Rajput, M. et al. Cognitive decline and neuroinflammation in a 
+mouse model of obesity: an accelerating role of ageing. Brain 
+Behav. Immun. 125, 226–239 (2025).
+22.	 Gannon, O. J. et al. High-fat diet exacerbates cognitive decline in 
+mouse models of Alzheimer’s disease and mixed dementia in a 
+sex-dependent manner. J. Neuroinflammation 19, 110 (2022).
+23.	 So, S. W., Fleming, K. M., Nixon, J. P. & Butterick, T. A. Early life 
+obesity increases neuroinflammation, amyloid beta deposition, 
+and cognitive decline in a mouse model of Alzheimer’s disease. 
+Nutrients 15, 2494 (2023).
+24.	 Batarseh, N. & Al Thaher, Y. High-fat diet and related obesity 
+provoke neurotoxins and alter neuro-biomarkers involved in 
+Parkinson’s disease. Obes. Med. 41, 100500 (2023).
+25.	 Wang, J. et al. Extracellular vesicles mediate the communication 
+of adipose tissue with brain and promote cognitive impairment 
+associated with insulin resistance. Cell Metab. 34, 1264–1279 
+(2022).
+26.	 Chen, B. Iron dyshomeostasis links obesity and neurological 
+diseases. Neural Regen. Res. 21, 1985–1986 (2025).
+27.	 Alberini, C. M. Not just neurons: the diverse cellular landscape of 
+learning and memory. Neuron 113, 1664–1679 (2025).
+28.	 Jovic, D. et al. Single-cell RNA sequencing technologies and 
+applications: a brief overview. Clin. Transl. Med. 12, e694 (2022).
+29.	 Vazquez-Guardado, A., Yang, Y., Bandodkar, A. J. & Rogers, J. A. 
+Recent advances in neurotechnologies with broad potential for 
+neuroscience research. Nat. Neurosci. 23, 1522–1536 (2020).
+30.	 Meyer-Baese, L., Jaeger, D. & Keilholz, S. Neurovascular coupling: 
+a review of spontaneous neocortical dynamics linking neuronal 
+activity to hemodynamics and what we have learned from the 
+rodent brain. J. Neurophysiol. 133, 644–660 (2025).
+31.	 Lacoste, B. et al. Sensory-related neural activity regulates the 
+structure of vascular networks in the cerebral cortex. Neuron 83, 
+1117–1130 (2014).
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+555
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+32.	 Jiang-Xie, L. F. et al. Neuronal dynamics direct cerebrospinal fluid 
+perfusion and brain clearance. Nature 627, 157–164 (2024).
+33.	 Gibson, E. M. et al. Neuronal activity promotes 
+oligodendrogenesis and adaptive myelination in the mammalian 
+brain. Science 344, 1252304 (2014).
+34.	 Mitew, S. et al. Pharmacogenetic stimulation of neuronal activity 
+increases myelination in an axon-specific manner. Nat. Commun. 
+9, 306 (2018).
+35.	 Murdock, M. H. et al. Multisensory gamma stimulation promotes 
+glymphatic clearance of amyloid. Nature 627, 149–156 (2024).
+36.	 Martorell, A. J. et al. Multi-sensory gamma stimulation ameliorates 
+Alzheimer’s-associated pathology and improves cognition. Cell 
+177, 256–271 (2019).
+37.	 Da, X. et al. Noninvasive gamma sensory stimulation may reduce 
+white matter and myelin loss in Alzheimer’s disease. J. Alzheimers 
+Dis. 97, 359–372 (2024).
+38.	 Rodrigues-Amorim, D. et al. Multisensory gamma stimulation 
+mitigates the effects of demyelination induced by cuprizone in 
+male mice. Nat. Commun. 15, 6744 (2024).
+39.	 Johansen, V. B. I. et al. Brain control of energy homeostasis: 
+implications for anti-obesity pharmacotherapy. Cell 188,  
+4178–4212 (2025).
+40.	 Thaler, J. P., Guyenet, S. J., Dorfman, M. D., Wisse, B. E. & Schwartz, 
+M. W. Hypothalamic inflammation: marker or mechanism of 
+obesity pathogenesis? Diabetes 62, 2629–2634 (2013).
+41.	 Dorfman, M. D. & Thaler, J. P. Hypothalamic inflammation and 
+gliosis in obesity. Curr. Opin. Endocrinol. Diabetes Obes. 22, 
+325–330 (2015).
+42.	 Zhang, W., Xiao, D., Mao, Q. & Xia, H. Role of neuroinflammation in 
+neurodegeneration development. Signal. Transduct. Target. Ther. 
+8, 267 (2023).
+43.	 Kurkinen, M. et al. The amyloid cascade hypothesis in Alzheimer’s 
+disease: should we change our thinking? Biomolecules 13, 453 
+(2023).
+44.	 Eisenmenger, L. B. et al. Vascular contributions to Alzheimer’s 
+disease. Transl. Res. 254, 41–53 (2023).
+45.	 Thaler, J. P. et al. Obesity is associated with hypothalamic injury in 
+rodents and humans. J. Clin. Invest. 122, 153–162 (2012).
+46.	 Schur, E. A. et al. Radiologic evidence that hypothalamic gliosis is 
+associated with obesity and insulin resistance in humans. Obesity 
+23, 2142–2148 (2015).
+47.	 Csaszar, E. et al. Microglia modulate blood flow, neurovascular 
+coupling, and hypoperfusion via purinergic actions. J. Exp. Med. 
+219, e20211071 (2022).
+48.	 Institoris, A. et al. Astrocytes amplify neurovascular coupling to 
+sustained activation of neocortex in awake mice. Nat. Commun. 
+13, 7872 (2022).
+49.	 Simons, M., Levin, J. & Dichgans, M. Tipping points in 
+neurodegeneration. Neuron 111, 2954–2968 (2023).
+50.	 Iadecola, C. The neurovascular unit coming of age: a journey 
+through neurovascular coupling in health and disease. Neuron 
+96, 17–42 (2017).
+51.	 Sweeney, M. D., Kisler, K., Montagne, A., Toga, A. W. & Zlokovic, B. V.  
+The role of brain vasculature in neurodegenerative disorders. Nat. 
+Neurosci. 21, 1318–1331 (2018).
+52.	 Chen, B. et al. The interactions between energy homeostasis and 
+neurovascular plasticity. Nat. Rev. Endocrinol. 20, 749–759 (2024).
+53.	 Chen, B. et al. GLP-1 programs the neurovascular landscape. Cell 
+Metab. 36, 2173–2189 (2024).
+54.	 Amen, D. G., Wu, J., George, N. & Newberg, A. Patterns of regional 
+cerebral blood flow as a function of obesity in adults.  
+J. Alzheimers Dis. 77, 1331–1337 (2020).
+55.	 Glodzik, L. et al. Higher body mass index is associated with worse 
+hippocampal vasoreactivity to carbon dioxide. Front. Aging 
+Neurosci. 14, 948470 (2022).
+56.	 Frosch, O. H. et al. Insulin resistance among obese middle-aged is 
+associated with decreased cerebrovascular reactivity. Neurology 
+89, 249–255 (2017).
+57.	 Hoscheidt, S. et al. Mediterranean and Western diet effects 
+on Alzheimer’s disease biomarkers, cerebral perfusion, and 
+cognition in mid-life: a randomized trial. Alzheimers Dement. 18, 
+457–468 (2022).
+58.	 Knight, S. P. et al. Obesity is associated with reduced cerebral 
+blood flow - modified by physical activity. Neurobiol. Aging 105, 
+35–47 (2021).
+59.	 Willeumier, K. C., Taylor, D. V. & Amen, D. G. Elevated BMI is 
+associated with decreased blood flow in the prefrontal cortex 
+using SPECT imaging in healthy adults. Obesity 19, 1095–1097 
+(2011).
+60.	 Aghjayan, S. L. et al. Differences in adolescent cerebral perfusion 
+as a function of obesity: results from the FLEX-Brain study. Obesity 
+29, 1171–1177 (2021).
+61.	 Liu, J. et al. Cerebral blood flow alterations in type 2 diabetes 
+mellitus: a systematic review and meta-analysis of arterial  
+spin labeling studies. Front. Aging Neurosci. 14, 847218  
+(2022).
+62.	 Hu, B. et al. Disturbed neurovascular coupling in type 2 diabetes 
+mellitus patients: evidence from a comprehensive fMRI analysis. 
+Neuroimage Clin. 22, 101802 (2019).
+63.	 Li, W. et al. Early effects of high-fat diet on neurovascular function 
+and focal ischemic brain injury. Am. J. Physiol. Regul. Integr. 
+Comp. Physiol. 304, R1001–R1008 (2013).
+64.	 Soleimanzad, H. et al. Obesity in midlife hampers resting and 
+sensory-evoked cerebral blood flow in mice. Obesity 29, 150–158 
+(2021).
+65.	 De Cleene, N. et al. Olfactory dysfunction as potential biomarker 
+in neurodegenerative diseases: a narrative review. Front. Neurosci. 
+18, 1505029 (2024).
+66.	 Bhatia-Dey, N. & Heinbockel, T. The olfactory system as marker of 
+neurodegeneration in aging, neurological and neuropsychiatric 
+disorders. Int. J. Environ. Res. Public Health 18, 6976 (2021).
+67.	 Petrault, O. et al. Visceral adiposity links cerebrovascular 
+dysfunction to cognitive impairment in middle-aged mice. 
+Neurobiol. Dis. 130, 104536 (2019).
+68.	 Goncalves, J. S., Seica, R. M., Laranjinha, J. & Lourenco, C. F. 
+Impairment of neurovascular coupling in the hippocampus due 
+to decreased nitric oxide bioavailability supports early cognitive 
+dysfunction in type 2 diabetic rats. Free Radic. Biol. Med. 193, 
+669–675 (2022).
+69.	 Struys, T. et al. In vivo evidence for long-term vascular remodeling 
+resulting from chronic cerebral hypoperfusion in mice. J. Cereb. 
+Blood Flow Metab. 37, 726–739 (2017).
+70.	 Bennett, H. C. et al. Aging drives cerebrovascular network 
+remodeling and functional changes in the mouse brain. Nat. 
+Commun. 15, 6398 (2024).
+71.	 Chen, B., Meseguer, D., Renier, N. & Schneeberger, M. Dynamic 
+rewiring of neurovasculature in health and disease. Trends Mol. 
+Med. 29, 786–788 (2023).
+72.	 Li, C. et al. Reduced white matter venous density on MRI is 
+associated with neurodegeneration and cognitive impairment in 
+the elderly. Front. Aging Neurosci. 14, 972282 (2022).
+73.	 Biron, K. E., Dickstein, D. L., Gopaul, R. & Jefferies, W. A. Amyloid 
+triggers extensive cerebral angiogenesis causing blood brain 
+barrier permeability and hypervascularity in Alzheimer’s disease. 
+PLoS ONE 6, e23789 (2011).
+74.	 Sun, Z., Li, C., Wisniewski, T. W., Haacke, E. M. & Ge, Y. In vivo 
+detection of age-related tortuous cerebral small vessels using 
+ferumoxytol-enhanced 7T MRI. Aging Dis. 15, 1913–1926 (2024).
+75.	 Yi, C. X. et al. High calorie diet triggers hypothalamic angiopathy. 
+Mol. Metab. 1, 95–100 (2012).
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+556
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+76.	 Gruber, T. et al. Obesity-associated hyperleptinemia alters 
+the gliovascular interface of the hypothalamus to promote 
+hypertension. Cell Metab. 33, 1155–1170 (2021).
+77.	 Qiao, Y. S. et al. Cerebral blood flow alterations and obesity: a 
+systematic review and meta-analysis. J. Alzheimers Dis. 90, 15–31 
+(2022).
+78.	 Li, J., Sun, N., Hu, S. & Zuo, Z. Chronic high fat diet-induced 
+cerebrovascular remodeling impairs recovery of blood flow 
+after cerebral ischemia in mice. J. Cereb. Blood Flow Metab. 45, 
+1116–1129 (2025).
+79.	 Freeman, L. R. & Granholm, A. C. Vascular changes in rat 
+hippocampus following a high saturated fat and cholesterol diet. 
+J. Cereb. Blood Flow Metab. 32, 643–653 (2012).
+80.	 Bernocchi, F. et al. Astrocytic-derived vascular remodeling 
+factors are independently associated with blood brain barrier 
+permeability in Alzheimer’s disease. Neurobiol. Aging 141, 66–73 
+(2024).
+81.	 Wu, D. et al. The blood-brain barrier: structure, regulation, and 
+drug delivery. Signal Transduct. Target. Ther. 8, 217 (2023).
+82.	 Sweeney, M. D., Sagare, A. P. & Zlokovic, B. V. Blood-brain barrier 
+breakdown in Alzheimer disease and other neurodegenerative 
+disorders. Nat. Rev. Neurol. 14, 133–150 (2018).
+83.	 Gustafson, D. R. et al. Mid-life adiposity factors relate to 
+blood-brain barrier integrity in late life. J. Intern. Med. 262, 
+643–650 (2007).
+84.	 Starr, J. M. et al. Increased blood-brain barrier permeability in type 
+II diabetes demonstrated by gadolinium magnetic resonance 
+imaging. J. Neurol. Neurosurg. Psychiatry 74, 70–76 (2003).
+85.	 Janelidze, S. et al. Increased blood-brain barrier permeability 
+is associated with dementia and diabetes but not amyloid 
+pathology or APOE genotype. Neurobiol. Aging 51, 104–112 (2017).
+86.	 Sheikh, M. H. et al. Impact of metabolic disorders on the 
+structural, functional, and immunological integrity of the 
+blood-brain barrier: therapeutic avenues. FASEB J. 36, e22107 
+(2022).
+87.	 Banks, W. A. & Farrell, C. L. Impaired transport of leptin across the 
+blood-brain barrier in obesity is acquired and reversible. Am. J. 
+Physiol. Endocrinol. Metab. 285, E10–E15 (2003).
+88.	 Montagne, A. et al. Blood-brain barrier breakdown in the aging 
+human hippocampus. Neuron 85, 296–302 (2015).
+89.	 Davidson, T. L. & Stevenson, R. J. Vulnerability of the 
+hippocampus to insults: links to blood-brain barrier dysfunction. 
+Int. J. Mol. Sci. 25, 1991 (2024).
+90.	 Yamamoto, M., Guo, D. H., Hernandez, C. M. & Stranahan, A. M. 
+Endothelial Adora2a activation promotes blood-brain barrier 
+breakdown and cognitive impairment in mice with diet-induced 
+insulin resistance. J. Neurosci. 39, 4179–4192 (2019).
+91.	 Leidmaa, E., Zimmer, A., Stein, V. & Gellner, A. K. Acute high-fat 
+high-sugar diet rapidly increases blood-brain barrier permeability 
+in mice. J. Nutr. Health Aging 29, 100574 (2025).
+92.	 de Paula, G. C. et al. Hippocampal function is impaired by a 
+short-term high-fat diet in mice: increased blood-brain barrier 
+permeability and neuroinflammation as triggering events. Front. 
+Neurosci. 15, 734158 (2021).
+93.	 Jais, A. et al. Myeloid-cell-derived VEGF maintains brain glucose 
+uptake and limits cognitive impairment in obesity. Cell 165, 
+882–895 (2016).
+94.	 Salameh, T. S., Mortell, W. G., Logsdon, A. F., Butterfield, D. A. & 
+Banks, W. A. Disruption of the hippocampal and hypothalamic 
+blood-brain barrier in a diet-induced obese model of type II 
+diabetes: prevention and treatment by the mitochondrial carbonic 
+anhydrase inhibitor, topiramate. Fluids Barriers CNS 16, 1 (2019).
+95.	 Chen, B., Furtado, J. & Schneeberger, M. Neurovascular plasticity 
+as a modulator of hypothalamic function. Rev. Endocr. Metab. 
+Disord. https://doi.org/10.1007/s11154-025-09982-5 (2025).
+96.	 Huang, X., Hussain, B. & Chang, J. Peripheral inflammation and 
+blood-brain barrier disruption: effects and mechanisms. CNS 
+Neurosci. Ther. 27, 36–47 (2021).
+97.	 Becker, M. et al. Regulatory T cells in the mouse hypothalamus 
+control immune activation and ameliorate metabolic impairments 
+in high-calorie environments. Nat. Commun. 16, 2744 (2025).
+98.	 Buckman, L. B. et al. Obesity induced by a high-fat diet is 
+associated with increased immune cell entry into the central 
+nervous system. Brain Behav. Immun. 35, 33–42 (2014).
+99.	 Sutherland, T. E., Dyer, D. P. & Allen, J. E. The extracellular matrix 
+and the immune system: a mutually dependent relationship. 
+Science 379, eabp8964 (2023).
+100.	Soles, A. et al. Extracellular matrix regulation in physiology and in 
+brain disease. Int. J. Mol. Sci. 24, 7049 (2023).
+101.	 Pinter, P. & Alpar, A. The role of extracellular matrix in human 
+neurodegenerative diseases. Int J. Mol. Sci. 23, 11085 (2022).
+102.	Beddows, C. A. et al. Pathogenic hypothalamic extracellular 
+matrix promotes metabolic disease. Nature 633, 914–922 (2024).
+103.	Kohnke, S. et al. Nutritional regulation of oligodendrocyte 
+differentiation regulates perineuronal net remodeling in the 
+median eminence. Cell Rep. 36, 109362 (2021).
+104.	Mirzadeh, Z. et al. Perineuronal net formation during the critical 
+period for neuronal maturation in the hypothalamic arcuate 
+nucleus. Nat. Metab. 1, 212–221 (2019).
+105.	Dingess, P. M. et al. Consumption of a high-fat diet alters 
+perineuronal nets in the prefrontal cortex. Neural Plast. 2018, 
+2108373 (2018).
+106.	Reichelt, A. C., Gibson, G. D., Abbott, K. N. & Hare, D. J. A high-fat 
+high-sugar diet in adolescent rats impairs social memory and 
+alters chemical markers characteristic of atypical neuroplasticity 
+and parvalbumin interneuron depletion in the medial prefrontal 
+cortex. Food Funct. 10, 1985–1998 (2019).
+107.	 Reichelt, A. C. et al. Age-dependent and region-specific alteration 
+of parvalbumin neurons, perineuronal nets and microglia in the 
+mouse prefrontal cortex and hippocampus following obesogenic 
+diet consumption. Sci. Rep. 11, 5593 (2021).
+108.	Hu, J. et al. 1-Methyltryptophan treatment ameliorates high-fat 
+diet-induced depression in mice through reversing changes in 
+perineuronal nets. Transl. Psychiatry 14, 228 (2024).
+109.	Singh, A., Kaakinen, M., Elamaa, H., Kiviniemi, V. & Eklund, L. The 
+glycosaminoglycan chains of perlecan regulate the perivascular 
+fluid transport. Fluids Barriers CNS 22, 48 (2025).
+110.	 Hitpass Romero, K. et al. Age-related meningeal extracellular 
+matrix remodeling compromises CNS lymphatic function.  
+J. Neuroinflammation 22, 109 (2025).
+111.	 Iliff, J. J. et al. A paravascular pathway facilitates CSF flow  
+through the brain parenchyma and the clearance of interstitial 
+solutes, including amyloid beta. Sci. Transl. Med. 4, 147ra111 
+(2012).
+112.	 Chen, B. Melatonin reverses obesity-induced neurodegeneration 
+through glymphatic restoration. Neural Regen. Res. https://doi.
+org/10.4103/nrr.Nrr-d-25-00797 (2025).
+113.	 Raitamaa, L. et al. Association of body-mass index with 
+physiological brain pulsations across adulthood - a fast fMRI 
+study. Int. J. Obes. 48, 1011–1018 (2024).
+114.	 Barisano, G., Sheikh-Bahaei, N., Law, M., Toga, A. W. & 
+Sepehrband, F. Body mass index, time of day and genetics affect 
+perivascular spaces in the white matter. J. Cereb. Blood Flow 
+Metab. 41, 1563–1578 (2021).
+115.	 Chen, B., Lenck, S., Thomas, J. L. & Schneeberger, M. The 
+glymphatic system as a nexus between obesity and neurological 
+diseases. Nat. Rev. Endocrinol. 21, 1–2 (2025).
+116.	 Chen, B., Meseguer, D., Lenck, S., Thomas, J. L. & Schneeberger, M. 
+Rewiring of the glymphatic landscape in metabolic disorders. 
+Trends Endocrinol. Metab. 36, 710–720 (2025).
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+557
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+117.	 Alperin, N. et al. MRI evidence of impaired CSF homeostasis in 
+obesity-associated idiopathic intracranial hypertension. AJNR Am. 
+J. Neuroradiol. 34, 29–34 (2013).
+118.	 Hsu, M. et al. Neuroinflammation-induced lymphangiogenesis 
+near the cribriform plate contributes to drainage of CNS-derived 
+antigens and immune cells. Nat. Commun. 10, 229 (2019).
+119.	 Hsu, M. et al. Neuroinflammation creates an immune regulatory 
+niche at the meningeal lymphatic vasculature near the cribriform 
+plate. Nat. Immunol. 23, 581–593 (2022).
+120.	Delle, C. et al. Long-term high-fat diet increases glymphatic 
+activity in the hypothalamus in mice. Sci. Rep. 13, 4137 (2023).
+121.	 Peng, W. et al. Long-term high-fat diet impairs AQP4-mediated 
+glymphatic clearance of amyloid beta. Mol. Neurobiol. 62, 
+1079–1093 (2025).
+122.	Fu, J. T. et al. Exploring the reduction in aquaporin-4 and 
+increased expression of ciliary neurotrophic factor with the 
+frontal-striatal gliosis induced by chronic high-fat dietary stress.  
+J. Neurochem. 169, e16236 (2025).
+123.	Jiang, Q. et al. Impairment of the glymphatic system after 
+diabetes. J. Cereb. Blood Flow Metab. 37, 1326–1337 (2017).
+124.	Huang, S. Y. et al. Glymphatic system dysfunction predicts 
+amyloid deposition, neurodegeneration, and clinical progression 
+in Alzheimer's disease. Alzheimers Dement. 20, 3251–3269 (2024).
+125.	Huang, Z., Zhang, Y., Zou, P., Zong, X. & Zhang, Q. Myelin 
+dysfunction in aging and brain disorders: mechanisms and 
+therapeutic opportunities. Mol. Neurodegener. 20, 69 (2025).
+126.	Araque Caballero, M. A. et al. White matter diffusion alterations 
+precede symptom onset in autosomal dominant Alzheimer’s 
+disease. Brain 141, 3065–3080 (2018).
+127.	 Chen, B., de Launoit, E., Renier, N. & Schneeberger, M. Central 
+myelin dysfunction bridges obesity and neurological diseases. 
+Trends Endocrinol. Metab. 35, 7–10 (2024).
+128.	Bouhrara, M. et al. Evidence of association between obesity and 
+lower cerebral myelin content in cognitively unimpaired adults. 
+Int. J. Obes. 45, 850–859 (2021).
+129.	Burzynska, A. Z. et al. Metabolic syndrome and adiposity: risk 
+factors for decreased myelin in cognitively healthy adults. Cereb. 
+Circ. Cogn. Behav. 5, 100180 (2023).
+130.	Lampe, L. et al. Visceral obesity relates to deep white matter 
+hyperintensities via inflammation. Ann. Neurol. 85, 194–203 
+(2019).
+131.	 Alarcon, G., Ray, S. & Nagel, B. J. Lower working memory 
+performance in overweight and obese adolescents is mediated 
+by white matter microstructure. J. Int. Neuropsychol. Soc. 22, 
+281–292 (2016).
+132.	Huang, H. T. et al. Chronic exposure to high fat diet triggers 
+myelin disruption and interleukin-33 upregulation in 
+hypothalamus. BMC Neurosci. 20, 33 (2019).
+133.	Graham, L. C. et al. Exercise prevents obesity-induced cognitive 
+decline and white matter damage in mice. Neurobiol. Aging 80, 
+154–172 (2019).
+134.	Sena, A., Sarlieve, L. L. & Rebel, G. Brain myelin of genetically 
+obese mice. J. Neurol. Sci. 68, 233–243 (1985).
+135.	Matoba, K., Muramatsu, R. & Yamashita, T. Leptin sustains 
+spontaneous remyelination in the adult central nervous system. 
+Sci. Rep. 7, 40397 (2017).
+136.	Jang, G. et al. Visceral adiposity is associated with iron deposition 
+and myelin loss in the brains of aged mice. Neurochem. Int. 179, 
+105833 (2024).
+137.	 Sammons, M. et al. Brain-body physiology: local, reflex, and 
+central communication. Cell 187, 5877–5890 (2024).
+138.	Friedman, J. M. On the causes of obesity and its treatment: the 
+end of the beginning. Cell Metab. 37, 570–577 (2025).
+139.	Drucker, D. J. GLP-1-based therapies for diabetes, obesity and 
+beyond. Nat. Rev. Drug Discov. 24, 631–650 (2025).
+140.	Chen, B. Metformin remodels the myelin landscape. Neural 
+Regen. Res. 21, 1120–1121 (2026).
+141.	 Zhou, Z. D. et al. Glucagon-like peptide-1 receptor agonists 
+in neurodegenerative diseases: promises and challenges. 
+Pharmacol. Res. 216, 107770 (2025).
+142.	Edison, P. et al. MRI changes following treatment of GLP-1 
+analogue, liraglutide in Alzheimer’s disease. Alzheimers Dement. 
+19, e080538 (2023).
+143.	Wu, C. Y. et al. Relationships between memory decline and the 
+use of metformin or DPP4 inhibitors in people with type 2 diabetes 
+with normal cognition or Alzheimer’s disease, and the role APOE 
+carrier status. Alzheimers Dement. 16, 1663–1673 (2020).
+144.	Tang, H. et al. GLP-1RA and SGLT2i medications for type 2 
+diabetes and Alzheimer disease and related dementias. JAMA 
+Neurol. 82, 439–449 (2025).
+145.	Neumann, B. et al. Metformin restores CNS remyelination 
+capacity by rejuvenating aged stem cells. Cell Stem Cell 25, 
+473–485 (2019).
+146.	Siddiqui, N. et al. Linagliptin, a DPP-4 inhibitor, ameliorates Abeta 
+(1-42) peptides induced neurodegeneration and brain insulin 
+resistance (BIR) via insulin receptor substrate-1 (IRS-1) in rat model 
+of Alzheimer’s disease. Neuropharmacology 195, 108662 (2021).
+147.	 Lin, Y. et al. Evaluation of metformin on cognitive improvement in 
+patients with non-dementia vascular cognitive impairment and 
+abnormal glucose metabolism. Front. Aging Neurosci. 10, 227 
+(2018).
+148.	Obafemi, T. O. et al. Metformin/donepezil combination modulates 
+brain antioxidant status and hippocampal endoplasmic reticulum 
+stress in type 2 diabetic rats. J. Diabetes Metab. Disord. 19, 
+499–510 (2020).
+149.	Vijiaratnam, N. et al. Exenatide once a week versus placebo as a 
+potential disease-modifying treatment for people with Parkinson’s 
+disease in the UK: a phase 3, multicentre, double-blind, 
+parallel-group, randomised, placebo-controlled trial. Lancet 405, 
+627–636 (2025).
+Acknowledgements
+M.S. acknowledges support from the McCluskey family, the Matilda 
+E. Ziegler Family Foundation and the Interstellar Initiative (NYAS/
+AMED). This work was supported by the National Institute of 
+Diabetes and Digestive and Kidney Diseases (4R00DK1208689). 
+E.T. was funded by the National Institutes of Health National grant 
+UL1 TR001114.
+Author contributions
+B.C. conceived the Perspective, developed the conceptual framework, 
+performed the literature synthesis and wrote the original manuscript. 
+M.S. and E.T. provided critical feedback and supervision. A.R.-D. 
+assisted with figure design and preparation. All authors reviewed and 
+approved the final manuscript.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Correspondence should be addressed to Bandy Chen,  
+Marc Schneeberger or Eric Topol.
+Peer review information Nature Metabolism thanks Suzanne de la 
+Monte and the other, anonymous, reviewer(s) for their contribution to 
+the peer review of this work. Primary Handling Editor: Yanina-Yasmin 
+Pesch, in collaboration with the Nature Metabolism team.
+Reprints and permissions information is available at  
+www.nature.com/reprints.
+Nature Metabolism | Volume 8 | March 2026 | 546–558
+558
+Perspective
+https://doi.org/10.1038/s42255-026-01477-0
+Publisher’s note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with 
+the author(s) or other rightsholder(s); author self-archiving of the 
+accepted manuscript version of this article is solely governed by the 
+terms of such publishing agreement and applicable law.
+© Springer Nature Limited 2026
+
