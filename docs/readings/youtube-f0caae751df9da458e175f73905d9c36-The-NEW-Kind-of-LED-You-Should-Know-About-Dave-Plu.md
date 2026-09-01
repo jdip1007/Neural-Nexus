@@ -1,28 +1,28 @@
 ---
 channel: Dave's Garage
-created: '2026-08-26T17:51:20.312441'
+created: '2026-09-01T20:38:22.958501'
 duration: 14 minutes
 sources:
 - https://www.youtube.com/watch?v=4c5f7WzQzY
 tags:
 - led
-- assembly
-- system
-- tutorial
 - software
-- code
-- programming
-- tech
-- diy
-- network
-- hardware
-- development
+- tutorial
 - ethernet
+- code
+- tech
+- system
+- diy
+- assembly
+- programming
+- network
+- development
+- hardware
 - youtube
 - daves-garage
 title: 'The NEW Kind of LED You Should Know About: Dave Plummer'
 type: video
-updated: '2026-08-26T17:51:20.312456'
+updated: '2026-09-01T20:38:22.958512'
 video_id: 4c5f7WzQzY
 views: 1.1M
 ---
@@ -36,23 +36,23 @@ views: 1.1M
 
 ## Summary
 
-This video from Dave's Garage explores led, assembly, system and related concepts in depth.
+This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
 
 ## Key Topics
 
 - led
-- assembly
-- system
-- tutorial
 - software
-- code
-- programming
-- tech
-- diy
-- network
-- hardware
-- development
+- tutorial
 - ethernet
+- code
+- tech
+- system
+- diy
+- assembly
+- programming
+- network
+- development
+- hardware
 
 ## Key Concepts
 

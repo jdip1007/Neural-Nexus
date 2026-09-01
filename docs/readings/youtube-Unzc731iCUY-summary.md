@@ -1,17 +1,17 @@
 ---
 title: How to Speak - Summary
-created: 2026-08-31
-updated: 2026-08-31
+created: 2026-09-01
+updated: 2026-09-01
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
-published: 2026-08-31
+published: 2026-09-01
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-31
+reviewed: 2026-09-01
 ---
 
 # How to Speak - Summary
@@ -41,14 +41,14 @@ it's important to talk about your research in context
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Seymour Papert, And Doug, Media Lab
+- **Persons**: Military Justice, President Barack, Hedda Gabler
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- [[ai]]
 - [[algorithm]]
 - [[artificial-intelligence]]
 - [[framework]]
+- [[ai]]
 
 ## Transcript Highlights
 > about the place? And the most important

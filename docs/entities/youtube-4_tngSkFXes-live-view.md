@@ -1,7 +1,7 @@
 ---
 title: Live View
-created: 2026-08-30
-updated: 2026-08-30
+created: 2026-09-01
+updated: 2026-09-01
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, 4_tngSkFXes]
 sources: [raw/videos/youtube-4_tngSkFXes-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-08-30
+reviewed: 2026-09-01
 ---
 
 # Live View

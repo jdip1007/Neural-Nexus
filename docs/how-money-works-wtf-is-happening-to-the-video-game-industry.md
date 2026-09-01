@@ -1,16 +1,16 @@
 ---
 {
   "title": "WTF Is Happening To The Video Game Industry?",
-  "created": "2026-08-28T17:36:43.474372",
-  "updated": "2026-08-28T17:36:43.474389",
+  "created": "2026-08-31T18:44:52.869817",
+  "updated": "2026-08-31T18:44:52.869828",
   "type": "video",
   "tags": [
     "youtube",
     "how-money-works",
-    "gaming",
-    "business",
     "tech",
     "market",
+    "gaming",
+    "business",
     "video game"
   ],
   "sources": [
@@ -25,11 +25,11 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=Sx-lddna-qg)  
 > **Video ID:** Sx-lddna-qg  
-> **Analyzed:** 2026-08-28 17:36:43
+> **Analyzed:** 2026-08-31 18:44:52
 
 ## Summary
 
-Analysis of WTF Is Happening To The Video Game Industry? covering topics: gaming, business, tech, market, video game
+Analysis of WTF Is Happening To The Video Game Industry? covering topics: tech, market, gaming, business, video game
 
 ## Transcript
 
@@ -37,23 +37,23 @@ The video game industry is undergoing massive changes with new technologies, bus
 
 ## Key Topics
 
-- gaming
-- business
 - tech
 - market
+- gaming
+- business
 - video game
 
 ## Related Concepts
 
 This video relates to several key concepts in the Neural Nexus knowledge base:
 
-- [[financial-planning]]  
-- [[economic-inequality]]  
-- [[technology]]  
-- [[labor-market-changes]]  
-- [[demographic-economic-impact]]
+- [[financial-literacy]]  
+- [[economic-trends]]  
+- [[market-analysis]]  
+- [[business-strategy]]  
+- [[technology-impact]]
 
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-28T17:36:43.474435*
+*Last updated: 2026-08-31T18:44:52.869856*

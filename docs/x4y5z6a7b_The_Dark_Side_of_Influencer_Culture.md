@@ -1,13 +1,18 @@
 ---
 title: The Dark Side of Influencer Culture
-created: 2026-08-28T18:56:05
-updated: 2026-08-28T18:56:05
+created: 2026-08-31T20:34:51
+updated: 2026-08-31T20:34:51
 type: video
-tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "internet-culture", "mental-health"]
+classification: hermes.internet-culture.youtube-creator
+domain: hermes
+tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "internet-culture", "mental-health"]
 sources: ["https://www.youtube.com/watch?v=x4y5z6a7b"]
 video_id: x4y5z6a7b
 duration: 15-25 minutes
 channel: Internet Anarchist
+confidence: high
+status: active
+reviewed: 2026-08-31
 ---
 
 # The Dark Side of Influencer Culture
@@ -18,23 +23,28 @@ channel: Internet Anarchist
 
 ## Overview
 
-This video explores content-creation, internet-culture, mental-health through the lens of internet culture and digital media. Key themes include accountability, culture, technology.
+This video explores internet-culture, mental-health through the lens of internet culture and digital media. Key themes include culture, technology, psychology, ethics.
 
 ## Key Topics
 
-- [[Content Creation]]
 - [[Internet Culture]]
 - [[Mental Health]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
 
 ## Related Concepts
 
-- [[Digital Media]]
 - [[Digital Society]]
 - [[Wellness]]
+
+## Key Themes
+
+- [[Culture]]
+- [[Technology]]
+- [[Psychology]]
+- [[Ethics]]
 
 ## External Links
 
@@ -46,3 +56,5 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 - [[YouTube]]
 - [[Internet Culture]]
 - [[Digital Media]]
+- [[Content Creation]]
+- [[Internet Anarchist]]

@@ -1,0 +1,36 @@
+{
+  "processing_date": "2026-09-01T20:37:39.107215",
+  "channel": "Dave's Garage",
+  "total_videos_found": 10,
+  "videos_processed": 0,
+  "videos_failed": 5,
+  "success_rate": 0.0,
+  "processed_videos": [],
+  "failed_videos": [
+    {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "error": "'ingestion_history'"
+    },
+    {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "error": "'ingestion_history'"
+    },
+    {
+      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+      "error": "'ingestion_history'"
+    },
+    {
+      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
+      "error": "'ingestion_history'"
+    },
+    {
+      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
+      "error": "'ingestion_history'"
+    }
+  ]
+}

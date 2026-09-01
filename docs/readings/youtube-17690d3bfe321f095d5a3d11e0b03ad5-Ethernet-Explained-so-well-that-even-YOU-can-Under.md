@@ -1,58 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-08-21T16:16:49.868099'
+created: '2026-09-01T20:36:15.478144'
 duration: 23 minutes
 sources:
 - https://www.youtube.com/watch?v=7vzjIv2l6wY
 tags:
-- code
-- network
-- system
-- diy
-- development
-- ethernet
-- tech
-- assembly
-- hardware
 - tutorial
-- programming
+- assembly
+- diy
+- ethernet
+- development
 - software
+- hardware
+- code
+- system
+- tech
 - led
+- network
+- programming
 - youtube
 - daves-garage
 title: Ethernet Explained so well that even YOU can Understand it!
 type: video
-updated: '2026-08-21T16:16:49.868111'
+updated: '2026-09-01T20:36:15.478158'
 video_id: 7vzjIv2l6wY
-views: 138K
+views: 143K
 ---
 
 # Ethernet Explained so well that even YOU can Understand it!
 
 > **Source:** [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY)  
 > **Duration:** 23 minutes  
-> **Views:** 138K  
+> **Views:** 143K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores code, network, system and related concepts in depth.
+This video from Dave's Garage explores tutorial, assembly, diy and related concepts in depth.
 
 ## Key Topics
 
-- code
-- network
-- system
-- diy
-- development
-- ethernet
-- tech
-- assembly
-- hardware
 - tutorial
-- programming
+- assembly
+- diy
+- ethernet
+- development
 - software
+- hardware
+- code
+- system
+- tech
 - led
+- network
+- programming
 
 ## Key Concepts
 

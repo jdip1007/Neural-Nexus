@@ -1,58 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-08-21T16:16:50.182102'
+created: '2026-09-01T20:38:23.586512'
 duration: 20 minutes
 sources:
 - https://www.youtube.com/watch?v=OG91c7xsNMc
 tags:
+- led
+- software
+- tutorial
+- ethernet
 - code
-- network
+- tech
 - system
 - diy
-- development
-- ethernet
-- tech
 - assembly
-- hardware
-- tutorial
 - programming
-- software
-- led
+- network
+- development
+- hardware
 - youtube
 - daves-garage
 title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
 type: video
-updated: '2026-08-21T16:16:50.182114'
+updated: '2026-09-01T20:38:23.586523'
 video_id: OG91c7xsNMc
-views: 325K
+views: 326K
 ---
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
 
 > **Source:** [https://www.youtube.com/watch?v=OG91c7xsNMc](https://www.youtube.com/watch?v=OG91c7xsNMc)  
 > **Duration:** 20 minutes  
-> **Views:** 325K  
+> **Views:** 326K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores code, network, system and related concepts in depth.
+This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
 
 ## Key Topics
 
+- led
+- software
+- tutorial
+- ethernet
 - code
-- network
+- tech
 - system
 - diy
-- development
-- ethernet
-- tech
 - assembly
-- hardware
-- tutorial
 - programming
-- software
-- led
+- network
+- development
+- hardware
 
 ## Key Concepts
 

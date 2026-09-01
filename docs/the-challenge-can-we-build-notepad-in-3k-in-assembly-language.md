@@ -1,13 +1,13 @@
 ---
-title: "The Challenge: Can we build Notepad in 3K in assembly language?"
-created: "2026-08-30T19:12:49"
-updated: "2026-08-30T19:12:49"
-type: "video"
-tags: ["programming", "technology"]
-sources: ["https://www.youtube.com/watch?v=OG91c7xsNMc"]
-duration: "20 minutes"
-views: "327K"
-video_id: "OG91c7xsNMc"
+title: The Challenge: Can we build Notepad in 3K in assembly language?
+created: 2026-08-31T20:26:01.209110
+updated: 2026-08-31T20:26:01.209111
+type: video
+tags: ['programming', 'technology', 'daves-garage', 'youtube', 'tutorial']
+sources: [https://www.youtube.com/watch?v=OG91c7xsNMc]
+duration: 20 minutes
+views: 327K
+video_id: OG91c7xsNMc
 ---
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
@@ -34,13 +34,14 @@ Assembly language programming challenge building a simple text editor. Step-by-s
 
 ## Related Pages
 
-- [[daves-garage]] - Main channel page
-- [[youtube-tutorials]] - Collection of technical tutorials
-- [[programming]] - Related programming tutorials
+- [[Dave's Garage]] - Main channel page
+- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[Networking]] - Related networking content
+- [[Programming]] - Related programming tutorials
 
 ## Citations
 
 Source: [https://www.youtube.com/watch?v=OG91c7xsNMc](https://www.youtube.com/watch?v=OG91c7xsNMc)
 
 ---
-*Created: 2026-08-30 19:12:49*
+*Created: 2026-08-31 20:26:01*

@@ -1,28 +1,28 @@
 ---
 channel: Dave's Garage
-created: '2026-08-26T17:51:20.628040'
+created: '2026-09-01T20:38:22.329142'
 duration: 25 minutes
 sources:
 - https://www.youtube.com/watch?v=5c5f7WzQzY
 tags:
 - led
-- assembly
-- system
-- tutorial
 - software
-- code
-- programming
-- tech
-- diy
-- network
-- hardware
-- development
+- tutorial
 - ethernet
+- code
+- tech
+- system
+- diy
+- assembly
+- programming
+- network
+- development
+- hardware
 - youtube
 - daves-garage
 title: 'The Future of Automotive Technology: Electric Vehicles and Beyond'
 type: video
-updated: '2026-08-26T17:51:20.628055'
+updated: '2026-09-01T20:38:22.329153'
 video_id: 5c5f7WzQzY
 views: 89K
 ---
@@ -36,23 +36,23 @@ views: 89K
 
 ## Summary
 
-This video from Dave's Garage explores led, assembly, system and related concepts in depth.
+This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
 
 ## Key Topics
 
 - led
-- assembly
-- system
-- tutorial
 - software
-- code
-- programming
-- tech
-- diy
-- network
-- hardware
-- development
+- tutorial
 - ethernet
+- code
+- tech
+- system
+- diy
+- assembly
+- programming
+- network
+- development
+- hardware
 
 ## Key Concepts
 

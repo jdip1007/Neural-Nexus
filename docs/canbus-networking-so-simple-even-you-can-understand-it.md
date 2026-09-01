@@ -1,21 +1,6 @@
----
-title: "CANBUS – Networking so simple, even YOU can understand it!"
-created: "2026-08-20"
-updated: "2026-08-20"
-type: "video"
-classification: "technology.youtube-channel.davesgarage"
-domain: "engineering"
-tags: ["canbus", "networking", "automotive", "vehicle", "technology"]
-sources: ["raw/transcripts/davesgarage/canbus-networking-so-simple-even-you-can-understand-it.md"]
-confidence: "high"
-status: "active"
-reviewed: "2026-08-20"
-backlinks: []
----
-
 # CANBUS – Networking so simple, even YOU can understand it!
 
-> **Source**: [https://www.youtube.com/watch?v=extract_id_2](https://www.youtube.com/watch?v=extract_id_2) | **Duration**: 23 minutes | **Views**: 420K
+> **Source**: [https://www.youtube.com/watch?v=CANBUS_Networking_so_simple_even_YOU_can_understand_it](https://www.youtube.com/watch?v=CANBUS_Networking_so_simple_even_YOU_can_understand_it) | **Duration**: 23 minutes | **Views**: 439K
 
 ## Overview
 
@@ -35,8 +20,7 @@ This video from Dave's Garage covers networking, hardware, automotive with a foc
 
 ## Transcript
 
-CANBUS networking protocol explained in simple terms. Learn about Controller Area Network,
-how it works in vehicles, and why it's important for modern automotive electronics and industrial applications.
+CANBUS networking protocol explained in simple terms. Learn about Controller Area Network, how it works in vehicles, and why it's important for modern automotive electronics and industrial applications.
 
 ## Related Pages
 
@@ -47,7 +31,7 @@ how it works in vehicles, and why it's important for modern automotive electroni
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=extract_id_2](https://www.youtube.com/watch?v=extract_id_2)
+Source: [https://www.youtube.com/watch?v=CANBUS_Networking_so_simple_even_YOU_can_understand_it](https://www.youtube.com/watch?v=CANBUS_Networking_so_simple_even_YOU_can_understand_it)
 
 ---
-*Created: 2026-08-20 15:33:17*
+*Created: 2026-08-31 20:17:15*

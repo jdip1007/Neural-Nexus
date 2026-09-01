@@ -1,129 +1,67 @@
 {
   "processed_videos": {
-    "772c9b359bb40b2801e49f8eabc5ffb9": {
-      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
-      "processed_date": "2026-08-21T16:16:48.918321",
+    "db86a0d82285d2e8e7097c38f2749d46": {
+      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "processed_date": "2026-09-01T20:38:22.330329",
       "status": "completed",
-      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4"
-    },
-    "e96cc006ebe07e07a82d5f3a87b3c5c4": {
-      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
-      "processed_date": "2026-08-21T16:16:49.239345",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o"
+      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY"
     },
     "29d1488ba568e3d6a415a48eced17423": {
       "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
-      "processed_date": "2026-08-21T16:16:49.554418",
+      "processed_date": "2026-09-01T20:38:22.644195",
       "status": "completed",
       "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY"
     },
-    "17690d3bfe321f095d5a3d11e0b03ad5": {
-      "title": "Ethernet Explained so well that even YOU can Understand it!",
-      "processed_date": "2026-08-21T16:16:49.869300",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY"
-    },
-    "ca231d3ce1234405aab600e13bf76077": {
-      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
-      "processed_date": "2026-08-21T16:16:50.182990",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc"
-    },
-    "a1814b6419c40431ed1cdc5a4baf0f48": {
-      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
-      "processed_date": "2026-08-26T17:48:32.429887",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38"
-    },
-    "7e7d5634052cf4425846e490bcf7f253": {
-      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-      "processed_date": "2026-08-26T17:48:32.748215",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=3c5f7WzQzY"
-    },
-    "2ea656d0a65023c961e46c836b2ab50e": {
-      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
-      "processed_date": "2026-08-26T17:48:33.066668",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY"
-    },
     "f0caae751df9da458e175f73905d9c36": {
       "title": "The NEW Kind of LED You Should Know About: Dave Plummer",
-      "processed_date": "2026-08-26T17:51:20.313654",
+      "processed_date": "2026-09-01T20:38:22.959446",
       "status": "completed",
       "url": "https://www.youtube.com/watch?v=4c5f7WzQzY"
     },
-    "db86a0d82285d2e8e7097c38f2749d46": {
-      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
-      "processed_date": "2026-08-26T17:51:20.629106",
+    "772c9b359bb40b2801e49f8eabc5ffb9": {
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "processed_date": "2026-09-01T20:38:23.273483",
       "status": "completed",
-      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY"
+      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4"
+    },
+    "ca231d3ce1234405aab600e13bf76077": {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "processed_date": "2026-09-01T20:38:23.587568",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc"
     }
   },
-  "last_updated": "2026-08-26T17:51:20.629115",
-  "channel_name": "Dave's Garage",
-  "channel_id": "davesgarage",
   "ingestion_history": [
     {
-      "video_title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
-      "video_url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
-      "processed_date": "2026-08-21T16:16:48.918326",
-      "status": "completed"
-    },
-    {
-      "video_title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
-      "video_url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
-      "processed_date": "2026-08-21T16:16:49.239350",
+      "video_title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "video_url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+      "processed_date": "2026-09-01T20:38:22.330335",
       "status": "completed"
     },
     {
       "video_title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
       "video_url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
-      "processed_date": "2026-08-21T16:16:49.554429",
-      "status": "completed"
-    },
-    {
-      "video_title": "Ethernet Explained so well that even YOU can Understand it!",
-      "video_url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
-      "processed_date": "2026-08-21T16:16:49.869307",
-      "status": "completed"
-    },
-    {
-      "video_title": "The Challenge: Can we build Notepad in 3K in assembly language?",
-      "video_url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
-      "processed_date": "2026-08-21T16:16:50.182995",
-      "status": "completed"
-    },
-    {
-      "video_title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
-      "video_url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
-      "processed_date": "2026-08-26T17:48:32.429895",
-      "status": "completed"
-    },
-    {
-      "video_title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-      "video_url": "https://www.youtube.com/watch?v=3c5f7WzQzY",
-      "processed_date": "2026-08-26T17:48:32.748221",
-      "status": "completed"
-    },
-    {
-      "video_title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
-      "video_url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
-      "processed_date": "2026-08-26T17:48:33.066674",
+      "processed_date": "2026-09-01T20:38:22.644201",
       "status": "completed"
     },
     {
       "video_title": "The NEW Kind of LED You Should Know About: Dave Plummer",
       "video_url": "https://www.youtube.com/watch?v=4c5f7WzQzY",
-      "processed_date": "2026-08-26T17:51:20.313662",
+      "processed_date": "2026-09-01T20:38:22.959452",
       "status": "completed"
     },
     {
-      "video_title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
-      "video_url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
-      "processed_date": "2026-08-26T17:51:20.629113",
+      "video_title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "video_url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
+      "processed_date": "2026-09-01T20:38:23.273489",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "video_url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "processed_date": "2026-09-01T20:38:23.587575",
       "status": "completed"
     }
-  ]
+  ],
+  "last_updated": "2026-09-01T20:38:23.587577"
 }

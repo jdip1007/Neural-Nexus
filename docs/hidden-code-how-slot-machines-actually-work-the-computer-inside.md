@@ -1,21 +1,18 @@
 ---
-title: "Hidden Code: How Slot Machines Actually Work - The Computer Inside"
-created: "2026-08-20"
-updated: "2026-08-20"
-type: "video"
-classification: "technology.youtube-channel.davesgarage"
-domain: "engineering"
-tags: ["programming", "algorithm", "gaming", "slot-machine", "technology"]
-sources: ["raw/transcripts/davesgarage/hidden-code-how-slot-machines-actually-work-the-computer-inside.md"]
-confidence: "high"
-status: "active"
-reviewed: "2026-08-20"
-backlinks: []
+title: Hidden Code: How Slot Machines Actually Work - The Computer Inside
+created: 2026-08-31T20:26:03.210407
+updated: 2026-08-31T20:26:03.210408
+type: video
+tags: ['programming', 'gaming', 'daves-garage', 'youtube', 'tutorial']
+sources: [https://www.youtube.com/watch?v=3c5f7WzQzY]
+duration: 25 minutes
+views: 189K
+video_id: 3c5f7WzQzY
 ---
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside
 
-> **Source**: [https://www.youtube.com/watch?v=extract_id_7](https://www.youtube.com/watch?v=extract_id_7) | **Duration**: 18 minutes | **Views**: 419K
+> **Source**: [https://www.youtube.com/watch?v=3c5f7WzQzY](https://www.youtube.com/watch?v=3c5f7WzQzY) | **Duration**: 25 minutes | **Views**: 189K
 
 ## Overview
 
@@ -33,8 +30,7 @@ This video from Dave's Garage covers programming, gaming with a focus on technic
 
 ## Transcript
 
-Inside look at slot machine programming and random number generation. 
-Technical analysis of gaming algorithms, probability calculations, and the mathematics behind casino games.
+Inside look at slot machine programming and random number generation. Technical analysis of gaming algorithms, probability calculations, and the mathematics behind casino games.
 
 ## Related Pages
 
@@ -45,7 +41,7 @@ Technical analysis of gaming algorithms, probability calculations, and the mathe
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=extract_id_7](https://www.youtube.com/watch?v=extract_id_7)
+Source: [https://www.youtube.com/watch?v=3c5f7WzQzY](https://www.youtube.com/watch?v=3c5f7WzQzY)
 
 ---
-*Created: 2026-08-20 15:33:16*
+*Created: 2026-08-31 20:26:03*

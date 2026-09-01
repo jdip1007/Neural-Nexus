@@ -1,58 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-08-26T17:48:32.428618'
+created: '2026-09-01T20:36:16.120128'
 duration: 22 minutes
 sources:
 - https://www.youtube.com/watch?v=LJSgsf9ro38
 tags:
-- code
-- assembly
-- hardware
-- programming
-- ethernet
-- system
-- network
-- development
-- tech
-- software
-- led
-- diy
 - tutorial
+- assembly
+- diy
+- ethernet
+- development
+- software
+- hardware
+- code
+- system
+- tech
+- led
+- network
+- programming
 - youtube
 - daves-garage
 title: "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown"
 type: video
-updated: '2026-08-26T17:48:32.428629'
+updated: '2026-09-01T20:36:16.120142'
 video_id: LJSgsf9ro38
-views: 236K
+views: 240K
 ---
 
 # The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 
 > **Source:** [https://www.youtube.com/watch?v=LJSgsf9ro38](https://www.youtube.com/watch?v=LJSgsf9ro38)  
 > **Duration:** 22 minutes  
-> **Views:** 236K  
+> **Views:** 240K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores code, assembly, hardware and related concepts in depth.
+This video from Dave's Garage explores tutorial, assembly, diy and related concepts in depth.
 
 ## Key Topics
 
-- code
-- assembly
-- hardware
-- programming
-- ethernet
-- system
-- network
-- development
-- tech
-- software
-- led
-- diy
 - tutorial
+- assembly
+- diy
+- ethernet
+- development
+- software
+- hardware
+- code
+- system
+- tech
+- led
+- network
+- programming
 
 ## Key Concepts
 

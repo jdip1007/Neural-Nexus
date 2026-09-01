@@ -1,13 +1,18 @@
 ---
 title: Viral Marketing Strategies That Work
-created: 2026-08-28T18:55:26
-updated: 2026-08-28T18:55:26
+created: 2026-08-31T20:34:53
+updated: 2026-08-31T20:34:53
 type: video
-tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "mental-health"]
+classification: hermes.internet-culture.youtube-creator
+domain: hermes
+tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "content-creation", "marketing"]
 sources: ["https://www.youtube.com/watch?v=w3x4y5z6a"]
 video_id: w3x4y5z6a
 duration: 15-25 minutes
 channel: Internet Anarchist
+confidence: high
+status: active
+reviewed: 2026-08-31
 ---
 
 # Viral Marketing Strategies That Work
@@ -18,21 +23,26 @@ channel: Internet Anarchist
 
 ## Overview
 
-This video explores content-creation, mental-health through the lens of internet culture and digital media. Key themes include technology.
+This video explores content-creation, marketing through the lens of internet culture and digital media. Key themes include technology, marketing.
 
 ## Key Topics
 
 - [[Content Creation]]
-- [[Mental Health]]
+- [[Marketing]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
 
 ## Related Concepts
 
 - [[Digital Media]]
-- [[Wellness]]
+- [[Business]]
+
+## Key Themes
+
+- [[Technology]]
+- [[Marketing]]
 
 ## External Links
 
@@ -44,3 +54,5 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 - [[YouTube]]
 - [[Internet Culture]]
 - [[Digital Media]]
+- [[Content Creation]]
+- [[Internet Anarchist]]

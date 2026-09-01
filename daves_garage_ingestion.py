@@ -113,8 +113,20 @@ class DavesGarageIngestion:
         """Load video tracker data"""
         try:
             with open(self.video_tracker_path, 'r') as f:
-                return json.load(f)
+                data = json.load(f)
+                # Ensure required fields exist
+                if "processed_videos" not in data:
+                    data["processed_videos"] = {}
+                return data
         except FileNotFoundError:
+            return {
+                "processed_videos": {},
+                "last_updated": datetime.now().isoformat(),
+                "channel_name": "Dave's Garage",
+                "channel_id": "davesgarage",
+                "ingestion_history": []
+            }
+        except json.JSONDecodeError:
             return {
                 "processed_videos": {},
                 "last_updated": datetime.now().isoformat(),
@@ -319,6 +331,10 @@ This video from Dave's Garage explores {', '.join(analysis['topics'][:3])} and r
             "status": "completed",
             "url": video_data["url"]
         }
+        
+        # Ensure ingestion_history exists
+        if "ingestion_history" not in tracker_data:
+            tracker_data["ingestion_history"] = []
         
         # Add to ingestion history
         tracker_data["ingestion_history"].append({

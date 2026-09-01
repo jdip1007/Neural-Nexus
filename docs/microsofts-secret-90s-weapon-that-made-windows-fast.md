@@ -1,6 +1,6 @@
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 
-> **Source**: [https://www.youtube.com/watch?v=extract_id_6](https://www.youtube.com/watch?v=extract_id_6) | **Duration**: 18 minutes | **Views**: 125K
+> **Source**: [https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast](https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast) | **Duration**: 18 minutes | **Views**: 127K
 
 ## Overview
 
@@ -18,8 +18,7 @@ This video from Dave's Garage covers programming, technology with a focus on tec
 
 ## Transcript
 
-Historical analysis of Microsoft's performance optimization techniques from the 1990s. 
-Examines caching strategies, memory management, and system acceleration methods that made Windows faster.
+Historical analysis of Microsoft's performance optimization techniques from the 1990s. Examines caching strategies, memory management, and system acceleration methods that made Windows faster.
 
 ## Related Pages
 
@@ -30,7 +29,7 @@ Examines caching strategies, memory management, and system acceleration methods 
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=extract_id_6](https://www.youtube.com/watch?v=extract_id_6)
+Source: [https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast](https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast)
 
 ---
-*Created: 2026-08-20 15:32:37*
+*Created: 2026-08-31 20:17:17*

@@ -1,0 +1,191 @@
+{
+  "processing_date": "2026-09-01T20:39:45.991339",
+  "channel": "Dave's Garage",
+  "total_videos_found": 10,
+  "videos_processed": 5,
+  "videos_failed": 0,
+  "success_rate": 50.0,
+  "processed_videos": [
+    {
+      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+      "page_path": "./docs/readings/youtube-db86a0d82285d2e8e7097c38f2749d46-The-Future-of-Automotive-Technology-Electric-Vehic.md",
+      "analysis": {
+        "topics": [
+          "led",
+          "software",
+          "tutorial",
+          "ethernet",
+          "code",
+          "tech",
+          "system",
+          "diy",
+          "assembly",
+          "programming",
+          "network",
+          "development",
+          "hardware"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1021,
+        "word_count": 132
+      }
+    },
+    {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
+      "page_path": "./docs/readings/youtube-29d1488ba568e3d6a415a48eced17423-Microsofts-Secret-90s-Weapon-That-Made-Windows-Fas.md",
+      "analysis": {
+        "topics": [
+          "led",
+          "software",
+          "tutorial",
+          "ethernet",
+          "code",
+          "tech",
+          "system",
+          "diy",
+          "assembly",
+          "programming",
+          "network",
+          "development",
+          "hardware"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1022,
+        "word_count": 132
+      }
+    },
+    {
+      "title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+      "url": "https://www.youtube.com/watch?v=4c5f7WzQzY",
+      "page_path": "./docs/readings/youtube-f0caae751df9da458e175f73905d9c36-The-NEW-Kind-of-LED-You-Should-Know-About-Dave-Plu.md",
+      "analysis": {
+        "topics": [
+          "led",
+          "software",
+          "tutorial",
+          "ethernet",
+          "code",
+          "tech",
+          "system",
+          "diy",
+          "assembly",
+          "programming",
+          "network",
+          "development",
+          "hardware"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1021,
+        "word_count": 132
+      }
+    },
+    {
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
+      "page_path": "./docs/readings/youtube-772c9b359bb40b2801e49f8eabc5ffb9-CANBUS-Networking-so-simple-even-YOU-can-understan.md",
+      "analysis": {
+        "topics": [
+          "led",
+          "software",
+          "tutorial",
+          "ethernet",
+          "code",
+          "tech",
+          "system",
+          "diy",
+          "assembly",
+          "programming",
+          "network",
+          "development",
+          "hardware"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1022,
+        "word_count": 132
+      }
+    },
+    {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "page_path": "./docs/readings/youtube-ca231d3ce1234405aab600e13bf76077-The-Challenge-Can-we-build-Notepad-in-3K-in-assemb.md",
+      "analysis": {
+        "topics": [
+          "led",
+          "software",
+          "tutorial",
+          "ethernet",
+          "code",
+          "tech",
+          "system",
+          "diy",
+          "assembly",
+          "programming",
+          "network",
+          "development",
+          "hardware"
+        ],
+        "concepts": [
+          "this",
+          "transcript",
+          "would",
+          "placeholder",
+          "technical",
+          "video",
+          "contain",
+          "actual",
+          "content",
+          "detailed"
+        ],
+        "transcript_length": 1022,
+        "word_count": 132
+      }
+    }
+  ],
+  "failed_videos": []
+}

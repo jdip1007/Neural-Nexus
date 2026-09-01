@@ -7,23 +7,23 @@
 
 ## Summary
 
-This video from Dave's Garage explores led, assembly, system and related concepts in depth.
+This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
 
 ## Key Topics
 
 - led
-- assembly
-- system
-- tutorial
 - software
-- code
-- programming
-- tech
-- diy
-- network
-- hardware
-- development
+- tutorial
 - ethernet
+- code
+- tech
+- system
+- diy
+- assembly
+- programming
+- network
+- development
+- hardware
 
 ## Key Concepts
 

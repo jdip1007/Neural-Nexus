@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=plCuZVzK6kk
 source_type: video
-ingested: 2026-08-20
-published: 2026-08-20
+ingested: 2026-09-01
+published: 2026-09-01
 duration_minutes: 4
 language: en
 sha256: 436f3491178861728548f89fe54647588ea53576a7ba16fcbf804c42bf9f340d
