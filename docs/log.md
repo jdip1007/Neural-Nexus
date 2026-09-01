@@ -1,3 +1,38 @@
+## [2026-09-01] ingest | Why you should stop worrying about the birth rate collapse (YouTube Video)
+
+**Source:** YouTube video (https://youtu.be/IabDOXf7Acs) - Economic research summary
+
+**Speaker:** YouTube creator (economics content)
+
+**Files Created:**
+1. **[Raw Transcript](raw/videos/youtube-IabDOXf7Acs-transcript.md)** (17,447 chars, 272 segments) - Full transcript with timestamps
+2. **[Reading Summary](readings/youtube-IabDOXf7Acs-summary.md)** (3,937 chars) - Comprehensive summary of birth rate collapse economic analysis
+
+**Key Topics Covered:**
+- Standard doom narrative: declining birth rates cause economic disaster through fewer workers and less innovation
+- Innovation paradox: labor scarcity forces automation and innovation, potentially boosting economic growth
+- Historical case study: British Industrial Revolution triggered by labor shortages during Napoleonic Wars
+- Modern evidence: Asim Moghalu's research analyzing 70 years of data across 100+ countries
+- Mechanism: Higher wages from labor scarcity force firms to innovate, making remaining workers more productive
+- Correlation between lower birth rates in 1950 and higher GDP growth/patent filing
+
+**Tags Used:** economics, demographics, birth-rate, innovation, labor, gdp-growth, youtube, video-summary
+
+**Entities Mentioned:**
+- Asim Moghalu (lead researcher)
+- Charles Goodhart (economist)
+- Fatih Garan (economist)
+
+**Graph Impact:** Added reading page with wikilinks to economics, demographics, innovation, GDP, and labor-market concepts
+
+**Quality Check:**
+- ✅ Raw transcript has proper frontmatter (source_url, source_type, ingested, sha256, time_sensitive)
+- ✅ Reading page has proper frontmatter, sources, tags, and classification
+- ✅ All wikilinks use lowercase with hyphens per SCHEMA.md
+- ✅ Time-sensitive content properly flagged
+
+**Integration:** Follows Neural-Nexus schema with proper frontmatter, source citations, and cross-references
+
 ## [2026-08-25] ingest | Obesity and Neurodegeneration (Nature Metabolism Paper)
 
 **Source:** Nature Metabolism, Volume 8, March 2026, pp. 546-558 (DOI: 10.1038/s42255-026-01477-0)

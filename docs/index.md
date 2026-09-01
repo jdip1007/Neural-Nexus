@@ -53,9 +53,19 @@ A personal knowledge base combining:
 - **[Accessibility in Law](concepts/accessibility-in-law.md)** - Making legal information accessible to non-lawyers
 
 ### Economics
+- **[Why you should stop worrying about the birth rate collapse](readings/youtube-IabDOXf7Acs-summary.md)** - YouTube video summary discussing Asim Moghalu's research showing declining birth rates may boost economic growth by forcing innovation through labor scarcity
 - **[Capital Deepening Trap](concepts/capital-deepening-trap.md)** - Economic phenomenon where rising capital-output ratios signal declining productivity and structural decline; comparison of Japan's lost decades and China's current trajectory
 - **[China vs. Japan Economic Comparison](comparisons/china-vs-japan-economic-comparison.md)** - Side-by-side analysis of structural economic challenges, capital deepening patterns, systemic differences (democratic vs. authoritarian), and recovery prospects
 - **[Stephen Roach](entities/stephen-roach.md)** - American economist and former Morgan Stanley executive, long-time China bull turned increasingly critical analyst of China's economic trajectory and structural imbalances
+
+## HealthyGamerGG YouTube Summaries
+
+**Mental Health & Relationships**
+- [[can-men-women-be-friends]] - Exploring cross-gender friendships
+- [[the-lie-of-positive-thinking]] - Cognitive psychology and positive thinking critique
+- [[why-you-should-never-confess-your-love]] - Relationship psychology and love confession
+- [[how-to-actually-have-an-elite-mindset]] - Mindset development and peak performance
+- [[flirting-kinda-sucks-actually]] - Dating dynamics and social interaction challenges
 
 ## Explore
 
