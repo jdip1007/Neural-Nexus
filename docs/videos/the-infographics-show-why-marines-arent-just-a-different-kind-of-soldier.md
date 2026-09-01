@@ -6,7 +6,7 @@ type: reading
 classification: psychology.military
 domain: psychology
 tags: [military, marines, soldiers, military-differences, infographics-show, youtube, education]
-sources: [site/raw/videos/youtube-uzg-tGiK_y8-transcript/index.html]
+sources: [raw/videos/youtube-uzg-tGiK_y8-transcript.md]
 confidence: medium
 status: active
 reviewed: 2026-08-19
