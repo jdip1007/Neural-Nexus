@@ -6,7 +6,7 @@ type: video
 classification: education.youtube-channel.howmoneyworks
 domain: finance
 tags: ["finance", "business", "technology", "investing"]
-sources: [raw/videos/howmoneyworks/4rmkiGMknpg_can-meta-actually-survive-this.md]
+sources: ["https://raw.githubusercontent.com/jdip1007/Neural-Nexus/main/raw/videos/howmoneyworks/4rmkiGMknpg_can-meta-actually-survive-this.md"]
 confidence: high
 status: active
 reviewed: 2026-09-01
@@ -48,10 +48,7 @@ Financial and economic discussion exploring finance, business, technology and mo
 
 ## Related Resources
 
-- [[finance]] - Financial concepts and money management
-- [[business]] - Business strategies and entrepreneurship
-- [[investing]] - Investment strategies and market analysis
-- [[economics]] - Economic principles and market dynamics
+*This content was automatically processed by the Mock Transcript Service and converted to Neural Nexus format.*
 
 ---
 

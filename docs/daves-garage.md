@@ -1,123 +1,88 @@
 ---
-title: "Dave's Garage"
-created: "2026-08-30T19:12:51"
-updated: "2026-08-30T19:12:51"
-type: "channel"
-tags: ["technology", "content-creation", "youtube"]
+title: Dave's Garage
+created: 2026-09-02
+updated: 2026-09-02
+type: entity
+classification: video.channel
+domain: technology
+tags: [daves-garage, youtube, tutorial, technology]
 sources: []
+confidence: medium
+status: active
+reviewed: 2026-09-02
+backlinks: []
 ---
 
 # Dave's Garage
 
-Dave's Garage is a YouTube channel created by Dave Plummer that focuses on technology tutorials, programming, hardware projects, and automotive electronics. The channel provides practical, step-by-step guides for hobbyists and engineers interested in DIY electronics, computer systems, and automotive technology.
+Dave's Garage is a popular YouTube channel created by Dave Plummer that focuses on technology, programming, hardware projects, and educational content. The channel features tutorials on networking, assembly language programming, LED projects, and various technical topics.
 
 ## Channel Overview
 
 - **Creator**: Dave Plummer
-- **Focus**: Technology tutorials, programming, hardware, automotive
-- **Content Style**: Practical, hands-on tutorials
-- **Target Audience**: Hobbyists to engineers
-- **Video Count**: 561+ videos
-- **Subscribers**: 1.15M+
+- **Focus**: Technology tutorials, programming, hardware projects
+- **Content Style**: Educational, hands-on technical demonstrations
+- **Target Audience**: Hobbyists, engineers, technology enthusiasts
 
 ## Content Categories
 
 ### Networking
-- Ethernet technology and protocols
-- CANBUS networking for vehicles
-- TCP vs UDP comparisons
-- Network troubleshooting and optimization
+- Ethernet tutorials
+- TCP vs UDP explanations
+- CANBUS networking
+- Protocol analysis
 
 ### Programming
-- Assembly language programming
+- Assembly language
 - C programming tutorials
-- System optimization techniques
-- File handling and I/O operations
+- System programming
+- File I/O operations
 
 ### Hardware
-- LED installations and programming
-- Electronic circuit design
-- Microcontroller projects
-- Vintage vehicle modifications
+- LED projects and installations
+- Automotive modifications
+- Electronic circuits
+- Vintage technology restoration
 
-### Automotive
-- Vehicle electronics and modifications
-- RGB LED installations
-- Automotive networking systems
-- Performance optimization
-
-### Technology History
-- Windows optimization techniques
-- Historical technology analysis
-- System performance improvements
-- Computing history
+### Technology Analysis
+- Microsoft Windows optimization
+- Gaming technology
+- Automotive technology
+- Surveillance systems
 
 ## Featured Projects
 
 ### LED Technology
 - RGB LED installations in vintage vehicles
 - individually addressable LEDs (Neopixels/WS2812B)
-- LED control systems and programming
-- Aesthetic design considerations
+- Quantum effects in LED technology
+- Data line wiring and control systems
 
-### Assembly Language
-- Building Notepad in 3K of assembly
-- Low-level programming concepts
-- Memory management techniques
-- Code optimization strategies
+### Programming Challenges
+- Building Notepad in 3K of assembly language
+- Advanced file handling with fopen
+- Memory management optimization
+- Algorithm implementation
 
-### Networking
-- Ethernet protocol explanations
-- CANBUS vehicle networking
-- Data transmission analysis
-- Network troubleshooting
-
-### Automotive Electronics
+### Automotive Technology
+- 1970 Lincoln Continental Mark III modifications
+- RGB LED integration in classic cars
+- Automotive electronic systems
 - Vehicle tracking technology analysis
-- Automotive electrical systems
-- Vintage car modifications
-- Performance electronics
-
-## Equipment and Tools
-
-### Primary Equipment
-- AppleTV 4K for recording
-- Sony FX-3 camera
-- Dell monitors
-- Various ESP32 modules
-- Adafruit components
-
-### Software
-- Indigo Automation Software
-- Video editing and production tools
-- Programming environments
-- System diagnostic tools
-
-## Community and Resources
-
-- **Twitter**: @davepl1968
-- **Discord**: Community chat server
-- **Book**: "Secrets of the Autistic Millionaire"
-- **Amazon Affiliate Links**: Equipment and component recommendations
 
 ## Related Pages
 
-- [[youtube-tutorials]] - Collection of technical tutorials
-- [[networking]] - Networking concepts and protocols
-- [[programming]] - Programming languages and techniques
-- [[hardware]] - Computer hardware and electronics
-- [[automotive]] - Automotive technology and systems
+- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[Networking]] - Related networking content
+- [[Programming]] - Related programming tutorials
+- [[Hardware]] - Related hardware projects
+- [[Technology]] - Related technology topics
 
-## Video Statistics
+## External Links
 
-- **Total Videos**: 561+
-- **Total Views**: Millions across all videos
-- **Average Duration**: 15-25 minutes
-- **Upload Frequency**: Regular weekly uploads
-- **Engagement**: High comment and like ratios
+- [YouTube Channel](https://www.youtube.com/@davesgarage)
+- [Twitter](https://twitter.com/davepl1968)
+- [Discord Community](https://discord.gg/eMVWUvrkP6)
 
 ---
-*Created: 2026-08-30*
-*Updated: 2026-08-30*
-*Type: channel*
-*Tags: daves-garage, youtube, technology, programming, hardware, automotive, tutorial*
+*Created: 2026-09-02 20:50:40*

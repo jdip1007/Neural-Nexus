@@ -1,32 +1,27 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-08-31 21:24:50
+Generated: 2026-09-01 21:43:29
 
 === Statistics ===
 Total videos in channel: 5
-Already processed: 13
-New videos processed: 3
-Unprocessed remaining: -8
+Already processed: 24
+New videos processed: 2
+Unprocessed remaining: -19
 
 === Processed Videos ===
-- Most Insane The Infographics Show Videos of All Time (Compilation)
-  ID: cemy5eP5Jjs
-  URL: https://www.youtube.com/watch?v=cemy5eP5Jjs
-  Processed: 2026-08-31 21:24:50
+- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react
+  ID: uzg-tGiK_y8
+  URL: https://www.youtube.com/watch?v=uzg-tGiK_y8
+  Processed: 2026-09-01 21:43:29
 
-- Why Your Brain Can't Handle Modern Life || The Infographics Show
-  ID: k0ksj42YJaM
-  URL: https://www.youtube.com/watch?v=k0ksj42YJaM
-  Processed: 2026-08-31 21:24:50
-
-- Most Viewed The Infographics Show Videos (Compilation)
-  ID: 8zUhBnpVgdE
-  URL: https://www.youtube.com/watch?v=8zUhBnpVgdE
-  Processed: 2026-08-31 21:24:50
+- The Horror of the Zodiac Killer || The Infographics Show
+  ID: D4nPxik59oE
+  URL: https://www.youtube.com/watch?v=D4nPxik59oE
+  Processed: 2026-09-01 21:43:29
 
 === Recent Activity ===
-- Most Viewed The Infographics Show Videos (Compilation) (Unknown time)
-- Why Your Brain Can't Handle Modern Life || The Infographics Show (Unknown time)
-- Most Insane The Infographics Show Videos of All Time (Compilation) (Unknown time)
-- Why Gifted People Burn Out The Fastest (Unknown time)
-- Why You Should NEVER Confess Your Love (Unknown time)
+- The Horror of the Zodiac Killer || The Infographics Show (Unknown time)
+- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react (Unknown time)
+- Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K (Unknown time)
+- Flirting Kinda Sucks, Actually. (Unknown time)
+- Stop Overcorrecting Your Attachment Style (Viewer Interview) (Unknown time)

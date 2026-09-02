@@ -1,13 +1,16 @@
 ---
 title: The Challenge: Can we build Notepad in 3K in assembly language?
-created: 2026-08-31T20:26:01.209110
-updated: 2026-08-31T20:26:01.209111
-type: video
+created: 2026-09-02
+updated: 2026-09-02
+type: reading
+classification: video.daves-garage
+domain: technology
 tags: ['programming', 'technology', 'daves-garage', 'youtube', 'tutorial']
 sources: [https://www.youtube.com/watch?v=OG91c7xsNMc]
-duration: 20 minutes
-views: 327K
-video_id: OG91c7xsNMc
+confidence: medium
+status: active
+reviewed: 2026-09-02
+backlinks: []
 ---
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
@@ -44,4 +47,4 @@ Assembly language programming challenge building a simple text editor. Step-by-s
 Source: [https://www.youtube.com/watch?v=OG91c7xsNMc](https://www.youtube.com/watch?v=OG91c7xsNMc)
 
 ---
-*Created: 2026-08-31 20:26:01*
+*Created: 2026-09-02 21:12:06*

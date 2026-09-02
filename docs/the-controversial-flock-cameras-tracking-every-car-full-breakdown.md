@@ -1,18 +1,21 @@
 ---
 title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
-created: 2026-08-31T20:26:05.212154
-updated: 2026-08-31T20:26:05.212155
-type: video
+created: 2026-09-02
+updated: 2026-09-02
+type: reading
+classification: video.daves-garage
+domain: technology
 tags: ['hardware', 'technology', 'automotive', 'daves-garage', 'youtube', 'tutorial']
 sources: [https://www.youtube.com/watch?v=LJSgsf9ro38]
-duration: 22 minutes
-views: 246K
-video_id: LJSgsf9ro38
+confidence: medium
+status: active
+reviewed: 2026-09-02
+backlinks: []
 ---
 
 # The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 
-> **Source**: [https://www.youtube.com/watch?v=LJSgsf9ro38](https://www.youtube.com/watch?v=LJSgsf9ro38) | **Duration**: 22 minutes | **Views**: 246K
+> **Source**: [https://www.youtube.com/watch?v=LJSgsf9ro38](https://www.youtube.com/watch?v=LJSgsf9ro38) | **Duration**: 22 minutes | **Views**: 245K
 
 ## Overview
 
@@ -32,7 +35,7 @@ This video from Dave's Garage covers hardware, technology, automotive with a foc
 
 ## Transcript
 
-Detailed breakdown of Flock cameras and vehicle tracking technology. Analysis of privacy concerns, technical specifications, and the implications of widespread surveillance systems in modern cities.
+Detailed breakdown of Flock cameras and vehicle tracking technology. Analysis of privacy concerns, technical specifications, and the implications of widespread surveillance systems.
 
 ## Related Pages
 
@@ -46,4 +49,4 @@ Detailed breakdown of Flock cameras and vehicle tracking technology. Analysis of
 Source: [https://www.youtube.com/watch?v=LJSgsf9ro38](https://www.youtube.com/watch?v=LJSgsf9ro38)
 
 ---
-*Created: 2026-08-31 20:26:05*
+*Created: 2026-09-02 21:12:05*

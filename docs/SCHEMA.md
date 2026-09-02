@@ -106,6 +106,8 @@ wellness
 online-controversy
 digital-analysis
 internet-anarchist
+daves-garage
+tutorial
 
 ### Technology & Programming
 programming
@@ -116,6 +118,7 @@ slot-machine
 automotive
 hardware
 software
+networking
 
 ### Business & Finance
 finance

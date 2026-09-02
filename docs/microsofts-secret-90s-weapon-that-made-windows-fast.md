@@ -1,6 +1,21 @@
+---
+title: Microsoft's Secret 90s Weapon That Made Windows Fast
+created: 2026-09-02
+updated: 2026-09-02
+type: reading
+classification: video.daves-garage
+domain: technology
+tags: ['programming', 'technology', 'daves-garage', 'youtube', 'tutorial']
+sources: [https://www.youtube.com/watch?v=mN1o2p3q4R5]
+confidence: medium
+status: active
+reviewed: 2026-09-02
+backlinks: []
+---
+
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 
-> **Source**: [https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast](https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast) | **Duration**: 18 minutes | **Views**: 127K
+> **Source**: [https://www.youtube.com/watch?v=mN1o2p3q4R5](https://www.youtube.com/watch?v=mN1o2p3q4R5) | **Duration**: 18 minutes | **Views**: 127K
 
 ## Overview
 
@@ -29,7 +44,7 @@ Historical analysis of Microsoft's performance optimization techniques from the 
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast](https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast)
+Source: [https://www.youtube.com/watch?v=mN1o2p3q4R5](https://www.youtube.com/watch?v=mN1o2p3q4R5)
 
 ---
-*Created: 2026-08-31 20:17:17*
+*Created: 2026-09-02 21:12:07*

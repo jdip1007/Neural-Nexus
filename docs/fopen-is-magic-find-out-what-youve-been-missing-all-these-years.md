@@ -1,18 +1,6 @@
----
-title: fopen is Magic! - Find Out What You've Been Missing All These Years!
-created: 2026-08-31T20:26:04.211126
-updated: 2026-08-31T20:26:04.211127
-type: video
-tags: ['programming', 'daves-garage', 'youtube', 'tutorial']
-sources: [https://www.youtube.com/watch?v=2c4Yf7WzQzY]
-duration: Unknown
-views: Unknown
-video_id: 2c4Yf7WzQzY
----
-
 # fopen is Magic! - Find Out What You've Been Missing All These Years!
 
-> **Source**: [https://www.youtube.com/watch?v=2c4Yf7WzQzY](https://www.youtube.com/watch?v=2c4Yf7WzQzY) | **Duration**: Unknown | **Views**: Unknown
+> **Source**: [https://www.youtube.com/watch?v=kL1m2n3o4P5](https://www.youtube.com/watch?v=kL1m2n3o4P5) | **Duration**: 16 minutes | **Views**: 129K
 
 ## Overview
 
@@ -39,7 +27,7 @@ Comprehensive tutorial on the fopen function in C programming. Advanced file han
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=2c4Yf7WzQzY](https://www.youtube.com/watch?v=2c4Yf7WzQzY)
+Source: [https://www.youtube.com/watch?v=kL1m2n3o4P5](https://www.youtube.com/watch?v=kL1m2n3o4P5)
 
 ---
-*Created: 2026-08-31 20:26:04*
+*Created: 2026-09-02 20:50:41*

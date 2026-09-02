@@ -1,6 +1,21 @@
+---
+title: CANBUS – Networking so simple, even YOU can understand it!
+created: 2026-09-02
+updated: 2026-09-02
+type: reading
+classification: video.daves-garage
+domain: technology
+tags: ['networking', 'hardware', 'automotive', 'daves-garage', 'youtube', 'tutorial']
+sources: [https://www.youtube.com/watch?v=QTTCqGtT6I4]
+confidence: medium
+status: active
+reviewed: 2026-09-02
+backlinks: []
+---
+
 # CANBUS – Networking so simple, even YOU can understand it!
 
-> **Source**: [https://www.youtube.com/watch?v=CANBUS_Networking_so_simple_even_YOU_can_understand_it](https://www.youtube.com/watch?v=CANBUS_Networking_so_simple_even_YOU_can_understand_it) | **Duration**: 23 minutes | **Views**: 439K
+> **Source**: [https://www.youtube.com/watch?v=QTTCqGtT6I4](https://www.youtube.com/watch?v=QTTCqGtT6I4) | **Duration**: 23 minutes | **Views**: 436K
 
 ## Overview
 
@@ -31,7 +46,7 @@ CANBUS networking protocol explained in simple terms. Learn about Controller Are
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=CANBUS_Networking_so_simple_even_YOU_can_understand_it](https://www.youtube.com/watch?v=CANBUS_Networking_so_simple_even_YOU_can_understand_it)
+Source: [https://www.youtube.com/watch?v=QTTCqGtT6I4](https://www.youtube.com/watch?v=QTTCqGtT6I4)
 
 ---
-*Created: 2026-08-31 20:17:15*
+*Created: 2026-09-02 21:12:04*

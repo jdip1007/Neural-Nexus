@@ -1,18 +1,21 @@
 ---
 title: What Happens When You Lose Just One Packet?
-created: 2026-08-31T20:26:02.209649
-updated: 2026-08-31T20:26:02.209651
-type: video
+created: 2026-09-02
+updated: 2026-09-02
+type: reading
+classification: video.daves-garage
+domain: technology
 tags: ['networking', 'daves-garage', 'youtube', 'tutorial']
-sources: [https://www.youtube.com/watch?v=What_Happens_When_You_Lose_Just_One_Packet]
-duration: 11 minutes
-views: 86K
-video_id: QTTCqGtT6I4
+sources: [https://www.youtube.com/watch?v=DSA4VFdqELg]
+confidence: medium
+status: active
+reviewed: 2026-09-02
+backlinks: []
 ---
 
 # What Happens When You Lose Just One Packet?
 
-> **Source**: [https://www.youtube.com/watch?v=What_Happens_When_You_Lose_Just_One_Packet](https://www.youtube.com/watch?v=What_Happens_When_You_Lose_Just_One_Packet) | **Duration**: 11 minutes | **Views**: 86K
+> **Source**: [https://www.youtube.com/watch?v=DSA4VFdqELg](https://www.youtube.com/watch?v=DSA4VFdqELg) | **Duration**: 11 minutes | **Views**: 78K
 
 ## Overview
 
@@ -28,7 +31,7 @@ This video from Dave's Garage covers networking with a focus on technical_tutori
 
 ## Transcript
 
-Network packet loss and its effects on data transmission. This video explains what happens when network packets are lost during transmission, including error handling, retransmission mechanisms, and the impact on application performance and user experience.
+TCP vs UDP networking protocols comparison and analysis. This video explains the fundamental differences between Transmission Control Protocol and User Datagram Protocol, including reliability guarantees, connection establishment, error handling, and appropriate use cases for each protocol in modern networking environments.
 
 ## Related Pages
 
@@ -39,7 +42,7 @@ Network packet loss and its effects on data transmission. This video explains wh
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=What_Happens_When_You_Lose_Just_One_Packet](https://www.youtube.com/watch?v=What_Happens_When_You_Lose_Just_One_Packet)
+Source: [https://www.youtube.com/watch?v=DSA4VFdqELg](https://www.youtube.com/watch?v=DSA4VFdqELg)
 
 ---
-*Created: 2026-08-31 20:26:02*
+*Created: 2026-09-02 21:12:03*

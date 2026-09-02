@@ -295,11 +295,13 @@
     },
     {
       "id": "youtube-tutorials",
-      "title": "\"YouTube Tutorials\"",
+      "title": "YouTube Tutorials",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-tutorials.md",
       "tags": [
+        "youtube",
+        "tutorial",
         "educational-content",
-        "youtube"
+        "technology"
       ],
       "type": "page"
     },
@@ -369,19 +371,6 @@
         "educational-content",
         "content-creation",
         "internet-culture"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-      "file": "/home/hermes/Neural-Nexus/docs/hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
-      "tags": [
-        "programming",
-        "gaming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
       ],
       "type": "page"
     },
@@ -643,6 +632,18 @@
       "type": "page"
     },
     {
+      "id": "automotive",
+      "title": "Automotive",
+      "file": "/home/hermes/Neural-Nexus/docs/automotive.md",
+      "tags": [
+        "automotive",
+        "vehicles",
+        "cars",
+        "transportation"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-dummy_real5-81-Of-Women-Said-Yes-Only-58-Of-Men-Did",
       "title": "'\"81% Of Women Said Yes. Only 58% Of Men Did.\"'",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real5-81-Of-Women-Said-Yes-Only-58-Of-Men-Did.md",
@@ -838,12 +839,14 @@
       "type": "page"
     },
     {
-      "id": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
-      "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
+      "id": "programming",
+      "title": "Programming",
+      "file": "/home/hermes/Neural-Nexus/docs/programming.md",
       "tags": [
-        "networking",
-        "technology"
+        "programming",
+        "technology",
+        "software",
+        "development"
       ],
       "type": "page"
     },
@@ -878,6 +881,18 @@
         "mental_health",
         "therapy",
         "self_improvement"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "hardware",
+      "title": "Hardware",
+      "file": "/home/hermes/Neural-Nexus/docs/hardware.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "electronics",
+        "components"
       ],
       "type": "page"
     },
@@ -917,6 +932,19 @@
       "type": "page"
     },
     {
+      "id": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-N3tMxNJnBJ0-HealthyGamerGG_Video_12__Understanding_Mental_Heal",
       "title": "HealthyGamerGG Video 12: Understanding Mental Health in Gaming",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-N3tMxNJnBJ0-HealthyGamerGG_Video_12__Understanding_Mental_Heal.md",
@@ -951,10 +979,36 @@
       "type": "page"
     },
     {
+      "id": "networking",
+      "title": "Networking",
+      "file": "/home/hermes/Neural-Nexus/docs/networking.md",
+      "tags": [
+        "networking",
+        "technology",
+        "ethernet",
+        "protocols"
+      ],
+      "type": "page"
+    },
+    {
       "id": "81_of_women_said_yes_only_58_of_men_did",
       "title": "81% Of Women Said Yes. Only 58% Of Men Did.",
       "file": "/home/hermes/Neural-Nexus/docs/81_of_women_said_yes_only_58_of_men_did.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "canbus-networking-so-simple-even-you-can-understand-it",
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "file": "/home/hermes/Neural-Nexus/docs/canbus-networking-so-simple-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "hardware",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
       "type": "page"
     },
     {
@@ -1183,18 +1237,6 @@
       "type": "page"
     },
     {
-      "id": "fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
-      "file": "/home/hermes/Neural-Nexus/docs/fopen-is-magic-find-out-what-youve-been-missing-all-these-years.md",
-      "tags": [
-        "programming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
       "id": "vELETrEp27k",
       "title": "The AI Model TOO POWERFUL to be Released to the Public...",
       "file": "/home/hermes/Neural-Nexus/docs/vELETrEp27k.md",
@@ -1350,12 +1392,13 @@
     },
     {
       "id": "daves-garage",
-      "title": "\"Dave's Garage\"",
+      "title": "Dave's Garage",
       "file": "/home/hermes/Neural-Nexus/docs/daves-garage.md",
       "tags": [
-        "technology",
-        "content-creation",
-        "youtube"
+        "daves-garage",
+        "youtube",
+        "tutorial",
+        "technology"
       ],
       "type": "page"
     },
@@ -1376,6 +1419,18 @@
         "mental_health",
         "therapy",
         "relationships"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "technology",
+      "title": "Technology",
+      "file": "/home/hermes/Neural-Nexus/docs/technology.md",
+      "tags": [
+        "technology",
+        "innovation",
+        "digital",
+        "advancement"
       ],
       "type": "page"
     },
@@ -1545,7 +1600,27 @@
     },
     {
       "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "hardware",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "automotive",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -1589,8 +1664,18 @@
       "type": "wikilink"
     },
     {
+      "source": "7xqJnKpYQ8U",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "target": "internet-culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -1625,6 +1710,11 @@
     },
     {
       "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
       "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
@@ -1635,12 +1725,32 @@
     },
     {
       "source": "n6_o7p8q9s_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "n6_o7p8q9s_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-tutorials",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-tutorials",
+      "target": "programming",
       "type": "wikilink"
     },
     {
       "source": "QTTCqGtT6I4",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "QTTCqGtT6I4",
+      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -1671,16 +1781,6 @@
     {
       "source": "s9_t0u1v2w_PewDiePie's_Journey",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
-      "type": "wikilink"
-    },
-    {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -1719,13 +1819,23 @@
       "type": "wikilink"
     },
     {
-      "source": "what-happens-when-you-lose-just-one-packet",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "source": "I14yjt00Fl8",
+      "target": "technology",
       "type": "wikilink"
     },
     {
       "source": "what-happens-when-you-lose-just-one-packet",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "what-happens-when-you-lose-just-one-packet",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "what-happens-when-you-lose-just-one-packet",
+      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -1784,13 +1894,48 @@
       "type": "wikilink"
     },
     {
+      "source": "7vzjIv2l6wY",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "LJSgsf9ro38",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
     {
+      "source": "LJSgsf9ro38",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "automotive",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "automotive",
+      "target": "hardware",
+      "type": "wikilink"
+    },
+    {
       "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "programming",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -1799,18 +1944,33 @@
       "type": "wikilink"
     },
     {
+      "source": "vEAjtOI-Oaw",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "9fL6tA2W5E1",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
     {
-      "source": "reliable-isnt-always-better-tcp-vs-udp",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "source": "9fL6tA2W5E1",
+      "target": "technology",
       "type": "wikilink"
     },
     {
       "source": "reliable-isnt-always-better-tcp-vs-udp",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "reliable-isnt-always-better-tcp-vs-udp",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "reliable-isnt-always-better-tcp-vs-udp",
+      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -1834,6 +1994,11 @@
       "type": "wikilink"
     },
     {
+      "source": "8kP5vW3Q1X6",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-healthy-gamer-why-you-should-never-confess-your-love",
       "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
@@ -1849,18 +2014,13 @@
       "type": "wikilink"
     },
     {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "source": "programming",
+      "target": "networking",
       "type": "wikilink"
     },
     {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "daves-garage",
-      "type": "wikilink"
-    },
-    {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-tutorials",
+      "source": "programming",
+      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -1879,13 +2039,58 @@
       "type": "wikilink"
     },
     {
+      "source": "hardware",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "hardware",
+      "target": "programming",
+      "type": "wikilink"
+    },
+    {
+      "source": "hardware",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
       "source": "OG91c7xsNMc",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
     {
+      "source": "OG91c7xsNMc",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "target": "programming",
+      "type": "wikilink"
+    },
+    {
+      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "target": "programming",
+      "type": "wikilink"
+    },
+    {
       "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
       "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
+      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -1896,6 +2101,46 @@
     {
       "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
       "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "networking",
+      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "networking",
+      "target": "programming",
+      "type": "wikilink"
+    },
+    {
+      "source": "networking",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "hardware",
+      "type": "wikilink"
+    },
+    {
+      "source": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "automotive",
+      "type": "wikilink"
+    },
+    {
+      "source": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "networking",
+      "type": "wikilink"
+    },
+    {
+      "source": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -1934,6 +2179,11 @@
       "type": "wikilink"
     },
     {
+      "source": "2bY9rC8V7M3",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -1956,6 +2206,16 @@
     {
       "source": "UXd8MfTJQVg",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "UXd8MfTJQVg",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -1999,13 +2259,18 @@
       "type": "wikilink"
     },
     {
-      "source": "fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "source": "3mXnL4pZ2R9",
+      "target": "technology",
       "type": "wikilink"
     },
     {
       "source": "vELETrEp27k",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "vELETrEp27k",
+      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -2044,6 +2309,11 @@
       "type": "wikilink"
     },
     {
+      "source": "VYTF4KIF2z0",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-VYTF4KIF2z0-why-modern-dating-feels-like-parenting",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -2064,6 +2334,11 @@
       "type": "wikilink"
     },
     {
+      "source": "hRhBuHJ-j_o",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -2090,12 +2365,22 @@
     },
     {
       "source": "daves-garage",
-      "target": "youtube-tutorials",
+      "target": "networking",
       "type": "wikilink"
     },
     {
       "source": "daves-garage",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "programming",
+      "type": "wikilink"
+    },
+    {
+      "source": "daves-garage",
+      "target": "hardware",
+      "type": "wikilink"
+    },
+    {
+      "source": "daves-garage",
+      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -2111,6 +2396,21 @@
     {
       "source": "youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating",
       "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
+      "type": "wikilink"
+    },
+    {
+      "source": "technology",
+      "target": "programming",
+      "type": "wikilink"
+    },
+    {
+      "source": "technology",
+      "target": "hardware",
+      "type": "wikilink"
+    },
+    {
+      "source": "technology",
+      "target": "networking",
       "type": "wikilink"
     },
     {
@@ -2175,6 +2475,11 @@
     },
     {
       "source": "x4y5z6a7b_The_Dark_Side_of_Influencer_Culture",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "x4y5z6a7b_The_Dark_Side_of_Influencer_Culture",
       "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
@@ -2195,8 +2500,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-01T19:17:25.060192",
-    "total_nodes": 148,
-    "total_edges": 142
+    "generated": "2026-09-02T21:55:33.138442",
+    "total_nodes": 152,
+    "total_edges": 192
   }
 }

@@ -1,6 +1,6 @@
 # The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 
-> **Source**: [https://www.youtube.com/watch?v=The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III](https://www.youtube.com/watch?v=The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III) | **Duration**: 22 minutes | **Views**: 40K
+> **Source**: [https://www.youtube.com/watch?v=3o5AL3jBvUg](https://www.youtube.com/watch?v=3o5AL3jBvUg) | **Duration**: 22 minutes | **Views**: 40K
 
 ## Overview
 
@@ -31,7 +31,7 @@ RGB LED installation and programming tutorial for vintage vehicles. Covers wirin
 
 ## Citations
 
-Source: [https://www.youtube.com/watch?v=The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III](https://www.youtube.com/watch?v=The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III)
+Source: [https://www.youtube.com/watch?v=3o5AL3jBvUg](https://www.youtube.com/watch?v=3o5AL3jBvUg)
 
 ---
-*Created: 2026-08-31 20:17:19*
+*Created: 2026-09-02 20:50:42*
