@@ -549,6 +549,18 @@
       "type": "page"
     },
     {
+      "id": "how_money_works__W3qPymBEBA",
+      "title": "WTF Does Peter Thiel Actually Want?",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works__W3qPymBEBA.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "Market"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-dummy9-Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa",
       "title": "'Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy9-Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa.md",
@@ -779,6 +791,30 @@
       "type": "page"
     },
     {
+      "id": "how_money_works_ShGT-fY7S98",
+      "title": "The Future of Work: AI vs Humans",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_ShGT-fY7S98.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "Market"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works_QGjXQwUmGTI",
+      "title": "The Great Layoff: Why Companies Are Firing People",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_QGjXQwUmGTI.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "Market"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-dummy_real6-Jocko-Willink-Matt-McCusker-Jeff-Dye-Mostly-Wise-3",
       "title": "'\"Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3\"'",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real6-Jocko-Willink-Matt-McCusker-Jeff-Dye-Mostly-Wise-3.md",
@@ -918,6 +954,20 @@
       "type": "page"
     },
     {
+      "id": "how_money_works_THodtjsCTSI",
+      "title": "Is America Chasing Away All Of Its Smart People?",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_THodtjsCTSI.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "Investing",
+        "Money",
+        "Finance"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-ka2GKBfviic-hunter-biden,-matt-mccusker-&-duncan-trussell-mostly-wise-#2",
       "title": "youtube-ka2GKBfviic-hunter-biden,-matt-mccusker-&-duncan-trussell-mostly-wise-#2",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-ka2GKBfviic-hunter-biden,-matt-mccusker-&-duncan-trussell-mostly-wise-#2.md",
@@ -987,6 +1037,19 @@
         "technology",
         "ethernet",
         "protocols"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works_swtfbef3HhM",
+      "title": "Big Tech Cut 950,000 Jobs... And Then Hired Them All Back",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_swtfbef3HhM.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "Investing",
+        "Budget"
       ],
       "type": "page"
     },
@@ -1854,6 +1917,21 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-dummy9-Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
@@ -1999,6 +2077,36 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_ShGT-fY7S98",
+      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_ShGT-fY7S98",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_ShGT-fY7S98",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_QGjXQwUmGTI",
+      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_QGjXQwUmGTI",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_QGjXQwUmGTI",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-healthy-gamer-why-you-should-never-confess-your-love",
       "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
@@ -2064,6 +2172,31 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
       "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
       "target": "programming",
       "type": "wikilink"
@@ -2116,6 +2249,21 @@
     {
       "source": "networking",
       "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_swtfbef3HhM",
+      "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_swtfbef3HhM",
+      "target": "Finance-Overview",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_swtfbef3HhM",
+      "target": "Investing-Basics",
       "type": "wikilink"
     },
     {
@@ -2500,8 +2648,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-03T16:19:48.219673",
-    "total_nodes": 152,
-    "total_edges": 192
+    "generated": "2026-09-03T20:40:32.459199",
+    "total_nodes": 157,
+    "total_edges": 209
   }
 }
