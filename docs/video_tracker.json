@@ -26,10 +26,10 @@
     },
     {
       "id": "gAxNYd01I6E",
-      "title": "“We're At The Beginning Of A Revolution” - Jimmy Carr",
+      "title": "\u201cWe're At The Beginning Of A Revolution\u201d - Jimmy Carr",
       "url": "https://www.youtube.com/watch?v=gAxNYd01I6E",
       "processed_at": "2026-08-19T08:44:57.023314",
-      "page_filename": "youtube-gAxNYd01I6E-“were-at-the-beginning-of-a-revolution”-jimmy-carr.md",
+      "page_filename": "youtube-gAxNYd01I6E-\u201cwere-at-the-beginning-of-a-revolution\u201d-jimmy-carr.md",
       "content_hash": "2fd94e63f087eb0e7e5d644d890a7bec9e7e1fb1cdd719c752684402f39897c2",
       "status": "placeholder"
     },
@@ -95,7 +95,52 @@
       "content_hash": "3ac198d3d5a6f97edb1588e9e57d71f80a78bc3a362bd6611f1bbd4b600ac50c",
       "status": "processed",
       "processed_at": "2026-08-25T17:28:39.522684"
+    },
+    {
+      "id": "jH0BYAkPj78",
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "url": "https://www.youtube.com/watch?v=jH0BYAkPj78",
+      "page_filename": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "content_hash": "b6f01da4a162cd070e3edc2c69b59354",
+      "processed_at": "2026-09-03T21:40:05.826592",
+      "status": "processed"
+    },
+    {
+      "id": "mYBxnojY-JA",
+      "title": "Why Modern Dating Feels Like Parenting",
+      "url": "https://www.youtube.com/watch?v=mYBxnojY-JA",
+      "page_filename": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting.md",
+      "content_hash": "38823dcf5b0ab56aea3434dcb4e10a63",
+      "processed_at": "2026-09-03T21:40:05.827284",
+      "status": "processed"
+    },
+    {
+      "id": "XAzUoizwnXM",
+      "title": "CANBUS - Networking so simple, even YOU can understand it!",
+      "url": "https://www.youtube.com/watch?v=XAzUoizwnXM",
+      "page_filename": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it.md",
+      "content_hash": "dfb5100e4e1751e71c4a11c9d9cf1452",
+      "processed_at": "2026-09-03T21:40:05.827641",
+      "status": "processed"
+    },
+    {
+      "id": "kLcpCqLwNU8",
+      "title": "The Challenge: Building a Custom Electric Vehicle",
+      "url": "https://www.youtube.com/watch?v=kLcpCqLwNU8",
+      "page_filename": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
+      "content_hash": "af5de22ce49d9eec002dca061a547cd1",
+      "processed_at": "2026-09-03T21:40:05.827883",
+      "status": "processed"
+    },
+    {
+      "id": "QTTCqGtT6I4",
+      "title": "What Happens When You Lose Just One Packet?",
+      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
+      "page_filename": "youtube-QTTCqGtT6I4-what-happens-when-you-lose-just-one-packet.md",
+      "content_hash": "d141ff07704fabfc451c3060f64dcccb",
+      "processed_at": "2026-09-03T21:40:05.828152",
+      "status": "processed"
     }
   ],
-  "last_updated": "2026-08-25T17:28:39.522688"
+  "last_updated": "2026-09-03T21:40:05.828154"
 }

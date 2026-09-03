@@ -14,6 +14,10 @@ digital-society
 mental-health
 digital-marketing
 wellness
+internet-anarchist
+youtube-documentary
+content-creator
+investigation
 
 ## Technology & Programming
 programming
