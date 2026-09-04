@@ -1,42 +1,42 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-08-28 18:56:07
+Generated: 2026-09-04 22:10:14
 
 === Statistics ===
-Total videos in channel: 10
-Already processed: 10
+Total videos in channel: 15
+Already processed: 63
 New videos processed: 5
-Unprocessed remaining: 0
+Unprocessed remaining: -48
 
 === Processed Videos ===
-- JiDion's Past Is Catching Up To Him
-  ID: m5_n7p8q9r
-  URL: https://www.youtube.com/watch?v=m5_n7p8q9r
-  Processed: 2026-08-28 18:56:07
+- Airrack Never Stopped Faking Videos
+  ID: 6zAG7p81NME
+  URL: https://www.youtube.com/watch?v=6zAG7p81NME
+  Processed: 2026-09-04 22:10:14
 
-- The Evolution of YouTube Gaming
-  ID: t0_u1v2w3x
-  URL: https://www.youtube.com/watch?v=t0_u1v2w3x
-  Processed: 2026-08-28 18:56:07
+- The Never-Ending Downfall of KSI
+  ID: MrXO4Y6YpGA
+  URL: https://www.youtube.com/watch?v=MrXO4Y6YpGA
+  Processed: 2026-09-04 22:10:14
 
-- Content Creator Burnout and Mental Health
-  ID: u1_v2w3x4y
-  URL: https://www.youtube.com/watch?v=u1_v2w3x4y
-  Processed: 2026-08-28 18:56:07
+- The Deserved Downfall of Yo Mama
+  ID: P-debBoN21E
+  URL: https://www.youtube.com/watch?v=P-debBoN21E
+  Processed: 2026-09-04 22:10:14
 
-- The Algorithm: How YouTube Recommends Content
-  ID: v2_w3x4y5z
-  URL: https://www.youtube.com/watch?v=v2_w3x4y5z
-  Processed: 2026-08-28 18:56:07
+- How Penguinz0 Ended Kwebbelkop's Career...
+  ID: TeJaFf9z4Rc
+  URL: https://www.youtube.com/watch?v=TeJaFf9z4Rc
+  Processed: 2026-09-04 22:10:14
 
-- The Dark Side of Influencer Culture
-  ID: x4y5z6a7b
-  URL: https://www.youtube.com/watch?v=x4y5z6a7b
-  Processed: 2026-08-28 18:56:07
+- Andrew Tate's Life Is Falling Apart
+  ID: 1_OKHUNAR8c
+  URL: https://www.youtube.com/watch?v=1_OKHUNAR8c
+  Processed: 2026-09-04 22:10:14
 
 === Recent Activity ===
-- The Dark Side of Influencer Culture (Unknown time)
-- The Algorithm: How YouTube Recommends Content (Unknown time)
-- Content Creator Burnout and Mental Health (Unknown time)
-- The Evolution of YouTube Gaming (Unknown time)
-- JiDion's Past Is Catching Up To Him (Unknown time)
+- Andrew Tate's Life Is Falling Apart (Unknown time)
+- How Penguinz0 Ended Kwebbelkop's Career... (Unknown time)
+- The Deserved Downfall of Yo Mama (Unknown time)
+- The Never-Ending Downfall of KSI (Unknown time)
+- Airrack Never Stopped Faking Videos (Unknown time)

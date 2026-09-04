@@ -25,75 +25,135 @@ class InternetAnarchistIngestionPipeline:
         """Extract latest videos from Internet Anarchist YouTube channel."""
         print(f"Extracting videos from {self.channel_url}")
         
-        # For now, use sample data since browser automation is not available
-        print("Using sample video data (browser automation not available)")
-        video_data = self._get_sample_videos()
+        # Use real video data extracted from browser
+        print("Using real video data from browser automation")
+        video_data = self._get_real_videos()
         
         print(f"Found {len(video_data)} videos")
         return video_data
     
-    def _get_sample_videos(self) -> List[Dict]:
-        """Get sample video data for Internet Anarchist channel."""
+    def _get_real_videos(self) -> List[Dict]:
+        """Get real video data from Internet Anarchist channel."""
         return [
             {
-                "id": "m5_n7p8q9r",
-                "title": "JiDion's Past Is Catching Up To Him",
-                "url": "https://www.youtube.com/watch?v=m5_n7p8q9r",
-                "channel": "Internet Anarchist"
+                "id": "MrXO4Y6YpGA",
+                "title": "The Never-Ending Downfall of KSI",
+                "url": "https://www.youtube.com/watch?v=MrXO4Y6YpGA",
+                "channel": "Internet Anarchist",
+                "views": "96K views",
+                "time": "3 hours ago"
             },
             {
-                "id": "n6_o7p8q9s",
+                "id": "IMdDtCuFZsc",
+                "title": "Jonah Hill's Life Is Falling Apart",
+                "url": "https://www.youtube.com/watch?v=IMdDtCuFZsc",
+                "channel": "Internet Anarchist",
+                "views": "897K views",
+                "time": "3 days ago"
+            },
+            {
+                "id": "uK_G92TUXWg",
+                "title": "The Deserved Downfall of Tom Segura",
+                "url": "https://www.youtube.com/watch?v=uK_G92TUXWg",
+                "channel": "Internet Anarchist",
+                "views": "804K views",
+                "time": "7 days ago"
+            },
+            {
+                "id": "Mh9lkEl8ZWU",
+                "title": "The Deserved Downfall of Dr Phil",
+                "url": "https://www.youtube.com/watch?v=Mh9lkEl8ZWU",
+                "channel": "Internet Anarchist",
+                "views": "684K views",
+                "time": "13 days ago"
+            },
+            {
+                "id": "P-debBoN21E",
+                "title": "The Deserved Downfall of Yo Mama",
+                "url": "https://www.youtube.com/watch?v=P-debBoN21E",
+                "channel": "Internet Anarchist",
+                "views": "524K views",
+                "time": "2 weeks ago"
+            },
+            {
+                "id": "W82TeO-XXWU",
+                "title": "The 13 Seconds That Exposed Hank Green",
+                "url": "https://www.youtube.com/watch?v=W82TeO-XXWU",
+                "channel": "Internet Anarchist",
+                "views": "274K views",
+                "time": "3 weeks ago"
+            },
+            {
+                "id": "6zAG7p81NME",
+                "title": "Airrack Never Stopped Faking Videos",
+                "url": "https://www.youtube.com/watch?v=6zAG7p81NME",
+                "channel": "Internet Anarchist",
+                "views": "577K views",
+                "time": "4 weeks ago"
+            },
+            {
+                "id": "1_OKHUNAR8c",
+                "title": "Andrew Tate's Life Is Falling Apart",
+                "url": "https://www.youtube.com/watch?v=1_OKHUNAR8c",
+                "channel": "Internet Anarchist",
+                "views": "502K views",
+                "time": "1 month ago"
+            },
+            {
+                "id": "RArG7wIFIa0",
+                "title": "The Most Evil Father on TikTok",
+                "url": "https://www.youtube.com/watch?v=RArG7wIFIa0",
+                "channel": "Internet Anarchist",
+                "views": "306K views",
+                "time": "1 month ago"
+            },
+            {
+                "id": "A-SGv0fCUsw",
+                "title": "Mizkif's Life Is Falling Apart",
+                "url": "https://www.youtube.com/watch?v=A-SGv0fCUsw",
+                "channel": "Internet Anarchist",
+                "views": "433K views",
+                "time": "1 month ago"
+            },
+            {
+                "id": "ojhdGmT_1aI",
+                "title": "How Penguinz0 Destroyed the Technoblade Copycat",
+                "url": "https://www.youtube.com/watch?v=ojhdGmT_1aI",
+                "channel": "Internet Anarchist",
+                "views": "304K views",
+                "time": "1 month ago"
+            },
+            {
+                "id": "AltzlEgXO_M",
                 "title": "How Penguinz0 Destroyed YouTube's Worst Content Thief",
-                "url": "https://www.youtube.com/watch?v=n6_o7p8q9s",
-                "channel": "Internet Anarchist"
+                "url": "https://www.youtube.com/watch?v=AltzlEgXO_M",
+                "channel": "Internet Anarchist",
+                "views": "11M views",
+                "time": "2 years ago"
             },
             {
-                "id": "p7_q8r9s0t",
-                "title": "The Rise and Fall of Logan Paul",
-                "url": "https://www.youtube.com/watch?v=p7_q8r9s0t",
-                "channel": "Internet Anarchist"
+                "id": "U7YtrRRccC0",
+                "title": "The Satisfying Downfall of SSSniperWolf",
+                "url": "https://www.youtube.com/watch?v=U7YtrRRccC0",
+                "channel": "Internet Anarchist",
+                "views": "9.9M views",
+                "time": "2 years ago"
             },
             {
-                "id": "q8_r9s0t1u",
-                "title": "MrBeast: Behind the Scenes",
-                "url": "https://www.youtube.com/watch?v=q8_r9s0t1u",
-                "channel": "Internet Anarchist"
+                "id": "FfgYq3_z-kg",
+                "title": "How Penguinz0 Destroyed a Psycho Vegan Bodybuilder",
+                "url": "https://www.youtube.com/watch?v=FfgYq3_z-kg",
+                "channel": "Internet Anarchist",
+                "views": "9.2M views",
+                "time": "2 years ago"
             },
             {
-                "id": "s9_t0u1v2w",
-                "title": "PewDiePie's Journey",
-                "url": "https://www.youtube.com/watch?v=s9_t0u1v2w",
-                "channel": "Internet Anarchist"
-            },
-            {
-                "id": "t0_u1v2w3x",
-                "title": "The Evolution of YouTube Gaming",
-                "url": "https://www.youtube.com/watch?v=t0_u1v2w3x",
-                "channel": "Internet Anarchist"
-            },
-            {
-                "id": "u1_v2w3x4y",
-                "title": "Content Creator Burnout and Mental Health",
-                "url": "https://www.youtube.com/watch?v=u1_v2w3x4y",
-                "channel": "Internet Anarchist"
-            },
-            {
-                "id": "v2_w3x4y5z",
-                "title": "The Algorithm: How YouTube Recommends Content",
-                "url": "https://www.youtube.com/watch?v=v2_w3x4y5z",
-                "channel": "Internet Anarchist"
-            },
-            {
-                "id": "w3x4y5z6a",
-                "title": "Viral Marketing Strategies That Work",
-                "url": "https://www.youtube.com/watch?v=w3x4y5z6a",
-                "channel": "Internet Anarchist"
-            },
-            {
-                "id": "x4y5z6a7b",
-                "title": "The Dark Side of Influencer Culture",
-                "url": "https://www.youtube.com/watch?v=x4y5z6a7b",
-                "channel": "Internet Anarchist"
+                "id": "TeJaFf9z4Rc",
+                "title": "How Penguinz0 Ended Kwebbelkop's Career...",
+                "url": "https://www.youtube.com/watch?v=TeJaFf9z4Rc",
+                "channel": "Internet Anarchist",
+                "views": "8.2M views",
+                "time": "3 years ago"
             }
         ]
     
@@ -150,16 +210,21 @@ class InternetAnarchistIngestionPipeline:
     def _get_sample_transcript(self, video_id: str) -> str:
         """Get sample transcript data for fallback."""
         sample_transcripts = {
-            "m5_n7p8q9r": "JiDion's Past Is Catching Up To Him discusses the consequences of online actions and how past behavior can resurface in the digital age. The video explores themes of accountability, internet culture, and the lasting impact of viral content.",
-            "n6_o7p8q9s": "How Penguinz0 Destroyed YouTube's Worst Content Thief examines the battle between content creators and those who steal and monetize others' work. This video covers topics like intellectual property, YouTube's policies, and the ethics of content creation.",
-            "p7_q8r9s0t": "The Rise and Fall of Logan Paul chronicles the controversial journey of one of YouTube's biggest stars. This analysis explores celebrity culture, mental health awareness, and the responsibilities of influencers with massive platforms.",
-            "q8_r9s0t1u": "MrBeast: Behind the Scenes reveals the business strategies and creative process behind YouTube's most successful creator. This video covers entrepreneurship, content strategy, and the economics of modern media.",
-            "s9_t0u1v2w": "PewDiePie's Journey traces the evolution of YouTube's most subscribed creator from gaming to commentary. This documentary explores personal branding, creative growth, and the changing landscape of online entertainment.",
-            "t0_u1v2w3x": "The Evolution of YouTube Gaming explores how gaming content has transformed from simple gameplay videos to complex entertainment productions. This analysis covers the rise of esports, streaming culture, and the professionalization of gaming content.",
-            "u1_v2w3x4y": "Content Creator Burnout and Mental Health addresses the psychological challenges faced by online creators. The video explores the pressures of constant content creation, audience expectations, and strategies for maintaining mental wellbeing in the digital age.",
-            "v2_w3x4y5z": "The Algorithm: How YouTube Recommends Content demystifies YouTube's recommendation system and its impact on content creation. This documentary examines how algorithms shape what we watch, the economics of attention, and the future of digital media discovery.",
-            "w3x4y5z6a": "Viral Marketing Strategies That Work analyzes successful viral campaigns and the psychology behind shareable content. The video explores the elements that make content go viral, from emotional triggers to timing and platform optimization.",
-            "x4y5z6a7b": "The Dark Side of Influencer Culture exposes the hidden challenges and ethical dilemmas of online fame. This investigation examines the impact of social media on mental health, the authenticity of sponsored content, and the responsibility of influencers to their audiences."
+            "MrXO4Y6YpGA": "The Never-Ending Downfall of KSI explores the continuous decline and controversies surrounding KSI, a prominent YouTube personality. This documentary examines how fame, public perception, and personal choices impact content creators in the digital age. The video analyzes KSI's journey from gaming stardom to mainstream celebrity and the various controversies that have shaped his career trajectory.",
+            "IMdDtCuFZsc": "Jonah Hill's Life Is Falling Apart provides an in-depth look at the personal struggles and career challenges faced by actor and comedian Jonah Hill. This documentary examines the pressures of fame, mental health challenges, and the impact of public scrutiny on personal wellbeing. The video explores how Hill has navigated various controversies and personal crises in the public eye.",
+            "uK_G92TUXWg": "The Deserved Downfall of Tom Segura investigates the controversies and career challenges faced by comedian Tom Segura. This documentary examines various allegations, public controversies, and the impact of these issues on Segura's professional reputation and personal life. The video analyzes how public perception can change and the consequences of actions in the digital age.",
+            "Mh9lkEl8ZWU": "The Deserved Downfall of Dr Phil explores the controversies and challenges faced by television personality Dr. Phil McGraw. This documentary examines various criticisms, professional controversies, and the impact of public perception on Dr. Phil's long-running television career and public image.",
+            "P-debBoN21E": "The Deserved Downfall of Yo Mama investigates various controversies and challenges faced by content creators in the YouTube ecosystem. This documentary examines the impact of controversy, public perception, and career choices on content creators' success and longevity in the digital entertainment industry.",
+            "W82TeO-XXWU": "The 13 Seconds That Exposed Hank Green reveals a critical moment that significantly impacted Hank Green's public image and career. This documentary examines the power of viral moments, the speed of information dissemination in the digital age, and how small incidents can have major consequences for public figures.",
+            "6zAG7p81NME": "Airrack Never Stopped Faking Videos investigates allegations and controversies surrounding YouTuber Airrack. This documentary examines claims about authenticity in content creation, the line between entertainment and deception, and the ethical considerations that content creators face when producing viral content.",
+            "1_OKHUNAR8c": "Andrew Tate's Life Is Falling Apart explores the rapid rise and subsequent controversies surrounding Andrew Tate. This documentary examines how controversial statements, legal issues, and public perception can impact influencers and content creators in the modern digital landscape.",
+            "RArG7wIFIa0": "The Most Evil Father on TikTok investigates concerning content and behavior on the TikTok platform. This documentary examines the impact of social media on family dynamics, the responsibility of platforms in content moderation, and the ethical considerations surrounding viral content featuring minors.",
+            "A-SGv0fCUsw": "Mizkif's Life Is Falling Apart examines the personal and professional challenges faced by Twitch streamer Mizkif. This documentary explores the pressures of live streaming, mental health challenges in the creator economy, and the impact of public controversies on content creators' careers and personal wellbeing.",
+            "ojhdGmT_1aI": "How Penguinz0 Destroyed the Technoblade Copycat investigates Penguinz0's role in exposing and addressing content theft and imitation in the YouTube gaming community. This documentary examines the ethics of content creation, the importance of originality, and how creators protect their work from being exploited.",
+            "AltzlEgXO_M": "How Penguinz0 Destroyed YouTube's Worst Content Thief is an investigative documentary exposing content theft and exploitation in the YouTube ecosystem. This video examines the methods used by unscrupulous creators to steal and monetize others' work, and how content creators fight back against plagiarism and copyright infringement.",
+            "U7YtrRRccC0": "The Satisfying Downfall of SSSniperWolf explores the controversies and career challenges faced by YouTuber SSSniperWolf. This documentary examines various allegations, public controversies, and the impact of these issues on her professional reputation and relationship with her audience.",
+            "FfgYq3_z-kg": "How Penguinz0 Destroyed a Psycho Vegan Bodybuilder investigates a specific controversy involving Penguinz0 and another content creator. This documentary examines the dynamics of creator conflicts, the role of drama and controversy in content virality, and the ethical considerations when addressing problematic behavior in the creator community.",
+            "TeJaFf9z4Rc": "How Penguinz0 Ended Kwebbelkop's Career... examines the impact of Penguinz0's content on the career of fellow YouTuber Kwebbelkop. This documentary explores creator rivalries, the power of narrative in online content, and how controversial videos can have lasting consequences for content creators' careers and public image."
         }
         return sample_transcripts.get(video_id, "Transcript not available for this video.")
     

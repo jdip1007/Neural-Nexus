@@ -16,7 +16,7 @@ from video_tracker import VideoTracker
 # Configuration
 TRANSCRIPT_API_KEY = os.environ.get("TRANSCRIPT_API_KEY")
 NEURAL_NEXUS_PATH = os.environ.get("NEURAL_NEXUS_PATH", "/home/hermes/Neural-Nexus")
-RAW_TRANSCRIPTS_DIR = Path(NEURAL_NEXUS_PATH) / "raw" / "transcripts" / "healthygamergg"
+RAW_TRANSCRIPTS_DIR = Path("/home/hermes/Neural-Nexus") / "raw" / "transcripts" / "healthygamergg"
 
 def sanitize_filename(text):
     """Generate safe filename from text"""
@@ -88,7 +88,7 @@ series:
 
 def create_neural_nexus_page(video_id, title, transcript_file, content_type="concept"):
     """Create Neural Nexus page with proper frontmatter and content"""
-    concepts_dir = Path(NEURAL_NEXUS_PATH) / "docs" / "concepts"
+    concepts_dir = Path("/home/hermes/Neural-Nexus") / "docs" / "concepts"
     concepts_dir.mkdir(parents=True, exist_ok=True)
 
     # Determine content type and tags based on title
@@ -260,7 +260,7 @@ def main():
         all_videos = json.load(f)
 
     # Initialize tracker
-    tracker = VideoTracker()
+    tracker = VideoTracker("healthygamer_tracker.json")
 
     # Get unprocessed videos
     unprocessed_videos = []

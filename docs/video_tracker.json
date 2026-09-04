@@ -1,12 +1,35 @@
 {
   "processed_videos": [
-    {
+    "gAxNYd01I6E",
+    "SR8ESCmUYLY",
+    "mSjaMyP5QjY",
+    "dave_garage_006",
+    "OG91c7xsNMc",
+    "dave_garage_001",
+    "QTTCqGtT6I4",
+    "dave_garage_005",
+    "DSA4VFdqELg",
+    "jH0BYAkPj78",
+    "YV7xNa3QO0c",
+    "-5epM9WG95g",
+    "test1",
+    "dave_garage_002",
+    "LJSgsf9ro38",
+    "mYBxnojY-JA",
+    "7vzjIv2l6wY",
+    "ka2GKBfviic",
+    "kLcpCqLwNU8",
+    "dave_garage_003",
+    "XAzUoizwnXM"
+  ],
+  "video_metadata": {
+    "test1": {
       "id": "test1",
       "title": "Test Video 1",
       "url": "https://youtube.com/watch?v=test1",
       "processed_at": "2026-08-18T16:39:00.949749"
     },
-    {
+    "YV7xNa3QO0c": {
       "id": "YV7xNa3QO0c",
       "title": "2:06:15",
       "url": "https://www.youtube.com/watch?v=YV7xNa3QO0c",
@@ -15,7 +38,7 @@
       "content_hash": "9e38964873166a5d509650e1ab5703dc42edc173a24c2dcc552fd60f291d1ec0",
       "status": "placeholder"
     },
-    {
+    "ka2GKBfviic": {
       "id": "ka2GKBfviic",
       "title": "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2",
       "url": "https://www.youtube.com/watch?v=ka2GKBfviic",
@@ -24,16 +47,16 @@
       "content_hash": "b7af50ead92c7ae07ce4747fa2769f34edac9f925e340db5e3f00fdbbe483492",
       "status": "placeholder"
     },
-    {
+    "gAxNYd01I6E": {
       "id": "gAxNYd01I6E",
-      "title": "\u201cWe're At The Beginning Of A Revolution\u201d - Jimmy Carr",
+      "title": "“We're At The Beginning Of A Revolution” - Jimmy Carr",
       "url": "https://www.youtube.com/watch?v=gAxNYd01I6E",
       "processed_at": "2026-08-19T08:44:57.023314",
-      "page_filename": "youtube-gAxNYd01I6E-\u201cwere-at-the-beginning-of-a-revolution\u201d-jimmy-carr.md",
+      "page_filename": "youtube-gAxNYd01I6E-“were-at-the-beginning-of-a-revolution”-jimmy-carr.md",
       "content_hash": "2fd94e63f087eb0e7e5d644d890a7bec9e7e1fb1cdd719c752684402f39897c2",
       "status": "placeholder"
     },
-    {
+    "mSjaMyP5QjY": {
       "id": "mSjaMyP5QjY",
       "title": "AI DEBATE: What Will the World Actually Look Like in 2040?",
       "url": "https://www.youtube.com/watch?v=mSjaMyP5QjY",
@@ -42,7 +65,7 @@
       "content_hash": "67ce5a5352e47bacf5d1f7e7fbf2c63a898661cce9c75b336f2a128ec17904f8",
       "status": "placeholder"
     },
-    {
+    "-5epM9WG95g": {
       "id": "-5epM9WG95g",
       "title": "Why Do Female Teachers Sleep With Students?",
       "url": "https://www.youtube.com/watch?v=-5epM9WG95g",
@@ -51,7 +74,7 @@
       "content_hash": "fd0af8df1110430dc86ee0c28c08e3017f73d372041e8bd6e4a92136c9f496d1",
       "status": "placeholder"
     },
-    {
+    "dave_garage_002": {
       "id": "dave_garage_002",
       "title": "The Complete Guide to Home Automation Systems",
       "url": "https://www.youtube.com/watch?v=dave_garage_002",
@@ -60,7 +83,7 @@
       "status": "processed",
       "processed_at": "2026-08-25T17:28:39.518477"
     },
-    {
+    "dave_garage_003": {
       "id": "dave_garage_003",
       "title": "DIY Smart Mirror: Building Your Own Assistant",
       "url": "https://www.youtube.com/watch?v=dave_garage_003",
@@ -69,7 +92,7 @@
       "status": "processed",
       "processed_at": "2026-08-25T17:28:39.519591"
     },
-    {
+    "dave_garage_001": {
       "id": "dave_garage_001",
       "title": "Building a Custom Electric Vehicle from Scratch",
       "url": "https://www.youtube.com/watch?v=dave_garage_001",
@@ -78,7 +101,7 @@
       "status": "processed",
       "processed_at": "2026-08-25T17:28:39.520692"
     },
-    {
+    "dave_garage_006": {
       "id": "dave_garage_006",
       "title": "Arduino vs Raspberry Pi: Which is Better?",
       "url": "https://www.youtube.com/watch?v=dave_garage_006",
@@ -87,7 +110,7 @@
       "status": "processed",
       "processed_at": "2026-08-25T17:28:39.521769"
     },
-    {
+    "dave_garage_005": {
       "id": "dave_garage_005",
       "title": "Solar Power System for Your Workshop",
       "url": "https://www.youtube.com/watch?v=dave_garage_005",
@@ -96,7 +119,7 @@
       "status": "processed",
       "processed_at": "2026-08-25T17:28:39.522684"
     },
-    {
+    "jH0BYAkPj78": {
       "id": "jH0BYAkPj78",
       "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
       "url": "https://www.youtube.com/watch?v=jH0BYAkPj78",
@@ -105,7 +128,7 @@
       "processed_at": "2026-09-03T21:40:05.826592",
       "status": "processed"
     },
-    {
+    "mYBxnojY-JA": {
       "id": "mYBxnojY-JA",
       "title": "Why Modern Dating Feels Like Parenting",
       "url": "https://www.youtube.com/watch?v=mYBxnojY-JA",
@@ -114,7 +137,7 @@
       "processed_at": "2026-09-03T21:40:05.827284",
       "status": "processed"
     },
-    {
+    "XAzUoizwnXM": {
       "id": "XAzUoizwnXM",
       "title": "CANBUS - Networking so simple, even YOU can understand it!",
       "url": "https://www.youtube.com/watch?v=XAzUoizwnXM",
@@ -123,7 +146,7 @@
       "processed_at": "2026-09-03T21:40:05.827641",
       "status": "processed"
     },
-    {
+    "kLcpCqLwNU8": {
       "id": "kLcpCqLwNU8",
       "title": "The Challenge: Building a Custom Electric Vehicle",
       "url": "https://www.youtube.com/watch?v=kLcpCqLwNU8",
@@ -132,7 +155,7 @@
       "processed_at": "2026-09-03T21:40:05.827883",
       "status": "processed"
     },
-    {
+    "QTTCqGtT6I4": {
       "id": "QTTCqGtT6I4",
       "title": "What Happens When You Lose Just One Packet?",
       "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
@@ -140,7 +163,37 @@
       "content_hash": "d141ff07704fabfc451c3060f64dcccb",
       "processed_at": "2026-09-03T21:40:05.828152",
       "status": "processed"
+    },
+    "OG91c7xsNMc": {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "processed_at": "2026-09-04T21:50:33.697540",
+      "status": "processed"
+    },
+    "SR8ESCmUYLY": {
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "url": "https://www.youtube.com/watch?v=SR8ESCmUYLY",
+      "processed_at": "2026-09-04T21:50:34.698352",
+      "status": "processed"
+    },
+    "7vzjIv2l6wY": {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "processed_at": "2026-09-04T21:50:35.699202",
+      "status": "processed"
+    },
+    "LJSgsf9ro38": {
+      "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
+      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
+      "processed_at": "2026-09-04T21:50:36.700047",
+      "status": "processed"
+    },
+    "DSA4VFdqELg": {
+      "title": "Reliable Isn't Always Better: TCP vs UDP",
+      "url": "https://www.youtube.com/watch?v=DSA4VFdqELg",
+      "processed_at": "2026-09-04T21:50:37.700871",
+      "status": "processed"
     }
-  ],
-  "last_updated": "2026-09-03T21:40:05.828154"
+  },
+  "last_updated": "2026-09-04T21:50:37.700885"
 }

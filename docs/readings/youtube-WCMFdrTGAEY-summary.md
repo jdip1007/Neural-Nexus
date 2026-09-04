@@ -1,17 +1,17 @@
 ---
 title: The OCW Update - Summary
-created: 2026-09-02
-updated: 2026-09-02
+created: 2026-09-03
+updated: 2026-09-03
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, WCMFdrTGAEY]
 sources: [raw/videos/youtube-WCMFdrTGAEY-transcript.md]
-published: 2026-09-02
+published: 2026-09-03
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-02
+reviewed: 2026-09-03
 ---
 
 # The OCW Update - Summary
@@ -32,7 +32,7 @@ autonomous machines
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Khan Academy, Under Armor, Sal Khan
+- **Persons**: Cognitive Sciences, Khan Academy, Financial Systems
 
 ## Related Concepts
 - [[ai]]

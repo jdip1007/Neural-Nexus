@@ -1,17 +1,17 @@
 ---
 title: How to Speak - Summary
-created: 2026-09-02
-updated: 2026-09-02
+created: 2026-09-03
+updated: 2026-09-03
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
-published: 2026-09-02
+published: 2026-09-03
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-02
+reviewed: 2026-09-03
 ---
 
 # How to Speak - Summary
@@ -41,7 +41,7 @@ it's important to talk about your research in context
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Hedda Gabler, Military Justice, Governor Christie
+- **Persons**: Democratic Convention, Alan Lazarus, Doug Lenat
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts

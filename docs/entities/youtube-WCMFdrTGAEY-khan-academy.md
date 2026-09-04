@@ -1,7 +1,7 @@
 ---
 title: Khan Academy
-created: 2026-09-02
-updated: 2026-09-02
+created: 2026-09-03
+updated: 2026-09-03
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, WCMFdrTGAEY]
 sources: [raw/videos/youtube-WCMFdrTGAEY-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-09-02
+reviewed: 2026-09-03
 ---
 
 # Khan Academy
