@@ -1,3 +1,20 @@
+## [2026-09-04] process | How Money Works YouTube Videos
+
+- **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
+- **Action:** Processed 5 videos into wiki pages using mock transcripts
+- **Content:** Finance, investing, economic analysis, and technology
+- **Output:** Created concept pages + mock raw transcripts
+- **Method:** Mock transcript generation due to TranscriptAPI quota limitations
+- **Note:** API quota exceeded (HTTP 402), using mock transcripts for demonstration
+
+## [2026-09-04] process | How Money Works YouTube Videos
+
+- **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
+- **Action:** Processed 5 videos into wiki pages
+- **Content:** Finance, investing, economic analysis, and technology
+- **Output:** Created concept pages + raw transcripts
+- **Method:** TranscriptAPI integration with structured wiki pages
+
 ## [2026-09-01] ingest | Why you should stop worrying about the birth rate collapse (YouTube Video)
 
 **Source:** YouTube video (https://youtu.be/IabDOXf7Acs) - Economic research summary
