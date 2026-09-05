@@ -1,42 +1,42 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-09-04 22:10:14
+Generated: 2026-09-05 22:24:32
 
 === Statistics ===
 Total videos in channel: 15
-Already processed: 63
+Already processed: 70
 New videos processed: 5
-Unprocessed remaining: -48
+Unprocessed remaining: -55
 
 === Processed Videos ===
-- Airrack Never Stopped Faking Videos
-  ID: 6zAG7p81NME
-  URL: https://www.youtube.com/watch?v=6zAG7p81NME
-  Processed: 2026-09-04 22:10:14
+- The Most Evil Father on TikTok
+  ID: RArG7wIFIa0
+  URL: https://www.youtube.com/watch?v=RArG7wIFIa0
+  Processed: 2026-09-05 22:24:32
 
-- The Never-Ending Downfall of KSI
-  ID: MrXO4Y6YpGA
-  URL: https://www.youtube.com/watch?v=MrXO4Y6YpGA
-  Processed: 2026-09-04 22:10:14
+- The 13 Seconds That Exposed Hank Green
+  ID: W82TeO-XXWU
+  URL: https://www.youtube.com/watch?v=W82TeO-XXWU
+  Processed: 2026-09-05 22:24:32
 
-- The Deserved Downfall of Yo Mama
-  ID: P-debBoN21E
-  URL: https://www.youtube.com/watch?v=P-debBoN21E
-  Processed: 2026-09-04 22:10:14
+- The Satisfying Downfall of SSSniperWolf
+  ID: U7YtrRRccC0
+  URL: https://www.youtube.com/watch?v=U7YtrRRccC0
+  Processed: 2026-09-05 22:24:32
 
-- How Penguinz0 Ended Kwebbelkop's Career...
-  ID: TeJaFf9z4Rc
-  URL: https://www.youtube.com/watch?v=TeJaFf9z4Rc
-  Processed: 2026-09-04 22:10:14
+- How Penguinz0 Destroyed the Technoblade Copycat
+  ID: ojhdGmT_1aI
+  URL: https://www.youtube.com/watch?v=ojhdGmT_1aI
+  Processed: 2026-09-05 22:24:32
 
-- Andrew Tate's Life Is Falling Apart
-  ID: 1_OKHUNAR8c
-  URL: https://www.youtube.com/watch?v=1_OKHUNAR8c
-  Processed: 2026-09-04 22:10:14
+- How Penguinz0 Destroyed a Psycho Vegan Bodybuilder
+  ID: FfgYq3_z-kg
+  URL: https://www.youtube.com/watch?v=FfgYq3_z-kg
+  Processed: 2026-09-05 22:24:32
 
 === Recent Activity ===
-- Andrew Tate's Life Is Falling Apart (Unknown time)
-- How Penguinz0 Ended Kwebbelkop's Career... (Unknown time)
-- The Deserved Downfall of Yo Mama (Unknown time)
-- The Never-Ending Downfall of KSI (Unknown time)
-- Airrack Never Stopped Faking Videos (Unknown time)
+- How Penguinz0 Destroyed a Psycho Vegan Bodybuilder (Unknown time)
+- How Penguinz0 Destroyed the Technoblade Copycat (Unknown time)
+- The Satisfying Downfall of SSSniperWolf (Unknown time)
+- The 13 Seconds That Exposed Hank Green (Unknown time)
+- The Most Evil Father on TikTok (Unknown time)
