@@ -1,7 +1,7 @@
 ---
 title: What Happens When You Lose Just One Packet?
-created: 2026-09-02
-updated: 2026-09-02
+created: 2026-09-05
+updated: 2026-09-05
 type: reading
 classification: video.daves-garage
 domain: technology
@@ -9,7 +9,7 @@ tags: ['networking', 'daves-garage', 'youtube', 'tutorial']
 sources: [https://www.youtube.com/watch?v=DSA4VFdqELg]
 confidence: medium
 status: active
-reviewed: 2026-09-02
+reviewed: 2026-09-05
 backlinks: []
 ---
 
@@ -45,4 +45,4 @@ TCP vs UDP networking protocols comparison and analysis. This video explains the
 Source: [https://www.youtube.com/watch?v=DSA4VFdqELg](https://www.youtube.com/watch?v=DSA4VFdqELg)
 
 ---
-*Created: 2026-09-02 21:12:03*
+*Created: 2026-09-05 22:00:57*

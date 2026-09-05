@@ -1,3 +1,18 @@
+---
+title: Autism Works - Neurodiversity in the Workplace
+created: 2026-09-05
+updated: 2026-09-05
+type: reading
+classification: video.daves-garage
+domain: psychology
+tags: ['neurodiversity', 'daves-garage', 'youtube', 'tutorial']
+sources: [https://www.youtube.com/watch?v=vr-EwLQCOIk]
+confidence: medium
+status: active
+reviewed: 2026-09-05
+backlinks: []
+---
+
 # Autism Works - Neurodiversity in the Workplace
 
 > **Source**: [https://www.youtube.com/watch?v=vr-EwLQCOIk](https://www.youtube.com/watch?v=vr-EwLQCOIk) | **Duration**: Unknown | **Views**: Unknown
@@ -30,4 +45,4 @@ Discussion on neurodiversity in workplace environments. Covers autism awareness,
 Source: [https://www.youtube.com/watch?v=vr-EwLQCOIk](https://www.youtube.com/watch?v=vr-EwLQCOIk)
 
 ---
-*Created: 2026-09-02 20:50:39*
+*Created: 2026-09-05 22:00:58*

@@ -1,8 +1,8 @@
 ---
 {
   "title": "If Your Mind Is Racing, Give It Better Problems - Jimmy Carr",
-  "created": "2026-08-20",
-  "updated": "2026-08-20",
+  "created": "2026-09-05",
+  "updated": "2026-09-05",
   "type": "video",
   "tags": [
     "relationships",
@@ -16,7 +16,7 @@
   "video_id": "XqXLijA6CcY",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-20 09:19:04"
+  "ingestion_date": "2026-09-05 17:07:08"
 }
 ---
 
@@ -27,7 +27,7 @@
 - **Channel**: Chris Willx
 - **Video ID**: XqXLijA6CcY
 - **URL**: https://www.youtube.com/watch?v=XqXLijA6CcY
-- **Date Added**: 2026-08-20 09:19:04
+- **Date Added**: 2026-09-05 17:07:08
 
 ## Key Topics
 

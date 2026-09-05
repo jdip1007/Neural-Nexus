@@ -1,8 +1,8 @@
 ---
 {
   "title": "\"We're At The Beginning Of A Revolution\" - Jimmy Carr",
-  "created": "2026-08-20",
-  "updated": "2026-08-20",
+  "created": "2026-09-05",
+  "updated": "2026-09-05",
   "type": "video",
   "tags": [
     "technology"
@@ -13,7 +13,7 @@
   "video_id": "gAxNYd01I6E",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-20 09:19:09"
+  "ingestion_date": "2026-09-05 17:07:01"
 }
 ---
 
@@ -24,7 +24,7 @@
 - **Channel**: Chris Willx
 - **Video ID**: gAxNYd01I6E
 - **URL**: https://www.youtube.com/watch?v=gAxNYd01I6E
-- **Date Added**: 2026-08-20 09:19:09
+- **Date Added**: 2026-09-05 17:07:01
 
 ## Key Topics
 

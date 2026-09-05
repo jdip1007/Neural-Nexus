@@ -2943,7 +2943,7 @@
       ],
       "updated": "2026-07-25",
       "url": "/concepts/psychology/",
-      "inboundLinks": 56,
+      "inboundLinks": 57,
       "outboundLinks": 3
     },
     {
@@ -19730,20 +19730,15 @@
     {
       "id": 1101,
       "slug": "videos/chriswillx/4dIgq-efQpY_The-Hugging-Face-AI-Attack-Should-Terrify-Us",
-      "title": "The Hugging Face AI Attack Should Terrify Us",
-      "type": "video",
+      "title": "4dIgq-efQpY_The-Hugging-Face-AI-Attack-Should-Terrify-Us",
+      "type": "unknown",
       "classification": null,
       "domain": "general",
-      "tags": [
-        "youtube",
-        "chriswillx",
-        "science",
-        "philosophy"
-      ],
-      "updated": "2026-08-31",
+      "tags": [],
+      "updated": "1970-01-01",
       "url": "/videos/chriswillx/4dIgq-efQpY_The-Hugging-Face-AI-Attack-Should-Terrify-Us/",
       "inboundLinks": 0,
-      "outboundLinks": 0
+      "outboundLinks": 1
     },
     {
       "id": 1102,
@@ -27939,6 +27934,10 @@
       "target": 163
     },
     {
+      "source": 1101,
+      "target": 159
+    },
+    {
       "source": 1102,
       "target": 159
     },
@@ -28273,7 +28272,7 @@
   ],
   "metadata": {
     "totalNodes": 1171,
-    "totalEdges": 1848,
-    "generatedAt": "2026-09-04T23:13:41.006Z"
+    "totalEdges": 1849,
+    "generatedAt": "2026-09-05T22:02:20.731Z"
   }
 }

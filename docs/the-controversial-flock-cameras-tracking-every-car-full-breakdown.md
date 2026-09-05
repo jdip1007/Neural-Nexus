@@ -1,7 +1,7 @@
 ---
 title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
-created: 2026-09-02
-updated: 2026-09-02
+created: 2026-09-05
+updated: 2026-09-05
 type: reading
 classification: video.daves-garage
 domain: technology
@@ -9,7 +9,7 @@ tags: ['hardware', 'technology', 'automotive', 'daves-garage', 'youtube', 'tutor
 sources: [https://www.youtube.com/watch?v=LJSgsf9ro38]
 confidence: medium
 status: active
-reviewed: 2026-09-02
+reviewed: 2026-09-05
 backlinks: []
 ---
 
@@ -49,4 +49,4 @@ Detailed breakdown of Flock cameras and vehicle tracking technology. Analysis of
 Source: [https://www.youtube.com/watch?v=LJSgsf9ro38](https://www.youtube.com/watch?v=LJSgsf9ro38)
 
 ---
-*Created: 2026-09-02 21:12:05*
+*Created: 2026-09-05 22:00:59*
