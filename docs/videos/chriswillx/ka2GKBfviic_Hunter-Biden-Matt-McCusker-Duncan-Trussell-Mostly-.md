@@ -1,8 +1,8 @@
 ---
 {
   "title": "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2",
-  "created": "2026-08-20",
-  "updated": "2026-08-20",
+  "created": "2026-09-06",
+  "updated": "2026-09-06",
   "type": "video",
   "tags": [
     "relationships",
@@ -16,7 +16,7 @@
   "video_id": "ka2GKBfviic",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-20 09:19:50"
+  "ingestion_date": "2026-09-06 17:18:07"
 }
 ---
 
@@ -27,7 +27,7 @@
 - **Channel**: Chris Willx
 - **Video ID**: ka2GKBfviic
 - **URL**: https://www.youtube.com/watch?v=ka2GKBfviic
-- **Date Added**: 2026-08-20 09:19:50
+- **Date Added**: 2026-09-06 17:18:07
 
 ## Key Topics
 

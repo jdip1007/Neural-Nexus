@@ -1,8 +1,8 @@
 ---
 {
   "title": "Marriage Kills Women's Sex Drive: Here's Why",
-  "created": "2026-08-20",
-  "updated": "2026-08-20",
+  "created": "2026-09-06",
+  "updated": "2026-09-06",
   "type": "video",
   "tags": [
     "relationships",
@@ -15,7 +15,7 @@
   "video_id": "_ZMYDb86DzY",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-08-20 09:19:54"
+  "ingestion_date": "2026-09-06 17:18:11"
 }
 ---
 
@@ -26,7 +26,7 @@
 - **Channel**: Chris Willx
 - **Video ID**: _ZMYDb86DzY
 - **URL**: https://www.youtube.com/watch?v=_ZMYDb86DzY
-- **Date Added**: 2026-08-20 09:19:54
+- **Date Added**: 2026-09-06 17:18:11
 
 ## Key Topics
 
