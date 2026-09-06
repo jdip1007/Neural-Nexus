@@ -1,12 +1,12 @@
 ---
-title: Video IabDOXf7Acs - Summary
+title: Video clMl_NZp4vI - Summary
 created: 2026-09-06
 updated: 2026-09-06
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, IabDOXf7Acs]
-sources: [raw/videos/youtube-IabDOXf7Acs-transcript.md]
+tags: [youtube, video-summary, transcript, clMl_NZp4vI]
+sources: [raw/videos/youtube-clMl_NZp4vI-transcript.md]
 published: 2026-09-06
 time_sensitive: False
 confidence: high
@@ -14,17 +14,12 @@ status: active
 reviewed: 2026-09-06
 ---
 
-# Video IabDOXf7Acs - Summary
+# Video clMl_NZp4vI - Summary
 
 ## TL;DR
-This video discusses Video IabDOXf7Acs
+This video discusses Video clMl_NZp4vI
 
 ## Key Points
-
-## Entities Mentioned
-
-## Related Concepts
-- [[ai]]
 
 ## Transcript Highlights
 

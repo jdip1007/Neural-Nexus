@@ -1,12 +1,12 @@
 ---
-title: Video IabDOXf7Acs - Summary
+title: Video H6vMTSMZmzc - Summary
 created: 2026-09-06
 updated: 2026-09-06
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, IabDOXf7Acs]
-sources: [raw/videos/youtube-IabDOXf7Acs-transcript.md]
+tags: [youtube, video-summary, transcript, H6vMTSMZmzc]
+sources: [raw/videos/youtube-H6vMTSMZmzc-transcript.md]
 published: 2026-09-06
 time_sensitive: False
 confidence: high
@@ -14,10 +14,10 @@ status: active
 reviewed: 2026-09-06
 ---
 
-# Video IabDOXf7Acs - Summary
+# Video H6vMTSMZmzc - Summary
 
 ## TL;DR
-This video discusses Video IabDOXf7Acs
+This video discusses Video H6vMTSMZmzc
 
 ## Key Points
 

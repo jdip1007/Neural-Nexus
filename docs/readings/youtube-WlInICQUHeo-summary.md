@@ -1,12 +1,12 @@
 ---
-title: Video IabDOXf7Acs - Summary
+title: Video WlInICQUHeo - Summary
 created: 2026-09-06
 updated: 2026-09-06
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, IabDOXf7Acs]
-sources: [raw/videos/youtube-IabDOXf7Acs-transcript.md]
+tags: [youtube, video-summary, transcript, WlInICQUHeo]
+sources: [raw/videos/youtube-WlInICQUHeo-transcript.md]
 published: 2026-09-06
 time_sensitive: False
 confidence: high
@@ -14,17 +14,12 @@ status: active
 reviewed: 2026-09-06
 ---
 
-# Video IabDOXf7Acs - Summary
+# Video WlInICQUHeo - Summary
 
 ## TL;DR
-This video discusses Video IabDOXf7Acs
+This video discusses Video WlInICQUHeo
 
 ## Key Points
-
-## Entities Mentioned
-
-## Related Concepts
-- [[ai]]
 
 ## Transcript Highlights
 
