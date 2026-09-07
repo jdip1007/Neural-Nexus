@@ -1,42 +1,32 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-09-05 22:24:32
+Generated: 2026-09-07 22:49:25
 
 === Statistics ===
 Total videos in channel: 15
-Already processed: 70
-New videos processed: 5
-Unprocessed remaining: -55
+Already processed: 73
+New videos processed: 3
+Unprocessed remaining: -58
 
 === Processed Videos ===
-- The Most Evil Father on TikTok
-  ID: RArG7wIFIa0
-  URL: https://www.youtube.com/watch?v=RArG7wIFIa0
-  Processed: 2026-09-05 22:24:32
+- The Deserved Downfall of Dr Phil
+  ID: Mh9lkEl8ZWU
+  URL: https://www.youtube.com/watch?v=Mh9lkEl8ZWU
+  Processed: 2026-09-07 22:49:25
 
-- The 13 Seconds That Exposed Hank Green
-  ID: W82TeO-XXWU
-  URL: https://www.youtube.com/watch?v=W82TeO-XXWU
-  Processed: 2026-09-05 22:24:32
+- Mizkif's Life Is Falling Apart
+  ID: A-SGv0fCUsw
+  URL: https://www.youtube.com/watch?v=A-SGv0fCUsw
+  Processed: 2026-09-07 22:49:25
 
-- The Satisfying Downfall of SSSniperWolf
-  ID: U7YtrRRccC0
-  URL: https://www.youtube.com/watch?v=U7YtrRRccC0
-  Processed: 2026-09-05 22:24:32
-
-- How Penguinz0 Destroyed the Technoblade Copycat
-  ID: ojhdGmT_1aI
-  URL: https://www.youtube.com/watch?v=ojhdGmT_1aI
-  Processed: 2026-09-05 22:24:32
-
-- How Penguinz0 Destroyed a Psycho Vegan Bodybuilder
-  ID: FfgYq3_z-kg
-  URL: https://www.youtube.com/watch?v=FfgYq3_z-kg
-  Processed: 2026-09-05 22:24:32
+- How Penguinz0 Destroyed YouTube's Worst Content Thief
+  ID: AltzlEgXO_M
+  URL: https://www.youtube.com/watch?v=AltzlEgXO_M
+  Processed: 2026-09-07 22:49:25
 
 === Recent Activity ===
+- How Penguinz0 Destroyed YouTube's Worst Content Thief (Unknown time)
+- Mizkif's Life Is Falling Apart (Unknown time)
+- The Deserved Downfall of Dr Phil (Unknown time)
 - How Penguinz0 Destroyed a Psycho Vegan Bodybuilder (Unknown time)
 - How Penguinz0 Destroyed the Technoblade Copycat (Unknown time)
-- The Satisfying Downfall of SSSniperWolf (Unknown time)
-- The 13 Seconds That Exposed Hank Green (Unknown time)
-- The Most Evil Father on TikTok (Unknown time)
