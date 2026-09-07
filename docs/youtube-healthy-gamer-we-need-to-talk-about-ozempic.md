@@ -1,7 +1,7 @@
 ---
 title: We Need To Talk About Ozempic
-created: 2026-08-29T19:54:51.640439
-updated: 2026-08-29T19:54:51.640441
+created: 2026-09-07T23:22:02.709871
+updated: 2026-09-07T23:22:02.709880
 type: reading
 tags:
   - youtube
@@ -9,7 +9,7 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://youtu.be/oCB-sCIKnkU
+  - https://www.youtube.com/watch?v=xWz2oqOqPHw
 ---
 
 # We Need To Talk About Ozempic
@@ -30,12 +30,12 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 
 [00:00] Introduction to today's important topic
 [02:30] Dr. K shares insights and personal experiences
-[05:15) Key concepts and principles discussed
-[08:40) Practical advice for viewers
-[12:05) Common misconceptions addressed
-[15:30) Real-life examples and case studies
-[18:50) Actionable steps for improvement
-[21:00) Final thoughts and encouragement
+[05:15] Key concepts and principles discussed
+[08:40] Practical advice for viewers
+[12:05] Common misconceptions addressed
+[15:30] Real-life examples and case studies
+[18:50] Actionable steps for improvement
+[21:00] Final thoughts and encouragement
 
 ## Key Insights
 

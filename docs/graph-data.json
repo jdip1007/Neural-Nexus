@@ -401,7 +401,7 @@
       ],
       "updated": "2026-08-20",
       "url": "/concepts/api/",
-      "inboundLinks": 91,
+      "inboundLinks": 89,
       "outboundLinks": 1
     },
     {
@@ -514,7 +514,7 @@
       ],
       "updated": "2026-08-17",
       "url": "/concepts/automotive/",
-      "inboundLinks": 9,
+      "inboundLinks": 10,
       "outboundLinks": 2
     },
     {
@@ -911,7 +911,7 @@
       ],
       "updated": "2026-08-20",
       "url": "/concepts/cloud/",
-      "inboundLinks": 30,
+      "inboundLinks": 29,
       "outboundLinks": 3
     },
     {
@@ -1019,7 +1019,7 @@
       ],
       "updated": "2026-08-20",
       "url": "/concepts/container/",
-      "inboundLinks": 11,
+      "inboundLinks": 10,
       "outboundLinks": 3
     },
     {
@@ -1627,7 +1627,7 @@
       "tags": [],
       "updated": "1970-01-01",
       "url": "/concepts/hardware/",
-      "inboundLinks": 2,
+      "inboundLinks": 3,
       "outboundLinks": 0
     },
     {
@@ -2483,7 +2483,7 @@
       "tags": [],
       "updated": "1970-01-01",
       "url": "/concepts/networking/",
-      "inboundLinks": 0,
+      "inboundLinks": 1,
       "outboundLinks": 0
     },
     {
@@ -2906,7 +2906,7 @@
       ],
       "updated": "2026-08-30T19:12:53",
       "url": "/concepts/programming/",
-      "inboundLinks": 2,
+      "inboundLinks": 3,
       "outboundLinks": 1
     },
     {
@@ -2943,7 +2943,7 @@
       ],
       "updated": "2026-07-25",
       "url": "/concepts/psychology/",
-      "inboundLinks": 58,
+      "inboundLinks": 63,
       "outboundLinks": 3
     },
     {
@@ -3320,7 +3320,7 @@
       ],
       "updated": "2026-08-17",
       "url": "/concepts/technology/",
-      "inboundLinks": 21,
+      "inboundLinks": 22,
       "outboundLinks": 1
     },
     {
@@ -16734,7 +16734,7 @@
     {
       "id": 932,
       "slug": "readings/youtube-9mfJ-G2LPhE-summary",
-      "title": "What Caused the Rise of Nazi Germany - Summary",
+      "title": "Video 9mfJ-G2LPhE - Summary",
       "type": "reading",
       "classification": "general.media",
       "domain": "ai",
@@ -16744,10 +16744,10 @@
         "transcript",
         "9mfJ-G2LPhE"
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-06",
       "url": "/readings/youtube-9mfJ-G2LPhE-summary/",
       "inboundLinks": 3,
-      "outboundLinks": 2
+      "outboundLinks": 1
     },
     {
       "id": 933,
@@ -18086,7 +18086,7 @@
     {
       "id": 1009,
       "slug": "readings/youtube-ZWJNKWK0tbc-summary",
-      "title": "Every Generation Explained in 10 minutes - Summary",
+      "title": "Video ZWJNKWK0tbc - Summary",
       "type": "reading",
       "classification": "general.media",
       "domain": "ai",
@@ -18096,7 +18096,7 @@
         "transcript",
         "ZWJNKWK0tbc"
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-06",
       "url": "/readings/youtube-ZWJNKWK0tbc-summary/",
       "inboundLinks": 3,
       "outboundLinks": 1
@@ -18903,7 +18903,7 @@
     {
       "id": 1052,
       "slug": "readings/youtube-jUJ0MQFNTko-summary",
-      "title": "Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation) - Summary",
+      "title": "Video jUJ0MQFNTko - Summary",
       "type": "reading",
       "classification": "general.media",
       "domain": "ai",
@@ -18913,10 +18913,10 @@
         "transcript",
         "jUJ0MQFNTko"
       ],
-      "updated": "2026-08-22",
+      "updated": "2026-09-06",
       "url": "/readings/youtube-jUJ0MQFNTko-summary/",
       "inboundLinks": 5,
-      "outboundLinks": 4
+      "outboundLinks": 1
     },
     {
       "id": 1053,
@@ -20135,6 +20135,71 @@
     },
     {
       "id": 1126,
+      "slug": "videos/chriswillx/e83_Psychiatrist-Everyone-Is-Wrong-About-The-Lindsay-C",
+      "title": "e83_Psychiatrist-Everyone-Is-Wrong-About-The-Lindsay-C",
+      "type": "unknown",
+      "classification": null,
+      "domain": "general",
+      "tags": [],
+      "updated": "1970-01-01",
+      "url": "/videos/chriswillx/e83_Psychiatrist-Everyone-Is-Wrong-About-The-Lindsay-C/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 1127,
+      "slug": "videos/chriswillx/e85_Couples-Therapist-Why-Your-Brain-Turns-Your-Partne",
+      "title": "e85_Couples-Therapist-Why-Your-Brain-Turns-Your-Partne",
+      "type": "unknown",
+      "classification": null,
+      "domain": "general",
+      "tags": [],
+      "updated": "1970-01-01",
+      "url": "/videos/chriswillx/e85_Couples-Therapist-Why-Your-Brain-Turns-Your-Partne/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 1128,
+      "slug": "videos/chriswillx/e87_Why-Women-Never-Choose-The-Nice-Guy",
+      "title": "e87_Why-Women-Never-Choose-The-Nice-Guy",
+      "type": "unknown",
+      "classification": null,
+      "domain": "general",
+      "tags": [],
+      "updated": "1970-01-01",
+      "url": "/videos/chriswillx/e87_Why-Women-Never-Choose-The-Nice-Guy/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 1129,
+      "slug": "videos/chriswillx/e89_Why-Working-Harder-Wont-Make-You-Rich-Codie-Sanche",
+      "title": "e89_Why-Working-Harder-Wont-Make-You-Rich-Codie-Sanche",
+      "type": "unknown",
+      "classification": null,
+      "domain": "general",
+      "tags": [],
+      "updated": "1970-01-01",
+      "url": "/videos/chriswillx/e89_Why-Working-Harder-Wont-Make-You-Rich-Codie-Sanche/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 1130,
+      "slug": "videos/chriswillx/e95_WAR-DEBATE-This-Is-The-Worst-Crisis-Since-WW2",
+      "title": "e95_WAR-DEBATE-This-Is-The-Worst-Crisis-Since-WW2",
+      "type": "unknown",
+      "classification": null,
+      "domain": "general",
+      "tags": [],
+      "updated": "1970-01-01",
+      "url": "/videos/chriswillx/e95_WAR-DEBATE-This-Is-The-Worst-Crisis-Since-WW2/",
+      "inboundLinks": 0,
+      "outboundLinks": 1
+    },
+    {
+      "id": 1131,
       "slug": "videos/chriswillx/efg678hij901_Breaking-Down-Complex-Topics-Communication-Strategies",
       "title": "Breaking Down Complex Topics: Communication Strategies",
       "type": "video",
@@ -20153,7 +20218,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1127,
+      "id": 1132,
       "slug": "videos/chriswillx/f2p1YH0-BaI_Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa",
       "title": "f2p1YH0-BaI_Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa",
       "type": "unknown",
@@ -20166,7 +20231,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1128,
+      "id": 1133,
       "slug": "videos/chriswillx/f2p1YH0-BaI_Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Far-The-Worst-Daniel-Lieberman",
       "title": "Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel Lieberman",
       "type": "video",
@@ -20184,7 +20249,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1129,
+      "id": 1134,
       "slug": "videos/chriswillx/gAxNYd01I6E_Were-At-The-Beginning-Of-A-Revolution-Jimmy-Carr",
       "title": "gAxNYd01I6E_Were-At-The-Beginning-Of-A-Revolution-Jimmy-Carr",
       "type": "unknown",
@@ -20197,7 +20262,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1130,
+      "id": 1135,
       "slug": "videos/chriswillx/jocko_willink_mostly_wise_jocko-willink-matt-mccusker-jeff-dye-mostly-wise-3",
       "title": "Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3",
       "type": "video",
@@ -20210,7 +20275,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 1131,
+      "id": 1136,
       "slug": "videos/chriswillx/ka2GKBfviic_Hunter-Biden-Matt-McCusker-Duncan-Trussell-Mostly-",
       "title": "ka2GKBfviic_Hunter-Biden-Matt-McCusker-Duncan-Trussell-Mostly-",
       "type": "unknown",
@@ -20223,7 +20288,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1132,
+      "id": 1137,
       "slug": "videos/chriswillx/ka2GKBfviic_Hunter-Biden-Matt-McCusker-Duncan-Trussell-Mostly-Wise-2",
       "title": "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2",
       "type": "video",
@@ -20241,7 +20306,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1133,
+      "id": 1138,
       "slug": "videos/chriswillx/kdnN0kk7MS0_printf-is-actually-a-secret-virtual-machine-and-a-giant-security-hole",
       "title": "printf is Actually a Secret Virtual Machine - And a Giant Security Hole!",
       "type": "video",
@@ -20254,7 +20319,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 1134,
+      "id": 1139,
       "slug": "videos/chriswillx/mno456pqr789_Climate-Change-Scientific-Evidence-and-Solutions",
       "title": "Climate Change: Scientific Evidence and Solutions",
       "type": "video",
@@ -20273,7 +20338,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1135,
+      "id": 1140,
       "slug": "videos/chriswillx/naval_ravikant_game_of_life_44-harsh-truths-about-the-game-of-life-naval-ravikant-4k",
       "title": "44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)",
       "type": "video",
@@ -20290,7 +20355,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 1136,
+      "id": 1141,
       "slug": "videos/chriswillx/psychology_of_money_the-psychology-of-money-why-rich-people-think-differently",
       "title": "The Psychology of Money: Why Rich People Think Differently",
       "type": "video",
@@ -20305,7 +20370,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 1137,
+      "id": 1142,
       "slug": "videos/chriswillx/stu012vwx345_The-Philosophy-of-Happiness-Ancient-Wisdom-for-Modern-Life",
       "title": "The Philosophy of Happiness: Ancient Wisdom for Modern Life",
       "type": "video",
@@ -20324,7 +20389,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1138,
+      "id": 1143,
       "slug": "videos/chriswillx/what_happens_12_year_old_prison_what-happens-when-a-12-year-old-goes-to-prison-for-13-years-johnny-chang",
       "title": "What Happens When A 12-Year-Old Goes To Prison For 13 Years? - Johnny Chang",
       "type": "video",
@@ -20337,7 +20402,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 1139,
+      "id": 1144,
       "slug": "videos/chriswillx/xyz789uvw012_Understanding-Mental-Health-in-the-Digital-Age",
       "title": "Understanding Mental Health in the Digital Age",
       "type": "video",
@@ -20356,7 +20421,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 1140,
+      "id": 1145,
       "slug": "videos/daves_garage_ingestion_final_report_20260825",
       "title": "Dave's Garage YouTube Ingestion - Final Report",
       "type": "reading",
@@ -20375,7 +20440,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1141,
+      "id": 1146,
       "slug": "videos/daves_garage_ingestion_report_20260825_172839",
       "title": "Dave's Garage YouTube Ingestion Report",
       "type": "reading",
@@ -20393,7 +20458,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1142,
+      "id": 1147,
       "slug": "videos/davesgarage/7vzjIv2l6wY_ethernet-explained-so-well-that-even-you-can-understand-it",
       "title": "Ethernet Explained so well that even YOU can Understand it!",
       "type": "video",
@@ -20408,7 +20473,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 1143,
+      "id": 1148,
       "slug": "videos/davesgarage/HiHMQN3kQlQ_task-manager-is-lying-about-your-cpu-usage-heres-the-truth",
       "title": "Task Manager is LYING About Your CPU Usage (Here's the Truth)",
       "type": "video",
@@ -20424,7 +20489,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1144,
+      "id": 1149,
       "slug": "videos/davesgarage/SR8ESCmUYLY_hidden-code-how-slot-machines-actually-work-the-computer-inside",
       "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
       "type": "video",
@@ -20441,7 +20506,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 1145,
+      "id": 1150,
       "slug": "videos/davesgarage/XAzUoizwnXM_fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
       "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
       "type": "video",
@@ -20456,7 +20521,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1146,
+      "id": 1151,
       "slug": "videos/davesgarage/ZbZozyGTlKA_robotron-was-supposed-to-be-humanly-impossible-so-i-built-an-ai-to-break-it",
       "title": "Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.",
       "type": "video",
@@ -20471,7 +20536,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1147,
+      "id": 1152,
       "slug": "videos/davesgarage/aB2c3D4e5F6_the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
       "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
       "type": "video",
@@ -20486,7 +20551,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 1148,
+      "id": 1153,
       "slug": "videos/davesgarage/b3c4d5e6f7_fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
       "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
       "type": "video",
@@ -20501,7 +20566,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 1149,
+      "id": 1154,
       "slug": "videos/davesgarage/hRhBuHJ-j_o_the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
       "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
       "type": "video",
@@ -20517,7 +20582,7 @@
       "outboundLinks": 2
     },
     {
-      "id": 1150,
+      "id": 1155,
       "slug": "videos/davesgarage/mN3p4q5r6s7_the-controversial-flock-cameras-tracking-every-car-full-breakdown",
       "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
       "type": "video",
@@ -20532,7 +20597,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 1151,
+      "id": 1156,
       "slug": "videos/davesgarage/p1q2r3s4t5_microsofts-secret-90s-weapon-that-made-windows-fast",
       "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
       "type": "video",
@@ -20547,7 +20612,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 1152,
+      "id": 1157,
       "slug": "videos/davesgarage/uV6wX7yZ8a_hidden-code-how-slot-machines-actually-work-the-computer-inside",
       "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
       "type": "video",
@@ -20562,7 +20627,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 1153,
+      "id": 1158,
       "slug": "videos/davesgarage/vQz7YnKqJ8X_canbus-networking-so-simple-even-you-can-understand-it",
       "title": "CANBUS – Networking so simple, even YOU can understand it!",
       "type": "video",
@@ -20577,7 +20642,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 1154,
+      "id": 1159,
       "slug": "videos/davesgarage/xY9z8A7b6C5_the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
       "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
       "type": "video",
@@ -20592,7 +20657,7 @@
       "outboundLinks": 3
     },
     {
-      "id": 1155,
+      "id": 1160,
       "slug": "videos/howmoneyworks/4rmkiGMknpg_can-meta-actually-survive-this",
       "title": "Can Meta Actually Survive This?",
       "type": "video",
@@ -20610,7 +20675,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1156,
+      "id": 1161,
       "slug": "videos/howmoneyworks/5aBW_VGT130_so-is-private-equity-collapsing-yet",
       "title": "So... Is Private Equity Collapsing Yet?",
       "type": "video",
@@ -20628,7 +20693,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1157,
+      "id": 1162,
       "slug": "videos/howmoneyworks/6BOxK_JrghY_dude-im-broke-why-is-my-data-worth-harvesting",
       "title": "Dude I'm Broke: Why Is My Data Worth Harvesting?",
       "type": "video",
@@ -20644,7 +20709,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1158,
+      "id": 1163,
       "slug": "videos/howmoneyworks/D-uK2Xs6D9s_the-stay-at-home-boyfriend-epidemic-women-now-outnumber-men-in-the-workforce",
       "title": "The \"Stay-At-Home Boyfriend\" Epidemic - Women Now Outnumber Men In The Workforce",
       "type": "video",
@@ -20660,7 +20725,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1159,
+      "id": 1164,
       "slug": "videos/howmoneyworks/Sx-lddna-qg_wtf-is-happening-to-the-video-game-industry",
       "title": "WTF Is Happening To The Video Game Industry?",
       "type": "video",
@@ -20677,7 +20742,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1160,
+      "id": 1165,
       "slug": "videos/howmoneyworks/THodtjsCTSI_is-america-chasing-away-all-of-its-smart-people",
       "title": "Is America Chasing Away All Of Its Smart People?",
       "type": "video",
@@ -20693,7 +20758,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1161,
+      "id": 1166,
       "slug": "videos/howmoneyworks/e-2GoFws3yE_why-havent-we-had-that-oil-crisis-yet",
       "title": "Why Haven't We Had That Oil Crisis... Yet?",
       "type": "video",
@@ -20706,7 +20771,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1162,
+      "id": 1167,
       "slug": "videos/howmoneyworks/qmZmKZR8S5U_how-long-can-the-stock-market-ignore-reality",
       "title": "How Long Can The Stock Market Ignore Reality?",
       "type": "video",
@@ -20722,7 +20787,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1163,
+      "id": 1168,
       "slug": "videos/howmoneyworks/swtfbef3HhM_big-tech-cut-950000-jobs-and-then-hired-them-all-back",
       "title": "Big Tech Cut 950,000 Jobs... And Then Hired Them All Back",
       "type": "video",
@@ -20735,7 +20800,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1164,
+      "id": 1169,
       "slug": "videos/internetanarchist/m5_n7p8q9r_JiDion's Past Is Catching Up To Him",
       "title": "JiDion's Past Is Catching Up To Him",
       "type": "video",
@@ -20752,7 +20817,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1165,
+      "id": 1170,
       "slug": "videos/internetanarchist/n6_o7p8q9s_How Penguinz0 Destroyed YouTube's Worst Content Thief",
       "title": "n6_o7p8q9s_How Penguinz0 Destroyed YouTube's Worst Content Thief",
       "type": "unknown",
@@ -20765,7 +20830,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1166,
+      "id": 1171,
       "slug": "videos/internetanarchist/p7_q8r9s0t_The Rise and Fall of Logan Paul",
       "title": "p7_q8r9s0t_The Rise and Fall of Logan Paul",
       "type": "unknown",
@@ -20778,7 +20843,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1167,
+      "id": 1172,
       "slug": "videos/internetanarchist/q8_r9s0t1u_MrBeast: Behind the Scenes",
       "title": "MrBeast: Behind the Scenes",
       "type": "unknown",
@@ -20791,7 +20856,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1168,
+      "id": 1173,
       "slug": "videos/internetanarchist/s9_t0u1v2w_PewDiePie's Journey",
       "title": "s9_t0u1v2w_PewDiePie's Journey",
       "type": "unknown",
@@ -20804,7 +20869,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1169,
+      "id": 1174,
       "slug": "videos/internetanarchist/t0_u1v2w3x_The Evolution of YouTube Gaming",
       "title": "t0_u1v2w3x_The Evolution of YouTube Gaming",
       "type": "unknown",
@@ -20817,7 +20882,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1170,
+      "id": 1175,
       "slug": "videos/internetanarchist/u1_v2w3x4y_Content Creator Burnout and Mental Health",
       "title": "Content Creator Burnout and Mental Health",
       "type": "video",
@@ -20835,7 +20900,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1171,
+      "id": 1176,
       "slug": "videos/internetanarchist/v2_w3x4y5z_The Algorithm_ How YouTube Recommends Content",
       "title": "The Algorithm: How YouTube Recommends Content",
       "type": "video",
@@ -20852,7 +20917,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1172,
+      "id": 1177,
       "slug": "videos/internetanarchist/w3x4y5z6a_Viral Marketing Strategies That Work",
       "title": "Viral Marketing Strategies That Work",
       "type": "video",
@@ -20869,7 +20934,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1173,
+      "id": 1178,
       "slug": "videos/internetanarchist/x4y5z6a7b_The Dark Side of Influencer Culture",
       "title": "x4y5z6a7b_The Dark Side of Influencer Culture",
       "type": "unknown",
@@ -20882,7 +20947,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1174,
+      "id": 1179,
       "slug": "videos/mzA85vW5Jt0-The-Rarest-Type-Of-Soldiers-In-The-World",
       "title": "mzA85vW5Jt0-The-Rarest-Type-Of-Soldiers-In-The-World",
       "type": "unknown",
@@ -20895,7 +20960,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1175,
+      "id": 1180,
       "slug": "videos/piaEj-pzkpE-What-Women-Choose-When-They-Cant-Have-Everything",
       "title": "piaEj-pzkpE-What-Women-Choose-When-They-Cant-Have-Everything",
       "type": "unknown",
@@ -20908,7 +20973,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1176,
+      "id": 1181,
       "slug": "videos/the-horror-of-the-zodiac-killer",
       "title": "The Horror of the Zodiac Killer || The Infographics Show",
       "type": "reading",
@@ -20928,7 +20993,7 @@
       "outboundLinks": 6
     },
     {
-      "id": 1177,
+      "id": 1182,
       "slug": "videos/the-infographics-show-why-marines-arent-just-a-different-kind-of-soldier",
       "title": "Why Marines aren't just a different kind of 'soldier' || The Infographics Show react",
       "type": "reading",
@@ -20949,7 +21014,7 @@
       "outboundLinks": 4
     },
     {
-      "id": 1178,
+      "id": 1183,
       "slug": "videos/youtube-dave_garage_001-building-a-custom-electric-vehicle-from-scratch",
       "title": "Building a Custom Electric Vehicle from Scratch",
       "type": "reading",
@@ -20976,7 +21041,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1179,
+      "id": 1184,
       "slug": "videos/youtube-dave_garage_002-the-complete-guide-to-home-automation-systems",
       "title": "The Complete Guide to Home Automation Systems",
       "type": "concept",
@@ -21004,7 +21069,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1180,
+      "id": 1185,
       "slug": "videos/youtube-dave_garage_003-diy-smart-mirror-building-your-own-assistant",
       "title": "DIY Smart Mirror: Building Your Own Assistant",
       "type": "concept",
@@ -21031,7 +21096,7 @@
       "outboundLinks": 1
     },
     {
-      "id": 1181,
+      "id": 1186,
       "slug": "videos/youtube-dave_garage_005-solar-power-system-for-your-workshop",
       "title": "Solar Power System for Your Workshop",
       "type": "concept",
@@ -21058,7 +21123,7 @@
       "outboundLinks": 0
     },
     {
-      "id": 1182,
+      "id": 1187,
       "slug": "videos/youtube-dave_garage_006-arduino-vs-raspberry-pi-which-is-better",
       "title": "Arduino vs Raspberry Pi: Which is Better?",
       "type": "concept",
@@ -21083,6 +21148,26 @@
       "url": "/videos/youtube-dave_garage_006-arduino-vs-raspberry-pi-which-is-better/",
       "inboundLinks": 0,
       "outboundLinks": 0
+    },
+    {
+      "id": 1188,
+      "slug": "videos/youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "type": "reading",
+      "classification": "video.daves-garage",
+      "domain": "technology",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "updated": "2026-09-07",
+      "url": "/videos/youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii/",
+      "inboundLinks": 0,
+      "outboundLinks": 5
     }
   ],
   "edges": [
@@ -26927,10 +27012,6 @@
       "target": 17
     },
     {
-      "source": 932,
-      "target": 21
-    },
-    {
       "source": 933,
       "target": 17
     },
@@ -27728,18 +27809,6 @@
     },
     {
       "source": 1052,
-      "target": 21
-    },
-    {
-      "source": 1052,
-      "target": 55
-    },
-    {
-      "source": 1052,
-      "target": 49
-    },
-    {
-      "source": 1052,
       "target": 17
     },
     {
@@ -28240,10 +28309,14 @@
     },
     {
       "source": 1126,
-      "target": 180
+      "target": 159
     },
     {
       "source": 1127,
+      "target": 159
+    },
+    {
+      "source": 1128,
       "target": 159
     },
     {
@@ -28255,24 +28328,16 @@
       "target": 159
     },
     {
-      "source": 1130,
-      "target": 163
-    },
-    {
       "source": 1131,
-      "target": 159
+      "target": 180
     },
     {
-      "source": 1133,
+      "source": 1132,
       "target": 159
-    },
-    {
-      "source": 1133,
-      "target": 163
     },
     {
       "source": 1134,
-      "target": 180
+      "target": 159
     },
     {
       "source": 1135,
@@ -28284,14 +28349,6 @@
     },
     {
       "source": 1136,
-      "target": 159
-    },
-    {
-      "source": 1136,
-      "target": 163
-    },
-    {
-      "source": 1137,
       "target": 159
     },
     {
@@ -28307,189 +28364,241 @@
       "target": 180
     },
     {
-      "source": 1139,
+      "source": 1140,
       "target": 159
     },
     {
-      "source": 1142,
-      "target": 180
+      "source": 1140,
+      "target": 163
+    },
+    {
+      "source": 1141,
+      "target": 159
+    },
+    {
+      "source": 1141,
+      "target": 163
     },
     {
       "source": 1142,
-      "target": 73
-    },
-    {
-      "source": 1142,
-      "target": 27
+      "target": 159
     },
     {
       "source": 1143,
-      "target": 89
+      "target": 159
     },
     {
-      "source": 1144,
-      "target": 157
+      "source": 1143,
+      "target": 163
     },
     {
       "source": 1144,
       "target": 180
     },
     {
-      "source": 1145,
+      "source": 1144,
+      "target": 159
+    },
+    {
+      "source": 1147,
+      "target": 180
+    },
+    {
+      "source": 1147,
+      "target": 73
+    },
+    {
+      "source": 1147,
+      "target": 27
+    },
+    {
+      "source": 1148,
+      "target": 89
+    },
+    {
+      "source": 1149,
       "target": 157
     },
     {
-      "source": 1146,
+      "source": 1149,
+      "target": 180
+    },
+    {
+      "source": 1150,
+      "target": 157
+    },
+    {
+      "source": 1151,
       "target": 17
     },
     {
-      "source": 1147,
+      "source": 1152,
       "target": 180
     },
     {
-      "source": 1147,
+      "source": 1152,
       "target": 73
     },
     {
-      "source": 1147,
+      "source": 1152,
       "target": 27
     },
     {
-      "source": 1148,
+      "source": 1153,
       "target": 180
     },
     {
-      "source": 1148,
+      "source": 1153,
       "target": 73
     },
     {
-      "source": 1148,
+      "source": 1153,
       "target": 27
     },
     {
-      "source": 1149,
+      "source": 1154,
       "target": 27
     },
     {
-      "source": 1149,
+      "source": 1154,
       "target": 89
     },
     {
-      "source": 1150,
+      "source": 1155,
       "target": 180
     },
     {
-      "source": 1150,
+      "source": 1155,
       "target": 73
     },
     {
-      "source": 1150,
+      "source": 1155,
       "target": 27
     },
     {
-      "source": 1151,
+      "source": 1156,
       "target": 180
     },
     {
-      "source": 1151,
+      "source": 1156,
       "target": 73
     },
     {
-      "source": 1151,
+      "source": 1156,
       "target": 27
     },
     {
-      "source": 1152,
+      "source": 1157,
       "target": 180
     },
     {
-      "source": 1152,
+      "source": 1157,
       "target": 73
     },
     {
-      "source": 1152,
+      "source": 1157,
       "target": 27
     },
     {
-      "source": 1153,
+      "source": 1158,
       "target": 180
     },
     {
-      "source": 1153,
+      "source": 1158,
       "target": 73
     },
     {
-      "source": 1153,
+      "source": 1158,
       "target": 27
     },
     {
-      "source": 1154,
+      "source": 1159,
       "target": 180
     },
     {
-      "source": 1154,
+      "source": 1159,
       "target": 73
     },
     {
-      "source": 1154,
+      "source": 1159,
       "target": 27
     },
     {
-      "source": 1176,
+      "source": 1181,
       "target": 58
     },
     {
-      "source": 1176,
+      "source": 1181,
       "target": 175
     },
     {
-      "source": 1176,
+      "source": 1181,
       "target": 52
     },
     {
-      "source": 1176,
+      "source": 1181,
       "target": 82
     },
     {
-      "source": 1176,
+      "source": 1181,
       "target": 190
     },
     {
-      "source": 1176,
+      "source": 1181,
       "target": 225
     },
     {
-      "source": 1177,
+      "source": 1182,
       "target": 130
     },
     {
-      "source": 1177,
+      "source": 1182,
       "target": 129
     },
     {
-      "source": 1177,
+      "source": 1182,
       "target": 40
     },
     {
-      "source": 1177,
+      "source": 1182,
       "target": 225
     },
     {
-      "source": 1178,
+      "source": 1183,
       "target": 180
     },
     {
-      "source": 1179,
+      "source": 1184,
       "target": 73
     },
     {
-      "source": 1180,
+      "source": 1185,
       "target": 180
+    },
+    {
+      "source": 1188,
+      "target": 89
+    },
+    {
+      "source": 1188,
+      "target": 180
+    },
+    {
+      "source": 1188,
+      "target": 27
+    },
+    {
+      "source": 1188,
+      "target": 135
+    },
+    {
+      "source": 1188,
+      "target": 157
     }
   ],
   "metadata": {
-    "totalNodes": 1183,
-    "totalEdges": 1850,
-    "generatedAt": "2026-09-06T23:11:02.092Z"
+    "totalNodes": 1189,
+    "totalEdges": 1856,
+    "generatedAt": "2026-09-07T22:37:22.300Z"
   }
 }

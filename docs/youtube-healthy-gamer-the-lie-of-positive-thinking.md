@@ -1,7 +1,7 @@
 ---
 title: The Lie of "Positive Thinking"
-created: 2026-08-26T18:58:56.399512
-updated: 2026-08-26T18:58:56.399515
+created: 2026-09-07T23:22:03.337210
+updated: 2026-09-07T23:22:03.337218
 type: reading
 tags:
   - youtube
@@ -29,7 +29,7 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 ## Full Transcript
 
 [00:00] Introduction to today's important topic
-[02:30] Dr. K shares insights and personal experiences  
+[02:30] Dr. K shares insights and personal experiences
 [05:15] Key concepts and principles discussed
 [08:40] Practical advice for viewers
 [12:05] Common misconceptions addressed
@@ -47,3 +47,7 @@ The video provides actionable strategies that viewers can implement in their dai
 
 ### Community Impact
 HealthyGamerGG creates a supportive community for individuals seeking to improve their mental health and relationships.
+
+## Related Topics
+
+[[Mental Health]] | [[Relationships]] | [[Self-Improvement]] | [[Anxiety Management]] | [[Gaming Psychology]]

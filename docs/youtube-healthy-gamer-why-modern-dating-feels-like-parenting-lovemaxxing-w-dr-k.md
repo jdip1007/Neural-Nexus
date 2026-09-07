@@ -1,7 +1,7 @@
 ---
-title: Why You Should NEVER Confess Your Love
-created: 2026-09-07T23:22:02.394616
-updated: 2026-09-07T23:22:02.394624
+title: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K
+created: 2026-09-07T23:20:10.598643
+updated: 2026-09-07T23:20:10.598653
 type: reading
 tags:
   - youtube
@@ -9,10 +9,10 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://www.youtube.com/watch?v=xHkcIRZa6lo
+  - https://www.youtube.com/watch?v=ZwYrXkPJA1s
 ---
 
-# Why You Should NEVER Confess Your Love
+# Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K
 
 ## Video Summary
 

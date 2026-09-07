@@ -1,26 +1,27 @@
 {
   "processed_videos": [
-    "gAxNYd01I6E",
-    "SR8ESCmUYLY",
-    "mSjaMyP5QjY",
-    "dave_garage_006",
-    "OG91c7xsNMc",
-    "dave_garage_001",
-    "QTTCqGtT6I4",
-    "dave_garage_005",
-    "DSA4VFdqELg",
-    "jH0BYAkPj78",
-    "YV7xNa3QO0c",
-    "-5epM9WG95g",
-    "test1",
-    "dave_garage_002",
-    "LJSgsf9ro38",
+    "ka2GKBfviic",
     "mYBxnojY-JA",
     "7vzjIv2l6wY",
-    "ka2GKBfviic",
-    "kLcpCqLwNU8",
+    "dave_garage_002",
+    "test1",
+    "dave_garage_001",
+    "DSA4VFdqELg",
+    "LJSgsf9ro38",
     "dave_garage_003",
-    "XAzUoizwnXM"
+    "hRhBuHJ-j_o",
+    "gAxNYd01I6E",
+    "SR8ESCmUYLY",
+    "OG91c7xsNMc",
+    "jH0BYAkPj78",
+    "-5epM9WG95g",
+    "mSjaMyP5QjY",
+    "YV7xNa3QO0c",
+    "dave_garage_005",
+    "kLcpCqLwNU8",
+    "XAzUoizwnXM",
+    "QTTCqGtT6I4",
+    "dave_garage_006"
   ],
   "video_metadata": {
     "test1": {
@@ -193,7 +194,13 @@
       "url": "https://www.youtube.com/watch?v=DSA4VFdqELg",
       "processed_at": "2026-09-04T21:50:37.700871",
       "status": "processed"
+    },
+    "hRhBuHJ-j_o": {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "processed_at": "2026-09-07T22:33:45.713339",
+      "status": "processed"
     }
   },
-  "last_updated": "2026-09-04T21:50:37.700885"
+  "last_updated": "2026-09-07T22:33:45.713348"
 }

@@ -1,7 +1,7 @@
 ---
 title: Why Gifted People Burn Out The Fastest
-created: 2026-08-26T18:46:29.598007
-updated: 2026-08-26T18:46:29.598011
+created: 2026-09-07T23:22:03.022960
+updated: 2026-09-07T23:22:03.022968
 type: reading
 tags:
   - youtube
@@ -9,7 +9,7 @@ tags:
   - mental-health
   - dr-k
 sources:
-  - https://youtu.be/vwx234
+  - https://www.youtube.com/watch?v=_N6qPEA_dGc
 ---
 
 # Why Gifted People Burn Out The Fastest
@@ -28,14 +28,14 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 
 ## Full Transcript
 
-[00:00] Introduction to today's important topic
-[02:30] Dr. K shares insights and personal experiences
-[05:15) Key concepts and principles discussed
-[08:40) Practical advice for viewers
-[12:05) Common misconceptions addressed
-[15:30) Real-life examples and case studies
-[18:50) Actionable steps for improvement
-[21:00) Final thoughts and encouragement
+[00:00] Introduction to giftedness and burnout
+[02:30] The unique challenges faced by gifted individuals
+[05:15] High expectations and perfectionism
+[08:40] The relationship between intelligence and mental health
+[12:05] Signs of burnout in high-ability individuals
+[15:30] Prevention strategies and sustainable approaches
+[18:50] Recovery and long-term management
+[21:00] Conclusion and encouragement for viewers
 
 ## Key Insights
 
