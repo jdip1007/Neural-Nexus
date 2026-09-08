@@ -5,8 +5,8 @@ updated: 2026-09-08
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, test123]
-sources: [raw/videos/youtube-test123-transcript.md]
+tags: [youtube, video-summary, transcript, Hidden_Code_How_Slot_Machines_Actually_Work_The_Computer_Inside]
+sources: [raw/videos/youtube-Hidden_Code_How_Slot_Machines_Actually_Work_The_Computer_Inside-transcript.md]
 published: 2026-09-08
 time_sensitive: False
 confidence: high

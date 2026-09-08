@@ -1,16 +1,18 @@
 ---
-title: YouTube Tutorials
-created: 2026-09-02
-updated: 2026-09-02
-type: concept
-classification: educational-content
-domain: technology
-tags: [youtube, tutorial, educational-content, technology]
-sources: []
-confidence: medium
-status: active
-reviewed: 2026-09-02
-backlinks: []
+{
+  "title": "YouTube Tutorials",
+  "created": "2026-09-02T00:00:00",
+  "updated": "2026-09-02T00:00:00",
+  "type": "concept",
+  "tags": ["youtube", "tutorial", "educational-content", "technology"],
+  "sources": [],
+  "classification": "educational-content",
+  "domain": "technology",
+  "confidence": "medium",
+  "status": "active",
+  "reviewed": "2026-09-02",
+  "backlinks": []
+}
 ---
 
 # YouTube Tutorials

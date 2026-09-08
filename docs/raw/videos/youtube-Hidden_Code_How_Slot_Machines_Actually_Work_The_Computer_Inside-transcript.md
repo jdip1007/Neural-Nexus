@@ -1,5 +1,5 @@
 ---
-source_url: https://www.youtube.com/watch?v=test123
+source_url: https://www.youtube.com/watch?v=Hidden_Code_How_Slot_Machines_Actually_Work_The_Computer_Inside
 source_type: video
 ingested: 2026-09-08
 published: 2026-09-08
@@ -13,7 +13,7 @@ time_sensitive: False
 
 ## Video Information
 - **Title**: Unknown
-- **Video ID**: test123
+- **Video ID**: Hidden_Code_How_Slot_Machines_Actually_Work_The_Computer_Inside
 - **Published**: Unknown
 - **Views**: Unknown
 - **Language**: en

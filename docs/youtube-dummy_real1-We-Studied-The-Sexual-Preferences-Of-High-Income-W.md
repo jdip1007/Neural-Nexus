@@ -1,5 +1,5 @@
 ---
-created: '2026-08-27T11:27:56.432904'
+created: '2026-09-08T17:45:12.480515'
 duration: 9 minutes, 34 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy_real1
@@ -9,7 +9,7 @@ tags:
 - philosophy
 title: '"We Studied The Sexual Preferences Of High Income Women"'
 type: video
-updated: '2026-08-27T11:27:56.432906'
+updated: '2026-09-08T17:45:12.480517'
 video_id: dummy_real1
 views: 58K
 ---
@@ -37,7 +37,7 @@ This video explores key topics related to philosophy. The content provides insig
 
 - **Video**: ["We Studied The Sexual Preferences Of High Income Women"](https://www.youtube.com/watch?v=dummy_real1)
 - **Channel**: Chris Willx (@ChrisWillx)
-- **Published**: 2026-08-27
+- **Published**: 2026-09-08
 - **Duration**: 9 minutes, 34 seconds
 - **Views**: 58K
 

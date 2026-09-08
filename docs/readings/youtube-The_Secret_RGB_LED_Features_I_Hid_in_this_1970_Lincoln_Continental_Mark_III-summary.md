@@ -5,8 +5,8 @@ updated: 2026-09-08
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, test123]
-sources: [raw/videos/youtube-test123-transcript.md]
+tags: [youtube, video-summary, transcript, The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III]
+sources: [raw/videos/youtube-The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III-transcript.md]
 published: 2026-09-08
 time_sensitive: False
 confidence: high

@@ -5,8 +5,8 @@ updated: 2026-09-08
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, test123]
-sources: [raw/videos/youtube-test123-transcript.md]
+tags: [youtube, video-summary, transcript, Reliable_Isnt_Always_Better_TCP_vs_UDP]
+sources: [raw/videos/youtube-Reliable_Isnt_Always_Better_TCP_vs_UDP-transcript.md]
 published: 2026-09-08
 time_sensitive: False
 confidence: high
