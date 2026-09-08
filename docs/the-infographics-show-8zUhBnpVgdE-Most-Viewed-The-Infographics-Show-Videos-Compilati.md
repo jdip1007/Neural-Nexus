@@ -10,8 +10,8 @@
     "science",
     "media",
     "current-events",
-    "health",
-    "education"
+    "mental-health",
+    "educational-content"
   ],
   "sources": [
     {
@@ -34,8 +34,8 @@ This page captures the key insights and discussions from a video by The Infograp
 - science
 - media
 - current-events
-- health
-- education
+- mental-health
+- educational-content
 
 ## Transcript
 
