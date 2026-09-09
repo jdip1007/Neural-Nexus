@@ -1,7 +1,7 @@
 ---
 title: Content Creator Burnout and Mental Health
-created: 2026-08-31T20:34:45
-updated: 2026-08-31T20:34:45
+created: 2026-09-09T23:27:47
+updated: 2026-09-09T23:27:47
 type: video
 classification: hermes.internet-culture.youtube-creator
 domain: hermes
@@ -12,7 +12,7 @@ duration: 15-25 minutes
 channel: Internet Anarchist
 confidence: high
 status: active
-reviewed: 2026-08-31
+reviewed: 2026-09-09
 ---
 
 # Content Creator Burnout and Mental Health

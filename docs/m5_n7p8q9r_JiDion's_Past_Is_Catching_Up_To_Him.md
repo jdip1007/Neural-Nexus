@@ -1,13 +1,18 @@
 ---
 title: JiDion's Past Is Catching Up To Him
-created: 2026-08-28T18:55:55
-updated: 2026-08-28T18:55:55
+created: 2026-09-09T23:27:53
+updated: 2026-09-09T23:27:53
 type: video
-tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "internet-culture"]
+classification: hermes.internet-culture.youtube-creator
+domain: hermes
+tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "content-creation", "internet-culture", "marketing"]
 sources: ["https://www.youtube.com/watch?v=m5_n7p8q9r"]
 video_id: m5_n7p8q9r
 duration: 15-25 minutes
 channel: Internet Anarchist
+confidence: high
+status: active
+reviewed: 2026-09-09
 ---
 
 # JiDion's Past Is Catching Up To Him
@@ -18,21 +23,30 @@ channel: Internet Anarchist
 
 ## Overview
 
-This video explores content-creation, internet-culture through the lens of internet culture and digital media. Key themes include accountability, culture, technology.
+This video explores content-creation, internet-culture, marketing through the lens of internet culture and digital media. Key themes include accountability, culture, technology, marketing.
 
 ## Key Topics
 
 - [[Content Creation]]
 - [[Internet Culture]]
+- [[Marketing]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
 
 ## Related Concepts
 
 - [[Digital Media]]
 - [[Digital Society]]
+- [[Business]]
+
+## Key Themes
+
+- [[Accountability]]
+- [[Culture]]
+- [[Technology]]
+- [[Marketing]]
 
 ## External Links
 
@@ -44,3 +58,5 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 - [[YouTube]]
 - [[Internet Culture]]
 - [[Digital Media]]
+- [[Content Creation]]
+- [[Internet Anarchist]]
