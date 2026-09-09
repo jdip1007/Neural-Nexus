@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    {
+      "id": "daves-garage-6uTZWbGLtjw",
+      "type": "youtube",
+      "title": "daves-garage-6uTZWbGLtjw",
+      "file": "docs/daves-garage-6uTZWbGLtjw.md"
+    },
+    {
+      "id": "daves-garage-WlInICQUHeo",
+      "type": "youtube",
+      "title": "daves-garage-WlInICQUHeo",
+      "file": "docs/daves-garage-WlInICQUHeo.md"
+    },
+    {
+      "id": "daves-garage-example5",
+      "type": "youtube",
+      "title": "daves-garage-example5",
+      "file": "docs/daves-garage-example5.md"
+    },
+    {
+      "id": "daves-garage-clMl_NZp4vI",
+      "type": "youtube",
+      "title": "daves-garage-clMl_NZp4vI",
+      "file": "docs/daves-garage-clMl_NZp4vI.md"
+    },
+    {
+      "id": "daves-garage-7vzjIv2l6wY",
+      "type": "youtube",
+      "title": "daves-garage-7vzjIv2l6wY",
+      "file": "docs/daves-garage-7vzjIv2l6wY.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "daves-garage-6uTZWbGLtjw",
+      "target": "general",
+      "type": "contains"
+    },
+    {
+      "source": "daves-garage-6uTZWbGLtjw",
+      "target": "daves-garage",
+      "type": "channel"
+    },
+    {
+      "source": "daves-garage-WlInICQUHeo",
+      "target": "general",
+      "type": "contains"
+    },
+    {
+      "source": "daves-garage-WlInICQUHeo",
+      "target": "daves-garage",
+      "type": "channel"
+    },
+    {
+      "source": "daves-garage-example5",
+      "target": "general",
+      "type": "contains"
+    },
+    {
+      "source": "daves-garage-example5",
+      "target": "daves-garage",
+      "type": "channel"
+    },
+    {
+      "source": "daves-garage-clMl_NZp4vI",
+      "target": "general",
+      "type": "contains"
+    },
+    {
+      "source": "daves-garage-clMl_NZp4vI",
+      "target": "daves-garage",
+      "type": "channel"
+    },
+    {
+      "source": "daves-garage-7vzjIv2l6wY",
+      "target": "general",
+      "type": "contains"
+    },
+    {
+      "source": "daves-garage-7vzjIv2l6wY",
+      "target": "daves-garage",
+      "type": "channel"
+    }
+  ]
+}
