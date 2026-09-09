@@ -18,6 +18,7 @@ internet-anarchist
 youtube-documentary
 content-creator
 investigation
+persons
 
 ## Technology & Programming
 programming
@@ -71,6 +72,8 @@ technology-ethics
 ## Media & Entertainment
 podcast
 video-summary
+video-derived
+transcript
 discussion
 debate
 entertainment

@@ -3,14 +3,14 @@ title: Why Marines aren't just a different kind of 'soldier' || The Infographics
 created: 2026-08-19
 updated: 2026-08-19
 type: reading
-classification: psychology.military
-domain: psychology
-tags: [military, marines, soldiers, military-differences, infographics-show, youtube, education]
+tags: [military, marines, soldiers, military-differences, infographics-show, youtube, education, video-summary, video-derived]
 sources: [raw/videos/youtube-uzg-tGiK_y8-transcript.md]
 confidence: medium
 status: active
 reviewed: 2026-08-19
 backlinks: []
+classification: psychology.military
+domain: psychology
 ---
 
 # Why Marines aren't just a different kind of 'soldier' || The Infographics Show react

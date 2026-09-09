@@ -51,4 +51,4 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[Mental Health]] | [[Relationships]] | [[Self-Improvement]] | [[Anxiety Management]] | [[Gaming Psychology]]
+[[mental_health]] | [[relationships]] | [[self_improvement]] | [[anxiety]] | [[gaming]]
