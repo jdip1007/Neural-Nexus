@@ -1,25 +1,20 @@
 
 === Chris Willx YouTube Ingestion Report ===
-Generated: 2026-09-05 17:07:10
+Generated: 2026-09-10 18:26:32
 
 📊 Processing Statistics:
-• Total videos found: 10
-• Videos processed in this run: 5
-• Previously processed videos: 15
-• Unprocessed videos remaining: 5
+• Total videos found: 11
+• Videos processed in this run: 0
+• Previously processed videos: 50
+• Unprocessed videos remaining: 11
 
 🎯 Selected Videos for Processing:
-1. Q&A: Becoming A Dad, Favourite Peptides & Red Rising (8Oj3NxSLP1U)
-2. "We're At The Beginning Of A Revolution" - Jimmy Carr (gAxNYd01I6E)
-3. The Hugging Face AI Attack Should Terrify Us (4dIgq-efQpY)
-4. "Blue Zone Science" Is A Total Scam (YGAjgLtJJFI)
-5. If Your Mind Is Racing, Give It Better Problems - Jimmy Carr (XqXLijA6CcY)
 
-✅ Successfully processed: 5 videos
+✅ Successfully processed: 0 videos
 ❌ Failed to process: 0 videos (placeholder)
 
 📁 Files Created:
-• Neural Nexus pages: 5
+• Neural Nexus pages: 0
 • Video tracker updated: Yes
 
 🔗 Next Steps:
