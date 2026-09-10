@@ -1,5 +1,5 @@
 ---
-created: '2026-08-27T11:27:58.435630'
+created: '2026-09-10T18:28:32.291805'
 duration: 10 minutes, 5 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy_real8
@@ -9,7 +9,7 @@ tags:
 - philosophy
 title: '"I Have A Problem With Love On The Spectrum" - Jeff Dye'
 type: video
-updated: '2026-08-27T11:27:58.435632'
+updated: '2026-09-10T18:28:32.291810'
 video_id: dummy_real8
 views: Unknown
 ---
@@ -37,7 +37,7 @@ This video explores key topics related to philosophy. The content provides insig
 
 - **Video**: ["I Have A Problem With Love On The Spectrum" - Jeff Dye](https://www.youtube.com/watch?v=dummy_real8)
 - **Channel**: Chris Willx (@ChrisWillx)
-- **Published**: 2026-08-27
+- **Published**: 2026-09-10
 - **Duration**: 10 minutes, 5 seconds
 - **Views**: Unknown
 

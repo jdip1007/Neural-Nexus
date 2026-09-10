@@ -1,5 +1,5 @@
 ---
-created: '2026-08-27T11:27:57.434257'
+created: '2026-09-10T18:28:31.290035'
 duration: 8 minutes, 26 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy_real7
@@ -9,7 +9,7 @@ tags:
 - philosophy
 title: '"After 3 Days... I Start To Feel Amazing" - Dr David Sinclair'
 type: video
-updated: '2026-08-27T11:27:57.434259'
+updated: '2026-09-10T18:28:31.290036'
 video_id: dummy_real7
 views: 41K
 ---
@@ -37,7 +37,7 @@ This video explores key topics related to philosophy. The content provides insig
 
 - **Video**: ["After 3 Days... I Start To Feel Amazing" - Dr David Sinclair](https://www.youtube.com/watch?v=dummy_real7)
 - **Channel**: Chris Willx (@ChrisWillx)
-- **Published**: 2026-08-27
+- **Published**: 2026-09-10
 - **Duration**: 8 minutes, 26 seconds
 - **Views**: 41K
 

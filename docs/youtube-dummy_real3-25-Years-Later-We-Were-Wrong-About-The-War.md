@@ -1,5 +1,5 @@
 ---
-created: '2026-08-26T11:05:50.658234'
+created: '2026-09-10T18:28:30.288474'
 duration: 10 minutes, 29 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy_real3
@@ -9,7 +9,7 @@ tags:
 - philosophy
 title: '"25 Years Later: "We Were Wrong About The War"'
 type: video
-updated: '2026-08-26T11:05:50.658236'
+updated: '2026-09-10T18:28:30.288476'
 video_id: dummy_real3
 views: 50K
 ---
@@ -37,7 +37,7 @@ This video explores key topics related to philosophy. The content provides insig
 
 - **Video**: ["25 Years Later: "We Were Wrong About The War"](https://www.youtube.com/watch?v=dummy_real3)
 - **Channel**: Chris Willx (@ChrisWillx)
-- **Published**: 2026-08-26
+- **Published**: 2026-09-10
 - **Duration**: 10 minutes, 29 seconds
 - **Views**: 50K
 
