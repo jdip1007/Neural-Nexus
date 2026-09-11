@@ -93,7 +93,7 @@ This analysis helps categorize the content for better knowledge organization.
 - [[mechanical-engineering]]
 - [[control-systems]]
 - [[automation]]
-- [[engineering]]
+- [engineering](concepts/engineering.md)
 
 ## Sources
 

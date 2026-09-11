@@ -21,7 +21,7 @@ General Qasim is mentioned in the YouTube video "Insane Declassified CIA Secrets
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-sC1qyauA5Jk-summary|Video Summary]]
+- [Video Summary](readings/youtube-sC1qyauA5Jk-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-sC1qyauA5Jk-transcript.md] Video mention at timestamp

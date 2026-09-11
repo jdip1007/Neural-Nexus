@@ -121,6 +121,6 @@ Based on Rainford's current work, future research may focus on:
 - [reproducibility-crisis](concepts/reproducibility-crisis.md) — Reproducibility in science
 - [knowledge-preservation-big-science-ai-rainford-et-al-2026](raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md) — Source reading
 ## Related Pages
-- [[knowledge-preservation]]
-- [[reproducibility-crisis]]
-- [[neural-nexus]]
+- [knowledge-preservation](concepts/knowledge-preservation.md)
+- [reproducibility-crisis](concepts/reproducibility-crisis.md)
+- [neural-nexus](concepts/neural-nexus.md)

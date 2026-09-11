@@ -21,7 +21,7 @@ National Park is mentioned in the YouTube video "Siren Head - EXPLAINED".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-g2nXwiNl9tg-summary|Video Summary]]
+- [Video Summary](readings/youtube-g2nXwiNl9tg-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-g2nXwiNl9tg-transcript.md] Video mention at timestamp

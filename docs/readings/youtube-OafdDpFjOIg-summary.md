@@ -29,7 +29,7 @@ This video discusses Can Men & Women Be Friends?
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > important is actually emotional

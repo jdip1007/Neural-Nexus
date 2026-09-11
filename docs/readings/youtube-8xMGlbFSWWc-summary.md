@@ -44,8 +44,8 @@ long been a mainstay of conspiracy theories
 - **Persons**: Sonoma County, Bohemian Club, Central Intelligence
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > important campaign documents and attempted 

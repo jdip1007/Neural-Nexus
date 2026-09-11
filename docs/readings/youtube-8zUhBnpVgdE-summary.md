@@ -34,9 +34,9 @@ This video discusses Most Viewed The Infographics Show Videos (Compilation)
 - **Persons**: Harris Alton, Sleepy Soldier, Stir It
 
 ## Related Concepts
-- [[psychology]]
-- [[criminal-psychology]]
-- [[criminal-psychology-behavior-patterns]]
+- [psychology](concepts/psychology.md)
+- [criminal-psychology](concepts/criminal-psychology.md)
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md)
 
 ## Transcript Highlights
 > the quintessential Maniac his name is

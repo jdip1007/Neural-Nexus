@@ -47,5 +47,5 @@ Metrics used to evaluate and validate laboratory methods and diagnostic tests.
 
 ## Related Pages
 
-- [[diagnostic-accuracy]]
-- [[qpcr]]
+- [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
+- [qpcr](concepts/laboratory-methods/qpcr.md)

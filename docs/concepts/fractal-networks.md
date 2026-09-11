@@ -38,6 +38,6 @@ The fractal network model explains why metabolic rate scales as M^(3/4) rather t
 
 ## Related Pages
 
-- [[wbe-theory]]
-- [[surface-law]]
-- [[metabolic-scaling]]
+- [wbe-theory](concepts/wbe-theory.md)
+- [surface-law](concepts/surface-law.md)
+- [metabolic-scaling](concepts/metabolic-scaling.md)

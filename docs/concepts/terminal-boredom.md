@@ -193,10 +193,10 @@ The "rust" metaphor is key — just as a flabby muscle can strengthen with exerc
 
 ## Related Concepts
 
-- [[brain-rot]]: The content that creates terminal boredom
-- [[dopamine-tolerance]]: The receptor downregulation mechanism
-- [[executive-function-rust]]: How screens atrophy planning abilities
-- [[impulse-control-atrophy]]: How screens weaken restraint mechanisms
+- [brain-rot](concepts/brain-rot.md): The content that creates terminal boredom
+- [dopamine-tolerance](concepts/dopamine-tolerance.md): The receptor downregulation mechanism
+- [executive-function-rust](concepts/executive-function-rust.md): How screens atrophy planning abilities
+- [impulse-control-atrophy](concepts/impulse-control-atrophy.md): How screens weaken restraint mechanisms
 - [[inflammation-cycle]]: The physiological trap that makes recovery harder
 
 ## Sources

@@ -23,9 +23,9 @@ This video from Dave's Garage covers networking, hardware, automotive with a foc
 
 ## Key Topics
 
-- [[Networking]]
-- [[Hardware]]
-- [[Automotive]]
+- [Networking](concepts/networking.md)
+- [Hardware](concepts/hardware.md)
+- [Automotive](concepts/automotive.md)
 
 ## Technical Concepts
 
@@ -41,8 +41,8 @@ CANBUS networking protocol explained in simple terms. Learn about Controller Are
 
 - [[Dave's Garage]] - Main channel page
 - [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+- [Networking](concepts/networking.md) - Related networking content
+- [Programming](concepts/programming.md) - Related programming tutorials
 
 ## Citations
 

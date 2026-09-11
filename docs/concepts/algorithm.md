@@ -62,8 +62,8 @@ An algorithm is a finite sequence of well-defined, computer-implementable instru
 - **Network Routing**: Packet forwarding, traffic management
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
-- [[architecture]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
+- [architecture](concepts/architecture.md)
 - [[computer-science]]
 - [[data-structures]]

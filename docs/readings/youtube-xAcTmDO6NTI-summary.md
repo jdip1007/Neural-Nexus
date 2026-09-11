@@ -44,10 +44,10 @@ that the type of the object is actually really important
 - **Persons**: Python Tutor, Arithmetic Logic, Ana Bell
 
 ## Related Concepts
-- [[ai]]
-- [[cloud]]
-- [[api]]
-- [[algorithm]]
+- [ai](concepts/ai.md)
+- [cloud](concepts/cloud.md)
+- [api](concepts/api.md)
+- [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
 > to actually do some coding. And that's important-- I call them "you try it" breaks. That's important to make

@@ -14,7 +14,7 @@ reviewed: 2026-08-26
 
 # Neurodegenerative disease
 
-Neurodegenerative diseases are a heterogeneous group of disorders characterized by progressive loss of structure and function of neurons, including death of neurons. These diseases typically involve protein misfolding and aggregation, synaptic dysfunction, and ultimately neuronal loss in specific brain regions. Neurodegeneration is closely linked to [[metabolic-disorder]]s, particularly obesity, and involves dysfunction of the [[neurovascular-unit]].
+Neurodegenerative diseases are a heterogeneous group of disorders characterized by progressive loss of structure and function of neurons, including death of neurons. These diseases typically involve protein misfolding and aggregation, synaptic dysfunction, and ultimately neuronal loss in specific brain regions. Neurodegeneration is closely linked to [metabolic-disorder](concepts/metabolic-disorder.md)s, particularly obesity, and involves dysfunction of the [neurovascular-unit](concepts/neurovascular-unit.md).
 
 ## Common Features
 
@@ -201,7 +201,7 @@ Neurodegenerative diseases are a heterogeneous group of disorders characterized 
 - Disrupted ion homeostasis
 - Reduced clearance of toxic proteins
 
-**See:** [[blood-brain-barrier]]
+**See:** [blood-brain-barrier](concepts/blood-brain-barrier.md)
 
 ### Impaired Neurovascular Coupling
 
@@ -211,7 +211,7 @@ Neurodegenerative diseases are a heterogeneous group of disorders characterized 
 - Neuronal dysfunction
 - Progressive degeneration
 
-**See:** [[neurovascular-coupling]]
+**See:** [neurovascular-coupling](concepts/neurovascular-coupling.md)
 
 ### Glymphatic Dysfunction
 
@@ -220,7 +220,7 @@ Neurodegenerative diseases are a heterogeneous group of disorders characterized 
 - Reduced waste clearance
 - Impaired nutrient delivery
 
-**See:** [[glymphatic]]
+**See:** [glymphatic](concepts/glymphatic.md)
 
 ## Risk Factors
 
@@ -380,12 +380,12 @@ Neurodegenerative diseases are a heterogeneous group of disorders characterized 
 
 ## Related Concepts
 
-- [[neurovascular-unit]]: NVU dysfunction contributes to neurodegeneration
-- [[neurovascular-coupling]]: Impaired NVC causes neuronal energy deficits
-- [[blood-brain-barrier]]: BBB breakdown allows neurotoxic substances entry
-- [[glymphatic]]: Impaired waste clearance leads to protein aggregation
-- [[inflammation]]: Chronic neuroinflammation drives degeneration
-- [[metabolic-disorder]]: Obesity and diabetes increase neurodegeneration risk
+- [neurovascular-unit](concepts/neurovascular-unit.md): NVU dysfunction contributes to neurodegeneration
+- [neurovascular-coupling](concepts/neurovascular-coupling.md): Impaired NVC causes neuronal energy deficits
+- [blood-brain-barrier](concepts/blood-brain-barrier.md): BBB breakdown allows neurotoxic substances entry
+- [glymphatic](concepts/glymphatic.md): Impaired waste clearance leads to protein aggregation
+- [inflammation](concepts/inflammation.md): Chronic neuroinflammation drives degeneration
+- [metabolic-disorder](concepts/metabolic-disorder.md): Obesity and diabetes increase neurodegeneration risk
 - [[protein-aggregation]]: Misfolded proteins are hallmark of neurodegeneration
 
 ## Graph Impact

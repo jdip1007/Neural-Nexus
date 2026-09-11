@@ -21,7 +21,7 @@ Hey Dad is mentioned in the YouTube video "Stop Letting Video Game Addiction Hij
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-BT4gsZBpL0E-summary|Video Summary]]
+- [Video Summary](readings/youtube-BT4gsZBpL0E-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-BT4gsZBpL0E-transcript.md] Video mention at timestamp

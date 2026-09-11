@@ -35,8 +35,8 @@ autonomous machines
 - **Persons**: Cognitive Sciences, Khan Academy, Financial Systems
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
+- [ai](concepts/ai.md)
+- [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
 > to solve real-world

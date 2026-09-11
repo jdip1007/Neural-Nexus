@@ -41,5 +41,5 @@ Theta-band activity refers to neural oscillations in the 6–9 Hz frequency rang
 
 ## Related Pages
 
-- [[rem-sleep]]
-- [[nrem-sleep]]
+- [rem-sleep](concepts/rem-sleep.md)
+- [nrem-sleep](concepts/nrem-sleep.md)

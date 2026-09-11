@@ -45,6 +45,6 @@ Qianyue Hao is a researcher in electronic engineering at Tsinghua University's B
 
 ## Related Pages
 
-- [[yong-li]]
-- [[fengli-xu]]
-- [[james-evans]]
+- [yong-li](entities/yong-li.md)
+- [fengli-xu](entities/fengli-xu.md)
+- [james-evans](entities/james-evans.md)

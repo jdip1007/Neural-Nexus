@@ -34,10 +34,10 @@ This video discusses Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlma
 - **Persons**: Avengers Endgame, Casey Neistat, And Jimmy
 
 ## Related Concepts
-- [[cloud]]
+- [cloud](concepts/cloud.md)
 - [[llm]]
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > found methods. And the key thing to

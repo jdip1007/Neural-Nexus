@@ -21,7 +21,7 @@ Bloom Lab is mentioned in the YouTube video "New Evidence Reveals New Important 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Sdr-ZCs1yzU-summary|Video Summary]]
+- [Video Summary](readings/youtube-Sdr-ZCs1yzU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Sdr-ZCs1yzU-transcript.md] Video mention at timestamp

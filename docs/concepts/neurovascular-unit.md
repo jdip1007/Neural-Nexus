@@ -13,21 +13,21 @@ reviewed: 2026-08-25
 
 # Neurovascular unit
 
-The [[neurovascular-unit]] (NVU) is a conceptual and functional framework describing the integrated system of neurons, glial cells, and blood vessels that work together to maintain brain homeostasis. It represents a paradigm shift from neuron-centric models of brain function toward a multicellular understanding of how the brain operates as a coordinated ecosystem.
+The [neurovascular-unit](concepts/neurovascular-unit.md) (NVU) is a conceptual and functional framework describing the integrated system of neurons, glial cells, and blood vessels that work together to maintain brain homeostasis. It represents a paradigm shift from neuron-centric models of brain function toward a multicellular understanding of how the brain operates as a coordinated ecosystem.
 
 ## Components
 
 ### Neurons
 - Primary signaling units of the brain
 - Generate electrical and chemical signals
-- Communicate with vasculature to regulate blood flow via [[neurovascular-coupling]]
+- Communicate with vasculature to regulate blood flow via [neurovascular-coupling](concepts/neurovascular-coupling.md)
 
 ### Glial Cells
 
 **Astrocytes:**
-- Form endfeet around blood vessels, regulating [[blood-brain-barrier]] function
+- Form endfeet around blood vessels, regulating [blood-brain-barrier](concepts/blood-brain-barrier.md) function
 - Modulate synaptic activity and neurotransmitter clearance
-- Participate in [[glymphatic]] waste clearance
+- Participate in [glymphatic](concepts/glymphatic.md) waste clearance
 - Provide metabolic support to neurons
 
 **Microglia:**
@@ -37,7 +37,7 @@ The [[neurovascular-unit]] (NVU) is a conceptual and functional framework descri
 - Become activated in response to metabolic overload and inflammation
 
 **Oligodendrocytes:**
-- Produce [[myelin]] that insulates axons
+- Produce [myelin](concepts/myelin.md) that insulates axons
 - Support adaptive myelination based on neuronal activity
 - Provide metabolic support to axons
 
@@ -59,7 +59,7 @@ Astrocyte endfeet and pericytes regulate the selective permeability of the BBB, 
 The NVU coordinates delivery of nutrients (glucose, oxygen) and removal of waste products (CO2, metabolic byproducts) to maintain neuronal function.
 
 ### Waste Clearance
-The [[glymphatic]] system, dependent on astrocyte-mediated CSF flow, clears protein aggregates and metabolic waste from brain tissue during sleep.
+The [glymphatic](concepts/glymphatic.md) system, dependent on astrocyte-mediated CSF flow, clears protein aggregates and metabolic waste from brain tissue during sleep.
 
 ### Adaptive Myelination
 Neuronal activity patterns influence oligodendrocyte maturation and myelin formation, optimizing neural signal transmission efficiency.
@@ -111,21 +111,21 @@ Manipulating specific cell populations to understand their contributions to NVU 
 
 ## Related Concepts
 
-- [[neurovascular-coupling]]: NVC is a key function of the NVU
-- [[blood-brain-barrier]]: BBB is maintained by NVU components
-- [[glymphatic]]: Glymphatic system depends on NVU function
-- [[myelin]]: Adaptive myelination is regulated by NVU signaling
-- [[inflammation]]: NVU dysfunction drives and results from inflammation
-- [[metabolic-disorder]]: NVU is primary target of metabolic overload
+- [neurovascular-coupling](concepts/neurovascular-coupling.md): NVC is a key function of the NVU
+- [blood-brain-barrier](concepts/blood-brain-barrier.md): BBB is maintained by NVU components
+- [glymphatic](concepts/glymphatic.md): Glymphatic system depends on NVU function
+- [myelin](concepts/myelin.md): Adaptive myelination is regulated by NVU signaling
+- [inflammation](concepts/inflammation.md): NVU dysfunction drives and results from inflammation
+- [metabolic-disorder](concepts/metabolic-disorder.md): NVU is primary target of metabolic overload
 
 ## Graph Impact
 
 This concept connects:
 - [[neuron]] to [[vascular]]
-- [[astrocyte]] to [[blood-brain-barrier]]
-- [[microglia]] to [[neuroinflammation]]
-- [[oligodendrocyte]] to [[myelin]]
-- [[metabolic-disorder]] to [[neurodegenerative-disease]]
+- [[astrocyte]] to [blood-brain-barrier](concepts/blood-brain-barrier.md)
+- [[microglia]] to [neuroinflammation](concepts/neuroinflammation.md)
+- [[oligodendrocyte]] to [myelin](concepts/myelin.md)
+- [metabolic-disorder](concepts/metabolic-disorder.md) to [neurodegenerative-disease](concepts/neurodegenerative-disease.md)
 
 ## Notes
 

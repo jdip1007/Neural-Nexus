@@ -36,8 +36,8 @@ something important or make a mistake that ends up costing the firm time and mon
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
+- [ai](concepts/ai.md)
+- [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
 > more efficiently… and more importantly, cheaper.

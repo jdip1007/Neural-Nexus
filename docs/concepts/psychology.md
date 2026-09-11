@@ -50,6 +50,6 @@ backlinks: []
 
 ## Related Pages
 
-- [[relationships]]
-- [[mental-health]]
-- [[psychiatric-comorbidity]]
+- [relationships](concepts/relationships.md)
+- [mental-health](concepts/mental-health.md)
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md)

@@ -34,7 +34,7 @@ This video discusses Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr.
 - **Persons**: What What, Ivy League, So So
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > to maintain the things that you're

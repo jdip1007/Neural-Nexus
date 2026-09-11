@@ -21,7 +21,7 @@ Creative Commons is mentioned in the YouTube video "1. Introduction (CMS.611J Cr
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-pfDfriSjFbY-summary|Video Summary]]
+- [Video Summary](readings/youtube-pfDfriSjFbY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-pfDfriSjFbY-transcript.md] Video mention at timestamp

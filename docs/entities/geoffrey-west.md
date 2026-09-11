@@ -218,6 +218,6 @@ This entity page is based primarily on the Veritasium video discussing metabolic
 
 ## Related Pages
 
-- [[urban-scaling]]
-- [[lifespan]]
-- [[metabolic-scaling]]
+- [urban-scaling](concepts/urban-scaling.md)
+- [lifespan](concepts/lifespan.md)
+- [metabolic-scaling](concepts/metabolic-scaling.md)

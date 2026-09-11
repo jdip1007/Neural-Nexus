@@ -31,10 +31,10 @@ This video discusses NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano 
 - **Persons**: Edge Computing, Raspberry Pi, Pro May
 
 ## Related Concepts
-- [[cloud]]
+- [cloud](concepts/cloud.md)
 - [[large-language-model]]
 - [[neural-network]]
-- [[ai]]
+- [ai](concepts/ai.md)
 - [[machine-learning]]
 
 ## Transcript Highlights

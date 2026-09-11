@@ -29,6 +29,6 @@ Discussed in [optimisation-techniques-small-scale-simulation](concepts/optimisat
 
 ## Related Pages
 
-- [[concepts/optimisation-techniques-small-scale-simulation]]
-- [[concepts/cellular-automata]]
-- [[concepts/canvas-rendering]]
+- [concepts/optimisation-techniques-small-scale-simulation](concepts/optimisation-techniques-small-scale-simulation.md)
+- [concepts/cellular-automata](concepts/cellular-automata.md)
+- [concepts/canvas-rendering](concepts/canvas-rendering.md)

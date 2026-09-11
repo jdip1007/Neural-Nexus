@@ -557,11 +557,11 @@ Precision medicine is a medical model that:
 
 ## Related Concepts
 
-- [[polygenic-scores]] - Using genetic information for risk prediction
-- [[adhd-risk-genes-effect-sizes]] - Genetic variants associated with ADHD
-- [[statistical-genetics]] - Statistical methods in genetic research
+- [polygenic-scores](concepts/polygenic-scores.md) - Using genetic information for risk prediction
+- [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Genetic variants associated with ADHD
+- [statistical-genetics](concepts/statistical-genetics.md) - Statistical methods in genetic research
 - [[genetic-epidemiology]] - Study of genetic factors in populations
-- [[heritability]] - Quantifying genetic contribution to traits
+- [heritability](concepts/heritability.md) - Quantifying genetic contribution to traits
 
 ## References
 

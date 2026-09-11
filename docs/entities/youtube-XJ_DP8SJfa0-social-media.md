@@ -21,7 +21,7 @@ Social Media is mentioned in the YouTube video "The Dark Side of Fitness: “I S
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-XJ_DP8SJfa0-summary|Video Summary]]
+- [Video Summary](readings/youtube-XJ_DP8SJfa0-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-XJ_DP8SJfa0-transcript.md] Video mention at timestamp

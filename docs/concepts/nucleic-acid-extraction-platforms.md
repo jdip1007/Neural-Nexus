@@ -169,6 +169,6 @@ When selecting or validating a nucleic acid extraction platform:
 
 ## Related Pages
 
-- [[respiratory-virus-testing]]
-- [[qpcr]]
-- [[quality-control]]
+- [respiratory-virus-testing](concepts/clinical-testing/respiratory-virus-testing.md)
+- [qpcr](concepts/laboratory-methods/qpcr.md)
+- [quality-control](concepts/quality-control.md)

@@ -21,7 +21,7 @@ Dutchman Marinus is mentioned in the YouTube video "INSANE Conspiracy Theories T
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-gsDGDCnntEk-summary|Video Summary]]
+- [Video Summary](readings/youtube-gsDGDCnntEk-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-gsDGDCnntEk-transcript.md] Video mention at timestamp

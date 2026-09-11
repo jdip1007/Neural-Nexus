@@ -21,7 +21,7 @@ Edge Computing is mentioned in the YouTube video "NVIDIA's $249 Secret Weapon fo
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-QHBr8hekCzg-summary|Video Summary]]
+- [Video Summary](readings/youtube-QHBr8hekCzg-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-QHBr8hekCzg-transcript.md] Video mention at timestamp

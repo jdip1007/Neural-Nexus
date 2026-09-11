@@ -104,6 +104,6 @@ This method is particularly valuable for:
 
 ## Related Pages
 
-- [[sample-preparation]]
-- [[dna-extraction]]
-- [[molecular-biology]]
+- [sample-preparation](concepts/sample-preparation.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [molecular-biology](concepts/molecular-biology.md)

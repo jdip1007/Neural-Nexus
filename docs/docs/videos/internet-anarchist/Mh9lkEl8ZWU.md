@@ -21,8 +21,8 @@ views: "Unknown"
 Analysis of  - Internet Anarchist documentary style content
 
 ## Key Topics
-- [[internet-culture]]
-- [[social-media]]
+- [internet-culture](internet-culture.md)
+- [social-media](social-media.md)
 - [[content-analysis]]
 
 ## Transcript Excerpt

@@ -30,7 +30,7 @@ This video discusses Flirting Kinda Sucks, Actually.
 - **Persons**: Lady Brahman, Tik Tok, So So
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > of the key problems that betas have,

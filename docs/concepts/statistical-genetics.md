@@ -417,11 +417,11 @@ Where:
 
 ## Related Concepts
 
-- [[polygenic-scores]] - Statistical methods for genetic risk prediction
-- [[heritability]] - Quantifying genetic contribution to traits
-- [[genome-wide-association]] - GWAS methodology and applications
+- [polygenic-scores](concepts/polygenic-scores.md) - Statistical methods for genetic risk prediction
+- [heritability](concepts/heritability.md) - Quantifying genetic contribution to traits
+- [genome-wide-association](concepts/genome-wide-association.md) - GWAS methodology and applications
 - [[genetic-epidemiology]] - Study of genetic factors in populations
-- [[precision-medicine]] - Personalized approaches to healthcare
+- [precision-medicine](concepts/precision-medicine.md) - Personalized approaches to healthcare
 
 ## References
 

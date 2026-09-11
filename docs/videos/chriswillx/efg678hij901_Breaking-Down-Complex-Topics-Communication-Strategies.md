@@ -66,7 +66,7 @@ The conversation also addresses common pitfalls in technical communication and p
 
 ## Related Pages
 
-[[technology]]
+[technology](concepts/technology.md)
 [[economics]]
 [[science]]
 

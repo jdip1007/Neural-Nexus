@@ -40,7 +40,7 @@ trend
 
 ## Related Concepts
 - [[llm]]
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > concerning trend, but there are two important 

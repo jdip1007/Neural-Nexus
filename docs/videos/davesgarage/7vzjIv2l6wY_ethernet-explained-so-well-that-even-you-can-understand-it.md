@@ -37,9 +37,9 @@ This content is derived from the YouTube video "Ethernet Explained so well that 
 
 ## Related Resources
 
-- [[technology]] - General technology concepts
-- [[engineering]] - Engineering principles and practices
-- [[automotive]] - Automotive technology and projects
+- [technology](concepts/technology.md) - General technology concepts
+- [engineering](concepts/engineering.md) - Engineering principles and practices
+- [automotive](concepts/automotive.md) - Automotive technology and projects
 
 ---
 

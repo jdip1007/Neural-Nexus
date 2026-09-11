@@ -155,8 +155,8 @@ sword which you could upgrade right now to the giga ultra mega sword for just 29
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > wheels is a term typically used by casinos 

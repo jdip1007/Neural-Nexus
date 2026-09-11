@@ -24,7 +24,7 @@ This insight was discovered in the YouTube video "The Worst Red Flags I’ve See
 The finding suggests important implications for understanding the topic.
 
 ## Related Pages
-- [[youtube-KBkkN12nVqs-summary|Video Summary]]
+- [Video Summary](readings/youtube-KBkkN12nVqs-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-KBkkN12nVqs-transcript.md] Video transcript analysis

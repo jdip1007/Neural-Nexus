@@ -51,6 +51,6 @@ Diagnostic accuracy is often summarized visually and quantitatively through [roc
 
 ## Related Pages
 
-- [[concepts/roc-analysis]]
-- [[concepts/statistical-analysis]]
-- [[concepts/accreditation/method-performance]]
+- [concepts/roc-analysis](concepts/roc-analysis.md)
+- [concepts/statistical-analysis](concepts/statistical-analysis.md)
+- [concepts/accreditation/method-performance](concepts/accreditation/method-performance.md)

@@ -34,10 +34,10 @@ This video discusses The Most Brutal 6 Minutes in Prison History
 - **Persons**: North Yorkshire, Steven Michael, Natalie Holly
 
 ## Related Concepts
-- [[api]]
+- [api](concepts/api.md)
 - [[llm]]
-- [[ai]]
-- [[container]]
+- [ai](concepts/ai.md)
+- [container](concepts/container.md)
 
 ## Transcript Highlights
 > these scenarios guards must maintain a 3

@@ -281,6 +281,6 @@ Individual sections can be downloaded from: https://aphl.org/VV-Toolkit
 
 ## Related Pages
 
-- [[bridging-studies]]
-- [[laboratory-verification]]
-- [[calibration-verification]]
+- [bridging-studies](concepts/bridging-studies.md)
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md)
+- [calibration-verification](concepts/calibration-verification.md)

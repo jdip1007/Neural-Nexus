@@ -21,7 +21,7 @@ European New is mentioned in the YouTube video "It's a $12,000 EV. The American 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-7HF6UuVdihA-summary|Video Summary]]
+- [Video Summary](readings/youtube-7HF6UuVdihA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-7HF6UuVdihA-transcript.md] Video mention at timestamp

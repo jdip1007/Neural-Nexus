@@ -43,7 +43,7 @@ fly a plane or become a pilot
 - **Persons**: Aeronautical Knowledge, And Phillip, And Mark
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > It's a very critical question. I think everybody should

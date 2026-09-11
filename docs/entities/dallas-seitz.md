@@ -53,6 +53,6 @@ Dallas Seitz's research centers on:
 
 ## Related Pages
 
-- [[bpsd]]
-- [[mental-health]]
-- [[psychology]]
+- [bpsd](concepts/bpsd.md)
+- [mental-health](concepts/mental-health.md)
+- [psychology](concepts/psychology.md)

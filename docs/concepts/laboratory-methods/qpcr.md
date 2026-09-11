@@ -41,6 +41,6 @@ Quantitative real-time polymerase chain reaction (qPCR) - a molecular biology te
 
 ## Related Pages
 
-- [[concepts/clinical-testing/respiratory-virus-testing]]
-- [[readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019]]
-- [[concepts/bioinformatics-validation]]
+- [concepts/clinical-testing/respiratory-virus-testing](concepts/clinical-testing/respiratory-virus-testing.md)
+- [readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md)
+- [concepts/bioinformatics-validation](concepts/bioinformatics-validation.md)

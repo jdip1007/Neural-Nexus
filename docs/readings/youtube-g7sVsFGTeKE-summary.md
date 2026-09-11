@@ -162,7 +162,7 @@ employers give promotions without a pay raise up from 22 percent in 2011
 - **Persons**: American Market, Robert Half, White Collar
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > most importantly the union wanted a significant 

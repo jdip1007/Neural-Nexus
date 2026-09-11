@@ -23,8 +23,8 @@ This video from Dave's Garage covers networking, hardware with a focus on techni
 
 ## Key Topics
 
-- [[Networking]]
-- [[Hardware]]
+- [Networking](concepts/networking.md)
+- [Hardware](concepts/hardware.md)
 
 ## Technical Concepts
 
@@ -39,8 +39,8 @@ Ethernet technology explained from basic principles to advanced networking conce
 
 - [[Dave's Garage]] - Main channel page
 - [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+- [Networking](concepts/networking.md) - Related networking content
+- [Programming](concepts/programming.md) - Related programming tutorials
 
 ## Citations
 

@@ -21,7 +21,7 @@ The Institute is mentioned in the YouTube video "INSANE WILD ANIMAL STORIES (Com
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-n8XaPSJmJZA-summary|Video Summary]]
+- [Video Summary](readings/youtube-n8XaPSJmJZA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-n8XaPSJmJZA-transcript.md] Video mention at timestamp

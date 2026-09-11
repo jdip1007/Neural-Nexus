@@ -39,6 +39,6 @@ backlinks: []
 
 ## Related Pages
 
-- [[relationships]]
-- [[psychology]]
-- [[adhd]]
+- [relationships](concepts/relationships.md)
+- [psychology](concepts/psychology.md)
+- [adhd](concepts/adhd.md)

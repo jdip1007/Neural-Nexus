@@ -341,6 +341,6 @@ The project demonstrates how external content can be systematically processed an
 - [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
 ## Related Pages
 
-- [[dangerous-person-2-0-research-overview]]
-- [[criminal-psychology-behavior-patterns]]
-- [[celebrity-privacy-media-ethics]]
+- [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md)
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md)
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)

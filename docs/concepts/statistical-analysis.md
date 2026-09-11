@@ -53,5 +53,5 @@ Statistical analysis is the quantitative engine connecting several laboratory qu
 
 ## Related Pages
 
-- [[roc-analysis]]
-- [[method-comparison]]
+- [roc-analysis](concepts/roc-analysis.md)
+- [method-comparison](concepts/method-comparison.md)

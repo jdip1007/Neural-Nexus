@@ -21,7 +21,7 @@ Stevens Institute is mentioned in the YouTube video "Man Receives Highest Dose o
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-MTWXXupe2Ok-summary|Video Summary]]
+- [Video Summary](readings/youtube-MTWXXupe2Ok-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-MTWXXupe2Ok-transcript.md] Video mention at timestamp

@@ -21,7 +21,7 @@ Forbes Netflix is mentioned in the YouTube video "The Satisfying Downfall of Onl
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-01-QTmyvEI8-summary|Video Summary]]
+- [Video Summary](readings/youtube-01-QTmyvEI8-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-01-QTmyvEI8-transcript.md] Video mention at timestamp

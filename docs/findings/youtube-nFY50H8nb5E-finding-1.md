@@ -24,7 +24,7 @@ This insight was discovered in the YouTube video "Flirting Kinda Sucks, Actually
 The finding suggests important implications for understanding the topic.
 
 ## Related Pages
-- [[youtube-nFY50H8nb5E-summary|Video Summary]]
+- [Video Summary](readings/youtube-nFY50H8nb5E-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-nFY50H8nb5E-transcript.md] Video transcript analysis

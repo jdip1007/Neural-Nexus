@@ -43,10 +43,10 @@ little bit more light on them because they could soon be just as important
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
-- [[api]]
-- [[cloud]]
+- [ai](concepts/ai.md)
+- [algorithm](concepts/algorithm.md)
+- [api](concepts/api.md)
+- [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
 > of Tik Tok's US operations and a copy of that all 

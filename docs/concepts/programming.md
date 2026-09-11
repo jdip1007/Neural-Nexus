@@ -24,7 +24,7 @@ Programming is the process of creating a set of instructions that tell a compute
 
 ## Related Pages
 
-- [[Technology]] - Broader technology concepts
+- [Technology](concepts/technology.md) - Broader technology concepts
 - [[Algorithms]] - Algorithmic thinking and problem solving
 - [[Software Development]] - Software creation and maintenance processes
 

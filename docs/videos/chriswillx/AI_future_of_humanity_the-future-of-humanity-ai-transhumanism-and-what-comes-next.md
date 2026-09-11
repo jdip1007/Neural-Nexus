@@ -43,9 +43,9 @@ Hello everyone, and welcome to the Chris Willx podcast! Today we're diving deep 
 ## Related Resources
 
 - [[philosophy]] - Philosophical concepts and wisdom
-- [[psychology]] - Psychological insights and mental health
+- [psychology](concepts/psychology.md) - Psychological insights and mental health
 - [[self_improvement]] - Personal growth and development
-- [[relationships]] - Relationship dynamics and communication
+- [relationships](concepts/relationships.md) - Relationship dynamics and communication
 
 ---
 
@@ -54,7 +54,7 @@ Hello everyone, and welcome to the Chris Willx podcast! Today we're diving deep 
 
 ## Related Resources
 
-- [[technology]]
+- [technology](concepts/technology.md)
 
 ---
 

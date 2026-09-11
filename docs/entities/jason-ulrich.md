@@ -68,6 +68,6 @@ Contributing to understanding of:
 
 ## Related Pages
 
-- [[recent-advances-alzheimers-disease-cell-review-2026]]
-- [[neuroinflammation]]
-- [[michelle-rudman]]
+- [recent-advances-alzheimers-disease-cell-review-2026](raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md)
+- [neuroinflammation](concepts/neuroinflammation.md)
+- [michelle-rudman](entities/michelle-rudman.md)

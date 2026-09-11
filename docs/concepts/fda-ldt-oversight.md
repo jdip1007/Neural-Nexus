@@ -43,6 +43,6 @@ FDA oversight of Laboratory-Developed Tests (LDTs) refers to the regulatory fram
 
 ## Related Pages
 
-- [[concepts/accreditation/laboratory-developed-tests]]
-- [[concepts/accreditation/laboratory-validation]]
-- [[concepts/method-development]]
+- [concepts/accreditation/laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md)
+- [concepts/accreditation/laboratory-validation](concepts/accreditation/laboratory-validation.md)
+- [concepts/method-development](concepts/method-development.md)

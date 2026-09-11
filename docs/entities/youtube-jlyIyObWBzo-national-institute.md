@@ -21,7 +21,7 @@ National Institute is mentioned in the YouTube video "Modern Cyber Security Is D
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-jlyIyObWBzo-summary|Video Summary]]
+- [Video Summary](readings/youtube-jlyIyObWBzo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-jlyIyObWBzo-transcript.md] Video mention at timestamp

@@ -33,7 +33,7 @@ This video discusses Airrack Never Stopped Faking Videos
 - **Persons**: Mountain Gods, Las Vegas, Northwest Angle
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > claimed the pilot wanted to remain

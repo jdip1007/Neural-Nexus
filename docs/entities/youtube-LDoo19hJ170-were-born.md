@@ -21,7 +21,7 @@ Were Born is mentioned in the YouTube video "It's Not Feminism. The American Fam
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-LDoo19hJ170-summary|Video Summary]]
+- [Video Summary](readings/youtube-LDoo19hJ170-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-LDoo19hJ170-transcript.md] Video mention at timestamp

@@ -21,7 +21,7 @@ Marine Corp is mentioned in the YouTube video "The Pentagon Just Declassified 50
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-0UvrxfAgu48-summary|Video Summary]]
+- [Video Summary](readings/youtube-0UvrxfAgu48-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-0UvrxfAgu48-transcript.md] Video mention at timestamp

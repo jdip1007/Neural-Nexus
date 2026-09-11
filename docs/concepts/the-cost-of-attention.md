@@ -45,9 +45,9 @@ This content from HealthyGamerGG explores the cost of attention and provides ins
 
 <!-- Link to related concepts in the wiki -->
 
-- [[psychology]] - Overview of psychological concepts
-- [[relationships]] - Understanding interpersonal dynamics
-- [[mental-health]] - Broader context of psychological well-being
+- [psychology](concepts/psychology.md) - Overview of psychological concepts
+- [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
+- [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 - [[neurodiversity]] - Understanding neurological differences
 
 ## Sources

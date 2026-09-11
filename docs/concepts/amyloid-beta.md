@@ -139,6 +139,6 @@ Aβ is the earliest detectable pathology in AD and a validated therapeutic targe
 
 ## Related Pages
 
-- [[neuroinflammation]]
-- [[apoe]]
-- [[tau-pathology]]
+- [neuroinflammation](concepts/neuroinflammation.md)
+- [apoe](concepts/apoe.md)
+- [tau-pathology](concepts/tau-pathology.md)

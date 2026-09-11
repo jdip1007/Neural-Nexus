@@ -23,8 +23,8 @@ This video from Dave's Garage covers programming, technology, gaming with a focu
 
 ## Key Topics
 
-- [[Programming]]
-- [[Technology]]
+- [Programming](concepts/programming.md)
+- [Technology](concepts/technology.md)
 - [[Gaming]]
 
 ## Technical Concepts
@@ -41,8 +41,8 @@ Inside look at slot machine programming and random number generation. Technical 
 
 - [[Dave's Garage]] - Main channel page
 - [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+- [Networking](concepts/networking.md) - Related networking content
+- [Programming](concepts/programming.md) - Related programming tutorials
 
 ## Citations
 

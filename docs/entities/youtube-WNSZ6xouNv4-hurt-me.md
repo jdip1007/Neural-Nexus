@@ -21,7 +21,7 @@ Hurt Me is mentioned in the YouTube video "Get Addicted to Improving Your Life -
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-WNSZ6xouNv4-summary|Video Summary]]
+- [Video Summary](readings/youtube-WNSZ6xouNv4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-WNSZ6xouNv4-transcript.md] Video mention at timestamp

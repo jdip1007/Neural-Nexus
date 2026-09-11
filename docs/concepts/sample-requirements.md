@@ -32,5 +32,5 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[laboratory-verification]]
-- [[proficiency-testing]]
+- [laboratory-verification](concepts/accreditation/laboratory-verification.md)
+- [proficiency-testing](concepts/proficiency-testing.md)

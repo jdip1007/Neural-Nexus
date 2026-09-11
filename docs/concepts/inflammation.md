@@ -14,7 +14,7 @@ reviewed: 2026-08-26
 
 # Inflammation
 
-Inflammation is a complex biological response to harmful stimuli such as pathogens, damaged cells, or irritants. It is a protective mechanism involving the immune system, blood vessels, and molecular mediators. While acute inflammation is a normal and beneficial healing response, chronic inflammation is a pathological process that underlies many diseases including [[metabolic-disorder]]s, [[neurodegenerative-disease]]s, and autoimmune conditions.
+Inflammation is a complex biological response to harmful stimuli such as pathogens, damaged cells, or irritants. It is a protective mechanism involving the immune system, blood vessels, and molecular mediators. While acute inflammation is a normal and beneficial healing response, chronic inflammation is a pathological process that underlies many diseases including [metabolic-disorder](concepts/metabolic-disorder.md)s, [neurodegenerative-disease](concepts/neurodegenerative-disease.md)s, and autoimmune conditions.
 
 ## Types of Inflammation
 
@@ -176,11 +176,11 @@ Inflammation is a complex biological response to harmful stimuli such as pathoge
 ### Neuroinflammation
 
 **Unique aspects:**
-- [[Blood-brain-barrier]] normally limits peripheral immune cell entry
+- [Blood-brain-barrier](concepts/blood-brain-barrier.md) normally limits peripheral immune cell entry
 - Resident immune cells: microglia, astrocytes
 - Specialized immune privilege
 
-**See:** [[neuroinflammation]] for detailed discussion
+**See:** [neuroinflammation](concepts/neuroinflammation.md) for detailed discussion
 
 ### Hypothalamic Inflammation
 
@@ -210,7 +210,7 @@ Inflammation is a complex biological response to harmful stimuli such as pathoge
 **Alzheimer's disease:**
 - Microglial activation and cytokine production
 - Chronic inflammation accelerates amyloid and tau pathology
-- [[Blood-brain-barrier]] breakdown allows peripheral immune infiltration
+- [Blood-brain-barrier](concepts/blood-brain-barrier.md) breakdown allows peripheral immune infiltration
 
 **Parkinson's disease:**
 - Microglial activation in substantia nigra
@@ -344,10 +344,10 @@ Inflammation is a complex biological response to harmful stimuli such as pathoge
 
 ## Related Concepts
 
-- [[neuroinflammation]]: Inflammation in the central nervous system
-- [[blood-brain-barrier]]: BBB limits peripheral immune cell entry
-- [[metabolic-disorder]]: Chronic inflammation underlies many metabolic diseases
-- [[neurodegenerative-disease]]: Inflammation contributes to neurodegeneration
+- [neuroinflammation](concepts/neuroinflammation.md): Inflammation in the central nervous system
+- [blood-brain-barrier](concepts/blood-brain-barrier.md): BBB limits peripheral immune cell entry
+- [metabolic-disorder](concepts/metabolic-disorder.md): Chronic inflammation underlies many metabolic diseases
+- [neurodegenerative-disease](concepts/neurodegenerative-disease.md): Inflammation contributes to neurodegeneration
 - [[immune-system]]: The broader immune response system
 - [[cytokine]]: Signaling molecules of inflammation
 

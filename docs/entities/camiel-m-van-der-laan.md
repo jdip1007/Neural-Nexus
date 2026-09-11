@@ -119,9 +119,9 @@ While specific institutional affiliations are not detailed in the publication, v
 
 ## In This Wiki
 
-- [[adhd-risk-genes-effect-sizes]] - Complete list of ADHD risk genes and effect sizes
-- [[adhd-genetics-meta-analysis-nature-genetics-2025]] - Comprehensive reading of the meta-analysis
-- [[adhd-genetic-meta-analysis-findings]] - Key findings and implications
-- [[adhd]] - General ADHD concept and overview
-- [[executive-function]] - Cognitive domains affected by ADHD
-- [[heritability]] - Genetic inheritance patterns in psychiatry
+- [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Complete list of ADHD risk genes and effect sizes
+- [adhd-genetics-meta-analysis-nature-genetics-2025](readings/adhd-genetics-meta-analysis-nature-genetics-2025.md) - Comprehensive reading of the meta-analysis
+- [adhd-genetic-meta-analysis-findings](findings/adhd-genetic-meta-analysis-findings.md) - Key findings and implications
+- [adhd](concepts/adhd.md) - General ADHD concept and overview
+- [executive-function](concepts/executive-function.md) - Cognitive domains affected by ADHD
+- [heritability](concepts/heritability.md) - Genetic inheritance patterns in psychiatry

@@ -29,8 +29,8 @@ This video discusses WTF Is Happening To The Video Game Industry?
 - **Persons**: Works Media, Warner Brothers, Silicon Valley
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > wider selection of independent new releases at 

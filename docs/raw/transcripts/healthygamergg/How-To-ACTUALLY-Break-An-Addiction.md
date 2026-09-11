@@ -50,7 +50,7 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 [[gaming]]
 [[online_communities]]
 [[mental_health]]
-[[psychology]]
+[psychology](concepts/psychology.md)
 [[self_improvement]]
 [[growth]]
 [[personal_development]]

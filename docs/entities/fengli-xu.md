@@ -48,5 +48,5 @@ Fengli Xu is a researcher at Tsinghua University's BNRist. Xu is corresponding a
 
 ## Related Pages
 
-- [[yong-li]]
-- [[james-evans]]
+- [yong-li](entities/yong-li.md)
+- [james-evans](entities/james-evans.md)

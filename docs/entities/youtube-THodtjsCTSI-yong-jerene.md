@@ -21,7 +21,7 @@ Yong Jerene is mentioned in the YouTube video "Is America Chasing Away All Of It
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-THodtjsCTSI-summary|Video Summary]]
+- [Video Summary](readings/youtube-THodtjsCTSI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-THodtjsCTSI-transcript.md] Video mention at timestamp

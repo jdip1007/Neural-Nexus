@@ -38,5 +38,5 @@ Capital locked in savings insurance for decades cannot be invested elsewhere. Th
 
 ## Related Pages
 
-- [[savings-insurance]]
-- [[annuities]]
+- [savings-insurance](concepts/savings-insurance.md)
+- [annuities](concepts/annuities.md)

@@ -21,7 +21,7 @@ Death Down is mentioned in the YouTube video "Most Insane The Infographics Show 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-cemy5eP5Jjs-summary|Video Summary]]
+- [Video Summary](readings/youtube-cemy5eP5Jjs-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-cemy5eP5Jjs-transcript.md] Video mention at timestamp

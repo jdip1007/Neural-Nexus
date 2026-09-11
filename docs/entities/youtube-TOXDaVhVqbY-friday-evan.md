@@ -21,7 +21,7 @@ Friday Evan is mentioned in the YouTube video "The Rise, Fall and Return of YouT
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-TOXDaVhVqbY-summary|Video Summary]]
+- [Video Summary](readings/youtube-TOXDaVhVqbY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-TOXDaVhVqbY-transcript.md] Video mention at timestamp

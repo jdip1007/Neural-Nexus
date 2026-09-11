@@ -40,8 +40,8 @@ may well persist throughout the day
 - **Persons**: To Your, Body When, What Happens
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > The remaining alcohol continues to Sarah's 

@@ -30,8 +30,8 @@ This video discusses If You Date Someone With Borderline Personality Disorder (B
 - **Persons**: Full Speed, Eastern Concepts, Mortal Kombat
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > really important because people with BPD

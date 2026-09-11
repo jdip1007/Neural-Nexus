@@ -34,10 +34,10 @@ This video discusses 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K
 - **Persons**: Tony Robbins, Tim Tim, And Whimo
 
 ## Related Concepts
-- [[cloud]]
+- [cloud](concepts/cloud.md)
 - [[llm]]
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > minds right um but essentially look all

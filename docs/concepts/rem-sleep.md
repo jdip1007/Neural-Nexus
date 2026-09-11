@@ -42,6 +42,6 @@ Rapid eye movement (REM) sleep is a distinct sleep stage characterized by promin
 
 ## Related Pages
 
-- [[concepts/nrem-sleep]]
-- [[concepts/rem-sleep-energy-paradox]]
-- [[concepts/theta-band-activity]]
+- [concepts/nrem-sleep](concepts/nrem-sleep.md)
+- [concepts/rem-sleep-energy-paradox](concepts/rem-sleep-energy-paradox.md)
+- [concepts/theta-band-activity](concepts/theta-band-activity.md)

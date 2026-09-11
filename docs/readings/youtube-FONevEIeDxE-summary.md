@@ -33,8 +33,8 @@ This video discusses Why Kai Cenat Is Becoming So Hated
 - **Persons**: Kanye West, Clash Royale, Nicocado Avocado
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > who essentially came from nothing and

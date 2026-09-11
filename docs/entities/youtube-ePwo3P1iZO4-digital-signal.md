@@ -21,7 +21,7 @@ Digital Signal is mentioned in the YouTube video "The "Do Anything" Chip: FPGA".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-ePwo3P1iZO4-summary|Video Summary]]
+- [Video Summary](readings/youtube-ePwo3P1iZO4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-ePwo3P1iZO4-transcript.md] Video mention at timestamp

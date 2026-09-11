@@ -423,6 +423,6 @@ reviewed: 2026-08-07
 
 ## Related Pages
 
-- [[concepts/advance-medical-directives]]
-- [[concepts/hong-kong-medical-decision-framework]]
-- [[concepts/hong-kong-medical-ethics-law]]
+- [concepts/advance-medical-directives](concepts/advance-medical-directives.md)
+- [concepts/hong-kong-medical-decision-framework](concepts/hong-kong-medical-decision-framework.md)
+- [concepts/hong-kong-medical-ethics-law](concepts/hong-kong-medical-ethics-law.md)

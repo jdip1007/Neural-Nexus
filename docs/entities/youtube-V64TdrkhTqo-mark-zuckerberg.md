@@ -21,7 +21,7 @@ Mark Zuckerberg is mentioned in the YouTube video "Oracle is Genuinely Far Scari
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-V64TdrkhTqo-summary|Video Summary]]
+- [Video Summary](readings/youtube-V64TdrkhTqo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-V64TdrkhTqo-transcript.md] Video mention at timestamp

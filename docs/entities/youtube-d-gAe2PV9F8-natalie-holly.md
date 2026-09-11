@@ -21,7 +21,7 @@ Natalie Holly is mentioned in the YouTube video "The Most Brutal 6 Minutes in Pr
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-d-gAe2PV9F8-summary|Video Summary]]
+- [Video Summary](readings/youtube-d-gAe2PV9F8-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-d-gAe2PV9F8-transcript.md] Video mention at timestamp

@@ -37,7 +37,7 @@ explain the learning objectives of the class early on
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > BILLY: The most important things

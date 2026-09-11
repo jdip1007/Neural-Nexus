@@ -39,6 +39,6 @@ The **FDA approval process** for in vitro diagnostic (IVD) devices determines wh
 
 ## Related Pages
 
-- [[concepts/clia-waived-tests]]
-- [[concepts/change-control]]
-- [[concepts/cms]]
+- [concepts/clia-waived-tests](concepts/clia-waived-tests.md)
+- [concepts/change-control](concepts/change-control.md)
+- [concepts/cms](concepts/cms.md)

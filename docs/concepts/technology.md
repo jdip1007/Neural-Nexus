@@ -27,7 +27,7 @@ Technology refers to the application of scientific knowledge for practical purpo
 
 ## Related Concepts
 
-- [[engineering]] - Engineering principles and practices
+- [engineering](concepts/engineering.md) - Engineering principles and practices
 - [[automation]] - Automated systems and processes
 - [[innovation]] - New ideas and creative solutions
 

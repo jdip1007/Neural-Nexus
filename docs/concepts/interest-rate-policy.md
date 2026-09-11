@@ -209,6 +209,6 @@ Interest rate policy refers to the decisions made by central banks and monetary 
 
 ## Related Pages
 
-- [[generational-wealth-transfer]]
-- [[reverse-robin-hood-heist]]
-- [[luxury-paradox]]
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [reverse-robin-hood-heist](concepts/reverse-robin-hood-heist.md)
+- [luxury-paradox](concepts/luxury-paradox.md)

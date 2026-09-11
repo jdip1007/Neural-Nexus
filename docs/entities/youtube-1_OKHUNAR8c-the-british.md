@@ -21,7 +21,7 @@ The British is mentioned in the YouTube video "Andrew Tate's Life Is Falling Apa
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-1_OKHUNAR8c-summary|Video Summary]]
+- [Video Summary](readings/youtube-1_OKHUNAR8c-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-1_OKHUNAR8c-transcript.md] Video mention at timestamp

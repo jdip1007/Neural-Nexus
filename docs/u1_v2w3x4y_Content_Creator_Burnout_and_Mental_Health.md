@@ -43,8 +43,8 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 - [[Creativity]]
 - [[Culture]]
-- [[Technology]]
-- [[Psychology]]
+- [Technology](concepts/technology.md)
+- [Psychology](concepts/psychology.md)
 
 ## External Links
 

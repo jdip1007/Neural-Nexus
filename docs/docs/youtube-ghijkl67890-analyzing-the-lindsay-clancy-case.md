@@ -58,7 +58,7 @@ The video "Analyzing The Lindsay Clancy Case" provides a comprehensive look at v
 
 ## Related Content
 
-[[healthygamergg]] | [[mental-health]] | [[wellbeing]] | [[personal-development]]
+[[healthygamergg]] | [mental-health](concepts/mental-health.md) | [[wellbeing]] | [[personal-development]]
 
 ## Transcript
 

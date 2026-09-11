@@ -21,10 +21,10 @@ Earth You is mentioned in the YouTube video "How Your Feelings Are Disappearing 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-8pQBdZ3RdfA-summary|Video Summary]]
+- [Video Summary](readings/youtube-8pQBdZ3RdfA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-8pQBdZ3RdfA-transcript.md] Video mention at timestamp
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)

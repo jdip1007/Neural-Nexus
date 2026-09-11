@@ -31,7 +31,7 @@ This video discusses This Video Will Make You Touhou Fumo
 - **Persons**: Across America, Private Pilot, Mile Line
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Essentials for his suffering Community

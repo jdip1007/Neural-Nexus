@@ -252,6 +252,6 @@ Behaviors are not random—they reflect unmet needs, feelings, or responses to e
 
 ## Related Pages
 
-- [[bpsd]]
-- [[mental-health]]
-- [[psychology]]
+- [bpsd](concepts/bpsd.md)
+- [mental-health](concepts/mental-health.md)
+- [psychology](concepts/psychology.md)

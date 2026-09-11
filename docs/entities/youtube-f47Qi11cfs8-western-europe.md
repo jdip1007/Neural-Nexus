@@ -21,7 +21,7 @@ Western Europe is mentioned in the YouTube video "Germany has hit rock bottom...
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-f47Qi11cfs8-summary|Video Summary]]
+- [Video Summary](readings/youtube-f47Qi11cfs8-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-f47Qi11cfs8-transcript.md] Video mention at timestamp

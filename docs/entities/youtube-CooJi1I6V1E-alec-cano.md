@@ -21,7 +21,7 @@ Alec Cano is mentioned in the YouTube video "Video Game Addiction Overview | Epi
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-CooJi1I6V1E-summary|Video Summary]]
+- [Video Summary](readings/youtube-CooJi1I6V1E-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-CooJi1I6V1E-transcript.md] Video mention at timestamp

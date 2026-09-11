@@ -241,6 +241,6 @@ Verification is required when:
 
 ## Related Pages
 
-- [[laboratory-developed-tests]]
-- [[reference-interval-verification]]
-- [[sample-requirements]]
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md)
+- [reference-interval-verification](concepts/reference-interval-verification.md)
+- [sample-requirements](concepts/sample-requirements.md)

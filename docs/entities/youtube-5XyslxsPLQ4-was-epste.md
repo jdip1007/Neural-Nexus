@@ -21,7 +21,7 @@ Was Epste is mentioned in the YouTube video "We (Still) Don't Know How Epstein G
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-5XyslxsPLQ4-summary|Video Summary]]
+- [Video Summary](readings/youtube-5XyslxsPLQ4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-5XyslxsPLQ4-transcript.md] Video mention at timestamp

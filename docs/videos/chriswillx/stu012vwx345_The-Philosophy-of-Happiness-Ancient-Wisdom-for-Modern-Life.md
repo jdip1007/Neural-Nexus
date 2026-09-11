@@ -68,7 +68,7 @@ The conversation emphasizes the relevance of ancient philosophical teachings in 
 ## Related Pages
 
 [[health]]
-[[psychology]]
+[psychology](concepts/psychology.md)
 [[philosophy]]
 
 ## Citations

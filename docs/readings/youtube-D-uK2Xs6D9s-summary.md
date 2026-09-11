@@ -31,7 +31,7 @@ a proper understanding of what this data actually means, it's still really impor
 - **Persons**: The Fed, The Pentagon, Betsy Stevenson
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > means, it's still really important. Men do still 

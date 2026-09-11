@@ -30,8 +30,8 @@ This video discusses I Watch Your Videos But Never Change My Life
 
 ## Related Concepts
 - [[llm]]
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > that's essentially the process of

@@ -21,7 +21,7 @@ What Happens is mentioned in the YouTube video "What Happens To Your Body When Y
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-lisXFyNo8s4-summary|Video Summary]]
+- [Video Summary](readings/youtube-lisXFyNo8s4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-lisXFyNo8s4-transcript.md] Video mention at timestamp

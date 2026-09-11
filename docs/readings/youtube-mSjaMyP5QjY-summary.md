@@ -35,11 +35,11 @@ This video discusses AI DEBATE: “Most People Have No Idea What’s Coming”
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[api]]
+- [api](concepts/api.md)
 - [[transformer]]
-- [[cloud]]
+- [cloud](concepts/cloud.md)
 - [[llm]]
-- [[algorithm]]
+- [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
 > that the main thing deciding what's

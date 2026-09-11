@@ -21,7 +21,7 @@ South East is mentioned in the YouTube video "Real Way to ACTUALLY Increase Your
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-17rJSSzto4U-summary|Video Summary]]
+- [Video Summary](readings/youtube-17rJSSzto4U-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-17rJSSzto4U-transcript.md] Video mention at timestamp

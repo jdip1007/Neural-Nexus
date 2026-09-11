@@ -41,7 +41,7 @@ system
 - **Persons**: Mahatma Gandhi, To Your, What Does
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > it break down your food into its basic components, 

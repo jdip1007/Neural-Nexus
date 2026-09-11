@@ -70,9 +70,9 @@ The video serves as an educational resource for understanding:
 
 ## Related Topics
 
-- [[criminal-psychology]]
-- [[serial-killers]]
-- [[cold-case-investigations]]
-- [[forensic-science]]
-- [[unsolved-mysteries]]
-- [[infographics-show]]
+- [criminal-psychology](concepts/criminal-psychology.md)
+- [serial-killers](concepts/serial-killers.md)
+- [cold-case-investigations](concepts/cold-case-investigations.md)
+- [forensic-science](concepts/forensic-science.md)
+- [unsolved-mysteries](concepts/unsolved-mysteries.md)
+- [infographics-show](entities/infographics-show.md)

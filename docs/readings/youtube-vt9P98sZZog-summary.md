@@ -25,7 +25,7 @@ This video discusses Psychology behind Gamer Rage | Dr.K Explains
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > essentially one emotion we're really

@@ -21,7 +21,7 @@ Not Oil is mentioned in the YouTube video "The Oil Reserve Is DEAD. The American
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-qPujplCJnlM-summary|Video Summary]]
+- [Video Summary](readings/youtube-qPujplCJnlM-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-qPujplCJnlM-transcript.md] Video mention at timestamp

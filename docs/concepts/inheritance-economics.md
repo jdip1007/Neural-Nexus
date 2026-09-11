@@ -199,6 +199,6 @@ Inheritance economics is the study of how wealth is transferred between generati
 
 ## Related Pages
 
-- [[inheritance-trap]]
-- [[wealth-concentration]]
-- [[generational-wealth-transfer]]
+- [inheritance-trap](concepts/inheritance-trap.md)
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)

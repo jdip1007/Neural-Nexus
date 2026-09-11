@@ -221,10 +221,10 @@ The question is: Do you want convenience, or control?
 
 ## Related Concepts
 
-- [[terminal-boredom]]: Endstage where impulse control atrophy prevents breaking the addiction cycle
-- [[executive-function-rust]]: Screens also weaken planning abilities — works in tandem
-- [[brain-rot]]: Content designed to eliminate impulse restraint
-- [[dopamine-tolerance]]: Receptor downregulation makes impulses harder to resist (higher signal)
+- [terminal-boredom](concepts/terminal-boredom.md): Endstage where impulse control atrophy prevents breaking the addiction cycle
+- [executive-function-rust](concepts/executive-function-rust.md): Screens also weaken planning abilities — works in tandem
+- [brain-rot](concepts/brain-rot.md): Content designed to eliminate impulse restraint
+- [dopamine-tolerance](concepts/dopamine-tolerance.md): Receptor downregulation makes impulses harder to resist (higher signal)
 
 ## Sources
 

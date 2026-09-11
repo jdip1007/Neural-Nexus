@@ -21,7 +21,7 @@ Jason Voorhees is mentioned in the YouTube video "Dumb YouTube Videos That Got P
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-pB6nlxuytLU-summary|Video Summary]]
+- [Video Summary](readings/youtube-pB6nlxuytLU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-pB6nlxuytLU-transcript.md] Video mention at timestamp

@@ -32,10 +32,10 @@ This video discusses Desktop AI Compared - From 2GB to 1024GB, Deepseek R1, Gemm
 - **Persons**: Raspberry Pi, Tempest Arcade, Visual Studio
 
 ## Related Concepts
-- [[algorithm]]
-- [[cloud]]
-- [[ai]]
-- [[architecture]]
+- [algorithm](concepts/algorithm.md)
+- [cloud](concepts/cloud.md)
+- [ai](concepts/ai.md)
+- [architecture](concepts/architecture.md)
 - [[large-language-model]]
 
 ## Transcript Highlights

@@ -21,7 +21,7 @@ That Don is mentioned in the YouTube video "9/11 Secrets They DON'T Want You to 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-k0ksj42YJaM-summary|Video Summary]]
+- [Video Summary](readings/youtube-k0ksj42YJaM-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-k0ksj42YJaM-transcript.md] Video mention at timestamp

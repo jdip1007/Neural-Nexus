@@ -43,7 +43,7 @@ This video explores important concepts in mental health and personal development
 
 ## Related Topics
 
-[[psychology]]
+[psychology](concepts/psychology.md)
 [[habits]]
 [[personal_growth]]
 [[motivation]]

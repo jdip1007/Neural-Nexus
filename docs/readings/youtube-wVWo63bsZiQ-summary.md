@@ -39,7 +39,7 @@ mouse ears-wearing days were over
 - **Persons**: Okaloosa County, But Burger, Kids Who
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > uniforms remained on at all times and no patients 

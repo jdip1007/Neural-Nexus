@@ -22,7 +22,7 @@ The Infographics is mentioned in the YouTube video "Every Generation Explained i
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-ZWJNKWK0tbc-summary|Video Summary]]
+- [Video Summary](readings/youtube-ZWJNKWK0tbc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-ZWJNKWK0tbc-transcript.md] Video mention at timestamp

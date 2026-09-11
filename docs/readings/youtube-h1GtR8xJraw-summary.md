@@ -33,7 +33,7 @@ work, of the equipment
 - **Persons**: Per Se, Chef Jarrod, New York
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > So camera phones do

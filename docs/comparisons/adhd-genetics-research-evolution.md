@@ -240,8 +240,8 @@ The evolution of ADHD genetics research demonstrates remarkable progress from ea
 The meta-analysis era, exemplified by van der Laan et al. (2025), represents a paradigm shift in ADHD genetics, providing unprecedented insights into the disorder's biological mechanisms and paving the way for improved diagnosis, treatment, and prevention strategies.
 
 ## Related Pages
-- [[adhd-risk-genes-effect-sizes]] - Current ADHD risk gene discoveries
-- [[adhd-genetic-meta-analysis-findings]] - Latest research findings
-- [[heritability]] - Genetic inheritance patterns
-- [[psychiatric-comorbidity]] - Comorbidity patterns
+- [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Current ADHD risk gene discoveries
+- [adhd-genetic-meta-analysis-findings](findings/adhd-genetic-meta-analysis-findings.md) - Latest research findings
+- [heritability](concepts/heritability.md) - Genetic inheritance patterns
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) - Comorbidity patterns
 - [[neuropsychopathology]] - Brain basis of psychiatric disorders

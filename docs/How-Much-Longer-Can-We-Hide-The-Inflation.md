@@ -67,9 +67,9 @@
 
 ## Related Pages
 
-- [[Finance-Overview]]
-- [[Investing-Basics]]
-- [[Economic-Principles]]
+- [Finance-Overview](Finance-Overview.md)
+- [Investing-Basics](Investing-Basics.md)
+- [Economic-Principles](Economic-Principles.md)
 
 ---
 

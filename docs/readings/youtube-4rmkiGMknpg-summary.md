@@ -38,10 +38,10 @@ as likely as it might be for companies that still have some supporters
 - **Persons**: In Facebook, Pulitzer Prize, Iron Man
 
 ## Related Concepts
-- [[algorithm]]
-- [[api]]
-- [[ai]]
-- [[cloud]]
+- [algorithm](concepts/algorithm.md)
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
+- [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
 > arrival. Its remains were eventually sold off to 

@@ -69,9 +69,9 @@
 
 ## Related Pages
 
-- [[investment-returns]]
-- [[investment-risk]]
-- [[demographic-economic-impact]]
+- [investment-returns](concepts/investment-returns.md)
+- [investment-risk](concepts/investment-risk.md)
+- [demographic-economic-impact](concepts/demographic-economic-impact.md)
 
 ---
 

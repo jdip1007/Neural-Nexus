@@ -21,7 +21,7 @@ Air Force is mentioned in the YouTube video "Why Marines aren't just a different
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-uzg-tGiK_y8-summary|Video Summary]]
+- [Video Summary](readings/youtube-uzg-tGiK_y8-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-uzg-tGiK_y8-transcript.md] Video mention at timestamp

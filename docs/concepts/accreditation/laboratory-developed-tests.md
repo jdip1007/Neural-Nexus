@@ -369,6 +369,6 @@ Revalidation is required when:
 
 ## Related Pages
 
-- [[bridging-studies]]
-- [[performance-characteristics]]
-- [[change-control]]
+- [bridging-studies](concepts/bridging-studies.md)
+- [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)
+- [change-control](concepts/change-control.md)

@@ -42,8 +42,8 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore The S
 
 ## Related Resources
 
-- [[automotive]]
-- [[hardware]]
+- [automotive](concepts/automotive.md)
+- [hardware](concepts/hardware.md)
 
 ---
 
@@ -52,8 +52,8 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore The S
 
 ## Related Resources
 
-- [[automotive]]
-- [[hardware]]
+- [automotive](concepts/automotive.md)
+- [hardware](concepts/hardware.md)
 
 ---
 

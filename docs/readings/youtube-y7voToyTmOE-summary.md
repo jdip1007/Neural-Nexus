@@ -38,9 +38,9 @@ essentially becoming self-replicating
 - **Persons**: Scientists Create, The Asian, Jakob Disease
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
-- [[cloud]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
+- [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
 > they’re a case of kidnapping and enslavement. 

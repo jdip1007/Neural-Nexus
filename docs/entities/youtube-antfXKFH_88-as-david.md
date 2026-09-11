@@ -21,7 +21,7 @@ As David is mentioned in the YouTube video "D4VD Is Facing The Death Penalty..."
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-antfXKFH_88-summary|Video Summary]]
+- [Video Summary](readings/youtube-antfXKFH_88-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-antfXKFH_88-transcript.md] Video mention at timestamp

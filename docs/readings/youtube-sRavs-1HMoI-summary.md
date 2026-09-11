@@ -42,7 +42,7 @@ impersonate 3301
 - **Persons**: The Dark, Dark Web, Liber Primus
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Because we're changing the least significant bit 

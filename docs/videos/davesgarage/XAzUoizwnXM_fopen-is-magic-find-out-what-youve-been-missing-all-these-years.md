@@ -41,7 +41,7 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore fopen
 
 ## Related Resources
 
-- [[programming]]
+- [programming](concepts/programming.md)
 
 ---
 
@@ -50,7 +50,7 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore fopen
 
 ## Related Resources
 
-- [[programming]]
+- [programming](concepts/programming.md)
 
 ---
 

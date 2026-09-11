@@ -131,5 +131,5 @@ Adaptive sampling represents a paradigm shift in data collection, moving from pr
 
 ## Related Pages
 
-- [[adaptive-sampling]]
-- [[genomics]]
+- [adaptive-sampling](concepts/adaptive-sampling.md)
+- [genomics](concepts/genomics.md)

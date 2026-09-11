@@ -201,10 +201,10 @@ Genes are enriched in:
 3. **Public Health**: Informing policy and resource allocation based on genetic burden
 
 ## Related Concepts
-- [[adhd]] - General ADHD overview and clinical presentation
-- [[executive-function]] - Cognitive domains affected by ADHD
-- [[heritability]] - Genetic inheritance patterns in psychiatry
-- [[psychiatric-comorbidity]] - Comorbidity patterns with other disorders
+- [adhd](concepts/adhd.md) - General ADHD overview and clinical presentation
+- [executive-function](concepts/executive-function.md) - Cognitive domains affected by ADHD
+- [heritability](concepts/heritability.md) - Genetic inheritance patterns in psychiatry
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) - Comorbidity patterns with other disorders
 - [[neurodevelopment]] - Developmental aspects of brain function
 
 ## References

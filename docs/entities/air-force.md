@@ -115,8 +115,8 @@ The Air Force represents a distinct branch of military service focused on aerial
 
 ## Related Concepts
 
-- [[military-structure]]
-- [[marine-corps-training]]
+- [military-structure](concepts/military-structure.md)
+- [marine-corps-training](concepts/marine-corps-training.md)
 - [[aviation-technology]]
 - [[strategic-military-operations]]
-- [[infographics-show]]
+- [infographics-show](entities/infographics-show.md)

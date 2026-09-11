@@ -21,7 +21,7 @@ Big Tech is mentioned in the YouTube video "Smartphone makers are panicking...".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-BPnIYS35Fhk-summary|Video Summary]]
+- [Video Summary](readings/youtube-BPnIYS35Fhk-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-BPnIYS35Fhk-transcript.md] Video mention at timestamp

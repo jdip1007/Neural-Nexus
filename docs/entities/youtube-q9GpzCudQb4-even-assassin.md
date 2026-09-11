@@ -21,7 +21,7 @@ Even Assassin is mentioned in the YouTube video "$2.45 BILLION Debt. Ubisoft is 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-q9GpzCudQb4-summary|Video Summary]]
+- [Video Summary](readings/youtube-q9GpzCudQb4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-q9GpzCudQb4-transcript.md] Video mention at timestamp

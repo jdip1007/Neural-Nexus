@@ -21,7 +21,7 @@ Mega Peck is mentioned in the YouTube video "18 Rules for Lifting Like a Pro - D
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-dfYBMPCA5pg-summary|Video Summary]]
+- [Video Summary](readings/youtube-dfYBMPCA5pg-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-dfYBMPCA5pg-transcript.md] Video mention at timestamp

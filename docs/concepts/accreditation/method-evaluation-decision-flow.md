@@ -259,6 +259,6 @@ Is the test FDA-approved, FDA-cleared, or FDA-modified?
 
 ## Related Pages
 
-- [[laboratory-developed-tests]]
-- [[performance-characteristics]]
-- [[statistical-analysis]]
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md)
+- [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)
+- [statistical-analysis](concepts/statistical-analysis.md)

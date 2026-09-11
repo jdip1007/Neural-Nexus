@@ -26,7 +26,7 @@ This video discusses Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet P
 - **Persons**: Blue Crew
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > reasons that aren't important right now

@@ -21,7 +21,7 @@ Now Jarvis is mentioned in the YouTube video "The Challenger Space Shuttle Disas
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-kZmpYh5Wxto-summary|Video Summary]]
+- [Video Summary](readings/youtube-kZmpYh5Wxto-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-kZmpYh5Wxto-transcript.md] Video mention at timestamp

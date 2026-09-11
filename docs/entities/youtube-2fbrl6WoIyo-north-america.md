@@ -21,7 +21,7 @@ North America is mentioned in the YouTube video "Lec 1 | MIT 9.00SC Introduction
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-2fbrl6WoIyo-summary|Video Summary]]
+- [Video Summary](readings/youtube-2fbrl6WoIyo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-2fbrl6WoIyo-transcript.md] Video mention at timestamp

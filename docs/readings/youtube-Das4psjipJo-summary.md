@@ -36,10 +36,10 @@ This video discusses What if the World Wars Never Happened And Other Insane Scen
 
 ## Related Concepts
 - [[artificial-intelligence]]
-- [[container]]
-- [[architecture]]
-- [[api]]
-- [[ai]]
+- [container](concepts/container.md)
+- [architecture](concepts/architecture.md)
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > their main strategy to spread communism

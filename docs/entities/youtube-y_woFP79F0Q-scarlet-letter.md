@@ -21,7 +21,7 @@ Scarlet Letter is mentioned in the YouTube video "Living with Confidence & Going
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-y_woFP79F0Q-summary|Video Summary]]
+- [Video Summary](readings/youtube-y_woFP79F0Q-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-y_woFP79F0Q-transcript.md] Video mention at timestamp

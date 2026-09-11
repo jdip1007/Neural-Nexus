@@ -21,7 +21,7 @@ Best Buy is mentioned in the YouTube video "Shark Tank is Worse Than You Thought
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-6IgDQMVZq2I-summary|Video Summary]]
+- [Video Summary](readings/youtube-6IgDQMVZq2I-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-6IgDQMVZq2I-transcript.md] Video mention at timestamp

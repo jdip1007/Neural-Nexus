@@ -21,10 +21,10 @@ Eastern Concepts is mentioned in the YouTube video "If You Date Someone With Bor
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-rT5PN7IhyPc-summary|Video Summary]]
+- [Video Summary](readings/youtube-rT5PN7IhyPc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-rT5PN7IhyPc-transcript.md] Video mention at timestamp
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)

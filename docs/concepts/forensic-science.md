@@ -223,7 +223,7 @@ Forensic science is the application of scientific principles and methods to crim
 
 ## Related Topics
 
-- [[criminal-forensic-testing]]
+- [criminal-forensic-testing](concepts/criminal-forensic-testing.md)
 - [[forensic-psychology]]
 - [[ballistics-analysis]]
 - [[dna-analysis]]

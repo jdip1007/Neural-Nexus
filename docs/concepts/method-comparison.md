@@ -44,6 +44,6 @@ Method comparison is the experimental and statistical evaluation of two analytic
 
 ## Related Pages
 
-- [[concepts/calibration-verification]]
-- [[concepts/reference-interval-verification]]
-- [[concepts/statistical-analysis]]
+- [concepts/calibration-verification](concepts/calibration-verification.md)
+- [concepts/reference-interval-verification](concepts/reference-interval-verification.md)
+- [concepts/statistical-analysis](concepts/statistical-analysis.md)

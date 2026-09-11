@@ -136,6 +136,6 @@ The "Cash Buyer Cartel" describes how wealthy individuals and families, often us
 
 ## Related Pages
 
-- [[concepts/housing-market-dynamics]]
-- [[concepts/economic-inequality]]
-- [[concepts/inheritance-trap]]
+- [concepts/housing-market-dynamics](concepts/housing-market-dynamics.md)
+- [concepts/economic-inequality](concepts/economic-inequality.md)
+- [concepts/inheritance-trap](concepts/inheritance-trap.md)

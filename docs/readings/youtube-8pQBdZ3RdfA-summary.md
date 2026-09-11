@@ -31,8 +31,8 @@ This video discusses How Your Feelings Are Disappearing (Alexithymia 101)
 - **Persons**: Early Childhood, Tick Tock, Earth You
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > are signing up for this too because they're like wow that was so awesome and so the key thing here is that I don't think that happiness necessarily makes

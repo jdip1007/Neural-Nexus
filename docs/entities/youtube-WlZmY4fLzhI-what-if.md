@@ -21,7 +21,7 @@ What If is mentioned in the YouTube video "If Economy is Failing... How Are Stoc
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-WlZmY4fLzhI-summary|Video Summary]]
+- [Video Summary](readings/youtube-WlZmY4fLzhI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-WlZmY4fLzhI-transcript.md] Video mention at timestamp

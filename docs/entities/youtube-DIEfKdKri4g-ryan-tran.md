@@ -21,7 +21,7 @@ Ryan Tran is mentioned in the YouTube video "How Airrack Has Been Faking Videos.
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-DIEfKdKri4g-summary|Video Summary]]
+- [Video Summary](readings/youtube-DIEfKdKri4g-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-DIEfKdKri4g-transcript.md] Video mention at timestamp

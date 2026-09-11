@@ -174,6 +174,6 @@ Modern eDNA analysis has evolved significantly:
 - [conservation-biology](concepts/conservation-biology.md) — Conservation biology
 ## Related Pages
 
-- [[ecology]]
-- [[conservation-biology]]
-- [[environmental-monitoring]]
+- [ecology](concepts/ecology.md)
+- [conservation-biology](concepts/conservation-biology.md)
+- [environmental-monitoring](concepts/environmental-monitoring.md)

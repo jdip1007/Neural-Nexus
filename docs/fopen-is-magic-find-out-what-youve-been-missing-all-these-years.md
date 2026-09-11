@@ -23,7 +23,7 @@ This video from Dave's Garage covers programming with a focus on technical_tutor
 
 ## Key Topics
 
-- [[Programming]]
+- [Programming](concepts/programming.md)
 
 ## Technical Concepts
 
@@ -37,8 +37,8 @@ Comprehensive tutorial on the fopen function in C programming. Advanced file han
 
 - [[Dave's Garage]] - Main channel page
 - [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+- [Networking](concepts/networking.md) - Related networking content
+- [Programming](concepts/programming.md) - Related programming tutorials
 
 ## Citations
 

@@ -21,7 +21,7 @@ Invade Japan is mentioned in the YouTube video "Why the United States DIDN'T Tar
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-ROHQecKe5aE-summary|Video Summary]]
+- [Video Summary](readings/youtube-ROHQecKe5aE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-ROHQecKe5aE-transcript.md] Video mention at timestamp

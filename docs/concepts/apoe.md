@@ -169,5 +169,5 @@ APOE is at the center of AD genetics, pathophysiology, and therapeutics. Underst
 
 ## Related Pages
 
-- [[neuroinflammation]]
-- [[tau-pathology]]
+- [neuroinflammation](concepts/neuroinflammation.md)
+- [tau-pathology](concepts/tau-pathology.md)

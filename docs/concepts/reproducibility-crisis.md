@@ -180,5 +180,5 @@ The crisis stems from fundamental inadequacies in how research outputs are docum
 - [penn-rainford](entities/penn-rainford.md) — Researcher in reproducibility
 ## Related Pages
 
-- [[knowledge-preservation]]
-- [[neural-nexus]]
+- [knowledge-preservation](concepts/knowledge-preservation.md)
+- [neural-nexus](concepts/neural-nexus.md)

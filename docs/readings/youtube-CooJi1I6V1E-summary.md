@@ -29,7 +29,7 @@ This video discusses Video Game Addiction Overview | Episode 001
 - **Persons**: New York, Alec Cano, Massachusetts General
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

@@ -190,6 +190,6 @@ Labor market changes refer to the evolving dynamics of work, employment, compens
 
 ## Related Pages
 
-- [[concepts/economic-inequality]]
-- [[concepts/inheritance-trap]]
-- [[concepts/asset-inflation]]
+- [concepts/economic-inequality](concepts/economic-inequality.md)
+- [concepts/inheritance-trap](concepts/inheritance-trap.md)
+- [concepts/asset-inflation](concepts/asset-inflation.md)

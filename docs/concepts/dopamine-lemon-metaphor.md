@@ -114,9 +114,9 @@ If you start with brain rot, you won't "feel motivated later." You'll feel deple
 
 ## Related Concepts
 
-- [[brain-rot]]: High-dopamine content that exploits this circuit
+- [brain-rot](concepts/brain-rot.md): High-dopamine content that exploits this circuit
 - [[artificial-brain-circuit-activation]]: How modern content hacks survival circuits
-- [[dopamine-tolerance]]: Long-term receptor downregulation (different from daily depletion)
+- [dopamine-tolerance](concepts/dopamine-tolerance.md): Long-term receptor downregulation (different from daily depletion)
 
 ## Sources
 

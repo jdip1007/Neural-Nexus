@@ -21,7 +21,7 @@ Upper House is mentioned in the YouTube video "The Tokyo Protocol Is Failing. Th
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-fz5l_Xq_mf4-summary|Video Summary]]
+- [Video Summary](readings/youtube-fz5l_Xq_mf4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-fz5l_Xq_mf4-transcript.md] Video mention at timestamp

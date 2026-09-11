@@ -21,7 +21,7 @@ Resources Institute is mentioned in the YouTube video "Americans Have Turned Aga
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-14Uc2WCSPiw-summary|Video Summary]]
+- [Video Summary](readings/youtube-14Uc2WCSPiw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-14Uc2WCSPiw-transcript.md] Video mention at timestamp

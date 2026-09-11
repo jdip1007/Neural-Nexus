@@ -30,11 +30,11 @@ This video discusses From Core Memory to the Internet: Amazing History of the PD
 - **Persons**: Industrial Automation, Direct Control, Dex Founders
 
 ## Related Concepts
-- [[api]]
+- [api](concepts/api.md)
 - [[llm]]
-- [[algorithm]]
-- [[ai]]
-- [[architecture]]
+- [algorithm](concepts/algorithm.md)
+- [ai](concepts/ai.md)
+- [architecture](concepts/architecture.md)
 
 ## Transcript Highlights
 > important chapter in Computing history a

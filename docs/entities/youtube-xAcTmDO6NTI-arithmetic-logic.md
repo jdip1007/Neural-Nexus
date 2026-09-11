@@ -21,7 +21,7 @@ Arithmetic Logic is mentioned in the YouTube video "Lecture 1: Introduction to C
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-xAcTmDO6NTI-summary|Video Summary]]
+- [Video Summary](readings/youtube-xAcTmDO6NTI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-xAcTmDO6NTI-transcript.md] Video mention at timestamp

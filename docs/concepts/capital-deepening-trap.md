@@ -16,7 +16,7 @@ reviewed: 2026-08-11
 
 **Capital Deepening** (資本深化) is an economic phenomenon where an economy requires ever-larger increments of capital to generate one unit of output (GDP). When the capital-output ratio rises, it signals declining productivity and capital efficiency — a warning sign of structural economic decline.
 
-The [[capital-deepening-trap]] occurs when this process becomes self-reinforcing, leading to prolonged stagnation. This pattern characterized Japan's lost decades and is now evident in China's economy.
+The [capital-deepening-trap](concepts/capital-deepening-trap.md) occurs when this process becomes self-reinforcing, leading to prolonged stagnation. This pattern characterized Japan's lost decades and is now evident in China's economy.
 
 ## Definition
 

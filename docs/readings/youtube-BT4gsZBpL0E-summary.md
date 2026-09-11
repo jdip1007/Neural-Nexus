@@ -34,8 +34,8 @@ This video discusses Stop Letting Video Game Addiction Hijack Your Life
 - **Persons**: Hey Dad, North America, Monster Hunter
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > years that I've been gaming key thing

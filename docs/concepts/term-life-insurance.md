@@ -52,6 +52,6 @@ Term life insurance is recommended as a cost-effective alternative to savings in
 
 ## Related Pages
 
-- [[financial-planning]]
-- [[insurtech]]
-- [[savings-insurance]]
+- [financial-planning](concepts/financial-planning.md)
+- [insurtech](concepts/insurtech.md)
+- [savings-insurance](concepts/savings-insurance.md)

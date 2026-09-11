@@ -158,10 +158,10 @@ Hardware forms the tangible foundation of all computing and electronic systems. 
 ## Related Pages
 
 - [[Dave's Garage]] - Hardware projects and tutorials
-- [[Technology]] - Broader technology concepts
+- [Technology](concepts/technology.md) - Broader technology concepts
 - [[Electronics]] - Electronic components and circuits
-- [[Programming]] - Software development
-- [[Networking]] - Network hardware and connectivity
+- [Programming](concepts/programming.md) - Software development
+- [Networking](concepts/networking.md) - Network hardware and connectivity
 
 ## External Resources
 

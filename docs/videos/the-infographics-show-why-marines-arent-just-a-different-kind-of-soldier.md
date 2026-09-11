@@ -53,7 +53,7 @@ The video serves as an educational resource for understanding:
 
 ## Related Topics
 
-- [[military-training]]
-- [[military-structure]]
-- [[career-military]]
-- [[infographics-show]]
+- [military-training](concepts/military-training.md)
+- [military-structure](concepts/military-structure.md)
+- [career-military](concepts/career-military.md)
+- [infographics-show](entities/infographics-show.md)

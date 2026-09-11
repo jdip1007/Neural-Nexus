@@ -48,7 +48,7 @@ but do they line up, do they not line up
 - **Persons**: North America, Arnold Schwarzenegger, Roger Shepard
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > domains of human experience,

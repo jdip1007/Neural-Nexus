@@ -21,7 +21,7 @@ Linear Algebra is mentioned in the YouTube video "1. The Geometry of Linear Equa
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-J7DzL2_Na80-summary|Video Summary]]
+- [Video Summary](readings/youtube-J7DzL2_Na80-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-J7DzL2_Na80-transcript.md] Video mention at timestamp

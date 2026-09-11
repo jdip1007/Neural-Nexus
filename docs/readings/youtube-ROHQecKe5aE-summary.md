@@ -42,9 +42,9 @@ to level a key target seemed like the next logical step
 - **Persons**: Invade Japan, On May, Thomas Ferebee
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
-- [[cloud]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
+- [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
 > Truman even voiced his concern about the invasion

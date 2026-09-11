@@ -25,7 +25,7 @@ updated: '2026-09-02'
 ## Key Topics
 
 - [[neuroscience]]
-- [[mental-health]]
+- [mental-health](concepts/mental-health.md)
 - [[brain-function]]
 - [[neuroplasticity]]
 - [[evidence-based-treatment]]
@@ -58,7 +58,7 @@ The video "Why You Can't Just "Rewire" Your Brain" provides a comprehensive look
 
 ## Related Content
 
-[[healthygamergg]] | [[mental-health]] | [[wellbeing]] | [[personal-development]]
+[[healthygamergg]] | [mental-health](concepts/mental-health.md) | [[wellbeing]] | [[personal-development]]
 
 ## Transcript
 

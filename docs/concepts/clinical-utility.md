@@ -43,6 +43,6 @@ Analytical Validity → Clinical Validity → Clinical Utility
 
 ## Related Pages
 
-- [[concepts/bioinformatics-validation]]
-- [[concepts/method-implementation]]
-- [[concepts/molecular-diagnostics]]
+- [concepts/bioinformatics-validation](concepts/bioinformatics-validation.md)
+- [concepts/method-implementation](concepts/method-implementation.md)
+- [concepts/molecular-diagnostics](concepts/molecular-diagnostics.md)

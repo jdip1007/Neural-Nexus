@@ -41,6 +41,6 @@ Bridging studies sit between no-action and full revalidation in the [method-eval
 
 ## Related Pages
 
-- [[concepts/method-development]]
-- [[concepts/accreditation/laboratory-validation]]
-- [[readings/aphl-verification-validation-toolkit]]
+- [concepts/method-development](concepts/method-development.md)
+- [concepts/accreditation/laboratory-validation](concepts/accreditation/laboratory-validation.md)
+- [readings/aphl-verification-validation-toolkit](readings/aphl-verification-validation-toolkit.md)

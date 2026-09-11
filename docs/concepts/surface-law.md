@@ -198,6 +198,6 @@ Surface law remains relevant as:
 
 ## Related Pages
 
-- [[max-kleiber]]
-- [[metabolic-scaling]]
-- [[wbe-theory]]
+- [max-kleiber](entities/max-kleiber.md)
+- [metabolic-scaling](concepts/metabolic-scaling.md)
+- [wbe-theory](concepts/wbe-theory.md)

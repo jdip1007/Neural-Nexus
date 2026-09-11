@@ -173,6 +173,6 @@ Modern tissue-specific extraction has evolved significantly:
 - [sample-preparation](concepts/sample-preparation.md) — Sample preparation methods
 ## Related Pages
 
-- [[dna-extraction]]
-- [[dna-extraction-methodologies]]
-- [[molecular-biology]]
+- [dna-extraction](concepts/dna-extraction.md)
+- [dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [molecular-biology](concepts/molecular-biology.md)

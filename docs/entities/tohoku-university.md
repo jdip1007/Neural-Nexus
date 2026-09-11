@@ -38,6 +38,6 @@ Tohoku University (東北大学) is a national university located in Sendai, Jap
 
 ## Related Pages
 
-- [[concepts/amyloid-beta]]
-- [[concepts/apoe]]
-- [[concepts/astrocyte-neuron-lactate-shuttle]]
+- [concepts/amyloid-beta](concepts/amyloid-beta.md)
+- [concepts/apoe](concepts/apoe.md)
+- [concepts/astrocyte-neuron-lactate-shuttle](concepts/astrocyte-neuron-lactate-shuttle.md)

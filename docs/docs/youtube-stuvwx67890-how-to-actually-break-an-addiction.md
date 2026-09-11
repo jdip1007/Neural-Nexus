@@ -58,7 +58,7 @@ The video "How To ACTUALLY Break An Addiction" provides a comprehensive look at 
 
 ## Related Content
 
-[[healthygamergg]] | [[mental-health]] | [[wellbeing]] | [[personal-development]]
+[[healthygamergg]] | [mental-health](concepts/mental-health.md) | [[wellbeing]] | [[personal-development]]
 
 ## Transcript
 

@@ -54,7 +54,7 @@ Based on the video title, this discussion likely covers:
 
 ## Related Pages
 
-- [[chris-williamson-podcast|Chris Williamson Podcast Overview]]
+- [Chris Williamson Podcast Overview](chris-williamson-podcast.md)
 - [[podcast-analysis|Podcast Content Analysis]]
 - [[media-ethics|Media Ethics]]
 [[public-figures|Public Figures]]

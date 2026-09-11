@@ -21,7 +21,7 @@ International Energy is mentioned in the YouTube video "How Much Longer Can We "
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Ac25_v32dNE-summary|Video Summary]]
+- [Video Summary](readings/youtube-Ac25_v32dNE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Ac25_v32dNE-transcript.md] Video mention at timestamp

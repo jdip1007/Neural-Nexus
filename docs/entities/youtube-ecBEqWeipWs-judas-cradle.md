@@ -21,7 +21,7 @@ Judas Cradle is mentioned in the YouTube video "Worst Punishments In The History
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-ecBEqWeipWs-summary|Video Summary]]
+- [Video Summary](readings/youtube-ecBEqWeipWs-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-ecBEqWeipWs-transcript.md] Video mention at timestamp

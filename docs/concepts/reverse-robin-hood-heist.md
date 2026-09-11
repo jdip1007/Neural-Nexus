@@ -146,6 +146,6 @@ The "Reverse Robin Hood Heist" describes how economic policies intended to help 
 
 ## Related Pages
 
-- [[inheritance-trap]]
-- [[wealth-concentration]]
-- [[interest-rate-policy]]
+- [inheritance-trap](concepts/inheritance-trap.md)
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [interest-rate-policy](concepts/interest-rate-policy.md)

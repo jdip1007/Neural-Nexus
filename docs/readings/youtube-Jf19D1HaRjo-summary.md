@@ -30,7 +30,7 @@ This video discusses Full-Time Work Is DEAD. The $20 BILLION Job Crisis Crushing
 - **Persons**: Gen Xers, For Wall, Is Right
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > is a key part of the new economy. People don’t 

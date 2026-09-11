@@ -157,6 +157,6 @@ Molecular biology is fundamental to understanding life and solving real-world pr
 
 ## Related Pages
 
-- [[concepts/genomics]]
-- [[concepts/apoe]]
-- [[concepts/cell-line-culture]]
+- [concepts/genomics](concepts/genomics.md)
+- [concepts/apoe](concepts/apoe.md)
+- [concepts/cell-line-culture](concepts/cell-line-culture.md)

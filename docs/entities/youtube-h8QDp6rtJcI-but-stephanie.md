@@ -21,7 +21,7 @@ But Stephanie is mentioned in the YouTube video "What Happened To Nikocado Avoca
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-h8QDp6rtJcI-summary|Video Summary]]
+- [Video Summary](readings/youtube-h8QDp6rtJcI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-h8QDp6rtJcI-transcript.md] Video mention at timestamp

@@ -70,13 +70,6 @@
       "type": "page"
     },
     {
-      "id": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
-      "title": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-why-havent-we-had-that-oil-crisis-yet.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
       "id": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
       "title": "Why You Should NEVER Confess Your Love - HealthyGamerGG",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love.md",
@@ -273,6 +266,18 @@
       "type": "page"
     },
     {
+      "id": "youtube-l7BaFufR23E-the-lie-of-positive-thinking",
+      "title": "\"The Lie of \"Positive Thinking\"\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-l7BaFufR23E-the-lie-of-positive-thinking.md",
+      "tags": [
+        "psychology",
+        "daves-garage",
+        "youtube",
+        "analysis"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
       "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it.md",
@@ -353,6 +358,19 @@
       "type": "page"
     },
     {
+      "id": "daves-garage-6uTZWbGLtjw",
+      "title": "\"Reliable Isn't Always Better: TCP vs UDP\"",
+      "file": "/home/hermes/Neural-Nexus/docs/daves-garage-6uTZWbGLtjw.md",
+      "tags": [
+        "youtube",
+        "daves-garage",
+        "technology",
+        "engineering",
+        "diy"
+      ],
+      "type": "page"
+    },
+    {
       "id": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "title": "The Psychology of Gaming: Why We Play and What It Does to Our Brains",
       "file": "/home/hermes/Neural-Nexus/docs/aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains.md",
@@ -406,13 +424,6 @@
       "id": "youtube-dummy_real4-Why-Violence-Is-Safer-Than-Vulnerability-Johnny-Ch",
       "title": "'\"Why Violence Is Safer Than Vulnerability - Johnny Chang\"'",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real4-Why-Violence-Is-Safer-Than-Vulnerability-Johnny-Ch.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how-money-works-dude-im-broke-why-is-my-data-worth-harvesting",
-      "title": "how-money-works-dude-im-broke-why-is-my-data-worth-harvesting",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-dude-im-broke-why-is-my-data-worth-harvesting.md",
       "tags": [],
       "type": "page"
     },
@@ -524,8 +535,10 @@
         "youtube",
         "youtube-creator",
         "educational-content",
+        "internet-anarchist",
         "content-creation",
-        "internet-culture"
+        "internet-culture",
+        "marketing"
       ],
       "type": "page"
     },
@@ -565,8 +578,23 @@
         "youtube",
         "youtube-creator",
         "educational-content",
+        "internet-anarchist",
         "content-creation",
-        "internet-culture"
+        "internet-culture",
+        "gaming"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "daves-garage-WlInICQUHeo",
+      "title": "\"The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown\"",
+      "file": "/home/hermes/Neural-Nexus/docs/daves-garage-WlInICQUHeo.md",
+      "tags": [
+        "youtube",
+        "daves-garage",
+        "technology",
+        "engineering",
+        "diy"
       ],
       "type": "page"
     },
@@ -581,13 +609,6 @@
         "youtube",
         "tutorial"
       ],
-      "type": "page"
-    },
-    {
-      "id": "how-money-works-is-america-chasing-away-all-of-its-smart-people",
-      "title": "how-money-works-is-america-chasing-away-all-of-its-smart-people",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-is-america-chasing-away-all-of-its-smart-people.md",
-      "tags": [],
       "type": "page"
     },
     {
@@ -653,13 +674,6 @@
       "type": "page"
     },
     {
-      "id": "how-money-works-how-long-can-the-stock-market-ignore-reality",
-      "title": "how-money-works-how-long-can-the-stock-market-ignore-reality",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-how-long-can-the-stock-market-ignore-reality.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
       "id": "P-debBoN21E_The_Deserved_Downfall_of_Yo_Mama",
       "title": "The Deserved Downfall of Yo Mama",
       "file": "/home/hermes/Neural-Nexus/docs/P-debBoN21E_The_Deserved_Downfall_of_Yo_Mama.md",
@@ -697,6 +711,20 @@
       "file": "/home/hermes/Neural-Nexus/docs/I14yjt00Fl8.md",
       "tags": [
         "youtube"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
+      "title": "\"Your Job Achieves Nothing... (probably)\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably.md",
+      "tags": [
+        "psychology",
+        "sociology",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "analysis"
       ],
       "type": "page"
     },
@@ -835,6 +863,20 @@
       "title": "'Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy9-Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
+      "title": "\"Why You Should NEVER Confess Your Love\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love.md",
+      "tags": [
+        "psychology",
+        "sociology",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "analysis"
+      ],
       "type": "page"
     },
     {
@@ -977,6 +1019,13 @@
         "youtube",
         "tutorial"
       ],
+      "type": "page"
+    },
+    {
+      "id": "how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars",
+      "title": "how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -1259,10 +1308,37 @@
       "type": "page"
     },
     {
+      "id": "youtube-50FtUPGLyyo-the-cost-of-attention",
+      "title": "\"The Cost Of Attention\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-50FtUPGLyyo-the-cost-of-attention.md",
+      "tags": [
+        "economics",
+        "psychology",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "analysis"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-airrack-never-stopped-faking-videos-example7",
       "title": "youtube-airrack-never-stopped-faking-videos-example7",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-airrack-never-stopped-faking-videos-example7.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "daves-garage-example5",
+      "title": "\"The Challenge: Can we build Notepad in 3K in assembly language?\"",
+      "file": "/home/hermes/Neural-Nexus/docs/daves-garage-example5.md",
+      "tags": [
+        "youtube",
+        "daves-garage",
+        "technology",
+        "engineering",
+        "diy"
+      ],
       "type": "page"
     },
     {
@@ -1287,6 +1363,13 @@
       "type": "page"
     },
     {
+      "id": "the_secret_to_fixing_your_adulthood",
+      "title": "the_secret_to_fixing_your_adulthood",
+      "file": "/home/hermes/Neural-Nexus/docs/the_secret_to_fixing_your_adulthood.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-the-never-ending-downfall-of-ksi-dQw4w9Wg",
       "title": "youtube-the-never-ending-downfall-of-ksi-dQw4w9Wg",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-the-never-ending-downfall-of-ksi-dQw4w9Wg.md",
@@ -1303,6 +1386,13 @@
         "youtube",
         "tutorial"
       ],
+      "type": "page"
+    },
+    {
+      "id": "why_you_can't_just_\"rewire\"_your_brain",
+      "title": "why_you_can't_just_\"rewire\"_your_brain",
+      "file": "/home/hermes/Neural-Nexus/docs/why_you_can't_just_\"rewire\"_your_brain.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -1586,6 +1676,13 @@
       "type": "page"
     },
     {
+      "id": "how-money-works-wtf-is-happening-to-the-car-market",
+      "title": "how-money-works-wtf-is-happening-to-the-car-market",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-is-happening-to-the-car-market.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "2bY9rC8V7M3",
       "title": "\"Building a Smart Home: IoT Devices and Security Considerations\"",
       "file": "/home/hermes/Neural-Nexus/docs/2bY9rC8V7M3.md",
@@ -1611,6 +1708,13 @@
       "id": "youtube-dummy5-After-3-Days-I-Start-To-Feel-Amazing-Dr-David-Sinc",
       "title": "\"\\\"After 3 Days\\u2026 I Start To Feel Amazing\\\" - Dr David Sinclair\"",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy5-After-3-Days-I-Start-To-Feel-Amazing-Dr-David-Sinc.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "why_your_new_hobbies_only_last_two_weeks",
+      "title": "why_your_new_hobbies_only_last_two_weeks",
+      "file": "/home/hermes/Neural-Nexus/docs/why_your_new_hobbies_only_last_two_weeks.md",
       "tags": [],
       "type": "page"
     },
@@ -1907,13 +2011,6 @@
       "type": "page"
     },
     {
-      "id": "how-money-works-so-is-private-equity-collapsing-yet",
-      "title": "how-money-works-so-is-private-equity-collapsing-yet",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-so-is-private-equity-collapsing-yet.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
       "id": "youtube-dummy1-25-Years-Later-We-Were-Wrong-About-The-War",
       "title": "'25 Years Later: \"We Were Wrong About The War\"'",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy1-25-Years-Later-We-Were-Wrong-About-The-War.md",
@@ -1930,10 +2027,35 @@
       "type": "page"
     },
     {
+      "id": "youtube-_N6qPEA_dGc-why-gifted-people-burn-out-the-fastest",
+      "title": "\"Why Gifted People Burn Out The Fastest\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-_N6qPEA_dGc-why-gifted-people-burn-out-the-fastest.md",
+      "tags": [
+        "psychology",
+        "daves-garage",
+        "youtube",
+        "analysis"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube--5epM9WG95g-why-do-female-teachers-sleep-with-students?",
       "title": "youtube--5epM9WG95g-why-do-female-teachers-sleep-with-students?",
       "file": "/home/hermes/Neural-Nexus/docs/youtube--5epM9WG95g-why-do-female-teachers-sleep-with-students?.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "daves-garage-clMl_NZp4vI",
+      "title": "\"CANBUS \u2013 Networking so simple, even YOU can understand it!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/daves-garage-clMl_NZp4vI.md",
+      "tags": [
+        "youtube",
+        "daves-garage",
+        "technology",
+        "engineering",
+        "diy"
+      ],
       "type": "page"
     },
     {
@@ -1980,6 +2102,19 @@
       "title": "youtube-why-you-cant-just-rewire-your-brain-OfPOtN51",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-why-you-cant-just-rewire-your-brain-OfPOtN51.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "daves-garage-7vzjIv2l6wY",
+      "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/daves-garage-7vzjIv2l6wY.md",
+      "tags": [
+        "youtube",
+        "daves-garage",
+        "technology",
+        "engineering",
+        "diy"
+      ],
       "type": "page"
     },
     {
@@ -2269,7 +2404,7 @@
     },
     {
       "source": "how_money_works_vT6qh72wCZk",
-      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
     },
     {
@@ -2408,6 +2543,16 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-l7BaFufR23E-the-lie-of-positive-thinking",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-l7BaFufR23E-the-lie-of-positive-thinking",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
       "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
@@ -2529,7 +2674,7 @@
     },
     {
       "source": "how_money_works_uK3OBAxCi6k",
-      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
     },
     {
@@ -2564,12 +2709,32 @@
     },
     {
       "source": "m5_n7p8q9r_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "m5_n7p8q9r_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "internet-culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "m5_n7p8q9r_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "m5_n7p8q9r_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "m5_n7p8q9r_JiDion's_Past_Is_Catching_Up_To_Him",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
       "type": "wikilink"
     },
     {
       "source": "how_money_works_sZQAUCfU4Z4",
-      "target": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
+      "target": "how_money_works_vT6qh72wCZk",
       "type": "wikilink"
     },
     {
@@ -2594,7 +2759,7 @@
     },
     {
       "source": "how_money_works_2LiOOzEOrx8",
-      "target": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
+      "target": "how_money_works_vT6qh72wCZk",
       "type": "wikilink"
     },
     {
@@ -2615,6 +2780,21 @@
     {
       "source": "how_money_works_2LiOOzEOrx8",
       "target": "Investing-Basics",
+      "type": "wikilink"
+    },
+    {
+      "source": "s9_t0u1v2w_PewDiePie's_Journey",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "s9_t0u1v2w_PewDiePie's_Journey",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "s9_t0u1v2w_PewDiePie's_Journey",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -2743,6 +2923,26 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-50FtUPGLyyo-HealthyGamerGG_Video_3__Understanding_Mental_Healt",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -2834,7 +3034,7 @@
     },
     {
       "source": "how_money_works__W3qPymBEBA",
-      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
     },
     {
@@ -2850,6 +3050,26 @@
     {
       "source": "youtube-dummy9-Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
+      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -3034,7 +3254,7 @@
     },
     {
       "source": "how_money_works_xEL3hn55gh8",
-      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
     },
     {
@@ -3089,7 +3309,7 @@
     },
     {
       "source": "how_money_works_ShGT-fY7S98",
-      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
     },
     {
@@ -3104,7 +3324,7 @@
     },
     {
       "source": "how_money_works_QGjXQwUmGTI",
-      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
     },
     {
@@ -3279,7 +3499,7 @@
     },
     {
       "source": "how_money_works_bVM76YxNPjQ",
-      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
     },
     {
@@ -3298,6 +3518,26 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-50FtUPGLyyo-the-cost-of-attention",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-50FtUPGLyyo-the-cost-of-attention",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-50FtUPGLyyo-the-cost-of-attention",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-50FtUPGLyyo-the-cost-of-attention",
+      "target": "technology",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-airrack-never-stopped-faking-videos-example7",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -3309,6 +3549,11 @@
     },
     {
       "source": "youtube-6kD5RbQCjFg-HealthyGamerGG_Video_6kD5RbQCjFg__Understanding_Me",
+      "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
+      "type": "wikilink"
+    },
+    {
+      "source": "the_secret_to_fixing_your_adulthood",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
@@ -3335,6 +3580,11 @@
     {
       "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "target": "programming",
+      "type": "wikilink"
+    },
+    {
+      "source": "why_you_can't_just_\"rewire\"_your_brain",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -3389,7 +3639,7 @@
     },
     {
       "source": "how_money_works_THodtjsCTSI",
-      "target": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
+      "target": "how_money_works_vT6qh72wCZk",
       "type": "wikilink"
     },
     {
@@ -3628,6 +3878,11 @@
       "type": "wikilink"
     },
     {
+      "source": "why_your_new_hobbies_only_last_two_weeks",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-50FtUPGLyyo-HealthyGamerGG_Video_50FtUPGLyyo__Understanding_Me",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -3764,7 +4019,7 @@
     },
     {
       "source": "how_money_works_D-uK2Xs6D9s",
-      "target": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
     },
     {
@@ -3850,6 +4105,16 @@
     {
       "source": "hRhBuHJ-j_o",
       "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-_N6qPEA_dGc-why-gifted-people-burn-out-the-fastest",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-_N6qPEA_dGc-why-gifted-people-burn-out-the-fastest",
+      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -4144,8 +4409,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-09T22:24:10.543310",
-    "total_nodes": 212,
-    "total_edges": 391
+    "generated": "2026-09-11T23:52:35.629717",
+    "total_nodes": 222,
+    "total_edges": 417
   }
 }

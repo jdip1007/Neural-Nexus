@@ -31,8 +31,8 @@ This video discusses Online Piracy's Great Comeback
 - **Persons**: Economic Behavior, Spotify Netflix, Mission Impossible
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > was just really important that they

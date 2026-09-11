@@ -32,7 +32,7 @@ This video discusses Why Jack Doherty Is The Worst YouTuber…
 - **Persons**: The Following, Dr Phil, Mr Beast
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > of July 2016 Jack focused mainly on

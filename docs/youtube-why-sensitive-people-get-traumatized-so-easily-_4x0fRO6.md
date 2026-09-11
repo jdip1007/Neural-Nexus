@@ -56,9 +56,9 @@ Dr. K provides insights based on his therapeutic experience and research in psyc
 
 ## Key Topics
 
-- [[mental-health]]
-- [[psychology]]
-- [[relationships]]
+- [mental-health](concepts/mental-health.md)
+- [psychology](concepts/psychology.md)
+- [relationships](concepts/relationships.md)
 - [[addiction]]
 - [[trauma]]
 - [[self-improvement]]
@@ -90,8 +90,8 @@ This video provides valuable insights into mental health and psychological well-
 
 ## Related Pages
 
-- [[mental-health]]
-- [[psychology]]
+- [mental-health](concepts/mental-health.md)
+- [psychology](concepts/psychology.md)
 - [[healthygamer]]
 - [[therapy]]
 - [[self-improvement]]

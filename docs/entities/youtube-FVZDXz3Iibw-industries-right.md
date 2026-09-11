@@ -21,7 +21,7 @@ Industries Right is mentioned in the YouTube video "How Much Of Our Economy Is J
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-FVZDXz3Iibw-summary|Video Summary]]
+- [Video Summary](readings/youtube-FVZDXz3Iibw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-FVZDXz3Iibw-transcript.md] Video mention at timestamp

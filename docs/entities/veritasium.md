@@ -142,6 +142,6 @@ This entity page represents the Veritasium channel as an organization. The host 
 
 ## Related Pages
 
-- [[entities/the-infographics-show]]
-- [[entities/biomerieux]]
-- [[entities/bowtie-insurance]]
+- [entities/the-infographics-show](entities/the-infographics-show.md)
+- [entities/biomerieux](entities/biomerieux.md)
+- [entities/bowtie-insurance](entities/bowtie-insurance.md)

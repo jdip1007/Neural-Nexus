@@ -21,7 +21,7 @@ Brian Blake is mentioned in the YouTube video "How The Wolf of Wall Street Scam 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-bVM76YxNPjQ-summary|Video Summary]]
+- [Video Summary](readings/youtube-bVM76YxNPjQ-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-bVM76YxNPjQ-transcript.md] Video mention at timestamp

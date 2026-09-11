@@ -29,8 +29,8 @@ This video discusses Why You Should Stop Watching YouTube (Yes, Even This Video)
 - **Persons**: American Psychiatric, Tik Tok
 
 ## Related Concepts
-- [[architecture]]
-- [[ai]]
+- [architecture](concepts/architecture.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

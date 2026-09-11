@@ -30,8 +30,8 @@ This video discusses How Years of Gaming Weakens Brain's Ability to Problem Solv
 ## Entities Mentioned
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > what video games essentially do is like

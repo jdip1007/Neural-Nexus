@@ -13,7 +13,7 @@ reviewed: 2026-08-25
 
 # Glymphatic system
 
-The [[glymphatic]] system is a recently discovered waste clearance system in the brain that functions like a lymphatic system. It facilitates the removal of soluble proteins and metabolites from the central nervous system through perivascular pathways, primarily during sleep. This system is a critical component of the [[neurovascular-unit]], working in concert with the [[blood-brain-barrier]] to maintain brain homeostasis.
+The [glymphatic](concepts/glymphatic.md) system is a recently discovered waste clearance system in the brain that functions like a lymphatic system. It facilitates the removal of soluble proteins and metabolites from the central nervous system through perivascular pathways, primarily during sleep. This system is a critical component of the [neurovascular-unit](concepts/neurovascular-unit.md), working in concert with the [blood-brain-barrier](concepts/blood-brain-barrier.md) to maintain brain homeostasis.
 
 ## Discovery and Naming
 
@@ -251,14 +251,14 @@ Glymphatic impairment contributes to:
 
 ## Related Concepts
 
-- [[neurovascular-unit]]: Glymphatic system is a component of the NVU
-- [[blood-brain-barrier]]: BBB interacts with glymphatic clearance
+- [neurovascular-unit](concepts/neurovascular-unit.md): Glymphatic system is a component of the NVU
+- [blood-brain-barrier](concepts/blood-brain-barrier.md): BBB interacts with glymphatic clearance
 - [[astrocyte]]: Astrocyte endfeet with AQP4 are critical for glymphatic function
 - [[sleep]]: Glymphatic clearance is sleep-dependent
-- [[myelin]]: Glymphatic system may support myelin maintenance
-- [[inflammation]]: Inflammation impairs glymphatic function
-- [[metabolic-disorder]]: Metabolic overload disrupts glymphatic clearance
-- [[neurodegenerative-disease]]: Impaired glymphatic clearance contributes to neurodegeneration
+- [myelin](concepts/myelin.md): Glymphatic system may support myelin maintenance
+- [inflammation](concepts/inflammation.md): Inflammation impairs glymphatic function
+- [metabolic-disorder](concepts/metabolic-disorder.md): Metabolic overload disrupts glymphatic clearance
+- [neurodegenerative-disease](concepts/neurodegenerative-disease.md): Impaired glymphatic clearance contributes to neurodegeneration
 
 ## Graph Impact
 

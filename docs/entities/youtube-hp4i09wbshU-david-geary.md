@@ -21,7 +21,7 @@ David Geary is mentioned in the YouTube video "The Truth Behind Video Games & Th
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-hp4i09wbshU-summary|Video Summary]]
+- [Video Summary](readings/youtube-hp4i09wbshU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-hp4i09wbshU-transcript.md] Video mention at timestamp

@@ -126,6 +126,6 @@ This reading page is based on limited video content (title, description, referen
 
 ## Related Pages
 
-- [[prion-disease]]
-- [[katherine-johns]]
-- [[neuroinflammation]]
+- [prion-disease](concepts/prion-disease.md)
+- [katherine-johns](entities/katherine-johns.md)
+- [neuroinflammation](concepts/neuroinflammation.md)

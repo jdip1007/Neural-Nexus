@@ -103,6 +103,6 @@ PFC development is genetically guided:
 
 ## Related Pages
 
-- [[executive-function]]
-- [[psychology]]
-- [[adhd]]
+- [executive-function](concepts/executive-function.md)
+- [psychology](concepts/psychology.md)
+- [adhd](concepts/adhd.md)

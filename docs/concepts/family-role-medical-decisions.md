@@ -511,6 +511,6 @@ reviewed: 2026-08-07
 
 ## Related Pages
 
-- [[concepts/hong-kong-international-comparison]]
-- [[concepts/hong-kong-medical-ethics-law]]
-- [[concepts/advance-medical-directives]]
+- [concepts/hong-kong-international-comparison](concepts/hong-kong-international-comparison.md)
+- [concepts/hong-kong-medical-ethics-law](concepts/hong-kong-medical-ethics-law.md)
+- [concepts/advance-medical-directives](concepts/advance-medical-directives.md)

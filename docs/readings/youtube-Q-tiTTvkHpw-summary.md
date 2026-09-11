@@ -32,8 +32,8 @@ This video discusses Why Restricting Video Games As A Parent Is Actually Damagin
 - **Persons**: Game Boy, Fall Apart, My Philosophy
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > pandemic this is going to be important

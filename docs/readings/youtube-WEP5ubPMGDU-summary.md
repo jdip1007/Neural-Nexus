@@ -33,11 +33,11 @@ This video discusses How to Find the Meaning You’ve Been Looking For - Jordan 
 - **Persons**: Big Bang, Lead You, Invent Yourself
 
 ## Related Concepts
-- [[api]]
+- [api](concepts/api.md)
 - [[artificial-intelligence]]
 - [[llm]]
-- [[algorithm]]
-- [[ai]]
+- [algorithm](concepts/algorithm.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > domains that's different than vocabulary

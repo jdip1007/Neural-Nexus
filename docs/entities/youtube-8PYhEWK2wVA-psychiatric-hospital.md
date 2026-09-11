@@ -21,7 +21,7 @@ Psychiatric Hospital is mentioned in the YouTube video "How I Conquered My Video
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-8PYhEWK2wVA-summary|Video Summary]]
+- [Video Summary](readings/youtube-8PYhEWK2wVA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-8PYhEWK2wVA-transcript.md] Video mention at timestamp

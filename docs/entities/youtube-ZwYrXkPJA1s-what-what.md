@@ -21,7 +21,7 @@ What What is mentioned in the YouTube video "Why Modern Dating Feels Like Parent
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-ZwYrXkPJA1s-summary|Video Summary]]
+- [Video Summary](readings/youtube-ZwYrXkPJA1s-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-ZwYrXkPJA1s-transcript.md] Video mention at timestamp

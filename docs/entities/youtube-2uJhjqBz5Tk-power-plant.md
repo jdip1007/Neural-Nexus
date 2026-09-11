@@ -21,7 +21,7 @@ Power Plant is mentioned in the YouTube video "Chernobyl Nuclear Explosion Disas
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-2uJhjqBz5Tk-summary|Video Summary]]
+- [Video Summary](readings/youtube-2uJhjqBz5Tk-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-2uJhjqBz5Tk-transcript.md] Video mention at timestamp

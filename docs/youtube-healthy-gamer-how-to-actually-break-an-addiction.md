@@ -50,4 +50,4 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[mental_health]] | [[relationships]] | [[self_improvement]] | [[anxiety]] | [[gaming]]
+[[mental_health]] | [relationships](concepts/relationships.md) | [[self_improvement]] | [[anxiety]] | [[gaming]]

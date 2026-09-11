@@ -21,7 +21,7 @@ Eighth Amendment is mentioned in the YouTube video "State Prison vs Federal Pris
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-CzapeCu_jDE-summary|Video Summary]]
+- [Video Summary](readings/youtube-CzapeCu_jDE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-CzapeCu_jDE-transcript.md] Video mention at timestamp

@@ -21,7 +21,7 @@ Spider County is mentioned in the YouTube video "7 Nations Just EXPOSED The Pent
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-4NtVHGT2tgI-summary|Video Summary]]
+- [Video Summary](readings/youtube-4NtVHGT2tgI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-4NtVHGT2tgI-transcript.md] Video mention at timestamp

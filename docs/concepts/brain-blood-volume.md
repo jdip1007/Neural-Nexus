@@ -74,5 +74,5 @@ Brain blood volume (BBV) refers to the total volume of blood within the cerebral
 
 ## Related Pages
 
-- [[rem-sleep]]
-- [[nrem-sleep]]
+- [rem-sleep](concepts/rem-sleep.md)
+- [nrem-sleep](concepts/nrem-sleep.md)

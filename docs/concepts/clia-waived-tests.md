@@ -40,6 +40,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[concepts/cms]]
-- [[concepts/fda-approval-process]]
-- [[concepts/laboratory-director]]
+- [concepts/cms](concepts/cms.md)
+- [concepts/fda-approval-process](concepts/fda-approval-process.md)
+- [concepts/laboratory-director](concepts/laboratory-director.md)

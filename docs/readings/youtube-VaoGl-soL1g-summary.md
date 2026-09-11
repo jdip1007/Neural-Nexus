@@ -30,7 +30,7 @@ This video discusses The Epstein Story You Haven’t Heard - Eric Weinstein
 - **Persons**: Steve Bushi, Robert Maxwell, Ralph Lauren
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > maintain I'm obsessed with islands and

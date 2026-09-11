@@ -21,7 +21,7 @@ My Views is mentioned in the YouTube video "The Deserved Downfall of Jake Doolit
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Vw5sPrcqdMI-summary|Video Summary]]
+- [Video Summary](readings/youtube-Vw5sPrcqdMI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Vw5sPrcqdMI-transcript.md] Video mention at timestamp

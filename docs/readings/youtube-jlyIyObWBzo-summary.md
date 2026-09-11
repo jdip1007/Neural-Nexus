@@ -39,9 +39,9 @@ obvious
 - **Organizations**: National Institute, Risk Institute
 
 ## Related Concepts
-- [[algorithm]]
-- [[cloud]]
-- [[ai]]
+- [algorithm](concepts/algorithm.md)
+- [cloud](concepts/cloud.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > software update, and VPN relies on digital 

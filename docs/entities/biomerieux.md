@@ -119,6 +119,6 @@ French in vitro diagnostics company specializing in nucleic acid extraction plat
 
 ## Related Pages
 
-- [[nucleic-acid-extraction-platforms]]
-- [[roche]]
-- [[laboratory-automation]]
+- [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md)
+- [roche](entities/roche.md)
+- [laboratory-automation](concepts/laboratory-methods/laboratory-automation.md)

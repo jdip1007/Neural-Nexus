@@ -34,5 +34,5 @@ backlinks: []
 
 ## Related Pages
 
-- [[mental-health]]
-- [[psychology]]
+- [mental-health](concepts/mental-health.md)
+- [psychology](concepts/psychology.md)

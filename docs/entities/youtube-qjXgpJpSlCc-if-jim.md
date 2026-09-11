@@ -21,7 +21,7 @@ If Jim is mentioned in the YouTube video "Insurance Explained - How Do Insurance
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-qjXgpJpSlCc-summary|Video Summary]]
+- [Video Summary](readings/youtube-qjXgpJpSlCc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-qjXgpJpSlCc-transcript.md] Video mention at timestamp

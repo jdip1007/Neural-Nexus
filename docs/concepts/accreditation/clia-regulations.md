@@ -184,6 +184,6 @@ Before reporting patient test results, laboratories must verify the following pe
 
 ## Related Pages
 
-- [[laboratory-developed-tests]]
-- [[quality-control]]
-- [[method-performance]]
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md)
+- [quality-control](concepts/quality-control.md)
+- [method-performance](concepts/accreditation/method-performance.md)

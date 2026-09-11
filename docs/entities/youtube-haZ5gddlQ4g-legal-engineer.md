@@ -21,7 +21,7 @@ Legal Engineer is mentioned in the YouTube video "How a $20 AI is Replacing $235
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-haZ5gddlQ4g-summary|Video Summary]]
+- [Video Summary](readings/youtube-haZ5gddlQ4g-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-haZ5gddlQ4g-transcript.md] Video mention at timestamp

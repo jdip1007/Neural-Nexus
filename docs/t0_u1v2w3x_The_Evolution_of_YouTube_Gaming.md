@@ -47,7 +47,7 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 - [[Business]]
 - [[Culture]]
-- [[Technology]]
+- [Technology](concepts/technology.md)
 - [[Gaming]]
 
 ## External Links

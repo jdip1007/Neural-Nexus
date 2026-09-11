@@ -41,8 +41,8 @@ to sports like tennis, bocce ball, and volleyball to maintain physical fitness
 - **Persons**: Eighth Amendment, For Federal, Alabama State
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > And the care of state prisoners and the maintenance

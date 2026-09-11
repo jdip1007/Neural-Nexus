@@ -181,8 +181,8 @@ Just as candy bars kill your craving for broccoli, **eating broccoli reduces you
 
 This video informed the following concepts:
 
-- [[brain-rot]]: Highly addictive internet content that hijacks reward circuits
-- [[dopamine-lemon-metaphor]]: Daily dopamine budget model
+- [brain-rot](concepts/brain-rot.md): Highly addictive internet content that hijacks reward circuits
+- [dopamine-lemon-metaphor](concepts/dopamine-lemon-metaphor.md): Daily dopamine budget model
 - [[artificial-brain-circuit-activation]]: How modern content exploits evolutionary circuits
 - [[parasocial-relationships]]: Fake connections that activate real bonding circuits
 - [[inflammation-cycle]]: The physiological trap making recovery harder

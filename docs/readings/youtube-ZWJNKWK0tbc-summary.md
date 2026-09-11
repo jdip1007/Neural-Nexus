@@ -24,7 +24,7 @@ This video discusses Video ZWJNKWK0tbc
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

@@ -583,6 +583,6 @@ train due to parallelism.
 
 ## Related Pages
 
-- [[references/setup-guide]]
-- [[concepts/neural-nexus]]
-- [[references/setup-guide]]
+- [references/setup-guide](references/setup-guide.md)
+- [concepts/neural-nexus](concepts/neural-nexus.md)
+- [references/setup-guide](references/setup-guide.md)

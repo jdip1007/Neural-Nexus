@@ -289,7 +289,7 @@ Side-by-side analysis of structural economic challenges facing China and Japan, 
 
 ## Related
 
-- [[capital-deepening-trap]] - Deep dive into capital deepening mechanics
+- [capital-deepening-trap](concepts/capital-deepening-trap.md) - Deep dive into capital deepening mechanics
 - [[japan-lost-decades]] - Japan's structural stagnation analysis
 - [[chinese-economic-model]] - China's production-led growth strategy
 - [[consumer-led-rebalancing]] - The recovery path China is blocking

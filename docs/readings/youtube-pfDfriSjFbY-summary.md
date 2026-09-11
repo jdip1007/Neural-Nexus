@@ -44,8 +44,8 @@ that we'd really like them to enjoy being here
 
 ## Related Concepts
 - [[llm]]
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 - [[database]]
 
 ## Transcript Highlights

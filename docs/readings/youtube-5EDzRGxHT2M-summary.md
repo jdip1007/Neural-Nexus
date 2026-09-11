@@ -32,7 +32,7 @@ challenge at this point
 - **Persons**: Microsoft Azure, Entropia Universe, How Money
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 - [[database]]
 
 ## Transcript Highlights

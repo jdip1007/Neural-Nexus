@@ -150,6 +150,6 @@ Baby Boomers are the generation born between 1946 and 1964, following World War 
 
 ## Related Pages
 
-- [[concepts/demographic-economic-impact]]
-- [[concepts/demographic-wall]]
-- [[concepts/generational-wealth-transfer]]
+- [concepts/demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [concepts/demographic-wall](concepts/demographic-wall.md)
+- [concepts/generational-wealth-transfer](concepts/generational-wealth-transfer.md)

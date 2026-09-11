@@ -21,7 +21,7 @@ If Murdoch is mentioned in the YouTube video "ስሙ ነው ካሮል ፈቃዱ 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-I_17-FIqadU-summary|Video Summary]]
+- [Video Summary](readings/youtube-I_17-FIqadU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-I_17-FIqadU-transcript.md] Video mention at timestamp

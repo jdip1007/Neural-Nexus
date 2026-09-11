@@ -21,7 +21,7 @@ Backyard Ballistics is mentioned in the YouTube video "Fake Restoration Videos A
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-IDmt0N0Buc4-summary|Video Summary]]
+- [Video Summary](readings/youtube-IDmt0N0Buc4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-IDmt0N0Buc4-transcript.md] Video mention at timestamp

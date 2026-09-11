@@ -44,6 +44,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[concepts/cms]]
-- [[concepts/quality-control]]
-- [[concepts/accreditation/clia-regulations]]
+- [concepts/cms](concepts/cms.md)
+- [concepts/quality-control](concepts/quality-control.md)
+- [concepts/accreditation/clia-regulations](concepts/accreditation/clia-regulations.md)

@@ -33,7 +33,7 @@ This video discusses Andrew Tate's Life Is Falling Apart
 - **Persons**: With Andrew, The British, United Kingdom
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > >> One of my main chicks is 200,000

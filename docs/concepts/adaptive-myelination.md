@@ -13,7 +13,7 @@ reviewed: 2026-08-25
 
 # Adaptive myelination
 
-Adaptive myelination is the process by which [[myelin]] formation and modification is dynamically regulated by neuronal activity patterns. Unlike the traditional view of myelin as static insulation, adaptive myelination represents a form of brain plasticity that optimizes neural signal transmission efficiency based on functional demands. This process is mediated by [[oligodendrocyte]] cells within the [[neurovascular-unit]] and is sensitive to metabolic conditions.
+Adaptive myelination is the process by which [myelin](concepts/myelin.md) formation and modification is dynamically regulated by neuronal activity patterns. Unlike the traditional view of myelin as static insulation, adaptive myelination represents a form of brain plasticity that optimizes neural signal transmission efficiency based on functional demands. This process is mediated by [[oligodendrocyte]] cells within the [neurovascular-unit](concepts/neurovascular-unit.md) and is sensitive to metabolic conditions.
 
 ## Traditional vs. Adaptive View
 
@@ -263,13 +263,13 @@ Adaptive myelination impairment contributes to:
 
 ## Related Concepts
 
-- [[myelin]]: Adaptive myelination modifies myelin structure
+- [myelin](concepts/myelin.md): Adaptive myelination modifies myelin structure
 - [[oligodendrocyte]]: Oligodendrocytes mediate adaptive myelination
-- [[neurovascular-unit]]: Adaptive myelination is a function of the NVU
-- [[neurovascular-coupling]]: NVC provides metabolic support for myelination
-- [[metabolic-disorder]]: Metabolic overload impairs adaptive myelination
+- [neurovascular-unit](concepts/neurovascular-unit.md): Adaptive myelination is a function of the NVU
+- [neurovascular-coupling](concepts/neurovascular-coupling.md): NVC provides metabolic support for myelination
+- [metabolic-disorder](concepts/metabolic-disorder.md): Metabolic overload impairs adaptive myelination
 - [[plasticity]]: Adaptive myelination is a form of brain plasticity
-- [[neurodegenerative-disease]]: Impaired adaptive myelination contributes to neurodegeneration
+- [neurodegenerative-disease](concepts/neurodegenerative-disease.md): Impaired adaptive myelination contributes to neurodegeneration
 
 ## Graph Impact
 

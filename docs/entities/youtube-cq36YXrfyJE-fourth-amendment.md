@@ -21,7 +21,7 @@ Fourth Amendment is mentioned in the YouTube video "Ads You See Online Are Now P
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-cq36YXrfyJE-summary|Video Summary]]
+- [Video Summary](readings/youtube-cq36YXrfyJE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-cq36YXrfyJE-transcript.md] Video mention at timestamp

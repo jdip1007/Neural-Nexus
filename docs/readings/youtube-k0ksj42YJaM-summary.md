@@ -41,8 +41,8 @@ al-Thumairy
 - **Persons**: Marwan Al, Ground Zero, That Don
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Why did Mohammed Atta travel to Portland, 

@@ -35,6 +35,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[wbe-theory]]
-- [[scaling-laws]]
-- [[metabolic-scaling]]
+- [wbe-theory](concepts/wbe-theory.md)
+- [scaling-laws](concepts/scaling-laws.md)
+- [metabolic-scaling](concepts/metabolic-scaling.md)

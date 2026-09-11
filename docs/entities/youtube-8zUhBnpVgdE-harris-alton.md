@@ -21,7 +21,7 @@ Harris Alton is mentioned in the YouTube video "Most Viewed The Infographics Sho
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-8zUhBnpVgdE-summary|Video Summary]]
+- [Video Summary](readings/youtube-8zUhBnpVgdE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-8zUhBnpVgdE-transcript.md] Video mention at timestamp

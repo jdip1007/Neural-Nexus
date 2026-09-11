@@ -21,7 +21,7 @@ Thomas Nagel is mentioned in the YouTube video "How Trauma Splits A Soul (Dissoc
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Mg9Tr3qLXks-summary|Video Summary]]
+- [Video Summary](readings/youtube-Mg9Tr3qLXks-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Mg9Tr3qLXks-transcript.md] Video mention at timestamp

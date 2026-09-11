@@ -52,5 +52,5 @@ James Evans directs the Knowledge Lab at the University of Chicago, studying how
 
 ## Related Pages
 
-- [[yong-li]]
-- [[fengli-xu]]
+- [yong-li](entities/yong-li.md)
+- [fengli-xu](entities/fengli-xu.md)

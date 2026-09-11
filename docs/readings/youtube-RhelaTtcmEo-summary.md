@@ -29,8 +29,8 @@ This video discusses Why Smart People Are Bad At Dating
 - **Persons**: Not Psycho, So So, It It
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 

@@ -35,7 +35,7 @@ say, for a publication, or even a cover submission
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > We're also going to

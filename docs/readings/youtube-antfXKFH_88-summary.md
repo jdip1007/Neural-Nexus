@@ -34,8 +34,8 @@ This video discusses D4VD Is Facing The Death Penalty...
 - **Persons**: Harvey Weinstein, As David, Hollywood Hills
 
 ## Related Concepts
-- [[ai]]
-- [[cloud]]
+- [ai](concepts/ai.md)
+- [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
 > has dominated mainstream headlines for

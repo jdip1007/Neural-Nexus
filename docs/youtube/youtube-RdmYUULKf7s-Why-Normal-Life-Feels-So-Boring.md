@@ -90,7 +90,7 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 ## Related Topics
 
 [[mental_health]]
-[[psychology]]
+[psychology](concepts/psychology.md)
 [[emotional_regulation]]
 [[online_communities]]
 [[personal_development]]
@@ -103,7 +103,7 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 ## Related Topics
 
 [[mental_health]]
-[[psychology]]
+[psychology](concepts/psychology.md)
 [[emotional_regulation]]
 [[online_communities]]
 [[personal_development]]

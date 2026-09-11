@@ -143,9 +143,9 @@ Criminal forensic testing encompasses a wide range of scientific techniques used
 
 ## Related Topics
 
-- [[criminal-psychology]]
-- [[forensic-science]]
-- [[cold-case-investigations]]
+- [criminal-psychology](concepts/criminal-psychology.md)
+- [forensic-science](concepts/forensic-science.md)
+- [cold-case-investigations](concepts/cold-case-investigations.md)
 - [[dna-evidence]]
 - [[ballistics-analysis]]
-- [[infographics-show]]
+- [infographics-show](entities/infographics-show.md)

@@ -132,6 +132,6 @@ Modern cell line culture has evolved significantly:
 
 ## Related Pages
 
-- [[concepts/dna-extraction-methodologies]]
-- [[concepts/dna-extraction]]
-- [[concepts/environmental-dna-analysis]]
+- [concepts/dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [concepts/dna-extraction](concepts/dna-extraction.md)
+- [concepts/environmental-dna-analysis](concepts/environmental-dna-analysis.md)

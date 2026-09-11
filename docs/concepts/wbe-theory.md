@@ -280,6 +280,6 @@ Where:
 
 ## Related Pages
 
-- [[urban-scaling]]
-- [[scaling-laws]]
-- [[lifespan]]
+- [urban-scaling](concepts/urban-scaling.md)
+- [scaling-laws](concepts/scaling-laws.md)
+- [lifespan](concepts/lifespan.md)

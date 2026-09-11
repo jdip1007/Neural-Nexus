@@ -72,6 +72,6 @@ This video provides insights into the world of internet content creation and its
 
 ## Related Pages
 
-- [[internet-culture]]
+- [internet-culture](internet-culture.md)
 - [[content-creation]]
 - [[social-media-impact]]

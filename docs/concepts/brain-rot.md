@@ -69,10 +69,10 @@ Research shows concerning correlations between excessive screen time/gaming and:
 
 After years of exposure, brain rot leads to permanent changes in brain function:
 
-- **Dopamine tolerance**: Receptor downregulation makes normal activities feel unrewarding (see [[dopamine-tolerance]])
-- **Terminal boredom**: Endstage where users can't do anything due to severe tolerance (see [[terminal-boredom]])
-- **Executive function rust**: Screens do all planning, causing planning circuits to atrophy (see [[executive-function-rust]])
-- **Impulse control atrophy**: Platforms eliminate the need for restraint, causing impulse control muscles to weaken (see [[impulse-control-atrophy]])
+- **Dopamine tolerance**: Receptor downregulation makes normal activities feel unrewarding (see [dopamine-tolerance](concepts/dopamine-tolerance.md))
+- **Terminal boredom**: Endstage where users can't do anything due to severe tolerance (see [terminal-boredom](concepts/terminal-boredom.md))
+- **Executive function rust**: Screens do all planning, causing planning circuits to atrophy (see [executive-function-rust](concepts/executive-function-rust.md))
+- **Impulse control atrophy**: Platforms eliminate the need for restraint, causing impulse control muscles to weaken (see [impulse-control-atrophy](concepts/impulse-control-atrophy.md))
 
 These manifest clinically as:
 - "I don't know what I want in life"

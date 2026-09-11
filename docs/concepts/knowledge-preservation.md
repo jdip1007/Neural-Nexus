@@ -155,5 +155,5 @@ Into a coherent, navigable web of scientific knowledge
 - [penn-rainford](entities/penn-rainford.md) — Lead researcher
 ## Related Pages
 
-- [[neural-nexus]]
-- [[reproducibility-crisis]]
+- [neural-nexus](concepts/neural-nexus.md)
+- [reproducibility-crisis](concepts/reproducibility-crisis.md)

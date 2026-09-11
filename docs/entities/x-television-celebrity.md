@@ -311,6 +311,6 @@ The entity demonstrates how celebrity status creates unique vulnerabilities and 
 - [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
 - [psychology](concepts/psychology.md)
 ## Related Pages
-- [[celebrity-privacy-media-ethics]]
-- [[criminal-psychology-behavior-patterns]]
-- [[dna-evidence-hong-kong-legal-system]]
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md)
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)

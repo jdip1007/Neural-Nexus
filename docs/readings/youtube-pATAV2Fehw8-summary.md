@@ -32,8 +32,8 @@ This video discusses Can We Afford For Everybody To Be Financially Responsible?
 - **Persons**: Edward Jones, Compounded Daily, Trader Joe
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > 18,000 a year on non-essentials. There's

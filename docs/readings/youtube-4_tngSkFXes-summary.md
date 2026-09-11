@@ -24,7 +24,7 @@ This video discusses Video 4_tngSkFXes
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

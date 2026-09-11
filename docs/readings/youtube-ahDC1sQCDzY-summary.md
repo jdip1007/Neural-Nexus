@@ -34,7 +34,7 @@ and its occupants Orville and Mickey Wagner were not so fortunate
 - **Persons**: In The, Crazy And, Sad Story
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Swanson named Badger, and a boat named Sumore

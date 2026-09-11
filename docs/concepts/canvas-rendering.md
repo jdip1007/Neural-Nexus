@@ -29,6 +29,6 @@ Used in the sand game simulation discussed in [optimisation-techniques-small-sca
 
 ## Related Pages
 
-- [[concepts/optimisation-techniques-small-scale-simulation]]
-- [[concepts/cellular-automata]]
-- [[concepts/game-loop]]
+- [concepts/optimisation-techniques-small-scale-simulation](concepts/optimisation-techniques-small-scale-simulation.md)
+- [concepts/cellular-automata](concepts/cellular-automata.md)
+- [concepts/game-loop](concepts/game-loop.md)

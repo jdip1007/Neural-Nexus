@@ -21,7 +21,7 @@ Dr Phil is mentioned in the YouTube video "Why Jack Doherty Is The Worst YouTube
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-giG3JkPj5RE-summary|Video Summary]]
+- [Video Summary](readings/youtube-giG3JkPj5RE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-giG3JkPj5RE-transcript.md] Video mention at timestamp

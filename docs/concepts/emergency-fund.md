@@ -40,5 +40,5 @@ An emergency fund provides financial resilience without the lock-up penalties an
 
 ## Related Pages
 
-- [[savings-insurance]]
-- [[annuities]]
+- [savings-insurance](concepts/savings-insurance.md)
+- [annuities](concepts/annuities.md)

@@ -34,8 +34,8 @@ This video discusses The Lie of "Positive Thinking"
 - **Persons**: Bud Light, Discovery Channel, Eileen Goo
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > >> So this is a key thing to understand.

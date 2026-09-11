@@ -21,7 +21,7 @@ Power It is mentioned in the YouTube video "Ultimate LED Effects: New Software a
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-COJnlehBcKw-summary|Video Summary]]
+- [Video Summary](readings/youtube-COJnlehBcKw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-COJnlehBcKw-transcript.md] Video mention at timestamp

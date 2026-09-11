@@ -21,7 +21,7 @@ Kids Who is mentioned in the YouTube video "Dumb YouTube Videos That Got People 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-wVWo63bsZiQ-summary|Video Summary]]
+- [Video Summary](readings/youtube-wVWo63bsZiQ-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-wVWo63bsZiQ-transcript.md] Video mention at timestamp

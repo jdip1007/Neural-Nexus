@@ -21,7 +21,7 @@ Northwest Angle is mentioned in the YouTube video "Airrack Never Stopped Faking 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-6zAG7p81NME-summary|Video Summary]]
+- [Video Summary](readings/youtube-6zAG7p81NME-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-6zAG7p81NME-transcript.md] Video mention at timestamp

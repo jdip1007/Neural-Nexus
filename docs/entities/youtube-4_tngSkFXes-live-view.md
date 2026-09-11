@@ -21,7 +21,7 @@ Live View is mentioned in the YouTube video "Video 7: Aperture".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-4_tngSkFXes-summary|Video Summary]]
+- [Video Summary](readings/youtube-4_tngSkFXes-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-4_tngSkFXes-transcript.md] Video mention at timestamp

@@ -185,8 +185,8 @@ The automotive industry has undergone significant transformation in recent decad
 ## Related Pages
 
 - [[Dave's Garage]] - Automotive technology projects
-- [[Technology]] - Broader technology concepts
-- [[Hardware]] - Vehicle hardware components
+- [Technology](concepts/technology.md) - Broader technology concepts
+- [Hardware](concepts/hardware.md) - Vehicle hardware components
 - [[Electronics]] - Automotive electronic systems
 - [[Innovation]] - Automotive breakthroughs and trends
 

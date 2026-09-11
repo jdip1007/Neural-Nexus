@@ -26,7 +26,7 @@ This video discusses How to Win Every Single Day - David Goggins
 - **Persons**: Four Walls, Gonna Knock, Great Dane
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > important you have to wake up and you

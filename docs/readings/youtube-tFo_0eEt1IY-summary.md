@@ -25,8 +25,8 @@ This video discusses What Caused the Catastrophic Nuclear Accident in Chernobyl?
 - **Persons**: Infographics Show, European Union, Chernobyl Exclusion
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

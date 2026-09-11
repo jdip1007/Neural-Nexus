@@ -21,7 +21,7 @@ Is Right is mentioned in the YouTube video "Full-Time Work Is DEAD. The $20 BILL
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Jf19D1HaRjo-summary|Video Summary]]
+- [Video Summary](readings/youtube-Jf19D1HaRjo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Jf19D1HaRjo-transcript.md] Video mention at timestamp

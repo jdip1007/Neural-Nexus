@@ -139,6 +139,6 @@ The NP factor's specificity to executive function (not all cognition) is clinica
 
 ## Related Pages
 
-- [[executive-function]]
-- [[psychiatric-comorbidity]]
-- [[adhd]]
+- [executive-function](concepts/executive-function.md)
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md)
+- [adhd](concepts/adhd.md)

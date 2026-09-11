@@ -21,7 +21,7 @@ Mahatma Gandhi is mentioned in the YouTube video "What If You Don't Eat (Day by 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-5rFIcsi9EVc-summary|Video Summary]]
+- [Video Summary](readings/youtube-5rFIcsi9EVc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-5rFIcsi9EVc-transcript.md] Video mention at timestamp

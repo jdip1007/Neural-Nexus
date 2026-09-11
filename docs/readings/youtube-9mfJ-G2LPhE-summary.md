@@ -24,7 +24,7 @@ This video discusses Video 9mfJ-G2LPhE
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

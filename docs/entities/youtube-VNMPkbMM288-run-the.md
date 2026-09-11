@@ -21,7 +21,7 @@ Run The is mentioned in the YouTube video "What Did The Mysterious Secret Societ
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-VNMPkbMM288-summary|Video Summary]]
+- [Video Summary](readings/youtube-VNMPkbMM288-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-VNMPkbMM288-transcript.md] Video mention at timestamp

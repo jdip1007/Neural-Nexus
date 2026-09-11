@@ -21,7 +21,7 @@ The Romans is mentioned in the YouTube video "What Caused the Roman Empire to Co
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-5tilhR0C6DY-summary|Video Summary]]
+- [Video Summary](readings/youtube-5tilhR0C6DY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-5tilhR0C6DY-transcript.md] Video mention at timestamp

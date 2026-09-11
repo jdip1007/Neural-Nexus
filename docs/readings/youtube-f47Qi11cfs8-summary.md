@@ -41,9 +41,9 @@ foreign workers into logistics hubs, manufacturing plants, and critical industri
 - **Persons**: What Will, Western Europe, Iron Curtain
 
 ## Related Concepts
-- [[api]]
-- [[architecture]]
-- [[ai]]
+- [api](concepts/api.md)
+- [architecture](concepts/architecture.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > directing massive portions into all-important 

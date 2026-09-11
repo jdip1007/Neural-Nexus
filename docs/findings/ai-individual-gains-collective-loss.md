@@ -85,5 +85,5 @@ AI adoption in science presents a paradox: dramatic individual career advantages
 - [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md) - Knowledge preservation and systems
 - [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md) - Knowledge preservation systems
 ## Related Pages
-- [[knowledge-preservation]]
-- [[reproducibility-crisis]]
+- [knowledge-preservation](concepts/knowledge-preservation.md)
+- [reproducibility-crisis](concepts/reproducibility-crisis.md)

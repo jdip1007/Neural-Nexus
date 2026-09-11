@@ -21,7 +21,7 @@ And Phillip is mentioned in the YouTube video "Lecture 2: Airplane Aerodynamics"
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-edLnZgF9mUg-summary|Video Summary]]
+- [Video Summary](readings/youtube-edLnZgF9mUg-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-edLnZgF9mUg-transcript.md] Video mention at timestamp

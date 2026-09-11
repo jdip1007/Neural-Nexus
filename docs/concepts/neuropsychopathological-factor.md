@@ -124,6 +124,6 @@ Specific to **executive function** deficits only:
 
 ## Related Pages
 
-- [[mental-health]]
-- [[executive-function]]
-- [[psychology]]
+- [mental-health](concepts/mental-health.md)
+- [executive-function](concepts/executive-function.md)
+- [psychology](concepts/psychology.md)

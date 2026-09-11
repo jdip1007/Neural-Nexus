@@ -44,6 +44,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[surface-law]]
-- [[kleibers-law]]
-- [[urban-scaling]]
+- [surface-law](concepts/surface-law.md)
+- [kleibers-law](concepts/kleibers-law.md)
+- [urban-scaling](concepts/urban-scaling.md)

@@ -33,5 +33,5 @@ The **Centers for Medicare and Medicaid Services (CMS)** is the US federal agenc
 
 ## Related Pages
 
-- [[clia-regulations]]
-- [[proficiency-testing]]
+- [clia-regulations](concepts/accreditation/clia-regulations.md)
+- [proficiency-testing](concepts/proficiency-testing.md)

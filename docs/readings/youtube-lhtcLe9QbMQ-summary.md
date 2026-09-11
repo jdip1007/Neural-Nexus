@@ -29,8 +29,8 @@ This video discusses Why I Specialize In Video Game Addiction
 - **Persons**: Massachusetts General, North America, Harvard Medical
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

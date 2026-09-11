@@ -41,6 +41,6 @@ Use of automated systems to perform laboratory procedures with minimal human int
 
 ## Related Pages
 
-- [[molecular-diagnostics]]
-- [[biomerieux]]
-- [[roche]]
+- [molecular-diagnostics](concepts/molecular-diagnostics.md)
+- [biomerieux](entities/biomerieux.md)
+- [roche](entities/roche.md)

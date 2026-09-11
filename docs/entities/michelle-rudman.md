@@ -70,6 +70,6 @@ Contributing to comprehensive understanding of:
 
 ## Related Pages
 
-- [[recent-advances-alzheimers-disease-cell-review-2026]]
-- [[neuroinflammation]]
-- [[jason-ulrich]]
+- [recent-advances-alzheimers-disease-cell-review-2026](raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md)
+- [neuroinflammation](concepts/neuroinflammation.md)
+- [jason-ulrich](entities/jason-ulrich.md)

@@ -44,7 +44,7 @@ infrastructure being used to track you
 - [[database]]
 - [[framework]]
 - [[data-science]]
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > that it became the master key for nearly every 

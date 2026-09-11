@@ -143,6 +143,6 @@ Modern adaptive sampling has evolved significantly:
 
 ## Related Pages
 
-- [[readings/adaptive-sampling-document]]
-- [[concepts/dna-extraction-methodologies]]
-- [[concepts/dna-extraction]]
+- [readings/adaptive-sampling-document](readings/adaptive-sampling-document.md)
+- [concepts/dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [concepts/dna-extraction](concepts/dna-extraction.md)

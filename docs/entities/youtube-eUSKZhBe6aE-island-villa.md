@@ -21,7 +21,7 @@ Island Villa is mentioned in the YouTube video "How To Get On Love Island | The 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-eUSKZhBe6aE-summary|Video Summary]]
+- [Video Summary](readings/youtube-eUSKZhBe6aE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-eUSKZhBe6aE-transcript.md] Video mention at timestamp

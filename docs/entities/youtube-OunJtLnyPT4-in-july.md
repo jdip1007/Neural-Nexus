@@ -21,7 +21,7 @@ In July is mentioned in the YouTube video "The 7 Trillion AI Gamble Is Failing. 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-OunJtLnyPT4-summary|Video Summary]]
+- [Video Summary](readings/youtube-OunJtLnyPT4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-OunJtLnyPT4-transcript.md] Video mention at timestamp

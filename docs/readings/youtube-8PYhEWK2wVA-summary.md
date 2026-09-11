@@ -30,8 +30,8 @@ This video discusses How I Conquered My Video Game Addiction
 - **Persons**: Doctor Who, Psychiatric Hospital, Let It
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > sort of took a key takeaway away from

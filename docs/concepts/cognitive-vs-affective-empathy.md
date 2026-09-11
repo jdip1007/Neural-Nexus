@@ -201,9 +201,9 @@ Baron-Cohen's work supports a **two-system model** of empathy:
 
 ## Related
 
-- [[simon-baron-cohen]] - Primary researcher on empathy and autism
-- [[pattern-seeking-in-autism]] - Complementary cognitive strengths
+- [simon-baron-cohen](entities/simon-baron-cohen.md) - Primary researcher on empathy and autism
+- [pattern-seeking-in-autism](concepts/pattern-seeking-in-autism.md) - Complementary cognitive strengths
 - [[systematizing-theory]] - Baron-Cohen's broader theoretical framework
 - [[neurodiversity-paradigm]] - Shift from deficit to difference model
-- [[autism-and-human-invention]] - Contributions of autistic cognitive styles
+- [autism-and-human-invention](concepts/autism-and-human-invention.md) - Contributions of autistic cognitive styles
 - [[empathy-deficit-myth]] - Challenges to common misconceptions

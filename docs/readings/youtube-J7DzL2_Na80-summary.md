@@ -39,7 +39,7 @@ is the key point
 - **Persons**: Gilbert Strang, Linear Algebra
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > beside that, because that's

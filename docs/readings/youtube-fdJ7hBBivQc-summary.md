@@ -33,8 +33,8 @@ really is important
 - **Persons**: No Small, Emily Dickenson
 
 ## Related Concepts
-- [[ai]]
-- [[container]]
+- [ai](concepts/ai.md)
+- [container](concepts/container.md)
 
 ## Transcript Highlights
 > of the most important aspects

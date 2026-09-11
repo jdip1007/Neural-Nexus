@@ -263,6 +263,6 @@ The concept demonstrates how psychological insights can improve understanding, p
 - [relationships](concepts/relationships.md)
 ## Related Pages
 
-- [[celebrity-privacy-media-ethics]]
-- [[dna-evidence-hong-kong-legal-system]]
-- [[dangerous-person-2-0-research-project]]
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
+- [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)

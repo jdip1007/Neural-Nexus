@@ -349,6 +349,6 @@ Validation is required when:
 
 ## Related Pages
 
-- [[change-control]]
-- [[roc-analysis]]
-- [[laboratory-developed-tests]]
+- [change-control](concepts/change-control.md)
+- [roc-analysis](concepts/roc-analysis.md)
+- [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md)

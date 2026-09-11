@@ -29,7 +29,7 @@ This video discusses What Dr. K Struggles with...
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > think the key thing about like not

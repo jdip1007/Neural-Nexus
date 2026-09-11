@@ -45,6 +45,6 @@ Method development is the phase of laboratory test lifecycle in which an assay i
 
 ## Related Pages
 
-- [[performance-characteristics]]
-- [[regulatory-compliance]]
-- [[calibration-verification]]
+- [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)
+- [regulatory-compliance](concepts/regulatory-compliance.md)
+- [calibration-verification](concepts/calibration-verification.md)

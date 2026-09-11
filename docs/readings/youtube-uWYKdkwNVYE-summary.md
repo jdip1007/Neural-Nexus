@@ -41,8 +41,8 @@ regulations have essentially been the deathknell for the larger family
 - **Organizations**: Manhattan Institute
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
+- [algorithm](concepts/algorithm.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Maintaining staff for half-empty schools is 

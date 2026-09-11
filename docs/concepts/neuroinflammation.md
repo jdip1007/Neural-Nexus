@@ -190,6 +190,6 @@ Neuroinflammation represents a critical therapeutic target in AD:
 
 ## Related Pages
 
-- [[concepts/amyloid-beta]]
-- [[concepts/apoe]]
-- [[concepts/tau-pathology]]
+- [concepts/amyloid-beta](concepts/amyloid-beta.md)
+- [concepts/apoe](concepts/apoe.md)
+- [concepts/tau-pathology](concepts/tau-pathology.md)

@@ -43,9 +43,9 @@ respectively
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 - [[transformer]]
-- [[api]]
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > like a lot, but 190 million barrels is considered 

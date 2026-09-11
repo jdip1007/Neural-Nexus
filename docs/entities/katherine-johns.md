@@ -45,6 +45,6 @@ Limited information available about Dr Katherine Johns from the video metadata. 
 ## Data Quality Note
 This entity page has low confidence as it is based on a single video mention with minimal biographical information. Additional primary sources (publication records, institutional affiliations, professional profiles) would be needed to create a comprehensive entity page.^[raw/videos/prion-disease-colleague-story.md]
 ## Related Pages
-- [[mental-health]]
-- [[adhd]]
-- [[psychology]]
+- [mental-health](concepts/mental-health.md)
+- [adhd](concepts/adhd.md)
+- [psychology](concepts/psychology.md)

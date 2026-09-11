@@ -24,7 +24,7 @@ This video discusses Are you an Addict? | Episode 002 Video Game Addiction
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

@@ -45,7 +45,7 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 - [[Accountability]]
 - [[Culture]]
-- [[Technology]]
+- [Technology](concepts/technology.md)
 - [[Marketing]]
 
 ## External Links

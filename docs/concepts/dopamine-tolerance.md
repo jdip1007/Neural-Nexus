@@ -227,11 +227,11 @@ Both matter:
 
 ## Related Concepts
 
-- [[terminal-boredom]]: Endstate where severe tolerance prevents pleasure from any activity
-- [[dopamine-lemon-metaphor]]: Daily budget vs long-term adaptation
-- [[executive-function-rust]]: Accompanies tolerance as screens replace planning
-- [[impulse-control-atrophy]]: Accompanies tolerance as screens replace restraint
-- [[brain-rot]]: Content that drives tolerance development
+- [terminal-boredom](concepts/terminal-boredom.md): Endstate where severe tolerance prevents pleasure from any activity
+- [dopamine-lemon-metaphor](concepts/dopamine-lemon-metaphor.md): Daily budget vs long-term adaptation
+- [executive-function-rust](concepts/executive-function-rust.md): Accompanies tolerance as screens replace planning
+- [impulse-control-atrophy](concepts/impulse-control-atrophy.md): Accompanies tolerance as screens replace restraint
+- [brain-rot](concepts/brain-rot.md): Content that drives tolerance development
 
 ## Sources
 

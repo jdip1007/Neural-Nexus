@@ -31,7 +31,7 @@ This video discusses Ultimate LED Effects: New Software and Hardware!
 - **Persons**: Power It, Will Survive, Audio Level
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > 2 this M5 contains some important

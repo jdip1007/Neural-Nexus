@@ -42,5 +42,5 @@ backlinks: []
 
 ## Related Pages
 
-- [[savings-insurance]]
-- [[annuities]]
+- [savings-insurance](concepts/savings-insurance.md)
+- [annuities](concepts/annuities.md)

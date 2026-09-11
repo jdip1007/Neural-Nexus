@@ -24,7 +24,7 @@ This video discusses Daniel Sloss On Falling In Love
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

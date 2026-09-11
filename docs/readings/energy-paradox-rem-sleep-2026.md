@@ -107,6 +107,6 @@ During REM sleep, brain blood volume increases dramatically, astrocytic pyruvate
 
 ## Related Pages
 
-- [[rem-sleep]]
-- [[nrem-sleep]]
-- [[ko-matsui]]
+- [rem-sleep](concepts/rem-sleep.md)
+- [nrem-sleep](concepts/nrem-sleep.md)
+- [ko-matsui](entities/ko-matsui.md)

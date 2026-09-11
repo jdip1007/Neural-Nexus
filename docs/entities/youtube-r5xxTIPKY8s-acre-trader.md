@@ -21,7 +21,7 @@ Acre Trader is mentioned in the YouTube video "America's Latest Farming Crisis".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-r5xxTIPKY8s-summary|Video Summary]]
+- [Video Summary](readings/youtube-r5xxTIPKY8s-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-r5xxTIPKY8s-transcript.md] Video mention at timestamp

@@ -40,8 +40,8 @@ iPhones will never fall out of style
 - **Persons**: Fiscal Dominance, What If, The United
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > millions of people are struggling to afford the 

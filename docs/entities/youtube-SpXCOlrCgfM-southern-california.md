@@ -21,7 +21,7 @@ Southern California is mentioned in the YouTube video "What Happens When a Shipp
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-SpXCOlrCgfM-summary|Video Summary]]
+- [Video Summary](readings/youtube-SpXCOlrCgfM-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-SpXCOlrCgfM-transcript.md] Video mention at timestamp

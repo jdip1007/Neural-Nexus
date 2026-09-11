@@ -13,7 +13,7 @@ reviewed: 2026-08-25
 
 # Neurovascular coupling
 
-[[Neurovascular-coupling]] (NVC), also known as functional hyperaemia, is the process by which active neurons signal to nearby blood vessels to increase local cerebral blood flow (CBF). This ensures that regions of the brain with high metabolic demand receive adequate supplies of oxygen and glucose to support their activity.
+[Neurovascular-coupling](concepts/neurovascular-coupling.md) (NVC), also known as functional hyperaemia, is the process by which active neurons signal to nearby blood vessels to increase local cerebral blood flow (CBF). This ensures that regions of the brain with high metabolic demand receive adequate supplies of oxygen and glucose to support their activity.
 
 ## Mechanism
 
@@ -109,7 +109,7 @@ Impaired NVC creates a vicious cycle:
 3. Neuronal dysfunction → impaired vascular signaling → worsened NVC
 4. Chronic energy deficit → progressive neuronal degeneration
 
-This cycle underlies the link between [[obesity]] and [[neurodegenerative-disease]].
+This cycle underlies the link between [[obesity]] and [neurodegenerative-disease](concepts/neurodegenerative-disease.md).
 
 ## Clinical Significance
 
@@ -165,12 +165,12 @@ fMRI interpretation requires understanding of NVC:
 
 ## Related Concepts
 
-- [[neurovascular-unit]]: NVC is a key function of the NVU
-- [[blood-brain-barrier]]: BBB maintenance depends on NVC
-- [[glymphatic]]: Glymphatic function is enhanced by NVC
-- [[myelin]]: NVC supports adaptive myelination
-- [[metabolic-disorder]]: Metabolic overload impairs NVC
-- [[neurodegenerative-disease]]: NVC impairment contributes to neurodegeneration
+- [neurovascular-unit](concepts/neurovascular-unit.md): NVC is a key function of the NVU
+- [blood-brain-barrier](concepts/blood-brain-barrier.md): BBB maintenance depends on NVC
+- [glymphatic](concepts/glymphatic.md): Glymphatic function is enhanced by NVC
+- [myelin](concepts/myelin.md): NVC supports adaptive myelination
+- [metabolic-disorder](concepts/metabolic-disorder.md): Metabolic overload impairs NVC
+- [neurodegenerative-disease](concepts/neurodegenerative-disease.md): NVC impairment contributes to neurodegeneration
 
 ## Graph Impact
 

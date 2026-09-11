@@ -248,8 +248,8 @@ This landmark study significantly advances our understanding of ADHD genetics by
 The findings provide a solid foundation for future research into ADHD biology and may eventually contribute to improved diagnosis, treatment, and prevention strategies for this common neurodevelopmental disorder.
 
 ## Related Pages
-- [[adhd]] - General ADHD concept and overview
-- [[executive-function]] - Cognitive function affected by ADHD
-- [[psychiatric-comorbidity]] - Comorbidity patterns with other disorders
-- [[heritability]] - Genetic inheritance patterns in psychiatry
+- [adhd](concepts/adhd.md) - General ADHD concept and overview
+- [executive-function](concepts/executive-function.md) - Cognitive function affected by ADHD
+- [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) - Comorbidity patterns with other disorders
+- [heritability](concepts/heritability.md) - Genetic inheritance patterns in psychiatry
 - [[neuropsychopathology]] - Brain basis of psychiatric disorders

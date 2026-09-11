@@ -236,10 +236,10 @@ Based on current research:
 
 ## Related Concepts
 
-- [[polygenic-scores]] - Using genetic information for risk prediction
-- [[adhd-risk-genes-effect-sizes]] - Specific genetic variants associated with ADHD
+- [polygenic-scores](concepts/polygenic-scores.md) - Using genetic information for risk prediction
+- [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Specific genetic variants associated with ADHD
 - [[genetic-epidemiology]] - Study of genetic factors in populations
-- [[statistical-genetics]] - Statistical methods in genetic research
+- [statistical-genetics](concepts/statistical-genetics.md) - Statistical methods in genetic research
 
 ## References
 

@@ -40,7 +40,7 @@ might have developed a revolutionary form of propulsion “outside of our domest
 - **Organizations**: Marine Corp
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > took her into the sky aboard a spaceship 

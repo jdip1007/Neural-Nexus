@@ -36,7 +36,7 @@ to the master
 - **Persons**: Kanye West, Master Mason, Run The
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Let’s remember that building things back

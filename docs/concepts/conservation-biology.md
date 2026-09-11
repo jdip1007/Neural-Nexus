@@ -184,6 +184,6 @@ Conservation biology is crucial because:
 
 ## Related Pages
 
-- [[concepts/ecology]]
-- [[concepts/environmental-dna-analysis]]
-- [[concepts/environmental-monitoring]]
+- [concepts/ecology](concepts/ecology.md)
+- [concepts/environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [concepts/environmental-monitoring](concepts/environmental-monitoring.md)

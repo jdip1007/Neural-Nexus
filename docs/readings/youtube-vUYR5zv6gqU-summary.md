@@ -31,7 +31,7 @@ Fed held that rate at essentially zero
 - **Persons**: In February, In April, Economic Analysis
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 - [[database]]
 
 ## Transcript Highlights

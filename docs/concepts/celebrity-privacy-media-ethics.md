@@ -297,6 +297,6 @@ The concept demonstrates the complex interplay between privacy, media responsibi
 - [psychology](concepts/psychology.md)
 ## Related Pages
 
-- [[criminal-psychology-behavior-patterns]]
-- [[dna-evidence-hong-kong-legal-system]]
-- [[lam-kwok-wai-tuen-mun-rapist]]
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md)
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
+- [lam-kwok-wai-tuen-mun-rapist](entities/lam-kwok-wai-tuen-mun-rapist.md)

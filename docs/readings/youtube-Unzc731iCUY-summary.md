@@ -46,9 +46,9 @@ it's important to talk about your research in context
 
 ## Related Concepts
 - [[artificial-intelligence]]
-- [[ai]]
+- [ai](concepts/ai.md)
 - [[framework]]
-- [[algorithm]]
+- [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
 > about the place? And the most important

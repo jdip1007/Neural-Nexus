@@ -295,6 +295,6 @@ Key references include:
 
 ## Related Pages
 
-- [[orna-mor]]
-- [[michel-mandelboim]]
-- [[nucleic-acid-extraction-platforms]]
+- [orna-mor](entities/orna-mor.md)
+- [michel-mandelboim](entities/michel-mandelboim.md)
+- [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md)

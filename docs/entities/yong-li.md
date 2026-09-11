@@ -48,5 +48,5 @@ Yong Li is a researcher at Tsinghua University's BNRist and Zhongguancun Academy
 
 ## Related Pages
 
-- [[fengli-xu]]
-- [[james-evans]]
+- [fengli-xu](entities/fengli-xu.md)
+- [james-evans](entities/james-evans.md)

@@ -46,7 +46,7 @@ This video explores important concepts in mental health and personal development
 [[neuroscience]]
 [[brain_plasticity]]
 [[cognitive_science]]
-[[psychology]]
+[psychology](concepts/psychology.md)
 
 ## Video Information
 

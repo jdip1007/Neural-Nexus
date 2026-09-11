@@ -44,7 +44,7 @@ and Selection Program
 - **Persons**: Air Force, Individualized Training, National Guard
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Marine Expeditionary Units must remain prepared

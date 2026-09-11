@@ -48,8 +48,8 @@ Architecture refers to the fundamental structure of a system, including its comp
 - **Usability**: Ease of system use for end users
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 - [[software-development]]
 - [[microservices]]
 - [[system-design]]

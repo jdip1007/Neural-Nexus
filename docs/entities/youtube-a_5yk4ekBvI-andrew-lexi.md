@@ -21,7 +21,7 @@ Andrew Lexi is mentioned in the YouTube video "The Worst Content Thieves on YouT
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-a_5yk4ekBvI-summary|Video Summary]]
+- [Video Summary](readings/youtube-a_5yk4ekBvI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-a_5yk4ekBvI-transcript.md] Video mention at timestamp

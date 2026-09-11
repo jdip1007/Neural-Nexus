@@ -40,7 +40,7 @@ found themselves dealing with a rash of animal mutilations, mainly cattle
 - **Persons**: Bernard Baruch, Truman Capote, Hollyweird While
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > It’s rare for someone to play a key role in the 

@@ -61,6 +61,6 @@ His work on mental health stigma (with Martinez 2016; with Stier 2008) examines 
 
 ## Related Pages
 
-- [[mental-health]]
-- [[psychology]]
-- [[adhd]]
+- [mental-health](concepts/mental-health.md)
+- [psychology](concepts/psychology.md)
+- [adhd](concepts/adhd.md)

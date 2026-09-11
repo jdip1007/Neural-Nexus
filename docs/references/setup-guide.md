@@ -2963,5 +2963,5 @@ If editing via Obsidian and Hermes Agent simultaneously:
 
 ## Related Pages
 
-- [[neural-nexus]]
-- [[writing-guide]]
+- [neural-nexus](concepts/neural-nexus.md)
+- [writing-guide](references/writing-guide.md)

@@ -46,7 +46,7 @@ was a capable leader - leaving their ministers to essentially take charge of the
 - **Persons**: Julius Caesar, The Emperor, The Romans
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > for one leader to maintain full control over every 

@@ -38,8 +38,8 @@ their life
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 - [[llm]]
 
 ## Transcript Highlights

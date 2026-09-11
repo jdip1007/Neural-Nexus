@@ -21,7 +21,7 @@ Eastern Front is mentioned in the YouTube video "50 Insane World War 2 Facts Tha
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-ihufFVR4fME-summary|Video Summary]]
+- [Video Summary](readings/youtube-ihufFVR4fME-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-ihufFVR4fME-transcript.md] Video mention at timestamp

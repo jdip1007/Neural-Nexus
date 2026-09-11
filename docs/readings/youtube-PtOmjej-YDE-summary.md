@@ -42,10 +42,10 @@ users on Facebook and Instagram
 - **Tools**: MetaAI
 
 ## Related Concepts
-- [[algorithm]]
-- [[api]]
-- [[architecture]]
-- [[ai]]
+- [algorithm](concepts/algorithm.md)
+- [api](concepts/api.md)
+- [architecture](concepts/architecture.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > his Class B share hoard. The remainder are diluted 

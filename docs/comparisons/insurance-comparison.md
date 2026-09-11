@@ -51,6 +51,6 @@ Savings insurance vs. term life insurance + separate investment, based on analys
 
 ## Related Pages
 
-- [[annuities]]
-- [[insurtech]]
-- [[bowtie-insurance]]
+- [annuities](concepts/annuities.md)
+- [insurtech](concepts/insurtech.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)

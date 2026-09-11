@@ -135,6 +135,6 @@ This method enables revolutionary environmental monitoring:
 
 ## Related Pages
 
-- [[conservation-biology]]
-- [[environmental-monitoring]]
-- [[dna-extraction]]
+- [conservation-biology](concepts/conservation-biology.md)
+- [environmental-monitoring](concepts/environmental-monitoring.md)
+- [dna-extraction](concepts/dna-extraction.md)

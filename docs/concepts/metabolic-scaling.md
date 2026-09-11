@@ -42,6 +42,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[kleibers-law]]
-- [[wbe-theory]]
-- [[surface-law]]
+- [kleibers-law](concepts/kleibers-law.md)
+- [wbe-theory](concepts/wbe-theory.md)
+- [surface-law](concepts/surface-law.md)

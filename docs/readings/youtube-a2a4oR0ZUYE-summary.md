@@ -36,7 +36,7 @@ it would have eventually imploded anyways
 - **Persons**: With Darius, Genghis Khan, The Greeks
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > most important centers of cultural and scientific

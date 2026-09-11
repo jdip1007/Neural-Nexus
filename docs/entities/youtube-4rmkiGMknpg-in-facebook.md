@@ -21,7 +21,7 @@ In Facebook is mentioned in the YouTube video "Can Meta Actually Survive This?".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-4rmkiGMknpg-summary|Video Summary]]
+- [Video Summary](readings/youtube-4rmkiGMknpg-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-4rmkiGMknpg-transcript.md] Video mention at timestamp

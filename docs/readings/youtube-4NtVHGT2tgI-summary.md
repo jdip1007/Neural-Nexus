@@ -40,11 +40,11 @@ hunt for UFOs
 - **Organizations**: Intelligence Institute
 
 ## Related Concepts
-- [[container]]
-- [[architecture]]
-- [[api]]
+- [container](concepts/container.md)
+- [architecture](concepts/architecture.md)
+- [api](concepts/api.md)
 - [[machine-learning]]
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > remains of the pilots who flew them. This isn't 

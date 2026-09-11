@@ -198,11 +198,11 @@ Based on his research trajectory, key areas for continued investigation include:
 
 ## Related
 
-- [[pattern-seeking-in-autism]] - His core theory about autism and invention
-- [[cognitive-vs-affective-empathy]] - His groundbreaking empathy framework
+- [pattern-seeking-in-autism](concepts/pattern-seeking-in-autism.md) - His core theory about autism and invention
+- [cognitive-vs-affective-empathy](concepts/cognitive-vs-affective-empathy.md) - His groundbreaking empathy framework
 - [[systematizing-theory]] - His empathizing-systematizing model
 - [[neurodiversity-paradigm]] - His advocacy for difference model
-- [[autism-and-human-invention]] - Pattern seeking applied to progress
+- [autism-and-human-invention](concepts/autism-and-human-invention.md) - Pattern seeking applied to progress
 
 ## External Sources
 

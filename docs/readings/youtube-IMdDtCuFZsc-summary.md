@@ -33,8 +33,8 @@ This video discusses Jonah Hill's Life Is Falling Apart
 
 ## Related Concepts
 - [[llm]]
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 - [[transformer]]
 
 ## Transcript Highlights

@@ -21,7 +21,7 @@ European Union is mentioned in the YouTube video "What Caused the Catastrophic N
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-tFo_0eEt1IY-summary|Video Summary]]
+- [Video Summary](readings/youtube-tFo_0eEt1IY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-tFo_0eEt1IY-transcript.md] Video mention at timestamp

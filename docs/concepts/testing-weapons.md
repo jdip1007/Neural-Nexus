@@ -147,9 +147,9 @@ Weapon testing and ballistics analysis is a specialized forensic field that exam
 
 ## Related Topics
 
-- [[criminal-forensic-testing]]
+- [criminal-forensic-testing](concepts/criminal-forensic-testing.md)
 - [[firearm-examination]]
 - [[ballistics-analysis]]
 - [[dna-evidence]]
 - [[crime-scene-investigation]]
-- [[infographics-show]]
+- [infographics-show](entities/infographics-show.md)

@@ -264,6 +264,6 @@ The entity demonstrates how individual criminal cases can have profound impacts 
 - [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
 - [dangerous-person-2-0-research-overview](concepts/dangerous-person-2-0-research-overview.md)
 ## Related Pages
-- [[dna-evidence-hong-kong-legal-system]]
-- [[criminal-psychology-behavior-patterns]]
-- [[celebrity-privacy-media-ethics]]
+- [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
+- [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md)
+- [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)

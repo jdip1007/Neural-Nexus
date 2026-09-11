@@ -21,7 +21,7 @@ Richard Feldstein is mentioned in the YouTube video "Jonah Hill's Life Is Fallin
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-IMdDtCuFZsc-summary|Video Summary]]
+- [Video Summary](readings/youtube-IMdDtCuFZsc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-IMdDtCuFZsc-transcript.md] Video mention at timestamp

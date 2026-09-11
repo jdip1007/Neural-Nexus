@@ -21,7 +21,7 @@ Shackleton Crater is mentioned in the YouTube video "NASA’s 100-Mile Moon Base
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-nglN9SB-CYw-summary|Video Summary]]
+- [Video Summary](readings/youtube-nglN9SB-CYw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-nglN9SB-CYw-transcript.md] Video mention at timestamp

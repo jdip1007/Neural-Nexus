@@ -37,8 +37,8 @@ answer: Why does El Salvador need such a massive prison
 - **Persons**: President Nayib, Central America, Things Nobody
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Silivri Penitentiaries Campus in 

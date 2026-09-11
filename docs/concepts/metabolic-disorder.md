@@ -14,7 +14,7 @@ reviewed: 2026-08-26
 
 # Metabolic disorder
 
-Metabolic disorders are a group of conditions characterized by abnormalities in metabolism—the biochemical processes that the body uses to convert food into energy. These disorders often involve dysregulation of glucose, lipids, or protein metabolism and are major risk factors for cardiovascular disease, [[neurodegenerative-disease]], and other chronic conditions. Metabolic disorders cause widespread dysfunction of the [[neurovascular-unit]] and contribute to brain aging and cognitive decline.
+Metabolic disorders are a group of conditions characterized by abnormalities in metabolism—the biochemical processes that the body uses to convert food into energy. These disorders often involve dysregulation of glucose, lipids, or protein metabolism and are major risk factors for cardiovascular disease, [neurodegenerative-disease](concepts/neurodegenerative-disease.md), and other chronic conditions. Metabolic disorders cause widespread dysfunction of the [neurovascular-unit](concepts/neurovascular-unit.md) and contribute to brain aging and cognitive decline.
 
 ## Types of Metabolic Disorders
 
@@ -167,7 +167,7 @@ Metabolic disorders are a group of conditions characterized by abnormalities in 
 - Accumulation of protein aggregates
 - Reduced nutrient delivery
 
-**See:** [[neurovascular-unit]] for detailed mechanisms
+**See:** [neurovascular-unit](concepts/neurovascular-unit.md) for detailed mechanisms
 
 ### Hypothalamic Dysfunction
 
@@ -186,7 +186,7 @@ Metabolic disorders are a group of conditions characterized by abnormalities in 
 - Raises adiposity set-point
 - Promotes weight maintenance at higher levels
 
-**See:** [[hypothalamus]] for detailed discussion
+**See:** [hypothalamus](concepts/hypothalamus.md) for detailed discussion
 
 ### Neurodegeneration
 
@@ -206,7 +206,7 @@ Metabolic disorders are a group of conditions characterized by abnormalities in 
 - Impaired protein clearance
 - Neuronal energy deficits
 
-**See:** [[neurodegenerative-disease]] for detailed discussion
+**See:** [neurodegenerative-disease](concepts/neurodegenerative-disease.md) for detailed discussion
 
 ## Risk Factors
 
@@ -400,12 +400,12 @@ Metabolic disorders are a group of conditions characterized by abnormalities in 
 
 ## Related Concepts
 
-- [[neurovascular-unit]]: Metabolic disorders cause NVU dysfunction
-- [[neurovascular-coupling]]: Impaired NVC contributes to brain dysfunction
-- [[blood-brain-barrier]]: Metabolic overload disrupts BBB integrity
-- [[glymphatic]]: Impaired clearance in metabolic disorders
-- [[inflammation]]: Chronic inflammation is central to metabolic dysfunction
-- [[neurodegenerative-disease]]: Metabolic disorders increase neurodegeneration risk
+- [neurovascular-unit](concepts/neurovascular-unit.md): Metabolic disorders cause NVU dysfunction
+- [neurovascular-coupling](concepts/neurovascular-coupling.md): Impaired NVC contributes to brain dysfunction
+- [blood-brain-barrier](concepts/blood-brain-barrier.md): Metabolic overload disrupts BBB integrity
+- [glymphatic](concepts/glymphatic.md): Impaired clearance in metabolic disorders
+- [inflammation](concepts/inflammation.md): Chronic inflammation is central to metabolic dysfunction
+- [neurodegenerative-disease](concepts/neurodegenerative-disease.md): Metabolic disorders increase neurodegeneration risk
 - [[obesity]]: Visceral obesity drives metabolic dysfunction
 
 ## Graph Impact

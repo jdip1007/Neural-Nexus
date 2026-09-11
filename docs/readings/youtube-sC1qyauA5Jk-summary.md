@@ -40,8 +40,8 @@ one of the main goals behind MKUltra
 - **Persons**: General Qasim, Richard Helms, Secret War
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 - [[transformer]]
 
 ## Transcript Highlights

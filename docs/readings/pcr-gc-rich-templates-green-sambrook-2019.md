@@ -124,6 +124,6 @@ Protocol for amplifying GC-rich DNA templates (>60% G+C) using a 4-additive cock
 ## Related Pages
 - See [pcr](concepts/pcr.md) for general PCR protocols
 ## Related Pages
-- [[pcr]]
-- [[dna-extraction]]
-- [[molecular-biology]]
+- [pcr](concepts/pcr.md)
+- [dna-extraction](concepts/dna-extraction.md)
+- [molecular-biology](concepts/molecular-biology.md)

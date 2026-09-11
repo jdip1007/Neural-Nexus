@@ -39,6 +39,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[entities/van-savage]]
-- [[entities/brian-enquist]]
-- [[concepts/scale-book]]
+- [entities/van-savage](entities/van-savage.md)
+- [entities/brian-enquist](entities/brian-enquist.md)
+- [concepts/scale-book](concepts/scale-book.md)

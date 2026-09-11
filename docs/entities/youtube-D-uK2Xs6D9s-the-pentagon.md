@@ -21,7 +21,7 @@ The Pentagon is mentioned in the YouTube video "The "Stay-At-Home Boyfriend" Epi
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-D-uK2Xs6D9s-summary|Video Summary]]
+- [Video Summary](readings/youtube-D-uK2Xs6D9s-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-D-uK2Xs6D9s-transcript.md] Video mention at timestamp

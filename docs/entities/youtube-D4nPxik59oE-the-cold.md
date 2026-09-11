@@ -21,7 +21,7 @@ The Cold is mentioned in the YouTube video "The Horrors of Unit 731".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-D4nPxik59oE-summary|Video Summary]]
+- [Video Summary](readings/youtube-D4nPxik59oE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-D4nPxik59oE-transcript.md] Video mention at timestamp

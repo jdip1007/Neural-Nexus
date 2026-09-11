@@ -21,7 +21,7 @@ Watching You is mentioned in the YouTube video "THIS is Coming to Your Phone NEX
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-qWQMyeRrabA-summary|Video Summary]]
+- [Video Summary](readings/youtube-qWQMyeRrabA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-qWQMyeRrabA-transcript.md] Video mention at timestamp

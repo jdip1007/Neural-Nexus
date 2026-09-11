@@ -72,5 +72,5 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 
 ## Related Pages
 
-- [[nucleic-acid-extraction-platforms]]
-- [[performance-characteristics]]
+- [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md)
+- [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)

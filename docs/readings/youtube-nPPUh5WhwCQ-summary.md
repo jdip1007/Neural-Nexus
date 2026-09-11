@@ -24,7 +24,7 @@ This video discusses The Betrayal of JCS - Criminal Psychology
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

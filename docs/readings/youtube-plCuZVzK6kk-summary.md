@@ -28,7 +28,7 @@ This video discusses Video 17: Looking at Videos
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

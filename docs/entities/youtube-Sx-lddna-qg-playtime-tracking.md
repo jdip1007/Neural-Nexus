@@ -21,7 +21,7 @@ Playtime Tracking is mentioned in the YouTube video "WTF Is Happening To The Vid
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Sx-lddna-qg-summary|Video Summary]]
+- [Video Summary](readings/youtube-Sx-lddna-qg-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Sx-lddna-qg-transcript.md] Video mention at timestamp

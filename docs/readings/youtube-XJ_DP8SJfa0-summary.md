@@ -34,8 +34,8 @@ This video discusses The Dark Side of Fitness: “I Starved Myself Until I Faint
 - **Persons**: Nutty Nutty, Youtube Learning, Social Media
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > I was playing hockey at a high level too

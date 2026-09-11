@@ -38,7 +38,7 @@ operations focused on the essentials
 - **Persons**: Eastern Front, Walter Matthau, Charles Lindbergh
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > so they made several concessions to Hitler. The 

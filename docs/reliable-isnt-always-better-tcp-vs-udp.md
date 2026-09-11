@@ -28,7 +28,7 @@ This video from Dave's Garage covers networking with a focus on technical_tutori
 
 ## Key Topics
 
-- [[Networking]]
+- [Networking](concepts/networking.md)
 
 ## Technical Concepts
 
@@ -42,8 +42,8 @@ TCP vs UDP networking protocols comparison and analysis. This video explains the
 
 - [[Dave's Garage]] - Main channel page
 - [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+- [Networking](concepts/networking.md) - Related networking content
+- [Programming](concepts/programming.md) - Related programming tutorials
 
 ## Citations
 

@@ -225,6 +225,6 @@ The landmark Multimodal Treatment Study of ADHD (MTA) demonstrated:
 
 ## Related Pages
 
-- [[relationships]]
-- [[mental-health]]
-- [[executive-function]]
+- [relationships](concepts/relationships.md)
+- [mental-health](concepts/mental-health.md)
+- [executive-function](concepts/executive-function.md)

@@ -44,8 +44,8 @@ sentences that ranged from seven years to life
 - **Persons**: The Church, Dutchman Marinus, National Security
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > as horrifying as they were, led to important 

@@ -21,7 +21,7 @@ Stanford Review is mentioned in the YouTube video "WTF Does Peter Thiel Actually
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-_W3qPymBEBA-summary|Video Summary]]
+- [Video Summary](readings/youtube-_W3qPymBEBA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-_W3qPymBEBA-transcript.md] Video mention at timestamp

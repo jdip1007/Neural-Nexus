@@ -21,7 +21,7 @@ Patrick Boyle is mentioned in the YouTube video "How Long Can The Stock Market I
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-qmZmKZR8S5U-summary|Video Summary]]
+- [Video Summary](readings/youtube-qmZmKZR8S5U-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-qmZmKZR8S5U-transcript.md] Video mention at timestamp

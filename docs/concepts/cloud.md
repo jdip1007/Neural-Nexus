@@ -58,8 +58,8 @@ Cloud computing refers to the delivery of computing services—including servers
 - **Disaster Recovery**: Backup and recovery solutions for business continuity
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
-- [[container]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
+- [container](concepts/container.md)
 - [[infrastructure]]
 - [[devops]]

@@ -21,7 +21,7 @@ While Washington is mentioned in the YouTube video "What Made The Black Death (T
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-m5q-PIN3KSE-summary|Video Summary]]
+- [Video Summary](readings/youtube-m5q-PIN3KSE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-m5q-PIN3KSE-transcript.md] Video mention at timestamp

@@ -34,7 +34,7 @@ climbed back to less critical 0
 - **Persons**: But South, South Korea, Were Born
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > and many of the businesses that had once 

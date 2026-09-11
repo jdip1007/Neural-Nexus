@@ -35,8 +35,8 @@ and search engines displayed it as a main feature
 - **Organizations**: Resources Institute
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > workflow. Schools added it to assignments. Apps 

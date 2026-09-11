@@ -42,6 +42,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[concepts/change-control]]
-- [[concepts/laboratory-director]]
-- [[concepts/method-implementation]]
+- [concepts/change-control](concepts/change-control.md)
+- [concepts/laboratory-director](concepts/laboratory-director.md)
+- [concepts/method-implementation](concepts/method-implementation.md)

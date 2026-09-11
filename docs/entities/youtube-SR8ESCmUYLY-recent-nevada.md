@@ -21,7 +21,7 @@ Recent Nevada is mentioned in the YouTube video "Hidden Code: How Slot Machines 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-SR8ESCmUYLY-summary|Video Summary]]
+- [Video Summary](readings/youtube-SR8ESCmUYLY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-SR8ESCmUYLY-transcript.md] Video mention at timestamp

@@ -21,13 +21,13 @@ Tom Clancy is mentioned in the YouTube video "$2.45 BILLION Debt. Ubisoft is DOO
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-q9GpzCudQb4-summary|Video Summary]]
+- [Video Summary](readings/youtube-q9GpzCudQb4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-q9GpzCudQb4-transcript.md] Video mention at timestamp
 
 ## Related Pages
 
-- [[entities/youtube-q9GpzCudQb4-but-ubisoft]]
-- [[entities/youtube-q9GpzCudQb4-just-dance]]
-- [[entities/youtube-q9GpzCudQb4-minimum-viable]]
+- [entities/youtube-q9GpzCudQb4-but-ubisoft](entities/youtube-q9GpzCudQb4-but-ubisoft.md)
+- [entities/youtube-q9GpzCudQb4-just-dance](entities/youtube-q9GpzCudQb4-just-dance.md)
+- [entities/youtube-q9GpzCudQb4-minimum-viable](entities/youtube-q9GpzCudQb4-minimum-viable.md)

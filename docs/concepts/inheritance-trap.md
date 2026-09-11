@@ -129,6 +129,6 @@ The "Inheritance Trap" describes how intergenerational wealth transfer through i
 
 ## Related Pages
 
-- [[generational-wealth-transfer]]
-- [[economic-inequality]]
-- [[wealth-concentration]]
+- [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+- [economic-inequality](concepts/economic-inequality.md)
+- [wealth-concentration](concepts/wealth-concentration.md)

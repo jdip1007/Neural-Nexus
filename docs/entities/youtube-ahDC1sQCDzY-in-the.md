@@ -21,7 +21,7 @@ In The is mentioned in the YouTube video "Surviving Most Extreme Mega Tsunami in
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-ahDC1sQCDzY-summary|Video Summary]]
+- [Video Summary](readings/youtube-ahDC1sQCDzY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-ahDC1sQCDzY-transcript.md] Video mention at timestamp

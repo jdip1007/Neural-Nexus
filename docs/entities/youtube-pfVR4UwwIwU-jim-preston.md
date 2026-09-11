@@ -21,7 +21,7 @@ Jim Preston is mentioned in the YouTube video "360 Degree Video Tour of Amazing 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-pfVR4UwwIwU-summary|Video Summary]]
+- [Video Summary](readings/youtube-pfVR4UwwIwU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-pfVR4UwwIwU-transcript.md] Video mention at timestamp

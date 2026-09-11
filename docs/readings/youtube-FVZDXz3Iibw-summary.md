@@ -42,8 +42,8 @@ standings is expensive
 
 ## Related Concepts
 - [[framework]]
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > the bureaucratic bloat in healthcare is still a 

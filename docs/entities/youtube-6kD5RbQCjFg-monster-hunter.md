@@ -21,7 +21,7 @@ Monster Hunter is mentioned in the YouTube video "What Everyone Gets Wrong About
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-6kD5RbQCjFg-summary|Video Summary]]
+- [Video Summary](readings/youtube-6kD5RbQCjFg-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-6kD5RbQCjFg-transcript.md] Video mention at timestamp

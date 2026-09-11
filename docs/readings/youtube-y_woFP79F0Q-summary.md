@@ -34,8 +34,8 @@ This video discusses Living with Confidence & Going All In - Matthew McConaughey
 - **Persons**: Just Okay, Scarlet Letter, Risk Taker
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
+- [cloud](concepts/cloud.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > without a heaven there, not having any hope or faith in anything is a certain way to remain where you are forever.

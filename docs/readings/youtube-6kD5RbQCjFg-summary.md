@@ -34,7 +34,7 @@ This video discusses What Everyone Gets Wrong About ADHD
 - **Persons**: Doing Stuff, About Doing, Monster Hunter
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > >> Friends are super important to me.

@@ -151,6 +151,6 @@ Genomics is transforming multiple fields:
 
 ## Related Pages
 
-- [[concepts/cell-line-culture]]
-- [[concepts/dna-extraction-methodologies]]
-- [[concepts/dna-extraction]]
+- [concepts/cell-line-culture](concepts/cell-line-culture.md)
+- [concepts/dna-extraction-methodologies](concepts/dna-extraction-methodologies.md)
+- [concepts/dna-extraction](concepts/dna-extraction.md)

@@ -21,7 +21,7 @@ Central America is mentioned in the YouTube video "Why You Wouldn't Survive 1 Da
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-mNlKWWgmpus-summary|Video Summary]]
+- [Video Summary](readings/youtube-mNlKWWgmpus-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-mNlKWWgmpus-transcript.md] Video mention at timestamp

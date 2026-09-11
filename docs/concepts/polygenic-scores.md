@@ -289,11 +289,11 @@ Based on the van der Laan et al. (2025) study:
 
 ## Related Concepts
 
-- [[heritability]] - Genetic inheritance patterns in psychiatry
-- [[adhd-risk-genes-effect-sizes]] - Specific genes associated with ADHD risk
-- [[genome-wide-association]] - GWAS methodology and applications
-- [[statistical-genetics]] - Statistical methods in genetic research
-- [[precision-medicine]] - Personalized approaches to healthcare
+- [heritability](concepts/heritability.md) - Genetic inheritance patterns in psychiatry
+- [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Specific genes associated with ADHD risk
+- [genome-wide-association](concepts/genome-wide-association.md) - GWAS methodology and applications
+- [statistical-genetics](concepts/statistical-genetics.md) - Statistical methods in genetic research
+- [precision-medicine](concepts/precision-medicine.md) - Personalized approaches to healthcare
 
 ## References
 

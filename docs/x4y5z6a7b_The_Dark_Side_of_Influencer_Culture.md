@@ -42,8 +42,8 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 ## Key Themes
 
 - [[Culture]]
-- [[Technology]]
-- [[Psychology]]
+- [Technology](concepts/technology.md)
+- [Psychology](concepts/psychology.md)
 - [[Ethics]]
 
 ## External Links

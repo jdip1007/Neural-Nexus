@@ -138,6 +138,6 @@ Generational wealth transfer refers to the movement of assets, property, and fin
 
 ## Related Pages
 
-- [[reverse-robin-hood-heist]]
-- [[wealth-concentration]]
-- [[asset-inflation]]
+- [reverse-robin-hood-heist](concepts/reverse-robin-hood-heist.md)
+- [wealth-concentration](concepts/wealth-concentration.md)
+- [asset-inflation](concepts/asset-inflation.md)

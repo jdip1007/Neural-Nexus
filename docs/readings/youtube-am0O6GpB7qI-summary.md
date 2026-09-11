@@ -33,8 +33,8 @@ This video discusses Using Windows 10?  Do THIS Now Before It's Too Late!
 ## Entities Mentioned
 
 ## Related Concepts
-- [[architecture]]
-- [[ai]]
+- [architecture](concepts/architecture.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > something critically important you need

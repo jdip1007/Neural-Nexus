@@ -24,7 +24,7 @@ This insight was discovered in the YouTube video "What if the World Wars Never H
 The finding suggests important implications for understanding the topic.
 
 ## Related Pages
-- [[youtube-Das4psjipJo-summary|Video Summary]]
+- [Video Summary](readings/youtube-Das4psjipJo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Das4psjipJo-transcript.md] Video transcript analysis

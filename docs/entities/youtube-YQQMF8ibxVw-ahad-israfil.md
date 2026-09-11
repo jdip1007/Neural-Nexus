@@ -21,7 +21,7 @@ Ahad Israfil is mentioned in the YouTube video "What Does it Actually Feel Like 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-YQQMF8ibxVw-summary|Video Summary]]
+- [Video Summary](readings/youtube-YQQMF8ibxVw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-YQQMF8ibxVw-transcript.md] Video mention at timestamp

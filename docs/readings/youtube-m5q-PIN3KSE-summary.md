@@ -37,7 +37,7 @@ at the time determined that only 0
 - **Persons**: While Washington, Happen Again, The Plague
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > Sometimes, bodies of the deceased remained

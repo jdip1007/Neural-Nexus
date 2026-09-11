@@ -21,7 +21,7 @@ Game Boy is mentioned in the YouTube video "Why Restricting Video Games As A Par
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Q-tiTTvkHpw-summary|Video Summary]]
+- [Video Summary](readings/youtube-Q-tiTTvkHpw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Q-tiTTvkHpw-transcript.md] Video mention at timestamp

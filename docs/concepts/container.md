@@ -68,9 +68,9 @@ A container is a standard unit of software that packages up code and all its dep
 - **Security**: Clair, Trivy, Falco
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
-- [[cloud]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
+- [cloud](concepts/cloud.md)
 - [[kubernetes]]
 - [[devops]]
 - [[microservices]]

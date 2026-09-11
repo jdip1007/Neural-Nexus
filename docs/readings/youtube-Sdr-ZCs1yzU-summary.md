@@ -37,9 +37,9 @@ a ‘human-ready’ Hemagglutinin (HA) protein that was already capable of bindi
 - **Persons**: Jesse Bloom, Bloom Lab, Saudi Arabia
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
-- [[architecture]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
+- [architecture](concepts/architecture.md)
 
 ## Transcript Highlights
 > to infect us in the first place.

@@ -32,8 +32,8 @@ This video discusses Bare Metal Programming - Booting From the Switches
 ## Entities Mentioned
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
+- [algorithm](concepts/algorithm.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > we'll cover all the important steps

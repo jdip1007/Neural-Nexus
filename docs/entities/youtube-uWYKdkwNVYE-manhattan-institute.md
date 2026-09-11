@@ -21,7 +21,7 @@ Manhattan Institute is mentioned in the YouTube video "It's Not the Economy You 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-uWYKdkwNVYE-summary|Video Summary]]
+- [Video Summary](readings/youtube-uWYKdkwNVYE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-uWYKdkwNVYE-transcript.md] Video mention at timestamp

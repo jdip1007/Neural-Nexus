@@ -21,7 +21,7 @@ Eileen Goo is mentioned in the YouTube video "The Lie of "Positive Thinking"".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-l7BaFufR23E-summary|Video Summary]]
+- [Video Summary](readings/youtube-l7BaFufR23E-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-l7BaFufR23E-transcript.md] Video mention at timestamp

@@ -21,7 +21,7 @@ Central Intelligence is mentioned in the YouTube video "Insane Conspiracy Theori
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-8xMGlbFSWWc-summary|Video Summary]]
+- [Video Summary](readings/youtube-8xMGlbFSWWc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-8xMGlbFSWWc-transcript.md] Video mention at timestamp

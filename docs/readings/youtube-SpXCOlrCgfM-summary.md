@@ -34,9 +34,9 @@ maintenance of weight distribution is key
 - **Persons**: Southern California, Los Angeles, North Carolina
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
-- [[container]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
+- [container](concepts/container.md)
 
 ## Transcript Highlights
 > each year could eventually become a significant 

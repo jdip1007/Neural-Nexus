@@ -40,8 +40,8 @@ their monopoly as long as they possibly can
 - **Persons**: Latin America, Not Oil, New Mexico
 
 ## Related Concepts
-- [[ai]]
-- [[container]]
+- [ai](concepts/ai.md)
+- [container](concepts/container.md)
 
 ## Transcript Highlights
 > Because this is exactly what would happen if the 

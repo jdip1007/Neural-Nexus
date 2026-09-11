@@ -21,7 +21,7 @@ Tik Tok is mentioned in the YouTube video "Why You Should Stop Watching YouTube 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-XEb89CQJPO4-summary|Video Summary]]
+- [Video Summary](readings/youtube-XEb89CQJPO4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-XEb89CQJPO4-transcript.md] Video mention at timestamp

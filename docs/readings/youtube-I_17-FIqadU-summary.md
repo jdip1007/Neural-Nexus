@@ -39,7 +39,7 @@ mainly because she wanted to go back and pick up people in the water
 - **Persons**: Officer Lightoller, Cape Race, If Murdoch
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > struggle to see any icebergs, mainly because of 

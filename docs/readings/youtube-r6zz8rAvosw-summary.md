@@ -30,7 +30,7 @@ for deadly diseases - including the potentially lethal Lyme Disease
 - **Persons**: Pinworms Roundworms, Eating Amoeba, Guinea Worm
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > They can live for decades, and can remain

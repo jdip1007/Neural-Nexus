@@ -21,7 +21,7 @@ Raspberry Pi is mentioned in the YouTube video "Desktop AI Compared - From 2GB t
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-yHrGN243JNA-summary|Video Summary]]
+- [Video Summary](readings/youtube-yHrGN243JNA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-yHrGN243JNA-transcript.md] Video mention at timestamp

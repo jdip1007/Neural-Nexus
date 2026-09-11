@@ -29,6 +29,6 @@ The [optimisation-techniques-small-scale-simulation](concepts/optimisation-techn
 
 ## Related Pages
 
-- [[concepts/optimisation-techniques-small-scale-simulation]]
-- [[concepts/game-loop]]
-- [[concepts/canvas-rendering]]
+- [concepts/optimisation-techniques-small-scale-simulation](concepts/optimisation-techniques-small-scale-simulation.md)
+- [concepts/game-loop](concepts/game-loop.md)
+- [concepts/canvas-rendering](concepts/canvas-rendering.md)

@@ -248,6 +248,6 @@ Scaling relationships help understand:
 
 ## Related Pages
 
-- [[scaling-laws]]
-- [[lifespan]]
-- [[metabolic-scaling]]
+- [scaling-laws](concepts/scaling-laws.md)
+- [lifespan](concepts/lifespan.md)
+- [metabolic-scaling](concepts/metabolic-scaling.md)

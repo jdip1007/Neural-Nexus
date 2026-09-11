@@ -30,7 +30,7 @@ This video discusses This Is What Happens To Your Body When You Stop Smoking Tob
 - **Organizations**: Cancer Institute
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > The lungs have significantly healed themselves.

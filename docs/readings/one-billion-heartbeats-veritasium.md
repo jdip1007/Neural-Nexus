@@ -190,6 +190,6 @@ The video features extensive consultation with leading researchers in scaling th
 4. Can scaling laws predict responses to climate change across species?
 5. How do human interventions (medicine, nutrition) interact with scaling constraints?
 ## Related Pages
-- [[kleibers-law]]
-- [[scaling-laws]]
-- [[metabolic-scaling]]
+- [kleibers-law](concepts/kleibers-law.md)
+- [scaling-laws](concepts/scaling-laws.md)
+- [metabolic-scaling](concepts/metabolic-scaling.md)

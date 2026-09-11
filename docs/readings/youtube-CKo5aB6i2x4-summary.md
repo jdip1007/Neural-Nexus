@@ -25,8 +25,8 @@ This video discusses Toxicity in Video Games | Dr.K Explains
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > about essentially the relationship to

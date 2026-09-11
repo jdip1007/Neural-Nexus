@@ -40,6 +40,6 @@ Savings insurance is marketed as "low risk" but carries hidden risks: underperfo
 
 ## Related Pages
 
-- [[opportunity-cost]]
-- [[savings-insurance]]
-- [[annuities]]
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [savings-insurance](concepts/savings-insurance.md)
+- [annuities](concepts/annuities.md)

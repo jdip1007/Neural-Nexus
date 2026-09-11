@@ -35,8 +35,8 @@ Automotive technology encompasses the design, development, production, and maint
 
 ## Related Concepts
 
-- [[technology]] - General technology concepts
-- [[engineering]] - Engineering principles and practices
+- [technology](concepts/technology.md) - General technology concepts
+- [engineering](concepts/engineering.md) - Engineering principles and practices
 - [[innovation]] - New ideas and creative solutions
 
 ---

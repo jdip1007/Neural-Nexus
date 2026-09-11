@@ -188,6 +188,6 @@ The project serves as a model for future research initiatives and demonstrates t
 
 ## Related Pages
 
-- [[concepts/dangerous-person-2-0-research-project]]
-- [[concepts/knowledge-preservation]]
-- [[findings/ai-individual-gains-collective-loss]]
+- [concepts/dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)
+- [concepts/knowledge-preservation](concepts/knowledge-preservation.md)
+- [findings/ai-individual-gains-collective-loss](findings/ai-individual-gains-collective-loss.md)

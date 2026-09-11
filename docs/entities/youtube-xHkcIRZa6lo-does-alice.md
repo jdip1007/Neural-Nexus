@@ -21,7 +21,7 @@ Does Alice is mentioned in the YouTube video "Why You Should NEVER Confess Your 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-xHkcIRZa6lo-summary|Video Summary]]
+- [Video Summary](readings/youtube-xHkcIRZa6lo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-xHkcIRZa6lo-transcript.md] Video mention at timestamp

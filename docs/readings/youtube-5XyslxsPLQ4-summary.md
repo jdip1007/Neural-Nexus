@@ -40,8 +40,8 @@ firm and its executives
 - **Persons**: Steven Hoffenberg, Beer Sterns, Was Epste
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > country. The massive escalation coming after a 

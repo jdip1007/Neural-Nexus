@@ -29,9 +29,9 @@ This video discusses The Dark History of Zip Files
 ## Entities Mentioned
 
 ## Related Concepts
-- [[api]]
-- [[algorithm]]
-- [[ai]]
+- [api](concepts/api.md)
+- [algorithm](concepts/algorithm.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > however zip files were essential i came

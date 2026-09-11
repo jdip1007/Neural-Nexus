@@ -37,6 +37,6 @@ backlinks: []
 
 ## Related Pages
 
-- [[insurtech]]
-- [[savings-insurance]]
-- [[annuities]]
+- [insurtech](concepts/insurtech.md)
+- [savings-insurance](concepts/savings-insurance.md)
+- [annuities](concepts/annuities.md)

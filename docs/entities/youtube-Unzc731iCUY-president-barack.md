@@ -21,7 +21,7 @@ President Barack is mentioned in the YouTube video "How to Speak".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Unzc731iCUY-summary|Video Summary]]
+- [Video Summary](readings/youtube-Unzc731iCUY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Unzc731iCUY-transcript.md] Video mention at timestamp

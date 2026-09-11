@@ -36,8 +36,8 @@ hid his money once he had made it
 - **Persons**: Brian Blake, Stratton Securities, New York
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > Yeah that’s right, they earned significant 

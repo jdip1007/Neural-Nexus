@@ -21,7 +21,7 @@ Edward Owen is mentioned in the YouTube video "When Loved YouTubers Are Exposed 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-F2QTFnxWvuw-summary|Video Summary]]
+- [Video Summary](readings/youtube-F2QTFnxWvuw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-F2QTFnxWvuw-transcript.md] Video mention at timestamp

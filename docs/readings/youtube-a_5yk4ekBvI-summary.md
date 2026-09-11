@@ -31,7 +31,7 @@ This video discusses The Worst Content Thieves on YouTube
 - **Persons**: Brent Rivera, Andrew Lexi, Rose Jack
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > mainly focused on Call of Duty gameplay

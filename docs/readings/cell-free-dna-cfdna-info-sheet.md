@@ -130,5 +130,5 @@ cfDNA enables revolutionary diagnostic approaches:
 
 ## Related Pages
 
-- [[molecular-biology]]
-- [[genomics]]
+- [molecular-biology](concepts/molecular-biology.md)
+- [genomics](concepts/genomics.md)

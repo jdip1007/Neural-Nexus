@@ -25,7 +25,7 @@ This video discusses Discurso de la Flota Estelar de la Almirante Isabel II
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > remain united and resolute then we will

@@ -21,7 +21,7 @@ Barnacles Barnacles is mentioned in the YouTube video "How Restoration Videos Ar
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-W9mF-NOHatI-summary|Video Summary]]
+- [Video Summary](readings/youtube-W9mF-NOHatI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-W9mF-NOHatI-transcript.md] Video mention at timestamp

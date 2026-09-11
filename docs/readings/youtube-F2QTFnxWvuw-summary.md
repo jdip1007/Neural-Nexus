@@ -31,7 +31,7 @@ This video discusses When Loved YouTubers Are Exposed As Predators
 - **Persons**: Edward Owen, Public Image, Tom Willard
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > importantly Wilbur had a habit of biting

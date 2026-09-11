@@ -21,7 +21,7 @@ Cancer Institute is mentioned in the YouTube video "This Is What Happens To Your
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-D8gygc4boZA-summary|Video Summary]]
+- [Video Summary](readings/youtube-D8gygc4boZA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-D8gygc4boZA-transcript.md] Video mention at timestamp

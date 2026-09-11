@@ -33,6 +33,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[entities/geoffrey-west]]
-- [[entities/steven-strogatz]]
-- [[entities/van-savage]]
+- [entities/geoffrey-west](entities/geoffrey-west.md)
+- [entities/steven-strogatz](entities/steven-strogatz.md)
+- [entities/van-savage](entities/van-savage.md)

@@ -43,6 +43,6 @@ EF emerges in infancy, develops rapidly through childhood and adolescence, and p
 
 ## Related Pages
 
-- [[concepts/adhd]]
-- [[concepts/neuropsychopathological-factor]]
-- [[concepts/prefrontal-cortex-development]]
+- [concepts/adhd](concepts/adhd.md)
+- [concepts/neuropsychopathological-factor](concepts/neuropsychopathological-factor.md)
+- [concepts/prefrontal-cortex-development](concepts/prefrontal-cortex-development.md)

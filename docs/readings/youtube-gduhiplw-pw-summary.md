@@ -28,8 +28,8 @@ This video discusses Chciałem przebiec MARATON W 30 DNI (BEZ WCZEŚNIEJSZEGO DO
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 

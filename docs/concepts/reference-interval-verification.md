@@ -35,6 +35,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[concepts/bioinformatics-validation]]
-- [[concepts/calibration-verification]]
-- [[concepts/clinical-utility]]
+- [concepts/bioinformatics-validation](concepts/bioinformatics-validation.md)
+- [concepts/calibration-verification](concepts/calibration-verification.md)
+- [concepts/clinical-utility](concepts/clinical-utility.md)

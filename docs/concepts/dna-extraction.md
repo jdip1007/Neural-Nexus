@@ -118,6 +118,6 @@ Modern DNA extraction has evolved significantly:
 
 ## Related Pages
 
-- [[sample-preparation]]
-- [[molecular-biology]]
-- [[genomics]]
+- [sample-preparation](concepts/sample-preparation.md)
+- [molecular-biology](concepts/molecular-biology.md)
+- [genomics](concepts/genomics.md)

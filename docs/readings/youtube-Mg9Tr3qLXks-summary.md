@@ -34,8 +34,8 @@ This video discusses How Trauma Splits A Soul (Dissociative Identity Disorder)
 - **Persons**: William James, Thomas Nagel, Religious Experience
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > is a key theme that is also found in

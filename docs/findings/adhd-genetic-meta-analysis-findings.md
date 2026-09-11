@@ -170,7 +170,7 @@ This landmark meta-analysis significantly advances ADHD genetics by:
 The findings provide a solid foundation for future research and may eventually contribute to improved diagnosis, treatment, and prevention strategies for ADHD. The continuum model validation and novel gene discoveries particularly advance our understanding of ADHD as a neurodevelopmental disorder with complex genetic architecture.
 
 ## Related Findings
-- [[shared-neural-basis-psychiatric-comorbidity]] - Comorbidity patterns in psychiatric disorders
-- [[heritability]] - Genetic inheritance patterns in complex traits
+- [shared-neural-basis-psychiatric-comorbidity](raw/articles/shared-neural-basis-psychiatric-comorbidity.md) - Comorbidity patterns in psychiatric disorders
+- [heritability](concepts/heritability.md) - Genetic inheritance patterns in complex traits
 - [[neuropsychopathology]] - Brain basis of psychiatric disorders
-- [[executive-function]] - Cognitive domains affected by ADHD
+- [executive-function](concepts/executive-function.md) - Cognitive domains affected by ADHD

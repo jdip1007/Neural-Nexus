@@ -38,8 +38,8 @@ exquisite status
 - **Persons**: North Korea, Holy Bible, Korean War
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > of the elites who are born into high status.

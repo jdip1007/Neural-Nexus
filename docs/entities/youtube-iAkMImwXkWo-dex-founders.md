@@ -21,7 +21,7 @@ Dex Founders is mentioned in the YouTube video "From Core Memory to the Internet
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-iAkMImwXkWo-summary|Video Summary]]
+- [Video Summary](readings/youtube-iAkMImwXkWo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-iAkMImwXkWo-transcript.md] Video mention at timestamp

@@ -34,11 +34,11 @@ This video discusses Declassified FBI Secrets You’re Not Supposed To Know
 - **Persons**: Mafia Twang, The Negotiator, Life Behind
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 - [[llm]]
-- [[cloud]]
-- [[container]]
-- [[api]]
+- [cloud](concepts/cloud.md)
+- [container](concepts/container.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > rare for someone to play a key role in

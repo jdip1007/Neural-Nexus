@@ -33,10 +33,10 @@ This video discusses "Dude I'm Broke" Why Is My Data Worth Harvesting?
 - **Persons**: Wall Street, Sam Altman, My Radar
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
+- [ai](concepts/ai.md)
+- [algorithm](concepts/algorithm.md)
 - [[database]]
-- [[api]]
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > a whole category that was essentially

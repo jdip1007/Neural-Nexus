@@ -21,7 +21,7 @@ Comet Interceptor is mentioned in the YouTube video "What's Directly Above And B
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-GCkAsesSzw4-summary|Video Summary]]
+- [Video Summary](readings/youtube-GCkAsesSzw4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-GCkAsesSzw4-transcript.md] Video mention at timestamp

@@ -191,8 +191,8 @@ Cites academic research to support analysis:
 
 ## Related
 
-- [[capital-deepening-trap]] - Roach's key analytical contribution
-- [[china-vs-japan-economic-comparison]] - Comparative analysis
+- [capital-deepening-trap](concepts/capital-deepening-trap.md) - Roach's key analytical contribution
+- [china-vs-japan-economic-comparison](comparisons/china-vs-japan-economic-comparison.md) - Comparative analysis
 - [[chinese-economic-model]] - Roach's critique of production-led growth
 - [[consumer-led-rebalancing]] - Solution Roach advocates (which China resists)
 - [[xi-jinping-economic-policies]] - Policies Roach criticizes

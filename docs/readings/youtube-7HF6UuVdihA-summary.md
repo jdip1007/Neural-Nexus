@@ -42,9 +42,9 @@ nebulous protectionist posture against China… They chose the latter
 
 ## Related Concepts
 - [[framework]]
-- [[api]]
-- [[ai]]
-- [[architecture]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
+- [architecture](concepts/architecture.md)
 
 ## Transcript Highlights
 > to pay significantly more than that.

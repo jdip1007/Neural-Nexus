@@ -230,6 +230,6 @@ This concept page is based on limited video content (title, description, referen
 
 ## Related Pages
 
-- [[readings/prion-disease-colleague-story]]
-- [[concepts/amyloid-beta]]
-- [[concepts/apoe]]
+- [readings/prion-disease-colleague-story](readings/prion-disease-colleague-story.md)
+- [concepts/amyloid-beta](concepts/amyloid-beta.md)
+- [concepts/apoe](concepts/apoe.md)

@@ -164,5 +164,5 @@ Sample preparation is crucial because:
 
 ## Related Pages
 
-- [[environmental-monitoring]]
-- [[molecular-biology]]
+- [environmental-monitoring](concepts/environmental-monitoring.md)
+- [molecular-biology](concepts/molecular-biology.md)

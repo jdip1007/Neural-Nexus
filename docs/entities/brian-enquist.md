@@ -127,6 +127,6 @@ This entity page is based primarily on Brian Enquist's contribution to the Verit
 
 ## Related Pages
 
-- [[lifespan]]
-- [[metabolic-scaling]]
-- [[scaling-laws]]
+- [lifespan](concepts/lifespan.md)
+- [metabolic-scaling](concepts/metabolic-scaling.md)
+- [scaling-laws](concepts/scaling-laws.md)

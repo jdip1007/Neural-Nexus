@@ -21,7 +21,7 @@ With Darius is mentioned in the YouTube video "Why Alexander The Great Is The Si
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-a2a4oR0ZUYE-summary|Video Summary]]
+- [Video Summary](readings/youtube-a2a4oR0ZUYE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-a2a4oR0ZUYE-transcript.md] Video mention at timestamp

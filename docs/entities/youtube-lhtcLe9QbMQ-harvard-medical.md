@@ -21,7 +21,7 @@ Harvard Medical is mentioned in the YouTube video "Why I Specialize In Video Gam
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-lhtcLe9QbMQ-summary|Video Summary]]
+- [Video Summary](readings/youtube-lhtcLe9QbMQ-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-lhtcLe9QbMQ-transcript.md] Video mention at timestamp

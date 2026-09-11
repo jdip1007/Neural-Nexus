@@ -21,7 +21,7 @@ Life Behind is mentioned in the YouTube video "Declassified FBI Secrets You’re
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-L9U-81fvZbA-summary|Video Summary]]
+- [Video Summary](readings/youtube-L9U-81fvZbA-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-L9U-81fvZbA-transcript.md] Video mention at timestamp

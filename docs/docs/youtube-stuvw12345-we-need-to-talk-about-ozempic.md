@@ -24,7 +24,7 @@ updated: '2026-09-02'
 
 ## Key Topics
 
-- [[mental-health]]
+- [mental-health](concepts/mental-health.md)
 - [[wellbeing]]
 - [[personal-development]]
 
@@ -42,7 +42,7 @@ This video explores various aspects of mental health, personal development, and 
 
 - [[Dr. K]]
 - [[healthygamergg]]
-- [[mental-health]]
+- [mental-health](concepts/mental-health.md)
 
 ## Key Insights
 
@@ -56,7 +56,7 @@ The video "We Need To Talk About Ozempic" provides a comprehensive look at vario
 
 ## Related Content
 
-[[healthygamergg]] | [[mental-health]] | [[wellbeing]] | [[personal-development]]
+[[healthygamergg]] | [mental-health](concepts/mental-health.md) | [[wellbeing]] | [[personal-development]]
 
 ## Transcript
 

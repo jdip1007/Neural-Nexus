@@ -36,8 +36,8 @@ is in the land of internet spaceships
 - **Persons**: Casino Wars, How Money, Online Casino
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > will then fund a military program to maintain or 

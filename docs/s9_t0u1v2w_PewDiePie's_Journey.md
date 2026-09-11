@@ -44,7 +44,7 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 ## Key Themes
 
 - [[Creativity]]
-- [[Technology]]
+- [Technology](concepts/technology.md)
 - [[Gaming]]
 
 ## External Links

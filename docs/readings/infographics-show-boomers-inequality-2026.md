@@ -140,6 +140,6 @@ The video references sources available at: https://pastebin.com/KG6ZNMz
 
 ## Related Pages
 
-- [[concepts/asset-inflation]]
-- [[concepts/cash-buyer-cartel]]
-- [[concepts/economic-inequality]]
+- [concepts/asset-inflation](concepts/asset-inflation.md)
+- [concepts/cash-buyer-cartel](concepts/cash-buyer-cartel.md)
+- [concepts/economic-inequality](concepts/economic-inequality.md)

@@ -21,7 +21,7 @@ Deep Seek is mentioned in the YouTube video "AI DEBATE: “Most People Have No I
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-mSjaMyP5QjY-summary|Video Summary]]
+- [Video Summary](readings/youtube-mSjaMyP5QjY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-mSjaMyP5QjY-transcript.md] Video mention at timestamp

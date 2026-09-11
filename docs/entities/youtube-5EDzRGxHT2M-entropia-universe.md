@@ -21,7 +21,7 @@ Entropia Universe is mentioned in the YouTube video "How To Make Your Own Curren
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-5EDzRGxHT2M-summary|Video Summary]]
+- [Video Summary](readings/youtube-5EDzRGxHT2M-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-5EDzRGxHT2M-transcript.md] Video mention at timestamp

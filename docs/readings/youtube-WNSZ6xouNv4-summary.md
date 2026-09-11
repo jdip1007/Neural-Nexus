@@ -30,7 +30,7 @@ This video discusses Get Addicted to Improving Your Life - David Goggins
 - **Persons**: Hurt Me, Used To, And That
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > main purpose in life is you so if you

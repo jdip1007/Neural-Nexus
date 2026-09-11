@@ -19,13 +19,13 @@ reviewed: 2026-08-25
 
 ## Executive Summary
 
-This Perspective presents a unified framework linking chronic metabolic overload from obesity to progressive neurodegeneration through disruption of the [[neurovascular-unit]] (NVU). The authors argue that obesity is not merely a correlation with neurological disorders but drives neurodegeneration through systematic reprogramming of neural, metabolic, and vascular systems. Key mechanisms include:
+This Perspective presents a unified framework linking chronic metabolic overload from obesity to progressive neurodegeneration through disruption of the [neurovascular-unit](concepts/neurovascular-unit.md) (NVU). The authors argue that obesity is not merely a correlation with neurological disorders but drives neurodegeneration through systematic reprogramming of neural, metabolic, and vascular systems. Key mechanisms include:
 
-1. Disruption of [[neurovascular-coupling]] (NVC)
-2. Compromise of [[blood-brain-barrier]] integrity
-3. Alteration of [[glymphatic]] clearance and cerebrospinal fluid dynamics
-4. Impairment of [[myelin]] formation and adaptive myelination
-5. Induction of chronic [[inflammation]], particularly in the [[hypothalamus]]
+1. Disruption of [neurovascular-coupling](concepts/neurovascular-coupling.md) (NVC)
+2. Compromise of [blood-brain-barrier](concepts/blood-brain-barrier.md) integrity
+3. Alteration of [glymphatic](concepts/glymphatic.md) clearance and cerebrospinal fluid dynamics
+4. Impairment of [myelin](concepts/myelin.md) formation and adaptive myelination
+5. Induction of chronic [inflammation](concepts/inflammation.md), particularly in the [hypothalamus](concepts/hypothalamus.md)
 
 The paper proposes a "convergent-cascade model" where visceral adiposity creates a fragile neuro-glial-vascular ecosystem that progressively fails under chronic metabolic stress, creating region-specific vulnerabilities that manifest as neurodegenerative diseases.
 
@@ -40,7 +40,7 @@ Traditional neuron-centric models of brain function are insufficient for underst
 - **Vasculature:** Blood vessels regulating blood flow and nutrient delivery
 - **Immune cells:** Resident and peripheral immune cells monitoring and responding to threats
 
-This [[neurovascular-unit]] maintains homeostasis through:
+This [neurovascular-unit](concepts/neurovascular-unit.md) maintains homeostasis through:
 
 - **Neurovascular coupling (NVC):** Active neurons signal nearby blood vessels to increase local cerebral blood flow (functional hyperaemia)
 - **Vascular remodelling:** Neuronal activity drives structural changes in blood vessels
@@ -162,21 +162,21 @@ The authors highlight technological advances enabling this integrated understand
 
 ## Related Concepts
 
-- [[neurovascular-unit]]: Integrated brain system disrupted by obesity
-- [[neurovascular-coupling]]: Impaired blood flow response to neural activity
-- [[blood-brain-barrier]]: Compromised by inflammatory signals from visceral fat
-- [[glymphatic]]: Waste clearance system impaired by obesity
-- [[myelin]]: Adaptive myelination disrupted by metabolic overload
-- [[inflammation]]: Chronic systemic and CNS inflammation drives degeneration
-- [[hypothalamus]]: Energy regulation center undergoes gliosis in obesity
+- [neurovascular-unit](concepts/neurovascular-unit.md): Integrated brain system disrupted by obesity
+- [neurovascular-coupling](concepts/neurovascular-coupling.md): Impaired blood flow response to neural activity
+- [blood-brain-barrier](concepts/blood-brain-barrier.md): Compromised by inflammatory signals from visceral fat
+- [glymphatic](concepts/glymphatic.md): Waste clearance system impaired by obesity
+- [myelin](concepts/myelin.md): Adaptive myelination disrupted by metabolic overload
+- [inflammation](concepts/inflammation.md): Chronic systemic and CNS inflammation drives degeneration
+- [hypothalamus](concepts/hypothalamus.md): Energy regulation center undergoes gliosis in obesity
 
 ## Graph Impact
 
 This reading connects:
-- [[metabolic-disorder]] to [[neurodegenerative-disease]]
+- [metabolic-disorder](concepts/metabolic-disorder.md) to [neurodegenerative-disease](concepts/neurodegenerative-disease.md)
 - [[visceral-adiposity]] to [[cognitive-decline]]
-- [[blood-brain-barrier]] to [[neuroinflammation]]
-- [[glymphatic]] to [[waste-clearance]]
+- [blood-brain-barrier](concepts/blood-brain-barrier.md) to [neuroinflammation](concepts/neuroinflammation.md)
+- [glymphatic](concepts/glymphatic.md) to [[waste-clearance]]
 
 ## Notes
 

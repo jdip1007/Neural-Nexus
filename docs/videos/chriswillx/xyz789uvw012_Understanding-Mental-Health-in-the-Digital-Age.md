@@ -72,8 +72,8 @@ The conversation emphasizes the importance of mindful technology use and setting
 
 ## Related Pages
 
-[[technology]]
-[[psychology]]
+[technology](concepts/technology.md)
+[psychology](concepts/psychology.md)
 [[health]]
 
 ## Citations

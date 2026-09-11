@@ -14,7 +14,7 @@ reviewed: 2026-08-26
 
 # Hypothalamus
 
-The hypothalamus is a small but crucial region of the brain located below the thalamus, forming the ventral part of the diencephalon. It serves as the primary regulator of homeostasis, controlling energy balance, temperature, thirst, sleep, circadian rhythms, and endocrine function. The hypothalamus is particularly vulnerable to metabolic overload and is a key site where obesity-induced [[inflammation]] disrupts energy homeostasis.
+The hypothalamus is a small but crucial region of the brain located below the thalamus, forming the ventral part of the diencephalon. It serves as the primary regulator of homeostasis, controlling energy balance, temperature, thirst, sleep, circadian rhythms, and endocrine function. The hypothalamus is particularly vulnerable to metabolic overload and is a key site where obesity-induced [inflammation](concepts/inflammation.md) disrupts energy homeostasis.
 
 ## Anatomy
 
@@ -284,12 +284,12 @@ The hypothalamus is a small but crucial region of the brain located below the th
 
 ## Related Concepts
 
-- [[neurovascular-unit]]: Hypothalamus is part of NVU
-- [[neurovascular-coupling]]: NVC supports hypothalamic function
-- [[blood-brain-barrier]]: BBB permeability varies in hypothalamus
-- [[inflammation]]: Hypothalamic inflammation disrupts homeostasis
-- [[neuroinflammation]]: Glial activation in hypothalamus
-- [[metabolic-disorder]]: Hypothalamic dysfunction contributes to metabolic disease
+- [neurovascular-unit](concepts/neurovascular-unit.md): Hypothalamus is part of NVU
+- [neurovascular-coupling](concepts/neurovascular-coupling.md): NVC supports hypothalamic function
+- [blood-brain-barrier](concepts/blood-brain-barrier.md): BBB permeability varies in hypothalamus
+- [inflammation](concepts/inflammation.md): Hypothalamic inflammation disrupts homeostasis
+- [neuroinflammation](concepts/neuroinflammation.md): Glial activation in hypothalamus
+- [metabolic-disorder](concepts/metabolic-disorder.md): Hypothalamic dysfunction contributes to metabolic disease
 - [[leptin-resistance]]: Consequence of hypothalamic inflammation
 
 ## Graph Impact

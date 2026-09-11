@@ -21,7 +21,7 @@ South Korea is mentioned in the YouTube video "Why you should stop worrying abou
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-IabDOXf7Acs-summary|Video Summary]]
+- [Video Summary](readings/youtube-IabDOXf7Acs-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-IabDOXf7Acs-transcript.md] Video mention at timestamp

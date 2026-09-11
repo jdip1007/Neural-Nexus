@@ -41,7 +41,7 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore Robot
 
 ## Related Resources
 
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ---
 
@@ -50,7 +50,7 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore Robot
 
 ## Related Resources
 
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ---
 

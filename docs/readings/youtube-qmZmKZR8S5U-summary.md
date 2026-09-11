@@ -30,8 +30,8 @@ This video discusses How Long Can The Stock Market Ignore Reality?
 - **Persons**: John Hussman, Only Nvidia, Patrick Boyle
 
 ## Related Concepts
-- [[ai]]
-- [[cloud]]
+- [ai](concepts/ai.md)
+- [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
 > 2000s. Both saw a significant market

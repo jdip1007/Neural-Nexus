@@ -24,7 +24,7 @@ This insight was discovered in the YouTube video "The Truth Behind Video Games &
 The finding suggests important implications for understanding the topic.
 
 ## Related Pages
-- [[youtube-hp4i09wbshU-summary|Video Summary]]
+- [Video Summary](readings/youtube-hp4i09wbshU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-hp4i09wbshU-transcript.md] Video transcript analysis

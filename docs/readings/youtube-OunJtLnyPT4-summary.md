@@ -33,10 +33,10 @@ This video discusses The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Ri
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 - [[database]]
-- [[cloud]]
-- [[api]]
+- [cloud](concepts/cloud.md)
+- [api](concepts/api.md)
 - [[large-language-model]]
 
 ## Transcript Highlights

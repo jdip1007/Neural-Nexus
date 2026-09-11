@@ -232,6 +232,6 @@ Humans have longer lifespans than predicted:
 
 ## Related Pages
 
-- [[lifespan]]
-- [[scaling-laws]]
-- [[max-kleiber]]
+- [lifespan](concepts/lifespan.md)
+- [scaling-laws](concepts/scaling-laws.md)
+- [max-kleiber](entities/max-kleiber.md)

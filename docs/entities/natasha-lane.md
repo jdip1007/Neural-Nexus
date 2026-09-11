@@ -51,5 +51,5 @@ Natasha Lane's research centers on:
 
 ## Related Pages
 
-- [[bpsd]]
-- [[psychology]]
+- [bpsd](concepts/bpsd.md)
+- [psychology](concepts/psychology.md)

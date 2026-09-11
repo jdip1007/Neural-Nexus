@@ -31,11 +31,11 @@ This video discusses The "Do Anything" Chip: FPGA
 - **Persons**: Raspberry Pi, Digital Signal, Open Source
 
 ## Related Concepts
-- [[api]]
-- [[cloud]]
+- [api](concepts/api.md)
+- [cloud](concepts/cloud.md)
 - [[neural-network]]
 - [[machine-learning]]
-- [[algorithm]]
+- [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
 > of the main benefits of using an fpga is

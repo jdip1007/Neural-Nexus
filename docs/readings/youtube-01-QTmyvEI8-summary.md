@@ -30,7 +30,7 @@ This video discusses The Satisfying Downfall of OnlyJayus
 - **Persons**: Forbes Netflix, Pro Max, Best Buy
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > main categories the first of which is

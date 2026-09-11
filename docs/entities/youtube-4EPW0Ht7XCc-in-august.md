@@ -21,7 +21,7 @@ In August is mentioned in the YouTube video "WTF is Happening with South Korean 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-4EPW0Ht7XCc-summary|Video Summary]]
+- [Video Summary](readings/youtube-4EPW0Ht7XCc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-4EPW0Ht7XCc-transcript.md] Video mention at timestamp

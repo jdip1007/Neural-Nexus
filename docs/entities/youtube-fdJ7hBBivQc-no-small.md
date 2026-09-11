@@ -21,7 +21,7 @@ No Small is mentioned in the YouTube video "Video 11: An Introduction".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-fdJ7hBBivQc-summary|Video Summary]]
+- [Video Summary](readings/youtube-fdJ7hBBivQc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-fdJ7hBBivQc-transcript.md] Video mention at timestamp

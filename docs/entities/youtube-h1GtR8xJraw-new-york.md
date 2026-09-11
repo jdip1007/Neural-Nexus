@@ -21,7 +21,7 @@ New York is mentioned in the YouTube video "Video 14: Using a Smartphone".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-h1GtR8xJraw-summary|Video Summary]]
+- [Video Summary](readings/youtube-h1GtR8xJraw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-h1GtR8xJraw-transcript.md] Video mention at timestamp

@@ -21,7 +21,7 @@ Lady Brahman is mentioned in the YouTube video "Flirting Kinda Sucks, Actually."
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-nFY50H8nb5E-summary|Video Summary]]
+- [Video Summary](readings/youtube-nFY50H8nb5E-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-nFY50H8nb5E-transcript.md] Video mention at timestamp

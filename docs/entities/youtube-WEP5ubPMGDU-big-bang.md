@@ -21,7 +21,7 @@ Big Bang is mentioned in the YouTube video "How to Find the Meaning You’ve Bee
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-WEP5ubPMGDU-summary|Video Summary]]
+- [Video Summary](readings/youtube-WEP5ubPMGDU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-WEP5ubPMGDU-transcript.md] Video mention at timestamp

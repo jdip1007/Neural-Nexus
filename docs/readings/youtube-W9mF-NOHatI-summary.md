@@ -30,8 +30,8 @@ This video discusses How Restoration Videos Are Faked
 - **Persons**: New England, Barnacles Barnacles, Turtle Man
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > mainly due to the fact that they are

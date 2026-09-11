@@ -25,7 +25,7 @@ This video discusses The Problem With Weed…
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > at some point you cross this critical

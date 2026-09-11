@@ -30,7 +30,7 @@ This video discusses Shark Tank is Worse Than You Thought
 - **Persons**: While Kevin, Richard Branson, Best Buy
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > his pitch on the show. More importantly,

@@ -44,8 +44,8 @@ with the status of the European luxury brands
 - **Persons**: Tesla Model, Lending Tree, Rodeium Group
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > it's important to understand what is actually 

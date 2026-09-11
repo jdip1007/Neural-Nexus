@@ -30,7 +30,7 @@ This video discusses The Horrors of Unit 731
 - **Persons**: Testing Weapons, Japanese Army, The Cold
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

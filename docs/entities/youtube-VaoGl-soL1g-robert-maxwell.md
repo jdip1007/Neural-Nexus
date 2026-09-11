@@ -21,7 +21,7 @@ Robert Maxwell is mentioned in the YouTube video "The Epstein Story You Haven’
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-VaoGl-soL1g-summary|Video Summary]]
+- [Video Summary](readings/youtube-VaoGl-soL1g-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-VaoGl-soL1g-transcript.md] Video mention at timestamp

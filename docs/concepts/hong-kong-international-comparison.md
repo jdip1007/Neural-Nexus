@@ -502,6 +502,6 @@ reviewed: 2026-08-07
 
 ## Related Pages
 
-- [[concepts/family-role-medical-decisions]]
-- [[concepts/advance-medical-directives]]
-- [[concepts/hong-kong-medical-case-studies]]
+- [concepts/family-role-medical-decisions](concepts/family-role-medical-decisions.md)
+- [concepts/advance-medical-directives](concepts/advance-medical-directives.md)
+- [concepts/hong-kong-medical-case-studies](concepts/hong-kong-medical-case-studies.md)

@@ -21,7 +21,7 @@ Eleanor Watson is mentioned in the YouTube video "16 Most Disturbing Videos From
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-6dPNiN5nf0E-summary|Video Summary]]
+- [Video Summary](readings/youtube-6dPNiN5nf0E-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-6dPNiN5nf0E-transcript.md] Video mention at timestamp

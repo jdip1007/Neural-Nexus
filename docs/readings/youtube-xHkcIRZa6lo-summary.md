@@ -34,7 +34,7 @@ This video discusses Why You Should NEVER Confess Your Love
 - **Persons**: What Robin, Is Alice, Does Alice
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > became the most important variable about

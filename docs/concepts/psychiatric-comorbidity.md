@@ -84,6 +84,6 @@ This chain explains *why* comorbidity is so common: one neural vulnerability →
 
 ## Related Pages
 
-- [[executive-function]]
-- [[psychology]]
-- [[adhd]]
+- [executive-function](concepts/executive-function.md)
+- [psychology](concepts/psychology.md)
+- [adhd](concepts/adhd.md)

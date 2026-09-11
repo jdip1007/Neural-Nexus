@@ -21,7 +21,7 @@ Compounded Daily is mentioned in the YouTube video "Can We Afford For Everybody 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-pATAV2Fehw8-summary|Video Summary]]
+- [Video Summary](readings/youtube-pATAV2Fehw8-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-pATAV2Fehw8-transcript.md] Video mention at timestamp

@@ -21,7 +21,7 @@ The Click is mentioned in the YouTube video "YouTubers Who Destroyed Their Caree
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-heAA4ltXZ_4-summary|Video Summary]]
+- [Video Summary](readings/youtube-heAA4ltXZ_4-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-heAA4ltXZ_4-transcript.md] Video mention at timestamp

@@ -41,6 +41,6 @@ Molecular tests often require specialized validation including:
 
 ## Related Pages
 
-- [[concepts/bioinformatics-validation]]
-- [[concepts/ngs-validation]]
-- [[concepts/clinical-utility]]
+- [concepts/bioinformatics-validation](concepts/bioinformatics-validation.md)
+- [concepts/ngs-validation](concepts/ngs-validation.md)
+- [concepts/clinical-utility](concepts/clinical-utility.md)

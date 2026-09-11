@@ -21,7 +21,7 @@ So So is mentioned in the YouTube video "Why Smart People Are Bad At Dating".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-RhelaTtcmEo-summary|Video Summary]]
+- [Video Summary](readings/youtube-RhelaTtcmEo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-RhelaTtcmEo-transcript.md] Video mention at timestamp

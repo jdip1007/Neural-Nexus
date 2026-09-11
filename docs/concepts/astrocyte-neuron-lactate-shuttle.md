@@ -93,6 +93,6 @@ Findings from Takahashi, Ikoma & Matsui (2026) suggest the ANLS efficiency varie
 
 ## Related Pages
 
-- [[rem-sleep]]
-- [[nrem-sleep]]
-- [[theta-band-activity]]
+- [rem-sleep](concepts/rem-sleep.md)
+- [nrem-sleep](concepts/nrem-sleep.md)
+- [theta-band-activity](concepts/theta-band-activity.md)

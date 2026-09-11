@@ -25,7 +25,7 @@ This video discusses How Intelligence Leads To Avoidance | Episode 003 Video Gam
 - **Persons**: Harvard Medical
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

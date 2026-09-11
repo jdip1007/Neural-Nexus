@@ -78,9 +78,9 @@ Based on the video title, this content likely covers:
 ### Related Concepts
 - [[mental_health]]
 - [[therapy]]
-- [[psychology]]
+- [psychology](concepts/psychology.md)
 - [[self_improvement]]
-- [[relationships]]
+- [relationships](concepts/relationships.md)
 
 
 ## External References

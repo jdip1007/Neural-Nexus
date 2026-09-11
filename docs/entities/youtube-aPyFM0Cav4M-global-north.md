@@ -21,7 +21,7 @@ Global North is mentioned in the YouTube video "Why Gen Z DON'T WANT Kids".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-aPyFM0Cav4M-summary|Video Summary]]
+- [Video Summary](readings/youtube-aPyFM0Cav4M-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-aPyFM0Cav4M-transcript.md] Video mention at timestamp

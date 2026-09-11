@@ -21,7 +21,7 @@ Harvard Medical is mentioned in the YouTube video "How Intelligence Leads To Avo
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Hq32ZIz1EBE-summary|Video Summary]]
+- [Video Summary](readings/youtube-Hq32ZIz1EBE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Hq32ZIz1EBE-transcript.md] Video mention at timestamp

@@ -21,7 +21,7 @@ Blue Crew is mentioned in the YouTube video "Mind-Blowing Demo of Sticker Remove
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-wjIy2PJ8y-Q-summary|Video Summary]]
+- [Video Summary](readings/youtube-wjIy2PJ8y-Q-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-wjIy2PJ8y-Q-transcript.md] Video mention at timestamp

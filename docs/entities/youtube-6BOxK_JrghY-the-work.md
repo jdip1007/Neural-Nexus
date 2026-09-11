@@ -21,7 +21,7 @@ The Work is mentioned in the YouTube video ""Dude I'm Broke" Why Is My Data Wort
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-6BOxK_JrghY-summary|Video Summary]]
+- [Video Summary](readings/youtube-6BOxK_JrghY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-6BOxK_JrghY-transcript.md] Video mention at timestamp

@@ -44,6 +44,6 @@ A key principle is separating insurance from investment. Savings insurance combi
 
 ## Related Pages
 
-- [[concepts/emergency-fund]]
-- [[concepts/opportunity-cost]]
-- [[concepts/annuities]]
+- [concepts/emergency-fund](concepts/emergency-fund.md)
+- [concepts/opportunity-cost](concepts/opportunity-cost.md)
+- [concepts/annuities](concepts/annuities.md)

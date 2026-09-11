@@ -43,7 +43,7 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore Task 
 ## Related Resources
 
 - [[microsoft]]
-- [[hardware]]
+- [hardware](concepts/hardware.md)
 
 ---
 
@@ -53,7 +53,7 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore Task 
 ## Related Resources
 
 - [[microsoft]]
-- [[hardware]]
+- [hardware](concepts/hardware.md)
 
 ---
 

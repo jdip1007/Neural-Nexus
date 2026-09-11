@@ -34,8 +34,8 @@ This video discusses Hidden Code: How Slot Machines Actually Work - The Computer
 - **Persons**: Shop Talk, In Nevada, Recent Nevada
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
+- [algorithm](concepts/algorithm.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > future plays waiting for you. The key is

@@ -21,7 +21,7 @@ The Philippine is mentioned in the YouTube video "The 7 Levels of YouTube Downfa
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-p0O5QvYgZFM-summary|Video Summary]]
+- [Video Summary](readings/youtube-p0O5QvYgZFM-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-p0O5QvYgZFM-transcript.md] Video mention at timestamp

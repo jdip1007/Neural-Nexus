@@ -45,9 +45,9 @@ Analysis of The 13 Seconds That Exposed Hank Green covering key aspects of inter
 
 ## Related Pages
 
-- [[internet-culture]] - General overview of internet culture concepts
-- [[youtube-creator]] - Analysis of YouTube creator dynamics
-- [[social-media]] - Broader social media analysis framework
+- [internet-culture](internet-culture.md) - General overview of internet culture concepts
+- [youtube-creator](youtube-creator.md) - Analysis of YouTube creator dynamics
+- [social-media](social-media.md) - Broader social media analysis framework
 
 ## Sources
 

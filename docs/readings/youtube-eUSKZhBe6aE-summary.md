@@ -30,7 +30,7 @@ This video discusses How To Get On Love Island | The Application Guide
 - **Persons**: The Producers, Island Villa, Express Yourself
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > split down into three main sections the

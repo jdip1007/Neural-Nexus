@@ -32,7 +32,7 @@ on the policy
 - **Persons**: Passive Income, The Infographic, If Jim
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > will be the main man to agree to any claims

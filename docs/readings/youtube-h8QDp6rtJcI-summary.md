@@ -34,7 +34,7 @@ This video discusses What Happened To Nikocado Avocado?
 - **Persons**: Nick Perry, Stephanie Sue, But Stephanie
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > it's important cause, but when it

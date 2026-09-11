@@ -33,7 +33,7 @@ This video discusses The 7 Levels of YouTube Downfall
 - **Persons**: Jeffree Star, The Philippine, Facebook Marketplace
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > the transparency, others remained

@@ -52,5 +52,5 @@ Under CLIA, laboratories must establish and follow written QC procedures for eac
 
 ## Related Pages
 
-- [[performance-characteristics]]
-- [[regulatory-compliance]]
+- [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)
+- [regulatory-compliance](concepts/regulatory-compliance.md)

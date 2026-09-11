@@ -273,6 +273,6 @@ Comprehensive review integrating ADHD's neurobiological underpinnings with conte
 
 ## Related Pages
 
-- [[psychology]]
-- [[adhd]]
-- [[stephen-p-hinshaw]]
+- [psychology](concepts/psychology.md)
+- [adhd](concepts/adhd.md)
+- [stephen-p-hinshaw](entities/stephen-p-hinshaw.md)

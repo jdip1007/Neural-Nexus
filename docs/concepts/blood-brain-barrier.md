@@ -13,7 +13,7 @@ reviewed: 2026-08-25
 
 # Blood-brain barrier
 
-The [[blood-brain-barrier]] (BBB) is a specialized structural and functional barrier that regulates the passage of substances between the circulating blood and the brain parenchyma. It is a critical component of the [[neurovascular-unit]], maintaining the tightly controlled microenvironment necessary for normal neuronal function.
+The [blood-brain-barrier](concepts/blood-brain-barrier.md) (BBB) is a specialized structural and functional barrier that regulates the passage of substances between the circulating blood and the brain parenchyma. It is a critical component of the [neurovascular-unit](concepts/neurovascular-unit.md), maintaining the tightly controlled microenvironment necessary for normal neuronal function.
 
 ## Structure
 
@@ -50,7 +50,7 @@ The [[blood-brain-barrier]] (BBB) is a specialized structural and functional bar
 - Surround cerebral vessels
 - Release factors that induce and maintain BBB properties
 - Participate in nutrient transport and waste clearance
-- Form part of the [[glymphatic]] system
+- Form part of the [glymphatic](concepts/glymphatic.md) system
 
 ## Functions
 
@@ -224,19 +224,19 @@ BBB breakdown is a early and progressive event in:
 
 ## Related Concepts
 
-- [[neurovascular-unit]]: BBB is a component of the NVU
-- [[neurovascular-coupling]]: NVC depends on BBB function
-- [[glymphatic]]: Glymphatic system interacts with BBB
-- [[inflammation]]: Inflammation damages BBB, BBB dysfunction causes inflammation
-- [[metabolic-disorder]]: Metabolic overload disrupts BBB
-- [[neurodegenerative-disease]]: BBB breakdown contributes to neurodegeneration
+- [neurovascular-unit](concepts/neurovascular-unit.md): BBB is a component of the NVU
+- [neurovascular-coupling](concepts/neurovascular-coupling.md): NVC depends on BBB function
+- [glymphatic](concepts/glymphatic.md): Glymphatic system interacts with BBB
+- [inflammation](concepts/inflammation.md): Inflammation damages BBB, BBB dysfunction causes inflammation
+- [metabolic-disorder](concepts/metabolic-disorder.md): Metabolic overload disrupts BBB
+- [neurodegenerative-disease](concepts/neurodegenerative-disease.md): BBB breakdown contributes to neurodegeneration
 
 ## Graph Impact
 
 This concept connects:
 - [[vascular]] to [[neuron]]
 - [[peripheral-immune]] to [[central-immune]]
-- [[obesity]] to [[neuroinflammation]]
+- [[obesity]] to [neuroinflammation](concepts/neuroinflammation.md)
 - [[drug-delivery]] to [[brain-treatment]]
 
 ## Notes

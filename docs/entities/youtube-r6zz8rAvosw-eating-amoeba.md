@@ -21,7 +21,7 @@ Eating Amoeba is mentioned in the YouTube video "Most Painful Parasites That Inf
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-r6zz8rAvosw-summary|Video Summary]]
+- [Video Summary](readings/youtube-r6zz8rAvosw-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-r6zz8rAvosw-transcript.md] Video mention at timestamp

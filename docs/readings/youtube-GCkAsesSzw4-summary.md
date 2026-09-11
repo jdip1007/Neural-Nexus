@@ -34,10 +34,10 @@ enough Delta-V through conventional propulsion, this becomes our only remaining 
 - **Persons**: Vera Rubin, Professor Merav, Comet Interceptor
 
 ## Related Concepts
-- [[algorithm]]
-- [[api]]
-- [[architecture]]
-- [[ai]]
+- [algorithm](concepts/algorithm.md)
+- [api](concepts/api.md)
+- [architecture](concepts/architecture.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > distance and speed aren’t necessarily 

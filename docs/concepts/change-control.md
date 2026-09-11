@@ -42,5 +42,5 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[bridging-studies]]
-- [[performance-characteristics]]
+- [bridging-studies](concepts/bridging-studies.md)
+- [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)

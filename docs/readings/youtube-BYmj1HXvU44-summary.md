@@ -32,7 +32,7 @@ only way to ensure Germany's spot of power was through war
 - **Persons**: Franz Ferdinand, They Compare, Triple Alliance
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > The two main sides of the war were the Central

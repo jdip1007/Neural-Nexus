@@ -42,6 +42,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[concepts/molecular-diagnostics]]
-- [[concepts/ngs-validation]]
-- [[concepts/clinical-utility]]
+- [concepts/molecular-diagnostics](concepts/molecular-diagnostics.md)
+- [concepts/ngs-validation](concepts/ngs-validation.md)
+- [concepts/clinical-utility](concepts/clinical-utility.md)

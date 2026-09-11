@@ -21,7 +21,7 @@ They Compare is mentioned in the YouTube video "How Did World War 1 Start?".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-BYmj1HXvU44-summary|Video Summary]]
+- [Video Summary](readings/youtube-BYmj1HXvU44-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-BYmj1HXvU44-transcript.md] Video mention at timestamp

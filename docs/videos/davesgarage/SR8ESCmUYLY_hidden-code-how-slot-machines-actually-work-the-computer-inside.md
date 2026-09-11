@@ -43,8 +43,8 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore Hidde
 
 ## Related Resources
 
-- [[programming]]
-- [[technology]]
+- [programming](concepts/programming.md)
+- [technology](concepts/technology.md)
 - [[assembly]]
 
 ---
@@ -54,8 +54,8 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore Hidde
 
 ## Related Resources
 
-- [[programming]]
-- [[technology]]
+- [programming](concepts/programming.md)
+- [technology](concepts/technology.md)
 - [[assembly]]
 
 ---

@@ -44,6 +44,6 @@ Calibration verification is the process of confirming that a measurement system'
 
 ## Related Pages
 
-- [[concepts/accreditation/laboratory-verification]]
-- [[concepts/method-comparison]]
-- [[concepts/proficiency-testing]]
+- [concepts/accreditation/laboratory-verification](concepts/accreditation/laboratory-verification.md)
+- [concepts/method-comparison](concepts/method-comparison.md)
+- [concepts/proficiency-testing](concepts/proficiency-testing.md)

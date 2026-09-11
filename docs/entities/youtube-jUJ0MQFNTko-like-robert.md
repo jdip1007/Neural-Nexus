@@ -21,7 +21,7 @@ Like Robert is mentioned in the YouTube video "Insane Ways People Are Preparing 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-jUJ0MQFNTko-summary|Video Summary]]
+- [Video Summary](readings/youtube-jUJ0MQFNTko-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-jUJ0MQFNTko-transcript.md] Video mention at timestamp

@@ -41,7 +41,7 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 ## Key Themes
 
-- [[Technology]]
+- [Technology](concepts/technology.md)
 - [[Marketing]]
 
 ## External Links

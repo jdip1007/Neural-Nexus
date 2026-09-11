@@ -141,6 +141,6 @@ The "Demographic Wall" describes the significant economic and social consequence
 
 ## Related Pages
 
-- [[concepts/demographic-economic-impact]]
-- [[concepts/baby-boomers]]
-- [[concepts/inheritance-economics]]
+- [concepts/demographic-economic-impact](concepts/demographic-economic-impact.md)
+- [concepts/baby-boomers](concepts/baby-boomers.md)
+- [concepts/inheritance-economics](concepts/inheritance-economics.md)

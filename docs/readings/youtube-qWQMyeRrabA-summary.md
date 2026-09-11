@@ -36,9 +36,9 @@ hand, and the message would only be decoded when in this person’s possession
 - **Persons**: Interactive Technologies, Watching You, Satanic Panic
 
 ## Related Concepts
-- [[algorithm]]
-- [[cloud]]
-- [[ai]]
+- [algorithm](concepts/algorithm.md)
+- [cloud](concepts/cloud.md)
+- [ai](concepts/ai.md)
 - [[database]]
 - [[framework]]
 

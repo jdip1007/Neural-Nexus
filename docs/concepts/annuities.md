@@ -37,6 +37,6 @@ backlinks: []
 
 ## Related Pages
 
-- [[concepts/endowment-policies]]
-- [[concepts/insurance-commissions]]
-- [[concepts/savings-insurance]]
+- [concepts/endowment-policies](concepts/endowment-policies.md)
+- [concepts/insurance-commissions](concepts/insurance-commissions.md)
+- [concepts/savings-insurance](concepts/savings-insurance.md)

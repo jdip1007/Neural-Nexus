@@ -67,9 +67,9 @@
 
 ## Related Pages
 
-- [[investment-returns]]
-- [[investment-risk]]
-- [[economic-inequality]]
+- [investment-returns](concepts/investment-returns.md)
+- [investment-risk](concepts/investment-risk.md)
+- [economic-inequality](concepts/economic-inequality.md)
 
 ---
 

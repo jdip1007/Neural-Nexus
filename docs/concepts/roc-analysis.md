@@ -45,6 +45,6 @@ Receiver Operating Characteristic (ROC) analysis is a statistical method for eva
 
 ## Related Pages
 
-- [[concepts/diagnostic-accuracy]]
-- [[concepts/statistical-analysis]]
-- [[concepts/accreditation/method-performance]]
+- [concepts/diagnostic-accuracy](concepts/diagnostic-accuracy.md)
+- [concepts/statistical-analysis](concepts/statistical-analysis.md)
+- [concepts/accreditation/method-performance](concepts/accreditation/method-performance.md)

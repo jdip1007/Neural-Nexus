@@ -21,7 +21,7 @@ In February is mentioned in the YouTube video "If YOU Are 'Saving' Money, You NE
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-vUYR5zv6gqU-summary|Video Summary]]
+- [Video Summary](readings/youtube-vUYR5zv6gqU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-vUYR5zv6gqU-transcript.md] Video mention at timestamp

@@ -167,6 +167,6 @@ This entity page is based primarily on the Veritasium video discussing metabolic
 
 ## Related Pages
 
-- [[metabolic-scaling]]
-- [[fractal-networks]]
-- [[comparative-physiology]]
+- [metabolic-scaling](concepts/metabolic-scaling.md)
+- [fractal-networks](concepts/fractal-networks.md)
+- [comparative-physiology](concepts/comparative-physiology.md)

@@ -42,8 +42,8 @@ relative to the major axis of the main mass
 - **Persons**: News Pentagon, Admiral Timothy, Eleanor Watson
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > It was submitted to the All-domain Anomaly 

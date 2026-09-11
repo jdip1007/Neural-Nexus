@@ -404,11 +404,11 @@ For quantitative traits: trait = β₀ + β₁ × SNP + covariates + ε
 
 ## Related Concepts
 
-- [[polygenic-scores]] - Using GWAS results for risk prediction
-- [[heritability]] - Quantifying genetic contribution to traits
-- [[statistical-genetics]] - Statistical methods in genetic research
+- [polygenic-scores](concepts/polygenic-scores.md) - Using GWAS results for risk prediction
+- [heritability](concepts/heritability.md) - Quantifying genetic contribution to traits
+- [statistical-genetics](concepts/statistical-genetics.md) - Statistical methods in genetic research
 - [[genetic-epidemiology]] - Study of genetic factors in populations
-- [[adhd-risk-genes-effect-sizes]] - Specific genetic findings in ADHD
+- [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Specific genetic findings in ADHD
 
 ## References
 

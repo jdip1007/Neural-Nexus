@@ -38,8 +38,8 @@ have the key to the problem but you can figure it out
 - **Persons**: Steve Jobs, South East, How To
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > Although social class is way more important

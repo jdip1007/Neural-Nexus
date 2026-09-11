@@ -31,6 +31,6 @@ reviewed: 2026-07-26
 - [joseph-sambrook](entities/joseph-sambrook.md) (collaborator)
 - [pcr-gc-rich-templates-green-sambrook-2019](raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md) (protocol)
 ## Related Pages
-- [[pcr]]
-- [[molecular-biology]]
-- [[dna-extraction]]
+- [pcr](concepts/pcr.md)
+- [molecular-biology](concepts/molecular-biology.md)
+- [dna-extraction](concepts/dna-extraction.md)

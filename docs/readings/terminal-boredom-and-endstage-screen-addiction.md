@@ -203,11 +203,11 @@ Dr K observes these problems correlate with screen time:
 
 This video informed the following concepts:
 
-- [[terminal-boredom]]: Endstage manifestation of screen addiction
-- [[dopamine-tolerance]]: Receptor downregulation mechanism
-- [[executive-function-rust]]: How screens atrophy planning abilities
-- [[impulse-control-atrophy]]: How screens weaken restraint mechanisms
-- [[brain-rot]]: Content that creates these problems
+- [terminal-boredom](concepts/terminal-boredom.md): Endstage manifestation of screen addiction
+- [dopamine-tolerance](concepts/dopamine-tolerance.md): Receptor downregulation mechanism
+- [executive-function-rust](concepts/executive-function-rust.md): How screens atrophy planning abilities
+- [impulse-control-atrophy](concepts/impulse-control-atrophy.md): How screens weaken restraint mechanisms
+- [brain-rot](concepts/brain-rot.md): Content that creates these problems
 
 ## Notes
 

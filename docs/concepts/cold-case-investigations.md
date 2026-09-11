@@ -139,9 +139,9 @@ Cold case investigations involve the re-examination of unsolved criminal cases t
 
 ## Related Topics
 
-- [[criminal-forensic-testing]]
+- [criminal-forensic-testing](concepts/criminal-forensic-testing.md)
 - [[dna-evidence]]
-- [[unsolved-mysteries]]
+- [unsolved-mysteries](concepts/unsolved-mysteries.md)
 - [[wrongful-convictions]]
-- [[cold-case-investigations]]
-- [[infographics-show]]
+- [cold-case-investigations](concepts/cold-case-investigations.md)
+- [infographics-show](entities/infographics-show.md)

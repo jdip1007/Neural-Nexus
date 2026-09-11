@@ -23,7 +23,7 @@ This video explores gaming, technology through the lens of gaming culture and me
 ## Key Topics
 
 - [[Gaming]]
-- [[Technology]]
+- [Technology](concepts/technology.md)
 
 ## Content Analysis
 

@@ -21,7 +21,7 @@ Future Would is mentioned in the YouTube video "What if the World Wars Never Hap
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-Das4psjipJo-summary|Video Summary]]
+- [Video Summary](readings/youtube-Das4psjipJo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-Das4psjipJo-transcript.md] Video mention at timestamp

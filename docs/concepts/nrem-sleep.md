@@ -43,5 +43,5 @@ Non-rapid eye movement (NREM) sleep is the predominant sleep stage, characterize
 
 ## Related Pages
 
-- [[neurovascular-coupling]]
-- [[theta-band-activity]]
+- [neurovascular-coupling](concepts/neurovascular-coupling.md)
+- [theta-band-activity](concepts/theta-band-activity.md)

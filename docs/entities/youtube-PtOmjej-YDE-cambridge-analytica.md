@@ -21,7 +21,7 @@ Cambridge Analytica is mentioned in the YouTube video "You NEED to STOP Using Me
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-PtOmjej-YDE-summary|Video Summary]]
+- [Video Summary](readings/youtube-PtOmjej-YDE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-PtOmjej-YDE-transcript.md] Video mention at timestamp

@@ -21,7 +21,7 @@ Snow White is mentioned in the YouTube video "Video OwuXF1AyKak".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-OwuXF1AyKak-summary|Video Summary]]
+- [Video Summary](readings/youtube-OwuXF1AyKak-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-OwuXF1AyKak-transcript.md] Video mention at timestamp

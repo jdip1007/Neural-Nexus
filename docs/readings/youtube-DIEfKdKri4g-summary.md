@@ -31,7 +31,7 @@ This video discusses How Airrack Has Been Faking Videos...
 - **Persons**: Challenge Series, Monumental Challenge, Ryan Tran
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > reminding viewers of the main claims

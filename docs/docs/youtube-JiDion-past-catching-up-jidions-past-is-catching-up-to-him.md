@@ -28,7 +28,7 @@ updated: '2026-09-02'
 - [[cancel-culture]]
 - [[digital-footprint]]
 - [[content-creation]]
-- [[internet-culture]]
+- [internet-culture](internet-culture.md)
 
 ## Summary
 
@@ -43,7 +43,7 @@ This video explores various aspects of internet culture, online personalities, a
 ## Notable Entities
 
 - [[JiDion]]
-- [[social-media]]
+- [social-media](social-media.md)
 - [[online-creators]]
 
 ## Key Insights
@@ -58,7 +58,7 @@ The video "[title]" provides a comprehensive look at various aspects of internet
 
 ## Related Content
 
-[[internet-anarchist]] | [[youtube-content]] | [[digital-media]] | [[internet-culture]]
+[[internet-anarchist]] | [[youtube-content]] | [[digital-media]] | [internet-culture](internet-culture.md)
 
 ## Transcript
 

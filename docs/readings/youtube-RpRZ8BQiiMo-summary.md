@@ -33,11 +33,11 @@ This video discusses Windows Longhorn Explained by Dave Plummer - Retired Micros
 - **Persons**: Outlook Express, Bill Gates, Next Generation
 
 ## Related Concepts
-- [[cloud]]
+- [cloud](concepts/cloud.md)
 - [[framework]]
-- [[architecture]]
-- [[api]]
-- [[ai]]
+- [architecture](concepts/architecture.md)
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > presentation subsystem essentially a

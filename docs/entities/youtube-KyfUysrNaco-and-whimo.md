@@ -21,7 +21,7 @@ And Whimo is mentioned in the YouTube video "44 Harsh Truths About The Game Of L
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-KyfUysrNaco-summary|Video Summary]]
+- [Video Summary](readings/youtube-KyfUysrNaco-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-KyfUysrNaco-transcript.md] Video mention at timestamp

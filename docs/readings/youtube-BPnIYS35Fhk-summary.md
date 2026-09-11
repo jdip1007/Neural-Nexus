@@ -35,10 +35,10 @@ become one of the most valuable technological resources on the planet
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[cloud]]
-- [[api]]
+- [cloud](concepts/cloud.md)
+- [api](concepts/api.md)
 - [[machine-learning]]
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > desktop devices that are less than 2 years old.

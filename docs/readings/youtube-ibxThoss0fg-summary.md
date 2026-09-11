@@ -25,7 +25,7 @@ This video discusses ignorance is bliss
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > pretty essential for a wife and gods

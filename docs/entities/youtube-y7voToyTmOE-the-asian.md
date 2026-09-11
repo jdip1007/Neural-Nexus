@@ -21,7 +21,7 @@ The Asian is mentioned in the YouTube video "Scientists Reveal How a Zombie Apoc
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-y7voToyTmOE-summary|Video Summary]]
+- [Video Summary](readings/youtube-y7voToyTmOE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-y7voToyTmOE-transcript.md] Video mention at timestamp

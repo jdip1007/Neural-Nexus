@@ -80,7 +80,7 @@ This analysis helps categorize the content for better knowledge organization.
 
 ### Related Pages
 
-- [[technology]]
+- [technology](concepts/technology.md)
 - [[innovation]]
 
 ## Sources

@@ -14,7 +14,7 @@ reviewed: 2026-08-26
 
 # Myelin
 
-Myelin is a multilamellar lipid-rich membrane that wraps around axons, providing electrical insulation and dramatically increasing the speed of action potential propagation. It is produced by [[oligodendrocyte]] cells in the central nervous system (CNS) and Schwann cells in the peripheral nervous system (PNS). Myelin is a critical component of the [[neurovascular-unit]], and its formation and maintenance are regulated by [[adaptive-myelination]] processes.
+Myelin is a multilamellar lipid-rich membrane that wraps around axons, providing electrical insulation and dramatically increasing the speed of action potential propagation. It is produced by [[oligodendrocyte]] cells in the central nervous system (CNS) and Schwann cells in the peripheral nervous system (PNS). Myelin is a critical component of the [neurovascular-unit](concepts/neurovascular-unit.md), and its formation and maintenance are regulated by [adaptive-myelination](concepts/adaptive-myelination.md) processes.
 
 ## Structure
 
@@ -92,7 +92,7 @@ Myelin is a multilamellar lipid-rich membrane that wraps around axons, providing
 - Responsive to neuronal activity patterns
 - Optimizes network function and learning
 
-**See:** [[adaptive-myelination]] for detailed mechanism
+**See:** [adaptive-myelination](concepts/adaptive-myelination.md) for detailed mechanism
 
 ## Dysfunction in Obesity
 
@@ -248,11 +248,11 @@ Myelin is a multilamellar lipid-rich membrane that wraps around axons, providing
 
 ## Related Concepts
 
-- [[adaptive-myelination]]: Dynamic regulation of myelination by activity
+- [adaptive-myelination](concepts/adaptive-myelination.md): Dynamic regulation of myelination by activity
 - [[oligodendrocyte]]: Myelin-producing cells
-- [[neurovascular-unit]]: Myelin is a component of the NVU
-- [[neurovascular-coupling]]: NVC provides metabolic support for myelination
-- [[metabolic-disorder]]: Metabolic overload impairs myelination
+- [neurovascular-unit](concepts/neurovascular-unit.md): Myelin is a component of the NVU
+- [neurovascular-coupling](concepts/neurovascular-coupling.md): NVC provides metabolic support for myelination
+- [metabolic-disorder](concepts/metabolic-disorder.md): Metabolic overload impairs myelination
 - [[white-matter]]: Myelinated axon tracts in brain
 - [[saltatory-conduction]]: Myelin enables rapid action potential propagation
 

@@ -21,7 +21,7 @@ American Market is mentioned in the YouTube video "Why UPS Drivers Make $170,000
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-g7sVsFGTeKE-summary|Video Summary]]
+- [Video Summary](readings/youtube-g7sVsFGTeKE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-g7sVsFGTeKE-transcript.md] Video mention at timestamp

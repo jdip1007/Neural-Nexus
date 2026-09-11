@@ -21,7 +21,7 @@ Nicocado Avocado is mentioned in the YouTube video "Why Kai Cenat Is Becoming So
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-FONevEIeDxE-summary|Video Summary]]
+- [Video Summary](readings/youtube-FONevEIeDxE-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-FONevEIeDxE-transcript.md] Video mention at timestamp

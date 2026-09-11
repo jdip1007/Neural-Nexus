@@ -30,7 +30,7 @@ This video discusses The Deserved Downfall of Jake Doolittle
 - **Persons**: Total Annihilation, Sniper Wolf, My Views
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > now it's important to note that the

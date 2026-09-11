@@ -32,9 +32,9 @@ This video discusses 18 Rules for Lifting Like a Pro - Dr Mike Israetel (4K)
 - **Persons**: Mega Peck, Bro Science, Chris Bumstead
 
 ## Related Concepts
-- [[api]]
-- [[algorithm]]
-- [[ai]]
+- [api](concepts/api.md)
+- [algorithm](concepts/algorithm.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > fatigue is important so another way to

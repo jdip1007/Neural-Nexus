@@ -190,5 +190,5 @@ Demographic economic impact refers to how changes in population structure, age d
 
 ## Related Pages
 
-- [[baby-boomers]]
-- [[demographic-wall]]
+- [baby-boomers](concepts/baby-boomers.md)
+- [demographic-wall](concepts/demographic-wall.md)

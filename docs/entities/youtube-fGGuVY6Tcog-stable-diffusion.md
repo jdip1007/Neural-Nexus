@@ -21,7 +21,7 @@ Stable Diffusion is mentioned in the YouTube video "The AI bubble is about to bu
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-fGGuVY6Tcog-summary|Video Summary]]
+- [Video Summary](readings/youtube-fGGuVY6Tcog-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-fGGuVY6Tcog-transcript.md] Video mention at timestamp

@@ -38,10 +38,10 @@ it, “Tokyo centralization has become a chronic illness for Japan”
 - **Persons**: Meaning Japanese, The Mainichi, Upper House
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 - [[framework]]
-- [[cloud]]
+- [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
 > one of the most important cities on Earth. 

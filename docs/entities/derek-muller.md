@@ -177,6 +177,6 @@ This entity page is based primarily on the Veritasium video on metabolic scaling
 
 ## Related Pages
 
-- [[entities/josh-risser]]
-- [[entities/brian-enquist]]
-- [[entities/camiel-m-van-der-laan]]
+- [entities/josh-risser](entities/josh-risser.md)
+- [entities/brian-enquist](entities/brian-enquist.md)
+- [entities/camiel-m-van-der-laan](entities/camiel-m-van-der-laan.md)

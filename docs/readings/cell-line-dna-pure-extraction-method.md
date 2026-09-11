@@ -100,6 +100,6 @@ The method specifies precise buffer formulations including:
 
 ## Related Pages
 
-- [[dna-extraction]]
-- [[molecular-biology]]
-- [[genomics]]
+- [dna-extraction](concepts/dna-extraction.md)
+- [molecular-biology](concepts/molecular-biology.md)
+- [genomics](concepts/genomics.md)

@@ -21,7 +21,7 @@ Land Rover is mentioned in the YouTube video "WTF Is Happening To The Car Market
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-mUBBqAjVuco-summary|Video Summary]]
+- [Video Summary](readings/youtube-mUBBqAjVuco-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-mUBBqAjVuco-transcript.md] Video mention at timestamp

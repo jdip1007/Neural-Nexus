@@ -38,8 +38,8 @@ critical areas of the brain
 - **Persons**: Ahad Israfil, What Happens, When You
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > penetrate wood, metal, or in this case, your head.

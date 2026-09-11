@@ -32,9 +32,9 @@ This video discusses Why You Can't Stop Consuming Video Games & Anime
 ## Entities Mentioned
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
-- [[api]]
+- [cloud](concepts/cloud.md)
+- [ai](concepts/ai.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > say something important i couldn't help

@@ -34,11 +34,11 @@ This video discusses Most Insane The Infographics Show Videos of All Time (Compi
 - **Persons**: Death Down, Lou Lui, President John
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 - [[artificial-intelligence]]
 - [[database]]
-- [[cloud]]
-- [[api]]
+- [cloud](concepts/cloud.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > overhead 30 ft below the prison's main

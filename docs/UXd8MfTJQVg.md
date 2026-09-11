@@ -31,4 +31,4 @@ Key concepts identified:
 ## Related Pages
 - [[Dave's Garage]]
 - [[YouTube]]
-- [[Technology]]
+- [Technology](concepts/technology.md)

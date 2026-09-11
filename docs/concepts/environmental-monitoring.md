@@ -184,6 +184,6 @@ Environmental monitoring is crucial because:
 
 ## Related Pages
 
-- [[concepts/conservation-biology]]
-- [[concepts/environmental-dna-analysis]]
-- [[concepts/ecology]]
+- [concepts/conservation-biology](concepts/conservation-biology.md)
+- [concepts/environmental-dna-analysis](concepts/environmental-dna-analysis.md)
+- [concepts/ecology](concepts/ecology.md)

@@ -26,7 +26,7 @@ updated: '2026-09-02'
 
 - [[sensitivity]]
 - [[trauma-response]]
-- [[mental-health]]
+- [mental-health](concepts/mental-health.md)
 - [[stress-management]]
 - [[resilience]]
 
@@ -58,7 +58,7 @@ The video "Why Sensitive People Get Traumatized So Easily" provides a comprehens
 
 ## Related Content
 
-[[healthygamergg]] | [[mental-health]] | [[wellbeing]] | [[personal-development]]
+[[healthygamergg]] | [mental-health](concepts/mental-health.md) | [[wellbeing]] | [[personal-development]]
 
 ## Transcript
 

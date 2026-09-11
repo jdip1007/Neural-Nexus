@@ -34,7 +34,7 @@ This video discusses The Truth Behind Video Games & Their Psychological Impact -
 - **Persons**: Men Who, David Geary, Duty Warzone
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > is key isn't it because if you have an

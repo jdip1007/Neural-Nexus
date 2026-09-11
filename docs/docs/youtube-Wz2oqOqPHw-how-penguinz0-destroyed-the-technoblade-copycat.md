@@ -58,7 +58,7 @@ The video "[title]" provides a comprehensive look at various aspects of internet
 
 ## Related Content
 
-[[internet-anarchist]] | [[youtube-content]] | [[digital-media]] | [[internet-culture]]
+[[internet-anarchist]] | [[youtube-content]] | [[digital-media]] | [internet-culture](internet-culture.md)
 
 ## Transcript
 

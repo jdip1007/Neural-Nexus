@@ -38,9 +38,9 @@ to be treated as less important
 
 ## Related Concepts
 - [[database]]
-- [[api]]
+- [api](concepts/api.md)
 - [[llm]]
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > its obligations for elderly 

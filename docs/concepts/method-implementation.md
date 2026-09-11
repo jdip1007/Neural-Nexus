@@ -46,5 +46,5 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[method-performance]]
-- [[proficiency-testing]]
+- [method-performance](concepts/accreditation/method-performance.md)
+- [proficiency-testing](concepts/proficiency-testing.md)

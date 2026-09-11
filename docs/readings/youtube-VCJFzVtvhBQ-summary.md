@@ -32,7 +32,7 @@ This video discusses The Alibaba AI Incident Should Terrify Us - Tristan Harris
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > essentially uh in the training servers

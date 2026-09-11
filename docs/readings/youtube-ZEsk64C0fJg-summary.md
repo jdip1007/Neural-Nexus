@@ -40,7 +40,7 @@ are sufficient to get them all connected
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > that is an interesting and

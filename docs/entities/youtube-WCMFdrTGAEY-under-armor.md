@@ -21,7 +21,7 @@ Under Armor is mentioned in the YouTube video "The OCW Update".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-WCMFdrTGAEY-summary|Video Summary]]
+- [Video Summary](readings/youtube-WCMFdrTGAEY-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-WCMFdrTGAEY-transcript.md] Video mention at timestamp

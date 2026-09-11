@@ -21,7 +21,7 @@ Online Casino is mentioned in the YouTube video "How EVE Online's Massive Virtua
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-m6j_UsGJnkQ-summary|Video Summary]]
+- [Video Summary](readings/youtube-m6j_UsGJnkQ-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-m6j_UsGJnkQ-transcript.md] Video mention at timestamp

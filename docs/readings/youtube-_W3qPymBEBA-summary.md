@@ -32,9 +32,9 @@ private, doing most of his business in ideological work behind the scenes
 - **Persons**: Wall Street, Field Link, Stanford Review
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
-- [[algorithm]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
+- [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
 > importantly, what is it exactly that he wants? A 

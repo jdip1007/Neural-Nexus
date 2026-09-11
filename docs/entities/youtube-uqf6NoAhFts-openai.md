@@ -21,7 +21,7 @@ OpenAI is mentioned in the YouTube video "The Job Market Has Changed... Again.".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-uqf6NoAhFts-summary|Video Summary]]
+- [Video Summary](readings/youtube-uqf6NoAhFts-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-uqf6NoAhFts-transcript.md] Video mention at timestamp

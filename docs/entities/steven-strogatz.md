@@ -40,6 +40,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[entities/geoffrey-west]]
-- [[entities/peter-sheridan-dodds]]
-- [[entities/james-brown]]
+- [entities/geoffrey-west](entities/geoffrey-west.md)
+- [entities/peter-sheridan-dodds](entities/peter-sheridan-dodds.md)
+- [entities/james-brown](entities/james-brown.md)

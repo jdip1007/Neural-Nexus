@@ -31,7 +31,7 @@ This is a donkey no man or woman would ever want to ride
 - **Persons**: Judas Cradle, The World, Breast Ripper
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > 7: Spanish Donkey

@@ -121,6 +121,6 @@ German pharmaceutical and diagnostics company specializing in nucleic acid extra
 
 ## Related Pages
 
-- [[nucleic-acid-extraction-platforms]]
-- [[biomerieux]]
-- [[laboratory-automation]]
+- [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md)
+- [biomerieux](entities/biomerieux.md)
+- [laboratory-automation](concepts/laboratory-methods/laboratory-automation.md)

@@ -54,6 +54,6 @@ Three-layer structure:
 
 ## Related Pages
 
-- [[concepts/molecular-biology]]
-- [[references/setup-guide]]
-- [[references/writing-guide]]
+- [concepts/molecular-biology](concepts/molecular-biology.md)
+- [references/setup-guide](references/setup-guide.md)
+- [references/writing-guide](references/writing-guide.md)

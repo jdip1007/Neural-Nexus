@@ -23,8 +23,8 @@ This video from Dave's Garage covers programming, technology with a focus on tec
 
 ## Key Topics
 
-- [[Programming]]
-- [[Technology]]
+- [Programming](concepts/programming.md)
+- [Technology](concepts/technology.md)
 
 ## Technical Concepts
 
@@ -39,8 +39,8 @@ Assembly language programming challenge building a simple text editor. This step
 
 - [[Dave's Garage]] - Main channel page
 - [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+- [Networking](concepts/networking.md) - Related networking content
+- [Programming](concepts/programming.md) - Related programming tutorials
 
 ## Citations
 

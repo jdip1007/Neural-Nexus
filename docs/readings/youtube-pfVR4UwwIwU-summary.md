@@ -29,7 +29,7 @@ This video discusses 360 Degree Video Tour of Amazing Shop
 - **Persons**: Jim Preston, Turismo Jim, Legend So
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 

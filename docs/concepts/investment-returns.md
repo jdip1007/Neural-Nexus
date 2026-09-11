@@ -39,5 +39,5 @@ Savings insurance "expected returns" are sales projections, not guarantees. Only
 
 ## Related Pages
 
-- [[savings-insurance]]
-- [[annuities]]
+- [savings-insurance](concepts/savings-insurance.md)
+- [annuities](concepts/annuities.md)

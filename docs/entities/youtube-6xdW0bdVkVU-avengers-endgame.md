@@ -21,7 +21,7 @@ Avengers Endgame is mentioned in the YouTube video "Mentalist Secrets Revealed: 
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-6xdW0bdVkVU-summary|Video Summary]]
+- [Video Summary](readings/youtube-6xdW0bdVkVU-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-6xdW0bdVkVU-transcript.md] Video mention at timestamp

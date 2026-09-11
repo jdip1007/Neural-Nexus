@@ -35,9 +35,9 @@ This video discusses INSANE WILD ANIMAL STORIES (Compilation)
 - **Organizations**: The Institute
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
-- [[cloud]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
+- [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
 > dismembered remains would be found and

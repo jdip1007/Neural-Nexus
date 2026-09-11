@@ -31,7 +31,7 @@ This video discusses The Rise, Fall and Return of YouTube’s Most Hated Troll
 - **Persons**: Friday Evan, Bill Clinton, Blitz Chong
 
 ## Related Concepts
-- [[ai]]
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > name disappeared from the mainstream

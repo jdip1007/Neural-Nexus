@@ -223,9 +223,9 @@ Serial killers are individuals who commit a series of murders, typically with a 
 
 ## Related Topics
 
-- [[criminal-psychology]]
-- [[forensic-science]]
-- [[cold-case-investigations]]
-- [[serial-killers]]
-- [[psychology]]
+- [criminal-psychology](concepts/criminal-psychology.md)
+- [forensic-science](concepts/forensic-science.md)
+- [cold-case-investigations](concepts/cold-case-investigations.md)
+- [serial-killers](concepts/serial-killers.md)
+- [psychology](concepts/psychology.md)
 - [[criminology]]

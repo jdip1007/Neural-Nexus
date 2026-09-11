@@ -21,7 +21,7 @@ Bill Gates is mentioned in the YouTube video "Windows Longhorn Explained by Dave
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-RpRZ8BQiiMo-summary|Video Summary]]
+- [Video Summary](readings/youtube-RpRZ8BQiiMo-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-RpRZ8BQiiMo-transcript.md] Video mention at timestamp

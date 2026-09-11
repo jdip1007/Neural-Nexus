@@ -21,7 +21,7 @@ United States is mentioned in the YouTube video "How Years Of Gaming Affects You
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-xaICKlp9kQc-summary|Video Summary]]
+- [Video Summary](readings/youtube-xaICKlp9kQc-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-xaICKlp9kQc-transcript.md] Video mention at timestamp

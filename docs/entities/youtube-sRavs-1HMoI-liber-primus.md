@@ -21,7 +21,7 @@ Liber Primus is mentioned in the YouTube video "Cicada 3301: The Internet's Grea
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-sRavs-1HMoI-summary|Video Summary]]
+- [Video Summary](readings/youtube-sRavs-1HMoI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-sRavs-1HMoI-transcript.md] Video mention at timestamp

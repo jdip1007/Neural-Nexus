@@ -33,10 +33,10 @@ This video discusses The Worst Red Flags I’ve Seen As A Therapist
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
-- [[cloud]]
-- [[api]]
+- [ai](concepts/ai.md)
+- [algorithm](concepts/algorithm.md)
+- [cloud](concepts/cloud.md)
+- [api](concepts/api.md)
 
 ## Transcript Highlights
 > narcissistic. Right? So, one key thing

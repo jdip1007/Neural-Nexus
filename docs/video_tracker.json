@@ -1,37 +1,42 @@
 {
   "processed_videos": [
-    "ka2GKBfviic",
-    "mYBxnojY-JA",
-    "7vzjIv2l6wY",
-    "dave_garage_002",
-    "test1",
-    "dave_garage_001",
-    "DSA4VFdqELg",
-    "LJSgsf9ro38",
-    "dave_garage_003",
-    "hRhBuHJ-j_o",
     "gAxNYd01I6E",
-    "SR8ESCmUYLY",
-    "OG91c7xsNMc",
-    "jH0BYAkPj78",
-    "-5epM9WG95g",
-    "mSjaMyP5QjY",
-    "YV7xNa3QO0c",
-    "dave_garage_005",
-    "kLcpCqLwNU8",
-    "XAzUoizwnXM",
-    "QTTCqGtT6I4",
     "dave_garage_006",
-    "bG2sW8xYQzA",
-    "_4x0fRO6w5M",
-    "7MykFJ7TByM",
-    "OfPOtN51MpM",
-    "919XuYNqyjw",
+    "mYBxnojY-JA",
+    "RdmYUULKf7s",
+    "xHkcIRZa6lo",
+    "jH0BYAkPj78",
+    "hRhBuHJ-j_o",
+    "QTTCqGtT6I4",
+    "50FtUPGLyyo",
+    "-5epM9WG95g",
+    "kLcpCqLwNU8",
+    "YV7xNa3QO0c",
     "iCdfSRc2QNg",
+    "dave_garage_003",
+    "mSjaMyP5QjY",
+    "_N6qPEA_dGc",
+    "bG2sW8xYQzA",
+    "OfPOtN51MpM",
     "oCB-sCIKnkU",
+    "l7BaFufR23E",
     "vr-EwLQCOIk",
     "2MwTDoT8XjY",
-    "RdmYUULKf7s"
+    "dave_garage_002",
+    "dave_garage_001",
+    "dave_garage_005",
+    "919XuYNqyjw",
+    "7MykFJ7TByM",
+    "_4x0fRO6w5M",
+    "LJSgsf9ro38",
+    "test1",
+    "ka2GKBfviic",
+    "uK3OBAxCi6k",
+    "OG91c7xsNMc",
+    "DSA4VFdqELg",
+    "7vzjIv2l6wY",
+    "SR8ESCmUYLY",
+    "XAzUoizwnXM"
   ],
   "video_metadata": {
     "test1": {
@@ -60,10 +65,10 @@
     },
     "gAxNYd01I6E": {
       "id": "gAxNYd01I6E",
-      "title": "\u201cWe're At The Beginning Of A Revolution\u201d - Jimmy Carr",
+      "title": "“We're At The Beginning Of A Revolution” - Jimmy Carr",
       "url": "https://www.youtube.com/watch?v=gAxNYd01I6E",
       "processed_at": "2026-08-19T08:44:57.023314",
-      "page_filename": "youtube-gAxNYd01I6E-\u201cwere-at-the-beginning-of-a-revolution\u201d-jimmy-carr.md",
+      "page_filename": "youtube-gAxNYd01I6E-“were-at-the-beginning-of-a-revolution”-jimmy-carr.md",
       "content_hash": "2fd94e63f087eb0e7e5d644d890a7bec9e7e1fb1cdd719c752684402f39897c2",
       "status": "placeholder"
     },
@@ -194,7 +199,7 @@
       "status": "processed"
     },
     "LJSgsf9ro38": {
-      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
       "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
       "processed_at": "2026-09-04T21:50:36.700047",
       "status": "processed"
@@ -300,7 +305,37 @@
       "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-Normal-Life-Feels-So-Boring.md",
       "processed_at": "2026-09-11T00:10:26.054563",
       "status": "processed"
+    },
+    "xHkcIRZa6lo": {
+      "title": "Why You Should NEVER Confess Your Love",
+      "url": "https://www.youtube.com/watch?v=xHkcIRZa6lo",
+      "processed_at": "2026-09-11T23:50:45.308080",
+      "status": "processed"
+    },
+    "_N6qPEA_dGc": {
+      "title": "Why Gifted People Burn Out The Fastest",
+      "url": "https://www.youtube.com/watch?v=_N6qPEA_dGc",
+      "processed_at": "2026-09-11T23:50:46.309053",
+      "status": "processed"
+    },
+    "50FtUPGLyyo": {
+      "title": "The Cost Of Attention",
+      "url": "https://www.youtube.com/watch?v=50FtUPGLyyo",
+      "processed_at": "2026-09-11T23:50:47.310050",
+      "status": "processed"
+    },
+    "l7BaFufR23E": {
+      "title": "The Lie of \"Positive Thinking\"",
+      "url": "https://www.youtube.com/watch?v=l7BaFufR23E",
+      "processed_at": "2026-09-11T23:50:48.311005",
+      "status": "processed"
+    },
+    "uK3OBAxCi6k": {
+      "title": "Your Job Achieves Nothing... (probably)",
+      "url": "https://www.youtube.com/watch?v=uK3OBAxCi6k",
+      "processed_at": "2026-09-11T23:50:49.312001",
+      "status": "processed"
     }
   },
-  "last_updated": "2026-09-07T22:33:45.713348"
+  "last_updated": "2026-09-11T23:50:49.312014"
 }

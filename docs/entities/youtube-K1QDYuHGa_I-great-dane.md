@@ -21,7 +21,7 @@ Great Dane is mentioned in the YouTube video "How to Win Every Single Day - Davi
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-K1QDYuHGa_I-summary|Video Summary]]
+- [Video Summary](readings/youtube-K1QDYuHGa_I-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-K1QDYuHGa_I-transcript.md] Video mention at timestamp

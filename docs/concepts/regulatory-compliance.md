@@ -45,5 +45,5 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[quality-control]]
-- [[proficiency-testing]]
+- [quality-control](concepts/quality-control.md)
+- [proficiency-testing](concepts/proficiency-testing.md)

@@ -193,7 +193,7 @@
 **Quality Check Results:**
 - ✅ All raw transcripts have proper frontmatter (source_url, source_type, ingested, sha256)
 - ✅ All reading summaries have sources, tags, proper classification
-- ✅ Fixed 2 broken wikilinks in youtube-Unzc731iCUY-summary.md (removed [[ai]], [[framework]], [[cloud]], [[api]]; added [[communication]], [[presentation]], [[programming]], [[python]], [[computer-science]])
+- ✅ Fixed 2 broken wikilinks in youtube-Unzc731iCUY-summary.md (removed [ai](concepts/ai.md), [[framework]], [cloud](concepts/cloud.md), [api](concepts/api.md); added [[communication]], [[presentation]], [programming](concepts/programming.md), [[python]], [[computer-science]])
 - ✅ All wikilinks now point to existing concepts or are appropriate placeholders
 - ✅ Entity pages have proper frontmatter and citations
 
@@ -223,7 +223,7 @@
 **Content:** Simulated transcript on digital minimalism and life optimization
 - Raw transcript: Simulated content (167 words, 22 segments)
 - Reading summary: Video page with proper frontmatter (2,570 chars)
-- Integration: Linked to [[technology]], [[life]], [[philosophy]] concepts
+- Integration: Linked to [technology](concepts/technology.md), [[life]], [[philosophy]] concepts
 
 ### 2. The Future of Humanity: AI, Transhumanism, and What Comes Next
 **Video ID:** AI_future_of_humanity
@@ -233,7 +233,7 @@
 **Content:** Simulated transcript on AI and future of humanity
 - Raw transcript: Simulated content (167 words, 25 segments)
 - Reading summary: Video page with proper frontmatter (2,538 chars)
-- Integration: Linked to [[technology]], [[philosophy]] concepts
+- Integration: Linked to [technology](concepts/technology.md), [[philosophy]] concepts
 
 ### 3. Ancient Wisdom for Modern Life: Stoicism in the 21st Century
 **Video ID:** ancient_wisdom_modern_life

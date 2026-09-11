@@ -41,5 +41,5 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[lifespan]]
-- [[metabolic-scaling]]
+- [lifespan](concepts/lifespan.md)
+- [metabolic-scaling](concepts/metabolic-scaling.md)

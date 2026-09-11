@@ -186,10 +186,10 @@ The question is: Is short-term convenience worth long-term dependence?
 
 ## Related Concepts
 
-- [[terminal-boredom]]: Endstage manifestation where executive function rust prevents any activity
-- [[impulse-control-atrophy]]: Screens also weaken the ability to restrain impulses — works in tandem with executive function rust
-- [[brain-rot]]: Content that causes this rust
-- [[dopamine-tolerance]]: The receptor downregulation that makes real activities feel unrewarding
+- [terminal-boredom](concepts/terminal-boredom.md): Endstage manifestation where executive function rust prevents any activity
+- [impulse-control-atrophy](concepts/impulse-control-atrophy.md): Screens also weaken the ability to restrain impulses — works in tandem with executive function rust
+- [brain-rot](concepts/brain-rot.md): Content that causes this rust
+- [dopamine-tolerance](concepts/dopamine-tolerance.md): The receptor downregulation that makes real activities feel unrewarding
 
 ## Sources
 

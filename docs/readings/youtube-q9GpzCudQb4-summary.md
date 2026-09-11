@@ -39,10 +39,10 @@ have to figure out a new way to do business
 - **Organizations**: Brothers Ltd
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 - [[llm]]
-- [[algorithm]]
+- [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
 > But that independence hasn’t 

@@ -31,8 +31,8 @@ This video discusses How Years Of Gaming Affects Your Brain
 - **Persons**: No One, Gamers May, United States
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- [api](concepts/api.md)
+- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > can change that and the key thing here

@@ -42,6 +42,6 @@ reviewed: 2026-07-31
 
 ## Related Pages
 
-- [[concepts/bioinformatics-validation]]
-- [[concepts/molecular-diagnostics]]
-- [[concepts/clinical-utility]]
+- [concepts/bioinformatics-validation](concepts/bioinformatics-validation.md)
+- [concepts/molecular-diagnostics](concepts/molecular-diagnostics.md)
+- [concepts/clinical-utility](concepts/clinical-utility.md)

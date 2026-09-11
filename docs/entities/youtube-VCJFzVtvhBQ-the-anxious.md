@@ -21,7 +21,7 @@ The Anxious is mentioned in the YouTube video "The Alibaba AI Incident Should Te
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-VCJFzVtvhBQ-summary|Video Summary]]
+- [Video Summary](readings/youtube-VCJFzVtvhBQ-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-VCJFzVtvhBQ-transcript.md] Video mention at timestamp

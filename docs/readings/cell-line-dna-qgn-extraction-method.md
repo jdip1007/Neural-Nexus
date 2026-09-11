@@ -101,6 +101,6 @@ Compared to traditional pure extraction methods, QGN appears to offer:
 
 ## Related Pages
 
-- [[dna-extraction]]
-- [[molecular-biology]]
-- [[genomics]]
+- [dna-extraction](concepts/dna-extraction.md)
+- [molecular-biology](concepts/molecular-biology.md)
+- [genomics](concepts/genomics.md)

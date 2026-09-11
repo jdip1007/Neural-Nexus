@@ -241,6 +241,6 @@ Additional verification recommended through:
 
 ## Related Pages
 
-- [[opportunity-cost]]
-- [[annuities]]
-- [[bowtie-insurance]]
+- [opportunity-cost](concepts/opportunity-cost.md)
+- [annuities](concepts/annuities.md)
+- [bowtie-insurance](entities/bowtie-insurance.md)
