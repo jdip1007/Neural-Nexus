@@ -1,16 +1,17 @@
 ---
 {
   "title": "Is America Chasing Away All Of Its Smart People?",
-  "created": "2026-08-30T18:29:46.046952",
-  "updated": "2026-08-30T18:29:46.046965",
+  "created": "2026-09-10T22:41:53.154127",
+  "updated": "2026-09-10T22:41:53.154141",
   "type": "video",
   "tags": [
     "youtube",
     "how-money-works",
-    "migration",
+    "economics",
+    "business",
     "brain drain",
-    "invest",
-    "talent"
+    "talent",
+    "invest"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=THodtjsCTSI"
@@ -24,11 +25,11 @@
 
 > **Source:** [How Money Works](https://www.youtube.com/watch?v=THodtjsCTSI)  
 > **Video ID:** THodtjsCTSI  
-> **Analyzed:** 2026-08-30 18:29:46
+> **Analyzed:** 2026-09-10 22:41:53
 
 ## Summary
 
-Analysis of Is America Chasing Away All Of Its Smart People? covering topics: migration, brain drain, invest, talent
+Analysis of Is America Chasing Away All Of Its Smart People? covering topics: brain drain, talent, invest, migration
 
 ## Transcript
 
@@ -36,10 +37,10 @@ There's growing concern about brain drain and the migration of talent from Ameri
 
 ## Key Topics
 
-- migration
 - brain drain
-- invest
 - talent
+- invest
+- migration
 
 ## Related Concepts
 
@@ -54,4 +55,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-30T18:29:46.046994*
+*Last updated: 2026-09-10T22:41:53.154175*

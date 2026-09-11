@@ -21,7 +21,17 @@
     "kLcpCqLwNU8",
     "XAzUoizwnXM",
     "QTTCqGtT6I4",
-    "dave_garage_006"
+    "dave_garage_006",
+    "bG2sW8xYQzA",
+    "_4x0fRO6w5M",
+    "7MykFJ7TByM",
+    "OfPOtN51MpM",
+    "919XuYNqyjw",
+    "iCdfSRc2QNg",
+    "oCB-sCIKnkU",
+    "vr-EwLQCOIk",
+    "2MwTDoT8XjY",
+    "RdmYUULKf7s"
   ],
   "video_metadata": {
     "test1": {
@@ -50,10 +60,10 @@
     },
     "gAxNYd01I6E": {
       "id": "gAxNYd01I6E",
-      "title": "“We're At The Beginning Of A Revolution” - Jimmy Carr",
+      "title": "\u201cWe're At The Beginning Of A Revolution\u201d - Jimmy Carr",
       "url": "https://www.youtube.com/watch?v=gAxNYd01I6E",
       "processed_at": "2026-08-19T08:44:57.023314",
-      "page_filename": "youtube-gAxNYd01I6E-“were-at-the-beginning-of-a-revolution”-jimmy-carr.md",
+      "page_filename": "youtube-gAxNYd01I6E-\u201cwere-at-the-beginning-of-a-revolution\u201d-jimmy-carr.md",
       "content_hash": "2fd94e63f087eb0e7e5d644d890a7bec9e7e1fb1cdd719c752684402f39897c2",
       "status": "placeholder"
     },
@@ -184,7 +194,7 @@
       "status": "processed"
     },
     "LJSgsf9ro38": {
-      "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
+      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
       "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
       "processed_at": "2026-09-04T21:50:36.700047",
       "status": "processed"
@@ -199,6 +209,96 @@
       "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
       "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
       "processed_at": "2026-09-07T22:33:45.713339",
+      "status": "processed"
+    },
+    "bG2sW8xYQzA": {
+      "id": "bG2sW8xYQzA",
+      "title": "How To ACTUALLY Break An Addiction",
+      "url": "https://www.youtube.com/watch?v=bG2sW8xYQzA",
+      "page_filename": "youtube-bG2sW8xYQzA-How-To-ACTUALLY-Break-An-Addiction.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/How-To-ACTUALLY-Break-An-Addiction.md",
+      "processed_at": "2026-09-11T00:09:38.191508",
+      "status": "processed"
+    },
+    "_4x0fRO6w5M": {
+      "id": "_4x0fRO6w5M",
+      "title": "Why Sensitive People Get Traumatized So Easily",
+      "url": "https://www.youtube.com/watch?v=_4x0fRO6w5M",
+      "page_filename": "youtube-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "processed_at": "2026-09-11T00:09:39.192683",
+      "status": "processed"
+    },
+    "7MykFJ7TByM": {
+      "id": "7MykFJ7TByM",
+      "title": "Analyzing The Lindsay Clancy Case",
+      "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
+      "page_filename": "youtube-7MykFJ7TByM-Analyzing-The-Lindsay-Clancy-Case.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Analyzing-The-Lindsay-Clancy-Case.md",
+      "processed_at": "2026-09-11T00:09:40.193785",
+      "status": "processed"
+    },
+    "OfPOtN51MpM": {
+      "id": "OfPOtN51MpM",
+      "title": "Why You Can't Just \"Rewire\" Your Brain",
+      "url": "https://www.youtube.com/watch?v=OfPOtN51MpM",
+      "page_filename": "youtube-OfPOtN51MpM-Why-You-Cant-Just-Rewire-Your-Brain.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-You-Cant-Just-Rewire-Your-Brain.md",
+      "processed_at": "2026-09-11T00:09:41.195023",
+      "status": "processed"
+    },
+    "919XuYNqyjw": {
+      "id": "919XuYNqyjw",
+      "title": "Why You Should NEVER Confess Your Love",
+      "url": "https://www.youtube.com/watch?v=919XuYNqyjw",
+      "page_filename": "youtube-919XuYNqyjw-Why-You-Should-NEVER-Confess-Your-Love.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-You-Should-NEVER-Confess-Your-Love.md",
+      "processed_at": "2026-09-11T00:09:42.196266",
+      "status": "processed"
+    },
+    "iCdfSRc2QNg": {
+      "id": "iCdfSRc2QNg",
+      "title": "The Secret to Fixing Your Adulthood",
+      "url": "https://www.youtube.com/watch?v=iCdfSRc2QNg",
+      "page_filename": "youtube-iCdfSRc2QNg-The-Secret-to-Fixing-Your-Adulthood.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/The-Secret-to-Fixing-Your-Adulthood.md",
+      "processed_at": "2026-09-11T00:10:22.047673",
+      "status": "processed"
+    },
+    "oCB-sCIKnkU": {
+      "id": "oCB-sCIKnkU",
+      "title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
+      "url": "https://www.youtube.com/watch?v=oCB-sCIKnkU",
+      "page_filename": "youtube-oCB-sCIKnkU-Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
+      "processed_at": "2026-09-11T00:10:23.049372",
+      "status": "processed"
+    },
+    "vr-EwLQCOIk": {
+      "id": "vr-EwLQCOIk",
+      "title": "Why You Need Constant Reassurance",
+      "url": "https://www.youtube.com/watch?v=vr-EwLQCOIk",
+      "page_filename": "youtube-vr-EwLQCOIk-Why-You-Need-Constant-Reassurance.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-You-Need-Constant-Reassurance.md",
+      "processed_at": "2026-09-11T00:10:24.051038",
+      "status": "processed"
+    },
+    "2MwTDoT8XjY": {
+      "id": "2MwTDoT8XjY",
+      "title": "Why 40% Of Young Men Need Erectile Retraining",
+      "url": "https://www.youtube.com/watch?v=2MwTDoT8XjY",
+      "page_filename": "youtube-2MwTDoT8XjY-Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
+      "processed_at": "2026-09-11T00:10:25.053024",
+      "status": "processed"
+    },
+    "RdmYUULKf7s": {
+      "id": "RdmYUULKf7s",
+      "title": "Why Normal Life Feels So Boring",
+      "url": "https://www.youtube.com/watch?v=RdmYUULKf7s",
+      "page_filename": "youtube-RdmYUULKf7s-Why-Normal-Life-Feels-So-Boring.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-Normal-Life-Feels-So-Boring.md",
+      "processed_at": "2026-09-11T00:10:26.054563",
       "status": "processed"
     }
   },

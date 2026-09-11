@@ -1,9 +1,9 @@
 ---
 channel: Dave's Garage
-created: '2026-09-10T23:32:12.026156'
-duration: 14 minutes
+created: '2026-09-10T23:32:11.054531'
+duration: 11 minutes, 27 seconds
 sources:
-- https://www.youtube.com/watch?v=4c5f7WzQzY
+- https://www.youtube.com/watch?v=7vzjIv2l6wY
 tags:
 - programming
 - diy
@@ -20,18 +20,18 @@ tags:
 - development
 - youtube
 - daves-garage
-title: 'The NEW Kind of LED You Should Know About: Dave Plummer'
+title: 'Reliable Isn''t Always Better: TCP vs UDP'
 type: video
-updated: '2026-09-10T23:32:12.026168'
-video_id: 4c5f7WzQzY
-views: 1.1M
+updated: '2026-09-10T23:32:11.054543'
+video_id: 7vzjIv2l6wY
+views: 125K
 ---
 
-# The NEW Kind of LED You Should Know About: Dave Plummer
+# Reliable Isn't Always Better: TCP vs UDP
 
-> **Source:** [https://www.youtube.com/watch?v=4c5f7WzQzY](https://www.youtube.com/watch?v=4c5f7WzQzY)  
-> **Duration:** 14 minutes  
-> **Views:** 1.1M  
+> **Source:** [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY)  
+> **Duration:** 11 minutes, 27 seconds  
+> **Views:** 125K  
 > **Channel:** Dave's Garage
 
 ## Summary
@@ -69,7 +69,7 @@ This video from Dave's Garage explores programming, diy, code and related concep
 
 ## Transcript
 
-[00:00] This is a placeholder transcript for video 4c5f7WzQzY. In a production environment, this would contain the actual transcript from the YouTube video. The content would include detailed technical explanations, tutorials, and insights related to Dave's Garage topics like networking, programming, hardware, and DIY projects.
+[00:00] This is a placeholder transcript for video 7vzjIv2l6wY. In a production environment, this would contain the actual transcript from the YouTube video. The content would include detailed technical explanations, tutorials, and insights related to Dave's Garage topics like networking, programming, hardware, and DIY projects.
 
 [00:30] Dave's Garage typically covers technical topics such as Ethernet networking, assembly programming, hardware modifications, software development, and various engineering concepts. This placeholder would be replaced with the actual transcript content when the TranscriptAPI is available.
 

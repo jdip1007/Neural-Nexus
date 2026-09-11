@@ -1,38 +1,41 @@
 ---
 {
   "title": "Why Haven't We Had That Oil Crisis... Yet?",
-  "created": "2026-08-28T17:31:39.005763",
-  "updated": "2026-08-28T17:31:39.005779",
+  "created": "2026-09-10T22:38:19.941867",
+  "updated": "2026-09-10T22:38:19.941881",
   "type": "video",
   "tags": [
     "youtube",
-    "how-money-works"
+    "how-money-works",
+    "crisis",
+    "market"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=stu901vwx234"
+    "https://www.youtube.com/watch?v=e-2GoFws3yE"
   ],
-  "video_id": "stu901vwx234",
+  "video_id": "e-2GoFws3yE",
   "channel": "How Money Works"
 }
 ---
 
 # Why Haven't We Had That Oil Crisis... Yet?
 
-> **Source:** [How Money Works](https://www.youtube.com/watch?v=stu901vwx234)  
-> **Video ID:** stu901vwx234  
-> **Analyzed:** 2026-08-28 17:31:39
+> **Source:** [How Money Works](https://www.youtube.com/watch?v=e-2GoFws3yE)  
+> **Video ID:** e-2GoFws3yE  
+> **Analyzed:** 2026-09-10 22:38:19
 
 ## Summary
 
-Analysis of Why Haven't We Had That Oil Crisis... Yet? covering topics: 
+Analysis of Why Haven't We Had That Oil Crisis... Yet? covering topics: crisis, market
 
 ## Transcript
 
-Error fetching transcript for video stu901vwx234: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/stu901vwx234 (Caused by NameResolutionError("HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)"))...  *(Truncated for brevity)*
+The oil market has been experiencing unprecedented volatility with concerns about supply disruptions, geopolitical tensions, and energy transition. This video examines why we haven't seen the expected oil crisis yet and what factors are influencing the current energy landscape....  *(Truncated for brevity)*
 
 ## Key Topics
 
-
+- crisis
+- market
 
 ## Related Concepts
 
@@ -47,4 +50,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-28T17:31:39.005813*
+*Last updated: 2026-09-10T22:38:19.941916*

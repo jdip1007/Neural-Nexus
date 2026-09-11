@@ -1,9 +1,9 @@
 ---
 channel: Dave's Garage
-created: '2026-09-10T23:32:12.026156'
-duration: 14 minutes
+created: '2026-09-10T23:32:12.340280'
+duration: 23 minutes
 sources:
-- https://www.youtube.com/watch?v=4c5f7WzQzY
+- https://www.youtube.com/watch?v=QTTCqGtT6I4
 tags:
 - programming
 - diy
@@ -20,18 +20,18 @@ tags:
 - development
 - youtube
 - daves-garage
-title: 'The NEW Kind of LED You Should Know About: Dave Plummer'
+title: Ethernet Explained so well that even YOU can Understand it!
 type: video
-updated: '2026-09-10T23:32:12.026168'
-video_id: 4c5f7WzQzY
-views: 1.1M
+updated: '2026-09-10T23:32:12.340292'
+video_id: QTTCqGtT6I4
+views: 165K
 ---
 
-# The NEW Kind of LED You Should Know About: Dave Plummer
+# Ethernet Explained so well that even YOU can Understand it!
 
-> **Source:** [https://www.youtube.com/watch?v=4c5f7WzQzY](https://www.youtube.com/watch?v=4c5f7WzQzY)  
-> **Duration:** 14 minutes  
-> **Views:** 1.1M  
+> **Source:** [https://www.youtube.com/watch?v=QTTCqGtT6I4](https://www.youtube.com/watch?v=QTTCqGtT6I4)  
+> **Duration:** 23 minutes  
+> **Views:** 165K  
 > **Channel:** Dave's Garage
 
 ## Summary
@@ -69,7 +69,7 @@ This video from Dave's Garage explores programming, diy, code and related concep
 
 ## Transcript
 
-[00:00] This is a placeholder transcript for video 4c5f7WzQzY. In a production environment, this would contain the actual transcript from the YouTube video. The content would include detailed technical explanations, tutorials, and insights related to Dave's Garage topics like networking, programming, hardware, and DIY projects.
+[00:00] This is a placeholder transcript for video QTTCqGtT6I4. In a production environment, this would contain the actual transcript from the YouTube video. The content would include detailed technical explanations, tutorials, and insights related to Dave's Garage topics like networking, programming, hardware, and DIY projects.
 
 [00:30] Dave's Garage typically covers technical topics such as Ethernet networking, assembly programming, hardware modifications, software development, and various engineering concepts. This placeholder would be replaced with the actual transcript content when the TranscriptAPI is available.
 

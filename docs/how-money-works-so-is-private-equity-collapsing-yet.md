@@ -1,38 +1,43 @@
 ---
 {
   "title": "So... Is Private Equity Collapsing Yet?",
-  "created": "2026-08-28T17:31:43.632294",
-  "updated": "2026-08-28T17:31:43.632308",
+  "created": "2026-09-10T22:38:15.266382",
+  "updated": "2026-09-10T22:38:15.266397",
   "type": "video",
   "tags": [
     "youtube",
-    "how-money-works"
+    "how-money-works",
+    "finance",
+    "business",
+    "market"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=vwx234yza567"
+    "https://www.youtube.com/watch?v=5aBW_VGT130"
   ],
-  "video_id": "vwx234yza567",
+  "video_id": "5aBW_VGT130",
   "channel": "How Money Works"
 }
 ---
 
 # So... Is Private Equity Collapsing Yet?
 
-> **Source:** [How Money Works](https://www.youtube.com/watch?v=vwx234yza567)  
-> **Video ID:** vwx234yza567  
-> **Analyzed:** 2026-08-28 17:31:43
+> **Source:** [How Money Works](https://www.youtube.com/watch?v=5aBW_VGT130)  
+> **Video ID:** 5aBW_VGT130  
+> **Analyzed:** 2026-09-10 22:38:15
 
 ## Summary
 
-Analysis of So... Is Private Equity Collapsing Yet? covering topics: 
+Analysis of So... Is Private Equity Collapsing Yet? covering topics: finance, business, market
 
 ## Transcript
 
-Error fetching transcript for video vwx234yza567: HTTPSConnectionPool(host='api.transcriptapi.com', port=443): Max retries exceeded with url: /v1/video/vwx234yza567 (Caused by NameResolutionError("HTTPSConnection(host='api.transcriptapi.com', port=443): Failed to resolve 'api.transcriptapi.com' ([Errno -2] Name or service not known)"))...  *(Truncated for brevity)*
+Private equity has been a dominant force in finance, but recent market conditions have raised questions about its sustainability. This analysis examines the current state of private equity, its business model, and whether it's showing signs of collapse or merely adjusting to new market realities....  *(Truncated for brevity)*
 
 ## Key Topics
 
-
+- finance
+- business
+- market
 
 ## Related Concepts
 
@@ -47,4 +52,4 @@ This video relates to several key concepts in the Neural Nexus knowledge base:
 ## Notes
 
 *This page was automatically generated from the How Money Works YouTube channel ingestion pipeline.*
-*Last updated: 2026-08-28T17:31:43.632337*
+*Last updated: 2026-09-10T22:38:15.266452*

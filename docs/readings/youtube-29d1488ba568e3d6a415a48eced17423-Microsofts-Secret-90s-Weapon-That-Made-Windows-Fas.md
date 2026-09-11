@@ -1,58 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-09-01T20:38:22.643215'
+created: '2026-09-10T23:32:11.708189'
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=8c4Yf7WzQzY
 tags:
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
-- system
-- diy
-- assembly
 - programming
-- network
-- development
+- diy
+- code
+- led
+- tech
+- software
 - hardware
+- ethernet
+- tutorial
+- assembly
+- network
+- system
+- development
 - youtube
 - daves-garage
 title: Microsoft's Secret 90s Weapon That Made Windows Fast
 type: video
-updated: '2026-09-01T20:38:22.643227'
+updated: '2026-09-10T23:32:11.708201'
 video_id: 8c4Yf7WzQzY
-views: 126K
+views: 129K
 ---
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 
 > **Source:** [https://www.youtube.com/watch?v=8c4Yf7WzQzY](https://www.youtube.com/watch?v=8c4Yf7WzQzY)  
 > **Duration:** 18 minutes  
-> **Views:** 126K  
+> **Views:** 129K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
+This video from Dave's Garage explores programming, diy, code and related concepts in depth.
 
 ## Key Topics
 
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
-- system
-- diy
-- assembly
 - programming
-- network
-- development
+- diy
+- code
+- led
+- tech
+- software
 - hardware
+- ethernet
+- tutorial
+- assembly
+- network
+- system
+- development
 
 ## Key Concepts
 
