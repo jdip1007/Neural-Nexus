@@ -1,29 +1,29 @@
-# CANBUS – Networking so simple, even YOU can understand it!
+# Ethernet Explained so well that even YOU can Understand it!
 
 > **Source:** [https://www.youtube.com/watch?v=QTTCqGtT6I4](https://www.youtube.com/watch?v=QTTCqGtT6I4)  
 > **Duration:** 23 minutes  
-> **Views:** 428K  
+> **Views:** 165K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
+This video from Dave's Garage explores programming, diy, code and related concepts in depth.
 
 ## Key Topics
 
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
-- system
-- diy
-- assembly
 - programming
-- network
-- development
+- diy
+- code
+- led
+- tech
+- software
 - hardware
+- ethernet
+- tutorial
+- assembly
+- network
+- system
+- development
 
 ## Key Concepts
 

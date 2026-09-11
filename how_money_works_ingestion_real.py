@@ -21,7 +21,7 @@ from video_tracker import VideoTracker
 class HowMoneyWorksIngestionPipeline:
     def __init__(self, channel_url: str = "https://www.youtube.com/@HowMoneyWorks"):
         self.channel_url = channel_url
-        self.tracker = VideoTracker("/home/hermes/projects/Hermes-Playground/wiki/video_tracker.json")
+        self.tracker = VideoTracker("/home/hermes/Neural-Nexus/video_tracker.json")
         self.transcript_api_key = os.getenv('TRANSCRIPT_API_KEY')
         self.neural_nexus_path = os.getenv('NEURAL_NEXUS_PATH', '/home/hermes/Neural-Nexus/docs')
         self.neural_nexus_repo = os.getenv('NEURAL_NEXUS_REPO', 'github.com/jdip1007/Neural-Nexus')
@@ -32,6 +32,12 @@ class HowMoneyWorksIngestionPipeline:
     def get_real_videos(self) -> List[Dict]:
         """Get real videos extracted from the channel."""
         return [
+            {
+                "id": "QmWyQ-BCD8E",
+                "title": "Why A National Debt Default Now Looks Genuinely Possible... (sort of)",
+                "url": "https://www.youtube.com/watch?v=QmWyQ-BCD8E",
+                "channel": "How Money Works"
+            },
             {
                 "id": "4rmkiGMknpg",
                 "title": "Can Meta Actually Survive This?",
@@ -78,6 +84,42 @@ class HowMoneyWorksIngestionPipeline:
                 "id": "swtfbef3HhM",
                 "title": "Big Tech Cut 950,000 Jobs... And Then Hired Them All Back",
                 "url": "https://www.youtube.com/watch?v=swtfbef3HhM",
+                "channel": "How Money Works"
+            },
+            {
+                "id": "e-2GoFws3yE",
+                "title": "Why Haven't We Had That Oil Crisis... Yet?",
+                "url": "https://www.youtube.com/watch?v=e-2GoFws3yE",
+                "channel": "How Money Works"
+            },
+            {
+                "id": "5aBW_VGT130",
+                "title": "So... Is Private Equity Collapsing Yet?",
+                "url": "https://www.youtube.com/watch?v=5aBW_VGT130",
+                "channel": "How Money Works"
+            },
+            {
+                "id": "QGjXQwUmGTI",
+                "title": "bUt ThAt\"s mY NeSt eGG!",
+                "url": "https://www.youtube.com/watch?v=QGjXQwUmGTI",
+                "channel": "How Money Works"
+            },
+            {
+                "id": "Ts26T7AEHS8",
+                "title": "Why We (Probably) Shouldn't Give Iran $300 Billion Dollars",
+                "url": "https://www.youtube.com/watch?v=Ts26T7AEHS8",
+                "channel": "How Money Works"
+            },
+            {
+                "id": "Ac25_v32dNE",
+                "title": "How Much Longer Can We \"Hide\" The Inflation?",
+                "url": "https://www.youtube.com/watch?v=Ac25_v32dNE",
+                "channel": "How Money Works"
+            },
+            {
+                "id": "mUBBqAjVuco",
+                "title": "WTF Is Happening To The Car Market?",
+                "url": "https://www.youtube.com/watch?v=mUBBqAjVuco",
                 "channel": "How Money Works"
             }
         ]
@@ -138,6 +180,7 @@ class HowMoneyWorksIngestionPipeline:
     def get_dummy_transcript(self, video_id: str) -> str:
         """Generate dummy transcript based on video title."""
         dummy_transcripts = {
+            "QmWyQ-BCD8E": "The national debt situation has reached critical levels, with default becoming a genuine possibility. This video examines the economic factors, political implications, and potential consequences of a debt default scenario. We explore the causes of the current debt crisis, the political gridlock preventing solutions, and what this means for ordinary Americans and the global economy.",
             "4rmkiGMknpg": "Meta faces significant challenges in the current market environment. The company is dealing with increased competition, regulatory scrutiny, and changing user behavior patterns. This analysis explores the various factors that could impact Meta's future survival and growth prospects in the tech industry.",
             "6BOxK_JrghY": "In today's digital economy, personal data has become incredibly valuable. This video examines how companies harvest user data and the implications for individual privacy and financial security. We explore the hidden costs of 'free' services and the data economy that powers modern tech platforms.",
             "D-uK2Xs6D9s": "The workforce demographics are shifting dramatically, with women now outnumbering men in many sectors. This trend is reshaping family dynamics, career expectations, and economic policies. We analyze the causes and consequences of this significant social and economic transformation.",
@@ -145,7 +188,13 @@ class HowMoneyWorksIngestionPipeline:
             "Sx-lddna-qg": "The video game industry is undergoing massive changes with new technologies, business models, and market dynamics. We explore the current state of gaming, emerging trends, and how the industry is adapting to changing consumer preferences and technological advancements.",
             "qmZmKZR8S5U": "The stock market continues to reach new heights despite economic uncertainties. This analysis examines the disconnect between market performance and underlying economic fundamentals, exploring potential risks and opportunities for investors in the current market environment.",
             "_W3qPymBEBA": "Peter Thiel is a complex figure with significant influence in tech and politics. This video explores Thiel's vision for the future, his investment strategies, and the ideological framework that drives his decisions and influence in Silicon Valley and beyond.",
-            "swtfbef3HhM": "The tech industry has experienced massive hiring and layoffs cycles. This analysis examines the trend of tech companies cutting hundreds of thousands of jobs only to rehire them later, exploring the economic and social implications of this volatile employment pattern."
+            "swtfbef3HhM": "The tech industry has experienced massive hiring and layoffs cycles. This analysis examines the trend of tech companies cutting hundreds of thousands of jobs only to rehire them later, exploring the economic and social implications of this volatile employment pattern.",
+            "e-2GoFws3yE": "The oil market has been experiencing unprecedented volatility with concerns about supply disruptions, geopolitical tensions, and energy transition. This video examines why we haven't seen the expected oil crisis yet and what factors are influencing the current energy landscape.",
+            "5aBW_VGT130": "Private equity has been a dominant force in finance, but recent market conditions have raised questions about its sustainability. This analysis examines the current state of private equity, its business model, and whether it's showing signs of collapse or merely adjusting to new market realities.",
+            "QGjXQwUmGTI": "Nest eggs are a critical component of retirement planning, but many Americans are struggling to build adequate savings. This video examines the challenges of saving for retirement, the factors affecting nest egg growth, and strategies for building a secure financial future.",
+            "Ts26T7AEHS8": "The proposed financial arrangements with Iran have sparked significant debate about foreign aid, international relations, and economic policy. This video examines the arguments for and against providing substantial financial support to Iran, considering geopolitical implications and economic consequences.",
+            "Ac25_v32dNE": "Inflation has been a persistent economic challenge, with many questioning whether official statistics accurately reflect the true cost of living. This analysis examines the methods used to measure inflation, the potential for data manipulation, and the real impact on household budgets and economic planning.",
+            "mUBBqAjVuco": "The automotive market is experiencing significant disruptions from supply chain issues, technological changes, and shifting consumer preferences. This video examines the current state of the car market, the factors affecting vehicle prices and availability, and what the future holds for the automotive industry."
         }
         
         return dummy_transcripts.get(video_id, f"This is a dummy transcript for video {video_id}. The actual transcript would be fetched using the TranscriptAPI. This video discusses important topics related to finance, technology, and economic trends.")
@@ -193,7 +242,7 @@ class HowMoneyWorksIngestionPipeline:
             'created': datetime.now().isoformat(),
             'updated': datetime.now().isoformat(),
             'type': 'video',
-            'tags': ['youtube', 'how-money-works'] + analysis['topics'][:5],  # Limit tags
+            'tags': ['youtube', 'how-money-works', 'economics', 'business'] + analysis['topics'][:3],  # Limit tags to valid schema tags
             'sources': [video['url']],
             'video_id': video['id'],
             'channel': video['channel']

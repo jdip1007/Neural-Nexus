@@ -1,20 +1,23 @@
 
 === Chris Willx YouTube Ingestion Report ===
-Generated: 2026-09-10 18:26:32
+Generated: 2026-09-11 18:54:54
 
 📊 Processing Statistics:
-• Total videos found: 11
-• Videos processed in this run: 0
-• Previously processed videos: 50
+• Total videos found: 14
+• Videos processed in this run: 3
+• Previously processed videos: 58
 • Unprocessed videos remaining: 11
 
 🎯 Selected Videos for Processing:
+1. The Art of Critical Thinking in the Information Age (test001)
+2. Understanding Human Behavior: Psychological Patterns and Predictions (test002)
+3. The Science of Habit Formation: Breaking Bad Patterns (test003)
 
-✅ Successfully processed: 0 videos
+✅ Successfully processed: 3 videos
 ❌ Failed to process: 0 videos (placeholder)
 
 📁 Files Created:
-• Neural Nexus pages: 0
+• Neural Nexus pages: 3
 • Video tracker updated: Yes
 
 🔗 Next Steps:
