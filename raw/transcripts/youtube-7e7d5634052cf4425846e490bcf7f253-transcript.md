@@ -2,28 +2,28 @@
 
 > **Source:** [https://www.youtube.com/watch?v=3c5f7WzQzY](https://www.youtube.com/watch?v=3c5f7WzQzY)  
 > **Duration:** 18 minutes  
-> **Views:** 420K  
+> **Views:** 428K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores code, assembly, hardware and related concepts in depth.
+This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
 
 ## Key Topics
 
-- code
-- assembly
-- hardware
-- programming
-- ethernet
-- system
-- network
-- development
-- tech
-- software
-- led
-- diy
 - tutorial
+- led
+- network
+- assembly
+- ethernet
+- programming
+- software
+- tech
+- hardware
+- diy
+- code
+- development
+- system
 
 ## Key Concepts
 

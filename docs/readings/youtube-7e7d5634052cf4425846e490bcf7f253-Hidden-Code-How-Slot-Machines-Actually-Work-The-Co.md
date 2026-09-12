@@ -1,59 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-08-26T17:48:32.746968'
+created: '2026-09-12T23:55:45.367436'
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=3c5f7WzQzY
 tags:
-- code
-- assembly
-- hardware
-- programming
-- ethernet
-- system
-- network
-- development
-- tech
-- software
-- led
-- diy
 - tutorial
+- led
+- network
+- assembly
+- ethernet
+- programming
+- software
+- tech
+- hardware
+- diy
+- code
+- development
+- system
 - youtube
 - daves-garage
 title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside'
-type: reading
-updated: '2026-08-26T17:48:32.746981'
+type: video
+updated: '2026-09-12T23:55:45.367451'
 video_id: 3c5f7WzQzY
-views: 420K
-domain: devops
+views: 428K
 ---
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside
 
 > **Source:** [https://www.youtube.com/watch?v=3c5f7WzQzY](https://www.youtube.com/watch?v=3c5f7WzQzY)  
 > **Duration:** 18 minutes  
-> **Views:** 420K  
+> **Views:** 428K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores code, assembly, hardware and related concepts in depth.
+This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
 
 ## Key Topics
 
-- code
-- assembly
-- hardware
-- programming
-- ethernet
-- system
-- network
-- development
-- tech
-- software
-- led
-- diy
 - tutorial
+- led
+- network
+- assembly
+- ethernet
+- programming
+- software
+- tech
+- hardware
+- diy
+- code
+- development
+- system
 
 ## Key Concepts
 
@@ -78,14 +77,3 @@ This video from Dave's Garage explores code, assembly, hardware and related conc
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

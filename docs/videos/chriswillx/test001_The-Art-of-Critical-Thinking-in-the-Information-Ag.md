@@ -1,17 +1,20 @@
 ---
-title: The Art of Critical Thinking in the Information Age
-created: '2026-09-11'
-updated: '2026-09-11'
-type: reading
-tags:
-- technology
-sources:
-- https://www.youtube.com/watch?v=test001
-video_id: test001
-channel: Chris Willx
-transcript_api: transcriptapi.com
-ingestion_date: '2026-09-11 18:54:47'
-domain: psychology
+{
+  "title": "The Art of Critical Thinking in the Information Age",
+  "created": "2026-09-12",
+  "updated": "2026-09-12",
+  "type": "video",
+  "tags": [
+    "technology"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=test001"
+  ],
+  "video_id": "test001",
+  "channel": "Chris Willx",
+  "transcript_api": "transcriptapi.com",
+  "ingestion_date": "2026-09-12 19:25:55"
+}
 ---
 
 # The Art of Critical Thinking in the Information Age
@@ -21,7 +24,7 @@ domain: psychology
 - **Channel**: Chris Willx
 - **Video ID**: test001
 - **URL**: https://www.youtube.com/watch?v=test001
-- **Date Added**: 2026-09-11 18:54:47
+- **Date Added**: 2026-09-12 19:25:55
 
 ## Key Topics
 
@@ -43,6 +46,6 @@ This video explores various topics related to technology.
 
 ## Related Pages
 
-- [[chris-willx]] - Main channel page
+- [[Chris Willx]] - Main channel page
 - [[Philosophy]] - General philosophy topics
-- [Psychology](concepts/psychology.md) - Psychological concepts discussed
+- [[Psychology]] - Psychological concepts discussed

@@ -1,31 +1,30 @@
 ---
 channel: Dave's Garage
-created: '2026-09-01T20:36:15.478144'
+created: '2026-09-12T23:55:44.690070'
 duration: 23 minutes
 sources:
 - https://www.youtube.com/watch?v=7vzjIv2l6wY
 tags:
 - tutorial
-- assembly
-- diy
-- ethernet
-- development
-- software
-- hardware
-- code
-- system
-- tech
 - led
 - network
+- assembly
+- ethernet
 - programming
+- software
+- tech
+- hardware
+- diy
+- code
+- development
+- system
 - youtube
 - daves-garage
 title: Ethernet Explained so well that even YOU can Understand it!
-type: reading
-updated: '2026-09-01T20:36:15.478158'
+type: video
+updated: '2026-09-12T23:55:44.690080'
 video_id: 7vzjIv2l6wY
 views: 143K
-domain: devops
 ---
 
 # Ethernet Explained so well that even YOU can Understand it!
@@ -37,23 +36,23 @@ domain: devops
 
 ## Summary
 
-This video from Dave's Garage explores tutorial, assembly, diy and related concepts in depth.
+This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
 
 ## Key Topics
 
 - tutorial
-- assembly
-- diy
-- ethernet
-- development
-- software
-- hardware
-- code
-- system
-- tech
 - led
 - network
+- assembly
+- ethernet
 - programming
+- software
+- tech
+- hardware
+- diy
+- code
+- development
+- system
 
 ## Key Concepts
 
@@ -78,14 +77,3 @@ This video from Dave's Garage explores tutorial, assembly, diy and related conce
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

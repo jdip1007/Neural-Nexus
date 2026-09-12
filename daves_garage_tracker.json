@@ -29,6 +29,36 @@
       "processed_date": "2026-09-01T20:38:23.587568",
       "status": "completed",
       "url": "https://www.youtube.com/watch?v=OG91c7xsNMc"
+    },
+    "17690d3bfe321f095d5a3d11e0b03ad5": {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "processed_date": "2026-09-12T23:55:44.691255",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY"
+    },
+    "a1814b6419c40431ed1cdc5a4baf0f48": {
+      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "processed_date": "2026-09-12T23:55:44.918917",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38"
+    },
+    "e96cc006ebe07e07a82d5f3a87b3c5c4": {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "processed_date": "2026-09-12T23:55:45.145346",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o"
+    },
+    "7e7d5634052cf4425846e490bcf7f253": {
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "processed_date": "2026-09-12T23:55:45.368639",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=3c5f7WzQzY"
+    },
+    "2ea656d0a65023c961e46c836b2ab50e": {
+      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "processed_date": "2026-09-12T23:55:45.586995",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY"
     }
   },
   "ingestion_history": [
@@ -61,7 +91,37 @@
       "video_url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
       "processed_date": "2026-09-01T20:38:23.587575",
       "status": "completed"
+    },
+    {
+      "video_title": "Ethernet Explained so well that even YOU can Understand it!",
+      "video_url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "processed_date": "2026-09-12T23:55:44.691261",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "video_url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
+      "processed_date": "2026-09-12T23:55:44.918922",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "video_url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "processed_date": "2026-09-12T23:55:45.145362",
+      "status": "completed"
+    },
+    {
+      "video_title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "video_url": "https://www.youtube.com/watch?v=3c5f7WzQzY",
+      "processed_date": "2026-09-12T23:55:45.368646",
+      "status": "completed"
+    },
+    {
+      "video_title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "video_url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
+      "processed_date": "2026-09-12T23:55:45.587001",
+      "status": "completed"
     }
   ],
-  "last_updated": "2026-09-01T20:38:23.587577"
+  "last_updated": "2026-09-12T23:55:45.587002"
 }

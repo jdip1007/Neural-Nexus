@@ -1,31 +1,30 @@
 ---
 channel: Dave's Garage
-created: '2026-08-21T16:16:49.238480'
+created: '2026-09-12T23:55:45.143754'
 duration: 22 minutes
 sources:
 - https://www.youtube.com/watch?v=hRhBuHJ-j_o
 tags:
-- code
-- network
-- system
-- diy
-- development
-- ethernet
-- tech
-- assembly
-- hardware
 - tutorial
+- led
+- network
+- assembly
+- ethernet
 - programming
 - software
-- led
+- tech
+- hardware
+- diy
+- code
+- development
+- system
 - youtube
 - daves-garage
 title: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
-type: reading
-updated: '2026-08-21T16:16:49.238491'
+type: video
+updated: '2026-09-12T23:55:45.143770'
 video_id: hRhBuHJ-j_o
 views: 40K
-domain: devops
 ---
 
 # The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
@@ -37,23 +36,23 @@ domain: devops
 
 ## Summary
 
-This video from Dave's Garage explores code, network, system and related concepts in depth.
+This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
 
 ## Key Topics
 
-- code
-- network
-- system
-- diy
-- development
-- ethernet
-- tech
-- assembly
-- hardware
 - tutorial
+- led
+- network
+- assembly
+- ethernet
 - programming
 - software
-- led
+- tech
+- hardware
+- diy
+- code
+- development
+- system
 
 ## Key Concepts
 
@@ -78,14 +77,3 @@ This video from Dave's Garage explores code, network, system and related concept
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

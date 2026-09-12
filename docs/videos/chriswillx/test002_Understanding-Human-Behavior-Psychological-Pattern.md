@@ -1,17 +1,20 @@
 ---
-title: 'Understanding Human Behavior: Psychological Patterns and Predictions'
-created: '2026-09-11'
-updated: '2026-09-11'
-type: reading
-tags:
-- technology
-sources:
-- https://www.youtube.com/watch?v=test002
-video_id: test002
-channel: Chris Willx
-transcript_api: transcriptapi.com
-ingestion_date: '2026-09-11 18:54:49'
-domain: psychology
+{
+  "title": "Understanding Human Behavior: Psychological Patterns and Predictions",
+  "created": "2026-09-12",
+  "updated": "2026-09-12",
+  "type": "video",
+  "tags": [
+    "technology"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=test002"
+  ],
+  "video_id": "test002",
+  "channel": "Chris Willx",
+  "transcript_api": "transcriptapi.com",
+  "ingestion_date": "2026-09-12 19:25:57"
+}
 ---
 
 # Understanding Human Behavior: Psychological Patterns and Predictions
@@ -21,7 +24,7 @@ domain: psychology
 - **Channel**: Chris Willx
 - **Video ID**: test002
 - **URL**: https://www.youtube.com/watch?v=test002
-- **Date Added**: 2026-09-11 18:54:49
+- **Date Added**: 2026-09-12 19:25:57
 
 ## Key Topics
 
@@ -43,6 +46,6 @@ This video explores various topics related to technology.
 
 ## Related Pages
 
-- [[chris-willx]] - Main channel page
+- [[Chris Willx]] - Main channel page
 - [[Philosophy]] - General philosophy topics
-- [Psychology](concepts/psychology.md) - Psychological concepts discussed
+- [[Psychology]] - Psychological concepts discussed

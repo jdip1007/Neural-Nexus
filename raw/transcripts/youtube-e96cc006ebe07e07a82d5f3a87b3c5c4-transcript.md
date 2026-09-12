@@ -7,23 +7,23 @@
 
 ## Summary
 
-This video from Dave's Garage explores code, network, system and related concepts in depth.
+This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
 
 ## Key Topics
 
-- code
-- network
-- system
-- diy
-- development
-- ethernet
-- tech
-- assembly
-- hardware
 - tutorial
+- led
+- network
+- assembly
+- ethernet
 - programming
 - software
-- led
+- tech
+- hardware
+- diy
+- code
+- development
+- system
 
 ## Key Concepts
 

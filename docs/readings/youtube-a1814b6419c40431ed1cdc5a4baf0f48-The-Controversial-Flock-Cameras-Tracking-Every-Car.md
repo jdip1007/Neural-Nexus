@@ -1,59 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-09-10T23:32:11.385880'
+created: '2026-09-12T23:55:44.917927'
 duration: 22 minutes
 sources:
 - https://www.youtube.com/watch?v=LJSgsf9ro38
 tags:
+- tutorial
+- led
+- network
+- assembly
+- ethernet
 - programming
+- software
+- tech
+- hardware
 - diy
 - code
-- led
-- tech
-- software
-- hardware
-- ethernet
-- tutorial
-- assembly
-- network
-- system
 - development
+- system
 - youtube
 - daves-garage
-title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
-type: reading
-updated: '2026-09-10T23:32:11.385892'
+title: "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown"
+type: video
+updated: '2026-09-12T23:55:44.917937'
 video_id: LJSgsf9ro38
-views: 254K
-domain: devops
+views: 240K
 ---
 
 # The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 
 > **Source:** [https://www.youtube.com/watch?v=LJSgsf9ro38](https://www.youtube.com/watch?v=LJSgsf9ro38)  
 > **Duration:** 22 minutes  
-> **Views:** 254K  
+> **Views:** 240K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores programming, diy, code and related concepts in depth.
+This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
 
 ## Key Topics
 
+- tutorial
+- led
+- network
+- assembly
+- ethernet
 - programming
+- software
+- tech
+- hardware
 - diy
 - code
-- led
-- tech
-- software
-- hardware
-- ethernet
-- tutorial
-- assembly
-- network
-- system
 - development
+- system
 
 ## Key Concepts
 
@@ -78,14 +77,3 @@ This video from Dave's Garage explores programming, diy, code and related concep
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

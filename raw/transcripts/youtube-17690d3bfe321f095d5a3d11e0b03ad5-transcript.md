@@ -1,29 +1,29 @@
-# Reliable Isn't Always Better: TCP vs UDP
+# Ethernet Explained so well that even YOU can Understand it!
 
 > **Source:** [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY)  
-> **Duration:** 11 minutes, 27 seconds  
-> **Views:** 125K  
+> **Duration:** 23 minutes  
+> **Views:** 143K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores programming, diy, code and related concepts in depth.
+This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
 
 ## Key Topics
 
+- tutorial
+- led
+- network
+- assembly
+- ethernet
 - programming
+- software
+- tech
+- hardware
 - diy
 - code
-- led
-- tech
-- software
-- hardware
-- ethernet
-- tutorial
-- assembly
-- network
-- system
 - development
+- system
 
 ## Key Concepts
 

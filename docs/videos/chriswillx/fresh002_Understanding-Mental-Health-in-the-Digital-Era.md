@@ -1,6 +1,6 @@
 ---
 {
-  "title": "The Science of Habit Formation: Breaking Bad Patterns",
+  "title": "Understanding Mental Health in the Digital Era",
   "created": "2026-09-12",
   "updated": "2026-09-12",
   "type": "video",
@@ -8,23 +8,23 @@
     "technology"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=test003"
+    "https://www.youtube.com/watch?v=fresh002"
   ],
-  "video_id": "test003",
+  "video_id": "fresh002",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-12 19:25:59"
+  "ingestion_date": "2026-09-12 19:29:49"
 }
 ---
 
-# The Science of Habit Formation: Breaking Bad Patterns
+# Understanding Mental Health in the Digital Era
 
 ## Video Information
 
 - **Channel**: Chris Willx
-- **Video ID**: test003
-- **URL**: https://www.youtube.com/watch?v=test003
-- **Date Added**: 2026-09-12 19:25:59
+- **Video ID**: fresh002
+- **URL**: https://www.youtube.com/watch?v=fresh002
+- **Date Added**: 2026-09-12 19:29:49
 
 ## Key Topics
 
@@ -32,13 +32,13 @@
 
 ## Key Concepts
 
-- Mock transcript for video test003
+- Mock transcript for video fresh002
 - This is a simulated transcript for demonstration purposes
 - In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions
 
 ## Transcript
 
-Mock transcript for video test003. This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions.
+Mock transcript for video fresh002. This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions.
 
 ## Analysis
 
