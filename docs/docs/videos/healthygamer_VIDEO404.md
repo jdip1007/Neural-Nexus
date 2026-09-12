@@ -1,5 +1,15 @@
 ---
 title: Sample Video VIDEO404
+created: 2026-09-12
+updated: 2026-09-12
+type: reading
+domain: psychology
+tags: []
+status: draft
+---
+
+---
+title: Sample Video VIDEO404
 created: 2026-09-06T23:08:03.791379
 updated: 2026-09-06T23:08:03.791380
 type: video

@@ -3,8 +3,13 @@ title: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K
 created: 2026-09-01
 updated: 2026-09-01
 type: concept
-tags: ['dating', 'relationships', 'psychology', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/Why Modern Dating Feels Like Parenting _ Lovemaxxing w_ Dr. K.md]
+tags:
+- relationships
+- relationships
+sources:
+- raw/transcripts/healthygamergg/Why Modern Dating Feels Like Parenting _ Lovemaxxing
+  w_ Dr. K.md
+domain: psychology
 ---
 
 # Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K

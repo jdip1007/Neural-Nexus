@@ -5,7 +5,7 @@ updated: 2026-08-19
 type: concept
 classification: psychology.military.structure
 domain: psychology
-tags: [military, hierarchy, command, chain-of-command, military-organization]
+tags: ["military", "hierarchy", "command", "military-organization"]
 sources: []
 confidence: high
 status: active

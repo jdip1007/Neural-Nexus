@@ -1,17 +1,10 @@
 ---
-title: Ancient Wisdom for Modern Life: Stoicism in the 21st Century
-created: 2026-08-30
-updated: 2026-08-30
-type: video
-classification: philosophy.youtube-channel.chriswillx
-domain: philosophy
-tags: ["philosophy", "life"]
-sources: [raw/videos/chriswillx/ancient_wisdom_modern_life_ancient-wisdom-for-modern-life-stoicism-in-the-21st-century.md]
-confidence: high
-status: active
-reviewed: 2026-08-30
-backlinks: []
-
+title: 'Ancient Wisdom for Modern Life: Stoicism in the 21st Century'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # Ancient Wisdom for Modern Life: Stoicism in the 21st Century

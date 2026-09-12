@@ -1,17 +1,10 @@
 ---
-title: Video 17: Looking at Videos - Summary
-created: 2026-09-01
-updated: 2026-09-01
+title: 'Video 17: Looking at Videos - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, plCuZVzK6kk]
-sources: [raw/videos/youtube-plCuZVzK6kk-transcript.md]
-published: 2026-09-01
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-09-01
+domain: general
+tags: []
 ---
 
 # Video 17: Looking at Videos - Summary

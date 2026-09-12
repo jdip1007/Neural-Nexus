@@ -190,15 +190,26 @@ function loadTagsFromSchema() {
   const tags = new Set();
   let inTaxonomy = false;
   for (const line of content.split('\n')) {
-    if (line.startsWith('## Tag Taxonomy')) { inTaxonomy = true; continue; }
-    if (inTaxonomy && line.startsWith('## ') && !line.includes('Taxonomy')) { inTaxonomy = false; continue; }
-    if (inTaxonomy && line.trim().startsWith('-') && !line.trim().startsWith('- **')) {
-      const items = line.trim().slice(1).trim();
+    // Match both "## Tag Taxonomy" and "## Taxonomy"
+    if (/^## (Tag )?Taxonomy/.test(line)) { inTaxonomy = true; continue; }
+    if (inTaxonomy && line.startsWith('## ') && !/Taxonomy/.test(line)) { inTaxonomy = false; continue; }
+    if (!inTaxonomy) continue;
+    const trimmed = line.trim();
+    // "- tag1, tag2" format
+    if (trimmed.startsWith('-') && !trimmed.startsWith('- **')) {
+      const items = trimmed.slice(1).trim();
       for (const item of items.split(',')) {
         const tag = item.trim().replace(/`/g, '');
         if (tag && tag.length < 40 && !tag.startsWith('**')) {
           tags.add(tag);
         }
+      }
+    }
+    // Bare tag lines (e.g. "mental-health" on its own line)
+    else if (trimmed && !trimmed.startsWith('#') && !trimmed.startsWith('|||') && !trimmed.startsWith('-')) {
+      const tag = trimmed.replace(/`/g, '');
+      if (tag.length < 40 && tag.length > 0) {
+        tags.add(tag);
       }
     }
   }

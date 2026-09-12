@@ -2,11 +2,10 @@
 title: WTF Is Happening To The Video Game Industry?
 created: 2026-09-02
 updated: 2026-09-02
-type: video
+type: reading
 classification: education.youtube-channel.howmoneyworks
 domain: finance
 tags: ["investing", "finance", "business"]
-sources: ["https://raw.githubusercontent.com/jdip1007/Neural-Nexus/main/raw/videos/howmoneyworks/Sx-lddna-qg_wtf-is-happening-to-the-video-game-industry.md"]
 confidence: high
 status: active
 reviewed: 2026-09-02

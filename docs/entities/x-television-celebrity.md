@@ -5,7 +5,7 @@ updated: 2026-07-19
 type: entity
 classification: person.media-figure
 domain: psychology
-tags: [celebrity, television-personality, blackmail-victim, hong-kong, dangerous-person-2-0]
+tags: ["celebrity", "television-personality", "blackmail-victim", "hong-kong"]
 confidence: medium
 status: active
 reviewed: 2026-07-19

@@ -1,20 +1,17 @@
 ---
-{
-  "title": "\"It wasn't my baggie. But if it was...\" - Hunter Biden",
-  "created": "2026-09-06",
-  "updated": "2026-09-06",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=XzIY0M612A0"
-  ],
-  "video_id": "XzIY0M612A0",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-06 17:18:09"
-}
+title: '"It wasn''t my baggie. But if it was..." - Hunter Biden'
+created: '2026-09-06'
+updated: '2026-09-06'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=XzIY0M612A0
+video_id: XzIY0M612A0
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-06 17:18:09'
+domain: psychology
 ---
 
 # "It wasn't my baggie. But if it was..." - Hunter Biden

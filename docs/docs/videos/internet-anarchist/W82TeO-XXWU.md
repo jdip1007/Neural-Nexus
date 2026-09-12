@@ -1,14 +1,17 @@
 ---
-title: ""
-created: "2026-08-25"
-updated: "2026-08-25"
-type: "reading"
-tags: ["internet-anarchist", "video", "documentary", "media critique", "social commentary", "internet culture"]
-sources: ["youtube.com/watch?v=W82TeO-XXWU"]
-video_id: "W82TeO-XXWU"
-channel: "Internet Anarchist"
-duration: "Unknown"
-views: "Unknown"
+title: '**Channel:** Internet Anarchist'
+created: '2026-08-25'
+updated: '2026-08-25'
+type: reading
+tags:
+- video
+sources:
+- youtube.com/watch?v=W82TeO-XXWU
+video_id: W82TeO-XXWU
+channel: Internet Anarchist
+duration: Unknown
+views: Unknown
+domain: general
 ---
 
 # 

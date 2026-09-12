@@ -3,8 +3,11 @@ title: Why 40% Of Young Men Need Erectile Retraining
 created: 2026-08-31
 updated: 2026-08-31
 type: concept
-tags: ['psychology', 'youtube', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/Why 40% Of Young Men Need Erectile Retraining.md]
+tags:
+- youtube
+sources:
+- raw/transcripts/healthygamergg/Why 40% Of Young Men Need Erectile Retraining.md
+domain: psychology
 ---
 
 # Why 40% Of Young Men Need Erectile Retraining

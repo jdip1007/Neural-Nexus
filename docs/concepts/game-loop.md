@@ -6,7 +6,8 @@ type: concept
 classification: computer-science.simulation
 domain: devops
 tags: []
-sources: [raw/articles/sand-game-simulation.md]
+sources:
+- raw/articles/sand-game-simulation.md
 confidence: medium
 status: draft
 reviewed: 2026-07-25

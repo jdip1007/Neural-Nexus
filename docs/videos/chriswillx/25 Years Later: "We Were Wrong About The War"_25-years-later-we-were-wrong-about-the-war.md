@@ -1,17 +1,10 @@
 ---
-title: 25 Years Later: "We Were Wrong About The War"
-created: 2026-08-29
-updated: 2026-08-29
-type: video
-classification: philosophy.youtube-channel.chriswillx
-domain: philosophy
-tags: ["society"]
-sources: [raw/videos/chriswillx/25 Years Later: "We Were Wrong About The War"_25-years-later-we-were-wrong-about-the-war.md]
-confidence: high
-status: active
-reviewed: 2026-08-29
-backlinks: []
-
+title: '25 Years Later: "We Were Wrong About The War"'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # 25 Years Later: "We Were Wrong About The War"

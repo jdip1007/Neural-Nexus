@@ -5,7 +5,7 @@ updated: 2026-08-26
 type: concept
 classification: biology.neuroscience.cell-biology
 domain: biology
-tags: [myelin, oligodendrocyte, axon, conduction-velocity, white-matter, neurovascular-unit, adaptive-myelination]
+tags: ["myelin", "oligodendrocyte", "axon", "conduction-velocity", "neurovascular-unit", "adaptive-myelination"]
 sources: []
 confidence: high
 status: active

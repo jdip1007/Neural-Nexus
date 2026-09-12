@@ -1,14 +1,15 @@
 ---
-title: "Digital Privacy in the Modern Age"
-created: "2026-09-12"
-updated: "2026-09-12"
-type: "reading"
-tags: ["internet-anarchist", "video", "documentary", "media critique", "social commentary"]
-sources: ["https://www.youtube.com/watch?v=RArG7wIFIa0"]
-video_id: "RArG7wIFIa0"
-channel: "Internet Anarchist"
-duration: "Unknown"
-views: "Unknown"
+title: Digital Privacy in the Modern Age
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+tags:
+- video
+video_id: RArG7wIFIa0
+channel: Internet Anarchist
+duration: Unknown
+views: Unknown
+domain: devops
 ---
 
 # Digital Privacy in the Modern Age

@@ -1,21 +1,18 @@
 ---
-{
-  "title": "Why Haven't We Had That Oil Crisis... Yet?",
-  "created": "2026-09-10T22:38:19.941867",
-  "updated": "2026-09-10T22:38:19.941881",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "how-money-works",
-    "crisis",
-    "market"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e-2GoFws3yE"
-  ],
-  "video_id": "e-2GoFws3yE",
-  "channel": "How Money Works"
-}
+title: Why Haven't We Had That Oil Crisis... Yet?
+created: '2026-09-10T22:38:19.941867'
+updated: '2026-09-10T22:38:19.941881'
+type: reading
+tags:
+- youtube
+- how-money-works
+- crisis
+- market
+sources:
+- https://www.youtube.com/watch?v=e-2GoFws3yE
+video_id: e-2GoFws3yE
+channel: How Money Works
+domain: finance
 ---
 
 # Why Haven't We Had That Oil Crisis... Yet?

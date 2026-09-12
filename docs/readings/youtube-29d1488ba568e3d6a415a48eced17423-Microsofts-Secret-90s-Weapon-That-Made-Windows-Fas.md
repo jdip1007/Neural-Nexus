@@ -21,10 +21,11 @@ tags:
 - youtube
 - daves-garage
 title: Microsoft's Secret 90s Weapon That Made Windows Fast
-type: video
+type: reading
 updated: '2026-09-10T23:32:11.708201'
 video_id: 8c4Yf7WzQzY
 views: 129K
+domain: devops
 ---
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast

@@ -2,11 +2,12 @@
 title: fopen is Magic! - Find Out What You've Been Missing All These Years!
 created: 2026-08-28
 updated: 2026-08-28
-type: video
+type: reading
 classification: technology.youtube-channel.davesgarage
 domain: devops
-tags: ["programming"]
-sources: [raw/videos/davesgarage/XAzUoizwnXM_fopen-is-magic-find-out-what-youve-been-missing-all-these-years.md]
+tags: []
+sources:
+- raw/videos/davesgarage/XAzUoizwnXM_fopen-is-magic-find-out-what-youve-been-missing-all-these-years.md
 confidence: high
 status: active
 reviewed: 2026-08-28

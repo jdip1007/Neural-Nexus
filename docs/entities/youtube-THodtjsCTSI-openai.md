@@ -5,7 +5,7 @@ updated: 2026-08-26
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, tools, THodtjsCTSI]
+tags: ["youtube", "video-derived", "tools"]
 sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
 confidence: medium
 status: active

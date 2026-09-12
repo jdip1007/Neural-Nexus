@@ -3,8 +3,11 @@ title: How To ACTUALLY Break An Addiction
 created: 2026-09-03
 updated: 2026-09-03
 type: concept
-tags: ['psychology', 'youtube', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/How To ACTUALLY Break An Addiction.md]
+tags:
+- youtube
+sources:
+- raw/transcripts/healthygamergg/How To ACTUALLY Break An Addiction.md
+domain: psychology
 ---
 
 # How To ACTUALLY Break An Addiction

@@ -3,8 +3,12 @@ title: Flirting Kinda Sucks, Actually.
 created: 2026-09-01
 updated: 2026-09-01
 type: concept
-tags: ['psychology', 'youtube', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/Flirting Kinda Sucks, Actually..md]
+tags:
+- youtube
+sources:
+- raw/transcripts/healthygamergg/Flirting Kinda Sucks
+- Actually..md
+domain: psychology
 ---
 
 # Flirting Kinda Sucks, Actually.

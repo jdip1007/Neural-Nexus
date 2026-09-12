@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: ['ai', 'therapy', 'mental-health', 'technology', 'healthygamergg']
+tags: ["ai", "therapy", "mental-health"]
 sources: [raw/videos/healthygamergg/AI Therapy is Making You Mentally Weak.md]
 confidence: medium
 status: active

@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.personal-development
 domain: psychology
-tags: ['mindset', 'personal-development', 'success', 'psychology', 'healthygamergg']
+tags: ["mindset", "personal-development", "success"]
 sources: [raw/videos/healthygamergg/How To Actually Have An Elite Mindset.md]
 confidence: medium
 status: active

@@ -3,8 +3,15 @@ title: WTF Is Happening To The Video Game Industry?
 created: 2026-09-04
 updated: 2026-09-04
 type: concept
-tags: [youtube, how-money-works, finance, investing, entertainment-industry]
-sources: [raw/transcripts/how-money-works/WTF Is Happening To The Video Game Industry_.md]
+tags:
+- youtube
+- how-money-works
+- finance
+- investing
+- entertainment-industry
+sources:
+- raw/transcripts/how-money-works/WTF Is Happening To The Video Game Industry_.md
+domain: finance
 ---
 
 # WTF Is Happening To The Video Game Industry?

@@ -5,7 +5,7 @@ updated: 2026-09-08
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, The_Challenge_Can_we_build_Notepad_in_3K_in_assembly_language]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-The_Challenge_Can_we_build_Notepad_in_3K_in_assembly_language-transcript.md]
 published: 2026-09-08
 time_sensitive: False

@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: entity
 classification: person.researcher
 domain: biotech
-tags: [tohoku-university, fluorescence-imaging]
+tags: ["fluorescence-imaging"]
 sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
 status: active

@@ -5,7 +5,7 @@ updated: 2026-08-20
 type: concept
 domain: ai
 classification: artificial-intelligence.container
-tags: [container, docker, kubernetes, virtualization]
+tags: ["container", "docker", "virtualization"]
 sources: []
 confidence: high
 status: active

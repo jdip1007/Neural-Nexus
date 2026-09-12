@@ -1,17 +1,10 @@
 ---
-title: Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman - Summary
-created: 2026-08-22
-updated: 2026-08-22
+title: 'Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, 6xdW0bdVkVU]
-sources: [raw/videos/youtube-6xdW0bdVkVU-transcript.md]
-published: 2026-08-22
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-08-22
+domain: general
+tags: []
 ---
 
 # Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman - Summary

@@ -1,21 +1,10 @@
 ---
-  title: Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
-  created: 2026-08-18
-  updated: 2026-08-18
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - philosophy
-    - science
-  sources:
-    - https://www.youtube.com/watch?v=ka2GKBfviic
-  video_id: ka2GKBfviic
-  duration: Medium
-  topics:
-    - philosophy
-    - science
-domain: internet-culture
+title: 'Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2

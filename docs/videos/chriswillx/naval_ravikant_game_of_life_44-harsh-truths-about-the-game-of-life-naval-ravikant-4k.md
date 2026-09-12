@@ -2,10 +2,10 @@
 title: 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)
 created: 2026-08-29
 updated: 2026-08-29
-type: video
+type: reading
 classification: philosophy.youtube-channel.chriswillx
 domain: philosophy
-tags: ["business", "life", "philosophy"]
+tags: ["business", "life"]
 sources: [raw/videos/chriswillx/naval_ravikant_game_of_life_44-harsh-truths-about-the-game-of-life-naval-ravikant-4k.md]
 confidence: high
 status: active

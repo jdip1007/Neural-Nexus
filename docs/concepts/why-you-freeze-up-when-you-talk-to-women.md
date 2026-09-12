@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.dating
 domain: psychology
-tags: ['dating', 'anxiety', 'communication', 'social-skills', 'healthygamergg']
+tags: ["relationships", "anxiety", "communication", "social-skills"]
 sources: [raw/videos/healthygamergg/Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K.md]
 confidence: medium
 status: active

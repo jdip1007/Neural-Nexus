@@ -3,8 +3,13 @@ title: I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K
 created: 2026-09-03
 updated: 2026-09-03
 type: concept
-tags: ['dating', 'relationships', 'psychology', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/I did EVERYTHING right. I still can't find love. _ Lovemaxxing w_ Dr. K.md]
+tags:
+- relationships
+- relationships
+sources:
+- raw/transcripts/healthygamergg/I did EVERYTHING right. I still can't find love.
+  _ Lovemaxxing w_ Dr. K.md
+domain: psychology
 ---
 
 # I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K

@@ -1,17 +1,10 @@
 ---
-title: "Dude I'm Broke" Why Is My Data Worth Harvesting? - Summary
-created: 2026-08-26
-updated: 2026-08-26
+title: '"Dude I''m Broke" Why Is My Data Worth Harvesting? - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, 6BOxK_JrghY]
-sources: [raw/videos/youtube-6BOxK_JrghY-transcript.md]
-published: 2026-08-26
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-08-26
+domain: general
+tags: []
 ---
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting? - Summary

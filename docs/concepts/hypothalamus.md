@@ -5,7 +5,7 @@ updated: 2026-08-26
 type: concept
 classification: biology.neuroscience.neuroanatomy
 domain: biology
-tags: [hypothalamus, energy-homeostasis, metabolism, neuroendocrine, inflammation, obesity, hypothalamic-inflammation]
+tags: ["energy-homeostasis", "neuroendocrine", "obesity", "hypothalamic-inflammation"]
 sources: []
 confidence: high
 status: active

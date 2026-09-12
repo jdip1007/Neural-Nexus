@@ -5,7 +5,7 @@ updated: 2026-09-08
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, Ethernet_Explained_so_well_that_even_YOU_can_Understand_it]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-Ethernet_Explained_so_well_that_even_YOU_can_Understand_it-transcript.md]
 published: 2026-09-08
 time_sensitive: False

@@ -20,11 +20,12 @@ tags:
 - development
 - youtube
 - daves-garage
-title: "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown"
-type: video
+title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
+type: reading
 updated: '2026-09-10T23:32:11.385892'
 video_id: LJSgsf9ro38
 views: 254K
+domain: devops
 ---
 
 # The Controversial Flock Cameras Tracking Every Car — Full Breakdown

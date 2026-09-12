@@ -3,8 +3,13 @@ title: The Satisfying Downfall of Nas Daily
 created: 2026-09-03
 updated: 2026-09-03
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/gcx2jMbBGY4.md]
+tags:
+- youtube-documentary
+- content-creator
+- investigation
+sources:
+- raw/transcripts/internet-anarchist/gcx2jMbBGY4.md
+domain: finance
 ---
 
 # The Satisfying Downfall of Nas Daily

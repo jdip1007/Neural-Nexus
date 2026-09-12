@@ -1,17 +1,10 @@
 ---
-title: Hidden Code: How Slot Machines Actually Work - The Computer Inside - Summary
-created: 2026-08-24
-updated: 2026-08-24
+title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, SR8ESCmUYLY]
-sources: [raw/videos/youtube-SR8ESCmUYLY-transcript.md]
-published: 2026-08-24
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-08-24
+domain: general
+tags: []
 ---
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside - Summary

@@ -1,23 +1,20 @@
 ---
-{
-  "title": "If Your Mind Is Racing, Give It Better Problems - Jimmy Carr",
-  "created": "2026-09-05",
-  "updated": "2026-09-05",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "philosophy",
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=XqXLijA6CcY"
-  ],
-  "video_id": "XqXLijA6CcY",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-05 17:07:08"
-}
+title: If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
+created: '2026-09-05'
+updated: '2026-09-05'
+type: reading
+tags:
+- relationships
+- psychology
+- philosophy
+- technology
+sources:
+- https://www.youtube.com/watch?v=XqXLijA6CcY
+video_id: XqXLijA6CcY
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-05 17:07:08'
+domain: psychology
 ---
 
 # If Your Mind Is Racing, Give It Better Problems - Jimmy Carr

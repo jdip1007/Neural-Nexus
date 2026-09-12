@@ -21,10 +21,11 @@ tags:
 - youtube
 - daves-garage
 title: 'Reliable Isn''t Always Better: TCP vs UDP'
-type: video
+type: reading
 updated: '2026-09-10T23:32:11.054543'
 video_id: 7vzjIv2l6wY
 views: 125K
+domain: devops
 ---
 
 # Reliable Isn't Always Better: TCP vs UDP

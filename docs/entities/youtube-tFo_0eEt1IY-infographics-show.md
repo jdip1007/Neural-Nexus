@@ -3,7 +3,7 @@ title: Infographics Show
 created: 2026-08-20
 updated: 2026-08-20
 type: entity
-tags: [youtube, video-derived, persons, tFo_0eEt1IY]
+tags: ["youtube", "video-derived", "entity"]
 sources: [raw/videos/youtube-tFo_0eEt1IY-transcript.md]
 confidence: medium
 status: active

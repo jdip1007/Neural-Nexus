@@ -21,10 +21,11 @@ tags:
 - youtube
 - daves-garage
 title: 'The Future of Automotive Technology: Electric Vehicles and Beyond'
-type: video
+type: reading
 updated: '2026-09-01T20:38:22.329153'
 video_id: 5c5f7WzQzY
 views: 89K
+domain: devops
 ---
 
 # The Future of Automotive Technology: Electric Vehicles and Beyond

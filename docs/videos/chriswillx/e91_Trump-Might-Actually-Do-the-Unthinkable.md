@@ -1,20 +1,17 @@
 ---
-{
-  "title": "\"Trump Might Actually Do the Unthinkable\"",
-  "created": "2026-09-08",
-  "updated": "2026-09-08",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e91"
-  ],
-  "video_id": "e91",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-08 17:43:10"
-}
+title: '"Trump Might Actually Do the Unthinkable"'
+created: '2026-09-08'
+updated: '2026-09-08'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=e91
+video_id: e91
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-08 17:43:10'
+domain: psychology
 ---
 
 # "Trump Might Actually Do the Unthinkable"

@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: economics.policy-impact
 domain: economics
-tags: [reverse-robin-hood-heist, economic-policy, wealth-redistribution, generational-wealth, policy-paradox, economics]
+tags: ["economic-policy", "wealth-redistribution", "generational-wealth", "policy-paradox", "economics"]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: medium
 status: active

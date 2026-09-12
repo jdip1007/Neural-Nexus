@@ -3,8 +3,13 @@ title: The Satisfying Downfall of SSSniperWolf
 created: 2026-09-03
 updated: 2026-09-03
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/U7YtrRRccC0.md]
+tags:
+- youtube-documentary
+- content-creator
+- investigation
+sources:
+- raw/transcripts/internet-anarchist/U7YtrRRccC0.md
+domain: finance
 ---
 
 # The Satisfying Downfall of SSSniperWolf

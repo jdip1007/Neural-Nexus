@@ -1,17 +1,10 @@
 ---
-title: Hades: The Solution to Analysis Paralysis in Esports - Summary
-created: 2026-08-30
-updated: 2026-08-30
+title: 'Hades: The Solution to Analysis Paralysis in Esports - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, DFrjtOa18yE]
-sources: [raw/videos/youtube-DFrjtOa18yE-transcript.md]
-published: 2026-08-30
-time_sensitive: False
-confidence: high
-status: active
-reviewed: 2026-08-30
+domain: general
+tags: []
 ---
 
 # Hades: The Solution to Analysis Paralysis in Esports - Summary

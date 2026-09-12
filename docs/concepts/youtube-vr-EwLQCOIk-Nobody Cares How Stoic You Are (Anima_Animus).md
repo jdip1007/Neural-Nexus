@@ -3,8 +3,12 @@ title: Nobody Cares How Stoic You Are (Anima/Animus)
 created: 2026-09-04
 updated: 2026-09-04
 type: concept
-tags: ['mindset', 'psychology', 'personal-development', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/Nobody Cares How Stoic You Are (Anima_Animus).md]
+tags:
+- mindset
+- personal-development
+sources:
+- raw/transcripts/healthygamergg/Nobody Cares How Stoic You Are (Anima_Animus).md
+domain: psychology
 ---
 
 # Nobody Cares How Stoic You Are (Anima/Animus)

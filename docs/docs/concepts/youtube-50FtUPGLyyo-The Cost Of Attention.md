@@ -3,8 +3,11 @@ title: The Cost Of Attention
 created: 2026-09-03
 updated: 2026-09-03
 type: concept
-tags: ['psychology', 'youtube', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/The Cost Of Attention.md]
+tags:
+- youtube
+sources:
+- raw/transcripts/healthygamergg/The Cost Of Attention.md
+domain: psychology
 ---
 
 # The Cost Of Attention

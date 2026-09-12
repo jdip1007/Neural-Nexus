@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: entity
 classification: person.researcher
 domain: biotech
-tags: [neurology, alzheimers-disease, neurodegeneration, washington-university]
+tags: ["neurology", "alzheimers-disease", "neurodegeneration"]
 sources: [raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
 confidence: high
 status: active

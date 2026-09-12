@@ -2,7 +2,7 @@
 title: Neural Nexus Writing Guide
 created: 2026-07-18
 updated: 2026-07-18
-type: reference
+type: reading
 domain: hermes
 tags: [writing, documentation, guide, knowledge-base]
 sources: []

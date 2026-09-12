@@ -5,7 +5,7 @@ updated: 2026-09-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, LDoo19hJ170]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-LDoo19hJ170-transcript.md]
 published: 2026-09-02
 time_sensitive: True

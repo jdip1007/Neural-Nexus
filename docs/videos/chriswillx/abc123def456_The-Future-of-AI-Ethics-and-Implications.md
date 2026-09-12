@@ -1,27 +1,10 @@
 ---
-  title: The Future of AI: Ethics and Implications
-  created: 2026-08-18
-  updated: 2026-08-18
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - technology
-    - philosophy
-    - health
-    - economics
-    - AI
-  sources:
-    - https://www.youtube.com/watch?v=abc123def456
-  video_id: abc123def456
-  duration: Long
-  topics:
-    - technology
-    - philosophy
-    - health
-    - economics
-    - AI
-domain: internet-culture
+title: 'The Future of AI: Ethics and Implications'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # The Future of AI: Ethics and Implications

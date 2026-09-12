@@ -1,21 +1,11 @@
 ---
-  title: Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman
-  created: 2026-08-18
-  updated: 2026-08-18
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - science
-    - philosophy
-  sources:
-    - https://www.youtube.com/watch?v=f2p1YH0-BaI
-  video_id: f2p1YH0-BaI
-  duration: Medium
-  topics:
-    - science
-    - philosophy
-domain: internet-culture
+title: 'Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel
+  Lieberman'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman

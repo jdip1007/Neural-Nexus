@@ -3,8 +3,12 @@ title: Why You Should NEVER Confess Your Love
 created: 2026-08-31
 updated: 2026-08-31
 type: concept
-tags: ['dating', 'relationships', 'psychology', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/Why You Should NEVER Confess Your Love.md]
+tags:
+- relationships
+- relationships
+sources:
+- raw/transcripts/healthygamergg/Why You Should NEVER Confess Your Love.md
+domain: psychology
 ---
 
 # Why You Should NEVER Confess Your Love

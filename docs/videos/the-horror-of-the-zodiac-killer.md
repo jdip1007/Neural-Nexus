@@ -5,7 +5,7 @@ updated: 2026-08-19
 type: reading
 classification: psychology.criminal-forensic
 domain: psychology
-tags: [zodiac-killer, murder-mystery, criminal-psychology, infographics-show, youtube, education]
+tags: ["murder-mystery", "criminal-psychology", "youtube", "education"]
 sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
 confidence: medium
 status: active

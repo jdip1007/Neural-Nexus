@@ -1,3 +1,11 @@
+---
+title: "N6_O7P8Q9S_How Penguinz0 Destroyed Youtube'S Worst Content Thief"
+type: reading
+domain: general
+tags: [youtube]
+created: 2026-09-12
+updated: 2026-09-12
+---
 # How Penguinz0 Destroyed YouTube's Worst Content Thief
 
 **Source**: [https://www.youtube.com/watch?v=n6_o7p8q9s](https://www.youtube.com/watch?v=n6_o7p8q9s)  

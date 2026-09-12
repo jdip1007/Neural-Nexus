@@ -3,8 +3,12 @@ title: Stop Overcorrecting Your Attachment Style (Viewer Interview)
 created: 2026-09-01
 updated: 2026-09-01
 type: concept
-tags: ['psychology', 'youtube', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/Stop Overcorrecting Your Attachment Style (Viewer Interview).md]
+tags:
+- youtube
+sources:
+- raw/transcripts/healthygamergg/Stop Overcorrecting Your Attachment Style (Viewer
+  Interview).md
+domain: psychology
 ---
 
 # Stop Overcorrecting Your Attachment Style (Viewer Interview)

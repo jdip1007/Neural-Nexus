@@ -1,21 +1,18 @@
 ---
-{
-  "title": "Why A National Debt Default Now Looks Genuinely Possible... (sort of)",
-  "created": "2026-09-10T22:38:17.612947",
-  "updated": "2026-09-10T22:38:17.612961",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "how-money-works",
-    "crisis",
-    "economy"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=QmWyQ-BCD8E"
-  ],
-  "video_id": "QmWyQ-BCD8E",
-  "channel": "How Money Works"
-}
+title: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
+created: '2026-09-10T22:38:17.612947'
+updated: '2026-09-10T22:38:17.612961'
+type: reading
+tags:
+- youtube
+- how-money-works
+- crisis
+- economy
+sources:
+- https://www.youtube.com/watch?v=QmWyQ-BCD8E
+video_id: QmWyQ-BCD8E
+channel: How Money Works
+domain: finance
 ---
 
 # Why A National Debt Default Now Looks Genuinely Possible... (sort of)

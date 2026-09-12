@@ -1,15 +1,10 @@
 ---
-title: Finding 1: sexual availability cues were judged more effectiv...
-created: 2026-08-16
-updated: 2026-08-16
+title: Finding 1
+created: '2026-09-12'
+updated: '2026-09-12'
 type: finding
-domain: ai
-classification: general.media.insights
-tags: [video-derived, finding]
-sources: [raw/videos/youtube-nFY50H8nb5E-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-16
+domain: general
+tags: []
 ---
 
 # Finding 1

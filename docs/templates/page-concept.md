@@ -1,14 +1,10 @@
 ---
-title: 
-created: {{date}}
-updated: {{date}}
-type: concept
-domain: 
+title: '{{title}}'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
 tags: []
-sources: []
-confidence: medium
-status: active
-reviewed: {{date}}
 ---
 
 # {{title}}

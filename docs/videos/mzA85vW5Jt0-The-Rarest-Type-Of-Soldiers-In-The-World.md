@@ -1,20 +1,17 @@
 ---
-{
-  "title": "The Rarest Type Of Soldiers In The World",
-  "created": "2026-09-01T14:37:51.740356",
-  "updated": "2026-09-01T14:37:51.740371",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "youtube-creator",
-    "digital-media",
-    "discussion",
-    "military"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=mzA85vW5Jt0"
-  ]
-}
+title: The Rarest Type Of Soldiers In The World
+created: '2026-09-01T14:37:51.740356'
+updated: '2026-09-01T14:37:51.740371'
+type: reading
+tags:
+- youtube
+- youtube-creator
+- digital-media
+- discussion
+- military
+sources:
+- https://www.youtube.com/watch?v=mzA85vW5Jt0
+domain: ai
 ---
 
 # The Rarest Type Of Soldiers In The World

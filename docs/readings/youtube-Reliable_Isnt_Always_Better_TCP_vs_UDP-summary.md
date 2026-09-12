@@ -5,7 +5,7 @@ updated: 2026-09-08
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, Reliable_Isnt_Always_Better_TCP_vs_UDP]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-Reliable_Isnt_Always_Better_TCP_vs_UDP-transcript.md]
 published: 2026-09-08
 time_sensitive: False

@@ -1,17 +1,10 @@
 ---
-title: The "Do Anything" Chip: FPGA - Summary
-created: 2026-08-29
-updated: 2026-08-29
+title: 'The "Do Anything" Chip: FPGA - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, ePwo3P1iZO4]
-sources: [raw/videos/youtube-ePwo3P1iZO4-transcript.md]
-published: 2026-08-29
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-08-29
+domain: general
+tags: []
 ---
 
 # The "Do Anything" Chip: FPGA - Summary

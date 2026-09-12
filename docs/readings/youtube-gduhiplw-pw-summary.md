@@ -5,7 +5,7 @@ updated: 2026-08-21
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, gduhiplw-pw]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-gduhiplw-pw-transcript.md]
 published: 2026-08-21
 time_sensitive: True

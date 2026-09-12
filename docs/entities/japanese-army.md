@@ -5,7 +5,7 @@ updated: 2026-08-19
 type: entity
 classification: psychology.military.japanese-army
 domain: psychology
-tags: [japan, military, army, historical-development, samurai-traditions, imperial-army]
+tags: ["japan", "military", "army", "historical-development", "imperial-army"]
 sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
 confidence: medium
 status: active

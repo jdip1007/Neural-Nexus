@@ -1,14 +1,21 @@
 ---
-title: ""
-created: "2026-09-06"
-updated: "2026-09-06"
-type: "reading"
-tags: ["how-money-works", "video", "financial-analysis", "market analysis", "investment", "economics", "finance"]
-sources: ["youtube.com/watch?v=gWLuTxn2fMI"]
-video_id: "gWLuTxn2fMI"
-channel: "How Money Works"
-duration: "Unknown"
-views: "Unknown"
+title: '**Channel:** How Money Works'
+created: '2026-09-06'
+updated: '2026-09-06'
+type: reading
+tags:
+- how-money-works
+- video
+- financial-analysis
+- economics
+- finance
+sources:
+- youtube.com/watch?v=gWLuTxn2fMI
+video_id: gWLuTxn2fMI
+channel: How Money Works
+duration: Unknown
+views: Unknown
+domain: finance
 ---
 
 # 

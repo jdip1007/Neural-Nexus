@@ -1,20 +1,17 @@
 ---
-{
-  "title": "Psychiatrist: \"Everyone Is Wrong About The Lindsay Clancy Case\"",
-  "created": "2026-09-07",
-  "updated": "2026-09-07",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e83"
-  ],
-  "video_id": "e83",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-07 17:35:13"
-}
+title: 'Psychiatrist: "Everyone Is Wrong About The Lindsay Clancy Case"'
+created: '2026-09-07'
+updated: '2026-09-07'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=e83
+video_id: e83
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-07 17:35:13'
+domain: psychology
 ---
 
 # Psychiatrist: "Everyone Is Wrong About The Lindsay Clancy Case"

@@ -1,24 +1,21 @@
 ---
-{
-  "title": "\"Dude I'm Broke\" Why Is My Data Worth Harvesting?",
-  "created": "2026-09-10T22:41:55.503237",
-  "updated": "2026-09-10T22:41:55.503249",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "how-money-works",
-    "economics",
-    "business",
-    "tech",
-    "economy",
-    "privacy"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=6BOxK_JrghY"
-  ],
-  "video_id": "6BOxK_JrghY",
-  "channel": "How Money Works"
-}
+title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
+created: '2026-09-10T22:41:55.503237'
+updated: '2026-09-10T22:41:55.503249'
+type: reading
+tags:
+- youtube
+- how-money-works
+- economics
+- business
+- tech
+- economy
+- privacy
+sources:
+- https://www.youtube.com/watch?v=6BOxK_JrghY
+video_id: 6BOxK_JrghY
+channel: How Money Works
+domain: finance
 ---
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting?

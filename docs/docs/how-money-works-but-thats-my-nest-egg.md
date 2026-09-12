@@ -1,19 +1,16 @@
 ---
-{
-  "title": "bUt ThAt\"s mY NeSt eGG!",
-  "created": "2026-09-10T22:38:10.547011",
-  "updated": "2026-09-10T22:38:10.547025",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "how-money-works"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=QGjXQwUmGTI"
-  ],
-  "video_id": "QGjXQwUmGTI",
-  "channel": "How Money Works"
-}
+title: bUt ThAt"s mY NeSt eGG!
+created: '2026-09-10T22:38:10.547011'
+updated: '2026-09-10T22:38:10.547025'
+type: reading
+tags:
+- youtube
+- how-money-works
+sources:
+- https://www.youtube.com/watch?v=QGjXQwUmGTI
+video_id: QGjXQwUmGTI
+channel: How Money Works
+domain: finance
 ---
 
 # bUt ThAt"s mY NeSt eGG!

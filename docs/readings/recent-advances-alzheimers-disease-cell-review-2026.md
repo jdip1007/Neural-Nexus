@@ -1,15 +1,11 @@
 ---
-title: Recent advances in Alzheimer's disease: From molecular mechanisms to therapeutic strategies
-created: 2026-07-29
-updated: 2026-07-29
+title: 'Recent advances in Alzheimer''s disease: From molecular mechanisms to therapeutic
+  strategies'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: biotech
-tags: [neurodegeneration, alzheimers-disease, tau-pathology, neuroimmunology, biomarker-discovery, disease-modifying-therapies, cryo-em, therapeutic-antibodies, biotech]
-sources: [raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-confidence: high
-status: active
-reviewed: 2026-07-29
-backlinks: []
+domain: general
+tags: []
 ---
 
 # Recent advances in Alzheimer's disease: From molecular mechanisms to therapeutic strategies

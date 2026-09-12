@@ -1,20 +1,17 @@
 ---
-{
-  "title": "WAR DEBATE: \"A Nightmare Scenario Is Unfolding\"",
-  "created": "2026-09-01T14:37:50.453928",
-  "updated": "2026-09-01T14:37:50.453939",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "youtube-creator",
-    "current-events",
-    "digital-media",
-    "discussion"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=4klivapz4Gw"
-  ]
-}
+title: 'WAR DEBATE: "A Nightmare Scenario Is Unfolding"'
+created: '2026-09-01T14:37:50.453928'
+updated: '2026-09-01T14:37:50.453939'
+type: reading
+tags:
+- youtube
+- youtube-creator
+- current-events
+- digital-media
+- discussion
+sources:
+- https://www.youtube.com/watch?v=4klivapz4Gw
+domain: ai
 ---
 
 # WAR DEBATE: "A Nightmare Scenario Is Unfolding"

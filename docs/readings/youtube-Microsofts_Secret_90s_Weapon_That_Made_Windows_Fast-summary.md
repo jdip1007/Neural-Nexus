@@ -5,7 +5,7 @@ updated: 2026-09-08
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast-transcript.md]
 published: 2026-09-08
 time_sensitive: False

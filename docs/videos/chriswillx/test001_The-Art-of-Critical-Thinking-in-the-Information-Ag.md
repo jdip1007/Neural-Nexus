@@ -1,20 +1,17 @@
 ---
-{
-  "title": "The Art of Critical Thinking in the Information Age",
-  "created": "2026-09-11",
-  "updated": "2026-09-11",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=test001"
-  ],
-  "video_id": "test001",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-11 18:54:47"
-}
+title: The Art of Critical Thinking in the Information Age
+created: '2026-09-11'
+updated: '2026-09-11'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=test001
+video_id: test001
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-11 18:54:47'
+domain: psychology
 ---
 
 # The Art of Critical Thinking in the Information Age

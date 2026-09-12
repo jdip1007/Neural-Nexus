@@ -1,13 +1,15 @@
 ---
 created: 2026-08-18
-title: "MrBeast: Behind the Scenes"
-video_id: "q8_r9s0t1u"
-source: "Internet Anarchist"
-ingestion_date: "2026-08-06T12:54:20.882610"
-channel_url: "https://youtube.com/@InternetAnarchist"
-transcript_api: "simulated"
+title: 'MrBeast: Behind the Scenes'
+video_id: q8_r9s0t1u
+source: Internet Anarchist
+ingestion_date: '2026-08-06T12:54:20.882610'
+channel_url: https://youtube.com/@InternetAnarchist
+transcript_api: simulated
 domain: internet-culture
 updated: 2026-08-18
+type: reading
+tags: []
 ---
 
 0.00s - 5.00s: Welcome to Internet Anarchist! Today we're exploring MrBeast: Behind the Scenes.

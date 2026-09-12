@@ -2,11 +2,10 @@
 title: Can Meta Actually Survive This?
 created: 2026-09-01
 updated: 2026-09-01
-type: video
+type: reading
 classification: education.youtube-channel.howmoneyworks
 domain: finance
-tags: ["finance", "business", "technology", "investing"]
-sources: ["https://raw.githubusercontent.com/jdip1007/Neural-Nexus/main/raw/videos/howmoneyworks/4rmkiGMknpg_can-meta-actually-survive-this.md"]
+tags: ["finance", "business", "investing"]
 confidence: high
 status: active
 reviewed: 2026-09-01

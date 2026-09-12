@@ -4,7 +4,7 @@ created: 2026-08-25
 updated: 2026-08-25
 type: reading
 domain: general
-tags: [youtube, dave-garage, ingestion, final-report, statistics]
+tags: ["youtube"]
 sources: []
 confidence: high
 status: completed

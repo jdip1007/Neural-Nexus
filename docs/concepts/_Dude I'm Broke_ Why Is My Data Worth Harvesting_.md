@@ -1,10 +1,10 @@
 ---
-title: "Dude I'm Broke" Why Is My Data Worth Harvesting?
-created: 2026-09-04
-updated: 2026-09-04
+title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: concept
-tags: [youtube, how-money-works, finance, investing, personal-finance]
-sources: [raw/transcripts/how-money-works/_Dude I'm Broke_ Why Is My Data Worth Harvesting_.md]
+domain: general
+tags: []
 ---
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting?

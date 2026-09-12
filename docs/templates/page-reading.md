@@ -1,14 +1,10 @@
 ---
-title: 
-created: {{date}}
-updated: {{date}}
+title: '{{title}}'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: 
+domain: general
 tags: []
-sources: [raw/]
-confidence: high
-status: active
-reviewed: {{date}}
 ---
 
 # {{title}}

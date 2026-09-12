@@ -2,7 +2,7 @@
 title: The Infographics Show
 created: 2026-08-19
 updated: 2026-08-19
-type: organization
+type: entity
 classification: media.organization
 domain: media
 tags: [youtube-channel, educational-content, visual-education, science-communication]

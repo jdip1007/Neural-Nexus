@@ -2,16 +2,16 @@
 title: printf is Actually a Secret Virtual Machine - And a Giant Security Hole!
 created: 2026-08-29
 updated: 2026-08-29
-type: video
+type: reading
 classification: philosophy.youtube-channel.chriswillx
 domain: philosophy
 tags: []
-sources: [raw/videos/chriswillx/kdnN0kk7MS0_printf-is-actually-a-secret-virtual-machine-and-a-giant-security-hole.md]
+sources:
+- raw/videos/chriswillx/kdnN0kk7MS0_printf-is-actually-a-secret-virtual-machine-and-a-giant-security-hole.md
 confidence: high
 status: active
 reviewed: 2026-08-29
 backlinks: []
-
 ---
 
 # printf is Actually a Secret Virtual Machine - And a Giant Security Hole!

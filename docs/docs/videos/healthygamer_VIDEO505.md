@@ -1,5 +1,15 @@
 ---
 title: Sample Video VIDEO505
+created: 2026-09-12
+updated: 2026-09-12
+type: reading
+domain: psychology
+tags: []
+status: draft
+---
+
+---
+title: Sample Video VIDEO505
 created: 2026-09-06T23:08:03.798333
 updated: 2026-09-06T23:08:03.798334
 type: video

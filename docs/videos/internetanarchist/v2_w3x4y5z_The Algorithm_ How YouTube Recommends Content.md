@@ -1,14 +1,10 @@
 ---
-title: The Algorithm: How YouTube Recommends Content
-created: 2026-08-17T14:51:25.650261
-updated: 2026-08-17T14:51:25.650262
-type: video
-tags: [internet-anarchist, internet-culture, YouTube Algorithm]
-sources: [raw/videos/internetanarchist/v2_w3x4y5z.md]
-video_id: v2_w3x4y5z
-duration: 15-25 minutes
-channel: Internet Anarchist
-domain: internet-culture
+title: 'The Algorithm: How YouTube Recommends Content'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # The Algorithm: How YouTube Recommends Content

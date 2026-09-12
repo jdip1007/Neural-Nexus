@@ -1,14 +1,15 @@
 ---
-title: "Blockchain and Anarchism"
-created: "2026-09-12"
-updated: "2026-09-12"
-type: "reading"
-tags: ["internet-anarchist", "video", "documentary", "media critique", "social commentary"]
-sources: ["https://www.youtube.com/watch?v=ABC123xyz"]
-video_id: "ABC123xyz"
-channel: "Internet Anarchist"
-duration: "Unknown"
-views: "Unknown"
+title: Blockchain and Anarchism
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+tags:
+- video
+video_id: ABC123xyz
+channel: Internet Anarchist
+duration: Unknown
+views: Unknown
+domain: finance
 ---
 
 # Blockchain and Anarchism

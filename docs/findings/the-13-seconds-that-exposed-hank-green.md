@@ -3,8 +3,13 @@ title: The 13 Seconds That Exposed Hank Green
 created: 2026-09-03
 updated: 2026-09-03
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/W82TeO-XXWU.md]
+tags:
+- youtube-documentary
+- content-creator
+- investigation
+sources:
+- raw/transcripts/internet-anarchist/W82TeO-XXWU.md
+domain: finance
 ---
 
 # The 13 Seconds That Exposed Hank Green

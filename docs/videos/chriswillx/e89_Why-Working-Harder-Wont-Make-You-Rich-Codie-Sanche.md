@@ -1,20 +1,17 @@
 ---
-{
-  "title": "Why Working Harder Won't Make You Rich - Codie Sanchez",
-  "created": "2026-09-07",
-  "updated": "2026-09-07",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e89"
-  ],
-  "video_id": "e89",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-07 17:35:18"
-}
+title: Why Working Harder Won't Make You Rich - Codie Sanchez
+created: '2026-09-07'
+updated: '2026-09-07'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=e89
+video_id: e89
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-07 17:35:18'
+domain: psychology
 ---
 
 # Why Working Harder Won't Make You Rich - Codie Sanchez

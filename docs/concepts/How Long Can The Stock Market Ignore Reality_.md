@@ -3,8 +3,15 @@ title: How Long Can The Stock Market Ignore Reality?
 created: 2026-09-04
 updated: 2026-09-04
 type: concept
-tags: [youtube, how-money-works, finance, investing, financial-markets]
-sources: [raw/transcripts/how-money-works/How Long Can The Stock Market Ignore Reality_.md]
+tags:
+- youtube
+- how-money-works
+- finance
+- investing
+- financial-markets
+sources:
+- raw/transcripts/how-money-works/How Long Can The Stock Market Ignore Reality_.md
+domain: finance
 ---
 
 # How Long Can The Stock Market Ignore Reality?

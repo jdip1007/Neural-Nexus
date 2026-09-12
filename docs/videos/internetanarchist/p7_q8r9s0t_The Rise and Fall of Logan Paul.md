@@ -1,3 +1,11 @@
+---
+title: "P7_Q8R9S0T_The Rise And Fall Of Logan Paul"
+type: reading
+domain: general
+tags: [youtube]
+created: 2026-09-12
+updated: 2026-09-12
+---
 # The Rise and Fall of Logan Paul
 
 **Source**: [https://www.youtube.com/watch?v=p7_q8r9s0t](https://www.youtube.com/watch?v=p7_q8r9s0t)  

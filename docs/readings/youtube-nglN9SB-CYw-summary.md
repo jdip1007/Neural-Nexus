@@ -1,17 +1,11 @@
 ---
-title: NASA’s 100-Mile Moon Base: The Insane Plan to Colonize the Lunar South Pole by 2032 - Summary
-created: 2026-08-21
-updated: 2026-08-21
+title: 'NASA’s 100-Mile Moon Base: The Insane Plan to Colonize the Lunar South Pole
+  by 2032 - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, nglN9SB-CYw]
-sources: [docs/raw/videos/youtube-nglN9SB-CYw-transcript.md]
-published: 2026-08-21
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-08-21
+domain: general
+tags: []
 ---
 
 # NASA’s 100-Mile Moon Base: The Insane Plan to Colonize the Lunar South Pole by 2032 - Summary

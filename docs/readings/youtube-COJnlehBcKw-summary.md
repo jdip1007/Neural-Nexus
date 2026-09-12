@@ -1,17 +1,10 @@
 ---
-title: Ultimate LED Effects: New Software and Hardware! - Summary
-created: 2026-08-23
-updated: 2026-08-23
+title: 'Ultimate LED Effects: New Software and Hardware! - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, COJnlehBcKw]
-sources: [raw/videos/youtube-COJnlehBcKw-transcript.md]
-published: 2026-08-23
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-08-23
+domain: general
+tags: []
 ---
 
 # Ultimate LED Effects: New Software and Hardware! - Summary

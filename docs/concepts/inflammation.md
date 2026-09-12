@@ -5,7 +5,7 @@ updated: 2026-08-26
 type: concept
 classification: biology.immunology.inflammation
 domain: biology
-tags: [inflammation, immune-response, cytokines, chronic-inflammation, acute-inflammation, metabolic-disorder, neuroinflammation]
+tags: ["immune-response", "cytokines", "chronic-inflammation", "acute-inflammation", "metabolic-disorder", "neuroinflammation"]
 sources: []
 confidence: high
 status: active

@@ -4,7 +4,7 @@ created: 2026-08-25
 updated: 2026-08-25
 type: concept
 domain: biology
-tags: [blood-flow, brain, metabolism, neurovascular-unit, vascular]
+tags: ["brain", "neurovascular-unit", "vascular"]
 sources: []
 confidence: high
 status: active

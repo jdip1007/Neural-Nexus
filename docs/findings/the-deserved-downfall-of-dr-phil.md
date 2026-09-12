@@ -3,8 +3,13 @@ title: The Deserved Downfall of Dr Phil
 created: 2026-09-03
 updated: 2026-09-03
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md]
+tags:
+- youtube-documentary
+- content-creator
+- investigation
+sources:
+- raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md
+domain: finance
 ---
 
 # The Deserved Downfall of Dr Phil

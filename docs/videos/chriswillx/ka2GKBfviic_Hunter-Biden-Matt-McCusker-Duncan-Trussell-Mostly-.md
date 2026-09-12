@@ -1,23 +1,20 @@
 ---
-{
-  "title": "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2",
-  "created": "2026-09-06",
-  "updated": "2026-09-06",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "technology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=ka2GKBfviic"
-  ],
-  "video_id": "ka2GKBfviic",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-06 17:18:07"
-}
+title: 'Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2'
+created: '2026-09-06'
+updated: '2026-09-06'
+type: reading
+tags:
+- relationships
+- psychology
+- technology
+- health
+sources:
+- https://www.youtube.com/watch?v=ka2GKBfviic
+video_id: ka2GKBfviic
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-06 17:18:07'
+domain: psychology
 ---
 
 # Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2

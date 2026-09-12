@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.relationships
 domain: psychology
-tags: ['love', 'relationships', 'dating', 'frustration', 'healthygamergg']
+tags: ["love", "relationships", "relationships"]
 sources: [raw/videos/healthygamergg/I did EVERYTHING right. I still can't find love. _ Lovemaxxing w_ Dr. K.md]
 confidence: medium
 status: active

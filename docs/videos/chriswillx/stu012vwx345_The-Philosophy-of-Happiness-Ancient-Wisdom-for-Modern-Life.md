@@ -1,23 +1,10 @@
 ---
-  title: The Philosophy of Happiness: Ancient Wisdom for Modern Life
-  created: 2026-08-18
-  updated: 2026-08-18
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - health
-    - psychology
-    - philosophy
-  sources:
-    - https://www.youtube.com/watch?v=stu012vwx345
-  video_id: stu012vwx345
-  duration: Medium
-  topics:
-    - health
-    - psychology
-    - philosophy
-domain: internet-culture
+title: 'The Philosophy of Happiness: Ancient Wisdom for Modern Life'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # The Philosophy of Happiness: Ancient Wisdom for Modern Life

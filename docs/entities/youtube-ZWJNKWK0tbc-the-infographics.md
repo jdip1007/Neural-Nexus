@@ -3,7 +3,7 @@ title: The Infographics
 created: 2026-09-02
 updated: 2026-09-02
 type: entity
-tags: [youtube, video-derived, persons, ZWJNKWK0tbc]
+tags: ["youtube", "video-derived", "entity"]
 sources: [raw/videos/youtube-ZWJNKWK0tbc-transcript.md]
 confidence: medium
 status: active

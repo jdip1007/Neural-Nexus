@@ -1,3 +1,13 @@
+---
+title: Daily YouTube Ingestion Report - HealthyGamerGG Channel
+created: 2026-09-12
+updated: 2026-09-12
+type: reading
+domain: general
+tags: []
+status: draft
+---
+
 # Daily YouTube Ingestion Report - HealthyGamerGG Channel
 **Date:** 2026-09-11 00:09:43  
 **Channel:** HealthyGamerGG (@HealthyGamerGG)  

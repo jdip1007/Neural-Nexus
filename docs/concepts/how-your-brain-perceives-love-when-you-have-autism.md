@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.relationships
 domain: psychology
-tags: ['autism', 'love', 'relationships', 'neurodiversity', 'healthygamergg']
+tags: ["autism", "love", "relationships", "neurodiversity"]
 sources: [raw/videos/healthygamergg/How Your Brain Perceives Love When You Have Autism.md]
 confidence: medium
 status: active

@@ -5,7 +5,7 @@ updated: 2026-07-23
 type: concept
 classification: computer-science.simulation.optimisation
 domain: devops
-tags: [game-development, computer-science, data-structures, rendering, canvas, web-performance]
+tags: ["game-development", "computer-science", "data-structures", "rendering", "web-performance"]
 sources: [raw/articles/sand-game-simulation.md]
 confidence: high
 status: active

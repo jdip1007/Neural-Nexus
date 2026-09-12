@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, 1_OKHUNAR8c]
+tags: ["youtube", "video-derived", "entity"]
 sources: [raw/videos/youtube-1_OKHUNAR8c-transcript.md]
 confidence: medium
 status: active

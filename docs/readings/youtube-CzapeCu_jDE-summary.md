@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, CzapeCu_jDE]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-CzapeCu_jDE-transcript.md]
 published: 2026-08-23
 time_sensitive: True

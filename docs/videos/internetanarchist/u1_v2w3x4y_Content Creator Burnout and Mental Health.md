@@ -2,8 +2,8 @@
 title: Content Creator Burnout and Mental Health
 created: 2026-08-17T14:51:24.335089
 updated: 2026-08-17T14:51:24.335090
-type: video
-tags: [internet-anarchist, internet-culture, Creator Burnout, Mental Health]
+type: reading
+tags: ["internet-culture"]
 sources: [raw/videos/internetanarchist/u1_v2w3x4y.md]
 video_id: u1_v2w3x4y
 duration: 15-25 minutes

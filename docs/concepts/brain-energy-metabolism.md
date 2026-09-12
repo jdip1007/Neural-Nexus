@@ -5,7 +5,7 @@ updated: 2026-07-29
 type: concept
 classification: biotechnology.neuroscience.brain-energy-dynamics
 domain: biotech
-tags: [brain-metabolism, energy-dynamics, ATP, glucose]
+tags: ["brain-metabolism", "energy-dynamics", "glucose"]
 sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
 status: active

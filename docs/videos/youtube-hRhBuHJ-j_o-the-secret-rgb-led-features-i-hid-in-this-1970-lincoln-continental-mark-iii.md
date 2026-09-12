@@ -5,8 +5,7 @@ updated: "2026-09-07"
 type: reading
 classification: video.daves-garage
 domain: technology
-tags: ['hardware', 'technology', 'automotive', 'daves-garage', 'youtube', 'tutorial']
-sources: ["https://www.youtube.com/watch?v=hRhBuHJ-j_o"]
+tags: ["hardware", "youtube", "tutorial"]
 confidence: medium
 status: active
 reviewed: "2026-09-07"

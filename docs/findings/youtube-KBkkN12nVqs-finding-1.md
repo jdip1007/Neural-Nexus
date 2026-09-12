@@ -1,15 +1,10 @@
 ---
-title: Finding 1: from my lens of working with my patient that the p...
-created: 2026-08-16
-updated: 2026-08-16
+title: Finding 1
+created: '2026-09-12'
+updated: '2026-09-12'
 type: finding
-domain: ai
-classification: general.media.insights
-tags: [video-derived, finding]
-sources: [raw/videos/youtube-KBkkN12nVqs-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-16
+domain: general
+tags: []
 ---
 
 # Finding 1

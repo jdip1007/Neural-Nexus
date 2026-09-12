@@ -4,7 +4,7 @@ created: 2026-08-25
 updated: 2026-08-25
 type: concept
 domain: biology
-tags: [brain, vasculature, neurovascular-coupling, blood-brain-barrier, glia]
+tags: ["brain", "neurovascular-coupling", "blood-brain-barrier", "glia"]
 sources: []
 confidence: high
 status: active

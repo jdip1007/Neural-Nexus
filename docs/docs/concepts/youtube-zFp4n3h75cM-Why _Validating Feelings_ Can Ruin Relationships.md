@@ -3,8 +3,12 @@ title: Why "Validating Feelings" Can Ruin Relationships
 created: 2026-08-31
 updated: 2026-08-31
 type: concept
-tags: ['dating', 'relationships', 'psychology', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/Why _Validating Feelings_ Can Ruin Relationships.md]
+tags:
+- relationships
+- relationships
+sources:
+- raw/transcripts/healthygamergg/Why _Validating Feelings_ Can Ruin Relationships.md
+domain: psychology
 ---
 
 # Why "Validating Feelings" Can Ruin Relationships

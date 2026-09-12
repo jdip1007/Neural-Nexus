@@ -4,7 +4,7 @@ created: 2026-08-25
 updated: 2026-08-25
 type: concept
 domain: biology
-tags: [barrier, brain, neurovascular-unit, vascular, inflammation]
+tags: ["barrier", "brain", "neurovascular-unit", "vascular"]
 sources: []
 confidence: high
 status: active

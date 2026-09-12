@@ -2,11 +2,10 @@
 title: How Long Can The Stock Market Ignore Reality?
 created: 2026-09-02
 updated: 2026-09-02
-type: video
+type: reading
 classification: education.youtube-channel.howmoneyworks
 domain: finance
 tags: ["investing", "business"]
-sources: ["https://raw.githubusercontent.com/jdip1007/Neural-Nexus/main/raw/videos/howmoneyworks/qmZmKZR8S5U_how-long-can-the-stock-market-ignore-reality.md"]
 confidence: high
 status: active
 reviewed: 2026-09-02

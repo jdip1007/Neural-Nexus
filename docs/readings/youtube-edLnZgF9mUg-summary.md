@@ -1,17 +1,10 @@
 ---
-title: Lecture 2: Airplane Aerodynamics - Summary
-created: 2026-08-22
-updated: 2026-08-22
+title: 'Lecture 2: Airplane Aerodynamics - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, edLnZgF9mUg]
-sources: [raw/videos/youtube-edLnZgF9mUg-transcript.md]
-published: 2026-08-22
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-08-22
+domain: general
+tags: []
 ---
 
 # Lecture 2: Airplane Aerodynamics - Summary

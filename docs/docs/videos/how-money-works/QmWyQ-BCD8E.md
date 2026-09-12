@@ -1,14 +1,21 @@
 ---
-title: "How Money Works: Video QmWyQ-BCD8E"
-created: "2026-09-08"
-updated: "2026-09-08"
-type: "reading"
-tags: ["how-money-works", "video", "financial-analysis", "market analysis", "investment", "economics", "finance"]
-sources: ["youtube.com/watch?v=QmWyQ-BCD8E"]
-video_id: "QmWyQ-BCD8E"
-channel: "How Money Works"
-duration: "Unknown"
-views: "Unknown"
+title: 'How Money Works: Video QmWyQ-BCD8E'
+created: '2026-09-08'
+updated: '2026-09-08'
+type: reading
+tags:
+- how-money-works
+- video
+- financial-analysis
+- economics
+- finance
+sources:
+- youtube.com/watch?v=QmWyQ-BCD8E
+video_id: QmWyQ-BCD8E
+channel: How Money Works
+duration: Unknown
+views: Unknown
+domain: finance
 ---
 
 # How Money Works: Video QmWyQ-BCD8E

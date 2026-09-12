@@ -1,17 +1,10 @@
 ---
-title: Video 1: Expectations - Summary
-created: 2026-08-27
-updated: 2026-08-27
+title: 'Video 1: Expectations - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, b04CichdN5g]
-sources: [raw/videos/youtube-b04CichdN5g-transcript.md]
-published: 2026-08-27
-time_sensitive: False
-confidence: high
-status: active
-reviewed: 2026-08-27
+domain: general
+tags: []
 ---
 
 # Video 1: Expectations - Summary

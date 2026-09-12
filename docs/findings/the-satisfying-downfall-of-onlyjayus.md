@@ -3,8 +3,13 @@ title: The Satisfying Downfall of OnlyJayus
 created: 2026-09-03
 updated: 2026-09-03
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/01-QTmyvEI8.md]
+tags:
+- youtube-documentary
+- content-creator
+- investigation
+sources:
+- raw/transcripts/internet-anarchist/01-QTmyvEI8.md
+domain: finance
 ---
 
 # The Satisfying Downfall of OnlyJayus

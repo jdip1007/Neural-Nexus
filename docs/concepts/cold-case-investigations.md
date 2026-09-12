@@ -5,7 +5,7 @@ updated: 2026-08-19
 type: concept
 classification: psychology.criminal-forensic.cold-cases
 domain: psychology
-tags: [unsolved-crimes, criminal-investigation, forensic-science]
+tags: ["criminal-investigation", "forensic-science"]
 sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
 confidence: medium
 status: active

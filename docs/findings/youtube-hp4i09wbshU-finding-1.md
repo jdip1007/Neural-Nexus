@@ -1,15 +1,10 @@
 ---
-title: Finding 1: individuals who were more likely to compete agains...
-created: 2026-08-25
-updated: 2026-08-25
+title: Finding 1
+created: '2026-09-12'
+updated: '2026-09-12'
 type: finding
-domain: ai
-classification: general.media.insights
-tags: [youtube, video-derived, finding, hp4i09wbshU]
-sources: [raw/videos/youtube-hp4i09wbshU-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-25
+domain: general
+tags: []
 ---
 
 # Finding 1

@@ -1,20 +1,17 @@
 ---
-{
-  "title": "The Future of AI: Breakthrough Technologies in 2026",
-  "created": "2026-09-10",
-  "updated": "2026-09-10",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=new001"
-  ],
-  "video_id": "new001",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-10 18:26:56"
-}
+title: 'The Future of AI: Breakthrough Technologies in 2026'
+created: '2026-09-10'
+updated: '2026-09-10'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=new001
+video_id: new001
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-10 18:26:56'
+domain: psychology
 ---
 
 # The Future of AI: Breakthrough Technologies in 2026

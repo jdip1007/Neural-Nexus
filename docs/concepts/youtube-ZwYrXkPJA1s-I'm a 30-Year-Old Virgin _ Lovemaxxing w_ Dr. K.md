@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: ['psychology', 'mental-health', 'youtube', 'healthygamergg', 'mental-health-awareness', 'relationships']
+tags: ["mental-health", "youtube", "mental-health-awareness", "relationships"]
 sources: [raw/transcripts/healthygamergg/I'm a 30-Year-Old Virgin _ Lovemaxxing w_ Dr. K.md]
 confidence: medium
 status: active

@@ -1,20 +1,17 @@
 ---
-{
-  "title": "The Science of Habit Formation: Breaking Bad Patterns",
-  "created": "2026-09-11",
-  "updated": "2026-09-11",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=test003"
-  ],
-  "video_id": "test003",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-11 18:54:52"
-}
+title: 'The Science of Habit Formation: Breaking Bad Patterns'
+created: '2026-09-11'
+updated: '2026-09-11'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=test003
+video_id: test003
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-11 18:54:52'
+domain: psychology
 ---
 
 # The Science of Habit Formation: Breaking Bad Patterns

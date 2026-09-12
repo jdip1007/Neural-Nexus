@@ -5,7 +5,7 @@ updated: 2026-08-20
 type: concept
 domain: ai
 classification: artificial-intelligence.architecture
-tags: [architecture, system-design, software-architecture]
+tags: ["system-design", "software-architecture"]
 sources: []
 confidence: high
 status: active

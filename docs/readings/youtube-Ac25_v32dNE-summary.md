@@ -5,7 +5,7 @@ updated: 2026-08-24
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, Ac25_v32dNE]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-Ac25_v32dNE-transcript.md]
 published: 2026-08-24
 time_sensitive: True

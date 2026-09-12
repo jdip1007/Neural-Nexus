@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: concept
 classification: real-estate.markets
 domain: real-estate
-tags: [cash-buyer-cartel, housing-markets, generational-wealth, wealth-concentration, economic-inequality, housing-affordability]
+tags: ["housing-markets", "generational-wealth", "wealth-concentration", "economic-inequality", "housing-affordability"]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: medium
 status: active

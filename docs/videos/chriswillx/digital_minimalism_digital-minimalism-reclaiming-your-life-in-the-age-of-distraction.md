@@ -1,17 +1,10 @@
 ---
-title: Digital Minimalism: Reclaiming Your Life in the Age of Distraction
-created: 2026-08-30
-updated: 2026-08-30
-type: video
-classification: philosophy.youtube-channel.chriswillx
-domain: philosophy
-tags: ["technology", "life"]
-sources: [raw/videos/chriswillx/digital_minimalism_digital-minimalism-reclaiming-your-life-in-the-age-of-distraction.md]
-confidence: high
-status: active
-reviewed: 2026-08-30
-backlinks: []
-
+title: 'Digital Minimalism: Reclaiming Your Life in the Age of Distraction'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # Digital Minimalism: Reclaiming Your Life in the Age of Distraction

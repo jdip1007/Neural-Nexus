@@ -1,17 +1,10 @@
 ---
-title: Video 14: Using a Smartphone - Summary
-created: 2026-09-03
-updated: 2026-09-03
+title: 'Video 14: Using a Smartphone - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, h1GtR8xJraw]
-sources: [raw/videos/youtube-h1GtR8xJraw-transcript.md]
-published: 2026-09-03
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-09-03
+domain: general
+tags: []
 ---
 
 # Video 14: Using a Smartphone - Summary

@@ -1,22 +1,19 @@
 ---
-{
-  "title": "Marriage Kills Women's Sex Drive: Here's Why",
-  "created": "2026-09-06",
-  "updated": "2026-09-06",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "technology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=_ZMYDb86DzY"
-  ],
-  "video_id": "_ZMYDb86DzY",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-06 17:18:11"
-}
+title: 'Marriage Kills Women''s Sex Drive: Here''s Why'
+created: '2026-09-06'
+updated: '2026-09-06'
+type: reading
+tags:
+- relationships
+- technology
+- health
+sources:
+- https://www.youtube.com/watch?v=_ZMYDb86DzY
+video_id: _ZMYDb86DzY
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-06 17:18:11'
+domain: psychology
 ---
 
 # Marriage Kills Women's Sex Drive: Here's Why

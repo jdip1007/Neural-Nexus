@@ -5,7 +5,7 @@ updated: 2026-08-26
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, VNMPkbMM288]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-VNMPkbMM288-transcript.md]
 published: 2026-08-26
 time_sensitive: True

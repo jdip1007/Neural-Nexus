@@ -5,7 +5,7 @@ updated: 2026-08-25
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, organizations, uWYKdkwNVYE]
+tags: ["youtube", "video-derived", "organizations"]
 sources: [raw/videos/youtube-uWYKdkwNVYE-transcript.md]
 confidence: medium
 status: active

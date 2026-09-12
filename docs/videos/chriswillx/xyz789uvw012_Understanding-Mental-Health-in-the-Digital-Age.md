@@ -1,22 +1,23 @@
 ---
-  title: Understanding Mental Health in the Digital Age
-  created: 2026-08-31
-  updated: 2026-08-31
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - technology
-    - psychology
-    - health
-  sources:
-    - https://www.youtube.com/watch?v=xyz789uvw012
-  video_id: xyz789uvw012
-  duration: Medium
-  topics:
-    - technology
-    - psychology
-    - health
+title: Understanding Mental Health in the Digital Age
+created: 2026-08-31
+updated: 2026-08-31
+type: reading
+tags:
+- youtube
+- chriswillx
+- technology
+- psychology
+- health
+sources:
+- https://www.youtube.com/watch?v=xyz789uvw012
+video_id: xyz789uvw012
+duration: Medium
+topics:
+- technology
+- psychology
+- health
+domain: psychology
 ---
 
 # Understanding Mental Health in the Digital Age

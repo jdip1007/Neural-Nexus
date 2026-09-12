@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.personal-development
 domain: psychology
-tags: ['failure', 'learning', 'mindset', 'personal-development', 'healthygamergg']
+tags: ["failure", "learning", "mindset", "personal-development"]
 sources: [raw/videos/healthygamergg/Why 'Learning From Failure' Is Ruining Your Life.md]
 confidence: medium
 status: active

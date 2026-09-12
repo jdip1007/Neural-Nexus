@@ -3,8 +3,12 @@ title: How To Actually Have An Elite Mindset
 created: 2026-09-03
 updated: 2026-09-03
 type: concept
-tags: ['mindset', 'psychology', 'personal-development', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/How To Actually Have An Elite Mindset.md]
+tags:
+- mindset
+- personal-development
+sources:
+- raw/transcripts/healthygamergg/How To Actually Have An Elite Mindset.md
+domain: psychology
 ---
 
 # How To Actually Have An Elite Mindset

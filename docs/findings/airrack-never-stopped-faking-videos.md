@@ -3,8 +3,13 @@ title: Airrack Never Stopped Faking Videos
 created: 2026-09-03
 updated: 2026-09-03
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/6zAG7p81NME.md]
+tags:
+- youtube-documentary
+- content-creator
+- investigation
+sources:
+- raw/transcripts/internet-anarchist/6zAG7p81NME.md
+domain: finance
 ---
 
 # Airrack Never Stopped Faking Videos

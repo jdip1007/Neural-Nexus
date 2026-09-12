@@ -3,8 +3,11 @@ title: Dr K Diagnoses Your Favorite Characters
 created: 2026-09-03
 updated: 2026-09-03
 type: concept
-tags: ['psychology', 'youtube', 'healthygamergg']
-sources: [raw/transcripts/healthygamergg/Dr K Diagnoses Your Favorite Characters.md]
+tags:
+- youtube
+sources:
+- raw/transcripts/healthygamergg/Dr K Diagnoses Your Favorite Characters.md
+domain: psychology
 ---
 
 # Dr K Diagnoses Your Favorite Characters

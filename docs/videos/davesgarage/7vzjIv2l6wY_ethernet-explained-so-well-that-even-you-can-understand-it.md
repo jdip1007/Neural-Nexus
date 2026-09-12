@@ -2,7 +2,7 @@
 title: Ethernet Explained so well that even YOU can Understand it!
 created: 2026-08-17
 updated: 2026-08-17
-type: video
+type: reading
 classification: technology.youtube-channel.davesgarage
 domain: devops
 tags: ["ethernet"]  # Limit to 5 tags

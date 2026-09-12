@@ -1,23 +1,10 @@
 ---
-  title: Climate Change: Scientific Evidence and Solutions
-  created: 2026-08-18
-  updated: 2026-08-18
-  type: video
-  tags:
-    - youtube
-    - chriswillx
-    - technology
-    - science
-    - politics
-  sources:
-    - https://www.youtube.com/watch?v=mno456pqr789
-  video_id: mno456pqr789
-  duration: Long
-  topics:
-    - technology
-    - science
-    - politics
-domain: internet-culture
+title: 'Climate Change: Scientific Evidence and Solutions'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # Climate Change: Scientific Evidence and Solutions

@@ -21,10 +21,11 @@ tags:
 - youtube
 - daves-garage
 title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
-type: video
+type: reading
 updated: '2026-09-01T20:38:23.586523'
 video_id: OG91c7xsNMc
 views: 326K
+domain: devops
 ---
 
 # The Challenge: Can we build Notepad in 3K in assembly language?

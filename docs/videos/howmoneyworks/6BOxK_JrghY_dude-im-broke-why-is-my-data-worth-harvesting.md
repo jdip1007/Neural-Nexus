@@ -2,11 +2,10 @@
 title: "Dude I'm Broke: Why Is My Data Worth Harvesting?"
 created: 2026-09-02
 updated: 2026-09-02
-type: video
+type: reading
 classification: education.youtube-channel.howmoneyworks
 domain: finance
 tags: ["finance", "business"]
-sources: ["https://raw.githubusercontent.com/jdip1007/Neural-Nexus/main/raw/videos/howmoneyworks/6BOxK_JrghY_dude-im-broke-why-is-my-data-worth-harvesting.md"]
 confidence: high
 status: active
 reviewed: 2026-09-02

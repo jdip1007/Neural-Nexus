@@ -1,17 +1,10 @@
 ---
-title: Lecture 1: Introduction to CS and Programming Using Python - Summary
-created: 2026-09-03
-updated: 2026-09-03
+title: 'Lecture 1: Introduction to CS and Programming Using Python - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, xAcTmDO6NTI]
-sources: [raw/videos/youtube-xAcTmDO6NTI-transcript.md]
-published: 2026-09-03
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-09-03
+domain: general
+tags: []
 ---
 
 # Lecture 1: Introduction to CS and Programming Using Python - Summary

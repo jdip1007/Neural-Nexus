@@ -5,7 +5,7 @@ updated: 2026-08-22
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, J7DzL2_Na80]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-J7DzL2_Na80-transcript.md]
 published: 2026-08-22
 time_sensitive: True

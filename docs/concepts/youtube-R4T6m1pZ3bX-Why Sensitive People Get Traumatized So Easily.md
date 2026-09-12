@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: ['psychology', 'mental-health', 'youtube', 'healthygamergg', 'mental-health-awareness']
+tags: ["mental-health", "youtube", "mental-health-awareness"]
 sources: [raw/transcripts/healthygamergg/Why Sensitive People Get Traumatized So Easily.md]
 confidence: medium
 status: active

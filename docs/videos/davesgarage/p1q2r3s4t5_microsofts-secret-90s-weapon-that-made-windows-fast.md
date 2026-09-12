@@ -2,7 +2,7 @@
 title: Microsoft's Secret 90s Weapon That Made Windows Fast
 created: 2026-08-17
 updated: 2026-08-17
-type: video
+type: reading
 classification: technology.youtube-channel.davesgarage
 domain: devops
 tags: ["microsoft", "windows"]  # Limit to 5 tags

@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: entity
 classification: person.media
 domain: media
-tags: [narrator, the-infographics-show, youtube-creator, educational-media, media-production]
+tags: ["narrator", "youtube-creator", "educational-media", "media-production"]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: high
 status: active

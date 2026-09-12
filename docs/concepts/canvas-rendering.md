@@ -5,7 +5,7 @@ updated: 2026-07-25
 type: concept
 classification: computer-science.simulation
 domain: devops
-tags: [rendering, canvas, web-performance]
+tags: ["rendering", "web-performance"]
 sources: [raw/articles/sand-game-simulation.md]
 confidence: medium
 status: draft

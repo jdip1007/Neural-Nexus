@@ -5,7 +5,7 @@ updated: 2026-08-26
 type: concept
 classification: biology.metabolism.metabolic-disease
 domain: biology
-tags: [metabolic-disorder, obesity, diabetes, insulin-resistance, metabolic-syndrome, inflammation, neurovascular-unit]
+tags: ["metabolic-disorder", "obesity", "diabetes", "insulin-resistance", "metabolic-syndrome", "neurovascular-unit"]
 sources: []
 confidence: high
 status: active

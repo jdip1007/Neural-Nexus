@@ -5,7 +5,7 @@ updated: 2026-09-03
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, WCMFdrTGAEY]
+tags: ["youtube", "video-summary"]
 sources: [raw/videos/youtube-WCMFdrTGAEY-transcript.md]
 published: 2026-09-03
 time_sensitive: True

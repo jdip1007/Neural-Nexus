@@ -21,10 +21,11 @@ tags:
 - youtube
 - daves-garage
 title: fopen is Magic! - Find Out What You've Been Missing All These Years!
-type: video
+type: reading
 updated: '2026-09-01T20:36:16.434153'
 video_id: 2c4Yf7WzQzY
 views: 129K
+domain: devops
 ---
 
 # fopen is Magic! - Find Out What You've Been Missing All These Years!

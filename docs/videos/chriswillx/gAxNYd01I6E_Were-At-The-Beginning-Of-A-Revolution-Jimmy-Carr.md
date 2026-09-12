@@ -1,20 +1,17 @@
 ---
-{
-  "title": "\"We're At The Beginning Of A Revolution\" - Jimmy Carr",
-  "created": "2026-09-05",
-  "updated": "2026-09-05",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=gAxNYd01I6E"
-  ],
-  "video_id": "gAxNYd01I6E",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-05 17:07:01"
-}
+title: '"We''re At The Beginning Of A Revolution" - Jimmy Carr'
+created: '2026-09-05'
+updated: '2026-09-05'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=gAxNYd01I6E
+video_id: gAxNYd01I6E
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-05 17:07:01'
+domain: psychology
 ---
 
 # "We're At The Beginning Of A Revolution" - Jimmy Carr

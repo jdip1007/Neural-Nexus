@@ -1,17 +1,10 @@
 ---
-title: 2.10.1 Árboles: Vídeo - Summary
-created: 2026-08-23
-updated: 2026-08-23
+title: '2.10.1 Árboles: Vídeo - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [youtube, video-summary, transcript, ZEsk64C0fJg]
-sources: [raw/videos/youtube-ZEsk64C0fJg-transcript.md]
-published: 2026-08-23
-time_sensitive: False
-confidence: high
-status: active
-reviewed: 2026-08-23
+domain: general
+tags: []
 ---
 
 # 2.10.1 Árboles: Vídeo - Summary

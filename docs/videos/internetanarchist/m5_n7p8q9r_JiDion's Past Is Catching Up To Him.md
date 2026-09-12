@@ -2,8 +2,8 @@
 title: JiDion's Past Is Catching Up To Him
 created: 2026-08-17T14:51:21.703455
 updated: 2026-08-17T14:51:21.703456
-type: video
-tags: [internet-anarchist, internet-culture, Content Monetization]
+type: reading
+tags: ["internet-culture"]
 sources: [raw/videos/internetanarchist/m5_n7p8q9r.md]
 video_id: m5_n7p8q9r
 duration: 15-25 minutes

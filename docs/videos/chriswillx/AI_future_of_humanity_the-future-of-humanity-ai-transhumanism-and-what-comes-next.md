@@ -1,17 +1,10 @@
 ---
-title: The Future of Humanity: AI, Transhumanism, and What Comes Next
-created: 2026-08-30
-updated: 2026-08-30
-type: video
-classification: philosophy.youtube-channel.chriswillx
-domain: philosophy
-tags: ["technology"]
-sources: [raw/videos/chriswillx/AI_future_of_humanity_the-future-of-humanity-ai-transhumanism-and-what-comes-next.md]
-confidence: high
-status: active
-reviewed: 2026-08-30
-backlinks: []
-
+title: 'The Future of Humanity: AI, Transhumanism, and What Comes Next'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # The Future of Humanity: AI, Transhumanism, and What Comes Next

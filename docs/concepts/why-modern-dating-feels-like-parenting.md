@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.dating
 domain: psychology
-tags: ['dating', 'relationships', 'modern-dating', 'parenting', 'healthygamergg']
+tags: ["relationships", "relationships", "modern-dating", "relationships"]
 sources: [raw/videos/healthygamergg/Why Modern Dating Feels Like Parenting _ Lovemaxxing w_ Dr..md]
 confidence: medium
 status: active

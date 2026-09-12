@@ -1,20 +1,18 @@
 ---
-{
-  "title": "Mexican Batman, Britain's Downfall, Mr Bean's Comeback & Jimmy Carr - Rabbit Hole #5",
-  "created": "2026-09-01T14:37:51.314175",
-  "updated": "2026-09-01T14:37:51.314188",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "youtube-creator",
-    "digital-media",
-    "discussion",
-    "entertainment"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=KP77cRMzKAg"
-  ]
-}
+title: 'Mexican Batman, Britain''s Downfall, Mr Bean''s Comeback & Jimmy Carr - Rabbit
+  Hole #5'
+created: '2026-09-01T14:37:51.314175'
+updated: '2026-09-01T14:37:51.314188'
+type: reading
+tags:
+- youtube
+- youtube-creator
+- digital-media
+- discussion
+- entertainment
+sources:
+- https://www.youtube.com/watch?v=KP77cRMzKAg
+domain: ai
 ---
 
 # Mexican Batman, Britain's Downfall, Mr Bean's Comeback & Jimmy Carr - Rabbit Hole #5

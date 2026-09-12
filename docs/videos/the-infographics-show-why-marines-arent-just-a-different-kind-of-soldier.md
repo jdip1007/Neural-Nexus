@@ -3,7 +3,7 @@ title: Why Marines aren't just a different kind of 'soldier' || The Infographics
 created: 2026-08-19
 updated: 2026-08-19
 type: reading
-tags: [military, marines, soldiers, military-differences, infographics-show, youtube, education, video-summary, video-derived]
+tags: ["military", "marines", "soldiers", "military-differences", "youtube", "education", "video-summary", "video-derived"]
 sources: [raw/videos/youtube-uzg-tGiK_y8-transcript.md]
 confidence: medium
 status: active

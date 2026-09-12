@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.relationships
 domain: psychology
-tags: ['friendship', 'relationships', 'gender', 'social-dynamics', 'healthygamergg']
+tags: ["relationships", "gender", "social-dynamics"]
 sources: [raw/videos/healthygamergg/Can Men & Women Be Friends_.md]
 confidence: medium
 status: active

@@ -1,16 +1,10 @@
 ---
-title: The Impatient Man: Why You Feel Like A Failure
-created: 2026-08-23
-updated: 2026-08-23
+title: 'The Impatient Man: Why You Feel Like A Failure'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: concept
-classification: psychology.personal-development
-domain: psychology
-tags: ['impatience', 'failure', 'self-perception', 'personal-development', 'healthygamergg']
-sources: [raw/videos/healthygamergg/The Impatient Man_ Why You Feel Like A Failure.md]
-confidence: medium
-status: active
-reviewed: 2026-08-23
-backlinks: []
+domain: general
+tags: []
 ---
 
 # The Impatient Man: Why You Feel Like A Failure

@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.trauma
 domain: psychology
-tags: ['trauma', 'dissociative-identity', 'ptsd', 'mental-health', 'healthygamergg']
+tags: ["trauma", "dissociative-identity", "ptsd", "mental-health"]
 sources: [raw/videos/healthygamergg/How Trauma Splits A Soul (Dissociative Identity Disorder).md]
 confidence: medium
 status: active

@@ -1,5 +1,15 @@
 ---
 title: Sample Video VIDEO303
+created: 2026-09-12
+updated: 2026-09-12
+type: reading
+domain: psychology
+tags: []
+status: draft
+---
+
+---
+title: Sample Video VIDEO303
 created: 2026-09-06T23:08:03.784338
 updated: 2026-09-06T23:08:03.784339
 type: video

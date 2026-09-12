@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: concept
 classification: psychology.mental-health
 domain: psychology
-tags: ['adhd', 'mental-health', 'misconceptions', 'neurodiversity', 'healthygamergg']
+tags: ["adhd", "mental-health", "misconceptions", "neurodiversity"]
 sources: [raw/videos/healthygamergg/What Everyone Gets Wrong About ADHD.md]
 confidence: medium
 status: active

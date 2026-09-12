@@ -4,7 +4,7 @@ created: 2026-08-25
 updated: 2026-08-25
 type: concept
 domain: biology
-tags: [myelin, oligodendrocyte, neurovascular-unit, plasticity, metabolism]
+tags: ["myelin", "oligodendrocyte", "neurovascular-unit"]
 sources: []
 confidence: high
 status: active

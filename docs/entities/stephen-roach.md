@@ -5,7 +5,7 @@ updated: 2026-08-11
 type: entity
 classification: people.economists
 domain: economics
-tags: [economist, morgan-stanley, china-bull-turned-bear, stephen-roach]
+tags: ["economist", "china-bull-turned-bear"]
 sources: [raw/pdfs/china-deepening-japan-problem-stephen-roach.md, raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 confidence: high
 status: active

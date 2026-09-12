@@ -1,20 +1,17 @@
 ---
-{
-  "title": "WAR DEBATE: \"This Is The Worst Crisis Since WW2\"",
-  "created": "2026-09-07",
-  "updated": "2026-09-07",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e95"
-  ],
-  "video_id": "e95",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-07 17:35:15"
-}
+title: 'WAR DEBATE: "This Is The Worst Crisis Since WW2"'
+created: '2026-09-07'
+updated: '2026-09-07'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=e95
+video_id: e95
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-07 17:35:15'
+domain: psychology
 ---
 
 # WAR DEBATE: "This Is The Worst Crisis Since WW2"

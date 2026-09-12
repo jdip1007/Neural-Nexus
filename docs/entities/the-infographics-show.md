@@ -5,7 +5,7 @@ updated: 2026-08-02
 type: entity
 classification: media.organization
 domain: media
-tags: [the-infographics-show, youtube-channel, educational-content, economics, media-production, 15.5M-subscribers]
+tags: ["youtube-channel", "educational-content", "economics", "media-production"]
 sources: [readings/infographics-show-boomers-inequality-2026.md]
 confidence: high
 status: active

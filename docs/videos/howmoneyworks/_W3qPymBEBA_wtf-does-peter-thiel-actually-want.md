@@ -2,11 +2,12 @@
 title: WTF Does Peter Thiel Actually Want?
 created: 2026-09-01
 updated: 2026-09-01
-type: video
+type: reading
 classification: education.youtube-channel.howmoneyworks
 domain: finance
 tags: []
-sources: [raw/videos/howmoneyworks/_W3qPymBEBA_wtf-does-peter-thiel-actually-want.md]
+sources:
+- raw/videos/howmoneyworks/_W3qPymBEBA_wtf-does-peter-thiel-actually-want.md
 confidence: high
 status: active
 reviewed: 2026-09-01

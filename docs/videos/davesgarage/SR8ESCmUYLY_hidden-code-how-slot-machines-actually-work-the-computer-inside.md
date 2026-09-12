@@ -1,16 +1,10 @@
 ---
-title: Hidden Code: How Slot Machines Actually Work - The Computer Inside
-created: 2026-08-28
-updated: 2026-08-28
-type: video
-classification: technology.youtube-channel.davesgarage
-domain: devops
-tags: ["programming", "technology", "assembly"]
-sources: [raw/videos/davesgarage/SR8ESCmUYLY_hidden-code-how-slot-machines-actually-work-the-computer-inside.md]
-confidence: high
-status: active
-reviewed: 2026-08-28
-backlinks: []
+title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside

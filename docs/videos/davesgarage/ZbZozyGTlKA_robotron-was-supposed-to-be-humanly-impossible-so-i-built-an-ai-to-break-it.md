@@ -2,7 +2,7 @@
 title: Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.
 created: 2026-08-28
 updated: 2026-08-28
-type: video
+type: reading
 classification: technology.youtube-channel.davesgarage
 domain: devops
 tags: ["ai"]

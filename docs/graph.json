@@ -316,6 +316,19 @@
       "type": "page"
     },
     {
+      "id": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "title": "The Business of Gaming: Understanding the Industry Behind the Fun",
+      "file": "/home/hermes/Neural-Nexus/docs/MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun.md",
+      "tags": [
+        "youtube",
+        "gaming",
+        "mental-health",
+        "gaming",
+        "business"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-ned_fulmer_life-ned-fulmer's-life-is-falling-apart",
       "title": "Ned Fulmer's Life Is Falling Apart - Internet Anarchist",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-ned_fulmer_life-ned-fulmer's-life-is-falling-apart.md",
@@ -437,6 +450,19 @@
         "educational-content",
         "content-creation",
         "mental-health"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "lMnOpQrStUv_Digital_Detox_Finding_Balance_in_a_Connected_World",
+      "title": "Digital Detox: Finding Balance in a Connected World",
+      "file": "/home/hermes/Neural-Nexus/docs/lMnOpQrStUv_Digital_Detox_Finding_Balance_in_a_Connected_World.md",
+      "tags": [
+        "youtube",
+        "gaming",
+        "mental-health",
+        "mental-health",
+        "technology"
       ],
       "type": "page"
     },
@@ -1042,6 +1068,19 @@
       "title": "Deep Dive into Relationships and Attachment Styles | MEMBERS' LIVESTREAM",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "dEfGhIjKlMn_Healthy_Gaming_Habits_Setting_Boundaries_That_Actually_Work",
+      "title": "Healthy Gaming Habits: Setting Boundaries That Actually Work",
+      "file": "/home/hermes/Neural-Nexus/docs/dEfGhIjKlMn_Healthy_Gaming_Habits_Setting_Boundaries_That_Actually_Work.md",
+      "tags": [
+        "youtube",
+        "gaming",
+        "mental-health",
+        "gaming",
+        "mental-health"
+      ],
       "type": "page"
     },
     {
@@ -2324,7 +2363,7 @@
   "edges": [
     {
       "source": "ZbZozyGTlKA_Robotron_Was_Supposed_to_Be_Humanly_Impossible,_So_I_Built_an_AI_to_Break_It",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2334,22 +2373,7 @@
     },
     {
       "source": "ZbZozyGTlKA_Robotron_Was_Supposed_to_Be_Humanly_Impossible,_So_I_Built_an_AI_to_Break_It",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "WTF-Is-Happening-To-The-Video-Game-Industry",
-      "target": "Finance-Overview",
-      "type": "wikilink"
-    },
-    {
-      "source": "WTF-Is-Happening-To-The-Video-Game-Industry",
-      "target": "Investing-Basics",
-      "type": "wikilink"
-    },
-    {
-      "source": "WTF-Is-Happening-To-The-Video-Game-Industry",
-      "target": "Economic-Principles",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2364,12 +2388,7 @@
     },
     {
       "source": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2380,16 +2399,6 @@
     {
       "source": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
     },
     {
@@ -2423,88 +2432,28 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_vT6qh72wCZk",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-healthy-gamer-why-you-always-feel-uneasy-transcendental-existential-dread",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
     {
       "source": "youtube-healthy-gamer-why-you-always-feel-uneasy-transcendental-existential-dread",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-why-you-always-feel-uneasy-transcendental-existential-dread",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "autism-works-neurodiversity-in-the-workplace",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "autism-works-neurodiversity-in-the-workplace",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "automotive",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "programming",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "youtube-xHkcIRZa6lo-the-lie-of-positive-thinking",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-xHkcIRZa6lo-the-lie-of-positive-thinking",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-xHkcIRZa6lo-the-lie-of-positive-thinking",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
     },
     {
       "source": "U7YtrRRccC0_The_Satisfying_Downfall_of_SSSniperWolf",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-db08456b1e85-the-deserved-downfall-of-yo-mama",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-db08456b1e85-the-deserved-downfall-of-yo-mama",
-      "target": "youtube-creator",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-db08456b1e85-the-deserved-downfall-of-yo-mama",
-      "target": "youtube-new_video_3-social-media-scandal-uncovered",
       "type": "wikilink"
     },
     {
@@ -2518,58 +2467,13 @@
       "type": "wikilink"
     },
     {
-      "source": "7xqJnKpYQ8U",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
       "source": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "target": "internet-culture",
       "type": "wikilink"
     },
     {
       "source": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-l7BaFufR23E-the-lie-of-positive-thinking",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-l7BaFufR23E-the-lie-of-positive-thinking",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -2578,8 +2482,18 @@
       "type": "wikilink"
     },
     {
+      "source": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
+      "type": "wikilink"
+    },
+    {
       "source": "MrXO4Y6YpGA_The_Never-Ending_Downfall_of_KSI",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
+      "type": "wikilink"
+    },
+    {
+      "source": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2593,8 +2507,18 @@
       "type": "wikilink"
     },
     {
+      "source": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
+      "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2604,12 +2528,7 @@
     },
     {
       "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2628,23 +2547,28 @@
       "type": "wikilink"
     },
     {
-      "source": "n6_o7p8q9s_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
+      "source": "lMnOpQrStUv_Digital_Detox_Finding_Balance_in_a_Connected_World",
       "target": "technology",
+      "type": "wikilink"
+    },
+    {
+      "source": "lMnOpQrStUv_Digital_Detox_Finding_Balance_in_a_Connected_World",
+      "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
+      "type": "wikilink"
+    },
+    {
+      "source": "lMnOpQrStUv_Digital_Detox_Finding_Balance_in_a_Connected_World",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
+      "source": "n6_o7p8q9s_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "n6_o7p8q9s_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-tutorials",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-tutorials",
-      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -2654,22 +2578,12 @@
     },
     {
       "source": "youtube-healthy-gamer-the-cost-of-attention",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-the-cost-of-attention",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "QTTCqGtT6I4",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "QTTCqGtT6I4",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -2688,18 +2602,8 @@
       "type": "wikilink"
     },
     {
-      "source": "internet-anarchist-07a1ae855fbf-jidions-past-is-catching-up-to-him",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-07a1ae855fbf-jidions-past-is-catching-up-to-him",
-      "target": "youtube-creator",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-07a1ae855fbf-jidions-past-is-catching-up-to-him",
-      "target": "youtube-new_video_3-social-media-scandal-uncovered",
+      "source": "how_money_works_uK3OBAxCi6k",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2714,12 +2618,12 @@
     },
     {
       "source": "m5_n7p8q9r_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "internet-culture",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "m5_n7p8q9r_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "technology",
+      "target": "internet-culture",
       "type": "wikilink"
     },
     {
@@ -2758,6 +2662,11 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_sZQAUCfU4Z4",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "how_money_works_2LiOOzEOrx8",
       "target": "how_money_works_vT6qh72wCZk",
       "type": "wikilink"
@@ -2783,18 +2692,18 @@
       "type": "wikilink"
     },
     {
-      "source": "s9_t0u1v2w_PewDiePie's_Journey",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "source": "how_money_works_2LiOOzEOrx8",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "s9_t0u1v2w_PewDiePie's_Journey",
-      "target": "technology",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "s9_t0u1v2w_PewDiePie's_Journey",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2804,22 +2713,7 @@
     },
     {
       "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "programming",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -2829,37 +2723,12 @@
     },
     {
       "source": "youtube-healthy-gamer-why-modern-dating-feels-like-parenting-lovemaxxing-w-dr-k",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-why-modern-dating-feels-like-parenting-lovemaxxing-w-dr-k",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "youtube-KlSsI2CKYaQ-thoughts-your-therapist-has-but-doesnt-tell-you",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-KlSsI2CKYaQ-thoughts-your-therapist-has-but-doesnt-tell-you",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-KlSsI2CKYaQ-thoughts-your-therapist-has-but-doesnt-tell-you",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-why-sensitive-people-get-traumatized-so-easily-_4x0fRO6",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-why-sensitive-people-get-traumatized-so-easily-_4x0fRO6",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
     },
     {
@@ -2884,27 +2753,7 @@
     },
     {
       "source": "youtube-why-sensitive-people-get-traumatized-so-easily-_4x0fRO6",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-why-sensitive-people-get-traumatized-so-easily-_4x0fRO6",
       "target": "youtube-ZwYrXkPJA1s-HealthyGamerGG_Video_17__Understanding_Mental_Heal",
-      "type": "wikilink"
-    },
-    {
-      "source": "How-Much-Longer-Can-We-Hide-The-Inflation",
-      "target": "Finance-Overview",
-      "type": "wikilink"
-    },
-    {
-      "source": "How-Much-Longer-Can-We-Hide-The-Inflation",
-      "target": "Investing-Basics",
-      "type": "wikilink"
-    },
-    {
-      "source": "How-Much-Longer-Can-We-Hide-The-Inflation",
-      "target": "Economic-Principles",
       "type": "wikilink"
     },
     {
@@ -2918,31 +2767,6 @@
       "type": "wikilink"
     },
     {
-      "source": "I14yjt00Fl8",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-uK3OBAxCi6k-your-job-achieves-nothing-probably",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-50FtUPGLyyo-HealthyGamerGG_Video_3__Understanding_Mental_Healt",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -2953,68 +2777,18 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-andrew-tates-life-is-falling-apart-example8",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-oCB-sCIKnkU-HealthyGamerGG_Video_oCB-sCIKnkU__Understanding_Me",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
     {
-      "source": "what-happens-when-you-lose-just-one-packet",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "what-happens-when-you-lose-just-one-packet",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "what-happens-when-you-lose-just-one-packet",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "programming",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "youtube-3bHdic_l5Hg-the-worst-red-flags-ive-seen-as-a-therapist",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-3bHdic_l5Hg-the-worst-red-flags-ive-seen-as-a-therapist",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-3bHdic_l5Hg-the-worst-red-flags-ive-seen-as-a-therapist",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
     },
     {
@@ -3024,12 +2798,7 @@
     },
     {
       "source": "youtube-healthy-gamer-the-lie-of-positive-thinking",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-the-lie-of-positive-thinking",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3048,68 +2817,23 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-dummy9-Harvard-Professor-I-Tried-Every-Diet-This-Is-By-Fa",
       "target": "youtube-healthy-gamer-why-40-of-young-men-need-erectile-retraining",
       "type": "wikilink"
     },
     {
-      "source": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-xHkcIRZa6lo-why-you-should-never-confess-your-love",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "So-Is-Private-Equity-Collapsing-Yet",
-      "target": "Finance-Overview",
-      "type": "wikilink"
-    },
-    {
-      "source": "So-Is-Private-Equity-Collapsing-Yet",
-      "target": "Investing-Basics",
-      "type": "wikilink"
-    },
-    {
-      "source": "So-Is-Private-Equity-Collapsing-Yet",
-      "target": "Economic-Principles",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-vEAjtOI-Oaw-what-everyone-gets-wrong-about-adhd",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
     {
-      "source": "youtube-vEAjtOI-Oaw-what-everyone-gets-wrong-about-adhd",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-vEAjtOI-Oaw-what-everyone-gets-wrong-about-adhd",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
       "source": "7vzjIv2l6wY",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "7vzjIv2l6wY",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -3118,68 +2842,8 @@
       "type": "wikilink"
     },
     {
-      "source": "LJSgsf9ro38",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "automotive",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "automotive",
-      "target": "hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
       "source": "vEAjtOI-Oaw",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "vEAjtOI-Oaw",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -3189,17 +2853,27 @@
     },
     {
       "source": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
+      "source": "dEfGhIjKlMn_Healthy_Gaming_Habits_Setting_Boundaries_That_Actually_Work",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
+      "source": "dEfGhIjKlMn_Healthy_Gaming_Habits_Setting_Boundaries_That_Actually_Work",
+      "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
+      "type": "wikilink"
+    },
+    {
+      "source": "dEfGhIjKlMn_Healthy_Gaming_Habits_Setting_Boundaries_That_Actually_Work",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "9fL6tA2W5E1",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "9fL6tA2W5E1",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -3223,33 +2897,8 @@
       "type": "wikilink"
     },
     {
-      "source": "reliable-isnt-always-better-tcp-vs-udp",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "reliable-isnt-always-better-tcp-vs-udp",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "reliable-isnt-always-better-tcp-vs-udp",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce",
-      "target": "Finance-Overview",
-      "type": "wikilink"
-    },
-    {
-      "source": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce",
-      "target": "Investing-Basics",
-      "type": "wikilink"
-    },
-    {
-      "source": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce",
-      "target": "Economic-Principles",
+      "source": "how_money_works_1zjcZ661ups",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3273,28 +2922,8 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "automotive",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "programming",
+      "source": "how_money_works_xEL3hn55gh8",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3303,11 +2932,6 @@
       "type": "wikilink"
     },
     {
-      "source": "8kP5vW3Q1X6",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
       "source": "how_money_works_ShGT-fY7S98",
       "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
@@ -3323,6 +2947,11 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_ShGT-fY7S98",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "how_money_works_QGjXQwUmGTI",
       "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "type": "wikilink"
@@ -3338,28 +2967,23 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_QGjXQwUmGTI",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-the-deserved-downfall-of-yo-mama-example5",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
     {
-      "source": "youtube-the-deserved-downfall-of-yo-mama-example5",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-healthy-gamer-why-you-should-never-confess-your-love",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
     {
       "source": "youtube-healthy-gamer-why-you-should-never-confess-your-love",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-why-you-should-never-confess-your-love",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3369,16 +2993,6 @@
     },
     {
       "source": "youtube-the-worst-red-flags-ive-seen-as-a-therapist-bG2sW8xY",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-the-worst-red-flags-ive-seen-as-a-therapist-bG2sW8xY",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-the-worst-red-flags-ive-seen-as-a-therapist-bG2sW8xY",
       "target": "youtube-healthy-gamer-how-to-actually-break-an-addiction",
       "type": "wikilink"
     },
@@ -3400,11 +3014,6 @@
     {
       "source": "youtube-the-worst-red-flags-ive-seen-as-a-therapist-bG2sW8xY",
       "target": "youtube-healthy-gamer-the-worst-red-flags-ive-seen-as-a-therapist",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-the-worst-red-flags-ive-seen-as-a-therapist-bG2sW8xY",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -3428,28 +3037,18 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_4hiVQf9MPzg",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-healthy-gamer-thoughts-your-therapist-has-but-doesnt-tell-you",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
     {
       "source": "youtube-healthy-gamer-thoughts-your-therapist-has-but-doesnt-tell-you",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-thoughts-your-therapist-has-but-doesnt-tell-you",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-analyzing-the-lindsay-clancy-case-7MykFJ7T",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-analyzing-the-lindsay-clancy-case-7MykFJ7T",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3479,22 +3078,7 @@
     },
     {
       "source": "youtube-analyzing-the-lindsay-clancy-case-7MykFJ7T",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-analyzing-the-lindsay-clancy-case-7MykFJ7T",
       "target": "youtube-ZwYrXkPJA1s-HealthyGamerGG_Video_17__Understanding_Mental_Heal",
-      "type": "wikilink"
-    },
-    {
-      "source": "programming",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "programming",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -3518,33 +3102,13 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-50FtUPGLyyo-the-cost-of-attention",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-50FtUPGLyyo-the-cost-of-attention",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-50FtUPGLyyo-the-cost-of-attention",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-50FtUPGLyyo-the-cost-of-attention",
-      "target": "technology",
+      "source": "how_money_works_bVM76YxNPjQ",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "youtube-airrack-never-stopped-faking-videos-example7",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-airrack-never-stopped-faking-videos-example7",
-      "target": "internet-culture",
       "type": "wikilink"
     },
     {
@@ -3563,43 +3127,8 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-the-never-ending-downfall-of-ksi-dQw4w9Wg",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "why_you_can't_just_\"rewire\"_your_brain",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-LJSgsf9ro38-how-to-actually-have-an-elite-mindset",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-how-to-actually-have-an-elite-mindset",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-how-to-actually-have-an-elite-mindset",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
     },
     {
@@ -3608,28 +3137,8 @@
       "type": "wikilink"
     },
     {
-      "source": "hardware",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "hardware",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "hardware",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
       "source": "OG91c7xsNMc",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "OG91c7xsNMc",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -3658,28 +3167,13 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "FfgYq3_z-kg_How_Penguinz0_Destroyed_a_Psycho_Vegan_Bodybuilder",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -3689,12 +3183,7 @@
     },
     {
       "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
-      "target": "technology",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3704,22 +3193,12 @@
     },
     {
       "source": "SR8ESCmUYLY_Hidden_Code_How_Slot_Machines_Actually_Work_-_The_Computer_Inside",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "networking",
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "networking",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "networking",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -3738,13 +3217,8 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-why-40-of-young-men-need-erectile-retraining-2MwTDoT8",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-why-40-of-young-men-need-erectile-retraining-2MwTDoT8",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
+      "source": "how_money_works_swtfbef3HhM",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3774,37 +3248,7 @@
     },
     {
       "source": "youtube-why-40-of-young-men-need-erectile-retraining-2MwTDoT8",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-why-40-of-young-men-need-erectile-retraining-2MwTDoT8",
       "target": "youtube-ZwYrXkPJA1s-HealthyGamerGG_Video_17__Understanding_Mental_Heal",
-      "type": "wikilink"
-    },
-    {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "automotive",
-      "type": "wikilink"
-    },
-    {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "programming",
       "type": "wikilink"
     },
     {
@@ -3814,7 +3258,7 @@
     },
     {
       "source": "hIjKlMnOpQr_Mental_Health_in_Gaming_Communities_Building_Supportive_Environments",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3824,7 +3268,7 @@
     },
     {
       "source": "hIjKlMnOpQr_Mental_Health_in_Gaming_Communities_Building_Supportive_Environments",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3834,12 +3278,7 @@
     },
     {
       "source": "youtube-healthy-gamer-we-need-to-talk-about-ozempic",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-we-need-to-talk-about-ozempic",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3853,23 +3292,8 @@
       "type": "wikilink"
     },
     {
-      "source": "2bY9rC8V7M3",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-ozempic_mental_health-we-need-to-talk-about-ozempic",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
     },
     {
@@ -3879,7 +3303,7 @@
     },
     {
       "source": "why_your_new_hobbies_only_last_two_weeks",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "dEfGhIjKlMn_Healthy_Gaming_Habits_Setting_Boundaries_That_Actually_Work",
       "type": "wikilink"
     },
     {
@@ -3893,13 +3317,8 @@
       "type": "wikilink"
     },
     {
-      "source": "UXd8MfTJQVg",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
       "source": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "target": "technology",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -3913,21 +3332,6 @@
       "type": "wikilink"
     },
     {
-      "source": "How-Long-Can-The-Stock-Market-Ignore-Reality",
-      "target": "Finance-Overview",
-      "type": "wikilink"
-    },
-    {
-      "source": "How-Long-Can-The-Stock-Market-Ignore-Reality",
-      "target": "Investing-Basics",
-      "type": "wikilink"
-    },
-    {
-      "source": "How-Long-Can-The-Stock-Market-Ignore-Reality",
-      "target": "Economic-Principles",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-oCB-sCIKnkU-HealthyGamerGG_Video_24__Understanding_Mental_Heal",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
@@ -3938,48 +3342,13 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-vr-EwLQCOIk-why-gifted-people-burn-out-the-fastest",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-vr-EwLQCOIk-why-gifted-people-burn-out-the-fastest",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
       "source": "3mXnL4pZ2R9",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
       "type": "wikilink"
     },
     {
-      "source": "3mXnL4pZ2R9",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
       "source": "vELETrEp27k",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "vELETrEp27k",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -3989,32 +3358,12 @@
     },
     {
       "source": "youtube-healthy-gamer-stop-overcorrecting-your-attachment-style-viewer-interview",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-stop-overcorrecting-your-attachment-style-viewer-interview",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "uK_G92TUXWg_The_Deserved_Downfall_of_Tom_Segura",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending",
-      "target": "youtube-creator",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending",
-      "target": "youtube-new_video_3-social-media-scandal-uncovered",
       "type": "wikilink"
     },
     {
@@ -4033,38 +3382,23 @@
       "type": "wikilink"
     },
     {
+      "source": "how_money_works_D-uK2Xs6D9s",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
+      "type": "wikilink"
+    },
+    {
       "source": "youtube-oCB-sCIKnkU-stop-overcorrecting-your-attachment-style-viewer-interview",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
     {
-      "source": "youtube-oCB-sCIKnkU-stop-overcorrecting-your-attachment-style-viewer-interview",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-oCB-sCIKnkU-stop-overcorrecting-your-attachment-style-viewer-interview",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-jonah-hills-life-is-falling-apart-example2",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-jonah-hills-life-is-falling-apart-example2",
-      "target": "internet-culture",
       "type": "wikilink"
     },
     {
       "source": "VYTF4KIF2z0",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "VYTF4KIF2z0",
-      "target": "technology",
       "type": "wikilink"
     },
     {
@@ -4078,43 +3412,13 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-the-most-evil-father-on-tiktok-example9",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-VYTF4KIF2z0-why-modern-dating-feels-like-parenting",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
       "type": "wikilink"
     },
     {
-      "source": "youtube-VYTF4KIF2z0-why-modern-dating-feels-like-parenting",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-VYTF4KIF2z0-why-modern-dating-feels-like-parenting",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
       "source": "hRhBuHJ-j_o",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
-      "type": "wikilink"
-    },
-    {
-      "source": "hRhBuHJ-j_o",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-_N6qPEA_dGc-why-gifted-people-burn-out-the-fastest",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-_N6qPEA_dGc-why-gifted-people-burn-out-the-fastest",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
@@ -4125,26 +3429,6 @@
     {
       "source": "youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-why-you-cant-just-rewire-your-brain-OfPOtN51",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-why-you-cant-just-rewire-your-brain-OfPOtN51",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
       "type": "wikilink"
     },
     {
@@ -4174,11 +3458,6 @@
     },
     {
       "source": "youtube-why-you-cant-just-rewire-your-brain-OfPOtN51",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-why-you-cant-just-rewire-your-brain-OfPOtN51",
       "target": "youtube-ZwYrXkPJA1s-HealthyGamerGG_Video_17__Understanding_Mental_Heal",
       "type": "wikilink"
     },
@@ -4189,7 +3468,7 @@
     },
     {
       "source": "HiHMQN3kQlQ_Task_Manager_Is_Lying_About_Your_CPU_Usage_-_Here's_the_Truth",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -4198,53 +3477,8 @@
       "type": "wikilink"
     },
     {
-      "source": "daves-garage",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "daves-garage",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "daves-garage",
-      "target": "hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "daves-garage",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "technology",
-      "target": "programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "technology",
-      "target": "hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "technology",
-      "target": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -4254,27 +3488,7 @@
     },
     {
       "source": "youtube-healthy-gamer-how-to-actually-break-an-addiction",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-how-to-actually-break-an-addiction",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-9bea3420e9eb-the-most-evil-father-on-tiktok",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-9bea3420e9eb-the-most-evil-father-on-tiktok",
-      "target": "youtube-creator",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-9bea3420e9eb-the-most-evil-father-on-tiktok",
-      "target": "youtube-new_video_3-social-media-scandal-uncovered",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -4284,12 +3498,7 @@
     },
     {
       "source": "youtube-healthy-gamer-why-you-need-constant-reassurance",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-why-you-need-constant-reassurance",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
@@ -4303,23 +3512,8 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-positive_thinking_lie-the-lie-of-\"positive-thinking\"",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-positive_thinking_lie-the-lie-of-\"positive-thinking\"",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-the-deserved-downfall-of-tom-segura-example3",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-the-deserved-downfall-of-tom-segura-example3",
-      "target": "internet-culture",
       "type": "wikilink"
     },
     {
@@ -4333,33 +3527,8 @@
       "type": "wikilink"
     },
     {
-      "source": "youtube-the-deserved-downfall-of-dr-phil-example4",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
       "source": "youtube-the-13-seconds-that-exposed-hank-green-example6",
       "target": "u1_v2w3x4y_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-the-13-seconds-that-exposed-hank-green-example6",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-8ff9bfd22347-how-penguinz0-destroyed-the-technoblade-copycat",
-      "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-8ff9bfd22347-how-penguinz0-destroyed-the-technoblade-copycat",
-      "target": "youtube-creator",
-      "type": "wikilink"
-    },
-    {
-      "source": "internet-anarchist-8ff9bfd22347-how-penguinz0-destroyed-the-technoblade-copycat",
-      "target": "youtube-new_video_3-social-media-scandal-uncovered",
       "type": "wikilink"
     },
     {
@@ -4369,48 +3538,23 @@
     },
     {
       "source": "youtube-healthy-gamer-why-gifted-people-burn-out-the-fastest",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-healthy-gamer-why-gifted-people-burn-out-the-fastest",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
+      "target": "MmNnOoPpQqRr_The_Business_of_Gaming_Understanding_the_Industry_Behind_the_Fun",
       "type": "wikilink"
     },
     {
       "source": "x4y5z6a7b_The_Dark_Side_of_Influencer_Culture",
       "target": "internet-culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "x4y5z6a7b_The_Dark_Side_of_Influencer_Culture",
-      "target": "technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "x4y5z6a7b_The_Dark_Side_of_Influencer_Culture",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
       "type": "wikilink"
     },
     {
       "source": "x4y5z6a7b_The_Dark_Side_of_Influencer_Culture",
       "target": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting",
       "type": "wikilink"
-    },
-    {
-      "source": "what-everyone-gets-wrong-about-adhd",
-      "target": "aBcDeFgHiJk_The_Psychology_of_Gaming_Why_We_Play_and_What_It_Does_to_Our_Brains",
-      "type": "wikilink"
-    },
-    {
-      "source": "what-everyone-gets-wrong-about-adhd",
-      "target": "youtube-healthy-gamer-deep-dive-into-relationships-and-attachment-styles-members-livestream",
-      "type": "wikilink"
     }
   ],
   "metadata": {
-    "generated": "2026-09-11T23:52:35.629717",
-    "total_nodes": 222,
-    "total_edges": 417
+    "generated": "2026-09-12T00:35:22.910415",
+    "total_nodes": 225,
+    "total_edges": 238
   }
 }

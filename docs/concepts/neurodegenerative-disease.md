@@ -5,7 +5,7 @@ updated: 2026-08-26
 type: concept
 classification: biology.neuroscience.neurodegeneration
 domain: biology
-tags: [neurodegeneration, neurodegenerative-disease, neuron-loss, protein-aggregation, aging, metabolic-disorder, neurovascular-unit]
+tags: ["neurodegeneration", "neurodegenerative-disease", "protein-aggregation", "aging", "metabolic-disorder", "neurovascular-unit"]
 sources: []
 confidence: high
 status: active

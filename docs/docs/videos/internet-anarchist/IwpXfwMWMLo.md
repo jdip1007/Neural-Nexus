@@ -1,14 +1,15 @@
 ---
-title: "The Dark Web Explained"
-created: "2026-09-12"
-updated: "2026-09-12"
-type: "reading"
-tags: ["internet-anarchist", "video", "documentary", "media critique", "social commentary"]
-sources: ["https://www.youtube.com/watch?v=IwpXfwMWMLo"]
-video_id: "IwpXfwMWMLo"
-channel: "Internet Anarchist"
-duration: "Unknown"
-views: "Unknown"
+title: The Dark Web Explained
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+tags:
+- video
+video_id: IwpXfwMWMLo
+channel: Internet Anarchist
+duration: Unknown
+views: Unknown
+domain: devops
 ---
 
 # The Dark Web Explained

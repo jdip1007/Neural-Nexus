@@ -5,7 +5,7 @@ updated: 2026-08-23
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, W9mF-NOHatI]
+tags: ["youtube", "video-derived", "entity"]
 sources: [raw/videos/youtube-W9mF-NOHatI-transcript.md]
 confidence: medium
 status: active

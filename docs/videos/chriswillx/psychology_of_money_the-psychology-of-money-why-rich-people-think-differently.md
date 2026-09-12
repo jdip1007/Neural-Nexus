@@ -1,17 +1,10 @@
 ---
-title: The Psychology of Money: Why Rich People Think Differently
-created: 2026-08-30
-updated: 2026-08-30
-type: video
-classification: philosophy.youtube-channel.chriswillx
-domain: philosophy
-tags: ["success"]
-sources: [raw/videos/chriswillx/psychology_of_money_the-psychology-of-money-why-rich-people-think-differently.md]
-confidence: high
-status: active
-reviewed: 2026-08-30
-backlinks: []
-
+title: 'The Psychology of Money: Why Rich People Think Differently'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
+tags: []
 ---
 
 # The Psychology of Money: Why Rich People Think Differently

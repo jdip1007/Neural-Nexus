@@ -20,11 +20,12 @@ tags:
 - hardware
 - youtube
 - daves-garage
-title: "CANBUS \u2013 Networking so simple, even YOU can understand it!"
-type: video
+title: CANBUS – Networking so simple, even YOU can understand it!
+type: reading
 updated: '2026-09-01T20:38:23.272526'
 video_id: QTTCqGtT6I4
 views: 428K
+domain: devops
 ---
 
 # CANBUS – Networking so simple, even YOU can understand it!

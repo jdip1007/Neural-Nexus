@@ -5,7 +5,7 @@ updated: 2026-08-19
 type: concept
 classification: psychology.military.training
 domain: psychology
-tags: [military, training, physical-fitness, combat-readiness]
+tags: ["military", "training", "physical-fitness"]
 sources: []
 confidence: high
 status: active

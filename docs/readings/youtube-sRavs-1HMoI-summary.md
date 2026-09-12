@@ -1,17 +1,10 @@
 ---
-title: Cicada 3301: The Internet's Greatest Mystery! - Summary
-created: 2026-08-16
-updated: 2026-08-16
+title: 'Cicada 3301: The Internet''s Greatest Mystery! - Summary'
+created: '2026-09-12'
+updated: '2026-09-12'
 type: reading
-domain: ai
-classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-sRavs-1HMoI-transcript.md]
-published: 2026-08-16
-time_sensitive: True
-confidence: high
-status: active
-reviewed: 2026-08-16
+domain: general
+tags: []
 ---
 
 # Cicada 3301: The Internet's Greatest Mystery! - Summary

@@ -2,7 +2,7 @@
 title: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 created: 2026-08-17
 updated: 2026-08-17
-type: video
+type: reading
 classification: technology.youtube-channel.davesgarage
 domain: devops
 tags: ["led", "rgb"]  # Limit to 5 tags

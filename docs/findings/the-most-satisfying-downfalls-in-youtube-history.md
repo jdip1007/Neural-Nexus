@@ -3,8 +3,13 @@ title: The Most Satisfying Downfalls In YouTube History
 created: 2026-09-03
 updated: 2026-09-03
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/4OoN-eLshD4.md]
+tags:
+- youtube-documentary
+- content-creator
+- investigation
+sources:
+- raw/transcripts/internet-anarchist/4OoN-eLshD4.md
+domain: finance
 ---
 
 # The Most Satisfying Downfalls In YouTube History

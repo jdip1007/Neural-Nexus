@@ -1,17 +1,10 @@
 ---
-title: The Challenge: Can we build Notepad in 3K in assembly language?
-created: 2026-08-29
-updated: 2026-08-29
-type: video
-classification: philosophy.youtube-channel.chriswillx
-domain: philosophy
+title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
+created: '2026-09-12'
+updated: '2026-09-12'
+type: reading
+domain: general
 tags: []
-sources: [raw/videos/chriswillx/OG91c7xsNMc_the-challenge-can-we-build-notepad-in-3k-in-assembly-language.md]
-confidence: high
-status: active
-reviewed: 2026-08-29
-backlinks: []
-
 ---
 
 # The Challenge: Can we build Notepad in 3K in assembly language?

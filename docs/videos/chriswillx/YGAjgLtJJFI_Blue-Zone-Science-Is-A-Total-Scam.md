@@ -1,20 +1,17 @@
 ---
-{
-  "title": "\"Blue Zone Science\" Is A Total Scam",
-  "created": "2026-09-05",
-  "updated": "2026-09-05",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=YGAjgLtJJFI"
-  ],
-  "video_id": "YGAjgLtJJFI",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-05 17:07:05"
-}
+title: '"Blue Zone Science" Is A Total Scam'
+created: '2026-09-05'
+updated: '2026-09-05'
+type: reading
+tags:
+- technology
+sources:
+- https://www.youtube.com/watch?v=YGAjgLtJJFI
+video_id: YGAjgLtJJFI
+channel: Chris Willx
+transcript_api: transcriptapi.com
+ingestion_date: '2026-09-05 17:07:05'
+domain: psychology
 ---
 
 # "Blue Zone Science" Is A Total Scam

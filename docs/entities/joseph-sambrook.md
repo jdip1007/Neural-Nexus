@@ -5,7 +5,7 @@ updated: 2026-07-26
 type: entity
 classification: entity.person.researcher
 domain: biotech
-tags: [molecular-biology, pcr, cold-spring-harbor]
+tags: ["molecular-biology", "pcr"]
 sources: [raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md]
 confidence: medium
 status: draft

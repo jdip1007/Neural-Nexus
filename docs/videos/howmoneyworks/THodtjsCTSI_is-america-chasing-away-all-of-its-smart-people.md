@@ -2,11 +2,10 @@
 title: Is America Chasing Away All Of Its Smart People?
 created: 2026-09-01
 updated: 2026-09-01
-type: video
+type: reading
 classification: education.youtube-channel.howmoneyworks
 domain: finance
-tags: ["self_improvement", "technology"]
-sources: ["https://raw.githubusercontent.com/jdip1007/Neural-Nexus/main/raw/videos/howmoneyworks/THodtjsCTSI_is-america-chasing-away-all-of-its-smart-people.md"]
+tags: ["self-improvement"]
 confidence: high
 status: active
 reviewed: 2026-09-01
