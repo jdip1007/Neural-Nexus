@@ -40,7 +40,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=J7K2m5x9wR6
 **Video ID:** `J7K2m5x9wR6`
-**Transcript:** [[raw/transcripts/healthygamergg/The Psychology of Loneliness.md]]
+**Transcript:** raw/transcripts/healthygamergg/The Psychology of Loneliness.md
 **Accessed:** 2026-09-05
 
 ## Related

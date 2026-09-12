@@ -197,9 +197,20 @@ The "rust" metaphor is key — just as a flabby muscle can strengthen with exerc
 - [dopamine-tolerance](concepts/dopamine-tolerance.md): The receptor downregulation mechanism
 - [executive-function-rust](concepts/executive-function-rust.md): How screens atrophy planning abilities
 - [impulse-control-atrophy](concepts/impulse-control-atrophy.md): How screens weaken restraint mechanisms
-- [[inflammation-cycle]]: The physiological trap that makes recovery harder
+- inflammation-cycle: The physiological trap that makes recovery harder
 
 ## Sources
 
 - ^[raw/videos/healthygamergg/terminal-boredom.md] — Dr K (Healthy Gamer), "Terminal Boredom and Endstage Screen Addiction" (YouTube, ~46:00)
 - Receptor downregulation — General neuroscience research on dopamine tolerance
+
+## See also
+
+- [[dopamine-tolerance]]
+- [[executive-function]]
+- [[executive-function-rust]]
+- [[impulse-control-atrophy]]
+- [[inflammation]]
+- [[technology]]
+- [[youtube-17rJSSzto4U-how-to]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

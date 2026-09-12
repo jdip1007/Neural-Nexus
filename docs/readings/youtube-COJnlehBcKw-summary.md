@@ -35,3 +35,15 @@ This video discusses Ultimate LED Effects: New Software and Hardware!
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[hardware]]
+- youtube-6BOxK-JrghY-the-work
+- [[youtube-7HF6UuVdihA-the-big]]
+- [[youtube-COJnlehBcKw-audio-level]]
+- [[youtube-COJnlehBcKw-power-it]]
+- [[youtube-COJnlehBcKw-will-survive]]
+- [[youtube-RhelaTtcmEo-it-it]]
+- [[youtube-WNSZ6xouNv4-and-that]]

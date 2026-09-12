@@ -61,10 +61,10 @@ Zahinoor Ismail's research centers on:
 ## Related Concepts
 
 - [bpsd](concepts/bpsd.md)
-- [[neuropsychiatric-symptoms]]
-- [[dementia]]
-- [[apathy]]
-- [[psychosis]]
+- neuropsychiatric-symptoms
+- dementia
+- apathy
+- psychosis
 
 ## Key Publications
 

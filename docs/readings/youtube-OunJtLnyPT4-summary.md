@@ -37,7 +37,7 @@ This video discusses The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Ri
 - [[database]]
 - [cloud](concepts/cloud.md)
 - [api](concepts/api.md)
-- [[large-language-model]]
+- large-language-model
 
 ## Transcript Highlights
 > harm, their position was essentially,

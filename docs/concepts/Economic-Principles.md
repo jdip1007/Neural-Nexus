@@ -129,3 +129,13 @@ This page provides foundational knowledge for understanding economic principles 
 ---
 
 *Last updated: 2026-08-25*
+
+## See also
+
+- [[Investing-Basics]]
+- [[labor-market-changes]]
+- [[opportunity-cost]]
+- [[relationships]]
+- [[technology]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- [[youtube-vUYR5zv6gqU-economic-analysis]]

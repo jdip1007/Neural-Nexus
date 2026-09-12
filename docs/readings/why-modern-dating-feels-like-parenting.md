@@ -70,8 +70,8 @@ This video explores why modern dating feels like parenting through the lens of m
 
 - [[Mental Health Basics]]
 - [[Relationship Psychology]]
-- [[Personal Development Strategies]]
-- [[Healthy Gaming Habits]]
+- Personal Development Strategies
+- Healthy Gaming Habits
 
 ---
 *This page was auto-generated as part of the YouTube ingestion pipeline.*

@@ -130,3 +130,12 @@ Successfully completed daily YouTube ingestion for HealthyGamerGG channel with 1
 
 ## Summary
 The daily YouTube ingestion for HealthyGamerGG channel was completed successfully with no errors or quality issues. All 5 selected videos were processed, analyzed, and deployed with proper frontmatter, wikilinks, and citations. The duplicate detection system prevented reprocessing of existing content, and random selection ensured variety in processed content. The system is ready for the next ingestion cycle.
+
+## See also
+
+- [[mental-health]]
+- [[neural-nexus]]
+- [[psychology]]
+- [[relationships]]
+- [[youtube-7MykFJ7TByM-Analyzing The Lindsay Clancy Case]]
+- youtube--4x0fRO6w5M-Why Sensitive People Get Traumatized So Easily

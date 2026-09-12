@@ -190,5 +190,14 @@ Unsolved mysteries refer to crimes, disappearances, or incidents that remain unr
 - [criminal-psychology](concepts/criminal-psychology.md)
 - [forensic-science](concepts/forensic-science.md)
 - [serial-killers](concepts/serial-killers.md)
-- [[true-crime]]
+- true-crime
 - [unsolved-mysteries](concepts/unsolved-mysteries.md)
+
+## See also
+
+- [[forensic-science]]
+- [[psychology]]
+- [[risk-assessment]]
+- [[serial-killers]]
+- [[statistical-analysis]]
+- [[technology]]

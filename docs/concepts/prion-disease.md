@@ -233,3 +233,14 @@ This concept page is based on limited video content (title, description, referen
 - [readings/prion-disease-colleague-story](readings/prion-disease-colleague-story.md)
 - [concepts/amyloid-beta](concepts/amyloid-beta.md)
 - [concepts/apoe](concepts/apoe.md)
+
+
+## See also
+
+- [[amyloid-beta]]
+- [[engineering]]
+- [[neuroinflammation]]
+- [[quality-control]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- [[youtube-lhtcLe9QbMQ-north-america]]
+- [[youtube-y7voToyTmOE-jakob-disease]]

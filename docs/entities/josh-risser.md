@@ -173,9 +173,9 @@ backlinks: []
 - [baby-boomers](concepts/baby-boomers.md)
 - [economic-inequality](concepts/economic-inequality.md)
 - [wealth-concentration](concepts/wealth-concentration.md)
-- [[media-influence]]
-- [[educational-content]]
-- [[youtube-education]]
+- media-influence
+- educational-content
+- youtube-education
 
 ## Critical Questions
 

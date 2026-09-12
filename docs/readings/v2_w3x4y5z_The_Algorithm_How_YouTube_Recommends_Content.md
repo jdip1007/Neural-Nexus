@@ -19,17 +19,17 @@ This video explores content-creation, youtube-algorithm through the lens of inte
 
 ## Key Topics
 
-- [[Content Creation]]
+- [[content-creation]]
 - [[Youtube Algorithm]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
 
 ## Related Concepts
 
-- [[Digital Media]]
-- [[Digital Marketing]]
+- [[digital-media]]
+- Digital Marketing
 
 ## External Links
 
@@ -38,6 +38,6 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 ## Categories
 
-- [[YouTube]]
-- [[Internet Culture]]
-- [[Digital Media]]
+- [[youtube]]
+- [[internet-culture]]
+- [[digital-media]]

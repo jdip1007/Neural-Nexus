@@ -32,7 +32,7 @@ This content from HealthyGamerGG explores the impatient man: why you feel like a
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[The Impatient Man_ Why You Feel Like A Failure.md]]
+**Original Page:** The Impatient Man- Why You Feel Like A Failure.md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -41,3 +41,10 @@ This content from HealthyGamerGG explores the impatient man: why you feel like a
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[psychology]]
+- [[relationships]]
+- [[youtube-ahDC1sQCDzY-in-the]]

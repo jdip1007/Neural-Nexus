@@ -72,3 +72,7 @@ Generated: 2026-08-22 17:40:48
 📊 All quality checks passed
 🚀 Changes deployed to GitHub Pages
 📈 Processing statistics: 5/30 videos processed (16.7% of available content)
+
+## See also
+
+- [[mental-health]]

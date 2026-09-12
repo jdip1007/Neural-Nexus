@@ -221,3 +221,15 @@ This entity page is based primarily on the Veritasium video discussing metabolic
 - [urban-scaling](concepts/urban-scaling.md)
 - [lifespan](concepts/lifespan.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
+
+
+## See also
+
+- [[brian-enquist]]
+- [[comparative-physiology]]
+- [[fractal-networks]]
+- [[james-brown]]
+- [[lifespan]]
+- [[metabolic-scaling]]
+- [[relationships]]
+- [[scaling-laws]]

@@ -36,10 +36,10 @@ This video discusses The AI bubble is about to burst
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[artificial-intelligence]]
-- [[large-language-model]]
+- artificial-intelligence
+- large-language-model
 - [[database]]
-- [[framework]]
+- framework
 - [[llm]]
 
 ## Transcript Highlights

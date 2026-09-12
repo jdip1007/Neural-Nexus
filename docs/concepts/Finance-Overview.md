@@ -74,3 +74,13 @@ This page serves as a foundational concept for understanding various financial t
 ---
 
 *Last updated: 2026-08-25*
+
+## See also
+
+- [[Investing-Basics]]
+- [[economic-inequality]]
+- [[financial-planning]]
+- [[labor-market-changes]]
+- [[technology]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- [[youtube-vUYR5zv6gqU-economic-analysis]]

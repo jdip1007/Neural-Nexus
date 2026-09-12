@@ -235,6 +235,6 @@ From an evolutionary standpoint, cognitive diversity offers advantages:
 - [pattern-seeking-in-autism](concepts/pattern-seeking-in-autism.md) - Core cognitive mechanism underlying autistic contributions
 - [simon-baron-cohen](entities/simon-baron-cohen.md) - Primary researcher proposing this thesis
 - [cognitive-vs-affective-empathy](concepts/cognitive-vs-affective-empathy.md) - Complementary cognitive profile in autism
-- [[neurodiversity-paradigm]] - Framework for understanding cognitive diversity
-- [[systematizing-theory]] - Baron-Cohen's broader theoretical framework
-- [[autism-stem-connection]] - Statistical relationship between autism and STEM fields
+- neurodiversity-paradigm - Framework for understanding cognitive diversity
+- systematizing-theory - Baron-Cohen's broader theoretical framework
+- autism-stem-connection - Statistical relationship between autism and STEM fields

@@ -84,12 +84,12 @@ This YouTube Algorithm Manipulation Exposed provides an in-depth investigation i
 ## Related Topics
 
 [[youtube]]
-[[content_creators]]
-[[exposure]]
-[[controversy]]
-[[social_media]]
-[[online_reputation]]
-[[internet_culture]]
+content-creators
+exposure
+controversy
+[[social-media]]
+[[online-reputation]]
+[[internet-culture]]
 
 ## External References
 

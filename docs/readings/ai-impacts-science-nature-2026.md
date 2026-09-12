@@ -91,3 +91,15 @@ Individual gains vs. collective contraction. AI optimizes known problems, reinfo
 ## Related Pages
 - [knowledge-preservation](concepts/knowledge-preservation.md)
 - [neural-nexus](concepts/neural-nexus.md)
+
+
+## See also
+
+- [[ai]]
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[fengli-xu]]
+- [[james-evans]]
+- [[knowledge-preservation]]
+- [[qianyue-hao]]
+- [[reproducibility-crisis]]
+- [[yong-li]]

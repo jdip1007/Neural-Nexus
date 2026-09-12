@@ -62,3 +62,12 @@ it becomes literally blind to
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[psychology]]
+- [[youtube-2fbrl6WoIyo-arnold-schwarzenegger]]
+- [[youtube-2fbrl6WoIyo-roger-shepard]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-lhtcLe9QbMQ-north-america]]

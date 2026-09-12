@@ -57,3 +57,13 @@ The video serves as an educational resource for understanding:
 - [military-structure](concepts/military-structure.md)
 - [career-military](concepts/career-military.md)
 - [infographics-show](entities/infographics-show.md)
+
+## See also
+
+- [[infographics-show]]
+- [[marine-corps-training]]
+- [[military-structure]]
+- [[the-infographics-show]]
+- [[youtube-9mfJ-G2LPhE-the-infographics]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

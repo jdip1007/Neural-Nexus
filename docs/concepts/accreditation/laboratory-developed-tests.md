@@ -372,3 +372,15 @@ Revalidation is required when:
 - [bridging-studies](concepts/bridging-studies.md)
 - [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)
 - [change-control](concepts/change-control.md)
+
+
+## See also
+
+- [[bioinformatics-validation]]
+- [[bridging-studies]]
+- [[change-control]]
+- [[clinical-utility]]
+- [[fda-ldt-oversight]]
+- [[method-comparison]]
+- [[method-development]]
+- [[ngs-validation]]

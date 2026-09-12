@@ -1,42 +1,42 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-08-28 19:35:41
+Generated: 2026-09-12 00:32:20
 
 === Statistics ===
 Total videos in channel: 10
-Already processed: 15
+Already processed: 49
 New videos processed: 5
-Unprocessed remaining: -5
+Unprocessed remaining: -39
 
 === Processed Videos ===
-- Robotron Was Supposed to Be Humanly Impossible, So I Built an AI to Break It
-  ID: ZbZozyGTlKA
-  URL: https://www.youtube.com/watch?v=ZbZozyGTlKA
-  Processed: 2026-08-28 19:35:41
+- The Business of Gaming: Understanding the Industry Behind the Fun
+  ID: MmNnOoPpQqRr
+  URL: https://www.youtube.com/watch?v=MmNnOoPpQqRr
+  Processed: 2026-09-12 00:32:20
 
-- Mental Health in Gaming Communities: Building Supportive Environments
-  ID: hIjKlMnOpQr
-  URL: https://www.youtube.com/watch?v=hIjKlMnOpQr
-  Processed: 2026-08-28 19:35:41
+- Healthy Gaming Habits: Setting Boundaries That Actually Work
+  ID: dEfGhIjKlMn
+  URL: https://www.youtube.com/watch?v=dEfGhIjKlMn
+  Processed: 2026-09-12 00:32:20
+
+- Digital Detox: Finding Balance in a Connected World
+  ID: lMnOpQrStUv
+  URL: https://www.youtube.com/watch?v=lMnOpQrStUv
+  Processed: 2026-09-12 00:32:20
 
 - The Psychology of Gaming: Why We Play and What It Does to Our Brains
   ID: aBcDeFgHiJk
   URL: https://www.youtube.com/watch?v=aBcDeFgHiJk
-  Processed: 2026-08-28 19:35:41
+  Processed: 2026-09-12 00:32:20
 
-- Hidden Code: How Slot Machines Actually Work - The Computer Inside
-  ID: SR8ESCmUYLY
-  URL: https://www.youtube.com/watch?v=SR8ESCmUYLY
-  Processed: 2026-08-28 19:35:41
-
-- Task Manager Is Lying About Your CPU Usage - Here's the Truth
-  ID: HiHMQN3kQlQ
-  URL: https://www.youtube.com/watch?v=HiHMQN3kQlQ
-  Processed: 2026-08-28 19:35:41
+- Mental Health in Gaming Communities: Building Supportive Environments
+  ID: hIjKlMnOpQr
+  URL: https://www.youtube.com/watch?v=hIjKlMnOpQr
+  Processed: 2026-09-12 00:32:20
 
 === Recent Activity ===
-- Task Manager Is Lying About Your CPU Usage - Here's the Truth (Unknown time)
-- Hidden Code: How Slot Machines Actually Work - The Computer Inside (Unknown time)
-- The Psychology of Gaming: Why We Play and What It Does to Our Brains (Unknown time)
 - Mental Health in Gaming Communities: Building Supportive Environments (Unknown time)
-- Robotron Was Supposed to Be Humanly Impossible, So I Built an AI to Break It (Unknown time)
+- The Psychology of Gaming: Why We Play and What It Does to Our Brains (Unknown time)
+- Digital Detox: Finding Balance in a Connected World (Unknown time)
+- Healthy Gaming Habits: Setting Boundaries That Actually Work (Unknown time)
+- The Business of Gaming: Understanding the Industry Behind the Fun (Unknown time)

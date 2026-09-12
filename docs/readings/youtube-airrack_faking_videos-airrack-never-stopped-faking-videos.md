@@ -80,9 +80,9 @@ This Airrack Never Stopped Faking Videos provides an in-depth investigation into
 
 ## Related Topics
 
-[[social_media]]
-[[online_reputation]]
-[[internet_culture]]
+[[social-media]]
+[[online-reputation]]
+[[internet-culture]]
 
 ## External References
 

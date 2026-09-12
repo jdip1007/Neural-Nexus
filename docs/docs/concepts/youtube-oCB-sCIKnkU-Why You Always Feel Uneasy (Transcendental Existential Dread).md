@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=oCB-sCIKnkU
 **Video ID:** `oCB-sCIKnkU`
-**Transcript:** [[raw/transcripts/healthygamergg/Why You Always Feel Uneasy (Transcendental Existential Dread).md]]
+**Transcript:** raw/transcripts/healthygamergg/Why You Always Feel Uneasy (Transcendental Existential Dread).md
 **Accessed:** 2026-08-31
 
 ## Related

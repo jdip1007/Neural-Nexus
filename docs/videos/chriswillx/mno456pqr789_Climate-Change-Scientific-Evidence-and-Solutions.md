@@ -55,8 +55,8 @@ The conversation also addresses common misconceptions about climate science and 
 ## Related Pages
 
 [technology](concepts/technology.md)
-[[science]]
-[[politics]]
+science
+politics
 
 ## Citations
 

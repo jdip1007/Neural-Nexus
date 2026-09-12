@@ -19,6 +19,13 @@ class YouTubeIngestionPipeline:
     def __init__(self):
         self.tracker = VideoTracker()
         self.nexus_path = os.getenv("NEURAL_NEXUS_PATH", "/home/hermes/Neural-Nexus/docs")
+    
+    def extract_video_id(self, url):
+        """Extract video ID from YouTube URL"""
+        from urllib.parse import urlparse, parse_qs
+        parsed_url = urlparse(url)
+        video_id = parse_qs(parsed_url.query).get('v', [None])[0]
+        return video_id
         
     def extract_recent_video_urls(self, limit: int = 20) -> List[Dict]:
         """Extract recent video URLs from the channel"""

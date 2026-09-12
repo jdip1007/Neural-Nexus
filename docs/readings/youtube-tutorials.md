@@ -108,11 +108,11 @@ YouTube has become a primary platform for educational content, with creators pro
 
 ## Related Pages
 
-- [[Dave's Garage]] - Specific technology tutorial channel
+- Dave's Garage - Specific technology tutorial channel
 - [Technology](concepts/technology.md) - Broader technology concepts
 - [Programming](concepts/programming.md) - Programming tutorials and resources
-- [[Education]] - Educational methodologies and learning theories
-- [[Content Creation]] - Best practices for creating educational content
+- Education - Educational methodologies and learning theories
+- [[content-creation]] - Best practices for creating educational content
 
 ## External Resources
 

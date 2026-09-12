@@ -71,6 +71,6 @@ A container is a standard unit of software that packages up code and all its dep
 - [ai](concepts/ai.md)
 - [api](concepts/api.md)
 - [cloud](concepts/cloud.md)
-- [[kubernetes]]
-- [[devops]]
-- [[microservices]]
+- kubernetes
+- devops
+- microservices

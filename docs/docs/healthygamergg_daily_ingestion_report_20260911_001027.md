@@ -98,3 +98,10 @@ status: draft
 
 ---
 **Summary:** Successfully processed 5 HealthyGamerGG videos with 100.0% success rate. All pages created with proper frontmatter, wikilinks, and sources.
+
+
+## See also
+
+- [[psychology]]
+- youtube-L-gJ-Fo72-k-Why You Need Constant Reassurance
+- [[youtube-dC0J4v3eW5c-Why Normal Life Feels So Boring]]

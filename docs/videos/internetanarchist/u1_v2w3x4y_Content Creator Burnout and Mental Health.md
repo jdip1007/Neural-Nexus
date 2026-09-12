@@ -35,8 +35,8 @@ This video explores internet culture, YouTube trends, and the dynamics of conten
 
 ## Key Concepts
 
-- [[Creator Burnout]]
-- [[Mental Health]]
+- Creator Burnout
+- [[mental-health]]
 
 ## Transcript Content
 
@@ -72,10 +72,10 @@ This is an essential resource for anyone creating content on YouTube or other pl
 
 ## Related Resources
 
-- [[Internet Culture]]
-- [[Content Creation]]
+- [[internet-culture]]
+- [[content-creation]]
 - [[YouTube Algorithm]]
-- [[Digital Media]]
+- [[digital-media]]
 - [[Social Media Trends]]
 
 ## Citations

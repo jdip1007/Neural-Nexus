@@ -29,14 +29,14 @@ This video from How Money Works explores personal-finance and provides insights 
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[financial-markets]] - Understanding market dynamics
+- financial-markets - Understanding market dynamics
 - [[economic-trends]] - Current economic analysis
-- [[investment-strategies]] - Smart investment approaches
+- investment-strategies - Smart investment approaches
 
 ## Sources
 
 **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
 **Video URL:** https://www.youtube.com/watch?v=6BOxK_JrghY
 **Video ID:** `6BOxK_JrghY`
-**Transcript:** [[raw/transcripts/how-money-works/_Dude I'm Broke_ Why Is My Data Worth Harvesting_.md]]
+**Transcript:** raw/transcripts/how-money-works/-Dude I'm Broke- Why Is My Data Worth Harvesting-.md
 **Accessed:** 2026-09-04

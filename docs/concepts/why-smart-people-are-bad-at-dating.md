@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores why smart people are bad at dating and
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why Smart People Are Bad At Dating.md]]
+**Original Page:** Why Smart People Are Bad At Dating.md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -47,3 +47,11 @@ This content from HealthyGamerGG explores why smart people are bad at dating and
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[psychology]]
+- [[relationships]]
+- [[youtube-RhelaTtcmEo-Why Smart People Are Bad At Dating]]
+- [[youtube-ahDC1sQCDzY-in-the]]

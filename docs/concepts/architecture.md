@@ -50,6 +50,6 @@ Architecture refers to the fundamental structure of a system, including its comp
 ## Related Concepts
 - [ai](concepts/ai.md)
 - [api](concepts/api.md)
-- [[software-development]]
-- [[microservices]]
-- [[system-design]]
+- software-development
+- microservices
+- system-design

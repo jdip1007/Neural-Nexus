@@ -32,7 +32,7 @@ title: The Deserved Downfall of Dr Phil video_id: Mh9lkEl8ZWU source: https://ww
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md for the complete transcript.
 
 ## Related Topics
 

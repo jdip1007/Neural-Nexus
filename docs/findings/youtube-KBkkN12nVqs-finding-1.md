@@ -23,3 +23,15 @@ The finding suggests important implications for understanding the topic.
 
 ## Sources
 ^[raw/videos/youtube-KBkkN12nVqs-transcript.md] Video transcript analysis
+
+
+## See also
+
+- [[mental-health]]
+- [[psychology]]
+- [[relationships]]
+- [[youtube-17rJSSzto4U-how-to]]
+- [[youtube-5rFIcsi9EVc-to-your]]
+- [[youtube-5rFIcsi9EVc-what-does]]
+- youtube-6BOxK-JrghY-the-work
+- [[youtube-WNSZ6xouNv4-and-that]]

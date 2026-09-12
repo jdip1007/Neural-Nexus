@@ -195,3 +195,13 @@ The question is: Is short-term convenience worth long-term dependence?
 
 - ^[raw/videos/healthygamergg/terminal-boredom.md] — Dr K (Healthy Gamer), "Terminal Boredom and Endstage Screen Addiction"
 - Executive function and frontal lobe research — General neuroscience literature
+
+## See also
+
+- [[algorithm]]
+- [[executive-function]]
+- [[terminal-boredom]]
+- [[youtube-17rJSSzto4U-how-to]]
+- youtube-6BOxK-JrghY-the-work
+- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-ahDC1sQCDzY-in-the]]

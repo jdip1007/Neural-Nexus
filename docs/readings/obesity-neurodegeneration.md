@@ -174,9 +174,9 @@ The authors highlight technological advances enabling this integrated understand
 
 This reading connects:
 - [metabolic-disorder](concepts/metabolic-disorder.md) to [neurodegenerative-disease](concepts/neurodegenerative-disease.md)
-- [[visceral-adiposity]] to [[cognitive-decline]]
+- visceral-adiposity to cognitive-decline
 - [blood-brain-barrier](concepts/blood-brain-barrier.md) to [neuroinflammation](concepts/neuroinflammation.md)
-- [glymphatic](concepts/glymphatic.md) to [[waste-clearance]]
+- [glymphatic](concepts/glymphatic.md) to waste-clearance
 
 ## Notes
 

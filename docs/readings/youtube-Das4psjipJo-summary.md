@@ -35,7 +35,7 @@ This video discusses What if the World Wars Never Happened And Other Insane Scen
 - **Organizations**: National Institute
 
 ## Related Concepts
-- [[artificial-intelligence]]
+- artificial-intelligence
 - [container](concepts/container.md)
 - [architecture](concepts/architecture.md)
 - [api](concepts/api.md)
@@ -50,3 +50,15 @@ This video discusses What if the World Wars Never Happened And Other Insane Scen
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[architecture]]
+- [[container]]
+- [[technology]]
+- [[youtube-17rJSSzto4U-how-to]]
+- [[youtube-2uJhjqBz5Tk-nuclear-war]]
+- [[youtube-5rFIcsi9EVc-to-your]]
+- [[youtube-5rFIcsi9EVc-what-does]]
+- [[youtube-5tilhR0C6DY-the-emperor]]

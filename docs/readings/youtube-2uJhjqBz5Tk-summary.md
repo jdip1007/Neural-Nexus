@@ -58,3 +58,15 @@ get that main fire under control or
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[cloud]]
+- [[container]]
+- [[youtube-2uJhjqBz5Tk-alexander-yuvchenko]]
+- [[youtube-2uJhjqBz5Tk-kurchatov-institute]]
+- [[youtube-2uJhjqBz5Tk-nuclear-war]]
+- [[youtube-2uJhjqBz5Tk-power-plant]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]

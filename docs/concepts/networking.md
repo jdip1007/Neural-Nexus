@@ -158,11 +158,11 @@ Networks form the backbone of modern computing, enabling everything from local f
 
 ## Related Pages
 
-- [[Dave's Garage]] - Networking tutorials and projects
-- [[Ethernet]] - Specific networking technology
+- Dave's Garage - Networking tutorials and projects
+- Ethernet - Specific networking technology
 - [Programming](concepts/programming.md) - Network programming and protocols
 - [Technology](concepts/technology.md) - Broader technology concepts
-- [[Security]] - Network security best practices
+- Security - Network security best practices
 
 ## External Resources
 

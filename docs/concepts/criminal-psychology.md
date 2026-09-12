@@ -175,4 +175,13 @@ Criminal psychology is the study of the thoughts, intentions, motivations, and r
 - [forensic-science](concepts/forensic-science.md)
 - [cold-case-investigations](concepts/cold-case-investigations.md)
 - [psychology](concepts/psychology.md)
-- [[criminology]]
+- criminology
+
+## See also
+
+- [[mental-health]]
+- [[psychology]]
+- [[relationships]]
+- [[risk-assessment]]
+- [[serial-killers]]
+- [[statistical-analysis]]

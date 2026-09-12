@@ -87,3 +87,10 @@ AI adoption in science presents a paradox: dramatic individual career advantages
 ## Related Pages
 - [knowledge-preservation](concepts/knowledge-preservation.md)
 - [reproducibility-crisis](concepts/reproducibility-crisis.md)
+
+
+## See also
+
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[knowledge-preservation]]
+- [[reproducibility-crisis]]

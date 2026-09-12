@@ -32,7 +32,7 @@ title: The Satisfying Downfall of OnlyJayus video_id: 01-QTmyvEI8 source: https:
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/01-QTmyvEI8.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/01-QTmyvEI8.md for the complete transcript.
 
 ## Related Topics
 

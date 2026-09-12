@@ -30,7 +30,7 @@ title: The Worst YouTubers Destroyed By Penguinz0 video_id: VhWeh-HtCxY source: 
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/VhWeh-HtCxY.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/VhWeh-HtCxY.md for the complete transcript.
 
 ## Related Topics
 

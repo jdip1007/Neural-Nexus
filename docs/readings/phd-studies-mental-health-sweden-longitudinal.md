@@ -165,3 +165,10 @@ This study aligns with survey-based findings:
 **Ingested:** 2026-08-13
 **Status:** Full text extracted from PDF (19 pages)
 **Notes:** First PDF sent by user was empty/image-based; this paper was from the second PDF
+
+## See also
+
+- [[knowledge-preservation]]
+- [[mental-health]]
+- [[phd-mental-health-crisis]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

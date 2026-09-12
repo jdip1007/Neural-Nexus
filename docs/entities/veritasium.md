@@ -145,3 +145,15 @@ This entity page represents the Veritasium channel as an organization. The host 
 - [entities/the-infographics-show](entities/the-infographics-show.md)
 - [entities/biomerieux](entities/biomerieux.md)
 - [entities/bowtie-insurance](entities/bowtie-insurance.md)
+
+
+## See also
+
+- [[biomerieux]]
+- [[derek-muller]]
+- [[engineering]]
+- [[metabolic-scaling]]
+- [[psychology]]
+- [[surface-law]]
+- [[technology]]
+- [[wbe-theory]]

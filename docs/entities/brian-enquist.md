@@ -130,3 +130,15 @@ This entity page is based primarily on Brian Enquist's contribution to the Verit
 - [lifespan](concepts/lifespan.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
 - [scaling-laws](concepts/scaling-laws.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[ecology]]
+- [[fractal-networks]]
+- [[geoffrey-west]]
+- [[james-brown]]
+- [[lifespan]]
+- [[metabolic-scaling]]
+- [[relationships]]

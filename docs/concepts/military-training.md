@@ -176,6 +176,6 @@ Military training encompasses the systematic development of physical, mental, an
 - [marine-corps-training](concepts/marine-corps-training.md)
 - [individualized-training](concepts/individualized-training.md)
 - [military-structure](concepts/military-structure.md)
-- [[leadership-development]]
-- [[physical-fitness]]
-- [[combat-readiness]]
+- leadership-development
+- physical-fitness
+- combat-readiness

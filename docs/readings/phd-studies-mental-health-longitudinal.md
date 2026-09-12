@@ -548,3 +548,13 @@ Key references mentioned in text (see full paper for complete list):
 **Confidence:** High (peer-reviewed, longitudinal, population-wide data, multiple robustness checks)
 **Type:** Reading | Full extraction
 **Review Status:** Reviewed 2026-08-14
+
+## See also
+
+- [[engineering]]
+- [[mental-health]]
+- [[phd-mental-health-crisis]]
+- [[psychiatric-comorbidity]]
+- [[technology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]

@@ -78,9 +78,9 @@ The NVU is highly sensitive to metabolic disturbances:
 
 ### Neurodegenerative Diseases
 NVU dysfunction is implicated in:
-- [[alzheimers-disease]]: BBB breakdown, reduced glymphatic clearance
-- [[parkinsons-disease]]: Vascular pathology, microglial activation
-- [[vascular-dementia]]: Impaired NVC, chronic cerebral hypoperfusion
+- alzheimers-disease: BBB breakdown, reduced glymphatic clearance
+- parkinsons-disease: Vascular pathology, microglial activation
+- vascular-dementia: Impaired NVC, chronic cerebral hypoperfusion
 
 ### Metabolic Disorders
 Obesity and type 2 diabetes directly impact NVU function:
@@ -121,10 +121,10 @@ Manipulating specific cell populations to understand their contributions to NVU 
 ## Graph Impact
 
 This concept connects:
-- [[neuron]] to [[vascular]]
-- [[astrocyte]] to [blood-brain-barrier](concepts/blood-brain-barrier.md)
-- [[microglia]] to [neuroinflammation](concepts/neuroinflammation.md)
-- [[oligodendrocyte]] to [myelin](concepts/myelin.md)
+- neuron to vascular
+- astrocyte to [blood-brain-barrier](concepts/blood-brain-barrier.md)
+- microglia to [neuroinflammation](concepts/neuroinflammation.md)
+- oligodendrocyte to [myelin](concepts/myelin.md)
 - [metabolic-disorder](concepts/metabolic-disorder.md) to [neurodegenerative-disease](concepts/neurodegenerative-disease.md)
 
 ## Notes

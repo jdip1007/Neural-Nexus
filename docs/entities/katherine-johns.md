@@ -48,3 +48,11 @@ This entity page has low confidence as it is based on a single video mention wit
 - [mental-health](concepts/mental-health.md)
 - [adhd](concepts/adhd.md)
 - [psychology](concepts/psychology.md)
+
+
+## See also
+
+- [[neurodegenerative-disease]]
+- [[prion-disease]]
+- [[psychology]]
+- [[youtube-ahDC1sQCDzY-in-the]]

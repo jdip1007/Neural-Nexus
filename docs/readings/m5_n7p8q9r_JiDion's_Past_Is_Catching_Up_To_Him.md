@@ -26,26 +26,26 @@ This video explores content-creation, internet-culture, marketing through the le
 
 ## Key Topics
 
-- [[Content Creation]]
-- [[Internet Culture]]
-- [[Marketing]]
+- [[content-creation]]
+- [[internet-culture]]
+- Marketing
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
+The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
 
 ## Related Concepts
 
-- [[Digital Media]]
-- [[Digital Society]]
-- [[Business]]
+- [[digital-media]]
+- Digital Society
+- [[business]]
 
 ## Key Themes
 
-- [[Accountability]]
-- [[Culture]]
+- Accountability
+- Culture
 - [Technology](concepts/technology.md)
-- [[Marketing]]
+- Marketing
 
 ## External Links
 
@@ -54,8 +54,8 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 ## Categories
 
-- [[YouTube]]
-- [[Internet Culture]]
-- [[Digital Media]]
-- [[Content Creation]]
+- [[youtube]]
+- [[internet-culture]]
+- [[digital-media]]
+- [[content-creation]]
 - [[Internet Anarchist]]

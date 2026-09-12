@@ -26,3 +26,10 @@ status: draft
 3. **CANBUS - Networking so simple, even YOU can understand it!** (XAzUoizwnXM)
 4. **The Challenge: Building a Custom Electric Vehicle** (kLcpCqLwNU8)
 5. **What Happens When You Lose Just One Packet?** (QTTCqGtT6I4)
+
+
+## See also
+
+- [[networking]]
+- [[youtube-YQQMF8ibxVw-what-happens]]
+- [[youtube-YQQMF8ibxVw-when-you]]

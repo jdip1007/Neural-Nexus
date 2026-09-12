@@ -86,3 +86,13 @@ Dave's Garage is a popular YouTube channel created by Dave Plummer that focuses 
 
 ---
 *Created: 2026-09-02 20:50:40*
+
+## See also
+
+- [[algorithm]]
+- [[automotive]]
+- [[hardware]]
+- [[networking]]
+- [[programming]]
+- [[technology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

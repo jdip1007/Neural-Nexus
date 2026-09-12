@@ -89,25 +89,25 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[mental_health]]
+[[mental-health]]
 [psychology](concepts/psychology.md)
-[[emotional_regulation]]
-[[online_communities]]
-[[personal_development]]
+[[emotional-regulation]]
+[[online-communities]]
+[[personal-development]]
 [[gaming]]
-[[digital_life]]
+[[digital-life]]
 [[anxiety]]
-[[stress]]
+stress
 
 
 ## Related Topics
 
-[[mental_health]]
+[[mental-health]]
 [psychology](concepts/psychology.md)
-[[emotional_regulation]]
-[[online_communities]]
-[[personal_development]]
+[[emotional-regulation]]
+[[online-communities]]
+[[personal-development]]
 [[gaming]]
-[[digital_life]]
+[[digital-life]]
 [[anxiety]]
-[[stress]]
+stress

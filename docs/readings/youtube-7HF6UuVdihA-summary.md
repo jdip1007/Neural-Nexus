@@ -41,7 +41,7 @@ nebulous protectionist posture against China… They chose the latter
 - **Persons**: Big Three, The Big, European New
 
 ## Related Concepts
-- [[framework]]
+- framework
 - [api](concepts/api.md)
 - [ai](concepts/ai.md)
 - [architecture](concepts/architecture.md)
@@ -58,3 +58,14 @@ higher than the national average of 5.1%.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[architecture]]
+- [[youtube-7HF6UuVdihA-big-three]]
+- [[youtube-7HF6UuVdihA-european-new]]
+- [[youtube-7HF6UuVdihA-the-big]]
+- [[youtube-FVZDXz3Iibw-the-american]]
+- [[youtube-WNSZ6xouNv4-and-that]]
+- [[youtube-ahDC1sQCDzY-in-the]]

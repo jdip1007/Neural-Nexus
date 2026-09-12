@@ -267,3 +267,14 @@ The entity demonstrates how individual criminal cases can have profound impacts 
 - [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
 - [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md)
 - [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
+
+
+## See also
+
+- [[criminal-psychology]]
+- [[dna-evidence-hong-kong-legal-system]]
+- [[forensic-science]]
+- [[neural-nexus]]
+- [[psychology]]
+- [[technology]]
+- [[youtube-ahDC1sQCDzY-in-the]]

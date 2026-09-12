@@ -45,3 +45,11 @@ reviewed: 2026-07-31
 - [kleibers-law](concepts/kleibers-law.md)
 - [wbe-theory](concepts/wbe-theory.md)
 - [surface-law](concepts/surface-law.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[ecology]]
+- [[surface-law]]
+- [[wbe-theory]]

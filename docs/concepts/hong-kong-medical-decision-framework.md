@@ -318,22 +318,22 @@ reviewed: 2026-08-07
 ## 相關概念
 
 ### 法律概念
-- [[patient-autonomy]] - 患者自主權的法律基礎
-- [[informed-consent]] - 知情同意的法律原則
-- [[medical-ethics]] - 醫療倫理和法律關係
-- [[hong-kong-law]] - 香港法律系統概述
+- patient-autonomy - 患者自主權的法律基礎
+- informed-consent - 知情同意的法律原則
+- medical-ethics - 醫療倫理和法律關係
+- hong-kong-law - 香港法律系統概述
 
 ### 醫療概念
-- [[end-of-life-care]] - 終末期醫療照護
-- [[palliative-care]] - 舒緩治療和疼痛管理
-- [[hospice-care]] - 安寧服務和終末期照護
-- [[medical-decision-making]] - 醫療決定程序
+- end-of-life-care - 終末期醫療照護
+- palliative-care - 舒緩治療和疼痛管理
+- hospice-care - 安寧服務和終末期照護
+- medical-decision-making - 醫療決定程序
 
 ### 社會概念
-- [[family-dynamics]] - 家庭動態和醫療決定
-- [[cultural-factors]] - 文化因素對醫療決定的影響
-- [[health-literacy]] - 健康素養和醫療決定
-- [[patient-advocacy]] - 患者權益保障
+- family-dynamics - 家庭動態和醫療決定
+- cultural-factors - 文化因素對醫療決定的影響
+- health-literacy - 健康素養和醫療決定
+- patient-advocacy - 患者權益保障
 
 ## 案例分析
 
@@ -369,5 +369,5 @@ reviewed: 2026-08-07
 **Source:** 馬天律師 YouTube Channel (@hk-lawyer)
 **Video URL:** https://www.youtube.com/watch?v=fehagloD4fw
 **Video ID:** `fehagloD4fw`
-**Transcript:** [[raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]]
+**Transcript:** raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md
 **Accessed:** 2026-08-04

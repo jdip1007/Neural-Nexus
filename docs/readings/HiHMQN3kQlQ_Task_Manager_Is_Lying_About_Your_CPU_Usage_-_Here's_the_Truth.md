@@ -26,15 +26,15 @@ This video explores general-content through the lens of gaming culture and menta
 
 ## Key Topics
 
-- [[General Content]]
+- General Content
 
 ## Content Analysis
 
-The video provides insights into [[gaming culture]] and [[mental health]], examining how digital entertainment impacts psychological wellbeing and social dynamics.
+The video provides insights into gaming culture and [[mental health]], examining how digital entertainment impacts psychological wellbeing and social dynamics.
 
 ## Related Concepts
 
-- [[Digital Media]]
+- [[digital-media]]
 
 ## External Links
 
@@ -43,7 +43,7 @@ The video provides insights into [[gaming culture]] and [[mental health]], exami
 
 ## Categories
 
-- [[YouTube]]
+- [[youtube]]
 - [[Gaming]]
-- [[Mental Health]]
-- [[Digital Media]]
+- [[mental-health]]
+- [[digital-media]]

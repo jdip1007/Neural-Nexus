@@ -24,8 +24,8 @@ updated: '2026-09-02'
 
 ## Key Topics
 
-- [[online-controversy]]
-- [[cancel-culture]]
+- online-controversy
+- cancel-culture
 - [[digital-footprint]]
 - [[content-creation]]
 - [internet-culture](internet-culture.md)
@@ -36,15 +36,15 @@ This video explores various aspects of internet culture, online personalities, a
 
 ## Main Themes
 
-- [[online-personality]]
-- [[public-perception]]
-- [[career-impact]]
+- online-personality
+- public-perception
+- career-impact
 
 ## Notable Entities
 
-- [[JiDion]]
+- JiDion
 - [social-media](social-media.md)
-- [[online-creators]]
+- online-creators
 
 ## Key Insights
 
@@ -58,7 +58,7 @@ The video "[title]" provides a comprehensive look at various aspects of internet
 
 ## Related Content
 
-[[internet-anarchist]] | [[youtube-content]] | [[digital-media]] | [internet-culture](internet-culture.md)
+[[internet-anarchist]] | youtube-content | [[digital-media]] | [internet-culture](internet-culture.md)
 
 ## Transcript
 

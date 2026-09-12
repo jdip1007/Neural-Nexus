@@ -37,9 +37,9 @@ Based on the video title, this discussion likely covers:
 ## Related Pages
 
 - [Chris Williamson Podcast Overview](chris-williamson-podcast.md)
-- [[podcast-analysis|Podcast Content Analysis]]
-- [[ai-safety|AI Safety]]
-[[technology-ethics|Technology Ethics]]
+- Podcast Content Analysis
+- AI Safety
+Technology Ethics
 
 ## Sources
 

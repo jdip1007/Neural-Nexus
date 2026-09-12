@@ -26,7 +26,7 @@ Analysis of  - Internet Anarchist documentary style content
 ## Key Topics
 - [internet-culture](internet-culture.md)
 - [social-media](social-media.md)
-- [[content-analysis]]
+- content-analysis
 
 ## Transcript Excerpt
 1. Less than a year ago, Clavicula went

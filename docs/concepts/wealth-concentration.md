@@ -196,3 +196,15 @@ Wealth concentration refers to the disproportionate ownership of assets and fina
 - [inheritance-trap](concepts/inheritance-trap.md)
 - [interest-rate-policy](concepts/interest-rate-policy.md)
 - [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
+
+
+## See also
+
+- [[asset-inflation]]
+- [[baby-boomers]]
+- [[cash-buyer-cartel]]
+- [[economic-inequality]]
+- [[generational-wealth-transfer]]
+- [[housing-market-dynamics]]
+- [[inheritance-trap]]
+- [[interest-rate-policy]]

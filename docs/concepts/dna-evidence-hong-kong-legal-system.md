@@ -280,3 +280,14 @@ The concept demonstrates how technological innovation can drive legal evolution 
 - [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
 - [criminal-psychology-behavior-patterns](concepts/criminal-psychology-behavior-patterns.md)
 - [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)
+
+
+## See also
+
+- [[criminal-psychology]]
+- [[forensic-science]]
+- [[neural-nexus]]
+- [[psychology]]
+- [[quality-control]]
+- [[statistical-analysis]]
+- [[technology]]

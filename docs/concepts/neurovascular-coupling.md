@@ -175,10 +175,10 @@ fMRI interpretation requires understanding of NVC:
 ## Graph Impact
 
 This concept connects:
-- [[neuron]] to [[blood-flow]]
-- [[metabolic-demand]] to [[vascular-response]]
-- [[obesity]] to [[cognitive-decline]]
-- [[cerebral-blood-flow]] to [[neuronal-activity]]
+- neuron to blood-flow
+- metabolic-demand to vascular-response
+- [[obesity]] to cognitive-decline
+- cerebral-blood-flow to neuronal-activity
 
 ## Notes
 

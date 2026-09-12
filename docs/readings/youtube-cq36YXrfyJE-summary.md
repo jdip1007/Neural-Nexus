@@ -42,8 +42,8 @@ infrastructure being used to track you
 
 ## Related Concepts
 - [[database]]
-- [[framework]]
-- [[data-science]]
+- framework
+- data-science
 - [ai](concepts/ai.md)
 
 ## Transcript Highlights

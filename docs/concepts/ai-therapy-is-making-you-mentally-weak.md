@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores ai therapy is making you mentally weak
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[AI Therapy is Making You Mentally Weak.md]]
+**Original Page:** AI Therapy is Making You Mentally Weak.md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -47,3 +47,11 @@ This content from HealthyGamerGG explores ai therapy is making you mentally weak
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[psychology]]
+- [[relationships]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]

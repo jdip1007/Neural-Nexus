@@ -32,10 +32,10 @@ This video explores important concepts in mental health and personal development
 
 ## Related Topics
 
-[[mental_health]]
-[[personal_development]]
-[[adulting]]
-[[life_skills]]
+[[mental-health]]
+[[personal-development]]
+adulting
+life-skills
 
 ## Video Information
 

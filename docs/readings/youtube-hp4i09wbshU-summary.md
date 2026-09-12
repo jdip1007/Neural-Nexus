@@ -45,3 +45,15 @@ This video discusses The Truth Behind Video Games & Their Psychological Impact -
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[economic-inequality]]
+- [[lifespan]]
+- [[psychology]]
+- [[youtube-5rFIcsi9EVc-to-your]]
+- [[youtube-5rFIcsi9EVc-what-does]]
+- [[youtube-7HF6UuVdihA-the-big]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-RhelaTtcmEo-it-it]]

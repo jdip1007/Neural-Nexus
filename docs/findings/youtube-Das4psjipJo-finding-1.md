@@ -23,3 +23,15 @@ The finding suggests important implications for understanding the topic.
 
 ## Sources
 ^[raw/videos/youtube-Das4psjipJo-transcript.md] Video transcript analysis
+
+
+## See also
+
+- [[ai]]
+- [[architecture]]
+- [[cloud]]
+- [[container]]
+- [[engineering]]
+- [[hardware]]
+- [[mental-health]]
+- [[programming]]

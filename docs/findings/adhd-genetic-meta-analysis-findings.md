@@ -172,5 +172,16 @@ The findings provide a solid foundation for future research and may eventually c
 ## Related Findings
 - [shared-neural-basis-psychiatric-comorbidity](raw/articles/shared-neural-basis-psychiatric-comorbidity.md) - Comorbidity patterns in psychiatric disorders
 - [heritability](concepts/heritability.md) - Genetic inheritance patterns in complex traits
-- [[neuropsychopathology]] - Brain basis of psychiatric disorders
+- neuropsychopathology - Brain basis of psychiatric disorders
 - [executive-function](concepts/executive-function.md) - Cognitive domains affected by ADHD
+
+## See also
+
+- [[adhd]]
+- [[architecture]]
+- [[camiel-m-van-der-laan]]
+- [[executive-function]]
+- [[heritability]]
+- [[polygenic-scores]]
+- [[prefrontal-cortex-development]]
+- [[psychiatric-comorbidity]]

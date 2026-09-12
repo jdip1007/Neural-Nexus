@@ -143,3 +143,15 @@ The video references sources available at: https://pastebin.com/KG6ZNMz
 - [concepts/asset-inflation](concepts/asset-inflation.md)
 - [concepts/cash-buyer-cartel](concepts/cash-buyer-cartel.md)
 - [concepts/economic-inequality](concepts/economic-inequality.md)
+
+
+## See also
+
+- [[asset-inflation]]
+- [[baby-boomers]]
+- [[cash-buyer-cartel]]
+- [[demographic-economic-impact]]
+- [[demographic-wall]]
+- [[economic-inequality]]
+- [[generational-wealth-transfer]]
+- [[housing-market-dynamics]]

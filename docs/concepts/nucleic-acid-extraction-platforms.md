@@ -172,3 +172,15 @@ When selecting or validating a nucleic acid extraction platform:
 - [respiratory-virus-testing](concepts/clinical-testing/respiratory-virus-testing.md)
 - [qpcr](concepts/laboratory-methods/qpcr.md)
 - [quality-control](concepts/quality-control.md)
+
+
+## See also
+
+- [[biomerieux]]
+- [[dna-extraction]]
+- [[environmental-dna-analysis]]
+- [[performance-characteristics]]
+- [[quality-control]]
+- [[respiratory-virus-testing]]
+- [[roche]]
+- [[technology]]

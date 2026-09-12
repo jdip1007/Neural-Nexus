@@ -348,17 +348,17 @@ Inflammation is a complex biological response to harmful stimuli such as pathoge
 - [blood-brain-barrier](concepts/blood-brain-barrier.md): BBB limits peripheral immune cell entry
 - [metabolic-disorder](concepts/metabolic-disorder.md): Chronic inflammation underlies many metabolic diseases
 - [neurodegenerative-disease](concepts/neurodegenerative-disease.md): Inflammation contributes to neurodegeneration
-- [[immune-system]]: The broader immune response system
-- [[cytokine]]: Signaling molecules of inflammation
+- immune-system: The broader immune response system
+- cytokine: Signaling molecules of inflammation
 
 ## Graph Impact
 
 This concept connects:
-- [[immune-response]] to [[tissue-damage]]
-- [[obesity]] to [[systemic-inflammation]]
-- [[chronic-disease]] to [[inflammatory-pathways]]
-- [[acute-injury]] to [[healing]]
-- [[cytokine]] to [[cell-signaling]]
+- immune-response to tissue-damage
+- [[obesity]] to systemic-inflammation
+- chronic-disease to inflammatory-pathways
+- acute-injury to healing
+- cytokine to cell-signaling
 
 ## Notes
 

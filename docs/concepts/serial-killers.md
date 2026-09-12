@@ -228,4 +228,12 @@ Serial killers are individuals who commit a series of murders, typically with a 
 - [cold-case-investigations](concepts/cold-case-investigations.md)
 - [serial-killers](concepts/serial-killers.md)
 - [psychology](concepts/psychology.md)
-- [[criminology]]
+- criminology
+
+## See also
+
+- [[mental-health]]
+- [[psychology]]
+- [[relationships]]
+- [[risk-assessment]]
+- [[statistical-analysis]]

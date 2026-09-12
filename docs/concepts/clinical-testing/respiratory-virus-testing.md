@@ -56,3 +56,9 @@ Clinical laboratory testing for detection and quantification of respiratory viru
 - [readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019](readings/emag-magana-easymag-respiratory-virus-extraction-comparison-2019.md)
 - [concepts/laboratory-methods/qpcr](concepts/laboratory-methods/qpcr.md)
 - [entities/michel-mandelboim](entities/michel-mandelboim.md)
+
+
+## See also
+
+- [[ngs-validation]]
+- [[qpcr]]

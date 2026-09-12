@@ -25,10 +25,10 @@ Analysis of Decentralized Social Networks - Internet Anarchist documentary style
 ## Key Topics
 - [internet-culture](internet-culture.md)
 - [social-media](social-media.md)
-- [[content-analysis]]
-- [[digital-privacy]]
-- [[cybersecurity]]
-- [[online-activism]]
+- content-analysis
+- digital-privacy
+- cybersecurity
+- online-activism
 
 ## Transcript Excerpt
 Decentralized social networks promise to give users more control over their data and online identities. Unlike traditional platforms that profit from user attention, these alternatives prioritize user sovereignty and community governance.

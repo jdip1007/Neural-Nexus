@@ -37,9 +37,9 @@ Based on the video title, this discussion likely covers:
 ## Related Pages
 
 - [Chris Williamson Podcast Overview](chris-williamson-podcast.md)
-- [[podcast-analysis|Podcast Content Analysis]]
-- [[podcast-content-analysis|Podcast Content Analysis]]
-[[interview-techniques|Interview Techniques]]
+- Podcast Content Analysis
+- Podcast Content Analysis
+Interview Techniques
 
 ## Sources
 

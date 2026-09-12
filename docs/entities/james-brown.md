@@ -42,3 +42,11 @@ reviewed: 2026-07-31
 - [entities/van-savage](entities/van-savage.md)
 - [entities/brian-enquist](entities/brian-enquist.md)
 - [concepts/scale-book](concepts/scale-book.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[ecology]]
+- [[metabolic-scaling]]
+- [[scale-book]]

@@ -23,7 +23,7 @@ This video from Dave's Garage provides an in-depth analysis of psychology, socio
 ## Key Topics
 
 - [Psychology](concepts/psychology.md)
-- [[Sociology]]
+- Sociology
 - [Technology](concepts/technology.md)
 
 ## Key Concepts
@@ -38,10 +38,10 @@ Psychological analysis of relationship dynamics and the dangers of premature emo
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Analysis]] - Collection of analytical content
+- Dave's Garage - Main channel page
+- YouTube Analysis - Collection of analytical content
 - [Psychology](concepts/psychology.md)
-- [[Sociology]]
+- Sociology
 - [Technology](concepts/technology.md)
 
 ## Citations

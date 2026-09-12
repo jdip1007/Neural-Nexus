@@ -144,6 +144,6 @@ Key principles:
 
 - [simon-baron-cohen](entities/simon-baron-cohen.md) - Primary researcher and author on autism and pattern seeking
 - [cognitive-vs-affective-empathy](concepts/cognitive-vs-affective-empathy.md) - Related cognitive profile in autism
-- [[systematizing-theory]] - Baron-Cohen's broader theoretical framework
-- [[neurodiversity-paradigm]] - Shift from deficit to difference model
-- [[empathizing-systematizing-theory]] - Complementary cognitive dimensions
+- systematizing-theory - Baron-Cohen's broader theoretical framework
+- neurodiversity-paradigm - Shift from deficit to difference model
+- empathizing-systematizing-theory - Complementary cognitive dimensions

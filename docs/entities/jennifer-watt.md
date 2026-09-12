@@ -70,10 +70,10 @@ Jennifer Watt's research centers on:
 ## Related Concepts
 
 - [bpsd](concepts/bpsd.md)
-- [[nonpharmacologic-interventions]]
-- [[deprescribing]]
-- [[dementia]]
-- [[neuropsychiatric-symptoms]]
+- nonpharmacologic-interventions
+- deprescribing
+- dementia
+- neuropsychiatric-symptoms
 
 ## Key Publications
 

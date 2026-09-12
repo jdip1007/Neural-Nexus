@@ -74,10 +74,10 @@ This provides both theoretical understanding and practical application of viral 
 
 ## Related Resources
 
-- [[Internet Culture]]
-- [[Content Creation]]
+- [[internet-culture]]
+- [[content-creation]]
 - [[YouTube Algorithm]]
-- [[Digital Media]]
+- [[digital-media]]
 - [[Social Media Trends]]
 
 ## Citations

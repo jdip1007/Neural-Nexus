@@ -45,9 +45,9 @@ it's important to talk about your research in context
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- [[artificial-intelligence]]
+- artificial-intelligence
 - [ai](concepts/ai.md)
-- [[framework]]
+- framework
 - [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights

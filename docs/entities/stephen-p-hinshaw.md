@@ -64,3 +64,11 @@ His work on mental health stigma (with Martinez 2016; with Stier 2008) examines 
 - [mental-health](concepts/mental-health.md)
 - [psychology](concepts/psychology.md)
 - [adhd](concepts/adhd.md)
+
+
+## See also
+
+- [[adhd]]
+- [[mental-health]]
+- [[psychology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

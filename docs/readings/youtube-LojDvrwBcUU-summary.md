@@ -40,3 +40,15 @@ This video discusses How Years of Gaming Weakens Brain's Ability to Problem Solv
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[executive-function]]
+- [[mental-health]]
+- [[youtube-17rJSSzto4U-how-to]]
+- [[youtube-D8gygc4boZA-what-if]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-WNSZ6xouNv4-and-that]]
+- [[youtube-WNSZ6xouNv4-used-to]]
+- [[youtube-YQQMF8ibxVw-when-you]]

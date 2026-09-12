@@ -34,7 +34,7 @@ This video explores important financial concepts and economic trends. Learn abou
 
 ## Related Pages
 
-- [[Finance]]
-- [[Investing]]
+- [[finance]]
+- [[investing]]
 - [[Economy]]
-- [[Business]]
+- [[business]]

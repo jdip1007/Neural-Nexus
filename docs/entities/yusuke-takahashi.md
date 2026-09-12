@@ -41,3 +41,9 @@ Yusuke Takahashi is a researcher at the Super-network Brain Physiology laborator
 - [rem-sleep](concepts/rem-sleep.md)
 - [tohoku-university](entities/tohoku-university.md)
 - [energy-paradox-rem-sleep-2026](raw/articles/energy-paradox-rem-sleep-2026.md)
+
+
+## See also
+
+- [[rem-sleep]]
+- [[tohoku-university]]

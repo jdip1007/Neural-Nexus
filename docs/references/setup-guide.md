@@ -153,7 +153,7 @@ Neural-Nexus/
 │   ├── css/                 # Custom CSS
 │   │   └── custom.css       # Theme overrides
 │   ├── hooks/               # MkDocs hooks
-│   │   └── wikilinks.py     # [[wikilink]] → markdown link converter
+│   │   └── wikilinks.py     # wikilink → markdown link converter
 │   └── .obsidian/           # Obsidian vault config (created in Phase 9)
 ├── scripts/                 # Build and maintenance scripts
 │   ├── lib.js               # Shared utilities (imported by all scripts)
@@ -323,7 +323,7 @@ plugins:
       enable_creation_date: true
       type: date
 
-# Hooks — server-side [[wikilink]] rendering
+# Hooks — server-side wikilink rendering
 hooks:
   - docs/hooks/wikilinks.py
 
@@ -399,13 +399,13 @@ MkDocs hook: converts Obsidian-style [[wikilinks]] to proper Markdown links.
 Supports:
   [[page-name]]           → [page-name](resolved/path.md)
   [[page-name|display]]   → [display](resolved/path.md)
-  [[page-name#header]]    → [page-name#header](resolved/path.md#header)
+  page-name#header    → [page-name#header](resolved/path.md#header)
 
 Resolution:
   1. Exact slug match (full relative path without .md)
   2. Basename match (filename without extension)
   3. Case-insensitive basename match
-  4. If unresolved, leaves [[link]] as-is (lint will flag it)
+  4. If unresolved, leaves link as-is (lint will flag it)
 """
 
 import re
@@ -557,7 +557,7 @@ Multi-domain knowledge base: AI/ML, biotechnology, finance, psychology, devops, 
 - **Frontmatter**: Every page must have YAML frontmatter (see below)
 - **Wikilinks**: Use `[[page-name]]` for internal links (Obsidian-style)
   - Internal page: `[[page-name]]`
-  - Link to header: `[[page-name#Header]]`
+  - Link to header: `page-name#Header`
   - Custom text: `[[page-name|display text]]`
   - External URL: `[text](https://example.com/)`
   - Minimum 2 outbound `[[wikilinks]]` per page
@@ -947,14 +947,14 @@ status: active
 
 <!-- People, orgs, tools, projects. Link to entity pages if they exist, otherwise just name them. -->
 
-- [[entity-name]] — who/what, role in this source
+- entity-name — who/what, role in this source
 - 
 
 ## Concepts Referenced
 
 <!-- Technical concepts, theories, frameworks. Link to concept pages if they exist. -->
 
-- [[concept-name]] — how it's used in this source
+- concept-name — how it's used in this source
 - 
 
 ## My Takeaways
@@ -1134,8 +1134,8 @@ status: active
 
 | Item | Type | Origin | Key Claim |
 |------|------|--------|-----------|
-| [[item-a]] | | | |
-| [[item-b]] | | | |
+| item-a | | | |
+| item-b | | | |
 
 ## Why Compare These
 
@@ -1143,7 +1143,7 @@ status: active
 
 ## Comparison Matrix
 
-| Dimension | [[item-a]] | [[item-b]] | Winner |
+| Dimension | item-a | item-b | Winner |
 |-----------|------------|------------|--------|
 | **Cost** | | | |
 | **Performance** | | | |
@@ -1363,7 +1363,7 @@ function parseFrontmatter(content) {
 // ── Wikilink extraction ──────────────────────────────────────
 
 function extractWikilinks(content) {
-  // Match [[target]] or [[target|display]] but not inside code blocks
+  // Match target or display but not inside code blocks
   const links = [];
   const codeBlockRegex = /```[\s\S]*?```|`[^`]*`/g;
   const cleaned = content.replace(codeBlockRegex, ''); // Remove code blocks
@@ -1606,7 +1606,7 @@ function generate() {
       output += '*No pages yet*\n\n';
     } else {
       for (const page of pages) {
-        output += `- [[${page.slug}]] — ${page.domain}`;
+        output += `- ${page.slug} — ${page.domain}`;
         if (page.tags.length > 0) {
           output += ` · \`${page.tags.join('`, `')}\``;
         }
@@ -1800,7 +1800,7 @@ function checkBrokenWikilinks(files) {
       const found = allSlugs.has(target) || allSlugs.has(basename);
 
       if (!found) {
-        warnings.push(`Broken wikilink [[${link}]] in: ${file.relPath}`);
+        warnings.push(`Broken wikilink ${link} in: ${file.relPath}`);
       }
     }
   }
@@ -1957,8 +1957,8 @@ Found 12 potential missing link(s):
 
 ── Text Mentions (8) ──
 
-  Add [[transformer-architecture]] to "findings/parallelism-wins.md" — mentions "Transformer architecture" in prose
-  Add [[attention-mechanism]] to "concepts/self-attention.md" — mentions "attention mechanism" in prose
+  Add transformer-architecture to "findings/parallelism-wins.md" — mentions "Transformer architecture" in prose
+  Add attention-mechanism to "concepts/self-attention.md" — mentions "attention mechanism" in prose
   ...
 
 ── Shared Sources (2) ──
@@ -1973,13 +1973,13 @@ Found 12 potential missing link(s):
 
 Total: 12 suggestions
 
-To add links: edit the source page and add [[target-page]] at the appropriate location.
+To add links: edit the source page and add target-page at the appropriate location.
 Then run: node scripts/build-graph.js && node scripts/generate-catalog.js
 ```
 
 **Workflow after running:**
 1. Review suggestions — reject false positives (common words, coincidental matches)
-2. For valid suggestions: edit source page, add `[[target-page]]` at the natural mention point
+2. For valid suggestions: edit source page, add `target-page` at the natural mention point
 3. Rebuild: `node scripts/build-graph.js && node scripts/generate-catalog.js`
 4. Log: `## [YYYY-MM-DD] links | N connections added`
 
@@ -2405,7 +2405,7 @@ Three-layer structure:
 ## Key Features
 
 - 6 content types with creation thresholds
-- `[[wikilink]]` interlinking (Obsidian-style, server-side rendering)
+- `wikilink` interlinking (Obsidian-style, server-side rendering)
 - Interactive D3.js knowledge graph
 - Full-text search
 - Automated ingestion via Hermes Agent
@@ -2469,7 +2469,7 @@ git commit -m "Initial commit: Neural Nexus knowledge base
 
 - MkDocs Material theme with dark/light mode, search, tags
 - 6 content types: concept, entity, idea, finding, reading, comparison
-- [[wikilink]] rendering via server-side MkDocs hook
+- wikilink rendering via server-side MkDocs hook
 - D3.js knowledge graph (functional, click-to-navigate)
 - Build scripts: build-graph.js, generate-catalog.js, lint-wiki.js (zero npm deps)
 - GitHub Actions CI/CD (official actions/deploy-pages)
@@ -2628,7 +2628,7 @@ prompt: |
 "What does the wiki say about [topic]?"
 "Summarize everything related to [concept]"
 ```
-Agent reads index-catalog.md, searches relevant pages, synthesizes answer citing `[[page-names]]`.
+Agent reads index-catalog.md, searches relevant pages, synthesizes answer citing `page-names`.
 
 ### Weekly Operations
 
@@ -2821,7 +2821,7 @@ Run this checklist monthly:
 2. The target page exists in `docs/` (check filename matches)
 3. Run `mkdocs build --verbose` to see hook execution
 
-**Fix:** The hook resolves links case-insensitively by basename. If a link still doesn't resolve, the target page may not exist yet (it'll show as `[[text]]` — the lint script will flag it).
+**Fix:** The hook resolves links case-insensitively by basename. If a link still doesn't resolve, the target page may not exist yet (it'll show as `text` — the lint script will flag it).
 
 ### GitHub Pages 404
 

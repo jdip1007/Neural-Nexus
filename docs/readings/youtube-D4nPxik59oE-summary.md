@@ -38,3 +38,10 @@ This video discusses The Horrors of Unit 731
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[youtube-D4nPxik59oE-japanese-army]]
+- [[youtube-D4nPxik59oE-testing-weapons]]
+- [[youtube-D4nPxik59oE-the-cold]]

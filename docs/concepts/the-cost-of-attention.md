@@ -48,7 +48,7 @@ This content from HealthyGamerGG explores the cost of attention and provides ins
 - [psychology](concepts/psychology.md) - Overview of psychological concepts
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
-- [[neurodiversity]] - Understanding neurological differences
+- neurodiversity - Understanding neurological differences
 
 ## Sources
 
@@ -80,11 +80,11 @@ This content from HealthyGamerGG explores the cost of attention and provides ins
 
 ## Related
 
-- [[attention]] - Attention
-- [[cognition]] - Cognition
-- [[focus]] - Focus
-- [[productivity]] - Productivity
-- [[modern life]] - Modern Life
+- attention - Attention
+- cognition - Cognition
+- focus - Focus
+- productivity - Productivity
+- modern life - Modern Life
 
 ---
 *This page was automatically generated from HealthyGamerGG YouTube content as part of the daily ingestion process.*

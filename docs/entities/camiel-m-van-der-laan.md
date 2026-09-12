@@ -125,3 +125,14 @@ While specific institutional affiliations are not detailed in the publication, v
 - [adhd](concepts/adhd.md) - General ADHD concept and overview
 - [executive-function](concepts/executive-function.md) - Cognitive domains affected by ADHD
 - [heritability](concepts/heritability.md) - Genetic inheritance patterns in psychiatry
+
+## See also
+
+- [[adhd]]
+- [[adhd-risk-genes-effect-sizes]]
+- [[architecture]]
+- [[heritability]]
+- [[polygenic-scores]]
+- [[psychiatric-comorbidity]]
+- [[quality-control]]
+- [[statistical-genetics]]

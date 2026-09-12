@@ -37,7 +37,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=_N6qPEA_dGc
 **Video ID:** `_N6qPEA_dGc`
-**Transcript:** [[raw/transcripts/healthygamergg/Why Gifted People Burn Out The Fastest.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why Gifted People Burn Out The Fastest.md
 **Accessed:** 2026-08-31
 
 ## Related

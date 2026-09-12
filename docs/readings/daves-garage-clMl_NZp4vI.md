@@ -133,3 +133,14 @@ CANBUS provides robust, reliable communication for demanding environments. Its e
 ---
 
 *This page was auto-generated from Dave's Garage YouTube video: https://www.youtube.com/watch?v=clMl_NZp4vI*
+
+
+## See also
+
+- [[architecture]]
+- [[automotive]]
+- [[hardware]]
+- [[networking]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
+- [[youtube-iAkMImwXkWo-industrial-automation]]

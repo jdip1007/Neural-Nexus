@@ -31,8 +31,8 @@ This video explores internet culture, YouTube trends, and the dynamics of conten
 
 ## Key Concepts
 
-- [[Mental Health]]
-- [[Internet Controversy]]
+- [[mental-health]]
+- Internet Controversy
 
 ## Transcript Content
 
@@ -68,10 +68,10 @@ This is an important examination of how internet fame works, the responsibilitie
 
 ## Related Resources
 
-- [[Internet Culture]]
-- [[Content Creation]]
+- [[internet-culture]]
+- [[content-creation]]
 - [[YouTube Algorithm]]
-- [[Digital Media]]
+- [[digital-media]]
 - [[Social Media Trends]]
 
 ## Citations

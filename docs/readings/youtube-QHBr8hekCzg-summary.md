@@ -26,10 +26,10 @@ This video discusses NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano 
 
 ## Related Concepts
 - [cloud](concepts/cloud.md)
-- [[large-language-model]]
-- [[neural-network]]
+- large-language-model
+- neural-network
 - [ai](concepts/ai.md)
-- [[machine-learning]]
+- machine-learning
 
 ## Transcript Highlights
 > effective out here in the shop the key

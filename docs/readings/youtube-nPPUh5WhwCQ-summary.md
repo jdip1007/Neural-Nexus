@@ -32,3 +32,10 @@ This video discusses The Betrayal of JCS - Criminal Psychology
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[criminal-psychology]]
+- [[psychology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

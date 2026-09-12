@@ -283,3 +283,15 @@ Where:
 - [urban-scaling](concepts/urban-scaling.md)
 - [scaling-laws](concepts/scaling-laws.md)
 - [lifespan](concepts/lifespan.md)
+
+
+## See also
+
+- [[brian-enquist]]
+- [[comparative-physiology]]
+- [[ecology]]
+- [[fractal-networks]]
+- [[geoffrey-west]]
+- [[james-brown]]
+- [[lifespan]]
+- [[metabolic-scaling]]

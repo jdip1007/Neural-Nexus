@@ -127,3 +127,15 @@ Modern nanopore sequencing has evolved significantly:
 - [sample-preparation](concepts/sample-preparation.md)
 - [dna-extraction](concepts/dna-extraction.md)
 - [genomics](concepts/genomics.md)
+
+
+## See also
+
+- [[cloud]]
+- [[dna-extraction]]
+- [[environmental-dna-analysis]]
+- [[genomics]]
+- [[quality-control]]
+- [[sample-preparation]]
+- [[technology]]
+- [[youtube-17rJSSzto4U-how-to]]

@@ -52,3 +52,12 @@ fortresses and compounds built for himself,
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-YQQMF8ibxVw-when-you]]
+- [[youtube-ihufFVR4fME-charles-lindbergh]]
+- [[youtube-ihufFVR4fME-eastern-front]]
+- [[youtube-ihufFVR4fME-walter-matthau]]

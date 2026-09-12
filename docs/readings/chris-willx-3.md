@@ -23,8 +23,8 @@ Mock transcript content for this video. This would contain the actual transcript
 
 ## Key Topics
 
-- [[General]]
-- [[Discussion]]
+- General
+- Discussion
 
 ## Transcript
 
@@ -32,8 +32,8 @@ Mock transcript content for this video. This would contain the actual transcript
 
 ## Related Videos
 
-- [[Chris Willx]] channel
-- [[YouTube]] content
+- [[chris-willx]] channel
+- [[youtube]] content
 
 ## Notes
 

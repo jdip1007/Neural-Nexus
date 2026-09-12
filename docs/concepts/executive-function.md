@@ -46,3 +46,13 @@ EF emerges in infancy, develops rapidly through childhood and adolescence, and p
 - [concepts/adhd](concepts/adhd.md)
 - [concepts/neuropsychopathological-factor](concepts/neuropsychopathological-factor.md)
 - [concepts/prefrontal-cortex-development](concepts/prefrontal-cortex-development.md)
+
+
+## See also
+
+- [[adhd]]
+- [[executive-function-rust]]
+- [[psychiatric-comorbidity]]
+- [[psychology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]

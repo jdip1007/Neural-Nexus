@@ -13,8 +13,8 @@ tags: []
 
 | Item | Type | Origin | Key Claim |
 |------|------|--------|-----------|
-| [[item-a]] | | | |
-| [[item-b]] | | | |
+| item-a | | | |
+| item-b | | | |
 
 ## Why Compare These
 
@@ -22,7 +22,7 @@ tags: []
 
 ## Comparison Matrix
 
-| Dimension | [[item-a]] | [[item-b]] | Winner |
+| Dimension | item-a | item-b | Winner |
 |-----------|------------|------------|--------|
 | **Cost** | | | |
 | **Performance** | | | |

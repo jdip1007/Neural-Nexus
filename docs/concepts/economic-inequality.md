@@ -185,3 +185,15 @@ Economic inequality refers to the unequal distribution of economic resources, in
 - [reverse-robin-hood-heist](concepts/reverse-robin-hood-heist.md)
 - [inheritance-trap](concepts/inheritance-trap.md)
 - [wealth-concentration](concepts/wealth-concentration.md)
+
+
+## See also
+
+- [[asset-inflation]]
+- [[baby-boomers]]
+- [[cash-buyer-cartel]]
+- [[demographic-wall]]
+- [[generational-wealth-transfer]]
+- [[housing-market-dynamics]]
+- [[infographics-show]]
+- [[inheritance-trap]]

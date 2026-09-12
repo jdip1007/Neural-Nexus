@@ -36,14 +36,14 @@ This video from How Money Works explores entertainment-industry and provides ins
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[financial-markets]] - Understanding market dynamics
+- financial-markets - Understanding market dynamics
 - [[economic-trends]] - Current economic analysis
-- [[investment-strategies]] - Smart investment approaches
+- investment-strategies - Smart investment approaches
 
 ## Sources
 
 **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
 **Video URL:** https://www.youtube.com/watch?v=Sx-lddna-qg
 **Video ID:** `Sx-lddna-qg`
-**Transcript:** [[raw/transcripts/how-money-works/WTF Is Happening To The Video Game Industry_.md]]
+**Transcript:** raw/transcripts/how-money-works/WTF Is Happening To The Video Game Industry-.md
 **Accessed:** 2026-09-04

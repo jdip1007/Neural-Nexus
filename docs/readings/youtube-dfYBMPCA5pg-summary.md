@@ -45,3 +45,15 @@ This video discusses 18 Rules for Lifting Like a Pro - Dr Mike Israetel (4K)
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- [[psychology]]
+- [[youtube-17rJSSzto4U-how-to]]
+- [[youtube-5rFIcsi9EVc-to-your]]
+- [[youtube-5rFIcsi9EVc-what-does]]
+- [[youtube-7HF6UuVdihA-the-big]]
+- [[youtube-8PYhEWK2wVA-let-it]]
+- [[youtube-D8gygc4boZA-nothing-else]]

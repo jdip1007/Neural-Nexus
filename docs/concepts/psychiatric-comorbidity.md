@@ -87,3 +87,12 @@ This chain explains *why* comorbidity is so common: one neural vulnerability →
 - [executive-function](concepts/executive-function.md)
 - [psychology](concepts/psychology.md)
 - [adhd](concepts/adhd.md)
+
+
+## See also
+
+- [[executive-function]]
+- [[executive-function-rust]]
+- [[psychology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]

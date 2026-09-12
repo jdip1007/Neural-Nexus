@@ -411,11 +411,11 @@ Metabolic disorders are a group of conditions characterized by abnormalities in 
 ## Graph Impact
 
 This concept connects:
-- [[insulin-resistance]] to [[hyperglycemia]]
-- [[visceral-fat]] to [[systemic-inflammation]]
-- [[metabolic-syndrome]] to [[cardiovascular-risk]]
-- [[diabetes]] to [[vascular-damage]]
-- [[obesity]] to [[neurodegeneration]]
+- insulin-resistance to hyperglycemia
+- visceral-fat to systemic-inflammation
+- metabolic-syndrome to cardiovascular-risk
+- diabetes to vascular-damage
+- [[obesity]] to neurodegeneration
 
 ## Notes
 

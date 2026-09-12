@@ -40,7 +40,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=dC0J4v3eW5c
 **Video ID:** `dC0J4v3eW5c`
-**Transcript:** [[raw/transcripts/healthygamergg/Why Normal Life Feels So Boring.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why Normal Life Feels So Boring.md
 **Accessed:** 2026-09-05
 
 ## Related

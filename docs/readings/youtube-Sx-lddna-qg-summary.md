@@ -44,3 +44,12 @@ be possible for smaller teams to put together.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[WTF Is Happening To The Video Game Industry-]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-Sx-lddna-qg-warner-brothers]]
+- [[youtube-Sx-lddna-qg-works-media]]
+- [[youtube-THodtjsCTSI-silicon-valley]]

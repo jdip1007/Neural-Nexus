@@ -25,10 +25,10 @@ Analysis of The Dark Web Explained - Internet Anarchist documentary style conten
 ## Key Topics
 - [internet-culture](internet-culture.md)
 - [social-media](social-media.md)
-- [[content-analysis]]
-- [[digital-privacy]]
-- [[cybersecurity]]
-- [[online-activism]]
+- content-analysis
+- digital-privacy
+- cybersecurity
+- online-activism
 
 ## Transcript Excerpt
 The dark web represents a hidden layer of the internet that requires special software to access. While often associated with illegal activities, it also serves important functions for privacy advocates, journalists, and political dissidents in repressive regimes.

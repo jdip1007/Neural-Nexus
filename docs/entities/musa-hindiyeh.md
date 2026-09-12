@@ -84,3 +84,10 @@ Clinical virologist and researcher at the Central Virology Laboratory, Ministry 
 - [entities/michel-mandelboim](entities/michel-mandelboim.md)
 - [entities/orna-mor](entities/orna-mor.md)
 - [concepts/clinical-testing/respiratory-virus-testing](concepts/clinical-testing/respiratory-virus-testing.md)
+
+
+## See also
+
+- [[ngs-validation]]
+- [[qpcr]]
+- [[respiratory-virus-testing]]

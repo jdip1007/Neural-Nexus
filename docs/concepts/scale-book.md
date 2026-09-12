@@ -35,3 +35,11 @@ reviewed: 2026-07-31
 
 - [wbe-theory](concepts/wbe-theory.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[metabolic-scaling]]
+- [[wbe-theory]]
+- [[youtube-ahDC1sQCDzY-in-the]]

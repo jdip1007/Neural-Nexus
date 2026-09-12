@@ -235,3 +235,15 @@ Humans have longer lifespans than predicted:
 - [lifespan](concepts/lifespan.md)
 - [scaling-laws](concepts/scaling-laws.md)
 - [max-kleiber](entities/max-kleiber.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[ecology]]
+- [[fractal-networks]]
+- [[geoffrey-west]]
+- [[lifespan]]
+- [[max-kleiber]]
+- [[metabolic-scaling]]
+- [[relationships]]

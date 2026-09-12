@@ -37,7 +37,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=hEbd7mYCXBc
 **Video ID:** `hEbd7mYCXBc`
-**Transcript:** [[raw/transcripts/healthygamergg/Why Your Brain Is Strongest After You Nut.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why Your Brain Is Strongest After You Nut.md
 **Accessed:** 2026-09-03
 
 ## Related

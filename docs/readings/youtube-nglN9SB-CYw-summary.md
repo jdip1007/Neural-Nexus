@@ -44,3 +44,11 @@ And he'll have to deliver.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[technology]]
+- [[youtube-nglN9SB-CYw-international-lunar]]
+- [[youtube-nglN9SB-CYw-shackleton-crater]]
+- [[youtube-nglN9SB-CYw-sustained-human]]

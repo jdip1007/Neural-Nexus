@@ -103,22 +103,22 @@ Every active page should have a `reviewed:` date in frontmatter — the last tim
 ```
 [[page-name]]              → links to page-name.md (any directory)
 [[page-name|display text]] → links with custom display text
-[[page-name#Header]]       → links to a specific header on that page
+page-name#Header       → links to a specific header on that page
 ```
 
 ### Rules
 
 1. **Minimum 2 outbound wikilinks per page.** Isolated pages are invisible. Link to related concepts, entities, or readings.
-2. **Link to pages that exist, not phantom pages.** If you write `[[future-page]]`, create it or the lint will flag it.
+2. **Link to pages that exist, not phantom pages.** If you write `future-page`, create it or the lint will flag it.
 3. **Prefer short basenames.** `[neural-nexus](concepts/neural-nexus.md)` resolves even if the file is at `concepts/neural-nexus.md`.
-4. **Use display text when the slug is ugly.** `[[gpu-scaling|GPU scaling trends]]` reads better.
+4. **Use display text when the slug is ugly.** `GPU scaling trends` reads better.
 5. **Link on first mention only.** Don't link the same term 5 times in one page.
 6. **Don't link inside code blocks.** Wikilinks in code blocks are ignored by the parser.
 
 ### What to link
-- ✅ Concepts mentioned in passing → `[[concept-page]]`
-- ✅ Entities (people, orgs, tools) → `[[entity-page]]`
-- ✅ Related findings or readings → `[[reading-page]]`
+- ✅ Concepts mentioned in passing → `concept-page`
+- ✅ Entities (people, orgs, tools) → `entity-page`
+- ✅ Related findings or readings → `reading-page`
 - ❌ External URLs (use standard Markdown links: `[text](https://...)`)
 - ❌ Headers within the same page (use standard `[#header]` or `[#header|text]`)
 
@@ -482,12 +482,12 @@ graph LR
 
 Unlike structured knowledge systems, traditional wikis process information linearly.
 all positions in parallel. This is why GPU scaling accelerated
-transformer training — see [[gpu-scaling]].
+transformer training — see gpu-scaling.
 
 ## Current State
 
 Standard attention is O(n²) in sequence length. Variants like
-[[flash-attention]] and sparse attention reduce this to near-linear.
+flash-attention and sparse attention reduce this to near-linear.
 ```
 
 ### Good reading page (excerpt)
@@ -569,7 +569,7 @@ train due to parallelism.
 
 ### The Phantom Linker
 ```
-❌ A page full of [[links]] to pages that don't exist.
+❌ A page full of links to pages that don't exist.
    Either create the target pages or remove the links.
    The lint script flags broken wikilinks.
 ```

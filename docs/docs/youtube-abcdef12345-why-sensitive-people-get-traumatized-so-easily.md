@@ -24,11 +24,11 @@ updated: '2026-09-02'
 
 ## Key Topics
 
-- [[sensitivity]]
-- [[trauma-response]]
+- sensitivity
+- trauma-response
 - [mental-health](concepts/mental-health.md)
-- [[stress-management]]
-- [[resilience]]
+- stress-management
+- resilience
 
 ## Summary
 
@@ -36,15 +36,15 @@ This video explores various aspects of mental health, personal development, and 
 
 ## Main Themes
 
-- [[emotional-sensitivity]]
-- [[trauma-recovery]]
-- [[mental-wellbeing]]
+- emotional-sensitivity
+- trauma-recovery
+- mental-wellbeing
 
 ## Notable Entities
 
-- [[Dr. K]]
-- [[sensitive-individuals]]
-- [[mental-health-professionals]]
+- [[dr-k]]
+- sensitive-individuals
+- mental-health-professionals
 
 ## Key Insights
 

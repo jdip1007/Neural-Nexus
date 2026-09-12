@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores dating dynamics and social interaction c
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=nFY50H8nb5E
 **Video ID:** `nFY50H8nb5E`
-**Transcript:** [[raw/transcripts/healthygamergg/Flirting Kinda Sucks, Actually..md]]
+**Transcript:** raw/transcripts/healthygamergg/Flirting Kinda Sucks, Actually..md
 **Accessed:** 2026-09-01
 
 ## Related

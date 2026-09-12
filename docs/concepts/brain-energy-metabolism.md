@@ -92,3 +92,10 @@ Brain energy metabolism encompasses the processes by which the brain generates, 
 - [rem-sleep](concepts/rem-sleep.md)
 - [neurovascular-coupling](concepts/neurovascular-coupling.md)
 - [nrem-sleep](concepts/nrem-sleep.md)
+
+
+## See also
+
+- [[neurovascular-coupling]]
+- [[nrem-sleep]]
+- [[rem-sleep]]

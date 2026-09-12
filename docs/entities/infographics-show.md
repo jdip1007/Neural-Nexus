@@ -85,8 +85,8 @@ The Infographics Show is a popular YouTube channel that creates educational cont
 
 ## Related Topics
 
-- [[youtube-education]]
-- [[science-communication]]
-- [[visual-learning]]
-- [[educational-technology]]
-- [[media-literacy]]
+- youtube-education
+- science-communication
+- visual-learning
+- educational-technology
+- media-literacy

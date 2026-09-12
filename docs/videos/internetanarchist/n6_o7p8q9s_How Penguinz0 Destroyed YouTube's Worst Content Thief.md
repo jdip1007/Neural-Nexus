@@ -32,8 +32,8 @@ This video explores internet culture, YouTube trends, and the dynamics of conten
 
 ## Key Concepts
 
-- [[Digital Copyright]]
-- [[Internet Controversy]]
+- Digital Copyright
+- Internet Controversy
 
 ## Transcript Content
 
@@ -69,10 +69,10 @@ The analysis includes interviews with legal experts in digital media and practic
 
 ## Related Resources
 
-- [[Internet Culture]]
-- [[Content Creation]]
+- [[internet-culture]]
+- [[content-creation]]
 - [[YouTube Algorithm]]
-- [[Digital Media]]
+- [[digital-media]]
 - [[Social Media Trends]]
 
 ## Citations

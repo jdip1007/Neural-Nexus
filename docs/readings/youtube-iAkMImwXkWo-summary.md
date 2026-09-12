@@ -38,3 +38,15 @@ This video discusses From Core Memory to the Internet: Amazing History of the PD
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- [[architecture]]
+- [[engineering]]
+- [[hardware]]
+- [[networking]]
+- [[technology]]
+- [[youtube-17rJSSzto4U-steve-jobs]]
+- [[youtube-FVZDXz3Iibw-the-american]]

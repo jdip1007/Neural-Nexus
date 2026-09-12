@@ -53,3 +53,10 @@ is the key point.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- youtube-J7DzL2-Na80-gilbert-strang
+- youtube-J7DzL2-Na80-linear-algebra
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

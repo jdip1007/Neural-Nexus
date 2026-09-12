@@ -26,7 +26,7 @@ Analysis of  - Internet Anarchist documentary style content
 ## Key Topics
 - [internet-culture](internet-culture.md)
 - [social-media](social-media.md)
-- [[content-analysis]]
+- content-analysis
 
 ## Transcript Excerpt
 1. There's a thing in there that matters
@@ -42,3 +42,8 @@ Analysis of  - Internet Anarchist documentary style content
 
 ## Links
 - [Original Video](https://www.youtube.com/watch?v=W82TeO-XXWU)
+
+
+## See also
+
+- [[youtube-WNSZ6xouNv4-and-that]]

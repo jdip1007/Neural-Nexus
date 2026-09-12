@@ -54,7 +54,7 @@ The conversation emphasizes the relevance of ancient philosophical teachings in 
 
 ## Related Pages
 
-[[health]]
+health
 [psychology](concepts/psychology.md)
 [[philosophy]]
 

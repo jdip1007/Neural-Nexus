@@ -26,26 +26,26 @@ This video explores content-creation, internet-culture, business-strategy, gamin
 
 ## Key Topics
 
-- [[Content Creation]]
-- [[Internet Culture]]
+- [[content-creation]]
+- [[internet-culture]]
 - [[Business Strategy]]
 - [[Gaming]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
+The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
 
 ## Related Concepts
 
-- [[Digital Media]]
-- [[Digital Society]]
-- [[Entrepreneurship]]
-- [[Entertainment]]
+- [[digital-media]]
+- Digital Society
+- Entrepreneurship
+- Entertainment
 
 ## Key Themes
 
-- [[Business]]
-- [[Culture]]
+- [[business]]
+- Culture
 - [Technology](concepts/technology.md)
 - [[Gaming]]
 
@@ -56,8 +56,8 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 ## Categories
 
-- [[YouTube]]
-- [[Internet Culture]]
-- [[Digital Media]]
-- [[Content Creation]]
+- [[youtube]]
+- [[internet-culture]]
+- [[digital-media]]
+- [[content-creation]]
 - [[Internet Anarchist]]

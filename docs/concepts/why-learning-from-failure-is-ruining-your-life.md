@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores why 'learning from failure' is ruining
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why 'Learning From Failure' Is Ruining Your Life.md]]
+**Original Page:** Why 'Learning From Failure' Is Ruining Your Life.md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -47,3 +47,11 @@ This content from HealthyGamerGG explores why 'learning from failure' is ruining
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[how-to-actually-have-an-elite-mindset]]
+- [[psychology]]
+- [[relationships]]
+- [[youtube-ahDC1sQCDzY-in-the]]

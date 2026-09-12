@@ -32,7 +32,7 @@ title: The Satisfying Downfall of SSSniperWolf video_id: U7YtrRRccC0 source: htt
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/U7YtrRRccC0.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/U7YtrRRccC0.md for the complete transcript.
 
 ## Related Topics
 

@@ -46,3 +46,12 @@ This video discusses Living with Confidence & Going All In - Matthew McConaughey
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[cloud]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-y-woFP79F0Q-just-okay
+- youtube-y-woFP79F0Q-risk-taker
+- youtube-y-woFP79F0Q-scarlet-letter

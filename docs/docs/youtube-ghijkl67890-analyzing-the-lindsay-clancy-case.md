@@ -24,11 +24,11 @@ updated: '2026-09-02'
 
 ## Key Topics
 
-- [[postpartum-depression]]
-- [[family-dynamics]]
+- postpartum-depression
+- family-dynamics
 - [[mental-health-awareness]]
-- [[warning-signs]]
-- [[parental-mental-health]]
+- warning-signs
+- parental-mental-health
 
 ## Summary
 
@@ -36,15 +36,15 @@ This video explores various aspects of mental health, personal development, and 
 
 ## Main Themes
 
-- [[mental-health-support]]
-- [[family-stress]]
-- [[early-intervention]]
+- mental-health-support
+- family-stress
+- early-intervention
 
 ## Notable Entities
 
-- [[Dr. K]]
-- [[Lindsay-Clancy]]
-- [[mental-health-community]]
+- [[dr-k]]
+- Lindsay-Clancy
+- mental-health-community
 
 ## Key Insights
 

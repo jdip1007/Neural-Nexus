@@ -560,7 +560,7 @@ Precision medicine is a medical model that:
 - [polygenic-scores](concepts/polygenic-scores.md) - Using genetic information for risk prediction
 - [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Genetic variants associated with ADHD
 - [statistical-genetics](concepts/statistical-genetics.md) - Statistical methods in genetic research
-- [[genetic-epidemiology]] - Study of genetic factors in populations
+- genetic-epidemiology - Study of genetic factors in populations
 - [heritability](concepts/heritability.md) - Quantifying genetic contribution to traits
 
 ## References
@@ -572,3 +572,14 @@ Precision medicine is a medical model that:
 3. Manolio, T. A., et al. (2013). Implementing genomic medicine in the clinic. *Nature Reviews Genetics*, 14(8), 575-586. https://doi.org/10.1038/nrg3518
 
 4. Evans, W. E., & McLeod, H. L. (2003). Pharmacogenomics—drug disposition, drug targets, and side effects. *New England Journal of Medicine*, 348(6), 538-549. https://doi.org/10.1056/NEJMra020533
+
+## See also
+
+- [[ai]]
+- [[architecture]]
+- [[clinical-utility]]
+- [[cloud]]
+- [[environmental-dna-analysis]]
+- [[executive-function]]
+- [[genomics]]
+- [[heritability]]

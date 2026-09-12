@@ -190,3 +190,14 @@ Just as candy bars kill your craving for broccoli, **eating broccoli reduces you
 - "Enhancement of allergic skin wheel response in patients with atopic eczema/dermatitis syndrome by playing video games or by a frequently ringing mobile phone" — Research paper
 - "Physiologic responses to playing a video game" — Research paper on cardiovascular effects
 - "Associations of sedentary behavior and screen time with biomarkers of inflammation and insulin resistance" — Research paper
+
+## See also
+
+- [[algorithm]]
+- [[dopamine-tolerance]]
+- [[executive-function]]
+- [[executive-function-rust]]
+- [[impulse-control-atrophy]]
+- [[inflammation]]
+- [[relationships]]
+- [[terminal-boredom]]

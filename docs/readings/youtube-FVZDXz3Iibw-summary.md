@@ -41,7 +41,7 @@ standings is expensive
 - **Persons**: The American, Industries Right, Open Secrets
 
 ## Related Concepts
-- [[framework]]
+- framework
 - [ai](concepts/ai.md)
 - [api](concepts/api.md)
 
@@ -57,3 +57,11 @@ funding has remained more or less intact since
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[youtube-FVZDXz3Iibw-industries-right]]
+- [[youtube-FVZDXz3Iibw-open-secrets]]
+- [[youtube-FVZDXz3Iibw-the-american]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

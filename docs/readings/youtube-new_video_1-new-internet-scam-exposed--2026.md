@@ -83,13 +83,13 @@ This New Internet Scam Exposed - 2026 provides an in-depth investigation into va
 
 ## Related Topics
 
-[[scams]]
-[[internet_safety]]
-[[exposure]]
-[[controversy]]
-[[social_media]]
-[[online_reputation]]
-[[internet_culture]]
+scams
+internet-safety
+exposure
+controversy
+[[social-media]]
+[[online-reputation]]
+[[internet-culture]]
 
 ## External References
 

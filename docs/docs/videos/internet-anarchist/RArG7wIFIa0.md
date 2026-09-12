@@ -25,10 +25,10 @@ Analysis of Digital Privacy in the Modern Age - Internet Anarchist documentary s
 ## Key Topics
 - [internet-culture](internet-culture.md)
 - [social-media](social-media.md)
-- [[content-analysis]]
-- [[digital-privacy]]
-- [[cybersecurity]]
-- [[online-activism]]
+- content-analysis
+- digital-privacy
+- cybersecurity
+- online-activism
 
 ## Transcript Excerpt
 From being convicted of double murder, openly mocking other people's religion to exhibiting deeply disgusting behavior around fans. For a platform like TikTok, where there's no shortage of controversial content, the line between free expression and harmful behavior becomes increasingly blurred.

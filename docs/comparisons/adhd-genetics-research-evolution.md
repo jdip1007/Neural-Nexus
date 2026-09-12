@@ -244,4 +244,15 @@ The meta-analysis era, exemplified by van der Laan et al. (2025), represents a p
 - [adhd-genetic-meta-analysis-findings](findings/adhd-genetic-meta-analysis-findings.md) - Latest research findings
 - [heritability](concepts/heritability.md) - Genetic inheritance patterns
 - [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) - Comorbidity patterns
-- [[neuropsychopathology]] - Brain basis of psychiatric disorders
+- neuropsychopathology - Brain basis of psychiatric disorders
+
+## See also
+
+- [[adhd]]
+- [[camiel-m-van-der-laan]]
+- [[clinical-utility]]
+- [[genomics]]
+- [[heritability]]
+- [[polygenic-scores]]
+- [[psychiatric-comorbidity]]
+- [[quality-control]]

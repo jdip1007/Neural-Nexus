@@ -39,3 +39,12 @@ This video discusses Hidden Code: How Slot Machines Actually Work - The Computer
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- [[youtube-SR8ESCmUYLY-in-nevada]]
+- [[youtube-SR8ESCmUYLY-recent-nevada]]
+- [[youtube-SR8ESCmUYLY-shop-talk]]
+- [[youtube-WNSZ6xouNv4-used-to]]

@@ -25,10 +25,10 @@ Analysis of The Rise of Internet Anarchism - Internet Anarchist documentary styl
 ## Key Topics
 - [internet-culture](internet-culture.md)
 - [social-media](social-media.md)
-- [[content-analysis]]
-- [[digital-privacy]]
-- [[cybersecurity]]
-- [[online-activism]]
+- content-analysis
+- digital-privacy
+- cybersecurity
+- online-activism
 
 ## Transcript Excerpt
 In October of 2025, a federal judge declared Dr. Phil's television empire dead, ordering everything the company owned to be sold off piece by piece. The company, he ruled, had never even properly registered its trademarks in many states. This case highlights the importance of intellectual property rights in the digital age.

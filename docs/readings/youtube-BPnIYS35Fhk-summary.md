@@ -37,7 +37,7 @@ become one of the most valuable technological resources on the planet
 ## Related Concepts
 - [cloud](concepts/cloud.md)
 - [api](concepts/api.md)
-- [[machine-learning]]
+- machine-learning
 - [ai](concepts/ai.md)
 
 ## Transcript Highlights
@@ -52,3 +52,13 @@ become one of the most valuable technological
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[cloud]]
+- [[youtube-BPnIYS35Fhk-big-tech]]
+- [[youtube-BPnIYS35Fhk-billion-burn]]
+- [[youtube-BPnIYS35Fhk-bubble-just]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-haZ5gddlQ4g-openai]]

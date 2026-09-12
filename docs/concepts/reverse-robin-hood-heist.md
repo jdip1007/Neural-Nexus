@@ -149,3 +149,15 @@ The "Reverse Robin Hood Heist" describes how economic policies intended to help 
 - [inheritance-trap](concepts/inheritance-trap.md)
 - [wealth-concentration](concepts/wealth-concentration.md)
 - [interest-rate-policy](concepts/interest-rate-policy.md)
+
+
+## See also
+
+- [[baby-boomers]]
+- [[cash-buyer-cartel]]
+- [[demographic-wall]]
+- [[economic-inequality]]
+- [[generational-wealth-transfer]]
+- [[infographics-show]]
+- [[inheritance-trap]]
+- [[interest-rate-policy]]

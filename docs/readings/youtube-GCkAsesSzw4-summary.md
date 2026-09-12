@@ -51,3 +51,14 @@ We have to literally make a
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- [[architecture]]
+- [[youtube-GCkAsesSzw4-comet-interceptor]]
+- [[youtube-GCkAsesSzw4-professor-merav]]
+- [[youtube-GCkAsesSzw4-vera-rubin]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]

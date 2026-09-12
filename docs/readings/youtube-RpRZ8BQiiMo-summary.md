@@ -34,7 +34,7 @@ This video discusses Windows Longhorn Explained by Dave Plummer - Retired Micros
 
 ## Related Concepts
 - [cloud](concepts/cloud.md)
-- [[framework]]
+- framework
 - [architecture](concepts/architecture.md)
 - [api](concepts/api.md)
 - [ai](concepts/ai.md)
@@ -48,3 +48,15 @@ This video discusses Windows Longhorn Explained by Dave Plummer - Retired Micros
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[architecture]]
+- [[cloud]]
+- [[engineering]]
+- [[hardware]]
+- [[programming]]
+- [[relationships]]
+- [[technology]]
+- [[youtube-7HF6UuVdihA-the-big]]

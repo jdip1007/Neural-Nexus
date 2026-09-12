@@ -37,7 +37,7 @@ Hello everyone, and welcome to the Chris Willx podcast! Today we're diving deep 
 
 - [[philosophy]] - Philosophical concepts and wisdom
 - [psychology](concepts/psychology.md) - Psychological insights and mental health
-- [[self_improvement]] - Personal growth and development
+- [[self-improvement]] - Personal growth and development
 - [relationships](concepts/relationships.md) - Relationship dynamics and communication
 
 ---

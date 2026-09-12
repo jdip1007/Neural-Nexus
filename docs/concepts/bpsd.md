@@ -135,7 +135,7 @@ BPSD is organized into specific domains or symptom clusters:^[raw/articles/annua
 
 ### Nonpharmacologic Interventions (First-line)
 
-See [[nonpharmacologic-interventions]] for detailed coverage.
+See nonpharmacologic-interventions for detailed coverage.
 
 **Four categories:**
 1. **Psychological:** Reminiscence therapy, CBT, psychoeducation^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
@@ -164,7 +164,7 @@ See [[nonpharmacologic-interventions]] for detailed coverage.
 
 ### Deprescribing
 
-See [[deprescribing]] for detailed coverage.
+See deprescribing for detailed coverage.
 
 **Process:**
 - Gradual tapering^[raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
@@ -222,12 +222,12 @@ See [[deprescribing]] for detailed coverage.
 
 ## Related Concepts
 
-- [[nonpharmacologic-interventions]]
-- [[deprescribing]]
-- [[person-centered-dementia-care]]
-- [[neuropsychiatric-symptoms]]
-- [[dementia]]
-- [[dice-algorithm]]
+- nonpharmacologic-interventions
+- deprescribing
+- person-centered-dementia-care
+- neuropsychiatric-symptoms
+- dementia
+- dice-algorithm
 
 ## Key Researchers
 

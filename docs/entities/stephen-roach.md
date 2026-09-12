@@ -193,15 +193,15 @@ Cites academic research to support analysis:
 
 - [capital-deepening-trap](concepts/capital-deepening-trap.md) - Roach's key analytical contribution
 - [china-vs-japan-economic-comparison](comparisons/china-vs-japan-economic-comparison.md) - Comparative analysis
-- [[chinese-economic-model]] - Roach's critique of production-led growth
-- [[consumer-led-rebalancing]] - Solution Roach advocates (which China resists)
-- [[xi-jinping-economic-policies]] - Policies Roach criticizes
-- [[michael-pettis]] - Kindred spirit in China economic analysis
+- chinese-economic-model - Roach's critique of production-led growth
+- consumer-led-rebalancing - Solution Roach advocates (which China resists)
+- xi-jinping-economic-policies - Policies Roach criticizes
+- michael-pettis - Kindred spirit in China economic analysis
 
 ## Sources
 
 - "China's Deepening Japan Problem" (Substack, August 2026)^[raw/pdfs/china-deepening-japan-problem-stephen-roach.md]
-- [[笑談中國經濟]] - YouTube discussion: "Stephen Roach: China's Deepening Japan Problem"^[raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
+- 笑談中國經濟 - YouTube discussion: "Stephen Roach: China's Deepening Japan Problem"^[raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 - Penn World Tables - Data source for capital-output ratios
 - Morgan Stanley career records
 - Yale University Jackson Institute - Current position

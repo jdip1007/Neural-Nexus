@@ -18,7 +18,7 @@ domain: general
 
 # Why Do Female Teachers Sleep With Students?
 
-[[philosophy]], [[society]]
+[[philosophy]], society
 
 ## Transcript
 

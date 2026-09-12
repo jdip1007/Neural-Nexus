@@ -44,7 +44,7 @@ respectively
 
 ## Related Concepts
 - [ai](concepts/ai.md)
-- [[transformer]]
+- transformer
 - [api](concepts/api.md)
 
 ## Transcript Highlights
@@ -59,3 +59,13 @@ where we actually keep all of this oil, we need to
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- youtube-Ac25-v32dNE-green-line
+- youtube-Ac25-v32dNE-international-energy
+- youtube-Ac25-v32dNE-the-fed
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- [[youtube-haZ5gddlQ4g-openai]]

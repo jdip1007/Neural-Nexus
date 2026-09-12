@@ -35,7 +35,7 @@ This video discusses Most Insane The Infographics Show Videos of All Time (Compi
 
 ## Related Concepts
 - [ai](concepts/ai.md)
-- [[artificial-intelligence]]
+- artificial-intelligence
 - [[database]]
 - [cloud](concepts/cloud.md)
 - [api](concepts/api.md)

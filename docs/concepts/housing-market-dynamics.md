@@ -206,3 +206,15 @@ Housing market dynamics refer to the complex interplay of factors that influence
 
 - [concepts/cash-buyer-cartel](concepts/cash-buyer-cartel.md)
 - [readings/infographics-show-boomers-inequality-2026](readings/infographics-show-boomers-inequality-2026.md)
+
+
+## See also
+
+- [[baby-boomers]]
+- [[cash-buyer-cartel]]
+- [[generational-wealth-transfer]]
+- [[infographics-show]]
+- [[inheritance-trap]]
+- [[interest-rate-policy]]
+- [[labor-market-changes]]
+- [[wealth-concentration]]

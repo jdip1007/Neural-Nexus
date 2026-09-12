@@ -32,21 +32,21 @@ backlinks: []
 
 ## Video Overview
 
-This page documents content from Dave's Garage YouTube channel: [[dave-garage-channel]]. The video explores Electronics, Diy, Workshop.
+This page documents content from Dave's Garage YouTube channel: dave-garage-channel. The video explores Electronics, Diy, Workshop.
 
 ### Key Information
 - **Video ID**: dave_garage_006
 - **Published**: 2026-08-08
 - **Duration**: 28 minutes
-- **Source**: [[youtube-dave-garage-channel]]
+- **Source**: youtube-dave-garage-channel
 
 ## Key Concepts and Topics
 
 ### Key Technical Concepts
 
-- [[circuit-design]]
-- [[microcontrollers]]
-- [[embedded-systems]]
+- circuit-design
+- microcontrollers
+- embedded-systems
 
 These concepts are explored in depth throughout the video.
 
@@ -87,11 +87,11 @@ This analysis helps categorize the content for better knowledge organization.
 
 ### Related Pages
 
-- [[circuit-design]]
-- [[microcontrollers]]
-- [[embedded-systems]]
-- [[circuit-design]]
-- [[microcontrollers]]
+- circuit-design
+- microcontrollers
+- embedded-systems
+- circuit-design
+- microcontrollers
 
 ## Sources
 

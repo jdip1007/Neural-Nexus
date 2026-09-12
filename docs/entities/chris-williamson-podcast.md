@@ -65,9 +65,9 @@ Chris Williamson's podcast features in-depth interviews with experts, authors, a
 
 ## Related Pages
 
-- [[podcast-analysis|Podcast Content Analysis]]
-- [[psychology-personal-development|Personal Development Psychology]]
-- [[media-ethics|Media Ethics]]
+- Podcast Content Analysis
+- Personal Development Psychology
+- Media Ethics
 
 ## Sources
 

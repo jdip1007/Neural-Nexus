@@ -145,11 +145,11 @@ Programming is at the heart of modern technology, enabling everything from simpl
 
 ## Related Pages
 
-- [[Dave's Garage]] - Programming tutorials and projects
+- Dave's Garage - Programming tutorials and projects
 - [Networking](concepts/networking.md) - Network programming and protocols
 - [Technology](concepts/technology.md) - Broader technology concepts
-- [[Software Development]] - Software engineering practices
-- [[Algorithms]] - Algorithm design and analysis
+- Software Development - Software engineering practices
+- Algorithms - Algorithm design and analysis
 
 ## External Resources
 

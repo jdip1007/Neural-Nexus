@@ -59,3 +59,15 @@ mainly keep it just to keep up with relatives.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- [[architecture]]
+- [[youtube-PtOmjej-YDE-cambridge-analytica]]
+- [[youtube-PtOmjej-YDE-dead-internet]]
+- [[youtube-PtOmjej-YDE-if-facebook]]
+- [[youtube-PtOmjej-YDE-metaai]]
+- [[youtube-PtOmjej-YDE-platforms-inc]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

@@ -37,7 +37,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=H877DXOAlXI
 **Video ID:** `H877DXOAlXI`
-**Transcript:** [[raw/transcripts/healthygamergg/How To ACTUALLY Break An Addiction.md]]
+**Transcript:** raw/transcripts/healthygamergg/How To ACTUALLY Break An Addiction.md
 **Accessed:** 2026-09-03
 
 ## Related

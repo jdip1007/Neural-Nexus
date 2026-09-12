@@ -81,11 +81,11 @@ This Ned Fulmer's Life Is Falling Apart provides an in-depth investigation into 
 
 ## Related Topics
 
-[[personal_life]]
-[[public_image]]
-[[social_media]]
-[[online_reputation]]
-[[internet_culture]]
+personal-life
+public-image
+[[social-media]]
+[[online-reputation]]
+[[internet-culture]]
 
 ## External References
 

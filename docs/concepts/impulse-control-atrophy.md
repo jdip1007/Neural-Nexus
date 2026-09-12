@@ -230,3 +230,14 @@ The question is: Do you want convenience, or control?
 
 - ^[raw/videos/healthygamergg/terminal-boredom.md] — Dr K (Healthy Gamer), "Terminal Boredom and Endstage Screen Addiction"
 - Frontal lobe impulse control research — General neuroscience literature
+
+## See also
+
+- [[algorithm]]
+- [[dopamine-tolerance]]
+- [[executive-function]]
+- [[executive-function-rust]]
+- [[technology]]
+- [[terminal-boredom]]
+- [[youtube-17rJSSzto4U-how-to]]
+- [[youtube-XEb89CQJPO4-tik-tok]]

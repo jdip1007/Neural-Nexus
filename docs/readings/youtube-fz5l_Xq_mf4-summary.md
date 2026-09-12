@@ -40,7 +40,7 @@ it, “Tokyo centralization has become a chronic illness for Japan”
 ## Related Concepts
 - [ai](concepts/ai.md)
 - [api](concepts/api.md)
-- [[framework]]
+- framework
 - [cloud](concepts/cloud.md)
 
 ## Transcript Highlights
@@ -55,3 +55,13 @@ suspended. It’s possible a significant amount
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[cloud]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- youtube-fz5l-Xq-mf4-meaning-japanese
+- youtube-fz5l-Xq-mf4-the-mainichi
+- youtube-fz5l-Xq-mf4-upper-house

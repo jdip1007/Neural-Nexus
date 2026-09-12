@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-09T23:25:23.397958",
-  "total_pages": 5,
-  "pages_by_type": {
-    "youtube": 5
+  "generated": "2026-09-12T00:35:00",
+  "total_pages": 225,
+  "channels": {
+    "HealthyGamerGG": 5,
+    "Dave's Garage": 45,
+    "Internet Anarchist": 89,
+    "How Money Works": 32,
+    "Infographics Show": 15,
+    "Chris Willx": 39
   },
-  "recent_pages": [
+  "recent_videos": [
     {
-      "file": "daves-garage-7vzjIv2l6wY.md",
-      "title": "Ethernet Explained so well that even YOU can Understand it!",
-      "type": "youtube",
-      "created": "2026-09-09T23:25:23.398834"
+      "title": "The Business of Gaming: Understanding the Industry Behind the Fun",
+      "channel": "HealthyGamerGG",
+      "processed": "2026-09-12T00:32:08"
     },
     {
-      "file": "daves-garage-clMl_NZp4vI.md",
-      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
-      "type": "youtube",
-      "created": "2026-09-09T23:25:23.398807"
+      "title": "Healthy Gaming Habits: Setting Boundaries That Actually Work",
+      "channel": "HealthyGamerGG",
+      "processed": "2026-09-12T00:32:11"
     },
     {
-      "file": "daves-garage-example5.md",
-      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
-      "type": "youtube",
-      "created": "2026-09-09T23:25:23.398703"
+      "title": "Digital Detox: Finding Balance in a Connected World",
+      "channel": "HealthyGamerGG",
+      "processed": "2026-09-12T00:32:13"
     },
     {
-      "file": "daves-garage-WlInICQUHeo.md",
-      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
-      "type": "youtube",
-      "created": "2026-09-09T23:25:23.398582"
+      "title": "The Psychology of Gaming: Why We Play and What It Does to Our Brains",
+      "channel": "HealthyGamerGG",
+      "processed": "2026-09-12T00:32:15"
     },
     {
-      "file": "daves-garage-6uTZWbGLtjw.md",
-      "title": "Reliable Isn't Always Better: TCP vs UDP",
-      "type": "youtube",
-      "created": "2026-09-09T23:25:23.398489"
+      "title": "Mental Health in Gaming Communities: Building Supportive Environments",
+      "channel": "HealthyGamerGG",
+      "processed": "2026-09-12T00:32:18"
     }
   ]
 }

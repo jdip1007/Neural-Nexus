@@ -53,3 +53,10 @@ main four forces
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[youtube-edLnZgF9mUg-aeronautical-knowledge]]
+- [[youtube-edLnZgF9mUg-and-mark]]
+- [[youtube-edLnZgF9mUg-and-phillip]]

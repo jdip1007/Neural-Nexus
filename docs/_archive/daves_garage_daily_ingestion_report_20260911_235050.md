@@ -26,3 +26,10 @@ status: draft
 3. **The Cost Of Attention** (50FtUPGLyyo)
 4. **The Lie of "Positive Thinking"** (l7BaFufR23E)
 5. **Your Job Achieves Nothing... (probably)** (uK3OBAxCi6k)
+
+
+## See also
+
+- [[youtube-50FtUPGLyyo-The Cost Of Attention]]
+- youtube--N6qPEA-dGc-Why Gifted People Burn Out The Fastest
+- [[youtube-xHkcIRZa6lo-Why You Should NEVER Confess Your Love]]

@@ -187,3 +187,15 @@ Before reporting patient test results, laboratories must verify the following pe
 - [laboratory-developed-tests](concepts/accreditation/laboratory-developed-tests.md)
 - [quality-control](concepts/quality-control.md)
 - [method-performance](concepts/accreditation/method-performance.md)
+
+
+## See also
+
+- [[clia-waived-tests]]
+- [[cms]]
+- [[laboratory-director]]
+- [[method-performance]]
+- [[performance-characteristics]]
+- [[proficiency-testing]]
+- [[quality-control]]
+- [[youtube-WlZmY4fLzhI-the-united]]

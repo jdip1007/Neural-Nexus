@@ -36,7 +36,7 @@ This video explores internet culture, YouTube trends, and the dynamics of conten
 
 ## Key Concepts
 
-- [[Content Monetization]]
+- Content Monetization
 
 ## Transcript Content
 
@@ -71,10 +71,10 @@ This serves as an important case study in the concept of digital permanence and 
 
 ## Related Resources
 
-- [[Internet Culture]]
-- [[Content Creation]]
+- [[internet-culture]]
+- [[content-creation]]
 - [[YouTube Algorithm]]
-- [[Digital Media]]
+- [[digital-media]]
 - [[Social Media Trends]]
 
 ## Citations

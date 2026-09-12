@@ -191,3 +191,15 @@ The project serves as a model for future research initiatives and demonstrates t
 - [concepts/dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)
 - [concepts/knowledge-preservation](concepts/knowledge-preservation.md)
 - [findings/ai-individual-gains-collective-loss](findings/ai-individual-gains-collective-loss.md)
+
+
+## See also
+
+- [[criminal-psychology]]
+- [[dangerous-person-2-0-research-project]]
+- [[dna-evidence-hong-kong-legal-system]]
+- [[forensic-science]]
+- [[knowledge-preservation]]
+- [[neural-nexus]]
+- [[psychology]]
+- [[quality-control]]

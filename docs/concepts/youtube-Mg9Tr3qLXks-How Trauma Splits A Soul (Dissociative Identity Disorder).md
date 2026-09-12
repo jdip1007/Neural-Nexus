@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=Mg9Tr3qLXks
 **Video ID:** `Mg9Tr3qLXks`
-**Transcript:** [[raw/transcripts/healthygamergg/How Trauma Splits A Soul (Dissociative Identity Disorder).md]]
+**Transcript:** raw/transcripts/healthygamergg/How Trauma Splits A Soul (Dissociative Identity Disorder).md
 **Accessed:** 2026-09-03
 
 ## Related

@@ -18,7 +18,7 @@ domain: general
 
 # "After 3 Days… I Start To Feel Amazing" - Dr David Sinclair
 
-[[philosophy]], [[health]]
+[[philosophy]], health
 
 ## Transcript
 

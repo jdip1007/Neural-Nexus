@@ -38,3 +38,14 @@ reviewed: 2026-07-31
 - [wbe-theory](concepts/wbe-theory.md)
 - [scaling-laws](concepts/scaling-laws.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[fractal-networks]]
+- [[metabolic-scaling]]
+- [[relationships]]
+- [[scale-book]]
+- [[scaling-laws]]
+- [[wbe-theory]]

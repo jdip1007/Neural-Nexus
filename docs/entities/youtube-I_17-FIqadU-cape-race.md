@@ -25,3 +25,10 @@ Mentioned in the context of research and development.
 
 ## Sources
 ^[raw/videos/youtube-I_17-FIqadU-transcript.md] Video mention at timestamp
+
+
+## See also
+
+- [[youtube-ZwYrXkPJA1s-ivy-league]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

@@ -54,3 +54,15 @@ James Evans directs the Knowledge Lab at the University of Chicago, studying how
 
 - [yong-li](entities/yong-li.md)
 - [fengli-xu](entities/fengli-xu.md)
+
+
+## See also
+
+- [[ai]]
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[dangerous-person-2-0-research-project]]
+- [[fengli-xu]]
+- [[knowledge-preservation]]
+- [[optimisation-techniques-small-scale-simulation]]
+- [[relationships]]
+- [[yong-li]]

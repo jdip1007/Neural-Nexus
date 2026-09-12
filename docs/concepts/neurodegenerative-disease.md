@@ -87,7 +87,7 @@ Neurodegenerative diseases are a heterogeneous group of disorders characterized 
 - Obesity and metabolic syndrome
 - Cardiovascular disease
 
-**See:** [[alzheimers-disease]] for detailed discussion
+**See:** alzheimers-disease for detailed discussion
 
 ### Parkinson's Disease
 
@@ -107,7 +107,7 @@ Neurodegenerative diseases are a heterogeneous group of disorders characterized 
 - Genetic factors
 - Possible metabolic risk factors
 
-**See:** [[parkinsons-disease]] for detailed discussion
+**See:** parkinsons-disease for detailed discussion
 
 ### Vascular Dementia
 
@@ -386,16 +386,16 @@ Neurodegenerative diseases are a heterogeneous group of disorders characterized 
 - [glymphatic](concepts/glymphatic.md): Impaired waste clearance leads to protein aggregation
 - [inflammation](concepts/inflammation.md): Chronic neuroinflammation drives degeneration
 - [metabolic-disorder](concepts/metabolic-disorder.md): Obesity and diabetes increase neurodegeneration risk
-- [[protein-aggregation]]: Misfolded proteins are hallmark of neurodegeneration
+- protein-aggregation: Misfolded proteins are hallmark of neurodegeneration
 
 ## Graph Impact
 
 This concept connects:
-- [[neuron-loss]] to [[cognitive-decline]]
-- [[obesity]] to [[dementia-risk]]
-- [[vascular-dysfunction]] to [[brain-atrophy]]
-- [[protein-misfolding]] to [[neurotoxicity]]
-- [[aging]] to [[neurodegeneration]]
+- neuron-loss to cognitive-decline
+- [[obesity]] to dementia-risk
+- vascular-dysfunction to brain-atrophy
+- protein-misfolding to neurotoxicity
+- aging to neurodegeneration
 
 ## Notes
 

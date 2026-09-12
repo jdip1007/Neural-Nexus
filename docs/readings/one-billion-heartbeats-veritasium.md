@@ -193,3 +193,15 @@ The video features extensive consultation with leading researchers in scaling th
 - [kleibers-law](concepts/kleibers-law.md)
 - [scaling-laws](concepts/scaling-laws.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
+
+
+## See also
+
+- [[brian-enquist]]
+- [[comparative-physiology]]
+- [[derek-muller]]
+- [[ecology]]
+- [[fractal-networks]]
+- [[geoffrey-west]]
+- [[lifespan]]
+- [[max-kleiber]]

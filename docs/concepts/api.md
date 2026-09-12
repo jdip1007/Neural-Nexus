@@ -48,7 +48,7 @@ An Application Programming Interface (API) is a set of definitions and protocols
 
 ## Related Concepts
 - [ai](concepts/ai.md)
-- [[software-development]]
-- [[microservices]]
-- [[rest]]
-- [[json]]
+- software-development
+- microservices
+- rest
+- json

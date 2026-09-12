@@ -121,7 +121,7 @@ Individualized training methods represent a shift from standardized, group-based
 
 - [marine-corps-training](concepts/marine-corps-training.md)
 - [military-structure](concepts/military-structure.md)
-- [[adaptive-learning]]
+- adaptive-learning
 - [[personal-development]]
-- [[skill-development]]
+- skill-development
 - [infographics-show](entities/infographics-show.md)

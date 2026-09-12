@@ -106,3 +106,15 @@ PFC development is genetically guided:
 - [executive-function](concepts/executive-function.md)
 - [psychology](concepts/psychology.md)
 - [adhd](concepts/adhd.md)
+
+
+## See also
+
+- [[executive-function]]
+- [[executive-function-rust]]
+- [[knowledge-preservation]]
+- [[neuropsychopathological-factor]]
+- [[psychiatric-comorbidity]]
+- [[psychology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]

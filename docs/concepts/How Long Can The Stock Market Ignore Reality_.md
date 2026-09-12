@@ -36,14 +36,14 @@ This video from How Money Works explores financial-markets and provides insights
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[financial-markets]] - Understanding market dynamics
+- financial-markets - Understanding market dynamics
 - [[economic-trends]] - Current economic analysis
-- [[investment-strategies]] - Smart investment approaches
+- investment-strategies - Smart investment approaches
 
 ## Sources
 
 **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
 **Video URL:** https://www.youtube.com/watch?v=qmZmKZR8S5U
 **Video ID:** `qmZmKZR8S5U`
-**Transcript:** [[raw/transcripts/how-money-works/How Long Can The Stock Market Ignore Reality_.md]]
+**Transcript:** raw/transcripts/how-money-works/How Long Can The Stock Market Ignore Reality-.md
 **Accessed:** 2026-09-04

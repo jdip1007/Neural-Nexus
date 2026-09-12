@@ -46,3 +46,10 @@ Lifespan (longevity) refers to the duration of life of an organism, typically me
 
 - [comparative-physiology](concepts/comparative-physiology.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[ecology]]
+- [[metabolic-scaling]]

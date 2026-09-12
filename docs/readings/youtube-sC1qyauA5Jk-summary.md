@@ -42,7 +42,7 @@ one of the main goals behind MKUltra
 ## Related Concepts
 - [ai](concepts/ai.md)
 - [api](concepts/api.md)
-- [[transformer]]
+- transformer
 
 ## Transcript Highlights
 > but it seems the CIA wasn’t interested in nuance. 
@@ -57,3 +57,11 @@ Beech of the Chicago Daily News who was offered
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-sC1qyauA5Jk-general-qasim]]
+- [[youtube-sC1qyauA5Jk-richard-helms]]
+- [[youtube-sC1qyauA5Jk-secret-war]]

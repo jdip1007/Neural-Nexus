@@ -25,10 +25,10 @@ updated: '2026-09-02'
 ## Key Topics
 
 - [[content-creation]]
-- [[intellectual-property]]
-- [[youtube-ecosystem]]
-- [[copycat-channels]]
-- [[online-authenticity]]
+- intellectual-property
+- youtube-ecosystem
+- copycat-channels
+- online-authenticity
 
 ## Summary
 
@@ -36,15 +36,15 @@ This video explores various aspects of internet culture, online personalities, a
 
 ## Main Themes
 
-- [[content-protection]]
-- [[originality]]
-- [[community-response]]
+- content-protection
+- originality
+- community-response
 
 ## Notable Entities
 
-- [[Penguinz0]]
-- [[Technoblade]]
-- [[YouTube]]
+- Penguinz0
+- Technoblade
+- [[youtube]]
 
 ## Key Insights
 
@@ -58,7 +58,7 @@ The video "[title]" provides a comprehensive look at various aspects of internet
 
 ## Related Content
 
-[[internet-anarchist]] | [[youtube-content]] | [[digital-media]] | [internet-culture](internet-culture.md)
+[[internet-anarchist]] | youtube-content | [[digital-media]] | [internet-culture](internet-culture.md)
 
 ## Transcript
 

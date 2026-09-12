@@ -46,3 +46,11 @@ only way to ensure Germany's spot of power
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[youtube-BYmj1HXvU44-franz-ferdinand]]
+- [[youtube-BYmj1HXvU44-they-compare]]
+- [[youtube-BYmj1HXvU44-triple-alliance]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

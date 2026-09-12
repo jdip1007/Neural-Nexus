@@ -92,27 +92,27 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital_life]]
-[[personal_development]]
-[[partnership]]
+[[digital-life]]
+[[personal-development]]
+partnership
 [[gaming]]
-[[mental_health]]
+[[mental-health]]
 [psychology](concepts/psychology.md)
-[[dating]]
-[[love]]
-[[online_communities]]
+dating
+love
+[[online-communities]]
 [relationships](concepts/relationships.md)
 
 
 ## Related Topics
 
-[[digital_life]]
-[[personal_development]]
-[[partnership]]
+[[digital-life]]
+[[personal-development]]
+partnership
 [[gaming]]
-[[mental_health]]
+[[mental-health]]
 [psychology](concepts/psychology.md)
-[[dating]]
-[[love]]
-[[online_communities]]
+dating
+love
+[[online-communities]]
 [relationships](concepts/relationships.md)

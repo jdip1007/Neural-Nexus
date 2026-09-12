@@ -506,7 +506,7 @@ reviewed: 2026-08-07
 **Source:** 馬天律師 YouTube Channel (@hk-lawyer)
 **Video URL:** https://www.youtube.com/watch?v=fehagloD4fw
 **Video ID:** `fehagloD4fw`
-**Transcript:** [[raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]]
+**Transcript:** raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md
 **Accessed:** 2026-08-04
 
 ## Related Pages
@@ -514,3 +514,8 @@ reviewed: 2026-08-07
 - [concepts/hong-kong-international-comparison](concepts/hong-kong-international-comparison.md)
 - [concepts/hong-kong-medical-ethics-law](concepts/hong-kong-medical-ethics-law.md)
 - [concepts/advance-medical-directives](concepts/advance-medical-directives.md)
+
+
+## See also
+
+- [[hong-kong-medical-ethics-law]]

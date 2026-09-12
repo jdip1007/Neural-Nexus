@@ -339,3 +339,9 @@ Effect **widespread** across nearly all subgroups (medical/health sciences excep
 **Confidence:** High (peer-reviewed, population-wide, longitudinal, multiple robustness checks)
 **Type:** Concept | Comprehensive synthesis
 **Review Status:** Reviewed 2026-08-14
+
+## See also
+
+- [[mental-health]]
+- [[psychiatric-comorbidity]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

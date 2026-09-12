@@ -237,3 +237,14 @@ Both matter:
 
 - ^[raw/videos/healthygamergg/terminal-boredom.md] — Dr K (Healthy Gamer), "Terminal Boredom and Endstage Screen Addiction"
 - Dopamine receptor downregulation — Neuroscience research on tolerance mechanisms
+
+## See also
+
+- [[dopamine-lemon-metaphor]]
+- [[executive-function-rust]]
+- [[terminal-boredom]]
+- youtube-6BOxK-JrghY-the-work
+- [[youtube-WNSZ6xouNv4-used-to]]
+- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-YQQMF8ibxVw-when-you]]
+- [[youtube-ahDC1sQCDzY-in-the]]

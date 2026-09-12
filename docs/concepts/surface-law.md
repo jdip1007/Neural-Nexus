@@ -201,3 +201,15 @@ Surface law remains relevant as:
 - [max-kleiber](entities/max-kleiber.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
 - [wbe-theory](concepts/wbe-theory.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[fractal-networks]]
+- [[geoffrey-west]]
+- [[max-kleiber]]
+- [[metabolic-scaling]]
+- [[relationships]]
+- [[veritasium]]
+- [[wbe-theory]]

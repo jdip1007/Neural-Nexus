@@ -32,7 +32,7 @@ title: The 13 Seconds That Exposed Hank Green video_id: W82TeO-XXWU source: http
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/W82TeO-XXWU.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/W82TeO-XXWU.md for the complete transcript.
 
 ## Related Topics
 

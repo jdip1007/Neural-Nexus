@@ -33,8 +33,8 @@ Performance metrics for real-time PCR (quantitative PCR) assays in clinical mole
 
 - [qpcr](concepts/laboratory-methods/qpcr.md)
 - [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)
-- [[limit-of-detection]]
-- [[clinical-validation]]
+- limit-of-detection
+- clinical-validation
 
 ## Related Pages
 

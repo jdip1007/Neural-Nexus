@@ -242,3 +242,10 @@ Lisdexamfetamine dimesylate is a prodrug that is converted to dextroamphetamine,
 - [adhd](concepts/adhd.md)
 - [mental-health](concepts/mental-health.md)
 - [executive-function](concepts/executive-function.md)
+
+
+## See also
+
+- [[adhd]]
+- [[youtube-THodtjsCTSI-safe-place]]
+- [[youtube-ahDC1sQCDzY-in-the]]

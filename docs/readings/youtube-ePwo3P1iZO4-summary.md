@@ -26,8 +26,8 @@ This video discusses The "Do Anything" Chip: FPGA
 ## Related Concepts
 - [api](concepts/api.md)
 - [cloud](concepts/cloud.md)
-- [[neural-network]]
-- [[machine-learning]]
+- neural-network
+- machine-learning
 - [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights

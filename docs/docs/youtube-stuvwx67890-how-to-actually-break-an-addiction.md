@@ -24,11 +24,11 @@ updated: '2026-09-02'
 
 ## Key Topics
 
-- [[addiction-recovery]]
-- [[evidence-based-treatment]]
-- [[relapse-prevention]]
-- [[support-systems]]
-- [[neuroscience-of-addiction]]
+- addiction-recovery
+- evidence-based-treatment
+- relapse-prevention
+- support-systems
+- neuroscience-of-addiction
 
 ## Summary
 
@@ -36,15 +36,15 @@ This video explores various aspects of mental health, personal development, and 
 
 ## Main Themes
 
-- [[addiction-treatment]]
-- [[recovery-strategies]]
-- [[long-term-wellbeing]]
+- addiction-treatment
+- recovery-strategies
+- long-term-wellbeing
 
 ## Notable Entities
 
-- [[Dr. K]]
-- [[addiction-specialists]]
-- [[recovery-community]]
+- [[dr-k]]
+- addiction-specialists
+- recovery-community
 
 ## Key Insights
 

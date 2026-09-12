@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=zFp4n3h75cM
 **Video ID:** `zFp4n3h75cM`
-**Transcript:** [[raw/transcripts/healthygamergg/Why _Validating Feelings_ Can Ruin Relationships.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why -Validating Feelings- Can Ruin Relationships.md
 **Accessed:** 2026-08-31
 
 ## Related

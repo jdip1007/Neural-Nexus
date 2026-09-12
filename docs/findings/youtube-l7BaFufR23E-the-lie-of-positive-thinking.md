@@ -29,8 +29,8 @@ Critical examination of positive thinking culture and its psychological limitati
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Analysis]] - Collection of analytical content
+- Dave's Garage - Main channel page
+- YouTube Analysis - Collection of analytical content
 - [Psychology](concepts/psychology.md)
 
 ## Citations

@@ -40,8 +40,8 @@ Artificial Intelligence (AI) refers to the simulation of human intelligence in m
 - Integration with emerging technologies
 
 ## Related Concepts
-- [[machine-learning]]
-- [[deep-learning]]
-- [[neural-networks]]
-- [[natural-language-processing]]
-- [[computer-vision]]
+- machine-learning
+- deep-learning
+- neural-networks
+- natural-language-processing
+- computer-vision

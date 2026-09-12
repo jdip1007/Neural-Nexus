@@ -44,6 +44,6 @@ This is a sample transcript for video VIDEO123. It contains various topics about
 ## Related Pages
 
 - [[Mental Health Basics]]
-- [[Gaming Psychology]]
-- [[Relationship Building]]
-- [[Self-Improvement Strategies]]
+- Gaming Psychology
+- Relationship Building
+- Self-Improvement Strategies

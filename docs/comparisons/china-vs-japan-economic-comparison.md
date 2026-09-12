@@ -282,7 +282,7 @@ Side-by-side analysis of structural economic challenges facing China and Japan, 
 ## Sources
 
 - [[Stephen Roach]] - "China's Deepening Japan Problem" (Substack, August 2026)^[raw/pdfs/china-deepening-japan-problem-stephen-roach.md]
-- [[笑談中國經濟]] - YouTube discussion: "Stephen Roach: China's Deepening Japan Problem"^[raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
+- 笑談中國經濟 - YouTube discussion: "Stephen Roach: China's Deepening Japan Problem"^[raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 - Penn World Tables - Capital-output ratio data
 - Hayashi & Prescott - Japan's lost decades analysis
 - Evan Osnos - "The Future, Made in China" (The New Yorker, August 3, 2026)
@@ -290,8 +290,8 @@ Side-by-side analysis of structural economic challenges facing China and Japan, 
 ## Related
 
 - [capital-deepening-trap](concepts/capital-deepening-trap.md) - Deep dive into capital deepening mechanics
-- [[japan-lost-decades]] - Japan's structural stagnation analysis
-- [[chinese-economic-model]] - China's production-led growth strategy
-- [[consumer-led-rebalancing]] - The recovery path China is blocking
-- [[xi-jinping-economic-policies]] - Policy-driven capital allocation
-- [[authoritarian-economics]] - Systemic constraints vs. democratic market economies
+- japan-lost-decades - Japan's structural stagnation analysis
+- chinese-economic-model - China's production-led growth strategy
+- consumer-led-rebalancing - The recovery path China is blocking
+- xi-jinping-economic-policies - Policy-driven capital allocation
+- authoritarian-economics - Systemic constraints vs. democratic market economies

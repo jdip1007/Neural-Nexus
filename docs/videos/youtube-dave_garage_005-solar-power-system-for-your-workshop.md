@@ -32,21 +32,21 @@ backlinks: []
 
 ## Video Overview
 
-This page documents content from Dave's Garage YouTube channel: [[dave-garage-channel]]. The video explores Solar, Diy, Workshop.
+This page documents content from Dave's Garage YouTube channel: dave-garage-channel. The video explores Solar, Diy, Workshop.
 
 ### Key Information
 - **Video ID**: dave_garage_005
 - **Published**: 2026-08-10
 - **Duration**: 35 minutes
-- **Source**: [[youtube-dave-garage-channel]]
+- **Source**: youtube-dave-garage-channel
 
 ## Key Concepts and Topics
 
 ### Key Technical Concepts
 
-- [[renewable-energy]]
-- [[photovoltaics]]
-- [[sustainable-technology]]
+- renewable-energy
+- photovoltaics
+- sustainable-technology
 
 These concepts are explored in depth throughout the video.
 
@@ -87,9 +87,9 @@ This analysis helps categorize the content for better knowledge organization.
 
 ### Related Pages
 
-- [[renewable-energy]]
-- [[photovoltaics]]
-- [[sustainable-technology]]
+- renewable-energy
+- photovoltaics
+- sustainable-technology
 
 ## Sources
 

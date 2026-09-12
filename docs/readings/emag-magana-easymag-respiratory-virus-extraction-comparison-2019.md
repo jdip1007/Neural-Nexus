@@ -298,3 +298,15 @@ Key references include:
 - [orna-mor](entities/orna-mor.md)
 - [michel-mandelboim](entities/michel-mandelboim.md)
 - [nucleic-acid-extraction-platforms](concepts/nucleic-acid-extraction-platforms.md)
+
+
+## See also
+
+- [[biomerieux]]
+- [[laboratory-validation]]
+- [[michel-mandelboim]]
+- [[musa-hindiyeh]]
+- [[nucleic-acid-extraction-platforms]]
+- [[orna-mor]]
+- [[qpcr]]
+- [[qpcr-performance-characteristics]]

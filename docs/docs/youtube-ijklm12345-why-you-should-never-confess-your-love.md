@@ -35,12 +35,12 @@ This video explores various aspects of mental health, personal development, and 
 ## Main Themes
 
 - [[self-improvement]]
-- [[mental-wellbeing]]
-- [[personal-growth]]
+- mental-wellbeing
+- personal-growth
 
 ## Notable Entities
 
-- [[Dr. K]]
+- [[dr-k]]
 - [[healthygamergg]]
 - [mental-health](concepts/mental-health.md)
 

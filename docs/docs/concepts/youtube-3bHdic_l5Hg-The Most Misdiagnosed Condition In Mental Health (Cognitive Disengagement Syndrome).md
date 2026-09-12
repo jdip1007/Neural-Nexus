@@ -39,7 +39,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=3bHdic_l5Hg
 **Video ID:** `3bHdic_l5Hg`
-**Transcript:** [[raw/transcripts/healthygamergg/The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome).md]]
+**Transcript:** raw/transcripts/healthygamergg/The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome).md
 **Accessed:** 2026-09-03
 
 ## Related

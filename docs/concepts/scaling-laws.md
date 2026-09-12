@@ -47,3 +47,14 @@ reviewed: 2026-07-31
 - [surface-law](concepts/surface-law.md)
 - [kleibers-law](concepts/kleibers-law.md)
 - [urban-scaling](concepts/urban-scaling.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[ecology]]
+- [[lifespan]]
+- [[metabolic-scaling]]
+- [[relationships]]
+- [[surface-law]]
+- [[urban-scaling]]

@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores relationship psychology and love confess
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=xHkcIRZa6lo
 **Video ID:** `xHkcIRZa6lo`
-**Transcript:** [[raw/transcripts/healthygamergg/Why You Should NEVER Confess Your Love.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why You Should NEVER Confess Your Love.md
 **Accessed:** 2026-08-31
 
 ## Related

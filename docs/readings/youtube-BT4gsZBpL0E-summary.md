@@ -46,3 +46,15 @@ This video discusses Stop Letting Video Game Addiction Hijack Your Life
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[mental-health]]
+- [[programming]]
+- [[relationships]]
+- [[technology]]
+- [[youtube-17rJSSzto4U-how-to]]
+- [[youtube-5rFIcsi9EVc-what-does]]
+- [[youtube-BT4gsZBpL0E-hey-dad]]
+- [[youtube-BT4gsZBpL0E-monster-hunter]]

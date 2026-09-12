@@ -350,3 +350,11 @@ These techniques are mature and well-known in game development circles, but rare
 - [concepts/canvas-rendering](concepts/canvas-rendering.md)
 - [concepts/cellular-automata](concepts/cellular-automata.md)
 - [concepts/game-loop](concepts/game-loop.md)
+
+
+## See also
+
+- [[canvas-rendering]]
+- [[cellular-automata]]
+- [[hardware]]
+- [[youtube-ahDC1sQCDzY-in-the]]

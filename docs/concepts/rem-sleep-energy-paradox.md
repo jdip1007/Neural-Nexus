@@ -97,3 +97,12 @@ This paradox suggests that during REM, the energy consumed by neurons exceeds wh
 - [rem-sleep](concepts/rem-sleep.md)
 - [brain-blood-volume](concepts/brain-blood-volume.md)
 - [theta-band-activity](concepts/theta-band-activity.md)
+
+
+## See also
+
+- [[brain-blood-volume]]
+- [[brain-energy-metabolism]]
+- [[nrem-sleep]]
+- [[rem-sleep]]
+- [[youtube-ahDC1sQCDzY-in-the]]

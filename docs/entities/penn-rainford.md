@@ -124,3 +124,15 @@ Based on Rainford's current work, future research may focus on:
 - [knowledge-preservation](concepts/knowledge-preservation.md)
 - [reproducibility-crisis](concepts/reproducibility-crisis.md)
 - [neural-nexus](concepts/neural-nexus.md)
+
+
+## See also
+
+- [[ai]]
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[knowledge-preservation]]
+- [[optimisation-techniques-small-scale-simulation]]
+- [[relationships]]
+- [[reproducibility-crisis]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- [[youtube-lhtcLe9QbMQ-north-america]]

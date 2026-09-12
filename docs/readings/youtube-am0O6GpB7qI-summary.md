@@ -45,3 +45,9 @@ This video discusses Using Windows 10?  Do THIS Now Before It's Too Late!
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[architecture]]
+- [[youtube-WNSZ6xouNv4-and-that]]

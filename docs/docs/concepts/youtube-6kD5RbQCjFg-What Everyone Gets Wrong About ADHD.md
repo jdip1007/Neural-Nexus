@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=6kD5RbQCjFg
 **Video ID:** `6kD5RbQCjFg`
-**Transcript:** [[raw/transcripts/healthygamergg/What Everyone Gets Wrong About ADHD.md]]
+**Transcript:** raw/transcripts/healthygamergg/What Everyone Gets Wrong About ADHD.md
 **Accessed:** 2026-09-03
 
 ## Related

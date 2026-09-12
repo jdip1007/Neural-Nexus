@@ -127,3 +127,10 @@ Protocol for amplifying GC-rich DNA templates (>60% G+C) using a 4-additive cock
 - [pcr](concepts/pcr.md)
 - [dna-extraction](concepts/dna-extraction.md)
 - [molecular-biology](concepts/molecular-biology.md)
+
+
+## See also
+
+- [[environmental-dna-analysis]]
+- [[joseph-sambrook]]
+- [[qpcr]]

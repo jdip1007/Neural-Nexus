@@ -183,10 +183,10 @@ This video informed the following concepts:
 
 - [brain-rot](concepts/brain-rot.md): Highly addictive internet content that hijacks reward circuits
 - [dopamine-lemon-metaphor](concepts/dopamine-lemon-metaphor.md): Daily dopamine budget model
-- [[artificial-brain-circuit-activation]]: How modern content exploits evolutionary circuits
-- [[parasocial-relationships]]: Fake connections that activate real bonding circuits
-- [[inflammation-cycle]]: The physiological trap making recovery harder
-- [[rage-bait]]: Anger-inducing content that causes cardiovascular damage
+- artificial-brain-circuit-activation: How modern content exploits evolutionary circuits
+- parasocial-relationships: Fake connections that activate real bonding circuits
+- inflammation-cycle: The physiological trap making recovery harder
+- rage-bait: Anger-inducing content that causes cardiovascular damage
 
 ## Notes
 

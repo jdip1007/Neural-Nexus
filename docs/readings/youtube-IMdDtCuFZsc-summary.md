@@ -35,7 +35,7 @@ This video discusses Jonah Hill's Life Is Falling Apart
 - [[llm]]
 - [api](concepts/api.md)
 - [ai](concepts/ai.md)
-- [[transformer]]
+- transformer
 
 ## Transcript Highlights
 > he was trying to tell? More importantly,

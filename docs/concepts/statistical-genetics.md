@@ -420,7 +420,7 @@ Where:
 - [polygenic-scores](concepts/polygenic-scores.md) - Statistical methods for genetic risk prediction
 - [heritability](concepts/heritability.md) - Quantifying genetic contribution to traits
 - [genome-wide-association](concepts/genome-wide-association.md) - GWAS methodology and applications
-- [[genetic-epidemiology]] - Study of genetic factors in populations
+- genetic-epidemiology - Study of genetic factors in populations
 - [precision-medicine](concepts/precision-medicine.md) - Personalized approaches to healthcare
 
 ## References
@@ -432,3 +432,14 @@ Where:
 3. Yang, J., et al. (2010). Common SNPs explain a large proportion of the heritability for human height. *Nature Genetics*, 42(7), 565-569. https://doi.org/10.1038/ng.608
 
 4. Balding, D. J. (2006). A tutorial on statistical methods for population association studies. *Nature Reviews Genetics*, 7(10), 781-791. https://doi.org/10.1038/nrg1964
+
+## See also
+
+- [[architecture]]
+- [[cloud]]
+- [[genomics]]
+- [[heritability]]
+- [[psychiatric-comorbidity]]
+- [[quality-control]]
+- [[relationships]]
+- [[statistical-analysis]]

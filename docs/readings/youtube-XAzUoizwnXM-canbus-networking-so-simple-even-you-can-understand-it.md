@@ -50,3 +50,14 @@ Breaking down CANBUS networking in simple terms, Dave explains how this automoti
 ---
 
 *This page was automatically generated as part of the Neural Nexus YouTube ingestion process.*
+
+
+## See also
+
+- [[automotive]]
+- [[networking]]
+- [[neural-nexus]]
+- [[programming]]
+- [[technology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

@@ -24,11 +24,11 @@ updated: '2026-09-02'
 
 ## Key Topics
 
-- [[content-moderation]]
-- [[online-safety]]
-- [[platform-accountability]]
-- [[harmful-content]]
-- [[community-vigilance]]
+- content-moderation
+- online-safety
+- platform-accountability
+- harmful-content
+- community-vigilance
 
 ## Summary
 
@@ -36,14 +36,14 @@ This video explores various aspects of internet culture, online personalities, a
 
 ## Main Themes
 
-- [[platform-responsibility]]
-- [[online-safety]]
-- [[community-action]]
+- platform-responsibility
+- online-safety
+- community-action
 
 ## Notable Entities
 
-- [[YouTube]]
-- [[content-moderators]]
+- [[youtube]]
+- content-moderators
 - [[online-communities]]
 
 ## Key Insights
@@ -58,7 +58,7 @@ The video "[title]" provides a comprehensive look at various aspects of internet
 
 ## Related Content
 
-[[internet-anarchist]] | [[youtube-content]] | [[digital-media]] | [internet-culture](internet-culture.md)
+[[internet-anarchist]] | youtube-content | [[digital-media]] | [internet-culture](internet-culture.md)
 
 ## Transcript
 

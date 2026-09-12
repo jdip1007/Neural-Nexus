@@ -290,16 +290,16 @@ The hypothalamus is a small but crucial region of the brain located below the th
 - [inflammation](concepts/inflammation.md): Hypothalamic inflammation disrupts homeostasis
 - [neuroinflammation](concepts/neuroinflammation.md): Glial activation in hypothalamus
 - [metabolic-disorder](concepts/metabolic-disorder.md): Hypothalamic dysfunction contributes to metabolic disease
-- [[leptin-resistance]]: Consequence of hypothalamic inflammation
+- leptin-resistance: Consequence of hypothalamic inflammation
 
 ## Graph Impact
 
 This concept connects:
-- [[energy-balance]] to [[brain-regulation]]
-- [[obesity]] to [[central-inflammation]]
-- [[hormone]] to [[appetite-control]]
-- [[circadian-rhythm]] to [[metabolism]]
-- [[autonomic-nervous-system]] to [[homeostasis]]
+- energy-balance to brain-regulation
+- [[obesity]] to central-inflammation
+- hormone to appetite-control
+- circadian-rhythm to metabolism
+- autonomic-nervous-system to homeostasis
 
 ## Notes
 

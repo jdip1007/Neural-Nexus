@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores interpersonal relationships and friendsh
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=OafdDpFjOIg
 **Video ID:** `OafdDpFjOIg`
-**Transcript:** [[raw/transcripts/healthygamergg/Can Men & Women Be Friends_.md]]
+**Transcript:** raw/transcripts/healthygamergg/Can Men & Women Be Friends-.md
 **Accessed:** 2026-09-03
 
 ## Related

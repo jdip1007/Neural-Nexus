@@ -78,3 +78,15 @@ This video from Dave's Garage explores led, software, tutorial and related conce
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
+
+
+## See also
+
+- [[automotive]]
+- [[daves-garage]]
+- [[engineering]]
+- [[hardware]]
+- [[networking]]
+- [[programming]]
+- [[technology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

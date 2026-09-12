@@ -36,3 +36,11 @@ reviewed: 2026-07-31
 - [entities/geoffrey-west](entities/geoffrey-west.md)
 - [entities/steven-strogatz](entities/steven-strogatz.md)
 - [entities/van-savage](entities/van-savage.md)
+
+
+## See also
+
+- [[fractal-networks]]
+- [[geoffrey-west]]
+- [[scaling-laws]]
+- [[urban-scaling]]

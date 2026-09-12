@@ -32,13 +32,13 @@ backlinks: []
 
 ## Video Overview
 
-This page documents content from Dave's Garage YouTube channel: [[dave-garage-channel]]. The video explores Diy, Vehicles, Workshop.
+This page documents content from Dave's Garage YouTube channel: dave-garage-channel. The video explores Diy, Vehicles, Workshop.
 
 ### Key Information
 - **Video ID**: dave_garage_001
 - **Published**: 2026-08-20
 - **Duration**: 45 minutes
-- **Source**: [[youtube-dave-garage-channel]]
+- **Source**: youtube-dave-garage-channel
 
 ## Key Concepts and Topics
 
@@ -81,7 +81,7 @@ This analysis helps categorize the content for better knowledge organization.
 ### Related Pages
 
 - [technology](concepts/technology.md)
-- [[innovation]]
+- innovation
 
 ## Sources
 

@@ -87,3 +87,9 @@ Social media platforms are digital platforms that enable users to create and sha
 - [Online Behavior](./online-behavior.md)
 - [Social Media Strategy](./social-media-strategy.md)
 - [Digital Ethics](./digital-ethics.md)
+
+## See also
+
+- [[mental-health]]
+- [[networking]]
+- [[youtube-XJ-DP8SJfa0-social-media]]

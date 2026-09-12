@@ -45,9 +45,9 @@ Zahra Goodarzi's research centers on:
 ## Related Concepts
 
 - [bpsd](concepts/bpsd.md)
-- [[dementia]]
-- [[geriatric-medicine]]
-- [[neuropsychiatric-symptoms]]
+- dementia
+- geriatric-medicine
+- neuropsychiatric-symptoms
 
 ## Key Publications
 

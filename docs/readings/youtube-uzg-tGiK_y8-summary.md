@@ -58,3 +58,13 @@ Marine Corps and the US Army is their training
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[infographics-show]]
+- [[the-infographics-show]]
+- [[youtube-9mfJ-G2LPhE-the-infographics]]
+- youtube-uzg-tGiK-y8-air-force
+- youtube-uzg-tGiK-y8-individualized-training
+- youtube-uzg-tGiK-y8-national-guard

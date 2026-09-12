@@ -170,3 +170,15 @@ This entity page is based primarily on the Veritasium video discussing metabolic
 - [metabolic-scaling](concepts/metabolic-scaling.md)
 - [fractal-networks](concepts/fractal-networks.md)
 - [comparative-physiology](concepts/comparative-physiology.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[fractal-networks]]
+- [[geoffrey-west]]
+- [[metabolic-scaling]]
+- [[relationships]]
+- [[surface-law]]
+- [[veritasium]]
+- [[wbe-theory]]

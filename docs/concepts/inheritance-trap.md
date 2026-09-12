@@ -132,3 +132,15 @@ The "Inheritance Trap" describes how intergenerational wealth transfer through i
 - [generational-wealth-transfer](concepts/generational-wealth-transfer.md)
 - [economic-inequality](concepts/economic-inequality.md)
 - [wealth-concentration](concepts/wealth-concentration.md)
+
+
+## See also
+
+- [[baby-boomers]]
+- [[economic-inequality]]
+- [[generational-wealth-transfer]]
+- [[infographics-show]]
+- [[interest-rate-policy]]
+- [[josh-risser]]
+- [[labor-market-changes]]
+- [[the-infographics-show]]

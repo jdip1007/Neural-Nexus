@@ -25,3 +25,11 @@ Mentioned in the context of research and development.
 
 ## Sources
 ^[raw/videos/youtube-OunJtLnyPT4-transcript.md] Video mention at timestamp
+
+
+## See also
+
+- [[youtube-BPnIYS35Fhk-big-tech]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
+- [[youtube-haZ5gddlQ4g-openai]]

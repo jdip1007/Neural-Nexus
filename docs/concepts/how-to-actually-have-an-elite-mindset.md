@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores how to actually have an elite mindset 
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[How To Actually Have An Elite Mindset.md]]
+**Original Page:** How To Actually Have An Elite Mindset.md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -47,3 +47,12 @@ This content from HealthyGamerGG explores how to actually have an elite mindset 
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[psychology]]
+- [[relationships]]
+- [[youtube-17rJSSzto4U-how-to]]
+- [[youtube-Wu7zcamEAI0-How To Actually Have An Elite Mindset]]
+- [[youtube-ahDC1sQCDzY-in-the]]

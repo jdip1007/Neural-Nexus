@@ -137,3 +137,15 @@ Modern scientific research is losing knowledge through unpublished negative resu
 - [concepts/knowledge-preservation](concepts/knowledge-preservation.md)
 - [findings/ai-individual-gains-collective-loss](findings/ai-individual-gains-collective-loss.md)
 - [readings/ai-impacts-science-nature-2026](readings/ai-impacts-science-nature-2026.md)
+
+
+## See also
+
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[engineering]]
+- [[knowledge-preservation]]
+- [[laboratory-automation]]
+- [[quality-control]]
+- [[reproducibility-crisis]]
+- [[technology]]
+- [[youtube-17rJSSzto4U-how-to]]

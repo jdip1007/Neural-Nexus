@@ -185,8 +185,8 @@ The [glymphatic](concepts/glymphatic.md) system is a recently discovered waste c
 ### Clinical Implications
 
 Glymphatic impairment contributes to:
-- [[alzheimers-disease]]: Reduced amyloid-β clearance
-- [[parkinsons-disease]]: Impaired alpha-synuclein removal
+- alzheimers-disease: Reduced amyloid-β clearance
+- parkinsons-disease: Impaired alpha-synuclein removal
 - Age-related cognitive decline: Cumulative waste accumulation
 - Post-operative cognitive dysfunction: Anesthesia-induced impairment
 - Traumatic brain injury: Acute disruption of clearance
@@ -253,8 +253,8 @@ Glymphatic impairment contributes to:
 
 - [neurovascular-unit](concepts/neurovascular-unit.md): Glymphatic system is a component of the NVU
 - [blood-brain-barrier](concepts/blood-brain-barrier.md): BBB interacts with glymphatic clearance
-- [[astrocyte]]: Astrocyte endfeet with AQP4 are critical for glymphatic function
-- [[sleep]]: Glymphatic clearance is sleep-dependent
+- astrocyte: Astrocyte endfeet with AQP4 are critical for glymphatic function
+- sleep: Glymphatic clearance is sleep-dependent
 - [myelin](concepts/myelin.md): Glymphatic system may support myelin maintenance
 - [inflammation](concepts/inflammation.md): Inflammation impairs glymphatic function
 - [metabolic-disorder](concepts/metabolic-disorder.md): Metabolic overload disrupts glymphatic clearance
@@ -263,10 +263,10 @@ Glymphatic impairment contributes to:
 ## Graph Impact
 
 This concept connects:
-- [[sleep]] to [[waste-clearance]]
-- [[astrocyte]] to [[fluid-dynamics]]
-- [[obesity]] to [[protein-aggregation]]
-- [[cerebrospinal-fluid]] to [[lymphatic]]
+- sleep to waste-clearance
+- astrocyte to fluid-dynamics
+- [[obesity]] to protein-aggregation
+- cerebrospinal-fluid to lymphatic
 
 ## Notes
 

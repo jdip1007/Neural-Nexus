@@ -251,3 +251,15 @@ Scaling relationships help understand:
 - [scaling-laws](concepts/scaling-laws.md)
 - [lifespan](concepts/lifespan.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
+
+
+## See also
+
+- [[comparative-physiology]]
+- [[conservation-biology]]
+- [[geoffrey-west]]
+- [[lifespan]]
+- [[metabolic-scaling]]
+- [[relationships]]
+- [[scaling-laws]]
+- [[technology]]

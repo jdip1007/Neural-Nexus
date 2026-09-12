@@ -70,8 +70,8 @@ This video explores the lie of "positive thinking" through the lens of mental he
 
 - [[Mental Health Basics]]
 - [[Relationship Psychology]]
-- [[Personal Development Strategies]]
-- [[Healthy Gaming Habits]]
+- Personal Development Strategies
+- Healthy Gaming Habits
 
 ---
 *This page was auto-generated as part of the YouTube ingestion pipeline.*

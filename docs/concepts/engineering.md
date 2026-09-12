@@ -36,8 +36,8 @@ Engineering is the application of scientific and mathematical principles to desi
 ## Related Concepts
 
 - [technology](concepts/technology.md) - General technology concepts
-- [[innovation]] - New ideas and creative solutions
-- [[automation]] - Automated systems and processes
+- innovation - New ideas and creative solutions
+- automation - Automated systems and processes
 
 ---
 

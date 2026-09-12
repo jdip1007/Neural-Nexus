@@ -118,8 +118,8 @@ The Japanese Army has undergone significant transformation throughout history, e
 ## Related Topics
 
 - [military-structure](concepts/military-structure.md)
-- [[samurai-traditions]]
-- [[imperial-japan]]
-- [[military-history]]
-- [[east-asia-security]]
+- samurai-traditions
+- imperial-japan
+- military-history
+- east-asia-security
 - [infographics-show](entities/infographics-show.md)

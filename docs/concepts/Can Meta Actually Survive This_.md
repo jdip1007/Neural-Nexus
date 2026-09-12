@@ -35,14 +35,14 @@ This video from How Money Works explores technology and provides insights into m
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[financial-markets]] - Understanding market dynamics
+- financial-markets - Understanding market dynamics
 - [[economic-trends]] - Current economic analysis
-- [[investment-strategies]] - Smart investment approaches
+- investment-strategies - Smart investment approaches
 
 ## Sources
 
 **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
 **Video URL:** https://www.youtube.com/watch?v=4rmkiGMknpg
 **Video ID:** `4rmkiGMknpg`
-**Transcript:** [[raw/transcripts/how-money-works/Can Meta Actually Survive This_.md]]
+**Transcript:** raw/transcripts/how-money-works/Can Meta Actually Survive This-.md
 **Accessed:** 2026-09-04

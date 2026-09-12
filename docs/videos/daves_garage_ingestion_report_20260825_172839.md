@@ -28,8 +28,8 @@ backlinks: []
 
 ## Processed Videos
 
-- [[The Complete Guide to Home Automation Systems]] (ID: dave_garage_002)
-- [[DIY Smart Mirror: Building Your Own Assistant]] (ID: dave_garage_003)
-- [[Building a Custom Electric Vehicle from Scratch]] (ID: dave_garage_001)
-- [[Arduino vs Raspberry Pi: Which is Better?]] (ID: dave_garage_006)
-- [[Solar Power System for Your Workshop]] (ID: dave_garage_005)
+- The Complete Guide to Home Automation Systems (ID: dave_garage_002)
+- DIY Smart Mirror: Building Your Own Assistant (ID: dave_garage_003)
+- Building a Custom Electric Vehicle from Scratch (ID: dave_garage_001)
+- Arduino vs Raspberry Pi: Which is Better? (ID: dave_garage_006)
+- Solar Power System for Your Workshop (ID: dave_garage_005)

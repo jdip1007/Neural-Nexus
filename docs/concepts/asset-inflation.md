@@ -216,3 +216,15 @@ Asset inflation refers to the sustained increase in the prices of financial asse
 - [reverse-robin-hood-heist](concepts/reverse-robin-hood-heist.md)
 - [inheritance-trap](concepts/inheritance-trap.md)
 - [wealth-concentration](concepts/wealth-concentration.md)
+
+
+## See also
+
+- [[baby-boomers]]
+- [[cash-buyer-cartel]]
+- [[generational-wealth-transfer]]
+- [[infographics-show]]
+- [[inheritance-trap]]
+- [[interest-rate-policy]]
+- [[investment-vehicles]]
+- [[labor-market-changes]]

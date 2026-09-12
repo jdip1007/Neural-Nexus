@@ -32,7 +32,7 @@ Breaking down complex financial topics into understandable concepts. Learn about
 
 ## Key Topics
 
-[[Investing]], [[Budget]]
+[[investing]], Budget
 
 ## Key Concepts
 
@@ -44,7 +44,7 @@ Breaking down complex financial topics into understandable concepts. Learn about
 
 ## Related Pages
 
-- [[Finance]]
-- [[Investing]]
+- [[finance]]
+- [[investing]]
 - [[Economy]]
-- [[Business]]
+- [[business]]

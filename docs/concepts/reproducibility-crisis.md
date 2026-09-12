@@ -182,3 +182,11 @@ The crisis stems from fundamental inadequacies in how research outputs are docum
 
 - [knowledge-preservation](concepts/knowledge-preservation.md)
 - [neural-nexus](concepts/neural-nexus.md)
+
+
+## See also
+
+- [[architecture]]
+- [[hardware]]
+- [[knowledge-preservation]]
+- [[psychology]]

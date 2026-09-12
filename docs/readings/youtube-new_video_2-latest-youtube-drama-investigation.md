@@ -82,10 +82,10 @@ This Latest YouTube Drama Investigation provides an in-depth investigation into 
 ## Related Topics
 
 [[youtube]]
-[[content_creators]]
-[[social_media]]
-[[online_reputation]]
-[[internet_culture]]
+content-creators
+[[social-media]]
+[[online-reputation]]
+[[internet-culture]]
 
 ## External References
 

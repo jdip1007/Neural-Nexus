@@ -40,3 +40,11 @@ This video discusses "Dude I'm Broke" Why Is My Data Worth Harvesting?
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- youtube-6BOxK-JrghY-my-radar
+- youtube-6BOxK-JrghY-sam-altman
+- youtube--W3qPymBEBA-wall-street

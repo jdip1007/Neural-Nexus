@@ -37,7 +37,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=xWz2oqOqPHw
 **Video ID:** `xWz2oqOqPHw`
-**Transcript:** [[raw/transcripts/healthygamergg/We Need To Talk About Ozempic.md]]
+**Transcript:** raw/transcripts/healthygamergg/We Need To Talk About Ozempic.md
 **Accessed:** 2026-09-01
 
 ## Related

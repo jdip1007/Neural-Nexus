@@ -43,3 +43,11 @@ reviewed: 2026-07-31
 
 - [lifespan](concepts/lifespan.md)
 - [metabolic-scaling](concepts/metabolic-scaling.md)
+
+
+## See also
+
+- [[ecology]]
+- [[lifespan]]
+- [[metabolic-scaling]]
+- [[relationships]]

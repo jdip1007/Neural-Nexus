@@ -32,7 +32,7 @@ This is a mock transcript for video example7.
 ## Key Topics
 
 - [[internet culture]]
-- [[content creation]]
+- [[content-creation]]
 - [[social media]]
 - [[online reputation]]
 - [[digital identity]]

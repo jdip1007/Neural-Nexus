@@ -34,3 +34,11 @@ This video discusses What Caused the Catastrophic Nuclear Accident in Chernobyl?
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[infographics-show]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-tFo-0eEt1IY-chernobyl-exclusion
+- youtube-tFo-0eEt1IY-european-union

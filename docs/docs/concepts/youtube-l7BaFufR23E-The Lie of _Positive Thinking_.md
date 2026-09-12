@@ -37,7 +37,7 @@ This video from HealthyGamerGG explores cognitive psychology and positive thinki
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=l7BaFufR23E
 **Video ID:** `l7BaFufR23E`
-**Transcript:** [[raw/transcripts/healthygamergg/The Lie of _Positive Thinking_.md]]
+**Transcript:** raw/transcripts/healthygamergg/The Lie of -Positive Thinking-.md
 **Accessed:** 2026-09-03
 
 ## Related

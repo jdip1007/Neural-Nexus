@@ -220,17 +220,17 @@ Behaviors are not random—they reflect unmet needs, feelings, or responses to e
 - [natasha-lane](entities/natasha-lane.md)
 - [dallas-seitz](entities/dallas-seitz.md)
 - [zahra-goodarzi](entities/zahra-goodarzi.md)
-- [[person-centered-dementia-care]]
-- [[dementia]]
+- person-centered-dementia-care
+- dementia
 
 ## Related Concepts
 
 - [bpsd](concepts/bpsd.md)
-- [[nonpharmacologic-interventions]]
-- [[deprescribing]]
-- [[dementia-care-models]]
-- [[neuropsychiatric-symptoms]]
-- [[psychosocial-interventions]]
+- nonpharmacologic-interventions
+- deprescribing
+- dementia-care-models
+- neuropsychiatric-symptoms
+- psychosocial-interventions
 
 ## Takeaways
 

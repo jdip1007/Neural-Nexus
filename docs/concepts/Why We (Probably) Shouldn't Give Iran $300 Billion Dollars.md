@@ -37,14 +37,14 @@ This video from How Money Works explores international-finance and provides insi
 ## Related Concepts
 
 <!-- Link to related concepts in the wiki -->
-- [[financial-markets]] - Understanding market dynamics
+- financial-markets - Understanding market dynamics
 - [[economic-trends]] - Current economic analysis
-- [[investment-strategies]] - Smart investment approaches
+- investment-strategies - Smart investment approaches
 
 ## Sources
 
 **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
 **Video URL:** https://www.youtube.com/watch?v=Ts26T7AEHS8
 **Video ID:** `Ts26T7AEHS8`
-**Transcript:** [[raw/transcripts/how-money-works/Why We (Probably) Shouldn't Give Iran $300 Billion Dollars.md]]
+**Transcript:** raw/transcripts/how-money-works/Why We (Probably) Shouldn't Give Iran $300 Billion Dollars.md
 **Accessed:** 2026-09-04

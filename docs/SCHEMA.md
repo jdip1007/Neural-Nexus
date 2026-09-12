@@ -92,6 +92,8 @@ transcript_available: true
 ## Taxonomy
 
 ### Core Topics
+entity
+persons
 youtube
 youtube-creator
 educational-content

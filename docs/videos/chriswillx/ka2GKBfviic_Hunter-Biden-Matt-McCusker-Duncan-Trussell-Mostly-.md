@@ -68,6 +68,6 @@ This video explores various topics related to relationships, psychology, technol
 
 ## Related Pages
 
-- [[Chris Willx]] - Main channel page
+- [[chris-willx]] - Main channel page
 - [[Philosophy]] - General philosophy topics
 - [Psychology](concepts/psychology.md) - Psychological concepts discussed

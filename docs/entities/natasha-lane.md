@@ -41,9 +41,9 @@ Natasha Lane's research centers on:
 ## Related Concepts
 
 - [bpsd](concepts/bpsd.md)
-- [[dementia]]
-- [[geriatric-medicine]]
-- [[healthy-aging]]
+- dementia
+- geriatric-medicine
+- healthy-aging
 
 ## Key Publications
 

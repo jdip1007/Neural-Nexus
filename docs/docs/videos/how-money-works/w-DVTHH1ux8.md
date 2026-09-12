@@ -37,14 +37,14 @@ Analysis of  - How Money Works financial commentary
 
 ## Key Topics
 
-- [[Finance]]
-- [[Investing]]
-- [[Economics]]
-- [[Business]]
+- [[finance]]
+- [[investing]]
+- [[economics]]
+- [[business]]
 
 ## Keywords
 
 - [[MarketAnalysis]]
 - [[Investment]]
-- [[Economics]]
-- [[Finance]]
+- [[economics]]
+- [[finance]]

@@ -304,3 +304,14 @@ Based on the van der Laan et al. (2025) study:
 3. Vassos, E., et al. (2017). Genetic linkage analysis in families with schizophrenia using polygenic risk scores. *Nature Neuroscience*, 20(2), 208-216. https://doi.org/10.1038/nn.4475
 
 4. Dudbridge, F. (2013). Power and predictive accuracy of polygenic risk scores. *Genetic Epidemiology*, 37(5), 515-526. https://doi.org/10.1002/gepi.21708
+
+## See also
+
+- [[algorithm]]
+- [[architecture]]
+- [[clinical-utility]]
+- [[heritability]]
+- [[lifespan]]
+- [[psychiatric-comorbidity]]
+- [[quality-control]]
+- [[risk-assessment]]

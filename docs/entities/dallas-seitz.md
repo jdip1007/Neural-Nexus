@@ -42,10 +42,10 @@ Dallas Seitz's research centers on:
 ## Related Concepts
 
 - [bpsd](concepts/bpsd.md)
-- [[dementia]]
-- [[geriatric-psychiatry]]
-- [[neuropsychiatric-symptoms]]
-- [[psychosis]]
+- dementia
+- geriatric-psychiatry
+- neuropsychiatric-symptoms
+- psychosis
 
 ## Key Publications
 

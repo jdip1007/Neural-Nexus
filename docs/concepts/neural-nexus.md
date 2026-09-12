@@ -29,7 +29,7 @@ Three-layer structure:
 ## Key Features
 
 - 6 content types with creation thresholds
-- `[[wikilink]]` interlinking (Obsidian-style, server-side rendering via MkDocs hook)
+- `wikilink` interlinking (Obsidian-style, server-side rendering via MkDocs hook)
 - Interactive D3.js knowledge graph
 - Full-text search
 - Citation enforcement (readings/findings must cite sources)
@@ -57,3 +57,10 @@ Three-layer structure:
 - [concepts/molecular-biology](concepts/molecular-biology.md)
 - [references/setup-guide](references/setup-guide.md)
 - [references/writing-guide](references/writing-guide.md)
+
+
+## See also
+
+- [[architecture]]
+- [[knowledge-preservation]]
+- [[reproducibility-crisis]]

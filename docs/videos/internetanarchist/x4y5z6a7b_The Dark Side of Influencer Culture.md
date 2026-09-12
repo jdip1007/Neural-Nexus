@@ -29,9 +29,9 @@ This video explores internet culture, YouTube trends, and the dynamics of conten
 
 ## Key Concepts
 
-- [[Mental Health]]
-- [[Influencer Culture]]
-- [[Digital Privacy]]
+- [[mental-health]]
+- Influencer Culture
+- Digital Privacy
 
 ## Transcript Content
 
@@ -67,10 +67,10 @@ This examination serves as an important counterpoint to the glamorous portrayal 
 
 ## Related Resources
 
-- [[Internet Culture]]
-- [[Content Creation]]
+- [[internet-culture]]
+- [[content-creation]]
 - [[YouTube Algorithm]]
-- [[Digital Media]]
+- [[digital-media]]
 - [[Social Media Trends]]
 
 ## Citations

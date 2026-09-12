@@ -198,8 +198,8 @@ Military structure refers to the organizational framework and hierarchical syste
 ## Related Topics
 
 - [military-training](concepts/military-training.md)
-- [[leadership-development]]
-- [[organizational-behavior]]
-- [[chain-of-command]]
-- [[military-hierarchy]]
-- [[combat-readiness]]
+- leadership-development
+- organizational-behavior
+- chain-of-command
+- military-hierarchy
+- combat-readiness

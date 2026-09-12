@@ -32,7 +32,7 @@ title: The Most Satisfying Downfalls In YouTube History video_id: 4OoN-eLshD4 so
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/4OoN-eLshD4.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/4OoN-eLshD4.md for the complete transcript.
 
 ## Related Topics
 

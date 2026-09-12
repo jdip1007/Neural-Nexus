@@ -89,3 +89,14 @@ Ethernet remains the foundation of most local area networks. Understanding its p
 ---
 
 *This page was auto-generated from Dave's Garage YouTube video: https://www.youtube.com/watch?v=7vzjIv2l6wY*
+
+
+## See also
+
+- [[hardware]]
+- [[networking]]
+- [[technology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
+- [[youtube-ecBEqWeipWs-the-world]]

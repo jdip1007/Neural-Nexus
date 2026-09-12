@@ -24,11 +24,11 @@ updated: '2026-09-02'
 
 ## Key Topics
 
-- [[neuroscience]]
+- neuroscience
 - [mental-health](concepts/mental-health.md)
-- [[brain-function]]
-- [[neuroplasticity]]
-- [[evidence-based-treatment]]
+- brain-function
+- neuroplasticity
+- evidence-based-treatment
 
 ## Summary
 
@@ -36,15 +36,15 @@ This video explores various aspects of mental health, personal development, and 
 
 ## Main Themes
 
-- [[mental-wellbeing]]
-- [[professional-guidance]]
-- [[realistic-expectations]]
+- mental-wellbeing
+- professional-guidance
+- realistic-expectations
 
 ## Notable Entities
 
-- [[Dr. K]]
-- [[mental-health-professionals]]
-- [[neuroscience]]
+- [[dr-k]]
+- mental-health-professionals
+- neuroscience
 
 ## Key Insights
 

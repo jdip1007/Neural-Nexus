@@ -19,7 +19,7 @@ domain: general
 
 # Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman
 
-[[philosophy]], [[health]]
+[[philosophy]], health
 
 ## Transcript
 

@@ -92,7 +92,7 @@ The Marine Corps training approach is built on several key principles:
 ## Related Concepts
 
 - [military-structure](concepts/military-structure.md)
-- [[amphibious-operations]]
-- [[combat-fitness]]
-- [[leadership-military]]
+- amphibious-operations
+- combat-fitness
+- leadership-military
 - [infographics-show](entities/infographics-show.md)

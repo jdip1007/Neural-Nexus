@@ -33,7 +33,7 @@ Examining the intersection of technology and finance. How digital innovations ar
 
 ## Key Topics
 
-[[Money]], [[Investing]], [[Finance]]
+money, [[investing]], [[finance]]
 
 ## Key Concepts
 
@@ -45,7 +45,7 @@ Examining the intersection of technology and finance. How digital innovations ar
 
 ## Related Pages
 
-- [[Finance]]
-- [[Investing]]
+- [[finance]]
+- [[investing]]
 - [[Economy]]
-- [[Business]]
+- [[business]]

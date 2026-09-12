@@ -53,3 +53,12 @@ We believed that microbes essentially followed a
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[architecture]]
+- [[youtube-Sdr-ZCs1yzU-bloom-lab]]
+- [[youtube-Sdr-ZCs1yzU-jesse-bloom]]
+- [[youtube-Sdr-ZCs1yzU-saudi-arabia]]
+- [[youtube-ahDC1sQCDzY-in-the]]

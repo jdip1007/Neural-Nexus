@@ -39,7 +39,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=919XuYNqyjw
 **Video ID:** `919XuYNqyjw`
-**Transcript:** [[raw/transcripts/healthygamergg/Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why You Freeze Up When You Talk to Women - Lovemaxxing w- Dr. K.md
 **Accessed:** 2026-09-04
 
 ## Related

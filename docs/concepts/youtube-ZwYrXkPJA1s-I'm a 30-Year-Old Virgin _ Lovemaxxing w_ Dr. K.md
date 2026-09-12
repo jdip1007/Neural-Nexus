@@ -40,7 +40,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=ZwYrXkPJA1s
 **Video ID:** `ZwYrXkPJA1s`
-**Transcript:** [[raw/transcripts/healthygamergg/I'm a 30-Year-Old Virgin _ Lovemaxxing w_ Dr. K.md]]
+**Transcript:** raw/transcripts/healthygamergg/I'm a 30-Year-Old Virgin - Lovemaxxing w- Dr. K.md
 **Accessed:** 2026-09-05
 
 ## Related

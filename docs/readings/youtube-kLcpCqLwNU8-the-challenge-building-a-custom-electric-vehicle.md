@@ -50,3 +50,15 @@ Documenting the process of building a custom electric vehicle from scratch, Dave
 ---
 
 *This page was automatically generated as part of the Neural Nexus YouTube ingestion process.*
+
+
+## See also
+
+- [[automotive]]
+- [[engineering]]
+- [[networking]]
+- [[neural-nexus]]
+- [[programming]]
+- [[technology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

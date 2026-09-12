@@ -78,3 +78,14 @@ This video from Dave's Garage explores tutorial, assembly, diy and related conce
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
+
+
+## See also
+
+- [[daves-garage]]
+- [[engineering]]
+- [[hardware]]
+- [[networking]]
+- [[programming]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

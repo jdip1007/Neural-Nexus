@@ -205,7 +205,18 @@ Genes are enriched in:
 - [executive-function](concepts/executive-function.md) - Cognitive domains affected by ADHD
 - [heritability](concepts/heritability.md) - Genetic inheritance patterns in psychiatry
 - [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) - Comorbidity patterns with other disorders
-- [[neurodevelopment]] - Developmental aspects of brain function
+- neurodevelopment - Developmental aspects of brain function
 
 ## References
 - van der Laan, C. M. et al. (2025). Genome-wide association meta-analysis of childhood ADHD symptoms and diagnosis identifies new loci and potential effector genes. *Nature Genetics*, 57, 2427–2435. https://doi.org/10.1038/s41588-025-02295-y
+
+## See also
+
+- [[adhd]]
+- [[clinical-utility]]
+- [[executive-function]]
+- [[heritability]]
+- [[polygenic-scores]]
+- [[psychiatric-comorbidity]]
+- [[relationships]]
+- [[youtube-ahDC1sQCDzY-in-the]]

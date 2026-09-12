@@ -141,3 +141,15 @@ Generational wealth transfer refers to the movement of assets, property, and fin
 - [reverse-robin-hood-heist](concepts/reverse-robin-hood-heist.md)
 - [wealth-concentration](concepts/wealth-concentration.md)
 - [asset-inflation](concepts/asset-inflation.md)
+
+
+## See also
+
+- [[asset-inflation]]
+- [[baby-boomers]]
+- [[cash-buyer-cartel]]
+- [[demographic-economic-impact]]
+- [[demographic-wall]]
+- [[economic-inequality]]
+- [[housing-market-dynamics]]
+- [[infographics-show]]

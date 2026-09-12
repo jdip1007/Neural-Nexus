@@ -141,11 +141,11 @@ Technology is a broad field that encompasses everything from simple tools to com
 
 ## Related Pages
 
-- [[Dave's Garage]] - Technology tutorials and projects
+- Dave's Garage - Technology tutorials and projects
 - [Programming](concepts/programming.md) - Software development
 - [Hardware](concepts/hardware.md) - Computer hardware components
 - [Networking](concepts/networking.md) - Communication systems
-- [[Innovation]] - Technology development and breakthroughs
+- Innovation - Technology development and breakthroughs
 
 ## External Resources
 

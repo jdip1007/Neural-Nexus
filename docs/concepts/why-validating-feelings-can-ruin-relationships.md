@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores why 'validating feelings' can ruin rel
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why _Validating Feelings_ Can Ruin Relationships.md]]
+**Original Page:** Why -Validating Feelings- Can Ruin Relationships.md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -47,3 +47,10 @@ This content from HealthyGamerGG explores why 'validating feelings' can ruin rel
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[psychology]]
+- [[relationships]]
+- [[youtube-ahDC1sQCDzY-in-the]]

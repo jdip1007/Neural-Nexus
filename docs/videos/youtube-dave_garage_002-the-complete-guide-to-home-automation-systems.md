@@ -33,21 +33,21 @@ backlinks: []
 
 ## Video Overview
 
-This page documents content from Dave's Garage YouTube channel: [[dave-garage-channel]]. The video explores Robotics, Diy, Home Automation, Workshop.
+This page documents content from Dave's Garage YouTube channel: dave-garage-channel. The video explores Robotics, Diy, Home Automation, Workshop.
 
 ### Key Information
 - **Video ID**: dave_garage_002
 - **Published**: 2026-08-18
 - **Duration**: 38 minutes
-- **Source**: [[youtube-dave-garage-channel]]
+- **Source**: youtube-dave-garage-channel
 
 ## Key Concepts and Topics
 
 ### Key Technical Concepts
 
-- [[automation]]
-- [[mechanical-engineering]]
-- [[control-systems]]
+- automation
+- mechanical-engineering
+- control-systems
 
 These concepts are explored in depth throughout the video.
 
@@ -89,10 +89,10 @@ This analysis helps categorize the content for better knowledge organization.
 
 ### Related Pages
 
-- [[automation]]
-- [[mechanical-engineering]]
-- [[control-systems]]
-- [[automation]]
+- automation
+- mechanical-engineering
+- control-systems
+- automation
 - [engineering](concepts/engineering.md)
 
 ## Sources

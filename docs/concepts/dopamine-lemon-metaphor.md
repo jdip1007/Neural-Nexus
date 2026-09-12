@@ -115,10 +115,19 @@ If you start with brain rot, you won't "feel motivated later." You'll feel deple
 ## Related Concepts
 
 - [brain-rot](concepts/brain-rot.md): High-dopamine content that exploits this circuit
-- [[artificial-brain-circuit-activation]]: How modern content hacks survival circuits
+- artificial-brain-circuit-activation: How modern content hacks survival circuits
 - [dopamine-tolerance](concepts/dopamine-tolerance.md): Long-term receptor downregulation (different from daily depletion)
 
 ## Sources
 
 - ^[raw/videos/why-brain-rot-is-so-addictive.md] — Dr K (Healthy Gamer), "Why Brain Rot is So Addictive"
 - Nucleus accumbens dopamine function — General neuroscience research
+
+## See also
+
+- [[brain-rot]]
+- [[dopamine-tolerance]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-YQQMF8ibxVw-when-you]]
+- [[youtube-ahDC1sQCDzY-in-the]]

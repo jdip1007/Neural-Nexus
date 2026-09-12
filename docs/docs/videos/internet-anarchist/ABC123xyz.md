@@ -25,10 +25,10 @@ Analysis of Blockchain and Anarchism - Internet Anarchist documentary style cont
 ## Key Topics
 - [internet-culture](internet-culture.md)
 - [social-media](social-media.md)
-- [[content-analysis]]
-- [[digital-privacy]]
-- [[cybersecurity]]
-- [[online-activism]]
+- content-analysis
+- digital-privacy
+- cybersecurity
+- online-activism
 
 ## Transcript Excerpt
 Blockchain technology offers new possibilities for decentralized systems that don't rely on central authorities. This has profound implications for how we organize society, from financial systems to social networks and beyond.

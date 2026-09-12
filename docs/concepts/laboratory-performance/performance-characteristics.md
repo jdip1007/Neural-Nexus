@@ -43,9 +43,19 @@ Metrics used to evaluate and validate laboratory methods and diagnostic tests.
 - [qpcr-performance-characteristics](concepts/laboratory-performance/qpcr-performance-characteristics.md)
 - [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
 - [roc-analysis](concepts/roc-analysis.md)
-- [[clinical-validation]]
+- clinical-validation
 
 ## Related Pages
 
 - [diagnostic-accuracy](concepts/diagnostic-accuracy.md)
 - [qpcr](concepts/laboratory-methods/qpcr.md)
+
+
+## See also
+
+- [[diagnostic-accuracy]]
+- [[laboratory-validation]]
+- [[method-comparison]]
+- [[qpcr-performance-characteristics]]
+- [[statistical-analysis]]
+- [[youtube-WNSZ6xouNv4-used-to]]

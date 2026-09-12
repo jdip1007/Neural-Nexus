@@ -218,3 +218,14 @@ This video informed the following concepts:
 ## Source
 
 - YouTube: "Terminal Boredom and Endstage Screen Addiction" by Healthy Gamer Dr K — [watch](https://www.youtube.com/watch?v=OwlXbUYDf0w)
+
+## See also
+
+- [[algorithm]]
+- [[dopamine-tolerance]]
+- [[executive-function]]
+- [[executive-function-rust]]
+- [[impulse-control-atrophy]]
+- [[mental-health]]
+- [[neural-nexus]]
+- [[terminal-boredom]]

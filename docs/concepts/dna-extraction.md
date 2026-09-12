@@ -121,3 +121,13 @@ Modern DNA extraction has evolved significantly:
 - [sample-preparation](concepts/sample-preparation.md)
 - [molecular-biology](concepts/molecular-biology.md)
 - [genomics](concepts/genomics.md)
+
+
+## See also
+
+- [[environmental-dna-analysis]]
+- [[genomics]]
+- [[molecular-biology]]
+- [[quality-control]]
+- [[sample-preparation]]
+- [[youtube-17rJSSzto4U-how-to]]

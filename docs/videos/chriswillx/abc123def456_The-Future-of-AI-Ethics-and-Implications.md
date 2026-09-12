@@ -60,7 +60,7 @@ Overall, the conversation provides a balanced view of AI's potential future, emp
 
 [technology](concepts/technology.md)
 [[philosophy]]
-[[health]]
+health
 [[economics]]
 [AI](concepts/ai.md)
 

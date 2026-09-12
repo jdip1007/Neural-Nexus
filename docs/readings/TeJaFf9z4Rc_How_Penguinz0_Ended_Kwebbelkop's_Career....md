@@ -27,17 +27,17 @@ This video explores content-creation, internet-culture through the lens of inter
 
 ## Key Topics
 
-- [[Content Creation]]
-- [[Internet Culture]]
+- [[content-creation]]
+- [[internet-culture]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
 
 ## Related Concepts
 
-- [[Digital Media]]
-- [[Digital Society]]
+- [[digital-media]]
+- Digital Society
 
 ## External Links
 
@@ -46,6 +46,6 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 ## Categories
 
-- [[YouTube]]
-- [[Internet Culture]]
-- [[Digital Media]]
+- [[youtube]]
+- [[internet-culture]]
+- [[digital-media]]

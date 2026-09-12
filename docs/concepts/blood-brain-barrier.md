@@ -163,9 +163,9 @@ The [blood-brain-barrier](concepts/blood-brain-barrier.md) (BBB) is a specialize
 ### Clinical Implications
 
 BBB breakdown is a early and progressive event in:
-- [[alzheimers-disease]]: Amyloid-β accumulation, inflammation
-- [[vascular-dementia]]: Chronic hypoperfusion, vessel damage
-- [[multiple-sclerosis]]: Immune cell infiltration
+- alzheimers-disease: Amyloid-β accumulation, inflammation
+- vascular-dementia: Chronic hypoperfusion, vessel damage
+- multiple-sclerosis: Immune cell infiltration
 - Cognitive decline in diabetes and obesity
 
 ## Therapeutic Approaches
@@ -234,10 +234,10 @@ BBB breakdown is a early and progressive event in:
 ## Graph Impact
 
 This concept connects:
-- [[vascular]] to [[neuron]]
-- [[peripheral-immune]] to [[central-immune]]
+- vascular to neuron
+- peripheral-immune to central-immune
 - [[obesity]] to [neuroinflammation](concepts/neuroinflammation.md)
-- [[drug-delivery]] to [[brain-treatment]]
+- drug-delivery to brain-treatment
 
 ## Notes
 

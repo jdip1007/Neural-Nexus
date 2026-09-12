@@ -50,3 +50,15 @@ Yong Li is a researcher at Tsinghua University's BNRist and Zhongguancun Academy
 
 - [fengli-xu](entities/fengli-xu.md)
 - [james-evans](entities/james-evans.md)
+
+
+## See also
+
+- [[ai]]
+- [[ai-therapy-is-making-you-mentally-weak]]
+- [[dangerous-person-2-0-research-project]]
+- [[engineering]]
+- [[fengli-xu]]
+- [[james-evans]]
+- [[knowledge-preservation]]
+- [[relationships]]

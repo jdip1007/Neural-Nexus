@@ -46,3 +46,12 @@ challenges in domains
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-WCMFdrTGAEY-cognitive-sciences]]
+- [[youtube-WCMFdrTGAEY-financial-systems]]
+- [[youtube-WCMFdrTGAEY-khan-academy]]

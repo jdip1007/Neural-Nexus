@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=7afNvogg9kQ
 **Video ID:** `7afNvogg9kQ`
-**Transcript:** [[raw/transcripts/healthygamergg/Thoughts Your Therapist Has, But Doesn't Tell You.md]]
+**Transcript:** raw/transcripts/healthygamergg/Thoughts Your Therapist Has, But Doesn't Tell You.md
 **Accessed:** 2026-09-03
 
 ## Related

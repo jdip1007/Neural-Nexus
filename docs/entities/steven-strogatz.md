@@ -43,3 +43,9 @@ reviewed: 2026-07-31
 - [entities/geoffrey-west](entities/geoffrey-west.md)
 - [entities/peter-sheridan-dodds](entities/peter-sheridan-dodds.md)
 - [entities/james-brown](entities/james-brown.md)
+
+
+## See also
+
+- [[geoffrey-west]]
+- [[urban-scaling]]

@@ -84,12 +84,12 @@ This How Penguinz0 Destroyed YouTube's Worst Content Thief provides an in-depth 
 ## Related Topics
 
 [[youtube]]
-[[content_creators]]
-[[exposure]]
-[[controversy]]
-[[social_media]]
-[[online_reputation]]
-[[internet_culture]]
+content-creators
+exposure
+controversy
+[[social-media]]
+[[online-reputation]]
+[[internet-culture]]
 
 ## External References
 

@@ -238,7 +238,7 @@ Based on current research:
 
 - [polygenic-scores](concepts/polygenic-scores.md) - Using genetic information for risk prediction
 - [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Specific genetic variants associated with ADHD
-- [[genetic-epidemiology]] - Study of genetic factors in populations
+- genetic-epidemiology - Study of genetic factors in populations
 - [statistical-genetics](concepts/statistical-genetics.md) - Statistical methods in genetic research
 
 ## References
@@ -250,3 +250,10 @@ Based on current research:
 3. Visscher, P. M., et al. (2014). 10 years of GWAS discovery: biology, function, and translation. *American Journal of Human Genetics*, 94(1), 8-14. https://doi.org/10.1016/j.ajhg.2013.11.012
 
 4. Posthuma, D., & Polderman, T. J. (2013). Design and analysis of twin studies. *Neuropsychology Review*, 23(1), 107-120. https://doi.org/10.1007/s11065-012-9219-0
+
+## See also
+
+- [[architecture]]
+- [[psychiatric-comorbidity]]
+- [[risk-assessment]]
+- [[statistical-genetics]]

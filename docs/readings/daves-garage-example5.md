@@ -90,3 +90,13 @@ This project demonstrates the principles of the challenge: can we build notepad 
 ---
 
 *This page was auto-generated from Dave's Garage YouTube video: https://www.youtube.com/watch?v=example5*
+
+
+## See also
+
+- [[hardware]]
+- [[lifespan]]
+- [[performance-characteristics]]
+- [[programming]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

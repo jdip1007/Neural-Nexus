@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores mindset development and peak performance
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=Wu7zcamEAI0
 **Video ID:** `Wu7zcamEAI0`
-**Transcript:** [[raw/transcripts/healthygamergg/How To Actually Have An Elite Mindset.md]]
+**Transcript:** raw/transcripts/healthygamergg/How To Actually Have An Elite Mindset.md
 **Accessed:** 2026-09-03
 
 ## Related

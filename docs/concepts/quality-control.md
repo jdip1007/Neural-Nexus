@@ -54,3 +54,14 @@ Under CLIA, laboratories must establish and follow written QC procedures for eac
 
 - [performance-characteristics](concepts/laboratory-performance/performance-characteristics.md)
 - [regulatory-compliance](concepts/regulatory-compliance.md)
+
+
+## See also
+
+- [[clia-waived-tests]]
+- [[laboratory-director]]
+- [[performance-characteristics]]
+- [[regulatory-compliance]]
+- [[sample-preparation]]
+- [[youtube-WNSZ6xouNv4-used-to]]
+- [[youtube-ahDC1sQCDzY-in-the]]

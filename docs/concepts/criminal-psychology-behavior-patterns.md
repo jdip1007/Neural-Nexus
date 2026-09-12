@@ -266,3 +266,15 @@ The concept demonstrates how psychological insights can improve understanding, p
 - [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md)
 - [dna-evidence-hong-kong-legal-system](concepts/dna-evidence-hong-kong-legal-system.md)
 - [dangerous-person-2-0-research-project](concepts/dangerous-person-2-0-research-project.md)
+
+
+## See also
+
+- [[criminal-psychology]]
+- [[dna-evidence-hong-kong-legal-system]]
+- [[neural-nexus]]
+- [[psychology]]
+- [[relationships]]
+- [[risk-assessment]]
+- [[serial-killers]]
+- [[youtube-ahDC1sQCDzY-in-the]]

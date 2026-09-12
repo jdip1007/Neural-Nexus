@@ -49,14 +49,14 @@ tags: []
 
 <!-- People, orgs, tools, projects. Link to entity pages if they exist, otherwise just name them. -->
 
-- [[entity-name]] — who/what, role in this source
+- entity-name — who/what, role in this source
 - 
 
 ## Concepts Referenced
 
 <!-- Technical concepts, theories, frameworks. Link to concept pages if they exist. -->
 
-- [[concept-name]] — how it's used in this source
+- concept-name — how it's used in this source
 - 
 
 ## My Takeaways

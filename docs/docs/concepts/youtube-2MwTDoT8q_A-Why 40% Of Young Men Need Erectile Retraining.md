@@ -37,7 +37,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=2MwTDoT8q_A
 **Video ID:** `2MwTDoT8q_A`
-**Transcript:** [[raw/transcripts/healthygamergg/Why 40% Of Young Men Need Erectile Retraining.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why 40% Of Young Men Need Erectile Retraining.md
 **Accessed:** 2026-08-31
 
 ## Related

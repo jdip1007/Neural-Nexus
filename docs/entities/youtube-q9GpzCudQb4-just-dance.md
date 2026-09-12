@@ -31,3 +31,10 @@ Mentioned in the context of research and development.
 - [entities/youtube-q9GpzCudQb4-but-ubisoft](entities/youtube-q9GpzCudQb4-but-ubisoft.md)
 - [entities/youtube-q9GpzCudQb4-minimum-viable](entities/youtube-q9GpzCudQb4-minimum-viable.md)
 - [entities/youtube-q9GpzCudQb4-qin-dynasty](entities/youtube-q9GpzCudQb4-qin-dynasty.md)
+
+
+## See also
+
+- [[youtube-ZwYrXkPJA1s-ivy-league]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

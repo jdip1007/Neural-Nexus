@@ -39,7 +39,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=ZwYrXkPJA1s
 **Video ID:** `ZwYrXkPJA1s`
-**Transcript:** [[raw/transcripts/healthygamergg/Why Modern Dating Feels Like Parenting _ Lovemaxxing w_ Dr. K.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why Modern Dating Feels Like Parenting - Lovemaxxing w- Dr. K.md
 **Accessed:** 2026-09-01
 
 ## Related

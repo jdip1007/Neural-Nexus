@@ -81,11 +81,11 @@ This Online Predator Bust - New Evidence provides an in-depth investigation into
 
 ## Related Topics
 
-[[scams]]
-[[internet_safety]]
-[[social_media]]
-[[online_reputation]]
-[[internet_culture]]
+scams
+internet-safety
+[[social-media]]
+[[online-reputation]]
+[[internet-culture]]
 
 ## External References
 

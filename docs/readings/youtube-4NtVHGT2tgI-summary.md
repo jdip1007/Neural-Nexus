@@ -43,7 +43,7 @@ hunt for UFOs
 - [container](concepts/container.md)
 - [architecture](concepts/architecture.md)
 - [api](concepts/api.md)
-- [[machine-learning]]
+- machine-learning
 - [ai](concepts/ai.md)
 
 ## Transcript Highlights
@@ -58,3 +58,15 @@ remain unexplained. That tiny fraction is where
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[architecture]]
+- [[container]]
+- [[youtube-4NtVHGT2tgI-blue-book]]
+- [[youtube-4NtVHGT2tgI-intelligence-institute]]
+- [[youtube-4NtVHGT2tgI-spider-county]]
+- [[youtube-4NtVHGT2tgI-the-milky]]
+- [[youtube-D-uK2Xs6D9s-the-pentagon]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

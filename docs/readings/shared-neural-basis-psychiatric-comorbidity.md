@@ -142,3 +142,15 @@ The NP factor's specificity to executive function (not all cognition) is clinica
 - [executive-function](concepts/executive-function.md)
 - [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md)
 - [adhd](concepts/adhd.md)
+
+
+## See also
+
+- [[architecture]]
+- [[executive-function]]
+- [[executive-function-rust]]
+- [[knowledge-preservation]]
+- [[neuropsychopathological-factor]]
+- [[psychiatric-comorbidity]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-WNSZ6xouNv4-and-that]]

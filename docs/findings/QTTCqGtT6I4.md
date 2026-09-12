@@ -35,6 +35,6 @@ This video covers 0 main topics:
 Key concepts identified: 
 
 ## Related Pages
-- [[Dave's Garage]]
-- [[YouTube]]
+- Dave's Garage
+- [[youtube]]
 - [Technology](concepts/technology.md)

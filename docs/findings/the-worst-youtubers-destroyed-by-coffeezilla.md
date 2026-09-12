@@ -30,7 +30,7 @@ title: The Worst YouTubers Destroyed by CoffeeZilla video_id: hZART9r8rqs source
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/hZART9r8rqs.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/hZART9r8rqs.md for the complete transcript.
 
 ## Related Topics
 

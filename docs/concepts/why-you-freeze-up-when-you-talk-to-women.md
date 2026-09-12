@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores why you freeze up when you talk to wom
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K.md]]
+**Original Page:** Why You Freeze Up When You Talk to Women - Lovemaxxing w- Dr. K.md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -47,3 +47,11 @@ This content from HealthyGamerGG explores why you freeze up when you talk to wom
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[psychology]]
+- [[relationships]]
+- [[youtube-YQQMF8ibxVw-when-you]]
+- [[youtube-ahDC1sQCDzY-in-the]]

@@ -32,7 +32,7 @@ title: The Satisfying Downfall of Nas Daily video_id: gcx2jMbBGY4 source: https:
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/gcx2jMbBGY4.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/gcx2jMbBGY4.md for the complete transcript.
 
 ## Related Topics
 

@@ -252,4 +252,15 @@ The findings provide a solid foundation for future research into ADHD biology an
 - [executive-function](concepts/executive-function.md) - Cognitive function affected by ADHD
 - [psychiatric-comorbidity](concepts/psychiatric-comorbidity.md) - Comorbidity patterns with other disorders
 - [heritability](concepts/heritability.md) - Genetic inheritance patterns in psychiatry
-- [[neuropsychopathology]] - Brain basis of psychiatric disorders
+- neuropsychopathology - Brain basis of psychiatric disorders
+
+## See also
+
+- [[adhd]]
+- [[adhd-risk-genes-effect-sizes]]
+- [[architecture]]
+- [[camiel-m-van-der-laan]]
+- [[heritability]]
+- [[polygenic-scores]]
+- [[psychiatric-comorbidity]]
+- [[quality-control]]

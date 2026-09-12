@@ -197,8 +197,8 @@ Career military refers to individuals who pursue military service as a long-term
 ## Related Topics
 
 - [military-training](concepts/military-training.md)
-- [[leadership-development]]
+- leadership-development
 - [military-structure](concepts/military-structure.md)
-- [[military-hierarchy]]
-- [[professional-development]]
-- [[career-planning]]
+- military-hierarchy
+- professional-development
+- career-planning

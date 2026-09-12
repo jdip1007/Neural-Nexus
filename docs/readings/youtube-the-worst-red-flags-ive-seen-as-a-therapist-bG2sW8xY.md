@@ -38,30 +38,30 @@ Dr. K provides insights based on his therapeutic experience and research in psyc
 - [mental-health](concepts/mental-health.md)
 - [psychology](concepts/psychology.md)
 - [relationships](concepts/relationships.md)
-- [[addiction]]
-- [[trauma]]
+- addiction
+- trauma
 - [[self-improvement]]
 - [[therapy]]
 - [[anxiety]]
-- [[confidence]]
-- [[dating]]
-- [[medication]]
-- [[cognitive-behavioral-therapy]]
+- confidence
+- dating
+- medication
+- cognitive-behavioral-therapy
 
 ## Key Concepts
 
-- [[existential-dread]]
-- [[red-flags]]
-- [[mental-health-treatment]]
-- [[relationship-dynamics]]
-- [[addiction-recovery]]
-- [[trauma-response]]
-- [[self-awareness]]
+- existential-dread
+- red-flags
+- mental-health-treatment
+- relationship-dynamics
+- addiction-recovery
+- trauma-response
+- self-awareness
 - [[emotional-regulation]]
-- [[cognitive-distortions]]
-- [[attachment-theory]]
-- [[neuroplasticity]]
-- [[therapeutic-techniques]]
+- cognitive-distortions
+- attachment-theory
+- neuroplasticity
+- therapeutic-techniques
 
 ## Analysis
 
@@ -71,6 +71,6 @@ This video provides valuable insights into mental health and psychological well-
 
 - [mental-health](concepts/mental-health.md)
 - [psychology](concepts/psychology.md)
-- [[healthygamer]]
+- healthygamer
 - [[therapy]]
 - [[self-improvement]]

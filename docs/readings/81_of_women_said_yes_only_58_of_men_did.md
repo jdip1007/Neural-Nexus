@@ -60,6 +60,6 @@ domain: general
 
 ## Related Pages
 
-- [[Chris_Williamson]]
-- [[Modern_Wisdom_Podcast]]
+- Chris-Williamson
+- Modern-Wisdom-Podcast
 

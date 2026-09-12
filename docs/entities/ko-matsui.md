@@ -55,3 +55,9 @@ Ko Matsui is a Japanese neuroscientist and the principal investigator of the Sup
 
 - [rem-sleep](concepts/rem-sleep.md)
 - [tohoku-university](entities/tohoku-university.md)
+
+
+## See also
+
+- [[rem-sleep]]
+- [[tohoku-university]]

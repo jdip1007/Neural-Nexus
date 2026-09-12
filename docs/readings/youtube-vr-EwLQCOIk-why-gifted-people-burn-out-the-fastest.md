@@ -75,10 +75,10 @@ Based on the video title, this content likely covers:
 - The content focuses on understanding and addressing common psychological challenges
 
 ### Related Concepts
-- [[mental_health]]
+- [[mental-health]]
 - [[therapy]]
 - [psychology](concepts/psychology.md)
-- [[self_improvement]]
+- [[self-improvement]]
 - [relationships](concepts/relationships.md)
 
 

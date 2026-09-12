@@ -40,7 +40,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=M4P8y3n6qT2
 **Video ID:** `M4P8y3n6qT2`
-**Transcript:** [[raw/transcripts/healthygamergg/Why You're Afraid of Success.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why You're Afraid of Success.md
 **Accessed:** 2026-09-05
 
 ## Related

@@ -90,3 +90,13 @@ This project demonstrates the principles of the controversial flock cameras trac
 ---
 
 *This page was auto-generated from Dave's Garage YouTube video: https://www.youtube.com/watch?v=WlInICQUHeo*
+
+
+## See also
+
+- [[hardware]]
+- [[lifespan]]
+- [[performance-characteristics]]
+- [[programming]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

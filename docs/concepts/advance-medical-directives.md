@@ -147,19 +147,19 @@ When patients suddenly lose consciousness (e.g., from accidents, medical emergen
 ## Related Concepts
 
 ### Medical Law
-- [[medical-law]] - Legal aspects of medical decision-making and patient rights
-- [[patient-autonomy]] - Patient rights to make decisions about their own medical care
-- [[informed-consent]] - Legal requirement for patients to understand treatment risks and benefits
+- medical-law - Legal aspects of medical decision-making and patient rights
+- patient-autonomy - Patient rights to make decisions about their own medical care
+- informed-consent - Legal requirement for patients to understand treatment risks and benefits
 
 ### End-of-Life Care
-- [[end-of-life-care]] - Legal and ethical considerations in end-of-life medical treatment
-- [[palliative-care]] - Comfort-focused care for serious illnesses
-- [[hospice-care]] - End-of-life care facilities and services
+- end-of-life-care - Legal and ethical considerations in end-of-life medical treatment
+- palliative-care - Comfort-focused care for serious illnesses
+- hospice-care - End-of-life care facilities and services
 
 ### Hong Kong Legal System
-- [[hong-kong-law]] - Hong Kong legal system and healthcare regulations
-- [[medical-ethics]] - Ethical principles in medical practice and patient care
-- [[patient-rights]] - Legal protections for patients in Hong Kong
+- hong-kong-law - Hong Kong legal system and healthcare regulations
+- medical-ethics - Ethical principles in medical practice and patient care
+- patient-rights - Legal protections for patients in Hong Kong
 
 ## International Context
 
@@ -174,5 +174,5 @@ While this concept focuses on Hong Kong law, similar advance directive systems e
 **Source:** 馬天律師 YouTube Channel (@hk-lawyer)
 **Video URL:** https://www.youtube.com/watch?v=fehagloD4fw
 **Video ID:** `fehagloD4fw`
-**Transcript:** [[raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]]
+**Transcript:** raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md
 **Accessed:** 2026-08-04

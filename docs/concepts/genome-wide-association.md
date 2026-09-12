@@ -407,7 +407,7 @@ For quantitative traits: trait = β₀ + β₁ × SNP + covariates + ε
 - [polygenic-scores](concepts/polygenic-scores.md) - Using GWAS results for risk prediction
 - [heritability](concepts/heritability.md) - Quantifying genetic contribution to traits
 - [statistical-genetics](concepts/statistical-genetics.md) - Statistical methods in genetic research
-- [[genetic-epidemiology]] - Study of genetic factors in populations
+- genetic-epidemiology - Study of genetic factors in populations
 - [adhd-risk-genes-effect-sizes](concepts/adhd-risk-genes-effect-sizes.md) - Specific genetic findings in ADHD
 
 ## References
@@ -419,3 +419,14 @@ For quantitative traits: trait = β₀ + β₁ × SNP + covariates + ε
 3. Psychiatric Genomics Consortium. (2019). Genome-wide association study of attention-deficit/hyperactivity disorder. *Nature Genetics*, 51(7), 1101-1106. https://doi.org/10.1038/s41588-019-0443-4
 
 4. Visscher, P. M., et al. (2017). 10 years of GWAS discovery: biology, function, and translation. *American Journal of Human Genetics*, 94(1), 8-14. https://doi.org/10.1016/j.ajhg.2012.11.012
+
+## See also
+
+- [[architecture]]
+- [[clinical-utility]]
+- [[executive-function]]
+- [[genomics]]
+- [[heritability]]
+- [[polygenic-scores]]
+- [[psychiatric-comorbidity]]
+- [[quality-control]]

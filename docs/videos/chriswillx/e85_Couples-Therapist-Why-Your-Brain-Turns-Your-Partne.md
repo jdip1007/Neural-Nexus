@@ -44,6 +44,6 @@ This video explores various topics related to technology.
 
 ## Related Pages
 
-- [[Chris Willx]] - Main channel page
+- [[chris-willx]] - Main channel page
 - [[Philosophy]] - General philosophy topics
 - [Psychology](concepts/psychology.md) - Psychological concepts discussed

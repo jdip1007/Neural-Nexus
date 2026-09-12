@@ -75,8 +75,19 @@ The conversation emphasizes the importance of mindful technology use and setting
 
 [technology](concepts/technology.md)
 [psychology](concepts/psychology.md)
-[[health]]
+health
 
 ## Citations
 
 > Source: [Chris Willx YouTube Channel](https://www.youtube.com/watch?v=xyz789uvw012)
+
+
+## See also
+
+- [[mental-health]]
+- [[psychology]]
+- [[technology]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

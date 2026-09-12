@@ -34,8 +34,8 @@ Psychological analysis of gifted individuals and burnout phenomena. This video e
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Analysis]] - Collection of analytical content
+- Dave's Garage - Main channel page
+- YouTube Analysis - Collection of analytical content
 - [Psychology](concepts/psychology.md)
 
 ## Citations

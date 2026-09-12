@@ -37,7 +37,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=N3tMxNJnBJ0
 **Video ID:** `N3tMxNJnBJ0`
-**Transcript:** [[raw/transcripts/healthygamergg/Dr K Diagnoses Your Favorite Characters.md]]
+**Transcript:** raw/transcripts/healthygamergg/Dr K Diagnoses Your Favorite Characters.md
 **Accessed:** 2026-09-03
 
 ## Related

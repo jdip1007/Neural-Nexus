@@ -40,7 +40,7 @@ hand, and the message would only be decoded when in this person’s possession
 - [cloud](concepts/cloud.md)
 - [ai](concepts/ai.md)
 - [[database]]
-- [[framework]]
+- framework
 
 ## Transcript Highlights
 > important business documentation. And thanks to 

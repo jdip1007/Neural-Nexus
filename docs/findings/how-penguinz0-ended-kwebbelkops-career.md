@@ -30,7 +30,7 @@ title: How Penguinz0 Ended Kwebbelkop's Career video_id: TeJaFf9z4Rc source: htt
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/TeJaFf9z4Rc.md]] for the complete transcript.
+See raw/transcripts/internet-anarchist/TeJaFf9z4Rc.md for the complete transcript.
 
 ## Related Topics
 

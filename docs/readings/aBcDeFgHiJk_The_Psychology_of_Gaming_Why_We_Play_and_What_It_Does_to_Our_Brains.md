@@ -20,20 +20,20 @@ This video explores gaming, mental-health, addiction, community through the lens
 ## Key Topics
 
 - [[Gaming]]
-- [[Mental Health]]
-- [[Addiction]]
-- [[Community]]
+- [[mental-health]]
+- addiction
+- Community
 
 ## Content Analysis
 
-The video provides insights into [[gaming culture]] and [[mental health]], examining how digital entertainment impacts psychological wellbeing and social dynamics.
+The video provides insights into gaming culture and [[mental health]], examining how digital entertainment impacts psychological wellbeing and social dynamics.
 
 ## Related Concepts
 
-- [[Digital Entertainment]]
+- Digital Entertainment
 - [[Wellness]]
-- [[Behavioral Health]]
-- [[Social Dynamics]]
+- Behavioral Health
+- Social Dynamics
 
 ## External Links
 
@@ -42,7 +42,7 @@ The video provides insights into [[gaming culture]] and [[mental health]], exami
 
 ## Categories
 
-- [[YouTube]]
+- [[youtube]]
 - [[Gaming]]
-- [[Mental Health]]
-- [[Digital Media]]
+- [[mental-health]]
+- [[digital-media]]

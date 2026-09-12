@@ -22,7 +22,7 @@ This video from Dave's Garage provides an in-depth analysis of economics, psycho
 
 ## Key Topics
 
-- [[Economics]]
+- [[economics]]
 - [Psychology](concepts/psychology.md)
 - [Technology](concepts/technology.md)
 
@@ -38,9 +38,9 @@ Economic analysis of attention economy and the true cost of digital distraction.
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Analysis]] - Collection of analytical content
-- [[Economics]]
+- Dave's Garage - Main channel page
+- YouTube Analysis - Collection of analytical content
+- [[economics]]
 - [Psychology](concepts/psychology.md)
 - [Technology](concepts/technology.md)
 

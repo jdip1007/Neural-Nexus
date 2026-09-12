@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores how trauma splits a soul and provides 
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[How Trauma Splits A Soul (Dissociative Identity Disorder).md]]
+**Original Page:** How Trauma Splits A Soul (Dissociative Identity Disorder).md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -47,3 +47,11 @@ This content from HealthyGamerGG explores how trauma splits a soul and provides 
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[psychology]]
+- [[relationships]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+- [[youtube-ahDC1sQCDzY-in-the]]

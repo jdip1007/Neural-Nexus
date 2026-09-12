@@ -40,7 +40,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=R4T6m1pZ3bX
 **Video ID:** `R4T6m1pZ3bX`
-**Transcript:** [[raw/transcripts/healthygamergg/Why Sensitive People Get Traumatized So Easily.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why Sensitive People Get Traumatized So Easily.md
 **Accessed:** 2026-09-05
 
 ## Related

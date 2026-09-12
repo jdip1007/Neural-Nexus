@@ -129,3 +129,13 @@ This reading page is based on limited video content (title, description, referen
 - [prion-disease](concepts/prion-disease.md)
 - [katherine-johns](entities/katherine-johns.md)
 - [neuroinflammation](concepts/neuroinflammation.md)
+
+
+## See also
+
+- [[amyloid-beta]]
+- [[katherine-johns]]
+- [[neuroinflammation]]
+- [[prion-disease]]
+- [[youtube-ahDC1sQCDzY-in-the]]
+- [[youtube-y7voToyTmOE-jakob-disease]]

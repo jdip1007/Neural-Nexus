@@ -73,3 +73,9 @@ Contributing to comprehensive understanding of:
 - [recent-advances-alzheimers-disease-cell-review-2026](raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md)
 - [neuroinflammation](concepts/neuroinflammation.md)
 - [jason-ulrich](entities/jason-ulrich.md)
+
+
+## See also
+
+- [[amyloid-beta]]
+- [[neuroinflammation]]

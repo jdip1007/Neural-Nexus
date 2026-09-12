@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores can men & women be friends? and provid
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Can Men & Women Be Friends_.md]]
+**Original Page:** Can Men & Women Be Friends-.md
 **Accessed:** 2026-08-23
 
 ## Related
@@ -47,3 +47,10 @@ This content from HealthyGamerGG explores can men & women be friends? and provid
 - [relationships](concepts/relationships.md) - Understanding interpersonal dynamics
 - [mental-health](concepts/mental-health.md) - Broader context of psychological well-being
 
+
+
+## See also
+
+- [[psychology]]
+- [[relationships]]
+- [[youtube-ahDC1sQCDzY-in-the]]

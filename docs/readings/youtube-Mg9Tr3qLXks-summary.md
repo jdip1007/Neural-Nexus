@@ -46,3 +46,12 @@ This video discusses How Trauma Splits A Soul (Dissociative Identity Disorder)
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[how-trauma-splits-a-soul]]
+- [[youtube-Mg9Tr3qLXks-religious-experience]]
+- [[youtube-Mg9Tr3qLXks-thomas-nagel]]
+- [[youtube-Mg9Tr3qLXks-william-james]]
+- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

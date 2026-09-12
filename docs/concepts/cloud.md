@@ -61,5 +61,5 @@ Cloud computing refers to the delivery of computing services—including servers
 - [ai](concepts/ai.md)
 - [api](concepts/api.md)
 - [container](concepts/container.md)
-- [[infrastructure]]
-- [[devops]]
+- infrastructure
+- devops

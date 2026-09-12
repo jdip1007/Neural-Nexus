@@ -32,9 +32,9 @@ This video explores important concepts in mental health and personal development
 
 ## Related Topics
 
-[[neuroscience]]
-[[brain_plasticity]]
-[[cognitive_science]]
+neuroscience
+brain-plasticity
+cognitive-science
 [psychology](concepts/psychology.md)
 
 ## Video Information

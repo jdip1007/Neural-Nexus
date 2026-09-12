@@ -56,7 +56,7 @@ This mock transcript serves as a placeholder for the actual transcript data that
 
 ## Related Pages
 
-[[science]]
+science
 [[philosophy]]
 
 ## Citations
