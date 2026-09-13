@@ -1,39 +1,231 @@
 {
-  "generated": "2026-09-12T00:35:00",
-  "total_pages": 225,
-  "channels": {
-    "HealthyGamerGG": 5,
-    "Dave's Garage": 45,
-    "Internet Anarchist": 89,
-    "How Money Works": 32,
-    "Infographics Show": 15,
-    "Chris Willx": 39
+  "last_updated": "2026-09-13T23:26:29.224679",
+  "total_pages": 19,
+  "pages_by_type": {
+    "video": 10,
+    "article": 4,
+    "unknown": 5
   },
-  "recent_videos": [
+  "pages_by_tag": {
+    "youtube": 5,
+    "youtube-creator": 5,
+    "educational-content": 5,
+    "internet-anarchist": 5,
+    "content-creation": 5,
+    "internet-culture": 3,
+    "mental-health": 2,
+    "marketing": 3,
+    "business-strategy": 3,
+    "gaming": 1,
+    "finance": 4,
+    "business": 4,
+    "economics": 3,
+    "money": 1,
+    "investing": 2,
+    "youtube-algorithm": 1,
+    "market": 3,
+    "society": 1,
+    "portfolio": 1
+  },
+  "recent_pages": [
     {
-      "title": "The Business of Gaming: Understanding the Industry Behind the Fun",
-      "channel": "HealthyGamerGG",
-      "processed": "2026-09-12T00:32:08"
+      "title": "Finance",
+      "filename": "Finance.md",
+      "type": "article",
+      "created": "2026-09-13T23:22:00.000000",
+      "tags": [
+        "finance",
+        "business",
+        "economics",
+        "money",
+        "investing"
+      ]
     },
     {
-      "title": "Healthy Gaming Habits: Setting Boundaries That Actually Work",
-      "channel": "HealthyGamerGG",
-      "processed": "2026-09-12T00:32:11"
+      "title": "Economy",
+      "filename": "Economy.md",
+      "type": "article",
+      "created": "2026-09-13T23:22:00.000000",
+      "tags": [
+        "economics",
+        "finance",
+        "business",
+        "market",
+        "society"
+      ]
     },
     {
-      "title": "Digital Detox: Finding Balance in a Connected World",
-      "channel": "HealthyGamerGG",
-      "processed": "2026-09-12T00:32:13"
+      "title": "Investing",
+      "filename": "Investing.md",
+      "type": "article",
+      "created": "2026-09-13T23:22:00.000000",
+      "tags": [
+        "investing",
+        "finance",
+        "business",
+        "market",
+        "portfolio"
+      ]
     },
     {
-      "title": "The Psychology of Gaming: Why We Play and What It Does to Our Brains",
-      "channel": "HealthyGamerGG",
-      "processed": "2026-09-12T00:32:15"
+      "title": "Business",
+      "filename": "Business.md",
+      "type": "article",
+      "created": "2026-09-13T23:22:00.000000",
+      "tags": [
+        "business",
+        "finance",
+        "economics",
+        "market"
+      ]
     },
     {
-      "title": "Mental Health in Gaming Communities: Building Supportive Environments",
-      "channel": "HealthyGamerGG",
-      "processed": "2026-09-12T00:32:18"
+      "title": "Is America Chasing Away All Of Its Smart People?",
+      "filename": "how_money_works_THodtjsCTSI.md",
+      "type": "video",
+      "created": "2026-09-13T23:21:31.377705",
+      "tags": []
+    },
+    {
+      "title": "How Long Can The Stock Market Ignore Reality?",
+      "filename": "how_money_works_qmZmKZR8S5U.md",
+      "type": "video",
+      "created": "2026-09-13T23:21:30.376151",
+      "tags": []
+    },
+    {
+      "title": "WTF Is Happening To The Video Game Industry?",
+      "filename": "how_money_works_Sx-lddna-qg.md",
+      "type": "video",
+      "created": "2026-09-13T23:21:29.374984",
+      "tags": []
+    },
+    {
+      "title": "Here's Why You Want A Really Boring Job",
+      "filename": "how_money_works_4hiVQf9MPzg.md",
+      "type": "video",
+      "created": "2026-09-13T23:21:28.373990",
+      "tags": []
+    },
+    {
+      "title": "WTF Does Peter Thiel Actually Want?",
+      "filename": "how_money_works__W3qPymBEBA.md",
+      "type": "video",
+      "created": "2026-09-13T23:21:27.373274",
+      "tags": []
+    },
+    {
+      "title": "Viral Marketing Strategies That Work",
+      "filename": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work.md",
+      "type": "video",
+      "created": "2026-09-13T00:14:48",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "marketing"
+      ]
+    },
+    {
+      "title": "The Algorithm: How YouTube Recommends Content",
+      "filename": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content.md",
+      "type": "video",
+      "created": "2026-09-13T00:14:46",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "youtube-algorithm",
+        "internet-culture",
+        "mental-health",
+        "business-strategy"
+      ]
+    },
+    {
+      "title": "The Evolution of YouTube Gaming",
+      "filename": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming.md",
+      "type": "video",
+      "created": "2026-09-13T00:14:44",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "business-strategy",
+        "gaming"
+      ]
+    },
+    {
+      "title": "MrBeast: Behind the Scenes",
+      "filename": "q8_r9s0t1u_MrBeast_Behind_the_Scenes.md",
+      "type": "video",
+      "created": "2026-09-13T00:14:42",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "business-strategy",
+        "marketing"
+      ]
+    },
+    {
+      "title": "The Rise and Fall of Logan Paul",
+      "filename": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul.md",
+      "type": "video",
+      "created": "2026-09-13T00:14:40",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "mental-health",
+        "marketing"
+      ]
+    },
+    {
+      "title": "Unknown",
+      "filename": "What-Breakups-ACTUALLY-Do-To-Men.md",
+      "type": "unknown",
+      "created": "",
+      "tags": []
+    },
+    {
+      "title": "Unknown",
+      "filename": "Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
+      "type": "unknown",
+      "created": "",
+      "tags": []
+    },
+    {
+      "title": "Unknown",
+      "filename": "Analyzing-The-Lindsay-Clancy-Case.md",
+      "type": "unknown",
+      "created": "",
+      "tags": []
+    },
+    {
+      "title": "Unknown",
+      "filename": "Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "type": "unknown",
+      "created": "",
+      "tags": []
+    },
+    {
+      "title": "Unknown",
+      "filename": "Why-You-Need-Constant-Reassurance.md",
+      "type": "unknown",
+      "created": "",
+      "tags": []
     }
   ]
 }

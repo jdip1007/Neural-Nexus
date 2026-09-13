@@ -1,9 +1,516 @@
 {
-  "nodes": [],
-  "edges": [],
+  "nodes": [
+    {
+      "id": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
+      "title": "The Rise and Fall of Logan Paul",
+      "file": "/home/hermes/Neural-Nexus/docs/p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "mental-health",
+        "marketing"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works_qmZmKZR8S5U",
+      "title": "How Long Can The Stock Market Ignore Reality?",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_qmZmKZR8S5U.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "title": "The Evolution of YouTube Gaming",
+      "file": "/home/hermes/Neural-Nexus/docs/t0_u1v2w3x_The_Evolution_of_YouTube_Gaming.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "business-strategy",
+        "gaming"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "Finance",
+      "title": "Finance",
+      "file": "/home/hermes/Neural-Nexus/docs/Finance.md",
+      "tags": [
+        "finance",
+        "business",
+        "economics",
+        "money",
+        "investing"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
+      "title": "The Algorithm: How YouTube Recommends Content",
+      "file": "/home/hermes/Neural-Nexus/docs/v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "youtube-algorithm",
+        "internet-culture",
+        "mental-health",
+        "business-strategy"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works_Sx-lddna-qg",
+      "title": "WTF Is Happening To The Video Game Industry?",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_Sx-lddna-qg.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "What-Breakups-ACTUALLY-Do-To-Men",
+      "title": "What-Breakups-ACTUALLY-Do-To-Men",
+      "file": "/home/hermes/Neural-Nexus/docs/What-Breakups-ACTUALLY-Do-To-Men.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread",
+      "title": "Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread",
+      "file": "/home/hermes/Neural-Nexus/docs/Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works__W3qPymBEBA",
+      "title": "WTF Does Peter Thiel Actually Want?",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works__W3qPymBEBA.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "title": "MrBeast: Behind the Scenes",
+      "file": "/home/hermes/Neural-Nexus/docs/q8_r9s0t1u_MrBeast_Behind_the_Scenes.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "business-strategy",
+        "marketing"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works_4hiVQf9MPzg",
+      "title": "Here's Why You Want A Really Boring Job",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_4hiVQf9MPzg.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "investing",
+        "money"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "Economy",
+      "title": "Economy",
+      "file": "/home/hermes/Neural-Nexus/docs/Economy.md",
+      "tags": [
+        "economics",
+        "finance",
+        "business",
+        "market",
+        "society"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works_THodtjsCTSI",
+      "title": "Is America Chasing Away All Of Its Smart People?",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_THodtjsCTSI.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "investing",
+        "economics",
+        "business",
+        "market"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "title": "Viral Marketing Strategies That Work",
+      "file": "/home/hermes/Neural-Nexus/docs/w3x4y5z6a_Viral_Marketing_Strategies_That_Work.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "marketing"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "Investing",
+      "title": "Investing",
+      "file": "/home/hermes/Neural-Nexus/docs/Investing.md",
+      "tags": [
+        "investing",
+        "finance",
+        "business",
+        "market",
+        "portfolio"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "Analyzing-The-Lindsay-Clancy-Case",
+      "title": "Analyzing-The-Lindsay-Clancy-Case",
+      "file": "/home/hermes/Neural-Nexus/docs/Analyzing-The-Lindsay-Clancy-Case.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "Why-Sensitive-People-Get-Traumatized-So-Easily",
+      "title": "Why-Sensitive-People-Get-Traumatized-So-Easily",
+      "file": "/home/hermes/Neural-Nexus/docs/Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "Why-You-Need-Constant-Reassurance",
+      "title": "Why-You-Need-Constant-Reassurance",
+      "file": "/home/hermes/Neural-Nexus/docs/Why-You-Need-Constant-Reassurance.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "Business",
+      "title": "Business",
+      "file": "/home/hermes/Neural-Nexus/docs/Business.md",
+      "tags": [
+        "business",
+        "finance",
+        "economics",
+        "market"
+      ],
+      "type": "page"
+    }
+  ],
+  "edges": [
+    {
+      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
+      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_qmZmKZR8S5U",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_qmZmKZR8S5U",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_qmZmKZR8S5U",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_qmZmKZR8S5U",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "Finance",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "Finance",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "Finance",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "Finance",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "Finance",
+      "target": "how_money_works_qmZmKZR8S5U",
+      "type": "wikilink"
+    },
+    {
+      "source": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
+      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_Sx-lddna-qg",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_Sx-lddna-qg",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_Sx-lddna-qg",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_Sx-lddna-qg",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_4hiVQf9MPzg",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_4hiVQf9MPzg",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_4hiVQf9MPzg",
+      "target": "how_money_works_qmZmKZR8S5U",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_4hiVQf9MPzg",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_4hiVQf9MPzg",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_4hiVQf9MPzg",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_4hiVQf9MPzg",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "Economy",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "Economy",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "Economy",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "Economy",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_THodtjsCTSI",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "Investing",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "Investing",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "Investing",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "Investing",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "Investing",
+      "target": "how_money_works_qmZmKZR8S5U",
+      "type": "wikilink"
+    },
+    {
+      "source": "Business",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "Business",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "Business",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "Business",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    }
+  ],
   "metadata": {
-    "generated": "2026-09-12T23:57:30.193853",
-    "total_nodes": 0,
-    "total_edges": 0
+    "generated": "2026-09-13T23:25:36.273566",
+    "total_nodes": 19,
+    "total_edges": 56
   }
 }
