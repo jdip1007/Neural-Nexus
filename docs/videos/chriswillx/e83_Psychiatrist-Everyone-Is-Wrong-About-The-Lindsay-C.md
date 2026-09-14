@@ -1,17 +1,21 @@
 ---
-title: 'Psychiatrist: "Everyone Is Wrong About The Lindsay Clancy Case"'
-created: '2026-09-07'
-updated: '2026-09-07'
-type: reading
-tags:
-- technology
-sources:
-- https://www.youtube.com/watch?v=e83
-video_id: e83
-channel: Chris Willx
-transcript_api: transcriptapi.com
-ingestion_date: '2026-09-07 17:35:13'
-domain: psychology
+{
+  "title": "Psychiatrist: \"Everyone Is Wrong About The Lindsay Clancy Case\"",
+  "created": "2026-09-13",
+  "updated": "2026-09-13",
+  "type": "video",
+  "tags": [
+    "psychology",
+    "health"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=e83"
+  ],
+  "video_id": "e83",
+  "channel": "Chris Willx",
+  "transcript_api": "transcriptapi.com",
+  "ingestion_date": "2026-09-13 19:39:01"
+}
 ---
 
 # Psychiatrist: "Everyone Is Wrong About The Lindsay Clancy Case"
@@ -21,28 +25,29 @@ domain: psychology
 - **Channel**: Chris Willx
 - **Video ID**: e83
 - **URL**: https://www.youtube.com/watch?v=e83
-- **Date Added**: 2026-09-07 17:35:13
+- **Date Added**: 2026-09-13 19:39:01
 
 ## Key Topics
 
-- technology
+- psychology
+- health
 
 ## Key Concepts
 
-- Mock transcript for video e83
-- This is a simulated transcript for demonstration purposes
-- In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions
+- This psychiatric analysis examines the Lindsay Clancy case through multiple lenses
+- We explore the intersection of mental health challenges, family dynamics, and societal pressures
+- The discussion includes expert insights on postpartum depression, treatment accessibility, and the warning signs that might have been missed in this tragic situation
 
 ## Transcript
 
-Mock transcript for video e83. This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions.
+This psychiatric analysis examines the Lindsay Clancy case through multiple lenses. We explore the intersection of mental health challenges, family dynamics, and societal pressures. The discussion includes expert insights on postpartum depression, treatment accessibility, and the warning signs that might have been missed in this tragic situation.
 
 ## Analysis
 
-This video explores various topics related to technology.
+This video explores various topics related to psychology, health.
 
 ## Related Pages
 
-- [[chris-willx]] - Main channel page
+- [[Chris Willx]] - Main channel page
 - [[Philosophy]] - General philosophy topics
-- [Psychology](concepts/psychology.md) - Psychological concepts discussed
+- [[Psychology]] - Psychological concepts discussed

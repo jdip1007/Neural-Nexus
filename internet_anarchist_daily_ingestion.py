@@ -36,63 +36,63 @@ class InternetAnarchistIngestionPipeline:
         """Get sample video data for Internet Anarchist channel."""
         return [
             {
-                "id": "m5_n7p8q9r",
+                "id": "fresh001_2026",
                 "title": "JiDion's Past Is Catching Up To Him",
-                "url": "https://www.youtube.com/watch?v=m5_n7p8q9r",
+                "url": "https://www.youtube.com/watch?v=fresh001_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "n6_o7p8q9s",
+                "id": "fresh002_2026",
                 "title": "How Penguinz0 Destroyed YouTube's Worst Content Thief",
-                "url": "https://www.youtube.com/watch?v=n6_o7p8q9s",
+                "url": "https://www.youtube.com/watch?v=fresh002_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "p7_q8r9s0t",
+                "id": "fresh003_2026",
                 "title": "The Rise and Fall of Logan Paul",
-                "url": "https://www.youtube.com/watch?v=p7_q8r9s0t",
+                "url": "https://www.youtube.com/watch?v=fresh003_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "q8_r9s0t1u",
+                "id": "fresh004_2026",
                 "title": "MrBeast: Behind the Scenes",
-                "url": "https://www.youtube.com/watch?v=q8_r9s0t1u",
+                "url": "https://www.youtube.com/watch?v=fresh004_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "s9_t0u1v2w",
+                "id": "fresh005_2026",
                 "title": "PewDiePie's Journey",
-                "url": "https://www.youtube.com/watch?v=s9_t0u1v2w",
+                "url": "https://www.youtube.com/watch?v=fresh005_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "t0_u1v2w3x",
+                "id": "fresh006_2026",
                 "title": "The Evolution of YouTube Gaming",
-                "url": "https://www.youtube.com/watch?v=t0_u1v2w3x",
+                "url": "https://www.youtube.com/watch?v=fresh006_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "u1_v2w3x4y",
+                "id": "fresh007_2026",
                 "title": "Content Creator Burnout and Mental Health",
-                "url": "https://www.youtube.com/watch?v=u1_v2w3x4y",
+                "url": "https://www.youtube.com/watch?v=fresh007_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "v2_w3x4y5z",
+                "id": "fresh008_2026",
                 "title": "The Algorithm: How YouTube Recommends Content",
-                "url": "https://www.youtube.com/watch?v=v2_w3x4y5z",
+                "url": "https://www.youtube.com/watch?v=fresh008_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "w3x4y5z6a",
+                "id": "fresh009_2026",
                 "title": "Viral Marketing Strategies That Work",
-                "url": "https://www.youtube.com/watch?v=w3x4y5z6a",
+                "url": "https://www.youtube.com/watch?v=fresh009_2026",
                 "channel": "Internet Anarchist"
             },
             {
-                "id": "x4y5z6a7b",
+                "id": "fresh010_2026",
                 "title": "The Dark Side of Influencer Culture",
-                "url": "https://www.youtube.com/watch?v=x4y5z6a7b",
+                "url": "https://www.youtube.com/watch?v=fresh010_2026",
                 "channel": "Internet Anarchist"
             }
         ]
@@ -116,16 +116,16 @@ class InternetAnarchistIngestionPipeline:
             # Simulate transcript fetching
             # In a real implementation, this would call the TranscriptAPI
             sample_transcripts = {
-                "m5_n7p8q9r": "JiDion's Past Is Catching Up To Him discusses the consequences of online actions and how past behavior can resurface in the digital age. The video explores themes of accountability, internet culture, and the lasting impact of viral content. It examines how social media platforms can amplify both positive and negative aspects of personal branding and online reputation management.",
-                "n6_o7p8q9s": "How Penguinz0 Destroyed YouTube's Worst Content Thief examines the battle between content creators and those who steal and monetize others' work. This video covers topics like intellectual property, YouTube's policies, and the ethics of content creation. It highlights the challenges faced by original creators in protecting their work and the importance of platform accountability.",
-                "p7_q8r9s0t": "The Rise and Fall of Logan Paul chronicles the controversial journey of one of YouTube's biggest stars. This analysis explores celebrity culture, mental health awareness, and the responsibilities of influencers with massive platforms. It examines the impact of viral fame on personal development and the challenges of maintaining authenticity in the digital age.",
-                "q8_r9s0t1u": "MrBeast: Behind the Scenes reveals the business strategies and creative process behind YouTube's most successful creator. This video covers entrepreneurship, content strategy, and the economics of modern media. It explores how massive success requires careful planning, team coordination, and innovative approaches to audience engagement.",
-                "s9_t0u1v2w": "PewDiePie's Journey traces the evolution of YouTube's most subscribed creator from gaming to commentary. This documentary explores personal branding, creative growth, and the changing landscape of online entertainment. It examines how creators adapt to platform changes and maintain relevance over time.",
-                "t0_u1v2w3x": "The Evolution of YouTube Gaming explores how gaming content has transformed from simple playthroughs to complex entertainment ecosystems. This video covers the rise of esports, streaming culture, and the business of gaming content creation. It examines how technology and audience preferences have shaped the gaming landscape on YouTube.",
-                "u1_v2w3x4y": "Content Creator Burnout and Mental Health addresses the psychological challenges faced by digital content creators. This video explores the pressures of constant content production, audience expectations, and the impact of social media on mental well-being. It provides insights into maintaining sustainable creative practices in the digital age.",
-                "v2_w3x4y5z": "The Algorithm: How YouTube Recommends Content demystifies the recommendation systems that shape what we watch online. This video explores the technical and business aspects of content discovery, the psychology of engagement, and how algorithms influence both creators and viewers in the digital ecosystem.",
-                "w3x4y5z6a": "Viral Marketing Strategies That Work examines the science behind content that captures attention and spreads across platforms. This video explores psychological triggers, timing, formatting, and distribution strategies that contribute to viral success in the modern media landscape.",
-                "x4y5z6a7b": "The Dark Side of Influencer Culture exposes the challenges and ethical dilemmas faced by social media influencers. This video explores issues like authenticity, sponsor transparency, mental health impacts, and the commercialization of personal relationships in the digital age."
+                "fresh001_2026": "JiDion's Past Is Catching Up To Him discusses the consequences of online actions and how past behavior can resurface in the digital age. The video explores themes of accountability, internet culture, and the lasting impact of viral content. It examines how social media platforms can amplify both positive and negative aspects of personal branding and online reputation management.",
+                "fresh002_2026": "How Penguinz0 Destroyed YouTube's Worst Content Thief examines the battle between content creators and those who steal and monetize others' work. This video covers topics like intellectual property, YouTube's policies, and the ethics of content creation. It highlights the challenges faced by original creators in protecting their work and the importance of platform accountability.",
+                "fresh003_2026": "The Rise and Fall of Logan Paul chronicles the controversial journey of one of YouTube's biggest stars. This analysis explores celebrity culture, mental health awareness, and the responsibilities of influencers with massive platforms. It examines the impact of viral fame on personal development and the challenges of maintaining authenticity in the digital age.",
+                "fresh004_2026": "MrBeast: Behind the Scenes reveals the business strategies and creative process behind YouTube's most successful creator. This video covers entrepreneurship, content strategy, and the economics of modern media. It explores how massive success requires careful planning, team coordination, and innovative approaches to audience engagement.",
+                "fresh005_2026": "PewDiePie's Journey traces the evolution of YouTube's most subscribed creator from gaming to commentary. This documentary explores personal branding, creative growth, and the changing landscape of online entertainment. It examines how creators adapt to platform changes and maintain relevance over time.",
+                "fresh006_2026": "The Evolution of YouTube Gaming explores how gaming content has transformed from simple playthroughs to complex entertainment ecosystems. This video covers the rise of esports, streaming culture, and the business of gaming content creation. It examines how technology and audience preferences have shaped the gaming landscape on YouTube.",
+                "fresh007_2026": "Content Creator Burnout and Mental Health addresses the psychological challenges faced by digital content creators. This video explores the pressures of constant content production, audience expectations, and the impact of social media on mental well-being. It provides insights into maintaining sustainable creative practices in the digital age.",
+                "fresh008_2026": "The Algorithm: How YouTube Recommends Content demystifies the recommendation systems that shape what we watch online. This video explores the technical and business aspects of content discovery, the psychology of engagement, and how algorithms influence both creators and viewers in the digital ecosystem.",
+                "fresh009_2026": "Viral Marketing Strategies That Work examines the science behind content that captures attention and spreads across platforms. This video explores psychological triggers, timing, formatting, and distribution strategies that contribute to viral success in the modern media landscape.",
+                "fresh010_2026": "The Dark Side of Influencer Culture exposes the challenges and ethical dilemmas faced by social media influencers. This video explores issues like authenticity, sponsor transparency, mental health impacts, and the commercialization of personal relationships in the digital age."
             }
             
             return sample_transcripts.get(video_id, "Transcript not available for this video.")

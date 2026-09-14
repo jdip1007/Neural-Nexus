@@ -1,6 +1,20 @@
 {
   "nodes": [
     {
+      "id": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "title": "Content Creator Burnout and Mental Health",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "mental-health"
+      ],
+      "type": "page"
+    },
+    {
       "id": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
       "title": "The Rise and Fall of Logan Paul",
       "file": "/home/hermes/Neural-Nexus/docs/p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul.md",
@@ -17,6 +31,19 @@
       "type": "page"
     },
     {
+      "id": "how_money_works_vT6qh72wCZk",
+      "title": "The (Overdue) Collapse Of Short Term Rentals",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_vT6qh72wCZk.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "money",
+        "markets"
+      ],
+      "type": "page"
+    },
+    {
       "id": "how_money_works_qmZmKZR8S5U",
       "title": "How Long Can The Stock Market Ignore Reality?",
       "file": "/home/hermes/Neural-Nexus/docs/how_money_works_qmZmKZR8S5U.md",
@@ -24,6 +51,33 @@
         "youtube",
         "how-money-works",
         "finance"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "title": "\"Butaca con palets y asiento de coche\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche.md",
+      "tags": [
+        "automotive",
+        "hardware",
+        "daves-garage",
+        "youtube",
+        "tutorial",
+        "automotive"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "hardware",
+        "daves-garage",
+        "youtube",
+        "tutorial"
       ],
       "type": "page"
     },
@@ -57,6 +111,20 @@
       "type": "page"
     },
     {
+      "id": "how_money_works_uK3OBAxCi6k",
+      "title": "Your Job Achieves Nothing... (probably)",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_uK3OBAxCi6k.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "money",
+        "investing",
+        "markets"
+      ],
+      "type": "page"
+    },
+    {
       "id": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
       "title": "The Algorithm: How YouTube Recommends Content",
       "file": "/home/hermes/Neural-Nexus/docs/v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content.md",
@@ -74,6 +142,22 @@
       "type": "page"
     },
     {
+      "id": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
+      "title": "The Evolution of YouTube Gaming",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh006_2026_The_Evolution_of_YouTube_Gaming.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "business-strategy",
+        "gaming"
+      ],
+      "type": "page"
+    },
+    {
       "id": "how_money_works_Sx-lddna-qg",
       "title": "WTF Is Happening To The Video Game Industry?",
       "file": "/home/hermes/Neural-Nexus/docs/how_money_works_Sx-lddna-qg.md",
@@ -81,6 +165,20 @@
         "youtube",
         "how-money-works",
         "finance"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "title": "\"Hidden Code: How Slot Machines Actually Work - The Computer Inside\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "tags": [
+        "programming",
+        "technology",
+        "gaming",
+        "daves-garage",
+        "youtube",
+        "tutorial"
       ],
       "type": "page"
     },
@@ -106,6 +204,78 @@
         "youtube",
         "how-money-works",
         "finance"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "title": "\"fopen is Magic! - Find Out What You've Been Missing All These Years!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years.md",
+      "tags": [
+        "programming",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works_1zjcZ661ups",
+      "title": "If Nobody Can Afford A Home... Who's Going To Buy Them?",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_1zjcZ661ups.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "money",
+        "investing",
+        "markets"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "how_money_works_xEL3hn55gh8",
+      "title": "Why A National Debt Default Now Looks Genuinely Possible... (sort of)",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_xEL3hn55gh8.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "money",
+        "investing",
+        "economics"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
+      "title": "The Algorithm: How YouTube Recommends Content",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "youtube-algorithm",
+        "internet-culture",
+        "mental-health",
+        "business-strategy"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "fresh005_2026_PewDiePie's_Journey",
+      "title": "PewDiePie's Journey",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "gaming"
       ],
       "type": "page"
     },
@@ -151,6 +321,20 @@
       "type": "page"
     },
     {
+      "id": "how_money_works_bVM76YxNPjQ",
+      "title": "How The Wolf of Wall Street Scam Actually Worked",
+      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_bVM76YxNPjQ.md",
+      "tags": [
+        "youtube",
+        "how-money-works",
+        "finance",
+        "money",
+        "investing",
+        "markets"
+      ],
+      "type": "page"
+    },
+    {
       "id": "how_money_works_THodtjsCTSI",
       "title": "Is America Chasing Away All Of Its Smart People?",
       "file": "/home/hermes/Neural-Nexus/docs/how_money_works_THodtjsCTSI.md",
@@ -162,6 +346,32 @@
         "economics",
         "business",
         "market"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-V33WDRS1-Bw-gran-cherokee-52-v8-consumo",
+      "title": "\"Gran Cherokee 5.2 V8 Consumo\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-V33WDRS1-Bw-gran-cherokee-52-v8-consumo.md",
+      "tags": [
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial",
+        "automotive"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
+      "title": "\"Microsoft's Secret 90s Weapon That Made Windows Fast\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
       ],
       "type": "page"
     },
@@ -180,6 +390,21 @@
       "type": "page"
     },
     {
+      "id": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "title": "JiDion's Past Is Catching Up To Him",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "marketing"
+      ],
+      "type": "page"
+    },
+    {
       "id": "Investing",
       "title": "Investing",
       "file": "/home/hermes/Neural-Nexus/docs/Investing.md",
@@ -189,6 +414,65 @@
         "business",
         "market",
         "portfolio"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "title": "\"The Challenge: Building a Custom Electric Vehicle\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-EDpbOL_yUxo-reemplazo-sensor-\u00e1ngulo-direcci\u00f3n-audi-a6-b6",
+      "title": "\"Reemplazo sensor \u00e1ngulo direcci\u00f3n Audi A6 (B6)\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-EDpbOL_yUxo-reemplazo-sensor-\u00e1ngulo-direcci\u00f3n-audi-a6-b6.md",
+      "tags": [
+        "automotive",
+        "hardware",
+        "tutorial",
+        "daves-garage",
+        "youtube",
+        "tutorial",
+        "automotive"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-BKi_mDawOPg-solucionar-fallo-en-mando-de-luces-de-moto",
+      "title": "\"Solucionar fallo en mando de luces de moto\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-BKi_mDawOPg-solucionar-fallo-en-mando-de-luces-de-moto.md",
+      "tags": [
+        "automotive",
+        "hardware",
+        "tutorial",
+        "daves-garage",
+        "youtube",
+        "tutorial",
+        "automotive"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-w-AzgOc8rE8-brico-asiento-saab-93-12",
+      "title": "\"Brico Asiento Saab 93 1/2\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-w-AzgOc8rE8-brico-asiento-saab-93-12.md",
+      "tags": [
+        "automotive",
+        "hardware",
+        "tutorial",
+        "daves-garage",
+        "youtube",
+        "tutorial",
+        "automotive"
       ],
       "type": "page"
     },
@@ -228,6 +512,11 @@
   ],
   "edges": [
     {
+      "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
       "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
       "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
       "type": "wikilink"
@@ -244,7 +533,42 @@
     },
     {
       "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_vT6qh72wCZk",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_vT6qh72wCZk",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_vT6qh72wCZk",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_vT6qh72wCZk",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_vT6qh72wCZk",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_vT6qh72wCZk",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_vT6qh72wCZk",
+      "target": "Business",
       "type": "wikilink"
     },
     {
@@ -273,6 +597,11 @@
       "type": "wikilink"
     },
     {
+      "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
       "source": "Finance",
       "target": "Investing",
       "type": "wikilink"
@@ -294,7 +623,42 @@
     },
     {
       "source": "Finance",
-      "target": "how_money_works_qmZmKZR8S5U",
+      "target": "how_money_works_vT6qh72wCZk",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_uK3OBAxCi6k",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_uK3OBAxCi6k",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_uK3OBAxCi6k",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_uK3OBAxCi6k",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_uK3OBAxCi6k",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_uK3OBAxCi6k",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_uK3OBAxCi6k",
+      "target": "Business",
       "type": "wikilink"
     },
     {
@@ -304,75 +668,195 @@
     },
     {
       "source": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
       "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_Sx-lddna-qg",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_Sx-lddna-qg",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_Sx-lddna-qg",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_Sx-lddna-qg",
+      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
       "target": "Business",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works__W3qPymBEBA",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works__W3qPymBEBA",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works__W3qPymBEBA",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works__W3qPymBEBA",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
       "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
       "type": "wikilink"
     },
     {
+      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_Sx-lddna-qg",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_Sx-lddna-qg",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_Sx-lddna-qg",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_Sx-lddna-qg",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works__W3qPymBEBA",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_1zjcZ661ups",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_1zjcZ661ups",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_1zjcZ661ups",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_1zjcZ661ups",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_1zjcZ661ups",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_1zjcZ661ups",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_1zjcZ661ups",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_xEL3hn55gh8",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_xEL3hn55gh8",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_xEL3hn55gh8",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_xEL3hn55gh8",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_xEL3hn55gh8",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_xEL3hn55gh8",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_xEL3hn55gh8",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh005_2026_PewDiePie's_Journey",
+      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh005_2026_PewDiePie's_Journey",
+      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh005_2026_PewDiePie's_Journey",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
       "source": "how_money_works_4hiVQf9MPzg",
       "target": "Finance",
       "type": "wikilink"
@@ -384,7 +868,7 @@
     },
     {
       "source": "how_money_works_4hiVQf9MPzg",
-      "target": "how_money_works_qmZmKZR8S5U",
+      "target": "how_money_works_vT6qh72wCZk",
       "type": "wikilink"
     },
     {
@@ -425,6 +909,41 @@
     {
       "source": "Economy",
       "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_bVM76YxNPjQ",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_bVM76YxNPjQ",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_bVM76YxNPjQ",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_bVM76YxNPjQ",
+      "target": "Finance",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_bVM76YxNPjQ",
+      "target": "Investing",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_bVM76YxNPjQ",
+      "target": "Economy",
+      "type": "wikilink"
+    },
+    {
+      "source": "how_money_works_bVM76YxNPjQ",
+      "target": "Business",
       "type": "wikilink"
     },
     {
@@ -459,7 +978,27 @@
     },
     {
       "source": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
       "type": "wikilink"
     },
     {
@@ -484,7 +1023,7 @@
     },
     {
       "source": "Investing",
-      "target": "how_money_works_qmZmKZR8S5U",
+      "target": "how_money_works_vT6qh72wCZk",
       "type": "wikilink"
     },
     {
@@ -509,8 +1048,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-13T23:25:36.273566",
-    "total_nodes": 19,
-    "total_edges": 56
+    "generated": "2026-09-14T23:39:49.125924",
+    "total_nodes": 39,
+    "total_edges": 107
   }
 }

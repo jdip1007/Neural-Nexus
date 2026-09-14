@@ -1,231 +1,45 @@
 {
-  "last_updated": "2026-09-13T23:26:29.224679",
-  "total_pages": 19,
+  "generated_at": "2026-09-14T00:22:09",
+  "total_pages": 43,
   "pages_by_type": {
-    "video": 10,
-    "article": 4,
-    "unknown": 5
+    "video": 15,
+    "reading": 10,
+    "entity | concept | idea | finding | reading | comparison": 1,
+    "article": 4
   },
-  "pages_by_tag": {
-    "youtube": 5,
-    "youtube-creator": 5,
-    "educational-content": 5,
-    "internet-anarchist": 5,
-    "content-creation": 5,
-    "internet-culture": 3,
-    "mental-health": 2,
-    "marketing": 3,
-    "business-strategy": 3,
-    "gaming": 1,
-    "finance": 4,
-    "business": 4,
-    "economics": 3,
-    "money": 1,
-    "investing": 2,
-    "youtube-algorithm": 1,
-    "market": 3,
-    "society": 1,
-    "portfolio": 1
+  "pages_by_domain": {
+    "hermes": 10,
+    "technology": 10,
+    "ai | biotech | finance | devops | psychology | general": 1
   },
   "recent_pages": [
-    {
-      "title": "Finance",
-      "filename": "Finance.md",
-      "type": "article",
-      "created": "2026-09-13T23:22:00.000000",
-      "tags": [
-        "finance",
-        "business",
-        "economics",
-        "money",
-        "investing"
-      ]
-    },
-    {
-      "title": "Economy",
-      "filename": "Economy.md",
-      "type": "article",
-      "created": "2026-09-13T23:22:00.000000",
-      "tags": [
-        "economics",
-        "finance",
-        "business",
-        "market",
-        "society"
-      ]
-    },
-    {
-      "title": "Investing",
-      "filename": "Investing.md",
-      "type": "article",
-      "created": "2026-09-13T23:22:00.000000",
-      "tags": [
-        "investing",
-        "finance",
-        "business",
-        "market",
-        "portfolio"
-      ]
-    },
-    {
-      "title": "Business",
-      "filename": "Business.md",
-      "type": "article",
-      "created": "2026-09-13T23:22:00.000000",
-      "tags": [
-        "business",
-        "finance",
-        "economics",
-        "market"
-      ]
-    },
-    {
-      "title": "Is America Chasing Away All Of Its Smart People?",
-      "filename": "how_money_works_THodtjsCTSI.md",
-      "type": "video",
-      "created": "2026-09-13T23:21:31.377705",
-      "tags": []
-    },
-    {
-      "title": "How Long Can The Stock Market Ignore Reality?",
-      "filename": "how_money_works_qmZmKZR8S5U.md",
-      "type": "video",
-      "created": "2026-09-13T23:21:30.376151",
-      "tags": []
-    },
-    {
-      "title": "WTF Is Happening To The Video Game Industry?",
-      "filename": "how_money_works_Sx-lddna-qg.md",
-      "type": "video",
-      "created": "2026-09-13T23:21:29.374984",
-      "tags": []
-    },
-    {
-      "title": "Here's Why You Want A Really Boring Job",
-      "filename": "how_money_works_4hiVQf9MPzg.md",
-      "type": "video",
-      "created": "2026-09-13T23:21:28.373990",
-      "tags": []
-    },
-    {
-      "title": "WTF Does Peter Thiel Actually Want?",
-      "filename": "how_money_works__W3qPymBEBA.md",
-      "type": "video",
-      "created": "2026-09-13T23:21:27.373274",
-      "tags": []
-    },
-    {
-      "title": "Viral Marketing Strategies That Work",
-      "filename": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work.md",
-      "type": "video",
-      "created": "2026-09-13T00:14:48",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "marketing"
-      ]
-    },
-    {
-      "title": "The Algorithm: How YouTube Recommends Content",
-      "filename": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content.md",
-      "type": "video",
-      "created": "2026-09-13T00:14:46",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "youtube-algorithm",
-        "internet-culture",
-        "mental-health",
-        "business-strategy"
-      ]
-    },
-    {
-      "title": "The Evolution of YouTube Gaming",
-      "filename": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming.md",
-      "type": "video",
-      "created": "2026-09-13T00:14:44",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "business-strategy",
-        "gaming"
-      ]
-    },
-    {
-      "title": "MrBeast: Behind the Scenes",
-      "filename": "q8_r9s0t1u_MrBeast_Behind_the_Scenes.md",
-      "type": "video",
-      "created": "2026-09-13T00:14:42",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "business-strategy",
-        "marketing"
-      ]
-    },
-    {
-      "title": "The Rise and Fall of Logan Paul",
-      "filename": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul.md",
-      "type": "video",
-      "created": "2026-09-13T00:14:40",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "mental-health",
-        "marketing"
-      ]
-    },
-    {
-      "title": "Unknown",
-      "filename": "What-Breakups-ACTUALLY-Do-To-Men.md",
-      "type": "unknown",
-      "created": "",
-      "tags": []
-    },
-    {
-      "title": "Unknown",
-      "filename": "Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
-      "type": "unknown",
-      "created": "",
-      "tags": []
-    },
-    {
-      "title": "Unknown",
-      "filename": "Analyzing-The-Lindsay-Clancy-Case.md",
-      "type": "unknown",
-      "created": "",
-      "tags": []
-    },
-    {
-      "title": "Unknown",
-      "filename": "Why-Sensitive-People-Get-Traumatized-So-Easily.md",
-      "type": "unknown",
-      "created": "",
-      "tags": []
-    },
-    {
-      "title": "Unknown",
-      "filename": "Why-You-Need-Constant-Reassurance.md",
-      "type": "unknown",
-      "created": "",
-      "tags": []
-    }
-  ]
+    "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
+    "fresh005_2026_PewDiePie's_Journey.md",
+    "fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
+    "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
+    "fresh006_2026_The_Evolution_of_YouTube_Gaming.md"
+  ],
+  "tags": {
+    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"mental-health\"": 1,
+    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"internet-culture\", \"mental-health\", \"marketing\"": 1,
+    "'automotive', 'hardware', 'daves-garage', 'youtube', 'tutorial', 'automotive'": 1,
+    "'networking', 'hardware', 'daves-garage', 'youtube', 'tutorial'": 1,
+    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"internet-culture\", \"business-strategy\", \"gaming\"": 2,
+    "from taxonomy below": 1,
+    "\"finance\", \"business\", \"economics\", \"money\", \"investing\"": 1,
+    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"youtube-algorithm\", \"internet-culture\", \"mental-health\", \"business-strategy\"": 2,
+    "'programming', 'technology', 'gaming', 'daves-garage', 'youtube', 'tutorial'": 1,
+    "'programming', 'daves-garage', 'youtube', 'tutorial'": 1,
+    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"internet-culture\", \"gaming\"": 1,
+    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"business-strategy\", \"marketing\"": 1,
+    "\"economics\", \"finance\", \"business\", \"market\", \"society\"": 1,
+    "'automotive', 'daves-garage', 'youtube', 'tutorial', 'automotive'": 1,
+    "'programming', 'technology', 'daves-garage', 'youtube', 'tutorial'": 1,
+    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"marketing\"": 1,
+    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"internet-culture\", \"marketing\"": 1,
+    "\"investing\", \"finance\", \"business\", \"market\", \"portfolio\"": 1,
+    "'hardware', 'technology', 'automotive', 'daves-garage', 'youtube', 'tutorial'": 1,
+    "'automotive', 'hardware', 'tutorial', 'daves-garage', 'youtube', 'tutorial', 'automotive'": 3,
+    "\"business\", \"finance\", \"economics\", \"market\"": 1
+  }
 }

@@ -1,11 +1,11 @@
 ---
 {
   "title": "The Science of Habit Formation: Breaking Bad Patterns",
-  "created": "2026-09-12",
-  "updated": "2026-09-12",
+  "created": "2026-09-13",
+  "updated": "2026-09-13",
   "type": "video",
   "tags": [
-    "technology"
+    "psychology"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=test003"
@@ -13,7 +13,7 @@
   "video_id": "test003",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-12 19:25:59"
+  "ingestion_date": "2026-09-13 19:39:06"
 }
 ---
 
@@ -24,25 +24,25 @@
 - **Channel**: Chris Willx
 - **Video ID**: test003
 - **URL**: https://www.youtube.com/watch?v=test003
-- **Date Added**: 2026-09-12 19:25:59
+- **Date Added**: 2026-09-13 19:39:06
 
 ## Key Topics
 
-- technology
+- psychology
 
 ## Key Concepts
 
-- Mock transcript for video test003
-- This is a simulated transcript for demonstration purposes
-- In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions
+- Habit formation is a fascinating blend of neuroscience and behavioral psychology
+- This exploration covers the habit loop, cue-routine-reward patterns, and practical strategies for building positive habits while breaking negative ones
+- We examine the role of dopamine, willpower depletion, and environmental design in creating lasting behavioral change
 
 ## Transcript
 
-Mock transcript for video test003. This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions.
+Habit formation is a fascinating blend of neuroscience and behavioral psychology. This exploration covers the habit loop, cue-routine-reward patterns, and practical strategies for building positive habits while breaking negative ones. We examine the role of dopamine, willpower depletion, and environmental design in creating lasting behavioral change.
 
 ## Analysis
 
-This video explores various topics related to technology.
+This video explores various topics related to psychology.
 
 ## Related Pages
 

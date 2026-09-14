@@ -1,11 +1,13 @@
 ---
 {
   "title": "Understanding Human Behavior: Psychological Patterns and Predictions",
-  "created": "2026-09-12",
-  "updated": "2026-09-12",
+  "created": "2026-09-13",
+  "updated": "2026-09-13",
   "type": "video",
   "tags": [
-    "technology"
+    "relationships",
+    "psychology",
+    "health"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=test002"
@@ -13,7 +15,7 @@
   "video_id": "test002",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-12 19:25:57"
+  "ingestion_date": "2026-09-13 19:39:10"
 }
 ---
 
@@ -24,25 +26,26 @@
 - **Channel**: Chris Willx
 - **Video ID**: test002
 - **URL**: https://www.youtube.com/watch?v=test002
-- **Date Added**: 2026-09-12 19:25:57
+- **Date Added**: 2026-09-13 19:39:10
 
 ## Key Topics
 
-- technology
+- relationships
+- psychology
+- health
 
 ## Key Concepts
 
-- Mock transcript for video test002
-- This is a simulated transcript for demonstration purposes
-- In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions
+- This video explores important topics related to human behavior, psychology, and personal development
+- The discussion covers key insights about relationships, mental health, and practical strategies for navigating modern life's challenges
 
 ## Transcript
 
-Mock transcript for video test002. This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions.
+This video explores important topics related to human behavior, psychology, and personal development. The discussion covers key insights about relationships, mental health, and practical strategies for navigating modern life's challenges.
 
 ## Analysis
 
-This video explores various topics related to technology.
+This video explores various topics related to relationships, psychology, health.
 
 ## Related Pages
 

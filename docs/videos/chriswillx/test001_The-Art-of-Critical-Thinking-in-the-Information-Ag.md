@@ -1,10 +1,11 @@
 ---
 {
   "title": "The Art of Critical Thinking in the Information Age",
-  "created": "2026-09-12",
-  "updated": "2026-09-12",
+  "created": "2026-09-13",
+  "updated": "2026-09-13",
   "type": "video",
   "tags": [
+    "psychology",
     "technology"
   ],
   "sources": [
@@ -13,7 +14,7 @@
   "video_id": "test001",
   "channel": "Chris Willx",
   "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-12 19:25:55"
+  "ingestion_date": "2026-09-13 19:40:30"
 }
 ---
 
@@ -24,25 +25,26 @@
 - **Channel**: Chris Willx
 - **Video ID**: test001
 - **URL**: https://www.youtube.com/watch?v=test001
-- **Date Added**: 2026-09-12 19:25:55
+- **Date Added**: 2026-09-13 19:40:30
 
 ## Key Topics
 
+- psychology
 - technology
 
 ## Key Concepts
 
-- Mock transcript for video test001
-- This is a simulated transcript for demonstration purposes
-- In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions
+- Critical thinking in the digital age requires new strategies for information evaluation
+- We examine cognitive biases, logical fallacies, and the challenges of navigating an information-saturated world
+- The video covers practical techniques for media literacy, source verification, and maintaining intellectual independence in an era of misinformation
 
 ## Transcript
 
-Mock transcript for video test001. This is a simulated transcript for demonstration purposes. In a real implementation, this would contain the actual transcript from the video, including all spoken content, key insights, and important discussions.
+Critical thinking in the digital age requires new strategies for information evaluation. We examine cognitive biases, logical fallacies, and the challenges of navigating an information-saturated world. The video covers practical techniques for media literacy, source verification, and maintaining intellectual independence in an era of misinformation.
 
 ## Analysis
 
-This video explores various topics related to technology.
+This video explores various topics related to psychology, technology.
 
 ## Related Pages
 

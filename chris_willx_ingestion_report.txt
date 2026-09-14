@@ -1,23 +1,25 @@
 
 === Chris Willx YouTube Ingestion Report ===
-Generated: 2026-09-11 18:54:54
+Generated: 2026-09-14 19:55:14
 
 📊 Processing Statistics:
-• Total videos found: 14
-• Videos processed in this run: 3
-• Previously processed videos: 58
-• Unprocessed videos remaining: 11
+• Total videos found: 8
+• Videos processed in this run: 5
+• Previously processed videos: 26
+• Unprocessed videos remaining: 3
 
 🎯 Selected Videos for Processing:
-1. The Art of Critical Thinking in the Information Age (test001)
-2. Understanding Human Behavior: Psychological Patterns and Predictions (test002)
-3. The Science of Habit Formation: Breaking Bad Patterns (test003)
+1. The Wars in Iran & Ukraine Will Merge Very Soon (d1BAL1623v4)
+2. Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker (17T2bc9HEEA)
+3. "Women Are The Problem" - Why A Female Psychopath Can't Relate To Her Audience (6pF6UuxSoT0)
+4. Health Hacks Big Pharma Doesn't Want You To Know - Biohacking Roundtable (8MxG6tOkdNY)
+5. I built my dream podcast studio in Austin. (bxzmUeNN8ac)
 
-✅ Successfully processed: 3 videos
+✅ Successfully processed: 5 videos
 ❌ Failed to process: 0 videos (placeholder)
 
 📁 Files Created:
-• Neural Nexus pages: 3
+• Neural Nexus pages: 5
 • Video tracker updated: Yes
 
 🔗 Next Steps:
