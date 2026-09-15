@@ -68,8 +68,8 @@ This video explores how your brain perceives love when you have autism through t
 
 ## Related Topics
 
-- [[Mental Health Basics]]
-- [[Relationship Psychology]]
+- [[mental-health-basics]]
+- [[relationship-psychology]]
 - Personal Development Strategies
 - Healthy Gaming Habits
 

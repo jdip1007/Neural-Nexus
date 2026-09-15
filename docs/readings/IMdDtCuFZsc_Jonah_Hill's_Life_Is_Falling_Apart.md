@@ -30,11 +30,11 @@ This video explores mental-health through the lens of internet culture and digit
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet-culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
 
 ## Related Concepts
 
-- [[Wellness]]
+- [[wellness]]
 
 ## External Links
 

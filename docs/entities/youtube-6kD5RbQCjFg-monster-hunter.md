@@ -29,7 +29,7 @@ Mentioned in the context of research and development.
 
 ## See also
 
-- [[youtube-6kD5RbQCjFg-What Everyone Gets Wrong About ADHD]]
+- [[what-everyone-gets-wrong-about-adhd]]
 - [[youtube-BT4gsZBpL0E-monster-hunter]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-ZwYrXkPJA1s-ivy-league]]

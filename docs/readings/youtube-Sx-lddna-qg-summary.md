@@ -48,7 +48,7 @@ be possible for smaller teams to put together.
 
 ## See also
 
-- [[WTF Is Happening To The Video Game Industry-]]
+- [[wtf-is-happening-to-the-video-game-industry-]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-Sx-lddna-qg-warner-brothers]]
 - [[youtube-Sx-lddna-qg-works-media]]

@@ -45,9 +45,9 @@ The content covers various aspects of mental health, relationships, personal dev
 
 ## Related Pages
 
-- [[Mental Health Basics]]
+- [[mental-health-basics]]
 - Relationship Advice
-- [[Personal Development]]
+- [[personal-development]]
 - Gaming Psychology
 
 ## External Links

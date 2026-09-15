@@ -281,7 +281,7 @@ Side-by-side analysis of structural economic challenges facing China and Japan, 
 
 ## Sources
 
-- [[Stephen Roach]] - "China's Deepening Japan Problem" (Substack, August 2026)^[raw/pdfs/china-deepening-japan-problem-stephen-roach.md]
+- [[stephen-roach]] - "China's Deepening Japan Problem" (Substack, August 2026)^[raw/pdfs/china-deepening-japan-problem-stephen-roach.md]
 - 笑談中國經濟 - YouTube discussion: "Stephen Roach: China's Deepening Japan Problem"^[raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 - Penn World Tables - Capital-output ratio data
 - Hayashi & Prescott - Japan's lost decades analysis

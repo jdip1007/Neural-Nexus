@@ -59,8 +59,8 @@ Finance is the study and management of money, investments, and other financial i
 
 ## Related Pages
 
-- [[Investing]]
-- [[Economy]]
-- [[Business]]
-- [[Market]]
+- [[investing]]
+- [[economy]]
+- [[business]]
+- [[market]]
 - Money

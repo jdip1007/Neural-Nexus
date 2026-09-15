@@ -20,11 +20,11 @@ This video explores content-creation, business-strategy through the lens of inte
 ## Key Topics
 
 - [[content-creation]]
-- [[Business Strategy]]
+- [[business-strategy]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet-culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
 
 ## Related Concepts
 

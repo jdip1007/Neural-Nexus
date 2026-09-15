@@ -27,24 +27,24 @@ This video explores content-creation, mental-health through the lens of internet
 
 ## Key Topics
 
-- [[Content Creation]]
-- [[Mental Health]]
+- [[content-creation]]
+- [[mental-health]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
+The video provides insights into [[internet-culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
 
 ## Related Concepts
 
-- [[Digital Media]]
-- [[Wellness]]
+- [[digital-media]]
+- [[wellness]]
 
 ## Key Themes
 
 - Creativity
 - Culture
-- [[Technology]]
-- [[Psychology]]
+- [[technology]]
+- [[psychology]]
 
 ## External Links
 
@@ -53,8 +53,8 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 ## Categories
 
-- [[YouTube]]
-- [[Internet Culture]]
-- [[Digital Media]]
-- [[Content Creation]]
-- [[Internet Anarchist]]
+- [[youtube]]
+- [[internet-culture]]
+- [[digital-media]]
+- [[content-creation]]
+- [[internet-anarchist]]

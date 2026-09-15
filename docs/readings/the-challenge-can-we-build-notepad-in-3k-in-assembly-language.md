@@ -32,7 +32,7 @@ Assembly language programming challenge building a simple text editor. Step-by-s
 ## Related Pages
 
 - Dave's Garage - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[youtube-tutorials]] - Collection of technical tutorials
 - [Networking](concepts/networking.md) - Related networking content
 - [Programming](concepts/programming.md) - Related programming tutorials
 

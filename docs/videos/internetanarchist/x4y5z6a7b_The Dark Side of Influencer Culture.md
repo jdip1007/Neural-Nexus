@@ -69,9 +69,9 @@ This examination serves as an important counterpoint to the glamorous portrayal 
 
 - [[internet-culture]]
 - [[content-creation]]
-- [[YouTube Algorithm]]
+- [[youtube-algorithm]]
 - [[digital-media]]
-- [[Social Media Trends]]
+- [[social-media-trends]]
 
 ## Citations
 

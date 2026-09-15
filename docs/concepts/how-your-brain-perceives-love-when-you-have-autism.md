@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores how your brain perceives love when you
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[How Your Brain Perceives Love When You Have Autism.md]]
+**Original Page:** [[how-your-brain-perceives-love-when-you-have-autism]]
 **Accessed:** 2026-08-23
 
 ## Related

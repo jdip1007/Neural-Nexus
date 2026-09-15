@@ -32,7 +32,7 @@ This video explores internet culture, YouTube trends, and the dynamics of conten
 ## Key Concepts
 
 - Content Monetization
-- [[YouTube Algorithm]]
+- [[youtube-algorithm]]
 
 ## Transcript Content
 
@@ -70,9 +70,9 @@ This examination includes analysis of platform algorithms, audience preferences,
 
 - [[internet-culture]]
 - [[content-creation]]
-- [[YouTube Algorithm]]
+- [[youtube-algorithm]]
 - [[digital-media]]
-- [[Social Media Trends]]
+- [[social-media-trends]]
 
 ## Citations
 

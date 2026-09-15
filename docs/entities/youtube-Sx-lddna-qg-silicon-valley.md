@@ -29,7 +29,7 @@ Mentioned in the context of research and development.
 
 ## See also
 
-- [[WTF Is Happening To The Video Game Industry-]]
+- [[wtf-is-happening-to-the-video-game-industry-]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-THodtjsCTSI-silicon-valley]]
 - [[youtube-WEP5ubPMGDU-big-bang]]

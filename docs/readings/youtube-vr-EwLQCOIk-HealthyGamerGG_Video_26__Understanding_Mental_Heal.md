@@ -34,6 +34,6 @@ Mental health awareness has become increasingly important in today's society. Un
 ## Related Concepts
 
 - [[mental-health]]
-- [[Social Skills]]
-- [[Depression]]
-- [[Mindfulness]]
+- [[social-skills]]
+- [[depression]]
+- [[mindfulness]]

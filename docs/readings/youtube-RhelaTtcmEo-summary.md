@@ -43,7 +43,7 @@ This video discusses Why Smart People Are Bad At Dating
 ## See also
 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-RhelaTtcmEo-Why Smart People Are Bad At Dating]]
+- [[why-smart-people-are-bad-at-dating]]
 - [[youtube-RhelaTtcmEo-it-it]]
 - [[youtube-RhelaTtcmEo-not-psycho]]
 - [[youtube-nFY50H8nb5E-so-so]]

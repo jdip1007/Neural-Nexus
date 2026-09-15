@@ -98,8 +98,8 @@ The economy refers to the entire system of production, distribution, and consump
 
 ## Related Pages
 
-- [[Finance]]
-- [[Investing]]
-- [[Business]]
-- [[Market]]
-- [[Social Media]]
+- [[finance]]
+- [[investing]]
+- [[business]]
+- [[market]]
+- [[social-media]]

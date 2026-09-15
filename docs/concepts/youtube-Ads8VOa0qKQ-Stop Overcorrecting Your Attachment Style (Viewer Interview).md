@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=Ads8VOa0qKQ
 **Video ID:** `Ads8VOa0qKQ`
-**Transcript:** [[raw/transcripts/healthygamergg/Stop Overcorrecting Your Attachment Style (Viewer Interview).md]]
+**Transcript:** 
 **Accessed:** 2026-09-04
 
 ## Related

@@ -53,9 +53,9 @@ tags: []
 
 ## Related Pages
 
-- [[Financial Planning]]
-- [[Investment Returns]]
-- [[Economic Inequality]]
+- [[financial-planning]]
+- [[investment-returns]]
+- [[economic-inequality]]
 
 ---
 

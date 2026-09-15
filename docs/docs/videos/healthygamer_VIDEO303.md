@@ -43,7 +43,7 @@ This is a sample transcript for video VIDEO303. It contains various topics about
 
 ## Related Pages
 
-- [[Mental Health Basics]]
+- [[mental-health-basics]]
 - Gaming Psychology
 - Relationship Building
 - Self-Improvement Strategies

@@ -56,4 +56,4 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 - [[relationships]]
 - [[youtube-17rJSSzto4U-how-to]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-Wu7zcamEAI0-How To Actually Have An Elite Mindset]]
+- [[youtube-healthy-gamer-how-to-actually-have-an-elite-mindset]]

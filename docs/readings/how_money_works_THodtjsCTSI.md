@@ -47,5 +47,5 @@ Examining the intersection of technology and finance. How digital innovations ar
 
 - [[finance]]
 - [[investing]]
-- [[Economy]]
+- [[economy]]
 - [[business]]

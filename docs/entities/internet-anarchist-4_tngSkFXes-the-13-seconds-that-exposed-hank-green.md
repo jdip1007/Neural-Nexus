@@ -61,4 +61,4 @@ This page was automatically generated from the Internet Anarchist YouTube channe
 ## See also
 
 - [[josh-risser]]
-- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-xj-dp8sjfa0-social-media]]

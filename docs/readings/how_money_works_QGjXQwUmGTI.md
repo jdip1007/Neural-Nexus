@@ -21,7 +21,7 @@ This video explores important financial concepts and economic trends. Learn abou
 
 ## Key Topics
 
-[[Market]]
+[[market]]
 
 ## Key Concepts
 
@@ -35,5 +35,5 @@ This video explores important financial concepts and economic trends. Learn abou
 
 - [[finance]]
 - [[investing]]
-- [[Economy]]
+- [[economy]]
 - [[business]]

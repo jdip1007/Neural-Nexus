@@ -72,7 +72,7 @@ Dave's Garage is a popular YouTube channel created by Dave Plummer that focuses 
 
 ## Related Pages
 
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[youtube-tutorials]] - Collection of technical tutorials
 - [Networking](concepts/networking.md) - Related networking content
 - [Programming](concepts/programming.md) - Related programming tutorials
 - [Hardware](concepts/hardware.md) - Related hardware projects

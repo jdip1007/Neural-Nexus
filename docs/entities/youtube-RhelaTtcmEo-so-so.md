@@ -30,7 +30,7 @@ Mentioned in the context of research and development.
 ## See also
 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-RhelaTtcmEo-Why Smart People Are Bad At Dating]]
+- [[why-smart-people-are-bad-at-dating]]
 - [[youtube-ZwYrXkPJA1s-ivy-league]]
 - [[youtube-ahDC1sQCDzY-in-the]]
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

@@ -44,7 +44,7 @@ Analysis of How Money Works: Video QmWyQ-BCD8E - How Money Works financial comme
 
 ## Keywords
 
-- [[MarketAnalysis]]
-- [[Investment]]
+- [[marketanalysis]]
+- [[investment]]
 - [[economics]]
 - [[finance]]

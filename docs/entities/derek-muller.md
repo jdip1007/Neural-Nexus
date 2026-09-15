@@ -187,4 +187,4 @@ This entity page is based primarily on the Veritasium video on metabolic scaling
 - [[metabolic-scaling]]
 - [[relationships]]
 - [[veritasium]]
-- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-xj-dp8sjfa0-social-media]]

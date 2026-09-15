@@ -43,7 +43,7 @@ A comprehensive look at economic trends and their implications for everyday peop
 
 ## Related Pages
 
-- [[Finance]]
-- [[Investing]]
-- [[Economy]]
-- [[Business]]
+- [[finance]]
+- [[investing]]
+- [[economy]]
+- [[business]]

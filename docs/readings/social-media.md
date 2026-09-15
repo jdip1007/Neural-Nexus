@@ -92,4 +92,4 @@ Social media platforms are digital platforms that enable users to create and sha
 
 - [[mental-health]]
 - [[networking]]
-- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-xj-dp8sjfa0-social-media]]

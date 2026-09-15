@@ -54,4 +54,4 @@ This video discusses YouTubers Who Destroyed Their Career With 1 Video
 - [[youtube-WNSZ6xouNv4-used-to]]
 - [[youtube-ahDC1sQCDzY-in-the]]
 - [[youtube-ecBEqWeipWs-the-world]]
-- [[youtube-heAA4ltXZ-4-hand-foundation]]
+- [[youtube-heaa4ltxz-4-hand-foundation]]

@@ -20,11 +20,11 @@ This video explores content-creation, youtube-algorithm through the lens of inte
 ## Key Topics
 
 - [[content-creation]]
-- [[Youtube Algorithm]]
+- [[youtube-algorithm]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet-culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
 
 ## Related Concepts
 

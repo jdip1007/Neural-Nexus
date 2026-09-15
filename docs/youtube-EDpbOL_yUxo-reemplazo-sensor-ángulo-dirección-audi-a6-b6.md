@@ -23,8 +23,8 @@ This video from Dave's Garage covers automotive, hardware, tutorial with a focus
 
 ## Key Topics
 
-- [[Automotive]]
-- [[Hardware]]
+- [[automotive]]
+- [[hardware]]
 - Tutorial
 
 ## Technical Concepts
@@ -41,7 +41,7 @@ Replacement guide for Audi A6 (B6) steering angle sensor. This detailed tutorial
 ## Related Pages
 
 - Dave's Garage - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[youtube-tutorials]] - Collection of technical tutorials
 - Automotive Repair - Related automotive content
 - DIY Guides - Do-it-yourself repair guides
 

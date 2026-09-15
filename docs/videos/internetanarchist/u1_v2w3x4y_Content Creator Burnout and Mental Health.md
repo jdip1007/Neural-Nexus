@@ -74,9 +74,9 @@ This is an essential resource for anyone creating content on YouTube or other pl
 
 - [[internet-culture]]
 - [[content-creation]]
-- [[YouTube Algorithm]]
+- [[youtube-algorithm]]
 - [[digital-media]]
-- [[Social Media Trends]]
+- [[social-media-trends]]
 
 ## Citations
 

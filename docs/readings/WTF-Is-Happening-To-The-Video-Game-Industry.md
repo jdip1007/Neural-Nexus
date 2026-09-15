@@ -63,6 +63,6 @@ tags: []
 
 ## See also
 
-- [[WTF Is Happening To The Video Game Industry-]]
+- [[wtf-is-happening-to-the-video-game-industry-]]
 - [[youtube-5EDzRGxHT2M-how-money]]
 - [[youtube-vUYR5zv6gqU-economic-analysis]]

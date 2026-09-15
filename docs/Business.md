@@ -119,7 +119,7 @@ Business refers to the organized efforts of individuals to produce and sell good
 
 ## Related Pages
 
-- [[Finance]]
-- [[Investing]]
-- [[Economy]]
-- [[Market]]
+- [[finance]]
+- [[investing]]
+- [[economy]]
+- [[market]]

@@ -27,29 +27,29 @@ This video explores content-creation, youtube-algorithm, internet-culture, menta
 
 ## Key Topics
 
-- [[Content Creation]]
-- [[Youtube Algorithm]]
-- [[Internet Culture]]
-- [[Mental Health]]
-- [[Business Strategy]]
+- [[content-creation]]
+- [[youtube-algorithm]]
+- [[internet-culture]]
+- [[mental-health]]
+- [[business-strategy]]
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
+The video provides insights into [[internet-culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
 
 ## Related Concepts
 
-- [[Digital Media]]
+- [[digital-media]]
 - Digital Marketing
 - Digital Society
-- [[Wellness]]
+- [[wellness]]
 - Entrepreneurship
 
 ## Key Themes
 
-- [[Business]]
-- [[Technology]]
-- [[Psychology]]
+- [[business]]
+- [[technology]]
+- [[psychology]]
 
 ## External Links
 
@@ -58,8 +58,8 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 ## Categories
 
-- [[YouTube]]
-- [[Internet Culture]]
-- [[Digital Media]]
-- [[Content Creation]]
-- [[Internet Anarchist]]
+- [[youtube]]
+- [[internet-culture]]
+- [[digital-media]]
+- [[content-creation]]
+- [[internet-anarchist]]

@@ -23,8 +23,8 @@ This video from Dave's Garage covers automotive, hardware, tutorial with a focus
 
 ## Key Topics
 
-- [[Automotive]]
-- [[Hardware]]
+- [[automotive]]
+- [[hardware]]
 - Tutorial
 
 ## Technical Concepts
@@ -40,7 +40,7 @@ Part 1 of Saab 93 seat modification project. This video begins the custom seat c
 ## Related Pages
 
 - Dave's Garage - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[youtube-tutorials]] - Collection of technical tutorials
 - Automotive Repair - Related automotive content
 - DIY Guides - Do-it-yourself repair guides
 

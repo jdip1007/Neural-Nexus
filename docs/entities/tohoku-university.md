@@ -45,4 +45,4 @@ Tohoku University (東北大学) is a national university located in Sendai, Jap
 
 ## See also
 
-- [[japanese-army]]
+- [[youtube-D4nPxik59oE-japanese-army]]

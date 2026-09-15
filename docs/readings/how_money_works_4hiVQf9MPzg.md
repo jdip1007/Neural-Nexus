@@ -46,5 +46,5 @@ Breaking down complex financial topics into understandable concepts. Learn about
 
 - [[finance]]
 - [[investing]]
-- [[Economy]]
+- [[economy]]
 - [[business]]

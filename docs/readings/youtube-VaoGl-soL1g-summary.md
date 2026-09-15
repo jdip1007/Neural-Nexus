@@ -50,4 +50,4 @@ This video discusses The Epstein Story You Haven’t Heard - Eric Weinstein
 - [[youtube-VaoGl-soL1g-steve-bushi]]
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-WNSZ6xouNv4-used-to]]
-- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-xj-dp8sjfa0-social-media]]

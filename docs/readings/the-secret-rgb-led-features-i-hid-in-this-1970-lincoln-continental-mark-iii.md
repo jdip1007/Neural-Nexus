@@ -35,7 +35,7 @@ RGB LED installation and programming tutorial for vintage vehicles. Covers wirin
 ## Related Pages
 
 - Dave's Garage - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[youtube-tutorials]] - Collection of technical tutorials
 - [Networking](concepts/networking.md) - Related networking content
 - [Programming](concepts/programming.md) - Related programming tutorials
 

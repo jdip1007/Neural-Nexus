@@ -64,6 +64,6 @@ Financial and economic discussion exploring investing, finance, business.
 ## See also
 
 - [[Investing-Basics]]
-- [[WTF Is Happening To The Video Game Industry-]]
+- [[wtf-is-happening-to-the-video-game-industry-]]
 - [[neural-nexus]]
 - [[youtube-5EDzRGxHT2M-how-money]]

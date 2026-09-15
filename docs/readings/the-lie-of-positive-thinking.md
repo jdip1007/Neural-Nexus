@@ -68,8 +68,8 @@ This video explores the lie of "positive thinking" through the lens of mental he
 
 ## Related Topics
 
-- [[Mental Health Basics]]
-- [[Relationship Psychology]]
+- [[mental-health-basics]]
+- [[relationship-psychology]]
 - Personal Development Strategies
 - Healthy Gaming Habits
 

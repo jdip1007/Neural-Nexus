@@ -38,7 +38,7 @@ This video explores internet culture, YouTube trends, and the dynamics of conten
 
 ## Key Concepts
 
-- [[Viral Content]]
+- [[viral-content]]
 
 ## Transcript Content
 
@@ -76,9 +76,9 @@ This provides both theoretical understanding and practical application of viral 
 
 - [[internet-culture]]
 - [[content-creation]]
-- [[YouTube Algorithm]]
+- [[youtube-algorithm]]
 - [[digital-media]]
-- [[Social Media Trends]]
+- [[social-media-trends]]
 
 ## Citations
 

@@ -36,7 +36,7 @@ This video explores internet culture, YouTube trends, and the dynamics of conten
 
 ## Key Concepts
 
-- [[YouTube Algorithm]]
+- [[youtube-algorithm]]
 
 ## Transcript Content
 
@@ -74,9 +74,9 @@ This examination provides valuable insights for creators looking to improve thei
 
 - [[internet-culture]]
 - [[content-creation]]
-- [[YouTube Algorithm]]
+- [[youtube-algorithm]]
 - [[digital-media]]
-- [[Social Media Trends]]
+- [[social-media-trends]]
 
 ## Citations
 

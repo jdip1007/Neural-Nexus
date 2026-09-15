@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores why modern dating feels like parenting
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[Why Modern Dating Feels Like Parenting _ Lovemaxxing w_ Dr..md]]
+**Original Page:** [[why-modern-dating-feels-like-parenting]]
 **Accessed:** 2026-08-23
 
 ## Related

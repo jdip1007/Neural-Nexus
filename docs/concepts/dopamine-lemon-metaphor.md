@@ -128,6 +128,6 @@ If you start with brain rot, you won't "feel motivated later." You'll feel deple
 - [[brain-rot]]
 - [[dopamine-tolerance]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-xj-dp8sjfa0-social-media]]
 - [[youtube-YQQMF8ibxVw-when-you]]
 - [[youtube-ahDC1sQCDzY-in-the]]

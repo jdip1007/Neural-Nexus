@@ -68,8 +68,8 @@ This video explores why you always feel uneasy (transcendental existential dread
 
 ## Related Topics
 
-- [[Mental Health Basics]]
-- [[Relationship Psychology]]
+- [[mental-health-basics]]
+- [[relationship-psychology]]
 - Personal Development Strategies
 - Healthy Gaming Habits
 

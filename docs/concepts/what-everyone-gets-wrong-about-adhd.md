@@ -38,7 +38,7 @@ This content from HealthyGamerGG explores what everyone gets wrong about adhd an
 ## Sources
 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
-**Original Page:** [[What Everyone Gets Wrong About ADHD.md]]
+**Original Page:** [[what-everyone-gets-wrong-about-adhd]]
 **Accessed:** 2026-08-23
 
 ## Related

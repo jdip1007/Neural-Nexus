@@ -23,7 +23,7 @@ This video from Dave's Garage covers automotive with a focus on automotive_repai
 
 ## Key Topics
 
-- [[Automotive]]
+- [[automotive]]
 
 ## Technical Concepts
 
@@ -36,7 +36,7 @@ Fuel consumption analysis for Jeep Grand Cherokee 5.2 V8. This video examines re
 ## Related Pages
 
 - Dave's Garage - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[youtube-tutorials]] - Collection of technical tutorials
 - Automotive Repair - Related automotive content
 - DIY Guides - Do-it-yourself repair guides
 

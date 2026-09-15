@@ -70,5 +70,5 @@ This video explores various topics related to technology, health, business.
 ## Related Pages
 
 - [[chris-willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
+- [[philosophy]] - General philosophy topics
 - [Psychology](concepts/psychology.md) - Psychological concepts discussed

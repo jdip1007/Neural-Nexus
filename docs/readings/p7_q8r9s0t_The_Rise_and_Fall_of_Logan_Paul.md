@@ -34,13 +34,13 @@ This video explores content-creation, internet-culture, mental-health through th
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
+The video provides insights into [[internet-culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment.
 
 ## Related Concepts
 
 - [[digital-media]]
 - Digital Society
-- [[Wellness]]
+- [[wellness]]
 
 ## External Links
 

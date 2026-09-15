@@ -68,8 +68,8 @@ This video explores why gifted people burn out the fastest through the lens of m
 
 ## Related Topics
 
-- [[Mental Health Basics]]
-- [[Relationship Psychology]]
+- [[mental-health-basics]]
+- [[relationship-psychology]]
 - Personal Development Strategies
 - Healthy Gaming Habits
 

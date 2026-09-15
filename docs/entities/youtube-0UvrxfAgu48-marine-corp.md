@@ -32,4 +32,4 @@ Mentioned in the context of research and development.
 - [[youtube-D-uK2Xs6D9s-the-pentagon]]
 - [[youtube-ahDC1sQCDzY-in-the]]
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
-- [[youtube-heAA4ltXZ-4-hand-foundation]]
+- [[youtube-heaa4ltxz-4-hand-foundation]]

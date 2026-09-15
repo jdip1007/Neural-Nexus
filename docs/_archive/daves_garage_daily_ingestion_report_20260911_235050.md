@@ -32,4 +32,4 @@ status: draft
 
 - [[youtube-50FtUPGLyyo-The Cost Of Attention]]
 - youtube--N6qPEA-dGc-Why Gifted People Burn Out The Fastest
-- [[youtube-xHkcIRZa6lo-Why You Should NEVER Confess Your Love]]
+- [[why-you-should-never-confess-your-love]]

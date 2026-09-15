@@ -31,23 +31,23 @@ This is a mock transcript for video example9.
 
 ## Key Topics
 
-- [[internet culture]]
+- [[internet-culture]]
 - [[content-creation]]
-- [[social media]]
-- [[online reputation]]
-- [[digital identity]]
+- [[social-media]]
+- [[online-reputation]]
+- [[digital-identity]]
 - [[fame]]
 - [[burnout]]
-- [[mental health]]
+- [[mental-health]]
 
 ## Key Concepts
 
-- [[persona management]]
-- [[digital footprint]]
-- [[viral content]]
-- [[algorithmic influence]]
-- [[online community]]
-- [[creator economy]]
+- [[persona-management]]
+- [[digital-footprint]]
+- [[viral-content]]
+- [[algorithmic-influence]]
+- [[online-community]]
+- [[creator-economy]]
 
 ## Analysis
 

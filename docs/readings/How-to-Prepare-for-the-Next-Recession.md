@@ -53,9 +53,9 @@ tags: []
 
 ## Related Pages
 
-- [[Finance Overview]]
-- [[Investing Basics]]
-- [[Economic Principles]]
+- [[Finance-Overview]]
+- [[Investing-Basics]]
+- [[Economic-Principles]]
 
 ---
 

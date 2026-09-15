@@ -35,7 +35,7 @@ This video discusses Microsoft's Secret 90s Weapon That Made Windows Fast
 - [[cloud]]
 - [[architecture]]
 - [[algorithm]]
-- [[framework]]
+- framework
 
 ## Transcript Highlights
 > suggest. And that's the key point.

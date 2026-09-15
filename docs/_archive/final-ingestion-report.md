@@ -220,5 +220,5 @@ The YouTube Neural Nexus ingestion system has demonstrated **full functionality*
 
 - [[algorithm]]
 - [[neural-nexus]]
-- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-xj-dp8sjfa0-social-media]]
 - [[youtube-giG3JkPj5RE-dr-phil]]

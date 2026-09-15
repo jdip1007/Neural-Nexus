@@ -193,7 +193,7 @@
 **Quality Check Results:**
 - ✅ All raw transcripts have proper frontmatter (source_url, source_type, ingested, sha256)
 - ✅ All reading summaries have sources, tags, proper classification
-- ✅ Fixed 2 broken wikilinks in youtube-Unzc731iCUY-summary.md (removed [ai](concepts/ai.md), [[framework]], [cloud](concepts/cloud.md), [api](concepts/api.md); added [[communication]], [[presentation]], [programming](concepts/programming.md), [[python]], [[computer-science]])
+- ✅ Fixed 2 broken wikilinks in youtube-Unzc731iCUY-summary.md (removed [ai](concepts/ai.md), framework, [cloud](concepts/cloud.md), [api](concepts/api.md); added [[communication]], [[presentation]], [programming](concepts/programming.md), [[python]], [[computer-science]])
 - ✅ All wikilinks now point to existing concepts or are appropriate placeholders
 - ✅ Entity pages have proper frontmatter and citations
 

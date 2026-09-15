@@ -33,7 +33,7 @@ An in-depth analysis of current economic conditions and their impact on personal
 
 ## Key Topics
 
-[[Market]], Wealth, [[finance]]
+[[market]], Wealth, [[finance]]
 
 ## Key Concepts
 
@@ -47,5 +47,5 @@ An in-depth analysis of current economic conditions and their impact on personal
 
 - [[finance]]
 - [[investing]]
-- [[Economy]]
+- [[economy]]
 - [[business]]

@@ -79,4 +79,4 @@ Internet culture encompasses the shared norms, values, behaviors, and practices 
 
 - [[mental-health]]
 - [[relationships]]
-- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-xj-dp8sjfa0-social-media]]

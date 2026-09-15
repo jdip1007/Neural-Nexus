@@ -31,12 +31,12 @@ This video explores internet-culture, mental-health through the lens of internet
 
 ## Content Analysis
 
-The video provides insights into [[internet culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
+The video provides insights into [[internet-culture]] and [[content-creation]], examining how digital platforms shape modern communication and entertainment. The analysis covers themes of accountability, creativity, and the evolving landscape of online media.
 
 ## Related Concepts
 
 - Digital Society
-- [[Wellness]]
+- [[wellness]]
 
 ## Key Themes
 
@@ -56,4 +56,4 @@ The video provides insights into [[internet culture]] and [[content-creation]], 
 - [[internet-culture]]
 - [[digital-media]]
 - [[content-creation]]
-- [[Internet Anarchist]]
+- [[internet-anarchist]]

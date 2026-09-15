@@ -293,7 +293,7 @@ Roach critiques Evan Osnos's New Yorker article "The Future, Made in China" (Aug
 
 ## Sources
 
-- [[Stephen Roach]] - "China's Deepening Japan Problem" (Substack, August 2026)^[raw/pdfs/china-deepening-japan-problem-stephen-roach.md]
+- [[stephen-roach]] - "China's Deepening Japan Problem" (Substack, August 2026)^[raw/pdfs/china-deepening-japan-problem-stephen-roach.md]
 - 笑談中國經濟 - YouTube discussion: "Stephen Roach: China's Deepening Japan Problem"^[raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 - Penn World Tables - Capital-output ratio data (1970s-2023)
 - Hayashi & Prescott - Early scholars of Japan's lost decades analysis

@@ -33,4 +33,4 @@ Mentioned in the context of research and development.
 - [[youtube-ZwYrXkPJA1s-ivy-league]]
 - [[youtube-ahDC1sQCDzY-in-the]]
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
-- [[youtube-xHkcIRZa6lo-Why You Should NEVER Confess Your Love]]
+- [[youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love]]

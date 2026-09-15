@@ -38,7 +38,7 @@ This video from HealthyGamerGG explores mental health and psychology and provide
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=vr-EwLQCOIk
 **Video ID:** `vr-EwLQCOIk`
-**Transcript:** [[raw/transcripts/healthygamergg/Nobody Cares How Stoic You Are (Anima_Animus).md]]
+**Transcript:** 
 **Accessed:** 2026-09-04
 
 ## Related

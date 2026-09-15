@@ -44,7 +44,7 @@ Analysis of  - How Money Works financial commentary
 
 ## Keywords
 
-- [[MarketAnalysis]]
-- [[Investment]]
+- [[marketanalysis]]
+- [[investment]]
 - [[economics]]
 - [[finance]]

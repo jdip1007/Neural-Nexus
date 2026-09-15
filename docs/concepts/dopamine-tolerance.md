@@ -245,6 +245,6 @@ Both matter:
 - [[terminal-boredom]]
 - youtube-6BOxK-JrghY-the-work
 - [[youtube-WNSZ6xouNv4-used-to]]
-- [[youtube-XJ-DP8SJfa0-social-media]]
+- [[youtube-xj-dp8sjfa0-social-media]]
 - [[youtube-YQQMF8ibxVw-when-you]]
 - [[youtube-ahDC1sQCDzY-in-the]]

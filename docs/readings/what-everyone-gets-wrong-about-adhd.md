@@ -70,7 +70,7 @@ This video explores what everyone gets wrong about adhd through the lens of ment
 
 - [[mental-health]]
 - [Psychology](concepts/psychology.md)
-- [[Personal Development]]
+- [[personal-development]]
 - [Relationships](concepts/relationships.md)
 
 ---

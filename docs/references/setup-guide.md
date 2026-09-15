@@ -2343,7 +2343,7 @@ After the first push (Phase 10), check:
 ### Step 9.2: Configure Settings
 
 In Obsidian Settings → Files & Links:
-- **New link format**: `[[Wikilinks]]` (not Markdown links)
+- **New link format**: `[[wikilinks]]` (not Markdown links)
 - **Attachment folder path**: `raw/assets`
 - **Default location for new attachments**: "In subfolder under current folder"
 
