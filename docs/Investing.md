@@ -93,4 +93,4 @@ Investing is the act of allocating resources, usually money, with the expectatio
 - [[Economy]]
 - [[Business]]
 - [[Market]]
-- [[Money]]
+- Money

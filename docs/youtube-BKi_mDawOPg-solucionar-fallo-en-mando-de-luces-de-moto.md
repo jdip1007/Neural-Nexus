@@ -25,7 +25,7 @@ This video from Dave's Garage covers automotive, hardware, tutorial with a focus
 
 - [[Automotive]]
 - [[Hardware]]
-- [[Tutorial]]
+- Tutorial
 
 ## Technical Concepts
 
@@ -40,10 +40,10 @@ Troubleshooting and repair guide for motorcycle light switch failure. This tutor
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
+- Dave's Garage - Main channel page
 - [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Automotive Repair]] - Related automotive content
-- [[DIY Guides]] - Do-it-yourself repair guides
+- Automotive Repair - Related automotive content
+- DIY Guides - Do-it-yourself repair guides
 
 ## Citations
 

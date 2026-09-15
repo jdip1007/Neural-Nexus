@@ -41,8 +41,8 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 
 ## Key Themes
 
-- [[Creativity]]
-- [[Culture]]
+- Creativity
+- Culture
 - [[Technology]]
 - [[Psychology]]
 

@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores the lie of "positive thinking" and provi
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=l7BaFufR23E
 **Video ID:** `l7BaFufR23E`
-**Transcript:** [[raw/transcripts/healthygamergg/The Lie of _Positive Thinking_.md]]
+**Transcript:** raw/transcripts/healthygamergg/The Lie of _Positive Thinking_.md
 **Accessed:** 2026-09-14
 
 ## Related

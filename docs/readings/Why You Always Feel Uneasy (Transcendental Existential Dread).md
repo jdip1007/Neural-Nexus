@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores why you always feel uneasy (transcendent
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=oCB-sCIKnkU
 **Video ID:** `oCB-sCIKnkU`
-**Transcript:** [[raw/transcripts/healthygamergg/Why You Always Feel Uneasy (Transcendental Existential Dread).md]]
+**Transcript:** raw/transcripts/healthygamergg/Why You Always Feel Uneasy (Transcendental Existential Dread).md
 **Accessed:** 2026-09-14
 
 ## Related

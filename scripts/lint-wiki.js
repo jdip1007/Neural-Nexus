@@ -445,7 +445,41 @@ function lint() {
   const total = errors.length + warnings.length + info.length + linkSuggestions.length;
   console.log(`\nTotal: ${errors.length} errors, ${warnings.length} warnings, ${info.length} info, ${linkSuggestions.length} link suggestions`);
 
-  process.exit(errors.length > 0 ? 1 : 0);
+  // ── Structural assertions (hard fail even if "errors" array is empty) ──
+  const structuralFailures = [];
+
+  // 1. SCHEMA.md must load tags (>0 means the section was found and parsed)
+  if (validTags.size === 0) {
+    structuralFailures.push('SCHEMA.md loaded 0 tags — section header or format broken');
+  }
+
+  // 2. SCHEMA.md must have a minimum viable taxonomy
+  if (validTags.size > 0 && validTags.size < 50) {
+    structuralFailures.push(`SCHEMA.md only has ${validTags.size} tags — expected 50+. Taxonomy may have been truncated.`);
+  }
+
+  // 3. Broken wikilinks must be 0 (already in warnings, but enforce explicitly)
+  const brokenLinkCount = warnings.filter(w => w.startsWith('Broken wikilink')).length;
+  if (brokenLinkCount > 0) {
+    structuralFailures.push(`${brokenLinkCount} broken wikilinks found — all [[links]] must resolve`);
+  }
+
+  // 4. No pages should be in docs/ root (they belong in content dirs)
+  const rootMdFiles = files.filter(f => !f.relPath.includes('/'));
+  if (rootMdFiles.length > 0) {
+    structuralFailures.push(`${rootMdFiles.length} orphan .md files in docs/ root — move to content dirs`);
+  }
+
+  // 5. No JSON frontmatter (must be YAML)
+  // (Checked by checkFrontmatter — if any page has JSON FM, it'll fail parsing)
+
+  if (structuralFailures.length > 0) {
+    console.log(`\n🚫 STRUCTURAL FAILURES (${structuralFailures.length}):`);
+    structuralFailures.forEach(f => console.log(`   ${f}`));
+  }
+
+  const exitCode = (errors.length > 0 || structuralFailures.length > 0) ? 1 : 0;
+  process.exit(exitCode);
 }
 
 lint();

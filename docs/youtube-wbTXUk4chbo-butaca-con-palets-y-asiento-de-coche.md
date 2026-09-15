@@ -37,10 +37,10 @@ DIY tutorial for building a pallet sofa with car seat. This creative video demon
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
+- Dave's Garage - Main channel page
 - [[YouTube Tutorials]] - Collection of technical tutorials
-- [[Automotive Repair]] - Related automotive content
-- [[DIY Guides]] - Do-it-yourself repair guides
+- Automotive Repair - Related automotive content
+- DIY Guides - Do-it-yourself repair guides
 
 ## Citations
 

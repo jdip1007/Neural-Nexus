@@ -39,14 +39,14 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 ## Related Concepts
 
 - [[Digital Media]]
-- [[Digital Society]]
-- [[Entrepreneurship]]
-- [[Entertainment]]
+- Digital Society
+- Entrepreneurship
+- Entertainment
 
 ## Key Themes
 
 - [[Business]]
-- [[Culture]]
+- Culture
 - [[Technology]]
 - [[Gaming]]
 

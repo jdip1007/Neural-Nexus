@@ -38,12 +38,12 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 ## Related Concepts
 
 - [[Digital Media]]
-- [[Digital Society]]
-- [[Entertainment]]
+- Digital Society
+- Entertainment
 
 ## Key Themes
 
-- [[Creativity]]
+- Creativity
 - [[Technology]]
 - [[Gaming]]
 

@@ -40,10 +40,10 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 ## Related Concepts
 
 - [[Digital Media]]
-- [[Digital Marketing]]
-- [[Digital Society]]
+- Digital Marketing
+- Digital Society
 - [[Wellness]]
-- [[Entrepreneurship]]
+- Entrepreneurship
 
 ## Key Themes
 

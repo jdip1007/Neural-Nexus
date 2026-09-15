@@ -29,7 +29,7 @@ This video explores content-creation, internet-culture, marketing through the le
 
 - [[Content Creation]]
 - [[Internet Culture]]
-- [[Marketing]]
+- Marketing
 
 ## Content Analysis
 
@@ -38,15 +38,15 @@ The video provides insights into [[internet culture]] and [[content creation]], 
 ## Related Concepts
 
 - [[Digital Media]]
-- [[Digital Society]]
+- Digital Society
 - [[Business]]
 
 ## Key Themes
 
-- [[Accountability]]
-- [[Culture]]
+- Accountability
+- Culture
 - [[Technology]]
-- [[Marketing]]
+- Marketing
 
 ## External Links
 
