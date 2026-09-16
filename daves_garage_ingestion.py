@@ -85,6 +85,19 @@ class DavesGarageIngestion:
                 "url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
                 "duration": "25 minutes",
                 "views": "89K"
+            },
+            # NEWER VIDEOS
+            {
+                "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+                "url": "https://www.youtube.com/watch?v=dFzX7z8kY9A",
+                "duration": "18 minutes",
+                "views": "104K"
+            },
+            {
+                "title": "Reliable Isn't Always Better: TCP vs UDP",
+                "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
+                "duration": "11 minutes, 27 seconds",
+                "views": "128K"
             }
         ]
         

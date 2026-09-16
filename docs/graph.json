@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "id": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
+      "title": "Why You're Tired, Stressed & Unfocused (and how to fix it)",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
       "title": "Content Creator Burnout and Mental Health",
       "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
@@ -12,6 +19,13 @@
         "content-creation",
         "mental-health"
       ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-WEP5ubPMGDU-Living-with-Confidence-Going-All-In-Matthew-McCona",
+      "title": "Living with Confidence & Going All In - Matthew McConaughey",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-WEP5ubPMGDU-Living-with-Confidence-Going-All-In-Matthew-McCona.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -217,6 +231,13 @@
         "how-money-works",
         "finance"
       ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-VaoGl-soL1g-Raccoon-Wars-Lindsay-Clancy-NFL-Scammers-More",
+      "title": "Raccoon Wars, Lindsay Clancy, NFL Scammers & More",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-VaoGl-soL1g-Raccoon-Wars-Lindsay-Clancy-NFL-Scammers-More.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -488,6 +509,13 @@
       "type": "page"
     },
     {
+      "id": "youtube-VCJFzVtvhBQ-Couples-Therapist-Why-Your-Brain-Turns-Your-Partne",
+      "title": "'Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy'",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-VCJFzVtvhBQ-Couples-Therapist-Why-Your-Brain-Turns-Your-Partne.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart",
       "title": "Jonah Hill's Life Is Falling Apart",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart.md",
@@ -663,6 +691,13 @@
       "type": "page"
     },
     {
+      "id": "youtube-KyfUysrNaco-44-Harsh-Truths-About-The-Game-Of-Life-Naval-Ravik",
+      "title": "44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-KyfUysrNaco-44-Harsh-Truths-About-The-Game-Of-Life-Naval-Ravik.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
       "title": "The Never-Ending Downfall of KSI",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi.md",
@@ -749,7 +784,7 @@
   "edges": [
     {
       "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -769,7 +804,7 @@
     },
     {
       "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -834,7 +869,7 @@
     },
     {
       "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -899,7 +934,7 @@
     },
     {
       "source": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -919,7 +954,7 @@
     },
     {
       "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -1044,7 +1079,7 @@
     },
     {
       "source": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -1059,7 +1094,7 @@
     },
     {
       "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -1084,7 +1119,7 @@
     },
     {
       "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -1209,7 +1244,7 @@
     },
     {
       "source": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -1219,7 +1254,7 @@
     },
     {
       "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "type": "wikilink"
     },
     {
@@ -1264,8 +1299,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-15T01:40:32.787079",
-    "total_nodes": 69,
+    "generated": "2026-09-15T20:14:42.903908",
+    "total_nodes": 74,
     "total_edges": 103
   }
 }

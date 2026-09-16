@@ -1,27 +1,32 @@
 
 === YouTube Ingestion Pipeline Report ===
-Generated: 2026-09-11 00:29:27
+Generated: 2026-09-15 01:48:40
 
 === Statistics ===
 Total videos in channel: 5
-Already processed: 37
-New videos processed: 2
-Unprocessed remaining: -32
+Already processed: 8
+New videos processed: 3
+Unprocessed remaining: -3
 
 === Processed Videos ===
-- Most Insane The Infographics Show Videos of All Time (Compilation)
-  ID: cemy5eP5Jjs
-  URL: https://www.youtube.com/watch?v=cemy5eP5Jjs
-  Processed: 2026-09-11 00:29:27
+- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react
+  ID: uzg-tGiK_y8
+  URL: https://www.youtube.com/watch?v=uzg-tGiK_y8
+  Processed: 2026-09-15 01:48:40
 
 - The Horror of the Zodiac Killer || The Infographics Show
   ID: D4nPxik59oE
   URL: https://www.youtube.com/watch?v=D4nPxik59oE
-  Processed: 2026-09-11 00:29:27
+  Processed: 2026-09-15 01:48:40
+
+- Why Your Brain Can't Handle Modern Life || The Infographics Show
+  ID: k0ksj42YJaM
+  URL: https://www.youtube.com/watch?v=k0ksj42YJaM
+  Processed: 2026-09-15 01:48:40
 
 === Recent Activity ===
+- Why Your Brain Can't Handle Modern Life || The Infographics Show (Unknown time)
 - The Horror of the Zodiac Killer || The Infographics Show (Unknown time)
-- Most Insane The Infographics Show Videos of All Time (Compilation) (Unknown time)
-- WTF Is Happening To The Car Market? (Unknown time)
-- "Dude I'm Broke" Why Is My Data Worth Harvesting? (Unknown time)
-- Is America Chasing Away All Of Its Smart People? (Unknown time)
+- Why Marines aren't just a different kind of 'soldier' || The Infographics Show react (Unknown time)
+- The 13 Seconds That Exposed Hank Green (Unknown time)
+- The Deserved Downfall of Tom Segura (Unknown time)

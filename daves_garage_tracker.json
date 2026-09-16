@@ -59,6 +59,18 @@
       "processed_date": "2026-09-12T23:55:45.586995",
       "status": "completed",
       "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY"
+    },
+    "aee4051ff47e9d4a890533d340c6db05": {
+      "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+      "processed_date": "2026-09-16T00:45:57.834112",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=dFzX7z8kY9A"
+    },
+    "bf5ae9de23fe56ad0e2525003674381c": {
+      "title": "Reliable Isn't Always Better: TCP vs UDP",
+      "processed_date": "2026-09-16T00:45:58.148802",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C"
     }
   },
   "ingestion_history": [
@@ -121,7 +133,19 @@
       "video_url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
       "processed_date": "2026-09-12T23:55:45.587001",
       "status": "completed"
+    },
+    {
+      "video_title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+      "video_url": "https://www.youtube.com/watch?v=dFzX7z8kY9A",
+      "processed_date": "2026-09-16T00:45:57.834120",
+      "status": "completed"
+    },
+    {
+      "video_title": "Reliable Isn't Always Better: TCP vs UDP",
+      "video_url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
+      "processed_date": "2026-09-16T00:45:58.148810",
+      "status": "completed"
     }
   ],
-  "last_updated": "2026-09-12T23:55:45.587002"
+  "last_updated": "2026-09-16T00:45:58.148812"
 }

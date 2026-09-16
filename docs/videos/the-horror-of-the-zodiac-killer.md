@@ -1,15 +1,17 @@
 ---
 title: The Horror of the Zodiac Killer || The Infographics Show
-created: 2026-08-19
-updated: 2026-08-19
+created: '2026-09-15'
+updated: '2026-09-15'
 type: reading
 classification: psychology.criminal-forensic
 domain: psychology
-tags: ["murder-mystery", "criminal-psychology", "youtube", "education"]
+tags: ["youtube", "educational-content", "content-creation", "youtube-documentary", "current-events", "society", "media", "investigation"]
 sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
+published: '2026-09-15'
+time_sensitive: false
 confidence: medium
 status: active
-reviewed: 2026-08-19
+reviewed: '2026-09-15'
 backlinks: []
 ---
 
