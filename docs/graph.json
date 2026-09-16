@@ -22,6 +22,13 @@
       "type": "page"
     },
     {
+      "id": "the-worst-red-flags-ive-seen-as-a-therapist",
+      "title": "the-worst-red-flags-ive-seen-as-a-therapist",
+      "file": "/home/hermes/Neural-Nexus/docs/the-worst-red-flags-ive-seen-as-a-therapist.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-WEP5ubPMGDU-Living-with-Confidence-Going-All-In-Matthew-McCona",
       "title": "Living with Confidence & Going All In - Matthew McConaughey",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-WEP5ubPMGDU-Living-with-Confidence-Going-All-In-Matthew-McCona.md",
@@ -55,6 +62,13 @@
         "money",
         "markets"
       ],
+      "type": "page"
+    },
+    {
+      "id": "how-money-works-wtf-is-happening-to-the-video-game-industry",
+      "title": "how-money-works-wtf-is-happening-to-the-video-game-industry",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-is-happening-to-the-video-game-industry.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -149,6 +163,13 @@
       "type": "page"
     },
     {
+      "id": "how-money-works-dude-im-broke-why-is-my-data-worth-harvesting",
+      "title": "how-money-works-dude-im-broke-why-is-my-data-worth-harvesting",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-dude-im-broke-why-is-my-data-worth-harvesting.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "Finance",
       "title": "Finance",
       "file": "/home/hermes/Neural-Nexus/docs/Finance.md",
@@ -220,6 +241,20 @@
         "business-strategy",
         "gaming"
       ],
+      "type": "page"
+    },
+    {
+      "id": "we-need-to-talk-about-ozempic",
+      "title": "we-need-to-talk-about-ozempic",
+      "file": "/home/hermes/Neural-Nexus/docs/we-need-to-talk-about-ozempic.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "how-money-works-wtf-does-peter-thiel-actually-want",
+      "title": "how-money-works-wtf-does-peter-thiel-actually-want",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-does-peter-thiel-actually-want.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -350,6 +385,13 @@
       "id": "analyzing-the-lindsay-clancy-case",
       "title": "analyzing-the-lindsay-clancy-case",
       "file": "/home/hermes/Neural-Nexus/docs/analyzing-the-lindsay-clancy-case.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "how-money-works-the-stay-at-home-boyfriend-epidemic-women-now-outnumber-men-in-the-workforce",
+      "title": "how-money-works-the-stay-at-home-boyfriend-epidemic-women-now-outnumber-men-in-the-workforce",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-the-stay-at-home-boyfriend-epidemic-women-now-outnumber-men-in-the-workforce.md",
       "tags": [],
       "type": "page"
     },
@@ -538,6 +580,13 @@
       "type": "page"
     },
     {
+      "id": "how-to-actually-have-an-elite-mindset",
+      "title": "how-to-actually-have-an-elite-mindset",
+      "file": "/home/hermes/Neural-Nexus/docs/how-to-actually-have-an-elite-mindset.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
       "title": "\"Microsoft's Secret 90s Weapon That Made Windows Fast\"",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
@@ -719,6 +768,13 @@
       "id": "Analyzing-The-Lindsay-Clancy-Case",
       "title": "Analyzing-The-Lindsay-Clancy-Case",
       "file": "/home/hermes/Neural-Nexus/docs/Analyzing-The-Lindsay-Clancy-Case.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "how-money-works-so-is-private-equity-collapsing-yet",
+      "title": "how-money-works-so-is-private-equity-collapsing-yet",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-so-is-private-equity-collapsing-yet.md",
       "tags": [],
       "type": "page"
     },
@@ -1299,8 +1355,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-15T20:14:42.903908",
-    "total_nodes": 74,
+    "generated": "2026-09-16T02:23:05.426739",
+    "total_nodes": 82,
     "total_edges": 103
   }
 }

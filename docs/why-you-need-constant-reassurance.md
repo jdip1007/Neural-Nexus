@@ -1,8 +1,8 @@
 ---
 {
   "title": "Why You Need Constant Reassurance",
-  "created": "2026-09-15T01:39:56.734050",
-  "updated": "2026-09-15T01:39:56.734051",
+  "created": "2026-09-16T02:21:19.090645",
+  "updated": "2026-09-16T02:21:19.090647",
   "type": "video",
   "tags": [
     "breakup",
@@ -11,18 +11,18 @@
     "healthygamergg"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=example7"
+    "https://www.youtube.com/watch?v=L-gJ_Fo72-k"
   ],
-  "duration": "18 minutes",
+  "duration": "18:23",
   "channel": "HealthyGamerGG"
 }
 ---
 
 # Why You Need Constant Reassurance
 
-> **Source:** [https://www.youtube.com/watch?v=example7](https://www.youtube.com/watch?v=example7)  
+> **Source:** [https://www.youtube.com/watch?v=L-gJ_Fo72-k](https://www.youtube.com/watch?v=L-gJ_Fo72-k)  
 > **Channel:** HealthyGamerGG  
-> **Duration:** 18 minutes
+> **Duration:** 18:23
 
 ## Summary
 

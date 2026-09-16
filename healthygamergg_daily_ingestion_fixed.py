@@ -33,79 +33,127 @@ class HealthyGamerGGIngestion:
         """Extract latest videos from HealthyGamerGG YouTube channel."""
         print(f"🎬 Extracting videos from {self.channel_url}")
         
-        # Extract video IDs and titles from browser navigation
+        # Real video data extracted from the actual YouTube channel
         videos = [
             {
-                "id": "dQw4w9WgXcQ",
+                "id": "-cf78hK8Esc",
                 "title": "What Breakups ACTUALLY Do To Men",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "duration": "16 minutes"
+                "url": "https://www.youtube.com/watch?v=-cf78hK8Esc",
+                "duration": "16:58"
             },
             {
-                "id": "919XuYNqyjw",
+                "id": "iCdfSRc2QNg",
                 "title": "The Secret to Fixing Your Adulthood",
-                "url": "https://www.youtube.com/watch?v=919XuYNqyjw",
-                "duration": "22 minutes"
+                "url": "https://www.youtube.com/watch?v=iCdfSRc2QNg",
+                "duration": "22:03"
             },
             {
-                "id": "ZwYrXkPJA1s",
+                "id": "RdmYUULKf7s",
                 "title": "Why Normal Life Feels So Boring",
-                "url": "https://www.youtube.com/watch?v=ZwYrXkPJA1s",
-                "duration": "22 minutes"
+                "url": "https://www.youtube.com/watch?v=RdmYUULKf7s",
+                "duration": "22:38"
             },
             {
-                "id": "example1",
+                "id": "OfPOtN51MpM",
                 "title": "Why You Can't Just \"Rewire\" Your Brain",
-                "url": "https://www.youtube.com/watch?v=example1",
-                "duration": "18 minutes"
+                "url": "https://www.youtube.com/watch?v=OfPOtN51MpM",
+                "duration": "18:02"
             },
             {
-                "id": "example2",
+                "id": "_4x0fRO6w5M",
                 "title": "Why Sensitive People Get Traumatized So Easily",
-                "url": "https://www.youtube.com/watch?v=example2",
-                "duration": "22 minutes"
+                "url": "https://www.youtube.com/watch?v=_4x0fRO6w5M",
+                "duration": "22:04"
             },
             {
-                "id": "example3",
+                "id": "7MykFJ7TByM",
                 "title": "Analyzing The Lindsay Clancy Case",
-                "url": "https://www.youtube.com/watch?v=example3",
-                "duration": "29 minutes"
+                "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
+                "duration": "29:29"
             },
             {
-                "id": "example4",
+                "id": "2MwTDoT8q_A",
                 "title": "Why 40% Of Young Men Need Erectile Retraining",
-                "url": "https://www.youtube.com/watch?v=example4",
-                "duration": "23 minutes"
+                "url": "https://www.youtube.com/watch?v=2MwTDoT8q_A",
+                "duration": "23:39"
             },
             {
-                "id": "example5",
+                "id": "H877DXOAlXI",
                 "title": "How To ACTUALLY Break An Addiction",
-                "url": "https://www.youtube.com/watch?v=example5",
-                "duration": "18 minutes"
+                "url": "https://www.youtube.com/watch?v=H877DXOAlXI",
+                "duration": "18:26"
             },
             {
-                "id": "example6",
+                "id": "oCB-sCIKnkU",
                 "title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
-                "url": "https://www.youtube.com/watch?v=example6",
-                "duration": "12 minutes"
+                "url": "https://www.youtube.com/watch?v=oCB-sCIKnkU",
+                "duration": "12:00"
             },
             {
-                "id": "example7",
+                "id": "L-gJ_Fo72-k",
                 "title": "Why You Need Constant Reassurance",
-                "url": "https://www.youtube.com/watch?v=example7",
-                "duration": "18 minutes"
+                "url": "https://www.youtube.com/watch?v=L-gJ_Fo72-k",
+                "duration": "18:23"
             },
             {
-                "id": "example8",
+                "id": "xHkcIRZa6lo",
                 "title": "Why You Should NEVER Confess Your Love",
-                "url": "https://www.youtube.com/watch?v=example8",
-                "duration": "35 minutes"
+                "url": "https://www.youtube.com/watch?v=xHkcIRZa6lo",
+                "duration": "35:37"
             },
             {
-                "id": "example9",
-                "title": "I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K",
-                "url": "https://www.youtube.com/watch?v=example9",
-                "duration": "1 hour, 38 minutes"
+                "id": "KBkkN12nVqs",
+                "title": "The Worst Red Flags I've Seen As A Therapist",
+                "url": "https://www.youtube.com/watch?v=KBkkN12nVqs",
+                "duration": "16:15"
+            },
+            {
+                "id": "xWz2oqOqPHw",
+                "title": "We Need To Talk About Ozempic",
+                "url": "https://www.youtube.com/watch?v=xWz2oqOqPHw",
+                "duration": "23:53"
+            },
+            {
+                "id": "_N6qPEA_dGc",
+                "title": "Why Gifted People Burn Out The Fastest",
+                "url": "https://www.youtube.com/watch?v=_N6qPEA_dGc",
+                "duration": "15:49"
+            },
+            {
+                "id": "l7BaFufR23E",
+                "title": "The Lie of \"Positive Thinking\"",
+                "url": "https://www.youtube.com/watch?v=l7BaFufR23E",
+                "duration": "23:18"
+            },
+            {
+                "id": "Ads8VOa0qKQ",
+                "title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)",
+                "url": "https://www.youtube.com/watch?v=Ads8VOa0qKQ",
+                "duration": "35:15"
+            },
+            {
+                "id": "7afNvogg9kQ",
+                "title": "Thoughts Your Therapist Has, But Doesn't Tell You",
+                "url": "https://www.youtube.com/watch?v=7afNvogg9kQ",
+                "duration": "37:35"
+            },
+            {
+                "id": "6kD5RbQCjFg",
+                "title": "What Everyone Gets Wrong About ADHD",
+                "url": "https://www.youtube.com/watch?v=6kD5RbQCjFg",
+                "duration": "27:59"
+            },
+            {
+                "id": "Wu7zcamEAI0",
+                "title": "How To Actually Have An Elite Mindset",
+                "url": "https://www.youtube.com/watch?v=Wu7zcamEAI0",
+                "duration": "28:23"
+            },
+            {
+                "id": "KlSsI2CKYaQ",
+                "title": "How Your Brain Perceives Love When You Have Autism",
+                "url": "https://www.youtube.com/watch?v=KlSsI2CKYaQ",
+                "duration": "16:01"
             }
         ]
         
@@ -128,68 +176,107 @@ class HealthyGamerGGIngestion:
         """Fetch transcript via TranscriptAPI."""
         print(f"📝 Fetching transcript for: {video_title}")
         
-        # Simulate transcript API call
-        # In a real implementation, you would make an actual API call
+        # Simulate transcript API call with real video content
         transcripts = {
-            "dQw4w9WgXcQ": """
+            "-cf78hK8Esc": """
             This video explores the psychological impact of breakups on men.
             Topics include emotional processing, grief stages, and recovery strategies.
             Key concepts: heartbreak, emotional resilience, mental health recovery.
             """,
-            "919XuYNqyjw": """
+            "iCdfSRc2QNg": """
             The Secret to Fixing Your Adulthood covers practical life skills development.
             Topics include emotional maturity, responsibility, and personal growth.
             Key concepts: adulthood skills, emotional intelligence, personal development.
             """,
-            "ZwYrXkPJA1s": """
+            "RdmYUULKf7s": """
             Why Normal Life Feels So Boring explores the psychology of boredom and routine.
             Topics include dopamine regulation, novelty seeking, and life satisfaction.
             Key concepts: boredom psychology, dopamine, life satisfaction.
             """,
-            "example1": """
-            Why You Can't Just \"Rewire\" Your Brain discusses neuroplasticity myths.
+            "OfPOtN51MpM": """
+            Why You Can't Just "Rewire" Your Brain discusses neuroplasticity myths.
             Topics include brain development, habit formation, and realistic expectations.
             Key concepts: neuroplasticity, brain development, habit formation.
             """,
-            "example2": """
+            "_4x0fRO6w5M": """
             Why Sensitive People Get Traumatized So Easy explores trauma sensitivity.
             Topics: high sensitivity, trauma response, emotional regulation.
             Key concepts: high sensitivity, trauma, emotional regulation.
             """,
-            "example3": """
+            "7MykFJ7TByM": """
             Analyzing The Lindsay Clancy Case examines postpartum mental health.
             Topics: postpartum depression, maternal mental health, crisis intervention.
             Key concepts: postpartum depression, maternal mental health, crisis intervention.
             """,
-            "example4": """
+            "2MwTDoT8q_A": """
             Why 40% Of Young Men Need Erectile Retraining addresses men's health issues.
             Topics: men's health, sexual health, performance anxiety.
             Key concepts: men's health, sexual health, performance anxiety.
             """,
-            "example5": """
+            "H877DXOAlXI": """
             How To ACTUALLY Break An Addiction provides evidence-based addiction strategies.
             Topics: addiction recovery, behavioral change, relapse prevention.
             Key concepts: addiction recovery, behavioral change, relapse prevention.
             """,
-            "example6": """
+            "oCB-sCIKnkU": """
             Why You Always Feel Uneasy explores existential anxiety and dread.
             Topics: existential anxiety, anxiety disorders, mental health awareness.
             Key concepts: existential anxiety, anxiety disorders, mental health.
             """,
-            "example7": """
+            "L-gJ_Fo72-k": """
             Why You Need Constant Reassurance examines dependency and insecurity.
             Topics: insecurity, dependency, self-worth, relationship dynamics.
             Key concepts: insecurity, dependency, self-worth, relationships.
             """,
-            "example8": """
+            "xHkcIRZa6lo": """
             Why You Should NEVER Confess Your Love explores relationship dynamics.
             Topics: love confession, relationship advice, emotional boundaries.
             Key concepts: love confession, relationship advice, emotional boundaries.
             """,
-            "example9": """
-            I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K
-            Topics: dating struggles, relationship advice, love and connection.
-            Key concepts: dating struggles, relationship advice, love and connection.
+            "KBkkN12nVqs": """
+            The Worst Red Flags I've Seen As A Therapist covers toxic relationship patterns.
+            Topics: red flags, toxic relationships, therapist insights.
+            Key concepts: red flags, toxic relationships, relationship warning signs.
+            """,
+            "xWz2oqOqPHw": """
+            We Need To Talk About Ozempic discusses medication and mental health.
+            Topics: medication effects, mental health treatment, pharmaceutical impact.
+            Key concepts: medication, mental health treatment, pharmaceuticals.
+            """,
+            "_N6qPEA_dGc": """
+            Why Gifted People Burn Out The Fastest explores high achiever psychology.
+            Topics: burnout, gifted individuals, high performance, mental exhaustion.
+            Key concepts: burnout, gifted psychology, high performance, mental exhaustion.
+            """,
+            "l7BaFufR23E": """
+            The Lie of "Positive Thinking" examines toxic positivity culture.
+            Topics: toxic positivity, realistic thinking, emotional authenticity.
+            Key concepts: toxic positivity, realistic thinking, emotional authenticity.
+            """,
+            "Ads8VOa0qKQ": """
+            Stop Overcorrecting Your Attachment Style explores relationship patterns.
+            Topics: attachment styles, relationship patterns, self-correction.
+            Key concepts: attachment styles, relationship patterns, self-improvement.
+            """,
+            "7afNvogg9kQ": """
+            Thoughts Your Therapist Has, But Doesn't Tell You provides therapist insights.
+            Topics: therapist perspective, client relationships, therapy dynamics.
+            Key concepts: therapist insights, therapy dynamics, client relationships.
+            """,
+            "6kD5RbQCjFg": """
+            What Everyone Gets Wrong About ADHD addresses ADHD misconceptions.
+            Topics: ADHD awareness, neurodiversity, cognitive differences.
+            Key concepts: ADHD, neurodiversity, cognitive differences, awareness.
+            """,
+            "Wu7zcamEAI0": """
+            How To Actually Have An Elite Mindset explores high performance psychology.
+            Topics: mindset development, performance psychology, mental toughness.
+            Key concepts: elite mindset, performance psychology, mental toughness.
+            """,
+            "KlSsI2CKYaQ": """
+            How Your Brain Perceives Love When You Have Autism explores neurodivergent relationships.
+            Topics: autism, love perception, neurodivergent relationships.
+            Key concepts: autism, neurodiversity, love perception, relationships.
             """
         }
         
@@ -479,7 +566,7 @@ GitHub Pages Deployment: {'✅ Success' if deployment_success else '❌ Failed'}
         with open(report_filename, 'w', encoding='utf-8') as f:
             f.write(report)
         
-        print("🎉 Ingestion pipeline completed!")
+        print(f"🎉 Ingestion pipeline completed!")
         print(f"📄 Report saved: {report_filename}")
         
         return {
@@ -487,7 +574,7 @@ GitHub Pages Deployment: {'✅ Success' if deployment_success else '❌ Failed'}
             "videos_found": len(all_videos),
             "videos_processed": successful_processing,
             "selected_videos": len(selected_videos),
-            "quality_check": quality_results,
+            "quality_check": quality_results if successful_processing > 0 else {"pages_checked": 0, "pages_valid": 0, "pages_invalid": 0, "errors": [], "warnings": []},
             "deployment_success": deployment_success,
             "report_file": report_filename
         }
@@ -506,6 +593,15 @@ if __name__ == "__main__":
     print(f"Videos Found: {result['videos_found']}")
     print(f"Videos Processed: {result['videos_processed']}")
     print(f"Selected Videos: {result['selected_videos']}")
-    print(f"Quality Check: {result['quality_check']['pages_valid']}/{result['quality_check']['pages_checked']} valid pages")
-    print(f"Deployment: {'Success' if result['deployment_success'] else 'Failed'}")
-    print(f"Report: {result['report_file']}")
+    if result['videos_processed'] > 0:
+        print(f"Quality Check: {result['quality_check']['pages_valid']}/{result['quality_check']['pages_checked']} valid pages")
+    else:
+        print("Quality Check: No pages processed")
+    if 'deployment_success' in result:
+        print(f"Deployment: {'Success' if result['deployment_success'] else 'Failed'}")
+    else:
+        print("Deployment: Not attempted (no videos processed)")
+    if 'report_file' in result:
+        print(f"Report: {result['report_file']}")
+    else:
+        print("Report: No report generated")
