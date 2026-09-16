@@ -3,7 +3,7 @@ title: The 13 Seconds That Exposed Hank Green
 video_id: W82TeO-XXWU
 source: https://www.youtube.com/watch?v=W82TeO-XXWU
 channel: @InternetAnarchist
-fetched: 2026-09-03T21:55:00.813106
+fetched: 2026-09-16T01:21:21.140827
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/W82TeO-XXWU.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/W82TeO-XXWU.md]
 **Video ID:** W82TeO-XXWU  
 **Source:** https://www.youtube.com/watch?v=W82TeO-XXWU  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-03 21:55:00
+**Fetched:** 2026-09-16 01:21:21
 
 ## Overview
 

@@ -3,7 +3,7 @@ title: Airrack Never Stopped Faking Videos
 video_id: 6zAG7p81NME
 source: https://www.youtube.com/watch?v=6zAG7p81NME
 channel: @InternetAnarchist
-fetched: 2026-09-03T21:54:57.043773
+fetched: 2026-09-16T01:21:24.491484
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/6zAG7p81NME.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/6zAG7p81NME.md]
 **Video ID:** 6zAG7p81NME  
 **Source:** https://www.youtube.com/watch?v=6zAG7p81NME  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-03 21:54:57
+**Fetched:** 2026-09-16 01:21:24
 
 ## Overview
 
