@@ -1,45 +1,12 @@
 {
-  "generated_at": "2026-09-14T00:22:09",
-  "total_pages": 43,
-  "pages_by_type": {
-    "video": 15,
-    "reading": 10,
-    "entity | concept | idea | finding | reading | comparison": 1,
-    "article": 4
-  },
-  "pages_by_domain": {
-    "hermes": 10,
-    "technology": 10,
-    "ai | biotech | finance | devops | psychology | general": 1
-  },
-  "recent_pages": [
-    "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
-    "fresh005_2026_PewDiePie's_Journey.md",
-    "fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
-    "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
-    "fresh006_2026_The_Evolution_of_YouTube_Gaming.md"
-  ],
-  "tags": {
-    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"mental-health\"": 1,
-    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"internet-culture\", \"mental-health\", \"marketing\"": 1,
-    "'automotive', 'hardware', 'daves-garage', 'youtube', 'tutorial', 'automotive'": 1,
-    "'networking', 'hardware', 'daves-garage', 'youtube', 'tutorial'": 1,
-    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"internet-culture\", \"business-strategy\", \"gaming\"": 2,
-    "from taxonomy below": 1,
-    "\"finance\", \"business\", \"economics\", \"money\", \"investing\"": 1,
-    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"youtube-algorithm\", \"internet-culture\", \"mental-health\", \"business-strategy\"": 2,
-    "'programming', 'technology', 'gaming', 'daves-garage', 'youtube', 'tutorial'": 1,
-    "'programming', 'daves-garage', 'youtube', 'tutorial'": 1,
-    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"internet-culture\", \"gaming\"": 1,
-    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"business-strategy\", \"marketing\"": 1,
-    "\"economics\", \"finance\", \"business\", \"market\", \"society\"": 1,
-    "'automotive', 'daves-garage', 'youtube', 'tutorial', 'automotive'": 1,
-    "'programming', 'technology', 'daves-garage', 'youtube', 'tutorial'": 1,
-    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"marketing\"": 1,
-    "\"youtube\", \"youtube-creator\", \"educational-content\", \"internet-anarchist\", \"content-creation\", \"internet-culture\", \"marketing\"": 1,
-    "\"investing\", \"finance\", \"business\", \"market\", \"portfolio\"": 1,
-    "'hardware', 'technology', 'automotive', 'daves-garage', 'youtube', 'tutorial'": 1,
-    "'automotive', 'hardware', 'tutorial', 'daves-garage', 'youtube', 'tutorial', 'automotive'": 3,
-    "\"business\", \"finance\", \"economics\", \"market\"": 1
+  "updated": "2026-09-16T23:59:00",
+  "total_pages": 92,
+  "categories": {
+    "Finance": 15,
+    "Investing": 12,
+    "Economics": 8,
+    "Business": 10,
+    "Technology": 20,
+    "Mental Health": 27
   }
 }
