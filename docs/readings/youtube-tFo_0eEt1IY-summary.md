@@ -1,17 +1,17 @@
 ---
 title: What Caused the Catastrophic Nuclear Accident in Chernobyl? - Summary
-created: 2026-08-20
-updated: 2026-08-20
+created: 2026-09-16
+updated: 2026-09-16
 type: reading
 domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
+tags: [youtube, video-summary, transcript, tFo_0eEt1IY]
 sources: [raw/videos/youtube-tFo_0eEt1IY-transcript.md]
-published: 2026-08-20
+published: 2026-09-16
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-08-20
+reviewed: 2026-09-16
 ---
 
 # What Caused the Catastrophic Nuclear Accident in Chernobyl? - Summary
@@ -22,11 +22,11 @@ This video discusses What Caused the Catastrophic Nuclear Accident in Chernobyl?
 ## Key Points
 
 ## Entities Mentioned
-- **Persons**: Infographics Show, European Union, Chernobyl Exclusion
+- **Persons**: Catastrophic Nuclear, Upper Biological, Reactor No
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 
@@ -34,11 +34,3 @@ This video discusses What Caused the Catastrophic Nuclear Accident in Chernobyl?
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[infographics-show]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-tFo-0eEt1IY-chernobyl-exclusion
-- youtube-tFo-0eEt1IY-european-union

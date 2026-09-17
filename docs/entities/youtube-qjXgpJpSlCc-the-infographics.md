@@ -1,5 +1,5 @@
 ---
-title: Passive Income
+title: The Infographics
 created: 2026-09-16
 updated: 2026-09-16
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-09-16
 ---
 
-# Passive Income
+# The Infographics
 
 ## Overview
-Passive Income is mentioned in the YouTube video "Insurance Explained - How Do Insurance Companies Make Money and How Do They Work".
+The Infographics is mentioned in the YouTube video "Insurance Explained - How Do Insurance Companies Make Money and How Do They Work".
 
 ## Context
 Mentioned in the context of research and development.

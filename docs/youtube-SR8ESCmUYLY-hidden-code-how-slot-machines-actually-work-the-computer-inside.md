@@ -1,7 +1,7 @@
 ---
 title: "Hidden Code: How Slot Machines Actually Work - The Computer Inside"
-created: "2026-09-14"
-updated: "2026-09-14"
+created: "2026-09-17"
+updated: "2026-09-17"
 type: reading
 classification: video.daves-garage
 domain: technology
@@ -9,13 +9,13 @@ tags: ['programming', 'technology', 'gaming', 'daves-garage', 'youtube', 'tutori
 sources: ["https://www.youtube.com/watch?v=SR8ESCmUYLY"]
 confidence: medium
 status: active
-reviewed: "2026-09-14"
+reviewed: "2026-09-17"
 backlinks: []
 ---
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside
 
-> **Source**: [https://www.youtube.com/watch?v=SR8ESCmUYLY](https://www.youtube.com/watch?v=SR8ESCmUYLY) | **Duration**: 18 minutes | **Views**: 446K
+> **Source**: [https://www.youtube.com/watch?v=SR8ESCmUYLY](https://www.youtube.com/watch?v=SR8ESCmUYLY) | **Duration**: 18 minutes | **Views**: 457K
 
 ## Overview
 
@@ -49,4 +49,4 @@ Inside look at slot machine programming and random number generation. Technical 
 Source: [https://www.youtube.com/watch?v=SR8ESCmUYLY](https://www.youtube.com/watch?v=SR8ESCmUYLY)
 
 ---
-*Created: 2026-09-14 00:05:05*
+*Created: 2026-09-17 01:04:33*

@@ -1,7 +1,7 @@
 ---
 title: "Ethernet Explained so well that even YOU can Understand it!"
-created: "2026-09-14"
-updated: "2026-09-14"
+created: "2026-09-17"
+updated: "2026-09-17"
 type: reading
 classification: video.daves-garage
 domain: technology
@@ -9,13 +9,13 @@ tags: ['networking', 'hardware', 'daves-garage', 'youtube', 'tutorial']
 sources: ["https://www.youtube.com/watch?v=7vzjIv2l6wY"]
 confidence: medium
 status: active
-reviewed: "2026-09-14"
+reviewed: "2026-09-17"
 backlinks: []
 ---
 
 # Ethernet Explained so well that even YOU can Understand it!
 
-> **Source**: [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY) | **Duration**: 23 minutes | **Views**: 158K
+> **Source**: [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY) | **Duration**: 23 minutes | **Views**: 166K
 
 ## Overview
 
@@ -47,4 +47,4 @@ Ethernet technology explained from basic principles to advanced networking conce
 Source: [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY)
 
 ---
-*Created: 2026-09-14 00:05:04*
+*Created: 2026-09-17 01:04:35*

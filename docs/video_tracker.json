@@ -1,1 +1,42 @@
-{}
+{
+  "processed_videos": [
+    "jH0BYAkPj78",
+    "SR8ESCmUYLY",
+    "hRhBuHJ-j_o",
+    "7vzjIv2l6wY",
+    "DSA4VFdqELg"
+  ],
+  "video_metadata": {
+    "jH0BYAkPj78": {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "url": "https://www.youtube.com/watch?v=jH0BYAkPj78",
+      "processed_at": "2026-09-17T01:04:31.973199",
+      "status": "processed"
+    },
+    "hRhBuHJ-j_o": {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "processed_at": "2026-09-17T01:04:32.973888",
+      "status": "processed"
+    },
+    "SR8ESCmUYLY": {
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "url": "https://www.youtube.com/watch?v=SR8ESCmUYLY",
+      "processed_at": "2026-09-17T01:04:33.974983",
+      "status": "processed"
+    },
+    "DSA4VFdqELg": {
+      "title": "Reliable Isn't Always Better: TCP vs UDP",
+      "url": "https://www.youtube.com/watch?v=DSA4VFdqELg",
+      "processed_at": "2026-09-17T01:04:34.975676",
+      "status": "processed"
+    },
+    "7vzjIv2l6wY": {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "processed_at": "2026-09-17T01:04:35.976528",
+      "status": "processed"
+    }
+  },
+  "last_updated": "2026-09-17T01:04:35.976541"
+}

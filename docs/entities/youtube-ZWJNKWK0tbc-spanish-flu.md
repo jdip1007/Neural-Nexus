@@ -1,5 +1,5 @@
 ---
-title: The Infographics
+title: Spanish Flu
 created: 2026-09-16
 updated: 2026-09-16
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-09-16
 ---
 
-# The Infographics
+# Spanish Flu
 
 ## Overview
-The Infographics is mentioned in the YouTube video "Every Generation Explained in 10 minutes".
+Spanish Flu is mentioned in the YouTube video "Every Generation Explained in 10 minutes".
 
 ## Context
 Mentioned in the context of research and development.

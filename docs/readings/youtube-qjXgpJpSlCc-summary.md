@@ -1,17 +1,17 @@
 ---
 title: Insurance Explained - How Do Insurance Companies Make Money and How Do They Work - Summary
-created: 2026-09-02
-updated: 2026-09-02
+created: 2026-09-16
+updated: 2026-09-16
 type: reading
 domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
+tags: [youtube, video-summary, transcript, qjXgpJpSlCc]
 sources: [raw/videos/youtube-qjXgpJpSlCc-transcript.md]
-published: 2026-09-02
+published: 2026-09-16
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-02
+reviewed: 2026-09-16
 ---
 
 # Insurance Explained - How Do Insurance Companies Make Money and How Do They Work - Summary
@@ -29,10 +29,10 @@ on the policy
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Passive Income, The Infographic, If Jim
+- **Persons**: Passive Income, Premium Membership, The Infographics
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > will be the main man to agree to any claims
@@ -42,11 +42,3 @@ on the policy.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-qjXgpJpSlCc-if-jim]]
-- [[youtube-qjXgpJpSlCc-passive-income]]
-- [[youtube-qjXgpJpSlCc-the-infographic]]

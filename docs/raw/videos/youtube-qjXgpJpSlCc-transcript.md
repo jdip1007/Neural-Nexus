@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=qjXgpJpSlCc
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
+ingested: 2026-09-16
+published: 2026-09-16
 duration_minutes: 6
 language: en
 sha256: 5ae3dc94d38bc91c5c9c79d4e97f0d4a7836645ec6f3c6b3e966084fbd36e4b4
