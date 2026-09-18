@@ -1,58 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-09-16T00:45:58.147859'
+created: '2026-09-18T01:19:26.753977'
 duration: 11 minutes, 27 seconds
 sources:
 - https://www.youtube.com/watch?v=eGzH3jXwB2C
 tags:
-- tutorial
-- programming
-- network
-- development
 - system
-- tech
 - assembly
-- led
-- code
-- diy
-- software
-- hardware
+- programming
+- tech
+- tutorial
 - ethernet
+- software
+- diy
+- network
+- hardware
+- code
+- led
+- development
 - youtube
 - daves-garage
 title: 'Reliable Isn''t Always Better: TCP vs UDP'
 type: video
-updated: '2026-09-16T00:45:58.147870'
+updated: '2026-09-18T01:19:26.753989'
 video_id: eGzH3jXwB2C
-views: 128K
+views: 129K
 ---
 
 # Reliable Isn't Always Better: TCP vs UDP
 
 > **Source:** [https://www.youtube.com/watch?v=eGzH3jXwB2C](https://www.youtube.com/watch?v=eGzH3jXwB2C)  
 > **Duration:** 11 minutes, 27 seconds  
-> **Views:** 128K  
+> **Views:** 129K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores tutorial, programming, network and related concepts in depth.
+This video from Dave's Garage explores system, assembly, programming and related concepts in depth.
 
 ## Key Topics
 
-- tutorial
-- programming
-- network
-- development
 - system
-- tech
 - assembly
-- led
-- code
-- diy
-- software
-- hardware
+- programming
+- tech
+- tutorial
 - ethernet
+- software
+- diy
+- network
+- hardware
+- code
+- led
+- development
 
 ## Key Concepts
 

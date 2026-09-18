@@ -27,40 +27,52 @@ class DavesGarageIngestion:
         # Dave's Garage channel videos (from recent observation)
         self.channel_videos = [
             {
+                "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+                "url": "https://www.youtube.com/watch?v=dFzX7z8kY9A",
+                "duration": "18 minutes",
+                "views": "738K"
+            },
+            {
+                "title": "Reliable Isn't Always Better: TCP vs UDP",
+                "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
+                "duration": "11 minutes, 27 seconds",
+                "views": "129K"
+            },
+            {
                 "title": "Ethernet Explained so well that even YOU can Understand it!",
                 "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
                 "duration": "23 minutes",
-                "views": "143K"
+                "views": "170K"
             },
             {
                 "title": "CANBUS – Networking so simple, even YOU can understand it!",
                 "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
-                "duration": "23 minutes", 
-                "views": "428K"
+                "duration": "23 minutes",
+                "views": "496K"
             },
             {
                 "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
                 "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
                 "duration": "22 minutes",
-                "views": "240K"
+                "views": "258K"
             },
             {
                 "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
                 "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
                 "duration": "20 minutes",
-                "views": "326K"
+                "views": "331K"
             },
             {
                 "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
                 "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
                 "duration": "22 minutes",
-                "views": "40K"
+                "views": "41K"
             },
             {
                 "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
                 "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
                 "duration": "18 minutes",
-                "views": "126K"
+                "views": "130K"
             },
             {
                 "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
@@ -85,19 +97,6 @@ class DavesGarageIngestion:
                 "url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
                 "duration": "25 minutes",
                 "views": "89K"
-            },
-            # NEWER VIDEOS
-            {
-                "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
-                "url": "https://www.youtube.com/watch?v=dFzX7z8kY9A",
-                "duration": "18 minutes",
-                "views": "104K"
-            },
-            {
-                "title": "Reliable Isn't Always Better: TCP vs UDP",
-                "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
-                "duration": "11 minutes, 27 seconds",
-                "views": "128K"
             }
         ]
         

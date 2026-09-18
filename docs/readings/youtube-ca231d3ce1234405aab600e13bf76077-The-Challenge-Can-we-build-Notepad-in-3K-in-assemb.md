@@ -1,59 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-09-01T20:38:23.586512'
+created: '2026-09-18T01:19:27.081710'
 duration: 20 minutes
 sources:
 - https://www.youtube.com/watch?v=OG91c7xsNMc
 tags:
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
 - system
-- diy
 - assembly
 - programming
+- tech
+- tutorial
+- ethernet
+- software
+- diy
 - network
-- development
 - hardware
+- code
+- led
+- development
 - youtube
 - daves-garage
 title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
-type: reading
-updated: '2026-09-01T20:38:23.586523'
+type: video
+updated: '2026-09-18T01:19:27.081764'
 video_id: OG91c7xsNMc
-views: 326K
-domain: devops
+views: 331K
 ---
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
 
 > **Source:** [https://www.youtube.com/watch?v=OG91c7xsNMc](https://www.youtube.com/watch?v=OG91c7xsNMc)  
 > **Duration:** 20 minutes  
-> **Views:** 326K  
+> **Views:** 331K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
+This video from Dave's Garage explores system, assembly, programming and related concepts in depth.
 
 ## Key Topics
 
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
 - system
-- diy
 - assembly
 - programming
+- tech
+- tutorial
+- ethernet
+- software
+- diy
 - network
-- development
 - hardware
+- code
+- led
+- development
 
 ## Key Concepts
 
@@ -78,14 +77,3 @@ This video from Dave's Garage explores led, software, tutorial and related conce
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

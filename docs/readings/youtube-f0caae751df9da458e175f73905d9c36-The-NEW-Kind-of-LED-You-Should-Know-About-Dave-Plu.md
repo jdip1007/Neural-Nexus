@@ -1,31 +1,30 @@
 ---
 channel: Dave's Garage
-created: '2026-09-10T23:32:12.026156'
+created: '2026-09-18T01:19:27.402962'
 duration: 14 minutes
 sources:
 - https://www.youtube.com/watch?v=4c5f7WzQzY
 tags:
+- system
+- assembly
 - programming
+- tech
+- tutorial
+- ethernet
+- software
 - diy
+- network
+- hardware
 - code
 - led
-- tech
-- software
-- hardware
-- ethernet
-- tutorial
-- assembly
-- network
-- system
 - development
 - youtube
 - daves-garage
 title: 'The NEW Kind of LED You Should Know About: Dave Plummer'
-type: reading
-updated: '2026-09-10T23:32:12.026168'
+type: video
+updated: '2026-09-18T01:19:27.402974'
 video_id: 4c5f7WzQzY
 views: 1.1M
-domain: devops
 ---
 
 # The NEW Kind of LED You Should Know About: Dave Plummer
@@ -37,22 +36,22 @@ domain: devops
 
 ## Summary
 
-This video from Dave's Garage explores programming, diy, code and related concepts in depth.
+This video from Dave's Garage explores system, assembly, programming and related concepts in depth.
 
 ## Key Topics
 
+- system
+- assembly
 - programming
+- tech
+- tutorial
+- ethernet
+- software
 - diy
+- network
+- hardware
 - code
 - led
-- tech
-- software
-- hardware
-- ethernet
-- tutorial
-- assembly
-- network
-- system
 - development
 
 ## Key Concepts
@@ -78,14 +77,3 @@ This video from Dave's Garage explores programming, diy, code and related concep
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

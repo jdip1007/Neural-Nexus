@@ -1,151 +1,69 @@
 {
   "processed_videos": {
-    "db86a0d82285d2e8e7097c38f2749d46": {
-      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
-      "processed_date": "2026-09-01T20:38:22.330329",
+    "bf5ae9de23fe56ad0e2525003674381c": {
+      "title": "Reliable Isn't Always Better: TCP vs UDP",
+      "processed_date": "2026-09-18T01:19:26.755298",
       "status": "completed",
-      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY"
-    },
-    "29d1488ba568e3d6a415a48eced17423": {
-      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
-      "processed_date": "2026-09-01T20:38:22.644195",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY"
-    },
-    "f0caae751df9da458e175f73905d9c36": {
-      "title": "The NEW Kind of LED You Should Know About: Dave Plummer",
-      "processed_date": "2026-09-01T20:38:22.959446",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=4c5f7WzQzY"
-    },
-    "772c9b359bb40b2801e49f8eabc5ffb9": {
-      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
-      "processed_date": "2026-09-01T20:38:23.273483",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4"
+      "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C"
     },
     "ca231d3ce1234405aab600e13bf76077": {
       "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
-      "processed_date": "2026-09-01T20:38:23.587568",
+      "processed_date": "2026-09-18T01:19:27.083013",
       "status": "completed",
       "url": "https://www.youtube.com/watch?v=OG91c7xsNMc"
     },
+    "f0caae751df9da458e175f73905d9c36": {
+      "title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+      "processed_date": "2026-09-18T01:19:27.403958",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=4c5f7WzQzY"
+    },
+    "db86a0d82285d2e8e7097c38f2749d46": {
+      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "processed_date": "2026-09-18T01:19:27.719121",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY"
+    },
     "17690d3bfe321f095d5a3d11e0b03ad5": {
       "title": "Ethernet Explained so well that even YOU can Understand it!",
-      "processed_date": "2026-09-12T23:55:44.691255",
+      "processed_date": "2026-09-18T01:19:28.033827",
       "status": "completed",
       "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY"
-    },
-    "a1814b6419c40431ed1cdc5a4baf0f48": {
-      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
-      "processed_date": "2026-09-12T23:55:44.918917",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38"
-    },
-    "e96cc006ebe07e07a82d5f3a87b3c5c4": {
-      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
-      "processed_date": "2026-09-12T23:55:45.145346",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o"
-    },
-    "7e7d5634052cf4425846e490bcf7f253": {
-      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-      "processed_date": "2026-09-12T23:55:45.368639",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=3c5f7WzQzY"
-    },
-    "2ea656d0a65023c961e46c836b2ab50e": {
-      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
-      "processed_date": "2026-09-12T23:55:45.586995",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY"
-    },
-    "aee4051ff47e9d4a890533d340c6db05": {
-      "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
-      "processed_date": "2026-09-16T00:45:57.834112",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=dFzX7z8kY9A"
-    },
-    "bf5ae9de23fe56ad0e2525003674381c": {
-      "title": "Reliable Isn't Always Better: TCP vs UDP",
-      "processed_date": "2026-09-16T00:45:58.148802",
-      "status": "completed",
-      "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C"
     }
   },
+  "last_updated": "2026-09-18T01:19:28.033838",
+  "channel_name": "Dave's Garage",
+  "channel_id": "davesgarage",
   "ingestion_history": [
     {
-      "video_title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
-      "video_url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
-      "processed_date": "2026-09-01T20:38:22.330335",
-      "status": "completed"
-    },
-    {
-      "video_title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
-      "video_url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
-      "processed_date": "2026-09-01T20:38:22.644201",
-      "status": "completed"
-    },
-    {
-      "video_title": "The NEW Kind of LED You Should Know About: Dave Plummer",
-      "video_url": "https://www.youtube.com/watch?v=4c5f7WzQzY",
-      "processed_date": "2026-09-01T20:38:22.959452",
-      "status": "completed"
-    },
-    {
-      "video_title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
-      "video_url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
-      "processed_date": "2026-09-01T20:38:23.273489",
+      "video_title": "Reliable Isn't Always Better: TCP vs UDP",
+      "video_url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
+      "processed_date": "2026-09-18T01:19:26.755306",
       "status": "completed"
     },
     {
       "video_title": "The Challenge: Can we build Notepad in 3K in assembly language?",
       "video_url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
-      "processed_date": "2026-09-01T20:38:23.587575",
+      "processed_date": "2026-09-18T01:19:27.083021",
+      "status": "completed"
+    },
+    {
+      "video_title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+      "video_url": "https://www.youtube.com/watch?v=4c5f7WzQzY",
+      "processed_date": "2026-09-18T01:19:27.403965",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "video_url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+      "processed_date": "2026-09-18T01:19:27.719128",
       "status": "completed"
     },
     {
       "video_title": "Ethernet Explained so well that even YOU can Understand it!",
       "video_url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
-      "processed_date": "2026-09-12T23:55:44.691261",
-      "status": "completed"
-    },
-    {
-      "video_title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
-      "video_url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
-      "processed_date": "2026-09-12T23:55:44.918922",
-      "status": "completed"
-    },
-    {
-      "video_title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
-      "video_url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
-      "processed_date": "2026-09-12T23:55:45.145362",
-      "status": "completed"
-    },
-    {
-      "video_title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-      "video_url": "https://www.youtube.com/watch?v=3c5f7WzQzY",
-      "processed_date": "2026-09-12T23:55:45.368646",
-      "status": "completed"
-    },
-    {
-      "video_title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
-      "video_url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
-      "processed_date": "2026-09-12T23:55:45.587001",
-      "status": "completed"
-    },
-    {
-      "video_title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
-      "video_url": "https://www.youtube.com/watch?v=dFzX7z8kY9A",
-      "processed_date": "2026-09-16T00:45:57.834120",
-      "status": "completed"
-    },
-    {
-      "video_title": "Reliable Isn't Always Better: TCP vs UDP",
-      "video_url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
-      "processed_date": "2026-09-16T00:45:58.148810",
+      "processed_date": "2026-09-18T01:19:28.033836",
       "status": "completed"
     }
-  ],
-  "last_updated": "2026-09-16T00:45:58.148812"
+  ]
 }

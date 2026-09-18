@@ -1,31 +1,30 @@
 ---
 channel: Dave's Garage
-created: '2026-09-01T20:38:22.329142'
+created: '2026-09-18T01:19:27.718041'
 duration: 25 minutes
 sources:
 - https://www.youtube.com/watch?v=5c5f7WzQzY
 tags:
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
 - system
-- diy
 - assembly
 - programming
+- tech
+- tutorial
+- ethernet
+- software
+- diy
 - network
-- development
 - hardware
+- code
+- led
+- development
 - youtube
 - daves-garage
 title: 'The Future of Automotive Technology: Electric Vehicles and Beyond'
-type: reading
-updated: '2026-09-01T20:38:22.329153'
+type: video
+updated: '2026-09-18T01:19:27.718055'
 video_id: 5c5f7WzQzY
 views: 89K
-domain: devops
 ---
 
 # The Future of Automotive Technology: Electric Vehicles and Beyond
@@ -37,23 +36,23 @@ domain: devops
 
 ## Summary
 
-This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
+This video from Dave's Garage explores system, assembly, programming and related concepts in depth.
 
 ## Key Topics
 
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
 - system
-- diy
 - assembly
 - programming
+- tech
+- tutorial
+- ethernet
+- software
+- diy
 - network
-- development
 - hardware
+- code
+- led
+- development
 
 ## Key Concepts
 
@@ -78,15 +77,3 @@ This video from Dave's Garage explores led, software, tutorial and related conce
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[automotive]]
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[technology]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
