@@ -1,0 +1,39 @@
+---
+title: Internet Anarchist - Entrepreneurship
+created: 2026-09-20
+updated: 2026-09-20
+type: concept
+tags: [youtube, internet-anarchist, entrepreneurship, documentary]
+sources: [Shark Tank Pitches That Turned Into Disasters.md]
+
+---
+
+# Internet Anarchist - Entrepreneurship
+
+## Overview
+
+This concept page is derived from the Internet Anarchist documentary "Shark Tank Pitches That Turned Into Disasters", which explores various aspects of entrepreneurship in contemporary internet culture and media.
+
+## Key Topics
+
+<!-- Extract main topics from the video content -->
+
+## Key Insights
+
+<!-- Important takeaways and revelations from the video -->
+
+## Related Concepts
+
+<!-- Link to related concepts in the wiki -->
+
+## Sources
+
+**Source:** Internet Anarchist YouTube Channel (@InternetAnarchist)
+**Video URL:** https://www.youtube.com/watch?v=oyPes09tpbM
+**Video ID:** `oyPes09tpbM`
+**Transcript:** [[Shark Tank Pitches That Turned Into Disasters.md]]
+**Accessed:** 2026-09-20
+
+## Related
+
+- [[internet-anarchist-documentary]] - Overview of Internet Anarchist channel content

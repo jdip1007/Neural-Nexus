@@ -258,6 +258,20 @@
       "type": "page"
     },
     {
+      "id": "youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "title": "\"The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "how_money_works_Sx-lddna-qg",
       "title": "WTF Is Happening To The Video Game Industry?",
       "file": "/home/hermes/Neural-Nexus/docs/how_money_works_Sx-lddna-qg.md",
@@ -273,6 +287,18 @@
       "title": "Raccoon Wars, Lindsay Clancy, NFL Scammers & More",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-VaoGl-soL1g-Raccoon-Wars-Lindsay-Clancy-NFL-Scammers-More.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "what-happens-when-you-lose-just-one-packet",
+      "title": "What Happens When You Lose Just One Packet?",
+      "file": "/home/hermes/Neural-Nexus/docs/what-happens-when-you-lose-just-one-packet.md",
+      "tags": [
+        "networking",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
       "type": "page"
     },
     {
@@ -493,6 +519,32 @@
       "type": "page"
     },
     {
+      "id": "the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "file": "/home/hermes/Neural-Nexus/docs/the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "Economy",
       "title": "Economy",
       "file": "/home/hermes/Neural-Nexus/docs/Economy.md",
@@ -527,6 +579,18 @@
       "type": "page"
     },
     {
+      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "title": "\"Reliable Isn't Always Better: TCP vs UDP\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
+      "tags": [
+        "networking",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-example4_the-deserved-downfall-of-dr-phil",
       "title": "The Deserved Downfall of Dr Phil",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-example4_the-deserved-downfall-of-dr-phil.md",
@@ -558,6 +622,19 @@
       "type": "page"
     },
     {
+      "id": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart",
       "title": "Jonah Hill's Life Is Falling Apart",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart.md",
@@ -576,6 +653,20 @@
         "youtube",
         "tutorial",
         "automotive"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "canbus-networking-so-simple-even-you-can-understand-it",
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "file": "/home/hermes/Neural-Nexus/docs/canbus-networking-so-simple-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "hardware",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
       ],
       "type": "page"
     },
@@ -919,6 +1010,16 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
       "target": "Business",
       "type": "wikilink"
@@ -1014,6 +1115,11 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "how_money_works_Sx-lddna-qg",
       "target": "Finance",
       "type": "wikilink"
@@ -1031,6 +1137,16 @@
     {
       "source": "how_money_works_Sx-lddna-qg",
       "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "what-happens-when-you-lose-just-one-packet",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "what-happens-when-you-lose-just-one-packet",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -1039,6 +1155,11 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "how_money_works__W3qPymBEBA",
       "target": "Finance",
       "type": "wikilink"
@@ -1056,6 +1177,11 @@
     {
       "source": "how_money_works__W3qPymBEBA",
       "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -1214,6 +1340,21 @@
       "type": "wikilink"
     },
     {
+      "source": "the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "Economy",
       "target": "Finance",
       "type": "wikilink"
@@ -1269,6 +1410,16 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "how_money_works_THodtjsCTSI",
       "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
       "type": "wikilink"
@@ -1291,6 +1442,16 @@
     {
       "source": "how_money_works_THodtjsCTSI",
       "target": "Business",
+      "type": "wikilink"
+    },
+    {
+      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -1331,6 +1492,11 @@
     {
       "source": "Investing",
       "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -1355,8 +1521,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-17T00:00:07.608871",
-    "total_nodes": 82,
-    "total_edges": 103
+    "generated": "2026-09-20T03:51:14.266309",
+    "total_nodes": 89,
+    "total_edges": 118
   }
 }
