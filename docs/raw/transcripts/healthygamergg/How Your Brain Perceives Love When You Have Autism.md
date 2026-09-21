@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=KlSsI2CKYaQ
-ingested: 2026-09-03
+ingested: 2026-09-18
 video_id: KlSsI2CKYaQ
 title: How Your Brain Perceives Love When You Have Autism
 series: 

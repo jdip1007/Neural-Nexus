@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=RhelaTtcmEo
-ingested: 2026-09-03
+ingested: 2026-09-18
 video_id: RhelaTtcmEo
 title: Why Smart People Are Bad At Dating
 series: 

@@ -1,28 +1,28 @@
 ---
 channel: Dave's Garage
-created: '2026-09-12T23:55:45.367436'
+created: '2026-09-18T01:39:43.741683'
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=3c5f7WzQzY
 tags:
-- tutorial
-- led
-- network
+- programming
 - assembly
 - ethernet
-- programming
+- network
+- led
 - software
 - tech
-- hardware
 - diy
-- code
+- hardware
+- tutorial
 - development
 - system
+- code
 - youtube
 - daves-garage
 title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside'
 type: video
-updated: '2026-09-12T23:55:45.367451'
+updated: '2026-09-18T01:39:43.741693'
 video_id: 3c5f7WzQzY
 views: 428K
 ---
@@ -36,23 +36,23 @@ views: 428K
 
 ## Summary
 
-This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
+This video from Dave's Garage explores programming, assembly, ethernet and related concepts in depth.
 
 ## Key Topics
 
-- tutorial
-- led
-- network
+- programming
 - assembly
 - ethernet
-- programming
+- network
+- led
 - software
 - tech
-- hardware
 - diy
-- code
+- hardware
+- tutorial
 - development
 - system
+- code
 
 ## Key Concepts
 

@@ -29,9 +29,51 @@
       "processed_date": "2026-09-18T01:19:28.033827",
       "status": "completed",
       "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY"
+    },
+    "772c9b359bb40b2801e49f8eabc5ffb9": {
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "processed_date": "2026-09-18T01:35:05.407333",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4"
+    },
+    "2ea656d0a65023c961e46c836b2ab50e": {
+      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "processed_date": "2026-09-18T01:35:05.722699",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY"
+    },
+    "e96cc006ebe07e07a82d5f3a87b3c5c4": {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "processed_date": "2026-09-18T01:35:06.037814",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o"
+    },
+    "aee4051ff47e9d4a890533d340c6db05": {
+      "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+      "processed_date": "2026-09-18T01:35:06.352111",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=dFzX7z8kY9A"
+    },
+    "29d1488ba568e3d6a415a48eced17423": {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "processed_date": "2026-09-18T01:35:06.658538",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY"
+    },
+    "a1814b6419c40431ed1cdc5a4baf0f48": {
+      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "processed_date": "2026-09-18T01:39:43.428462",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38"
+    },
+    "7e7d5634052cf4425846e490bcf7f253": {
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "processed_date": "2026-09-18T01:39:43.742678",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=3c5f7WzQzY"
     }
   },
-  "last_updated": "2026-09-18T01:19:28.033838",
+  "last_updated": "2026-09-18T01:39:43.742687",
   "channel_name": "Dave's Garage",
   "channel_id": "davesgarage",
   "ingestion_history": [
@@ -63,6 +105,48 @@
       "video_title": "Ethernet Explained so well that even YOU can Understand it!",
       "video_url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
       "processed_date": "2026-09-18T01:19:28.033836",
+      "status": "completed"
+    },
+    {
+      "video_title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "video_url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
+      "processed_date": "2026-09-18T01:35:05.407342",
+      "status": "completed"
+    },
+    {
+      "video_title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "video_url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
+      "processed_date": "2026-09-18T01:35:05.722705",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "video_url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "processed_date": "2026-09-18T01:35:06.037819",
+      "status": "completed"
+    },
+    {
+      "video_title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+      "video_url": "https://www.youtube.com/watch?v=dFzX7z8kY9A",
+      "processed_date": "2026-09-18T01:35:06.352120",
+      "status": "completed"
+    },
+    {
+      "video_title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "video_url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
+      "processed_date": "2026-09-18T01:35:06.658549",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "video_url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
+      "processed_date": "2026-09-18T01:39:43.428470",
+      "status": "completed"
+    },
+    {
+      "video_title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "video_url": "https://www.youtube.com/watch?v=3c5f7WzQzY",
+      "processed_date": "2026-09-18T01:39:43.742684",
       "status": "completed"
     }
   ]

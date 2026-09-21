@@ -1,22 +1,17 @@
 ---
 title: The Most Satisfying Downfalls In YouTube History
-created: 2026-09-03
-updated: 2026-09-03
+created: 2026-09-21
+updated: 2026-09-21
 type: finding
-tags:
-- youtube-documentary
-- content-creator
-- investigation
-sources:
-- raw/transcripts/internet-anarchist/4OoN-eLshD4.md
-domain: finance
+tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
+sources: [raw/transcripts/internet-anarchist/4OoN-eLshD4.md]
 ---
 
 # The Most Satisfying Downfalls In YouTube History
 
 ## Overview
 
-title: The Most Satisfying Downfalls In YouTube History video_id: 4OoN-eLshD4 source: https://www.youtube.com/watch?v=4OoN-eLshD4...
+**Video ID:** 4OoN-eLshD4 **Source:** https://www.youtube.com/watch?v=4OoN-eLshD4 **Channel:** @InternetAnarchist...
 
 ## Video Details
 
@@ -26,13 +21,11 @@ title: The Most Satisfying Downfalls In YouTube History video_id: 4OoN-eLshD4 so
 
 ## Transcript Summary
 
-- title: The Most Satisfying Downfalls In YouTube History
-- tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
-- # The Most Satisfying Downfalls In YouTube History
+Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet-anarchist/4OoN-eLshD4.md for the complete transcript.
+See [[raw/transcripts/internet-anarchist/4OoN-eLshD4.md]] for the complete transcript.
 
 ## Related Topics
 

@@ -1,22 +1,17 @@
 ---
 title: The Satisfying Downfall of SSSniperWolf
-created: 2026-09-03
-updated: 2026-09-03
+created: 2026-09-21
+updated: 2026-09-21
 type: finding
-tags:
-- youtube-documentary
-- content-creator
-- investigation
-sources:
-- raw/transcripts/internet-anarchist/U7YtrRRccC0.md
-domain: finance
+tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
+sources: [raw/transcripts/internet-anarchist/U7YtrRRccC0.md]
 ---
 
 # The Satisfying Downfall of SSSniperWolf
 
 ## Overview
 
-title: The Satisfying Downfall of SSSniperWolf video_id: U7YtrRRccC0 source: https://www.youtube.com/watch?v=U7YtrRRccC0...
+**Video ID:** U7YtrRRccC0 **Source:** https://www.youtube.com/watch?v=U7YtrRRccC0 **Channel:** @InternetAnarchist...
 
 ## Video Details
 
@@ -26,13 +21,11 @@ title: The Satisfying Downfall of SSSniperWolf video_id: U7YtrRRccC0 source: htt
 
 ## Transcript Summary
 
-- title: The Satisfying Downfall of SSSniperWolf
-- tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
-- # The Satisfying Downfall of SSSniperWolf
+Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet-anarchist/U7YtrRRccC0.md for the complete transcript.
+See [[raw/transcripts/internet-anarchist/U7YtrRRccC0.md]] for the complete transcript.
 
 ## Related Topics
 

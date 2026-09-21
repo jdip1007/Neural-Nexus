@@ -1,22 +1,17 @@
 ---
 title: The Satisfying Downfall of Nas Daily
-created: 2026-09-03
-updated: 2026-09-03
+created: 2026-09-21
+updated: 2026-09-21
 type: finding
-tags:
-- youtube-documentary
-- content-creator
-- investigation
-sources:
-- raw/transcripts/internet-anarchist/gcx2jMbBGY4.md
-domain: finance
+tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
+sources: [raw/transcripts/internet-anarchist/gcx2jMbBGY4.md]
 ---
 
 # The Satisfying Downfall of Nas Daily
 
 ## Overview
 
-title: The Satisfying Downfall of Nas Daily video_id: gcx2jMbBGY4 source: https://www.youtube.com/watch?v=gcx2jMbBGY4...
+**Video ID:** gcx2jMbBGY4 **Source:** https://www.youtube.com/watch?v=gcx2jMbBGY4 **Channel:** @InternetAnarchist...
 
 ## Video Details
 
@@ -26,13 +21,11 @@ title: The Satisfying Downfall of Nas Daily video_id: gcx2jMbBGY4 source: https:
 
 ## Transcript Summary
 
-- title: The Satisfying Downfall of Nas Daily
-- tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
-- # The Satisfying Downfall of Nas Daily
+Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet-anarchist/gcx2jMbBGY4.md for the complete transcript.
+See [[raw/transcripts/internet-anarchist/gcx2jMbBGY4.md]] for the complete transcript.
 
 ## Related Topics
 

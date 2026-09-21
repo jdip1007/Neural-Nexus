@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=Ads8VOa0qKQ
-ingested: 2026-09-01
+ingested: 2026-09-18
 video_id: Ads8VOa0qKQ
 title: Stop Overcorrecting Your Attachment Style (Viewer Interview)
 series: 

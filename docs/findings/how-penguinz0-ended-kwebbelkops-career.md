@@ -1,22 +1,17 @@
 ---
 title: How Penguinz0 Ended Kwebbelkop's Career
-created: 2026-09-03
-updated: 2026-09-03
+created: 2026-09-21
+updated: 2026-09-21
 type: finding
-tags:
-- youtube-documentary
-- content-creator
-- investigation
-sources:
-- raw/transcripts/internet-anarchist/TeJaFf9z4Rc.md
-domain: finance
+tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
+sources: [raw/transcripts/internet-anarchist/TeJaFf9z4Rc.md]
 ---
 
 # How Penguinz0 Ended Kwebbelkop's Career
 
 ## Overview
 
-title: How Penguinz0 Ended Kwebbelkop's Career video_id: TeJaFf9z4Rc source: https://www.youtube.com/watch?v=TeJaFf9z4Rc...
+**Video ID:** TeJaFf9z4Rc **Source:** https://www.youtube.com/watch?v=TeJaFf9z4Rc **Channel:** @InternetAnarchist...
 
 ## Video Details
 
@@ -26,11 +21,11 @@ title: How Penguinz0 Ended Kwebbelkop's Career video_id: TeJaFf9z4Rc source: htt
 
 ## Transcript Summary
 
-- tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
+Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet-anarchist/TeJaFf9z4Rc.md for the complete transcript.
+See [[raw/transcripts/internet-anarchist/TeJaFf9z4Rc.md]] for the complete transcript.
 
 ## Related Topics
 

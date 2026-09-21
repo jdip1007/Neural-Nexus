@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=7MykFJ7TByM
-ingested: 2026-09-03
+ingested: 2026-09-18
 video_id: 7MykFJ7TByM
 title: Analyzing The Lindsay Clancy Case
 series: 

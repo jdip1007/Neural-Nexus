@@ -1,58 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-09-16T00:45:57.833027'
+created: '2026-09-18T01:35:06.351013'
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=dFzX7z8kY9A
 tags:
+- assembly
 - tutorial
-- programming
 - network
+- ethernet
+- tech
+- diy
+- code
+- programming
+- hardware
+- software
 - development
 - system
-- tech
-- assembly
 - led
-- code
-- diy
-- software
-- hardware
-- ethernet
 - youtube
 - daves-garage
 title: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
 type: video
-updated: '2026-09-16T00:45:57.833039'
+updated: '2026-09-18T01:35:06.351024'
 video_id: dFzX7z8kY9A
-views: 104K
+views: 738K
 ---
 
 # As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
 
 > **Source:** [https://www.youtube.com/watch?v=dFzX7z8kY9A](https://www.youtube.com/watch?v=dFzX7z8kY9A)  
 > **Duration:** 18 minutes  
-> **Views:** 104K  
+> **Views:** 738K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores tutorial, programming, network and related concepts in depth.
+This video from Dave's Garage explores assembly, tutorial, network and related concepts in depth.
 
 ## Key Topics
 
+- assembly
 - tutorial
-- programming
 - network
+- ethernet
+- tech
+- diy
+- code
+- programming
+- hardware
+- software
 - development
 - system
-- tech
-- assembly
 - led
-- code
-- diy
-- software
-- hardware
-- ethernet
 
 ## Key Concepts
 

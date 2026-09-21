@@ -1,59 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-09-10T23:32:11.708189'
+created: '2026-09-18T01:35:06.657443'
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=8c4Yf7WzQzY
 tags:
-- programming
+- assembly
+- tutorial
+- network
+- ethernet
+- tech
 - diy
 - code
-- led
-- tech
-- software
+- programming
 - hardware
-- ethernet
-- tutorial
-- assembly
-- network
-- system
+- software
 - development
+- system
+- led
 - youtube
 - daves-garage
 title: Microsoft's Secret 90s Weapon That Made Windows Fast
-type: reading
-updated: '2026-09-10T23:32:11.708201'
+type: video
+updated: '2026-09-18T01:35:06.657456'
 video_id: 8c4Yf7WzQzY
-views: 129K
-domain: devops
+views: 130K
 ---
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 
 > **Source:** [https://www.youtube.com/watch?v=8c4Yf7WzQzY](https://www.youtube.com/watch?v=8c4Yf7WzQzY)  
 > **Duration:** 18 minutes  
-> **Views:** 129K  
+> **Views:** 130K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores programming, diy, code and related concepts in depth.
+This video from Dave's Garage explores assembly, tutorial, network and related concepts in depth.
 
 ## Key Topics
 
-- programming
+- assembly
+- tutorial
+- network
+- ethernet
+- tech
 - diy
 - code
-- led
-- tech
-- software
+- programming
 - hardware
-- ethernet
-- tutorial
-- assembly
-- network
-- system
+- software
 - development
+- system
+- led
 
 ## Key Concepts
 
@@ -78,14 +77,3 @@ This video from Dave's Garage explores programming, diy, code and related concep
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

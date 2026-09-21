@@ -1,22 +1,17 @@
 ---
 title: The Deserved Downfall of Dr Phil
-created: 2026-09-03
-updated: 2026-09-03
+created: 2026-09-18
+updated: 2026-09-18
 type: finding
-tags:
-- youtube-documentary
-- content-creator
-- investigation
-sources:
-- raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md
-domain: finance
+tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
+sources: [raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md]
 ---
 
 # The Deserved Downfall of Dr Phil
 
 ## Overview
 
-title: The Deserved Downfall of Dr Phil video_id: Mh9lkEl8ZWU source: https://www.youtube.com/watch?v=Mh9lkEl8ZWU...
+**Video ID:** Mh9lkEl8ZWU **Source:** https://www.youtube.com/watch?v=Mh9lkEl8ZWU **Channel:** @InternetAnarchist...
 
 ## Video Details
 
@@ -26,13 +21,11 @@ title: The Deserved Downfall of Dr Phil video_id: Mh9lkEl8ZWU source: https://ww
 
 ## Transcript Summary
 
-- title: The Deserved Downfall of Dr Phil
-- tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
-- # The Deserved Downfall of Dr Phil
+Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md for the complete transcript.
+See [[raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md]] for the complete transcript.
 
 ## Related Topics
 

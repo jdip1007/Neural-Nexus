@@ -1,28 +1,28 @@
 ---
 channel: Dave's Garage
-created: '2026-09-12T23:55:45.585978'
+created: '2026-09-18T01:35:05.721655'
 duration: 16 minutes
 sources:
 - https://www.youtube.com/watch?v=2c4Yf7WzQzY
 tags:
-- tutorial
-- led
-- network
 - assembly
+- tutorial
+- network
 - ethernet
-- programming
-- software
 - tech
-- hardware
 - diy
 - code
+- programming
+- hardware
+- software
 - development
 - system
+- led
 - youtube
 - daves-garage
 title: fopen is Magic! - Find Out What You've Been Missing All These Years!
 type: video
-updated: '2026-09-12T23:55:45.585994'
+updated: '2026-09-18T01:35:05.721667'
 video_id: 2c4Yf7WzQzY
 views: 129K
 ---
@@ -36,23 +36,23 @@ views: 129K
 
 ## Summary
 
-This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
+This video from Dave's Garage explores assembly, tutorial, network and related concepts in depth.
 
 ## Key Topics
 
-- tutorial
-- led
-- network
 - assembly
+- tutorial
+- network
 - ethernet
-- programming
-- software
 - tech
-- hardware
 - diy
 - code
+- programming
+- hardware
+- software
 - development
 - system
+- led
 
 ## Key Concepts
 

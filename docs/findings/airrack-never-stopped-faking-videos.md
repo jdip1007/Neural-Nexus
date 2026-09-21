@@ -1,23 +1,23 @@
 ---
 title: Airrack Never Stopped Faking Videos
-created: 2026-09-16
-updated: 2026-09-16
+created: 2026-09-18
+updated: 2026-09-18
 type: finding
 tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/6zAG7p81NME.md]
+sources: [raw/transcripts/internet-anarchist/JdMz8Tg1yE0.md]
 ---
 
 # Airrack Never Stopped Faking Videos
 
 ## Overview
 
-**Video ID:** 6zAG7p81NME **Source:** https://www.youtube.com/watch?v=6zAG7p81NME **Channel:** @InternetAnarchist...
+**Video ID:** JdMz8Tg1yE0 **Source:** https://www.youtube.com/watch?v=JdMz8Tg1yE0 **Channel:** @InternetAnarchist...
 
 ## Video Details
 
 - **Channel:** @InternetAnarchist
-- **Video ID:** 6zAG7p81NME
-- **Source:** https://www.youtube.com/watch?v=6zAG7p81NME
+- **Video ID:** JdMz8Tg1yE0
+- **Source:** https://www.youtube.com/watch?v=JdMz8Tg1yE0
 
 ## Transcript Summary
 
@@ -25,7 +25,7 @@ Key points analysis in progress...
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/6zAG7p81NME.md]] for the complete transcript.
+See [[raw/transcripts/internet-anarchist/JdMz8Tg1yE0.md]] for the complete transcript.
 
 ## Related Topics
 

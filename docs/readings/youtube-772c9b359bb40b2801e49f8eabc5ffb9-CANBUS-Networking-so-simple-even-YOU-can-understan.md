@@ -1,59 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-09-01T20:38:23.272515'
+created: '2026-09-18T01:35:05.406037'
 duration: 23 minutes
 sources:
 - https://www.youtube.com/watch?v=QTTCqGtT6I4
 tags:
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
-- system
-- diy
 - assembly
-- programming
+- tutorial
 - network
-- development
+- ethernet
+- tech
+- diy
+- code
+- programming
 - hardware
+- software
+- development
+- system
+- led
 - youtube
 - daves-garage
-title: CANBUS – Networking so simple, even YOU can understand it!
-type: reading
-updated: '2026-09-01T20:38:23.272526'
+title: "CANBUS \u2013 Networking so simple, even YOU can understand it!"
+type: video
+updated: '2026-09-18T01:35:05.406052'
 video_id: QTTCqGtT6I4
-views: 428K
-domain: devops
+views: 496K
 ---
 
 # CANBUS – Networking so simple, even YOU can understand it!
 
 > **Source:** [https://www.youtube.com/watch?v=QTTCqGtT6I4](https://www.youtube.com/watch?v=QTTCqGtT6I4)  
 > **Duration:** 23 minutes  
-> **Views:** 428K  
+> **Views:** 496K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores led, software, tutorial and related concepts in depth.
+This video from Dave's Garage explores assembly, tutorial, network and related concepts in depth.
 
 ## Key Topics
 
-- led
-- software
-- tutorial
-- ethernet
-- code
-- tech
-- system
-- diy
 - assembly
-- programming
+- tutorial
 - network
-- development
+- ethernet
+- tech
+- diy
+- code
+- programming
 - hardware
+- software
+- development
+- system
+- led
 
 ## Key Concepts
 
@@ -78,14 +77,3 @@ This video from Dave's Garage explores led, software, tutorial and related conce
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[daves-garage]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

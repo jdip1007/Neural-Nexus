@@ -1,58 +1,58 @@
 ---
 channel: Dave's Garage
-created: '2026-09-12T23:55:45.143754'
+created: '2026-09-18T01:35:06.036833'
 duration: 22 minutes
 sources:
 - https://www.youtube.com/watch?v=hRhBuHJ-j_o
 tags:
-- tutorial
-- led
-- network
 - assembly
+- tutorial
+- network
 - ethernet
-- programming
-- software
 - tech
-- hardware
 - diy
 - code
+- programming
+- hardware
+- software
 - development
 - system
+- led
 - youtube
 - daves-garage
 title: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 type: video
-updated: '2026-09-12T23:55:45.143770'
+updated: '2026-09-18T01:35:06.036846'
 video_id: hRhBuHJ-j_o
-views: 40K
+views: 41K
 ---
 
 # The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 
 > **Source:** [https://www.youtube.com/watch?v=hRhBuHJ-j_o](https://www.youtube.com/watch?v=hRhBuHJ-j_o)  
 > **Duration:** 22 minutes  
-> **Views:** 40K  
+> **Views:** 41K  
 > **Channel:** Dave's Garage
 
 ## Summary
 
-This video from Dave's Garage explores tutorial, led, network and related concepts in depth.
+This video from Dave's Garage explores assembly, tutorial, network and related concepts in depth.
 
 ## Key Topics
 
-- tutorial
-- led
-- network
 - assembly
+- tutorial
+- network
 - ethernet
-- programming
-- software
 - tech
-- hardware
 - diy
 - code
+- programming
+- hardware
+- software
 - development
 - system
+- led
 
 ## Key Concepts
 

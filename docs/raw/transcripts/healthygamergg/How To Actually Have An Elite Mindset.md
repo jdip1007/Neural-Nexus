@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=Wu7zcamEAI0
-ingested: 2026-09-03
+ingested: 2026-09-18
 video_id: Wu7zcamEAI0
 title: How To Actually Have An Elite Mindset
 series: 
