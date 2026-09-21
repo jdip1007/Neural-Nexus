@@ -1,8 +1,8 @@
 ---
 {
   "title": "Analyzing The Lindsay Clancy Case",
-  "created": "2026-09-15T01:35:49.963170",
-  "updated": "2026-09-15T01:35:49.963183",
+  "created": "2026-09-21T04:29:12.563109",
+  "updated": "2026-09-21T04:29:12.563113",
   "type": "video",
   "tags": [
     "mental_health",
@@ -12,18 +12,18 @@
     "healthygamergg"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=example3"
+    "https://www.youtube.com/watch?v=7MykFJ7TByM"
   ],
-  "duration": "29 minutes",
+  "duration": "29:29",
   "channel": "HealthyGamerGG"
 }
 ---
 
 # Analyzing The Lindsay Clancy Case
 
-> **Source:** [https://www.youtube.com/watch?v=example3](https://www.youtube.com/watch?v=example3)  
+> **Source:** [https://www.youtube.com/watch?v=7MykFJ7TByM](https://www.youtube.com/watch?v=7MykFJ7TByM)  
 > **Channel:** HealthyGamerGG  
-> **Duration:** 29 minutes
+> **Duration:** 29:29
 
 ## Summary
 

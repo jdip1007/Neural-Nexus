@@ -8,6 +8,13 @@
       "type": "page"
     },
     {
+      "id": "why-gifted-people-burn-out-the-fastest",
+      "title": "why-gifted-people-burn-out-the-fastest",
+      "file": "/home/hermes/Neural-Nexus/docs/why-gifted-people-burn-out-the-fastest.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
       "title": "Why You're Tired, Stressed & Unfocused (and how to fix it)",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-.md",
@@ -124,6 +131,13 @@
         "tutorial",
         "automotive"
       ],
+      "type": "page"
+    },
+    {
+      "id": "why-normal-life-feels-so-boring",
+      "title": "why-normal-life-feels-so-boring",
+      "file": "/home/hermes/Neural-Nexus/docs/why-normal-life-feels-so-boring.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -1591,8 +1605,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-20T04:26:04.015527",
-    "total_nodes": 94,
+    "generated": "2026-09-21T04:29:28.734832",
+    "total_nodes": 96,
     "total_edges": 125
   }
 }

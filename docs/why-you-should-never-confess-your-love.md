@@ -1,8 +1,8 @@
 ---
 {
   "title": "Why You Should NEVER Confess Your Love",
-  "created": "2026-09-15T01:39:56.734400",
-  "updated": "2026-09-15T01:39:56.734402",
+  "created": "2026-09-21T04:29:12.563783",
+  "updated": "2026-09-21T04:29:12.563785",
   "type": "video",
   "tags": [
     "breakup",
@@ -10,18 +10,18 @@
     "healthygamergg"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=example8"
+    "https://www.youtube.com/watch?v=xHkcIRZa6lo"
   ],
-  "duration": "35 minutes",
+  "duration": "35:37",
   "channel": "HealthyGamerGG"
 }
 ---
 
 # Why You Should NEVER Confess Your Love
 
-> **Source:** [https://www.youtube.com/watch?v=example8](https://www.youtube.com/watch?v=example8)  
+> **Source:** [https://www.youtube.com/watch?v=xHkcIRZa6lo](https://www.youtube.com/watch?v=xHkcIRZa6lo)  
 > **Channel:** HealthyGamerGG  
-> **Duration:** 35 minutes
+> **Duration:** 35:37
 
 ## Summary
 
