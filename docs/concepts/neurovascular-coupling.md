@@ -186,3 +186,12 @@ This concept connects:
 - Impairment is an early event in metabolic brain dysfunction
 - Therapeutic enhancement of NVC is an active research area
 - NVC dysfunction underlies multiple neurodegenerative pathways
+
+## See also
+
+- [[adaptive-myelination]]
+- [[blood-brain-barrier]]
+- [[glymphatic]]
+- [[inflammation]]
+- [[metabolic-disorder]]
+- [[myelin]]

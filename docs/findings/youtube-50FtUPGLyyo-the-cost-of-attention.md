@@ -50,3 +50,13 @@ Source: [https://www.youtube.com/watch?v=50FtUPGLyyo](https://www.youtube.com/wa
 
 ---
 *Created: 2026-09-11 23:50:47*
+
+
+## See also
+
+- [[business]]
+- [[economy]]
+- [[psychology]]
+- [[technology]]
+- [[the-cost-of-attention]]
+- [[youtube]]

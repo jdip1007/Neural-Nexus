@@ -128,8 +128,8 @@
    - `concepts/metabolic-disorder.md` (11,006 chars) - Obesity, diabetes, metabolic syndrome, and brain impacts
 
 2. **Fixed naming convention violations:**
-   - Changed `[[Alzheimer-disease]]` → `[[alzheimers-disease]]` in 3 files
-   - Changed `[[Parkinson-disease]]` → `[[parkinsons-disease]]` in 2 files
+   - Changed `Alzheimer disease` → `alzheimers disease` in 3 files
+   - Changed `Parkinson disease` → `parkinsons disease` in 2 files
    - Updated files: neurovascular-unit.md, glymphatic.md, blood-brain-barrier.md
 
 **Verification Results:**
@@ -193,7 +193,7 @@
 **Quality Check Results:**
 - ✅ All raw transcripts have proper frontmatter (source_url, source_type, ingested, sha256)
 - ✅ All reading summaries have sources, tags, proper classification
-- ✅ Fixed 2 broken wikilinks in youtube-Unzc731iCUY-summary.md (removed [ai](concepts/ai.md), framework, [cloud](concepts/cloud.md), [api](concepts/api.md); added [[communication]], [[presentation]], [programming](concepts/programming.md), [[python]], [[computer-science]])
+- ✅ Fixed 2 broken wikilinks in youtube-Unzc731iCUY-summary.md (removed [ai](concepts/ai.md), framework, [cloud](concepts/cloud.md), [api](concepts/api.md); added communication, presentation, [programming](concepts/programming.md), python, computer science)
 - ✅ All wikilinks now point to existing concepts or are appropriate placeholders
 - ✅ Entity pages have proper frontmatter and citations
 
@@ -223,7 +223,7 @@
 **Content:** Simulated transcript on digital minimalism and life optimization
 - Raw transcript: Simulated content (167 words, 22 segments)
 - Reading summary: Video page with proper frontmatter (2,570 chars)
-- Integration: Linked to [technology](concepts/technology.md), [[life]], [[philosophy]] concepts
+- Integration: Linked to [technology](concepts/technology.md), life, [[philosophy]] concepts
 
 ### 2. The Future of Humanity: AI, Transhumanism, and What Comes Next
 **Video ID:** AI_future_of_humanity
@@ -243,7 +243,7 @@
 **Content:** Simulated transcript on stoic philosophy
 - Raw transcript: Simulated content (178 words, 22 segments)
 - Reading summary: Video page with proper frontmatter (2,649 chars)
-- Integration: Linked to [[philosophy]], [[life]] concepts
+- Integration: Linked to [[philosophy]], life concepts
 
 ### 4. The Psychology of Money: Why Rich People Think Differently
 **Video ID:** psychology_of_money
@@ -253,7 +253,7 @@
 **Content:** Simulated transcript on money psychology
 - Raw transcript: Simulated content (167 words, 22 segments)
 - Reading summary: Video page with proper frontmatter (2,427 chars)
-- Integration: Linked to [[success]], [[philosophy]] concepts
+- Integration: Linked to success, [[philosophy]] concepts
 
 **Total Files Created:**
 - 4 raw video transcripts (simulated content)

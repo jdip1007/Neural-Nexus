@@ -33,3 +33,10 @@ backlinks: []
 - Building a Custom Electric Vehicle from Scratch (ID: dave_garage_001)
 - Arduino vs Raspberry Pi: Which is Better? (ID: dave_garage_006)
 - Solar Power System for Your Workshop (ID: dave_garage_005)
+
+
+## See also
+
+- [[neural-nexus]]
+- [[youtube]]
+- youtube-ingestion-report

@@ -11,3 +11,8 @@ status: draft
 # Mental Health Basics
 
 *This is a stub concept page. Add content here.*
+
+
+## See also
+
+- [[mental-health]]

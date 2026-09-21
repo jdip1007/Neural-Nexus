@@ -179,3 +179,12 @@ Military training encompasses the systematic development of physical, mental, an
 - leadership-development
 - physical-fitness
 - combat-readiness
+
+## See also
+
+- [[air-force]]
+- [[emotional-regulation]]
+- [[engineering]]
+- [[individualized-training]]
+- [[marine-corps-training]]
+- [[military-structure]]

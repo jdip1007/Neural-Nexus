@@ -185,3 +185,12 @@ This reading connects:
 - Emphasizes systems biology over reductionist approaches
 - Proposes testable framework for future research
 - Clinical implications for prevention and treatment
+
+## See also
+
+- [[adaptive-myelination]]
+- [[blood-brain-barrier]]
+- [[glymphatic]]
+- [[hypothalamus]]
+- [[inflammation]]
+- [[metabolic-disorder]]

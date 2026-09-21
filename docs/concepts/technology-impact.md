@@ -11,3 +11,8 @@ status: draft
 # technology-impact
 
 *This is a stub concept page. Add content here.*
+
+
+## See also
+
+- [[technology]]

@@ -47,3 +47,13 @@ This is a sample transcript for video VIDEO404. It contains various topics about
 - Gaming Psychology
 - Relationship Building
 - Self-Improvement Strategies
+
+
+## See also
+
+- [[emotional-regulation]]
+- [[gaming]]
+- [[mental-health]]
+- [[mindfulness]]
+- [[personal-development]]
+- [[psychology]]

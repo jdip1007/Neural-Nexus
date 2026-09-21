@@ -47,3 +47,12 @@ This video from How Money Works explores entertainment-industry and provides ins
 **Video ID:** `Sx-lddna-qg`
 **Transcript:** raw/transcripts/how-money-works/WTF Is Happening To The Video Game Industry-.md
 **Accessed:** 2026-09-04
+
+
+## See also
+
+- [[gaming]]
+- [[how-money-works]]
+- [[investment]]
+- [[market]]
+- [[youtube]]

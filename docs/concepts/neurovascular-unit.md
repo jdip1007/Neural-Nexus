@@ -133,3 +133,12 @@ This concept connects:
 - Disruption at any component can propagate through the entire system
 - Regional differences in NVU resilience create selective vulnerabilities
 - The NVU is the central pathway linking obesity to neurodegeneration
+
+## See also
+
+- [[adaptive-myelination]]
+- [[blood-brain-barrier]]
+- [[glymphatic]]
+- [[inflammation]]
+- [[metabolic-disorder]]
+- [[myelin]]

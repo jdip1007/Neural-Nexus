@@ -295,3 +295,12 @@ Side-by-side analysis of structural economic challenges facing China and Japan, 
 - consumer-led-rebalancing - The recovery path China is blocking
 - xi-jinping-economic-policies - Policy-driven capital allocation
 - authoritarian-economics - Systemic constraints vs. democratic market economies
+
+## See also
+
+- [[capital-deepening-trap]]
+- [[economics]]
+- [[economy]]
+- [[investment]]
+- [[market]]
+- [[technology]]

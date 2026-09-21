@@ -11,3 +11,8 @@ status: draft
 # market-analysis
 
 *This is a stub concept page. Add content here.*
+
+
+## See also
+
+- [[market]]

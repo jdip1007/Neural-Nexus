@@ -39,3 +39,9 @@ Source: [https://www.youtube.com/watch?v=l7BaFufR23E](https://www.youtube.com/wa
 
 ---
 *Created: 2026-09-11 23:50:48*
+
+
+## See also
+
+- [[psychology]]
+- [[youtube]]

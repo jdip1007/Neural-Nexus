@@ -98,3 +98,9 @@ This analysis helps categorize the content for better knowledge organization.
 ## Sources
 
 This page is derived from the YouTube video transcript saved in `raw/videos/youtube-dave_garage_002-transcript.md`.
+
+
+## See also
+
+- [[engineering]]
+- [[youtube]]

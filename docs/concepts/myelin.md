@@ -273,3 +273,13 @@ This concept connects:
 - Myelin breakdown is an early event in many neurodegenerative diseases
 - Obesity and metabolic disorders accelerate white matter aging
 - Remyelination therapies are a major active research area
+
+
+## See also
+
+- [[adaptive-myelination]]
+- [[architecture]]
+- [[inflammation]]
+- [[metabolic-disorder]]
+- [[neurovascular-coupling]]
+- [[neurovascular-unit]]

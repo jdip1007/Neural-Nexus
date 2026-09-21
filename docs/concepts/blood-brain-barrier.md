@@ -246,3 +246,12 @@ This concept connects:
 - BBB development continues into early postnatal period
 - BBB dysfunction is both cause and consequence of neurodegeneration
 - BBB presents major challenge for CNS drug delivery
+
+## See also
+
+- [[glymphatic]]
+- [[inflammation]]
+- [[metabolic-disorder]]
+- [[neurodegenerative-disease]]
+- [[neuroinflammation]]
+- [[neurovascular-coupling]]

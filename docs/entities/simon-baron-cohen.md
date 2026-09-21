@@ -216,3 +216,11 @@ Based on his research trajectory, key areas for continued investigation include:
 - Empathizing-systematizing theory
 - Dual systems model of empathy
 - Pattern-seeking hypothesis of human invention
+
+## See also
+
+- [[autism-and-human-invention]]
+- [[cognitive-vs-affective-empathy]]
+- [[pattern-seeking-in-autism]]
+- [[philosophy]]
+- [[youtube]]

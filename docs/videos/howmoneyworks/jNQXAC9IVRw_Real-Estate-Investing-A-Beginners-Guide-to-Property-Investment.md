@@ -22,7 +22,7 @@
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: How Money Works
 - **Video ID**: jNQXAC9IVRw
 - **Original URL**: https://www.youtube.com/watch?v=jNQXAC9IVRw
 - **Ingestion Date**: 2026-09-18
@@ -69,13 +69,13 @@ This comprehensive exploration of investing and real estate provides viewers wit
 ## Key Topics
 
 - [[investing]]
-- [[real estate]]
+- real estate
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- How Money Works - Main channel page
+- Personal Finance - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

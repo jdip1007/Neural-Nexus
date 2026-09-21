@@ -39,3 +39,8 @@ This video discusses ignorance is bliss
 ## See also
 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
+
+## See also
+
+- [[youtube-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily]]
+- [[youtube]]

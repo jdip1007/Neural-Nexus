@@ -25,7 +25,7 @@ Key points analysis in progress...
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/4OoN-eLshD4.md]] for the complete transcript.
+See raw/transcripts/internet anarchist/4OoN eLshD4 for the complete transcript.
 
 ## Related Topics
 

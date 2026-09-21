@@ -37,3 +37,9 @@ The [optimisation-techniques-small-scale-simulation](concepts/optimisation-techn
 ## See also
 
 - [[architecture]]
+
+## See also
+
+- [[canvas-rendering]]
+- [[game-loop]]
+- [[optimisation-techniques-small-scale-simulation]]

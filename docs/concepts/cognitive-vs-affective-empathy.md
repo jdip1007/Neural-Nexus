@@ -207,3 +207,12 @@ Baron-Cohen's work supports a **two-system model** of empathy:
 - neurodiversity-paradigm - Shift from deficit to difference model
 - [autism-and-human-invention](concepts/autism-and-human-invention.md) - Contributions of autistic cognitive styles
 - empathy-deficit-myth - Challenges to common misconceptions
+
+## See also
+
+- [[autism-and-human-invention]]
+- [[diagnostic-accuracy]]
+- [[pattern-seeking-in-autism]]
+- [[relationships]]
+- [[simon-baron-cohen]]
+- [[social-skills]]

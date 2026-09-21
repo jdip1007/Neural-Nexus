@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores the worst red flags i've seen as a thera
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=KBkkN12nVqs
 **Video ID:** `KBkkN12nVqs`
-**Transcript:** [[raw/transcripts/healthygamergg/The Worst Red Flags I've Seen As A Therapist.md]]
+**Transcript:** raw/transcripts/healthygamergg/The Worst Red Flags I've Seen As A Therapist
 **Accessed:** 2026-09-18
 
 ## Related

@@ -67,3 +67,9 @@ An algorithm is a finite sequence of well-defined, computer-implementable instru
 - [architecture](concepts/architecture.md)
 - computer-science
 - data-structures
+
+## See also
+
+- [[architecture]]
+- [[database]]
+- [[programming]]

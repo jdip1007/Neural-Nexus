@@ -48,3 +48,8 @@ This video discusses The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Ri
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[cloud]]

@@ -192,3 +192,12 @@ backlinks: []
 - **Educational Focus:** Commitment to knowledge dissemination
 - **Public Communication:** Ability to engage large audiences effectively
 - **Content Strategy:** Understanding of educational content development and delivery
+
+## See also
+
+- [[baby-boomers]]
+- [[economic-inequality]]
+- [[economic-trends]]
+- [[economy]]
+- [[generational-wealth-transfer]]
+- [[infographics-show]]

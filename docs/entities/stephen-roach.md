@@ -205,3 +205,12 @@ Cites academic research to support analysis:
 - Penn World Tables - Data source for capital-output ratios
 - Morgan Stanley career records
 - Yale University Jackson Institute - Current position
+
+## See also
+
+- [[capital-deepening-trap]]
+- [[china-vs-japan-economic-comparison]]
+- [[economics]]
+- [[economy]]
+- [[market]]
+- [[market-analysis]]

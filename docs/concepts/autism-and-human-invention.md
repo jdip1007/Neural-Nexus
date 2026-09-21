@@ -238,3 +238,12 @@ From an evolutionary standpoint, cognitive diversity offers advantages:
 - neurodiversity-paradigm - Framework for understanding cognitive diversity
 - systematizing-theory - Baron-Cohen's broader theoretical framework
 - autism-stem-connection - Statistical relationship between autism and STEM fields
+
+## See also
+
+- [[algorithm]]
+- [[architecture]]
+- [[cognitive-vs-affective-empathy]]
+- [[engineering]]
+- [[pattern-seeking-in-autism]]
+- [[relationships]]

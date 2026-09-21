@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores analyzing the lindsay clancy case and pr
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=7MykFJ7TByM
 **Video ID:** `7MykFJ7TByM`
-**Transcript:** [[raw/transcripts/healthygamergg/Analyzing The Lindsay Clancy Case.md]]
+**Transcript:** raw/transcripts/healthygamergg/Analyzing The Lindsay Clancy Case
 **Accessed:** 2026-09-18
 
 ## Related

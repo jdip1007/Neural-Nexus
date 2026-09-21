@@ -31,7 +31,7 @@ This concept page is derived from the Internet Anarchist documentary "The 13 Sec
 **Source:** Internet Anarchist YouTube Channel (@InternetAnarchist)
 **Video URL:** https://www.youtube.com/watch?v=W82TeO-XXWU
 **Video ID:** `W82TeO-XXWU`
-**Transcript:** [[The 13 Seconds That Exposed Hank Green.md]]
+**Transcript:** The 13 Seconds That Exposed Hank Green
 **Accessed:** 2026-09-20
 
 ## Related

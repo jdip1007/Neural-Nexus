@@ -22,7 +22,7 @@
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: [[chris-willx]]
 - **Video ID**: 8son5OkbC90
 - **Original URL**: https://www.youtube.com/watch?v=8son5OkbC90
 - **Ingestion Date**: 2026-09-17
@@ -72,9 +72,9 @@ This comprehensive exploration of mindfulness and technology provides viewers wi
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+- [[chris-willx]] - Main channel page
+- [[philosophy]] - General philosophy topics
+- [[psychology]] - Psychological concepts discussed
 
 ---
 

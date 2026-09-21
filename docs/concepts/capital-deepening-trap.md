@@ -308,3 +308,12 @@ Roach critiques Evan Osnos's New Yorker article "The Future, Made in China" (Aug
 - chinese-labor-reforms - Post-2007 wage increases and cost escalation
 - chinese-semiconductor-failures - Wuhan Hongxin, Tsinghua Unigroup case studies
 - authoritarian-economics - Systemic constraints vs. democratic market economies
+
+## See also
+
+- [[economics]]
+- [[economy]]
+- [[investment]]
+- [[market]]
+- [[technology]]
+- [[youtube]]

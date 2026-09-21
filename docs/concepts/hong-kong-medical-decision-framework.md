@@ -371,3 +371,8 @@ reviewed: 2026-08-07
 **Video ID:** `fehagloD4fw`
 **Transcript:** raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md
 **Accessed:** 2026-08-04
+
+## See also
+
+- [[advance-medical-directives]]
+- [[youtube]]

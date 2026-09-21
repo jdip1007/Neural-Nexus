@@ -40,3 +40,13 @@ This video from How Money Works explores personal-finance and provides insights 
 **Video ID:** `6BOxK_JrghY`
 **Transcript:** raw/transcripts/how-money-works/-Dude I'm Broke- Why Is My Data Worth Harvesting-.md
 **Accessed:** 2026-09-04
+
+
+## See also
+
+- [[finance]]
+- [[financial-planning]]
+- [[how-money-works]]
+- [[investment]]
+- [[market]]
+- [[personal-finance]]

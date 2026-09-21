@@ -53,3 +53,12 @@ Natasha Lane's research centers on:
 
 - [bpsd](concepts/bpsd.md)
 - [psychology](concepts/psychology.md)
+
+
+## See also
+
+- [[dallas-seitz]]
+- [[jennifer-watt]]
+- [[psychology]]
+- [[zahinoor-ismail]]
+- [[zahra-goodarzi]]

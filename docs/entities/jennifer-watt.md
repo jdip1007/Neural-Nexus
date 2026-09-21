@@ -100,3 +100,13 @@ Watt's work has significantly influenced:
 
 - [bpsd](concepts/bpsd.md)
 - [psychology](concepts/psychology.md)
+
+
+## See also
+
+- [[dallas-seitz]]
+- [[depression]]
+- [[natasha-lane]]
+- [[psychology]]
+- [[zahinoor-ismail]]
+- [[zahra-goodarzi]]

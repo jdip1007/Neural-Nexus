@@ -77,3 +77,12 @@ This video from Dave's Garage explores programming, assembly, ethernet and relat
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
+
+
+## See also
+
+- [[engineering]]
+- [[hardware]]
+- [[networking]]
+- [[programming]]
+- [[youtube]]

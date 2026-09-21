@@ -287,3 +287,12 @@ This concept connects:
 - Sleep may be important for consolidation of myelin changes
 - Impaired adaptive myelination contributes to cognitive decline in obesity
 - Therapeutic enhancement is an active research area, especially for MS
+
+## See also
+
+- [[inflammation]]
+- [[metabolic-disorder]]
+- [[myelin]]
+- [[neurodegenerative-disease]]
+- [[neurovascular-coupling]]
+- [[neurovascular-unit]]

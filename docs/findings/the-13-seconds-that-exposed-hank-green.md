@@ -25,7 +25,7 @@ Key points analysis in progress...
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/W82TeO-XXWU.md]] for the complete transcript.
+See raw/transcripts/internet anarchist/W82TeO XXWU for the complete transcript.
 
 ## Related Topics
 

@@ -43,3 +43,10 @@ This video discusses AI DEBATE: “Most People Have No Idea What’s Coming”
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- [[cloud]]
+- [[finance]]

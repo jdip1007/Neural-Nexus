@@ -413,3 +413,11 @@ reviewed: 2026-08-07
 - [concepts/advance-medical-directives](concepts/advance-medical-directives.md)
 - [concepts/family-role-medical-decisions](concepts/family-role-medical-decisions.md)
 - [concepts/hong-kong-medical-decision-framework](concepts/hong-kong-medical-decision-framework.md)
+
+
+## See also
+
+- [[advance-medical-directives]]
+- [[family-role-medical-decisions]]
+- [[hong-kong-medical-decision-framework]]
+- [[youtube]]

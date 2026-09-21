@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores the secret to fixing your adulthood and 
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=iCdfSRc2QNg
 **Video ID:** `iCdfSRc2QNg`
-**Transcript:** [[raw/transcripts/healthygamergg/The Secret to Fixing Your Adulthood.md]]
+**Transcript:** raw/transcripts/healthygamergg/The Secret to Fixing Your Adulthood
 **Accessed:** 2026-09-18
 
 ## Related

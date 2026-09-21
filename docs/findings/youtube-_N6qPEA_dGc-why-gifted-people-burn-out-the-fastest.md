@@ -44,3 +44,12 @@ Source: [https://www.youtube.com/watch?v=_N6qPEA_dGc](https://www.youtube.com/wa
 
 ---
 *Created: 2026-09-11 23:50:46*
+
+
+## See also
+
+- [[burnout]]
+- [[mental-health]]
+- [[psychology]]
+- [[why-gifted-people-burn-out-the-fastest]]
+- [[youtube]]

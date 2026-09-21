@@ -11,3 +11,8 @@ status: draft
 # business-strategy
 
 *This is a stub concept page. Add content here.*
+
+
+## See also
+
+- [[business]]

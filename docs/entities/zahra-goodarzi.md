@@ -57,3 +57,12 @@ Zahra Goodarzi's research centers on:
 
 - [bpsd](concepts/bpsd.md)
 - [psychology](concepts/psychology.md)
+
+
+## See also
+
+- [[dallas-seitz]]
+- [[jennifer-watt]]
+- [[natasha-lane]]
+- [[psychology]]
+- [[zahinoor-ismail]]

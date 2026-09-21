@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores how to actually have an elite mindset an
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=Wu7zcamEAI0
 **Video ID:** `Wu7zcamEAI0`
-**Transcript:** [[raw/transcripts/healthygamergg/How To Actually Have An Elite Mindset.md]]
+**Transcript:** raw/transcripts/healthygamergg/How To Actually Have An Elite Mindset
 **Accessed:** 2026-09-18
 
 ## Related

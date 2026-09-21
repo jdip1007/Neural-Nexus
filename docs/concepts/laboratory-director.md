@@ -42,3 +42,12 @@ The **Laboratory Director** is the qualified individual responsible for overall 
 ## See also
 
 - [[clia-waived-tests]]
+
+## See also
+
+- [[change-control]]
+- [[clia-regulations]]
+- [[laboratory-validation]]
+- [[laboratory-verification]]
+- [[quality-control]]
+- [[regulatory-compliance]]

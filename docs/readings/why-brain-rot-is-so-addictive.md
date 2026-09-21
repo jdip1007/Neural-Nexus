@@ -198,3 +198,12 @@ This video informed the following concepts:
 ## Source
 
 - YouTube: "Why 'Brain Rot' Content is So Addictive & How to Break Free" by Healthy Gamer Dr K — [watch](https://www.youtube.com/watch?v=eu9uvBYsPXs)
+
+## See also
+
+- [[anxiety]]
+- [[brain-rot]]
+- [[depression]]
+- [[dopamine-lemon-metaphor]]
+- [[gaming]]
+- [[inflammation]]

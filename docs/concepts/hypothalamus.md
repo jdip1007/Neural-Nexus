@@ -311,3 +311,13 @@ This concept connects:
 - The hypothalamus has regions with leaky blood-brain barrier
 - Reducing hypothalamic inflammation is a promising therapeutic target
 - Hypothalamic inflammation may precede and drive weight gain
+
+
+## See also
+
+- [[blood-brain-barrier]]
+- [[inflammation]]
+- [[metabolic-disorder]]
+- [[neuroinflammation]]
+- [[neurovascular-coupling]]
+- [[neurovascular-unit]]

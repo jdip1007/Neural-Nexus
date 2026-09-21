@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores why smart people are bad at dating and p
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=RhelaTtcmEo
 **Video ID:** `RhelaTtcmEo`
-**Transcript:** [[raw/transcripts/healthygamergg/Why Smart People Are Bad At Dating.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why Smart People Are Bad At Dating
 **Accessed:** 2026-09-18
 
 ## Related

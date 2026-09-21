@@ -368,3 +368,13 @@ This concept connects:
 - Neuroinflammation has unique features due to blood-brain barrier
 - Anti-inflammatory therapies target different stages of inflammation
 - Lifestyle interventions effectively reduce chronic inflammation
+
+
+## See also
+
+- [[blood-brain-barrier]]
+- [[metabolic-disorder]]
+- [[mindfulness]]
+- [[myelin]]
+- [[neurodegenerative-disease]]
+- [[neuroinflammation]]

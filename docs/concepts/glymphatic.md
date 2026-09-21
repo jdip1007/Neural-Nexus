@@ -276,3 +276,12 @@ This concept connects:
 - Lateral sleeping position may enhance clearance
 - Glymphatic dysfunction is both cause and consequence of neurodegeneration
 - Therapeutic enhancement of glymphatic function is an active research area
+
+## See also
+
+- [[architecture]]
+- [[blood-brain-barrier]]
+- [[inflammation]]
+- [[metabolic-disorder]]
+- [[myelin]]
+- [[neurodegenerative-disease]]

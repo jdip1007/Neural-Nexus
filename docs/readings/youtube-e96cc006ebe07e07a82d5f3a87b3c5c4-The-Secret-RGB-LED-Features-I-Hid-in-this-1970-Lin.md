@@ -77,3 +77,13 @@ This video from Dave's Garage explores assembly, tutorial, network and related c
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
+
+
+## See also
+
+- [[engineering]]
+- [[hardware]]
+- [[networking]]
+- [[programming]]
+- [[the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii]]
+- [[youtube]]

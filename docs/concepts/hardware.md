@@ -173,3 +173,12 @@ Hardware forms the tangible foundation of all computing and electronic systems. 
 
 ---
 *Created: 2026-09-02 20:50:40*
+
+## See also
+
+- [[architecture]]
+- [[automotive]]
+- [[gaming]]
+- [[lifespan]]
+- [[networking]]
+- [[programming]]

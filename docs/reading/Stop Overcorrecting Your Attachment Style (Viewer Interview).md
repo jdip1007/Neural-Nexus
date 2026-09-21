@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores stop overcorrecting your attachment styl
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=Ads8VOa0qKQ
 **Video ID:** `Ads8VOa0qKQ`
-**Transcript:** [[raw/transcripts/healthygamergg/Stop Overcorrecting Your Attachment Style (Viewer Interview).md]]
+**Transcript:** raw/transcripts/healthygamergg/Stop Overcorrecting Your Attachment Style (Viewer Interview)
 **Accessed:** 2026-09-18
 
 ## Related

@@ -26,3 +26,9 @@ status: draft
 3. **Ethernet Explained so well that even YOU can Understand it!** (7vzjIv2l6wY)
 4. **The Controversial Flock Cameras Tracking Every Car — Full Breakdown** (LJSgsf9ro38)
 5. **Reliable Isn't Always Better: TCP vs UDP** (DSA4VFdqELg)
+
+
+## See also
+
+- [[daily-ingestion-report]]
+- [[ethernet-explained-so-well-that-even-you-can-understand-it]]

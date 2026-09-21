@@ -50,3 +50,10 @@ Source: [https://www.youtube.com/watch?v=uK3OBAxCi6k](https://www.youtube.com/wa
 
 ---
 *Created: 2026-09-11 23:50:49*
+
+
+## See also
+
+- [[psychology]]
+- [[technology]]
+- [[youtube]]

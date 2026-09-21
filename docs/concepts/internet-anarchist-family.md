@@ -31,7 +31,7 @@ This concept page is derived from the Internet Anarchist documentary "Ryan's Wor
 **Source:** Internet Anarchist YouTube Channel (@InternetAnarchist)
 **Video URL:** https://www.youtube.com/watch?v=JyNB44JepZc
 **Video ID:** `JyNB44JepZc`
-**Transcript:** [[Ryan's World Is Finally Ending.md]]
+**Transcript:** [[internet-anarchist-a6b9a102ba1e-ryans-world-is-finally-ending]]
 **Accessed:** 2026-09-20
 
 ## Related

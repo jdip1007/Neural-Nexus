@@ -47,3 +47,13 @@ Source: [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/wa
 
 ---
 *Created: 2026-09-04 21:50:35*
+
+
+## See also
+
+- [[ethernet-explained-so-well-that-even-you-can-understand-it]]
+- [[hardware]]
+- [[networking]]
+- [[programming]]
+- [[technology]]
+- [[youtube]]

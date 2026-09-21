@@ -16,7 +16,7 @@ Entities are people, organizations, tools, projects, and other real-world object
 #### X先生 (Mr. X) - Television Celebrity
 - **Role**: Celebrity victim of sophisticated blackmail scheme
 - **Significance**: High-profile case highlighting celebrity privacy issues
-- **Related**: [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md), [[media-law]]
+- **Related**: [celebrity-privacy-media-ethics](concepts/celebrity-privacy-media-ethics.md), media law
 
 ## Browse Entities
 

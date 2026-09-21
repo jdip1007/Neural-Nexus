@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores why you freeze up when you talk to women
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=919XuYNqyjw
 **Video ID:** `919XuYNqyjw`
-**Transcript:** [[raw/transcripts/healthygamergg/Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K.md]]
+**Transcript:** raw/transcripts/healthygamergg/Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K
 **Accessed:** 2026-09-18
 
 ## Related

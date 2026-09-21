@@ -407,3 +407,13 @@ This concept connects:
 - Lifestyle modifications (diet, exercise, sleep) have neuroprotective effects
 - New therapeutic approaches target underlying disease mechanisms, not just symptoms
 - The "convergent-cascade" model explains how multiple factors interact to cause neurodegeneration
+
+
+## See also
+
+- [[blood-brain-barrier]]
+- [[glymphatic]]
+- [[inflammation]]
+- [[metabolic-disorder]]
+- [[neuroinflammation]]
+- [[neurovascular-coupling]]

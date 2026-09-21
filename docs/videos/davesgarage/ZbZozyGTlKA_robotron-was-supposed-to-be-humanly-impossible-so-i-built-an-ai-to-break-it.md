@@ -60,3 +60,8 @@ Hello everyone, and welcome to Dave's Garage! Today we're going to explore Robot
 ## See also
 
 - [[ai-therapy-is-making-you-mentally-weak]]
+
+## See also
+
+- [[therapy]]
+- [[youtube]]

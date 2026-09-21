@@ -90,3 +90,12 @@ The Infographics Show is a popular YouTube channel that creates educational cont
 - visual-learning
 - educational-technology
 - media-literacy
+
+## See also
+
+- [[forensic-science]]
+- [[psychology]]
+- [[technology]]
+- [[the-infographics-show]]
+- [[unsolved-mysteries]]
+- [[youtube]]

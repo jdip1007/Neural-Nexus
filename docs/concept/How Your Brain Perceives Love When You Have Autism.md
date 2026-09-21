@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores how your brain perceives love when you h
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=KlSsI2CKYaQ
 **Video ID:** `KlSsI2CKYaQ`
-**Transcript:** [[raw/transcripts/healthygamergg/How Your Brain Perceives Love When You Have Autism.md]]
+**Transcript:** raw/transcripts/healthygamergg/How Your Brain Perceives Love When You Have Autism
 **Accessed:** 2026-09-18
 
 ## Related

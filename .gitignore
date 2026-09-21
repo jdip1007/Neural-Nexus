@@ -25,3 +25,28 @@ Thumbs.db
 *.swo
 .vscode/
 .idea/
+
+# Ingestion reports (use reports/_archive/ instead)
+/*_ingestion_*.md
+/*_ingestion_*.txt
+/*_ingestion_report*
+/*_daily_ingestion*
+/*_final_report*
+/INGESTION_*
+/ingestion-report.md
+/ingestion_report.txt
+/daily_ingestion_*.md
+/daily_ingestion_*.txt
+
+# Ingestion scripts (use scripts/ingestion/ instead)
+/*_ingestion*.py
+/*_daily_ingestion*.py
+/video_tracker.py
+/process_*.py
+/extract_*.py
+/quality_check.py
+/preprocess_*.py
+/build_graph.py
+
+# Root-level artifacts
+/SCHEMA.md

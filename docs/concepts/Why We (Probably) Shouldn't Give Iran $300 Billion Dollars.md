@@ -48,3 +48,12 @@ This video from How Money Works explores international-finance and provides insi
 **Video ID:** `Ts26T7AEHS8`
 **Transcript:** raw/transcripts/how-money-works/Why We (Probably) Shouldn't Give Iran $300 Billion Dollars.md
 **Accessed:** 2026-09-04
+
+
+## See also
+
+- [[finance]]
+- [[how-money-works]]
+- [[investment]]
+- [[market]]
+- [[youtube]]

@@ -40,3 +40,12 @@ This video discusses NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano 
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[architecture]]
+- [[cloud]]
+- [[hardware]]
+- [[programming]]
+- [[technology]]

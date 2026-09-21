@@ -429,3 +429,13 @@ This concept connects:
 - The brain is particularly vulnerable to metabolic dysfunction
 - Hypothalamic inflammation is an early event in obesity
 - Neurovascular unit dysfunction mediates many brain effects
+
+
+## See also
+
+- [[blood-brain-barrier]]
+- [[glymphatic]]
+- [[hypothalamus]]
+- [[inflammation]]
+- [[neurodegenerative-disease]]
+- [[neurovascular-coupling]]

@@ -200,3 +200,11 @@ The automotive industry has undergone significant transformation in recent decad
 
 ---
 *Created: 2026-09-02 20:50:40*
+
+## See also
+
+- [[anxiety]]
+- [[hardware]]
+- [[quality-control]]
+- [[risk-assessment]]
+- [[technology]]

@@ -31,7 +31,7 @@ This concept page is derived from the Internet Anarchist documentary "The Never-
 **Source:** Internet Anarchist YouTube Channel (@InternetAnarchist)
 **Video URL:** https://www.youtube.com/watch?v=MrXO4Y6YpGA
 **Video ID:** `MrXO4Y6YpGA`
-**Transcript:** [[The Never-Ending Downfall of KSI.md]]
+**Transcript:** [[youtube-the-never-ending-downfall-of-ksi-dQw4w9Wg]]
 **Accessed:** 2026-09-20
 
 ## Related

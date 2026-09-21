@@ -34,7 +34,7 @@ This video from HealthyGamerGG explores the cost of attention and provides insig
 **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 **Video URL:** https://www.youtube.com/watch?v=50FtUPGLyyo
 **Video ID:** `50FtUPGLyyo`
-**Transcript:** [[raw/transcripts/healthygamergg/The Cost Of Attention.md]]
+**Transcript:** raw/transcripts/healthygamergg/The Cost Of Attention
 **Accessed:** 2026-09-18
 
 ## Related

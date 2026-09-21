@@ -31,9 +31,19 @@ This concept page is derived from the Internet Anarchist documentary "Shark Tank
 **Source:** Internet Anarchist YouTube Channel (@InternetAnarchist)
 **Video URL:** https://www.youtube.com/watch?v=oyPes09tpbM
 **Video ID:** `oyPes09tpbM`
-**Transcript:** [[Shark Tank Pitches That Turned Into Disasters.md]]
+**Transcript:** Shark Tank Pitches That Turned Into Disasters
 **Accessed:** 2026-09-20
 
 ## Related
 
 - [[internet-anarchist-documentary]] - Overview of Internet Anarchist channel content
+
+
+## See also
+
+- [[internet-anarchist]]
+- [[internet-anarchist-youtube]]
+- [[internet-culture]]
+- [[investment]]
+- [[shark-tank-pitches-that-turned-into-disasters]]
+- [[youtube]]

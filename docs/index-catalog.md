@@ -1364,7 +1364,7 @@
 - [[youtube-LojDvrwBcUU-summary]] — ai · `youtube`, `video-summary` · ✓ 2026-08-30
 - [[how-your-brain-perceives-love-when-you-have-autism]] — psychology · `healthy-gamer-gg`, `mental-health`, `youtube`
 - [[youtube-8pQBdZ3RdfA-summary]] — ai · `youtube`, `video-summary` · ✓ 2026-08-30
-- [[youtube-ka2GKBfviic-hunter-biden,-matt-mccusker-&-duncan-trussell-mostly-wise-#2]] — general
+- youtube ka2GKBfviic hunter biden, matt mccusker & duncan trussell mostly wise  — general
 - [[youtube-Oj5lA7FfUkI-summary]] — ai · `youtube`, `video-summary` · ✓ 2026-08-30
 - [[youtube-WlZmY4fLzhI-summary]] — ai · `youtube`, `video-summary` · ✓ 2026-09-02
 - [[how_money_works_1zjcZ661ups]] — finance · `youtube`, `how-money-works`, `finance`, `Investing`, `Budget`

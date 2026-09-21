@@ -147,3 +147,12 @@ Key principles:
 - systematizing-theory - Baron-Cohen's broader theoretical framework
 - neurodiversity-paradigm - Shift from deficit to difference model
 - empathizing-systematizing-theory - Complementary cognitive dimensions
+
+## See also
+
+- [[cognitive-vs-affective-empathy]]
+- [[engineering]]
+- [[relationships]]
+- [[simon-baron-cohen]]
+- [[technology]]
+- [[youtube]]

@@ -31,7 +31,7 @@ This concept page is derived from the Internet Anarchist documentary "The Dark L
 **Source:** Internet Anarchist YouTube Channel (@InternetAnarchist)
 **Video URL:** https://www.youtube.com/watch?v=wBGF1M4e3l8
 **Video ID:** `wBGF1M4e3l8`
-**Transcript:** [[The Dark Life After To Catch a Predator.md]]
+**Transcript:** [[internet-anarchist-9bea3420e9eb-the-most-evil-father-on-tiktok]]
 **Accessed:** 2026-09-20
 
 ## Related

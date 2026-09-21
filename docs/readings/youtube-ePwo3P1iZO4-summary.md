@@ -39,3 +39,13 @@ This video discusses The "Do Anything" Chip: FPGA
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
+
+
+## See also
+
+- [[algorithm]]
+- [[cloud]]
+- [[hardware]]
+- [[market]]
+- [[programming]]
+- [[technology]]

@@ -25,3 +25,9 @@ Mentioned in the context of research and development.
 
 ## Sources
 ^[raw/videos/youtube-hRhBuHJ-j_o-transcript.md] Video mention at timestamp
+
+
+## See also
+
+- [[the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii]]
+- [[youtube]]

@@ -519,3 +519,9 @@ reviewed: 2026-08-07
 ## See also
 
 - [[hong-kong-medical-ethics-law]]
+
+## See also
+
+- [[advance-medical-directives]]
+- [[hong-kong-international-comparison]]
+- [[youtube]]

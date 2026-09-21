@@ -123,3 +123,11 @@ The Japanese Army has undergone significant transformation throughout history, e
 - military-history
 - east-asia-security
 - [infographics-show](entities/infographics-show.md)
+
+## See also
+
+- [[air-force]]
+- [[infographics-show]]
+- [[military-structure]]
+- [[philosophy]]
+- [[technology]]

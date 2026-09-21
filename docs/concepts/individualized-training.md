@@ -125,3 +125,11 @@ Individualized training methods represent a shift from standardized, group-based
 - [[personal-development]]
 - skill-development
 - [infographics-show](entities/infographics-show.md)
+
+## See also
+
+- [[infographics-show]]
+- [[marine-corps-training]]
+- [[military-structure]]
+- [[quality-control]]
+- [[technology]]

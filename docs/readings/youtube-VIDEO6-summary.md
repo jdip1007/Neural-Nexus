@@ -28,12 +28,12 @@ A comprehensive discussion about maintaining mental health while gaming and find
 
 ## Entities Mentioned
 - [[dr-k]] (Host of HealthyGamerGG channel)
-- [[gaming-addiction]] (Concept discussed)
+- gaming addiction (Concept discussed)
 - [[mental-health]] (Core topic)
 
 ## Related Concepts
-- [[healthy-gaming-habits]]
-- [[gaming-balance]]
+- healthy gaming habits
+- gaming balance
 - [[mental-health-awareness]]
 
 ## Transcript Highlights
@@ -47,6 +47,6 @@ A comprehensive discussion about maintaining mental health while gaming and find
 - Prioritize mental health alongside gaming interests
 
 ## Related Pages
-- [[healthy-gamer-gg-channel]]
-- [[gaming-mental-health-resources]]
-- [[digital-wellness]]
+- healthy gamer gg channel
+- gaming mental health resources
+- digital wellness

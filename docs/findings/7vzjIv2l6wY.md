@@ -38,3 +38,9 @@ Key concepts identified:
 - Dave's Garage
 - [[youtube]]
 - [Technology](concepts/technology.md)
+
+
+## See also
+
+- [[ethernet-explained-so-well-that-even-you-can-understand-it]]
+- [[technology]]

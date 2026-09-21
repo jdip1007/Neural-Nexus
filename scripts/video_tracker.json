@@ -1,341 +1,193 @@
 {
-  "processed_videos": [
-    "gAxNYd01I6E",
-    "dave_garage_006",
-    "mYBxnojY-JA",
-    "RdmYUULKf7s",
-    "xHkcIRZa6lo",
-    "jH0BYAkPj78",
-    "hRhBuHJ-j_o",
-    "QTTCqGtT6I4",
-    "50FtUPGLyyo",
-    "-5epM9WG95g",
-    "kLcpCqLwNU8",
-    "YV7xNa3QO0c",
-    "iCdfSRc2QNg",
-    "dave_garage_003",
-    "mSjaMyP5QjY",
-    "_N6qPEA_dGc",
-    "bG2sW8xYQzA",
-    "OfPOtN51MpM",
-    "oCB-sCIKnkU",
-    "l7BaFufR23E",
-    "vr-EwLQCOIk",
-    "2MwTDoT8XjY",
-    "dave_garage_002",
-    "dave_garage_001",
-    "dave_garage_005",
-    "919XuYNqyjw",
-    "7MykFJ7TByM",
-    "_4x0fRO6w5M",
-    "LJSgsf9ro38",
-    "test1",
-    "ka2GKBfviic",
-    "uK3OBAxCi6k",
-    "OG91c7xsNMc",
-    "DSA4VFdqELg",
-    "7vzjIv2l6wY",
-    "SR8ESCmUYLY",
-    "XAzUoizwnXM"
-  ],
-  "video_metadata": {
-    "test1": {
-      "id": "test1",
-      "title": "Test Video 1",
-      "url": "https://youtube.com/watch?v=test1",
-      "processed_at": "2026-08-18T16:39:00.949749"
+  "channel_name": "Internet Anarchist",
+  "channel_id": "@InternetAnarchist",
+  "last_processed": "2026-09-15T00:00:00",
+  "processed_videos": {
+    "example9": {
+      "title": "The Most Evil Father on TikTok",
+      "processed_date": "2026-09-15T01:10:51.942296",
+      "status": "completed"
     },
-    "YV7xNa3QO0c": {
-      "id": "YV7xNa3QO0c",
-      "title": "2:06:15",
-      "url": "https://www.youtube.com/watch?v=YV7xNa3QO0c",
-      "processed_at": "2026-08-19T08:44:57.022949",
-      "page_filename": "youtube-YV7xNa3QO0c-2-06-15.md",
-      "content_hash": "9e38964873166a5d509650e1ab5703dc42edc173a24c2dcc552fd60f291d1ec0",
-      "status": "placeholder"
+    "example4": {
+      "title": "The Deserved Downfall of Dr Phil",
+      "processed_date": "2026-09-15T01:10:52.943241",
+      "status": "completed"
     },
-    "ka2GKBfviic": {
-      "id": "ka2GKBfviic",
-      "title": "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2",
-      "url": "https://www.youtube.com/watch?v=ka2GKBfviic",
-      "processed_at": "2026-08-19T08:44:57.023115",
-      "page_filename": "youtube-ka2GKBfviic-hunter-biden,-matt-mccusker-&-duncan-trussell-mostly-wise-#2.md",
-      "content_hash": "b7af50ead92c7ae07ce4747fa2769f34edac9f925e340db5e3f00fdbbe483492",
-      "status": "placeholder"
-    },
-    "gAxNYd01I6E": {
-      "id": "gAxNYd01I6E",
-      "title": "“We're At The Beginning Of A Revolution” - Jimmy Carr",
-      "url": "https://www.youtube.com/watch?v=gAxNYd01I6E",
-      "processed_at": "2026-08-19T08:44:57.023314",
-      "page_filename": "youtube-gAxNYd01I6E-“were-at-the-beginning-of-a-revolution”-jimmy-carr.md",
-      "content_hash": "2fd94e63f087eb0e7e5d644d890a7bec9e7e1fb1cdd719c752684402f39897c2",
-      "status": "placeholder"
-    },
-    "mSjaMyP5QjY": {
-      "id": "mSjaMyP5QjY",
-      "title": "AI DEBATE: What Will the World Actually Look Like in 2040?",
-      "url": "https://www.youtube.com/watch?v=mSjaMyP5QjY",
-      "processed_at": "2026-08-19T08:44:57.023469",
-      "page_filename": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?.md",
-      "content_hash": "67ce5a5352e47bacf5d1f7e7fbf2c63a898661cce9c75b336f2a128ec17904f8",
-      "status": "placeholder"
-    },
-    "-5epM9WG95g": {
-      "id": "-5epM9WG95g",
-      "title": "Why Do Female Teachers Sleep With Students?",
-      "url": "https://www.youtube.com/watch?v=-5epM9WG95g",
-      "processed_at": "2026-08-19T08:44:57.023752",
-      "page_filename": "youtube--5epM9WG95g-why-do-female-teachers-sleep-with-students?.md",
-      "content_hash": "fd0af8df1110430dc86ee0c28c08e3017f73d372041e8bd6e4a92136c9f496d1",
-      "status": "placeholder"
-    },
-    "dave_garage_002": {
-      "id": "dave_garage_002",
-      "title": "The Complete Guide to Home Automation Systems",
-      "url": "https://www.youtube.com/watch?v=dave_garage_002",
-      "page_filename": "youtube-dave_garage_002-the-complete-guide-to-home-automation-systems.md",
-      "content_hash": "caa932a725c195f64be11d5f2680a2487c29cff3acc9949a07e81a9a4a6374c1",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.518477"
-    },
-    "dave_garage_003": {
-      "id": "dave_garage_003",
-      "title": "DIY Smart Mirror: Building Your Own Assistant",
-      "url": "https://www.youtube.com/watch?v=dave_garage_003",
-      "page_filename": "youtube-dave_garage_003-diy-smart-mirror-building-your-own-assistant.md",
-      "content_hash": "203595e82c2a0875b398677c264130b1cf0f6fce0170b71762a176283b630486",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.519591"
-    },
-    "dave_garage_001": {
-      "id": "dave_garage_001",
-      "title": "Building a Custom Electric Vehicle from Scratch",
-      "url": "https://www.youtube.com/watch?v=dave_garage_001",
-      "page_filename": "youtube-dave_garage_001-building-a-custom-electric-vehicle-from-scratch.md",
-      "content_hash": "9850c0026720fdf60725878ead24aa5532de62654ba6c11b3fba9f3ba78c2ddd",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.520692"
-    },
-    "dave_garage_006": {
-      "id": "dave_garage_006",
-      "title": "Arduino vs Raspberry Pi: Which is Better?",
-      "url": "https://www.youtube.com/watch?v=dave_garage_006",
-      "page_filename": "youtube-dave_garage_006-arduino-vs-raspberry-pi-which-is-better.md",
-      "content_hash": "ad9eb30911fa647f3109cfa53c3dfd6daefc91c1ccaf458d6181647a810c73e1",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.521769"
-    },
-    "dave_garage_005": {
-      "id": "dave_garage_005",
-      "title": "Solar Power System for Your Workshop",
-      "url": "https://www.youtube.com/watch?v=dave_garage_005",
-      "page_filename": "youtube-dave_garage_005-solar-power-system-for-your-workshop.md",
-      "content_hash": "3ac198d3d5a6f97edb1588e9e57d71f80a78bc3a362bd6611f1bbd4b600ac50c",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.522684"
-    },
-    "jH0BYAkPj78": {
-      "id": "jH0BYAkPj78",
-      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
-      "url": "https://www.youtube.com/watch?v=jH0BYAkPj78",
-      "page_filename": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
-      "content_hash": "b6f01da4a162cd070e3edc2c69b59354",
-      "processed_at": "2026-09-03T21:40:05.826592",
-      "status": "processed"
-    },
-    "mYBxnojY-JA": {
-      "id": "mYBxnojY-JA",
-      "title": "Why Modern Dating Feels Like Parenting",
-      "url": "https://www.youtube.com/watch?v=mYBxnojY-JA",
-      "page_filename": "youtube-mYBxnojY-JA-why-modern-dating-feels-like-parenting.md",
-      "content_hash": "38823dcf5b0ab56aea3434dcb4e10a63",
-      "processed_at": "2026-09-03T21:40:05.827284",
-      "status": "processed"
-    },
-    "XAzUoizwnXM": {
-      "id": "XAzUoizwnXM",
-      "title": "CANBUS - Networking so simple, even YOU can understand it!",
-      "url": "https://www.youtube.com/watch?v=XAzUoizwnXM",
-      "page_filename": "youtube-XAzUoizwnXM-canbus-networking-so-simple-even-you-can-understand-it.md",
-      "content_hash": "dfb5100e4e1751e71c4a11c9d9cf1452",
-      "processed_at": "2026-09-03T21:40:05.827641",
-      "status": "processed"
-    },
-    "kLcpCqLwNU8": {
-      "id": "kLcpCqLwNU8",
-      "title": "The Challenge: Building a Custom Electric Vehicle",
-      "url": "https://www.youtube.com/watch?v=kLcpCqLwNU8",
-      "page_filename": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
-      "content_hash": "af5de22ce49d9eec002dca061a547cd1",
-      "processed_at": "2026-09-03T21:40:05.827883",
-      "status": "processed"
-    },
-    "QTTCqGtT6I4": {
-      "id": "QTTCqGtT6I4",
-      "title": "What Happens When You Lose Just One Packet?",
-      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
-      "page_filename": "youtube-QTTCqGtT6I4-what-happens-when-you-lose-just-one-packet.md",
-      "content_hash": "d141ff07704fabfc451c3060f64dcccb",
-      "processed_at": "2026-09-03T21:40:05.828152",
-      "status": "processed"
-    },
-    "OG91c7xsNMc": {
-      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
-      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
-      "processed_at": "2026-09-04T21:50:33.697540",
-      "status": "processed"
-    },
-    "SR8ESCmUYLY": {
-      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-      "url": "https://www.youtube.com/watch?v=SR8ESCmUYLY",
-      "processed_at": "2026-09-04T21:50:34.698352",
-      "status": "processed"
-    },
-    "7vzjIv2l6wY": {
-      "title": "Ethernet Explained so well that even YOU can Understand it!",
-      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
-      "processed_at": "2026-09-04T21:50:35.699202",
-      "status": "processed"
-    },
-    "LJSgsf9ro38": {
-      "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
-      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
-      "processed_at": "2026-09-04T21:50:36.700047",
-      "status": "processed"
-    },
-    "DSA4VFdqELg": {
-      "title": "Reliable Isn't Always Better: TCP vs UDP",
-      "url": "https://www.youtube.com/watch?v=DSA4VFdqELg",
-      "processed_at": "2026-09-04T21:50:37.700871",
-      "status": "processed"
-    },
-    "hRhBuHJ-j_o": {
-      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
-      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
-      "processed_at": "2026-09-07T22:33:45.713339",
-      "status": "processed"
-    },
-    "bG2sW8xYQzA": {
-      "id": "bG2sW8xYQzA",
-      "title": "How To ACTUALLY Break An Addiction",
-      "url": "https://www.youtube.com/watch?v=bG2sW8xYQzA",
-      "page_filename": "youtube-bG2sW8xYQzA-How-To-ACTUALLY-Break-An-Addiction.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/How-To-ACTUALLY-Break-An-Addiction.md",
-      "processed_at": "2026-09-11T00:09:38.191508",
-      "status": "processed"
-    },
-    "_4x0fRO6w5M": {
-      "id": "_4x0fRO6w5M",
-      "title": "Why Sensitive People Get Traumatized So Easily",
-      "url": "https://www.youtube.com/watch?v=_4x0fRO6w5M",
-      "page_filename": "youtube-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-Sensitive-People-Get-Traumatized-So-Easily.md",
-      "processed_at": "2026-09-11T00:09:39.192683",
-      "status": "processed"
-    },
-    "7MykFJ7TByM": {
-      "id": "7MykFJ7TByM",
-      "title": "Analyzing The Lindsay Clancy Case",
-      "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
-      "page_filename": "youtube-7MykFJ7TByM-Analyzing-The-Lindsay-Clancy-Case.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Analyzing-The-Lindsay-Clancy-Case.md",
-      "processed_at": "2026-09-11T00:09:40.193785",
-      "status": "processed"
-    },
-    "OfPOtN51MpM": {
-      "id": "OfPOtN51MpM",
-      "title": "Why You Can't Just \"Rewire\" Your Brain",
-      "url": "https://www.youtube.com/watch?v=OfPOtN51MpM",
-      "page_filename": "youtube-OfPOtN51MpM-Why-You-Cant-Just-Rewire-Your-Brain.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-You-Cant-Just-Rewire-Your-Brain.md",
-      "processed_at": "2026-09-11T00:09:41.195023",
-      "status": "processed"
-    },
-    "919XuYNqyjw": {
-      "id": "919XuYNqyjw",
-      "title": "Why You Should NEVER Confess Your Love",
-      "url": "https://www.youtube.com/watch?v=919XuYNqyjw",
-      "page_filename": "youtube-919XuYNqyjw-Why-You-Should-NEVER-Confess-Your-Love.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-You-Should-NEVER-Confess-Your-Love.md",
-      "processed_at": "2026-09-11T00:09:42.196266",
-      "status": "processed"
-    },
-    "iCdfSRc2QNg": {
-      "id": "iCdfSRc2QNg",
-      "title": "The Secret to Fixing Your Adulthood",
-      "url": "https://www.youtube.com/watch?v=iCdfSRc2QNg",
-      "page_filename": "youtube-iCdfSRc2QNg-The-Secret-to-Fixing-Your-Adulthood.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/The-Secret-to-Fixing-Your-Adulthood.md",
-      "processed_at": "2026-09-11T00:10:22.047673",
-      "status": "processed"
-    },
-    "oCB-sCIKnkU": {
-      "id": "oCB-sCIKnkU",
-      "title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
-      "url": "https://www.youtube.com/watch?v=oCB-sCIKnkU",
-      "page_filename": "youtube-oCB-sCIKnkU-Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
-      "processed_at": "2026-09-11T00:10:23.049372",
-      "status": "processed"
-    },
-    "vr-EwLQCOIk": {
-      "id": "vr-EwLQCOIk",
-      "title": "Why You Need Constant Reassurance",
-      "url": "https://www.youtube.com/watch?v=vr-EwLQCOIk",
-      "page_filename": "youtube-vr-EwLQCOIk-Why-You-Need-Constant-Reassurance.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-You-Need-Constant-Reassurance.md",
-      "processed_at": "2026-09-11T00:10:24.051038",
-      "status": "processed"
-    },
-    "2MwTDoT8XjY": {
-      "id": "2MwTDoT8XjY",
+    "2MwTDoT8q_A": {
       "title": "Why 40% Of Young Men Need Erectile Retraining",
-      "url": "https://www.youtube.com/watch?v=2MwTDoT8XjY",
-      "page_filename": "youtube-2MwTDoT8XjY-Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
-      "processed_at": "2026-09-11T00:10:25.053024",
-      "status": "processed"
+      "processed_date": "2026-09-15T01:10:53.944142",
+      "status": "completed"
     },
-    "RdmYUULKf7s": {
-      "id": "RdmYUULKf7s",
-      "title": "Why Normal Life Feels So Boring",
-      "url": "https://www.youtube.com/watch?v=RdmYUULKf7s",
-      "page_filename": "youtube-RdmYUULKf7s-Why-Normal-Life-Feels-So-Boring.md",
-      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-Normal-Life-Feels-So-Boring.md",
-      "processed_at": "2026-09-11T00:10:26.054563",
-      "status": "processed"
+    "example3": {
+      "title": "The Deserved Downfall of Tom Segura",
+      "processed_date": "2026-09-15T01:10:54.945213",
+      "status": "completed"
     },
-    "xHkcIRZa6lo": {
-      "title": "Why You Should NEVER Confess Your Love",
-      "url": "https://www.youtube.com/watch?v=xHkcIRZa6lo",
-      "processed_at": "2026-09-11T23:50:45.308080",
-      "status": "processed"
+    "example6": {
+      "title": "The 13 Seconds That Exposed Hank Green",
+      "processed_date": "2026-09-15T01:10:55.946092",
+      "status": "completed"
     },
-    "_N6qPEA_dGc": {
-      "title": "Why Gifted People Burn Out The Fastest",
-      "url": "https://www.youtube.com/watch?v=_N6qPEA_dGc",
-      "processed_at": "2026-09-11T23:50:46.309053",
-      "status": "processed"
+    "uzg-tGiK_y8": {
+      "title": "Why Marines aren't just a different kind of 'soldier' || The Infographics Show react",
+      "processed_date": "2026-09-15T01:48:37.425599",
+      "status": "completed"
     },
-    "50FtUPGLyyo": {
-      "title": "The Cost Of Attention",
-      "url": "https://www.youtube.com/watch?v=50FtUPGLyyo",
-      "processed_at": "2026-09-11T23:50:47.310050",
-      "status": "processed"
+    "D4nPxik59oE": {
+      "title": "The Horror of the Zodiac Killer || The Infographics Show",
+      "processed_date": "2026-09-15T01:48:38.426070",
+      "status": "completed"
     },
-    "l7BaFufR23E": {
-      "title": "The Lie of \"Positive Thinking\"",
-      "url": "https://www.youtube.com/watch?v=l7BaFufR23E",
-      "processed_at": "2026-09-11T23:50:48.311005",
-      "status": "processed"
+    "k0ksj42YJaM": {
+      "title": "Why Your Brain Can't Handle Modern Life || The Infographics Show",
+      "processed_date": "2026-09-15T01:48:39.426617",
+      "status": "completed"
     },
-    "uK3OBAxCi6k": {
-      "title": "Your Job Achieves Nothing... (probably)",
-      "url": "https://www.youtube.com/watch?v=uK3OBAxCi6k",
-      "processed_at": "2026-09-11T23:50:49.312001",
-      "status": "processed"
+    "KyfUysrNaco": {
+      "title": "44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)",
+      "processed_date": "2026-09-15T20:13:03.160279",
+      "status": "completed"
+    },
+    "VaoGl-soL1g": {
+      "title": "Raccoon Wars, Lindsay Clancy, NFL Scammers & More",
+      "processed_date": "2026-09-15T20:13:04.162110",
+      "status": "completed"
+    },
+    "VCJFzVtvhBQ": {
+      "title": "Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy",
+      "processed_date": "2026-09-15T20:13:05.163852",
+      "status": "completed"
+    },
+    "WEP5ubPMGDU": {
+      "title": "Living with Confidence & Going All In - Matthew McConaughey",
+      "processed_date": "2026-09-15T20:13:06.165329",
+      "status": "completed"
+    },
+    "y_woFP79F0Q": {
+      "title": "Why You're Tired, Stressed & Unfocused (and how to fix it)",
+      "processed_date": "2026-09-15T20:13:07.166749",
+      "status": "completed"
+    },
+    "_W3qPymBEBA": {
+      "title": "WTF Does Peter Thiel Actually Want?",
+      "processed_date": "2026-09-15T23:45:55.194531",
+      "status": "completed"
+    },
+    "5aBW_VGT130": {
+      "title": "So... Is Private Equity Collapsing Yet?",
+      "processed_date": "2026-09-15T23:45:57.512497",
+      "status": "completed"
+    },
+    "6BOxK_JrghY": {
+      "title": "\"Dude I'm Broke\" Why Is My Data Worth Harvesting?",
+      "processed_date": "2026-09-15T23:45:59.828975",
+      "status": "completed"
+    },
+    "D-uK2Xs6D9s": {
+      "title": "The \"Stay-At-Home Boyfriend\" Epidemic - Women Now Outnumber Men In The Workforce",
+      "processed_date": "2026-09-15T23:46:02.143132",
+      "status": "completed"
+    },
+    "Sx-lddna-qg": {
+      "title": "WTF Is Happening To The Video Game Industry?",
+      "processed_date": "2026-09-15T23:46:04.456421",
+      "status": "completed"
+    },
+    "cemy5eP5Jjs": {
+      "title": "Most Insane The Infographics Show Videos of All Time (Compilation)",
+      "processed_date": "2026-09-16T20:34:55.921300",
+      "status": "completed"
+    },
+    "8zUhBnpVgdE": {
+      "title": "Most Viewed The Infographics Show Videos (Compilation)",
+      "processed_date": "2026-09-16T20:34:56.921758",
+      "status": "completed"
+    },
+    "fYyzlv1byOM": {
+      "title": "4 Steps To Radically Transform Your Life - Dr Andrew Huberman",
+      "processed_date": "2026-09-19T21:31:53.422567",
+      "status": "completed"
+    },
+    "fK2HwzPff4E": {
+      "title": "Insane Biohack Devices That Actually Work",
+      "processed_date": "2026-09-19T21:31:54.757893",
+      "status": "completed"
+    },
+    "2d4u80LmRQ8": {
+      "title": "Why Working Harder Won\u2019t Make You Rich - Codie Sanchez",
+      "processed_date": "2026-09-19T21:31:55.997618",
+      "status": "completed"
+    },
+    "4klivapz4Gw": {
+      "title": "WW3 DEBATE: \u201cWe\u2019re On the Brink of Global Collapse\u201d",
+      "processed_date": "2026-09-19T21:31:57.511112",
+      "status": "completed"
+    },
+    "6qxPjHV0UDA": {
+      "title": "Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello",
+      "processed_date": "2026-09-19T21:31:59.061919",
+      "status": "completed"
+    },
+    "oyPes09tpbM": {
+      "title": "Shark Tank Pitches That Turned Into Disasters",
+      "processed_date": "2026-09-20T03:44:10.908521",
+      "status": "completed",
+      "pages_created": [
+        "internet-anarchist-business.md",
+        "internet-anarchist-entrepreneurship.md",
+        "internet-anarchist-finance.md",
+        "internet-anarchist-reality_tv.md",
+        "internet-anarchist-investment.md"
+      ]
+    },
+    "JyNB44JepZc": {
+      "title": "Ryan's World Is Finally Ending",
+      "processed_date": "2026-09-20T03:44:10.908532",
+      "status": "completed",
+      "pages_created": [
+        "internet-anarchist-children.md",
+        "internet-anarchist-youtube.md",
+        "internet-anarchist-family.md",
+        "internet-anarchist-entertainment.md",
+        "internet-anarchist-business.md"
+      ]
+    },
+    "W82TeO-XXWU": {
+      "title": "The 13 Seconds That Exposed Hank Green",
+      "processed_date": "2026-09-20T03:44:10.908533",
+      "status": "completed",
+      "pages_created": [
+        "internet-anarchist-science.md",
+        "internet-anarchist-education.md",
+        "internet-anarchist-youtube.md",
+        "internet-anarchist-vlogbrothers.md",
+        "internet-anarchist-nerd.md"
+      ]
+    },
+    "wBGF1M4e3l8": {
+      "title": "The Dark Life After To Catch a Predator",
+      "processed_date": "2026-09-20T03:44:10.908534",
+      "status": "completed",
+      "pages_created": [
+        "internet-anarchist-crime.md",
+        "internet-anarchist-internet_safety.md",
+        "internet-anarchist-documentary.md",
+        "internet-anarchist-legal.md",
+        "internet-anarchist-social_issues.md"
+      ]
+    },
+    "MrXO4Y6YpGA": {
+      "title": "The Never-Ending Downfall of KSI",
+      "processed_date": "2026-09-20T03:44:10.908535",
+      "status": "completed",
+      "pages_created": [
+        "internet-anarchist-youtube.md",
+        "internet-anarchist-boxing.md",
+        "internet-anarchist-entertainment.md",
+        "internet-anarchist-social_media.md",
+        "internet-anarchist-business.md"
+      ]
     }
   },
-  "last_updated": "2026-09-11T23:50:49.312014"
+  "last_updated": "2026-09-20T03:44:10.908538"
 }
