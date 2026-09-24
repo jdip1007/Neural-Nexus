@@ -92,6 +92,21 @@ transcript_available: true
 ## Taxonomy
 
 ### Core Topics
+- ados
+- autism-spectrum-disorder
+- bimodal-distribution
+- circularity
+- cognitive-assessment
+- cognitive-impairment
+- diagnostic-delay
+- epidemiology
+- heterogeneity
+- iq
+- late-diagnosis
+- lifespan
+- sampling-bias
+- test-validity
+- wechsler
 entity
 persons
 youtube

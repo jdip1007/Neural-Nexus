@@ -670,3 +670,32 @@
 **Integration:** All content properly integrated with wikilinks, source citations, tagging system (healthygamergg, youtube, mental_health, therapy, relationships), and cross-references to related psychology concepts in the Neural Nexus knowledge base.
 
 **Video Tracker Status:** Updated video_tracker.json with 3 new processed videos (total processed: 39 videos)
+
+## 2026-09-24 ingest | ASD and IQ – A Complex Interplay (Wolff et al. 2022)
+
+**Source:** Wolff N, Stroth S, Kamp-Becker I, Roepke S, Roessner V (2022). Autism Spectrum Disorder and IQ – A Complex Interplay. Frontiers in Psychiatry, 13, 856084. DOI: 10.3389/fpsyt.2022.856084
+
+**Files Created:**
+1. **readings/wolff-2022-asd-iq-interplay.md** (4,441 chars) — Reading summary with executive summary, key findings, clinical implications
+2. **concepts/asd-and-iq-interplay.md** (2,884 chars) — Reciprocal influence between ASD diagnostics and IQ measurement
+3. **concepts/asd-epidemiological-vs-clinical-iq.md** (2,571 chars) — Why epidemiological and clinical IQ profiles diverge
+4. **concepts/asd-iq-bimodal-distribution.md** (2,364 chars) — The bimodal IQ pattern in clinical ASD samples
+5. **concepts/iq-test-validity-in-asd.md** (2,411 chars) — Whether standard IQ tests measure true cognitive capacity in ASD
+6. **concepts/asd-diagnostic-delay-by-iq.md** (2,673 chars) — How IQ level affects age of ASD diagnosis
+7. **concepts/ados-and-iq.md** (2,649 chars) — Circularity between ADOS diagnostic calibration and IQ
+
+**Raw Sources:**
+- raw/sources/wolff-2022-asd-iq-interplay.pdf (original paper)
+- raw/transcripts/wolff-2022-asd-iq-interplay.txt (extracted text)
+
+**Key Topics Covered:**
+- ASD heterogeneity and IQ distribution
+- Epidemiological vs clinical sampling bias
+- IQ test validity concerns in ASD
+- ADOS-IQ circularity
+- Diagnostic delay by IQ level
+- Bimodal IQ distribution in clinical settings
+
+**Tags Used:** autism-spectrum-disorder, iq, diagnostics, heterogeneity, ados, cognitive-impairment, epidemiology, clinical-psychology, bimodal-distribution, circularity, diagnostic-delay, late-diagnosis, test-validity, wechsler, sampling-bias
+
+**Graph Impact:** 7 new pages with cross-links to existing ASD content and 5 new concept interconnections
