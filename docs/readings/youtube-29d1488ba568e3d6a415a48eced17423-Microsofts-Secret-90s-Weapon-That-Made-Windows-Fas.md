@@ -1,28 +1,28 @@
 ---
 channel: Dave's Garage
-created: '2026-09-18T01:35:06.657443'
+created: '2026-09-23T02:58:26.811045'
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=8c4Yf7WzQzY
 tags:
-- assembly
-- tutorial
-- network
-- ethernet
-- tech
-- diy
-- code
-- programming
-- hardware
-- software
 - development
-- system
+- tech
+- code
+- hardware
+- diy
+- software
 - led
+- system
+- tutorial
+- programming
+- ethernet
+- assembly
+- network
 - youtube
 - daves-garage
 title: Microsoft's Secret 90s Weapon That Made Windows Fast
 type: video
-updated: '2026-09-18T01:35:06.657456'
+updated: '2026-09-23T02:58:26.811055'
 video_id: 8c4Yf7WzQzY
 views: 130K
 ---
@@ -36,23 +36,23 @@ views: 130K
 
 ## Summary
 
-This video from Dave's Garage explores assembly, tutorial, network and related concepts in depth.
+This video from Dave's Garage explores development, tech, code and related concepts in depth.
 
 ## Key Topics
 
-- assembly
-- tutorial
-- network
-- ethernet
-- tech
-- diy
-- code
-- programming
-- hardware
-- software
 - development
-- system
+- tech
+- code
+- hardware
+- diy
+- software
 - led
+- system
+- tutorial
+- programming
+- ethernet
+- assembly
+- network
 
 ## Key Concepts
 
@@ -77,12 +77,3 @@ This video from Dave's Garage explores assembly, tutorial, network and related c
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube]]

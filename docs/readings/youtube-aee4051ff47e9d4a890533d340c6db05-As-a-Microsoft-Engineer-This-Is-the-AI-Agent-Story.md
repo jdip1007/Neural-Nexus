@@ -1,28 +1,28 @@
 ---
 channel: Dave's Garage
-created: '2026-09-18T01:35:06.351013'
+created: '2026-09-23T02:58:26.164498'
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=dFzX7z8kY9A
 tags:
-- assembly
-- tutorial
-- network
-- ethernet
-- tech
-- diy
-- code
-- programming
-- hardware
-- software
 - development
-- system
+- tech
+- code
+- hardware
+- diy
+- software
 - led
+- system
+- tutorial
+- programming
+- ethernet
+- assembly
+- network
 - youtube
 - daves-garage
 title: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
 type: video
-updated: '2026-09-18T01:35:06.351024'
+updated: '2026-09-23T02:58:26.164508'
 video_id: dFzX7z8kY9A
 views: 738K
 ---
@@ -36,23 +36,23 @@ views: 738K
 
 ## Summary
 
-This video from Dave's Garage explores assembly, tutorial, network and related concepts in depth.
+This video from Dave's Garage explores development, tech, code and related concepts in depth.
 
 ## Key Topics
 
-- assembly
-- tutorial
-- network
-- ethernet
-- tech
-- diy
-- code
-- programming
-- hardware
-- software
 - development
-- system
+- tech
+- code
+- hardware
+- diy
+- software
 - led
+- system
+- tutorial
+- programming
+- ethernet
+- assembly
+- network
 
 ## Key Concepts
 
@@ -77,12 +77,3 @@ This video from Dave's Garage explores assembly, tutorial, network and related c
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube]]

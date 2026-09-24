@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "id": "2MwTDoT8q_A",
+      "title": "Why 40% Of Young Men Need Erectile Retraining",
+      "type": "video",
+      "channel": "Internet Anarchist"
+    },
+    {
+      "id": "k0ksj42YJaM",
+      "title": "Jonah Hill's Life Is Falling Apart",
+      "type": "video",
+      "channel": "Internet Anarchist"
+    },
+    {
+      "id": "example8",
+      "title": "Andrew Tate's Life Is Falling Apart",
+      "type": "video",
+      "channel": "Internet Anarchist"
+    },
+    {
+      "id": "_4x0fRO6w5M",
+      "title": "Why Sensitive People Get Traumatized So Easily",
+      "type": "video",
+      "channel": "Internet Anarchist"
+    },
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "The Never-Ending Downfall of KSI",
+      "type": "video",
+      "channel": "Internet Anarchist"
+    }
+  ],
+  "edges": [
+    {
+      "source": "2MwTDoT8q_A",
+      "target": "k0ksj42YJaM",
+      "type": "similarity"
+    },
+    {
+      "source": "k0ksj42YJaM",
+      "target": "example8",
+      "type": "similarity"
+    },
+    {
+      "source": "dQw4w9WgXcQ",
+      "target": "_4x0fRO6w5M",
+      "type": "similarity"
+    }
+  ]
+}

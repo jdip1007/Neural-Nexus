@@ -29,6 +29,36 @@
       "type": "youtube",
       "title": "daves-garage-7vzjIv2l6wY",
       "file": "docs/daves-garage-7vzjIv2l6wY.md"
+    },
+    {
+      "id": "2MwTDoT8q_A",
+      "type": "youtube",
+      "title": "Why 40% Of Young Men Need Erectile Retraining",
+      "file": "docs/youtube-2MwTDoT8q_A_why-40-of-young-men-need-erectile-retraining.md"
+    },
+    {
+      "id": "k0ksj42YJaM",
+      "type": "youtube",
+      "title": "Jonah Hill's Life Is Falling Apart",
+      "file": "docs/youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart.md"
+    },
+    {
+      "id": "example8",
+      "type": "youtube",
+      "title": "Andrew Tate's Life Is Falling Apart",
+      "file": "docs/youtube-example8_andrew-tates-life-is-falling-apart.md"
+    },
+    {
+      "id": "_4x0fRO6w5M",
+      "type": "youtube",
+      "title": "Why Sensitive People Get Traumatized So Easily",
+      "file": "docs/youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily.md"
+    },
+    {
+      "id": "dQw4w9WgXcQ",
+      "type": "youtube",
+      "title": "The Never-Ending Downfall of KSI",
+      "file": "docs/youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi.md"
     }
   ],
   "edges": [
@@ -80,6 +110,56 @@
     {
       "source": "daves-garage-7vzjIv2l6wY",
       "target": "daves-garage",
+      "type": "channel"
+    },
+    {
+      "source": "2MwTDoT8q_A",
+      "target": "internet_culture",
+      "type": "contains"
+    },
+    {
+      "source": "2MwTDoT8q_A",
+      "target": "internet_anarchist",
+      "type": "channel"
+    },
+    {
+      "source": "k0ksj42YJaM",
+      "target": "internet_culture",
+      "type": "contains"
+    },
+    {
+      "source": "k0ksj42YJaM",
+      "target": "internet_anarchist",
+      "type": "channel"
+    },
+    {
+      "source": "example8",
+      "target": "internet_culture",
+      "type": "contains"
+    },
+    {
+      "source": "example8",
+      "target": "internet_anarchist",
+      "type": "channel"
+    },
+    {
+      "source": "_4x0fRO6w5M",
+      "target": "internet_culture",
+      "type": "contains"
+    },
+    {
+      "source": "_4x0fRO6w5M",
+      "target": "internet_anarchist",
+      "type": "channel"
+    },
+    {
+      "source": "dQw4w9WgXcQ",
+      "target": "internet_culture",
+      "type": "contains"
+    },
+    {
+      "source": "dQw4w9WgXcQ",
+      "target": "internet_anarchist",
       "type": "channel"
     }
   ]

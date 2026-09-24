@@ -1,28 +1,28 @@
 ---
 channel: Dave's Garage
-created: '2026-09-18T01:19:26.753977'
+created: '2026-09-23T02:58:26.491490'
 duration: 11 minutes, 27 seconds
 sources:
 - https://www.youtube.com/watch?v=eGzH3jXwB2C
 tags:
-- system
-- assembly
-- programming
-- tech
-- tutorial
-- ethernet
-- software
-- diy
-- network
-- hardware
-- code
-- led
 - development
+- tech
+- code
+- hardware
+- diy
+- software
+- led
+- system
+- tutorial
+- programming
+- ethernet
+- assembly
+- network
 - youtube
 - daves-garage
 title: 'Reliable Isn''t Always Better: TCP vs UDP'
 type: video
-updated: '2026-09-18T01:19:26.753989'
+updated: '2026-09-23T02:58:26.491501'
 video_id: eGzH3jXwB2C
 views: 129K
 ---
@@ -36,23 +36,23 @@ views: 129K
 
 ## Summary
 
-This video from Dave's Garage explores system, assembly, programming and related concepts in depth.
+This video from Dave's Garage explores development, tech, code and related concepts in depth.
 
 ## Key Topics
 
-- system
-- assembly
-- programming
-- tech
-- tutorial
-- ethernet
-- software
-- diy
-- network
-- hardware
-- code
-- led
 - development
+- tech
+- code
+- hardware
+- diy
+- software
+- led
+- system
+- tutorial
+- programming
+- ethernet
+- assembly
+- network
 
 ## Key Concepts
 
@@ -77,12 +77,3 @@ This video from Dave's Garage explores system, assembly, programming and related
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube]]

@@ -1,0 +1,69 @@
+{
+  "processed_videos": {
+    "aee4051ff47e9d4a890533d340c6db05": {
+      "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+      "processed_date": "2026-09-23T02:58:26.165642",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=dFzX7z8kY9A"
+    },
+    "bf5ae9de23fe56ad0e2525003674381c": {
+      "title": "Reliable Isn't Always Better: TCP vs UDP",
+      "processed_date": "2026-09-23T02:58:26.492471",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C"
+    },
+    "29d1488ba568e3d6a415a48eced17423": {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "processed_date": "2026-09-23T02:58:26.812057",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY"
+    },
+    "db86a0d82285d2e8e7097c38f2749d46": {
+      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "processed_date": "2026-09-23T02:58:27.134260",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY"
+    },
+    "2ea656d0a65023c961e46c836b2ab50e": {
+      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "processed_date": "2026-09-23T02:58:27.447942",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY"
+    }
+  },
+  "last_updated": "2026-09-23T02:58:27.447948",
+  "channel_name": "Dave's Garage",
+  "channel_id": "davesgarage",
+  "ingestion_history": [
+    {
+      "video_title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+      "video_url": "https://www.youtube.com/watch?v=dFzX7z8kY9A",
+      "processed_date": "2026-09-23T02:58:26.165648",
+      "status": "completed"
+    },
+    {
+      "video_title": "Reliable Isn't Always Better: TCP vs UDP",
+      "video_url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
+      "processed_date": "2026-09-23T02:58:26.492477",
+      "status": "completed"
+    },
+    {
+      "video_title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "video_url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
+      "processed_date": "2026-09-23T02:58:26.812064",
+      "status": "completed"
+    },
+    {
+      "video_title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "video_url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+      "processed_date": "2026-09-23T02:58:27.134265",
+      "status": "completed"
+    },
+    {
+      "video_title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "video_url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
+      "processed_date": "2026-09-23T02:58:27.447947",
+      "status": "completed"
+    }
+  ]
+}
