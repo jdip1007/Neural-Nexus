@@ -1,7 +1,7 @@
 ---
 title: YouTube's Worst Predator Has Returned
-created: 2026-09-19
-updated: 2026-09-19
+created: 2026-09-24
+updated: 2026-09-24
 type: finding
 tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
 sources: [raw/transcripts/internet-anarchist/6ujyVJr3I3I.md]
@@ -25,7 +25,7 @@ Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet anarchist/6ujyVJr3I3I for the complete transcript.
+See [[raw/transcripts/internet-anarchist/6ujyVJr3I3I.md]] for the complete transcript.
 
 ## Related Topics
 

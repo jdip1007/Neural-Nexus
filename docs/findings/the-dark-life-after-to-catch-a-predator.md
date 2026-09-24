@@ -1,7 +1,7 @@
 ---
 title: The Dark Life After To Catch a Predator
-created: 2026-09-19
-updated: 2026-09-19
+created: 2026-09-24
+updated: 2026-09-24
 type: finding
 tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
 sources: [raw/transcripts/internet-anarchist/wBGF1M4e3l8.md]
@@ -25,7 +25,7 @@ Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet anarchist/wBGF1M4e3l8 for the complete transcript.
+See [[raw/transcripts/internet-anarchist/wBGF1M4e3l8.md]] for the complete transcript.
 
 ## Related Topics
 

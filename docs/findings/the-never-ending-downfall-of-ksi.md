@@ -1,7 +1,7 @@
 ---
 title: The Never-Ending Downfall of KSI
-created: 2026-09-19
-updated: 2026-09-19
+created: 2026-09-24
+updated: 2026-09-24
 type: finding
 tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
 sources: [raw/transcripts/internet-anarchist/MrXO4Y6YpGA.md]
@@ -25,7 +25,7 @@ Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet anarchist/MrXO4Y6YpGA for the complete transcript.
+See [[raw/transcripts/internet-anarchist/MrXO4Y6YpGA.md]] for the complete transcript.
 
 ## Related Topics
 

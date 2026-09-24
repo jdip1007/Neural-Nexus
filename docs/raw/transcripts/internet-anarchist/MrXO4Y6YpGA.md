@@ -3,7 +3,7 @@ title: The Never-Ending Downfall of KSI
 video_id: MrXO4Y6YpGA
 source: https://www.youtube.com/watch?v=MrXO4Y6YpGA
 channel: @InternetAnarchist
-fetched: 2026-09-19T03:02:07.871767
+fetched: 2026-09-24T04:29:03.181090
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/MrXO4Y6YpGA.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/MrXO4Y6YpGA.md]
 **Video ID:** MrXO4Y6YpGA  
 **Source:** https://www.youtube.com/watch?v=MrXO4Y6YpGA  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-19 03:02:07
+**Fetched:** 2026-09-24 04:29:03
 
 ## Overview
 

@@ -1,10 +1,15 @@
 {
   "processed_videos": [
-    "jH0BYAkPj78",
-    "SR8ESCmUYLY",
-    "hRhBuHJ-j_o",
     "7vzjIv2l6wY",
-    "DSA4VFdqELg"
+    "DSA4VFdqELg",
+    "jH0BYAkPj78",
+    "OG91c7xsNMc",
+    "kLcpCqLwNU8",
+    "LJSgsf9ro38",
+    "QTTCqGtT6I4",
+    "XAzUoizwnXM",
+    "hRhBuHJ-j_o",
+    "SR8ESCmUYLY"
   ],
   "video_metadata": {
     "jH0BYAkPj78": {
@@ -36,7 +41,37 @@
       "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
       "processed_at": "2026-09-17T01:04:35.976528",
       "status": "processed"
+    },
+    "QTTCqGtT6I4": {
+      "title": "CANBUS – Networking so simple, even YOU can understand it!",
+      "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
+      "processed_at": "2026-09-24T03:08:00.809544",
+      "status": "processed"
+    },
+    "LJSgsf9ro38": {
+      "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
+      "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
+      "processed_at": "2026-09-24T03:08:01.810281",
+      "status": "processed"
+    },
+    "OG91c7xsNMc": {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "processed_at": "2026-09-24T03:08:02.811027",
+      "status": "processed"
+    },
+    "XAzUoizwnXM": {
+      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "url": "https://www.youtube.com/watch?v=XAzUoizwnXM",
+      "processed_at": "2026-09-24T03:08:03.811715",
+      "status": "processed"
+    },
+    "kLcpCqLwNU8": {
+      "title": "The Challenge: Building a Custom Electric Vehicle",
+      "url": "https://www.youtube.com/watch?v=kLcpCqLwNU8",
+      "processed_at": "2026-09-24T03:08:04.812521",
+      "status": "processed"
     }
   },
-  "last_updated": "2026-09-17T01:04:35.976541"
+  "last_updated": "2026-09-24T03:08:04.812535"
 }

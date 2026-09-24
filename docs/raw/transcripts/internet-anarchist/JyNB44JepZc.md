@@ -3,7 +3,7 @@ title: Ryan's World Is Finally Ending
 video_id: JyNB44JepZc
 source: https://www.youtube.com/watch?v=JyNB44JepZc
 channel: @InternetAnarchist
-fetched: 2026-09-19T03:02:07.232976
+fetched: 2026-09-24T04:29:02.365582
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/JyNB44JepZc.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/JyNB44JepZc.md]
 **Video ID:** JyNB44JepZc  
 **Source:** https://www.youtube.com/watch?v=JyNB44JepZc  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-19 03:02:07
+**Fetched:** 2026-09-24 04:29:02
 
 ## Overview
 

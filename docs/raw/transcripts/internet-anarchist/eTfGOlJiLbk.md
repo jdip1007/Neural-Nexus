@@ -3,7 +3,7 @@ title: Storage Wars Is Worse Than You Thought
 video_id: eTfGOlJiLbk
 source: https://www.youtube.com/watch?v=eTfGOlJiLbk
 channel: @InternetAnarchist
-fetched: 2026-09-19T03:02:06.905413
+fetched: 2026-09-24T04:29:01.982407
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/eTfGOlJiLbk.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/eTfGOlJiLbk.md]
 **Video ID:** eTfGOlJiLbk  
 **Source:** https://www.youtube.com/watch?v=eTfGOlJiLbk  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-19 03:02:06
+**Fetched:** 2026-09-24 04:29:01
 
 ## Overview
 

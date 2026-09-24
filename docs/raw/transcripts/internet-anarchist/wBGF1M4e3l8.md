@@ -3,7 +3,7 @@ title: The Dark Life After To Catch a Predator
 video_id: wBGF1M4e3l8
 source: https://www.youtube.com/watch?v=wBGF1M4e3l8
 channel: @InternetAnarchist
-fetched: 2026-09-19T03:02:08.185305
+fetched: 2026-09-24T04:29:03.564360
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/wBGF1M4e3l8.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/wBGF1M4e3l8.md]
 **Video ID:** wBGF1M4e3l8  
 **Source:** https://www.youtube.com/watch?v=wBGF1M4e3l8  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-19 03:02:08
+**Fetched:** 2026-09-24 04:29:03
 
 ## Overview
 
