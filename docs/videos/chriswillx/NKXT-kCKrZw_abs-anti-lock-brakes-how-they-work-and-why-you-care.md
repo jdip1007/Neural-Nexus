@@ -1,18 +1,21 @@
 ---
-title: ABS (Anti-Lock Brakes) - How They Work and Why You Care!
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
+backlinks: []
 classification: philosophy.youtube-channel.chriswillx
+confidence: high
+created: 2026-08-29
 domain: philosophy
-tags: []
+reviewed: 2026-08-29
 sources:
 - raw/videos/chriswillx/NKXT-kCKrZw_abs-anti-lock-brakes-how-they-work-and-why-you-care.md
-confidence: high
 status: active
-reviewed: 2026-08-29
-backlinks: []
+tags:
+- nkxt
+title: ABS (Anti-Lock Brakes) - How They Work and Why You Care!
+type: reading
+updated: 2026-08-29
 ---
+
+
 
 # ABS (Anti-Lock Brakes) - How They Work and Why You Care!
 

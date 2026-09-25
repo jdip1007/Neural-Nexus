@@ -1,17 +1,21 @@
 ---
-title: Microsoft's Secret 90s Weapon That Made Windows Fast
-created: 2026-08-17
-updated: 2026-08-17
-type: reading
-classification: technology.youtube-channel.davesgarage
-domain: devops
-tags: ["microsoft", "windows"]  # Limit to 5 tags
-sources: [raw/videos/davesgarage/p1q2r3s4t5_Microsoft's Secret 90s Weapon That Made Windows Fast.md]
-confidence: high
-status: active
-reviewed: 2026-08-17
 backlinks: []
+classification: technology.youtube-channel.davesgarage
+confidence: high
+created: 2026-08-17
+domain: devops
+reviewed: 2026-08-17
+sources:
+- raw/videos/davesgarage/p1q2r3s4t5_Microsoft's Secret 90s Weapon That Made Windows
+  Fast.md
+status: active
+tags:
+- general
+title: Microsoft's Secret 90s Weapon That Made Windows Fast
+type: reading
+updated: 2026-08-17
 ---
+
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 

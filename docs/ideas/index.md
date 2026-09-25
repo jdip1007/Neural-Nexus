@@ -1,3 +1,14 @@
+---
+created: 2026-09-25
+domain: general
+tags:
+- general
+title: Index
+type: reading
+updated: 2026-09-25
+---
+
+
 # Ideas
 
 ## Overview

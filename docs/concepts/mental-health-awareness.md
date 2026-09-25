@@ -1,12 +1,17 @@
 ---
-title: "Mental Health Awareness"
+classification: mental
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: psychology
-tags: []
 status: draft
+tags:
+- general
+title: Mental Health Awareness
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # Mental Health Awareness
 

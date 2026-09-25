@@ -1,17 +1,16 @@
 ---
-title: Why Gifted People Burn Out The Fastest
 created: 2026-09-07 23:22:03.022960
-updated: 2026-09-07 23:22:03.022968
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=_N6qPEA_dGc
-domain: psychology
+tags:
+- dr-k
+title: Why Gifted People Burn Out The Fastest
+type: reading
+updated: 2026-09-07 23:22:03.022968
 ---
+
+
 
 # Why Gifted People Burn Out The Fastest
 

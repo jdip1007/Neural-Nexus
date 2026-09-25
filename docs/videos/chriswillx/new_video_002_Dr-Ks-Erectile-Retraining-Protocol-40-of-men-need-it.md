@@ -1,22 +1,20 @@
 ---
-{
-  "title": "Dr K's Erectile Retraining Protocol (40% of men need it)",
-  "created": "2026-09-21",
-  "updated": "2026-09-21",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=new_video_002"
-  ],
-  "video_id": "new_video_002",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-21"
-}
+channel: Chris Willx
+created: '2026-09-21'
+domain: general
+ingestion_date: '2026-09-21'
+sources:
+- https://www.youtube.com/watch?v=new_video_002
+tags:
+- general
+title: Dr K's Erectile Retraining Protocol (40% of men need it)
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-21'
+video_id: new_video_002
 ---
+
+
 
 # Dr K's Erectile Retraining Protocol (40% of men need it)
 

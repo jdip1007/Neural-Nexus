@@ -1,24 +1,20 @@
 ---
-{
-  "title": "Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker",
-  "created": "2026-09-14",
-  "updated": "2026-09-14",
-  "type": "video",
-  "tags": [
-    "psychology",
-    "technology",
-    "science",
-    "media"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=17T2bc9HEEA"
-  ],
-  "video_id": "17T2bc9HEEA",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-14 19:55:05"
-}
+channel: Chris Willx
+created: '2026-09-14'
+domain: general
+ingestion_date: '2026-09-14 19:55:05'
+sources:
+- https://www.youtube.com/watch?v=17T2bc9HEEA
+tags:
+- media
+title: Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-14'
+video_id: 17T2bc9HEEA
 ---
+
+
 
 # Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker
 

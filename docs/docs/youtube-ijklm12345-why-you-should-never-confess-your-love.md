@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-ijklm12345-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- wellbeing
-- personal-development
+- general
 title: Why You Should NEVER Confess Your Love
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # Why You Should NEVER Confess Your Love
 

@@ -1,16 +1,20 @@
 ---
-title: What What
-created: 2026-08-16
-updated: 2026-08-16
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-ZwYrXkPJA1s-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-16
+domain: ai
 reviewed: 2026-08-16
+sources:
+- raw/videos/youtube-ZwYrXkPJA1s-transcript.md
+status: active
+tags:
+- general
+title: What What
+type: entity
+updated: 2026-08-16
 ---
+
+
 
 # What What
 

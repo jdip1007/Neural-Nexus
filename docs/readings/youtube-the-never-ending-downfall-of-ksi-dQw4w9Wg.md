@@ -1,11 +1,14 @@
 ---
-title: The Never-Ending Downfall of KSI
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: The Never-Ending Downfall of KSI
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # The Never-Ending Downfall of KSI
 

@@ -1,14 +1,15 @@
 ---
-title: Why Your Brain Is Strongest After You Nut
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- youtube
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/Why Your Brain Is Strongest After You Nut.md
-domain: psychology
+tags:
+- general
+title: Why Your Brain Is Strongest After You Nut
+type: concept
+updated: 2026-09-03
 ---
+
 
 # Why Your Brain Is Strongest After You Nut
 

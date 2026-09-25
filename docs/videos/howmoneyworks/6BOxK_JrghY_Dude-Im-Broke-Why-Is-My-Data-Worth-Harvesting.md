@@ -1,22 +1,21 @@
 ---
-{
-  "title": "\"Dude I'm Broke\" Why Is My Data Worth Harvesting?",
-  "created": "2026-09-20",
-  "updated": "2026-09-20",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "investing"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=6BOxK_JrghY"
-  ],
-  "video_id": "6BOxK_JrghY",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-20"
-}
+channel: How Money Works
+created: '2026-09-20'
+domain: general
+ingestion_date: '2026-09-20'
+sources:
+- https://www.youtube.com/watch?v=6BOxK_JrghY
+tags:
+- general
+title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-20'
+video_id: 6BOxK_JrghY
 ---
+
+
+
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting?
 

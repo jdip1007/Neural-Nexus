@@ -1,11 +1,14 @@
 ---
-title: 'HealthyGamerGG Video 919XuYNqyjw: Understanding Mental Health in Gaming'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'HealthyGamerGG Video 919XuYNqyjw: Understanding Mental Health in Gaming'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # HealthyGamerGG Video 919XuYNqyjw: Understanding Mental Health in Gaming
 

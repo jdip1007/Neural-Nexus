@@ -1,18 +1,17 @@
 ---
-title: Task Manager Is Lying About Your CPU Usage - Here's the Truth
-created: 2026-08-28 19:35:39
-updated: 2026-08-28 19:35:39
-type: reading
-tags:
-- youtube
-- gaming
-- mental-health
-- general
-video_id: HiHMQN3kQlQ
-duration: 15-25 minutes
 channel: Dave's Garage
+created: 2026-08-28 19:35:39
 domain: psychology
+duration: 15-25 minutes
+tags:
+- general
+title: Task Manager Is Lying About Your CPU Usage - Here's the Truth
+type: reading
+updated: 2026-08-28 19:35:39
+video_id: HiHMQN3kQlQ
 ---
+
+
 
 # Task Manager Is Lying About Your CPU Usage - Here's the Truth
 

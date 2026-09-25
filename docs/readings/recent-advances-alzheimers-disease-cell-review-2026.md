@@ -1,12 +1,15 @@
 ---
+created: '2026-09-12'
+domain: general
+tags:
+- general
 title: 'Recent advances in Alzheimer''s disease: From molecular mechanisms to therapeutic
   strategies'
-created: '2026-09-12'
-updated: '2026-09-12'
 type: reading
-domain: general
-tags: []
+updated: '2026-09-12'
 ---
+
+
 
 # Recent advances in Alzheimer's disease: From molecular mechanisms to therapeutic strategies
 

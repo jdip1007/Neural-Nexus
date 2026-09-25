@@ -1,23 +1,20 @@
 ---
-{
-  "title": "Understanding Human Behavior: Psychological Patterns and Predictions",
-  "created": "2026-09-13",
-  "updated": "2026-09-13",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=test002"
-  ],
-  "video_id": "test002",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-13 19:39:10"
-}
+channel: Chris Willx
+created: '2026-09-13'
+domain: general
+ingestion_date: '2026-09-13 19:39:10'
+sources:
+- https://www.youtube.com/watch?v=test002
+tags:
+- general
+title: 'Understanding Human Behavior: Psychological Patterns and Predictions'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-13'
+video_id: test002
 ---
+
+
 
 # Understanding Human Behavior: Psychological Patterns and Predictions
 

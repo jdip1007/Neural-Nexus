@@ -1,22 +1,20 @@
 ---
-{
-  "title": "Investment Basics: Stocks, Bonds, and Mutual Funds Explained",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "stocks",
-    "bonds"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
-  ],
-  "video_id": "fJ9rUzIMcZQ",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=fJ9rUzIMcZQ
+tags:
+- bonds
+title: 'Investment Basics: Stocks, Bonds, and Mutual Funds Explained'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: fJ9rUzIMcZQ
 ---
+
+
 
 # Investment Basics: Stocks, Bonds, and Mutual Funds Explained
 

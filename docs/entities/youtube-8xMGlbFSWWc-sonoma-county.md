@@ -1,16 +1,20 @@
 ---
-title: Sonoma County
-created: 2026-08-08
-updated: 2026-08-08
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-8xMGlbFSWWc-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-08
+domain: ai
 reviewed: 2026-08-08
+sources:
+- raw/videos/youtube-8xMGlbFSWWc-transcript.md
+status: active
+tags:
+- general
+title: Sonoma County
+type: entity
+updated: 2026-08-08
 ---
+
+
 
 # Sonoma County
 

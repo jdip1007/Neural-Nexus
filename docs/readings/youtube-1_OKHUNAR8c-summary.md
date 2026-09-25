@@ -1,18 +1,22 @@
 ---
-title: Andrew Tate's Life Is Falling Apart - Summary
-created: 2026-08-23
-updated: 2026-08-23
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-1_OKHUNAR8c-transcript.md]
-published: 2026-08-23
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-23
+domain: ai
+published: 2026-08-23
 reviewed: 2026-08-23
+sources:
+- raw/videos/youtube-1_OKHUNAR8c-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Andrew Tate's Life Is Falling Apart - Summary
+type: reading
+updated: 2026-08-23
 ---
+
+
 
 # Andrew Tate's Life Is Falling Apart - Summary
 

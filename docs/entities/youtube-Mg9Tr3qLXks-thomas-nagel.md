@@ -1,16 +1,20 @@
 ---
-title: Thomas Nagel
-created: 2026-08-19
-updated: 2026-08-19
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons]
-sources: [raw/videos/youtube-Mg9Tr3qLXks-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-19
+domain: ai
 reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-Mg9Tr3qLXks-transcript.md
+status: active
+tags:
+- general
+title: Thomas Nagel
+type: entity
+updated: 2026-08-19
 ---
+
+
 
 # Thomas Nagel
 

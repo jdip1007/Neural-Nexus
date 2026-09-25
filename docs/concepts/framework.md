@@ -1,12 +1,16 @@
 ---
-title: "Framework"
+classification: framework
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: methodology
-tags: [framework]
 status: stub
+tags:
+- general
+title: Framework
+type: concept
+updated: 2026-09-25
 ---
+
+
 
 # Framework
 

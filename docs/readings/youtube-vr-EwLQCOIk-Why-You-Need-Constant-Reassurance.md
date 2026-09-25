@@ -1,21 +1,16 @@
 ---
 created: '2026-09-11T00:10:24.050084'
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=vr-EwLQCOIk
 tags:
-- youtube
-- healthy-gamer
-- mental_health
-- psychology
-- online_communities
-- personal_development
-- gaming
-- digital_life
+- general
 title: Why You Need Constant Reassurance
 type: reading
 updated: '2026-09-11T00:10:24.050090'
-domain: psychology
 ---
+
+
 
 # Why You Need Constant Reassurance
 

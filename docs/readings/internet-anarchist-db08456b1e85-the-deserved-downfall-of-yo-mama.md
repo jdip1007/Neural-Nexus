@@ -9,17 +9,13 @@ sources:
 - ./raw/transcripts/internet-anarchist-db08456b1e85-transcript.md
 status: active
 tags:
-- internet-culture
-- youtube-creator
-- social-media
-- online-controversy
-- digital-analysis
-- internet-anarchist
+- general
 title: The Deserved Downfall of Yo Mama
 type: reading
 updated: '2026-08-20'
-
 ---
+
+
 
 # The Deserved Downfall of Yo Mama
 

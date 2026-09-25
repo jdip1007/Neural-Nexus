@@ -1,11 +1,15 @@
 ---
-title: 'Breaking Down Complex Topics: Communication Strategies'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Breaking Down Complex Topics: Communication Strategies'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Breaking Down Complex Topics: Communication Strategies
 

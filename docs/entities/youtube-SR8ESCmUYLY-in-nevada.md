@@ -1,16 +1,20 @@
 ---
-title: In Nevada
-created: 2026-08-24
-updated: 2026-08-24
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-SR8ESCmUYLY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-24
+domain: ai
 reviewed: 2026-08-24
+sources:
+- raw/videos/youtube-SR8ESCmUYLY-transcript.md
+status: active
+tags:
+- general
+title: In Nevada
+type: entity
+updated: 2026-08-24
 ---
+
+
 
 # In Nevada
 

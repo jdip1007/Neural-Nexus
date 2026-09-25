@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Nerd
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The 13 Seconds That Exposed Hank Green.md
+tags:
+- general
+title: Internet Anarchist - Nerd
 type: concept
-tags: [youtube, internet-anarchist, nerd, documentary]
-sources: [The 13 Seconds That Exposed Hank Green.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Nerd
 

@@ -1,16 +1,20 @@
 ---
-title: Lincoln Continental
-created: 2026-09-15
-updated: 2026-09-15
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, hRhBuHJ-j_o]
-sources: [raw/videos/youtube-hRhBuHJ-j_o-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-15
+domain: ai
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-hRhBuHJ-j_o-transcript.md
+status: active
+tags:
+- general
+title: Lincoln Continental
+type: entity
+updated: 2026-09-15
 ---
+
+
 
 # Lincoln Continental
 

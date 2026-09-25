@@ -1,16 +1,20 @@
 ---
-title: Kids Who
-created: 2026-09-02
-updated: 2026-09-02
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-wVWo63bsZiQ-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-02
+domain: ai
 reviewed: 2026-09-02
+sources:
+- raw/videos/youtube-wVWo63bsZiQ-transcript.md
+status: active
+tags:
+- general
+title: Kids Who
+type: entity
+updated: 2026-09-02
 ---
+
+
 
 # Kids Who
 

@@ -1,21 +1,18 @@
 ---
-{
-  "title": "Why Sensitive People Get Traumatized So Easily",
-  "created": "2026-09-15T01:39:56.732968",
-  "updated": "2026-09-15T01:39:56.732977",
-  "type": "video",
-  "tags": [
-    "trauma",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=example2"
-  ],
-  "duration": "22 minutes",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-15T01:39:56.732968'
+domain: general
+duration: 22 minutes
+sources:
+- https://www.youtube.com/watch?v=example2
+tags:
+- general
+title: Why Sensitive People Get Traumatized So Easily
+type: video
+updated: '2026-09-15T01:39:56.732977'
 ---
+
+
 
 # Why Sensitive People Get Traumatized So Easily
 

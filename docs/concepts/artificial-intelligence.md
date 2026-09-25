@@ -1,12 +1,17 @@
 ---
-title: "Artificial Intelligence"
+classification: artificial-intelligence
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: computer-science
-tags: [artificial-intelligence]
 status: stub
+tags:
+- general
+title: Artificial Intelligence
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Artificial Intelligence
 

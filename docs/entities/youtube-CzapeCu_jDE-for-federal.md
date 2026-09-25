@@ -1,16 +1,20 @@
 ---
-title: For Federal
-created: 2026-08-23
-updated: 2026-08-23
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-CzapeCu_jDE-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-23
+domain: ai
 reviewed: 2026-08-23
+sources:
+- raw/videos/youtube-CzapeCu_jDE-transcript.md
+status: active
+tags:
+- general
+title: For Federal
+type: entity
+updated: 2026-08-23
 ---
+
+
 
 # For Federal
 

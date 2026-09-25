@@ -1,19 +1,17 @@
 ---
-title: 'Mexican Batman, Britain''s Downfall, Mr Bean''s Comeback & Jimmy Carr - Rabbit
-  Hole #5'
 created: '2026-09-01T14:37:51.314175'
-updated: '2026-09-01T14:37:51.314188'
-type: reading
-tags:
-- youtube
-- youtube-creator
-- digital-media
-- discussion
-- entertainment
+domain: ai
 sources:
 - https://www.youtube.com/watch?v=KP77cRMzKAg
-domain: ai
+tags:
+- general
+title: 'Mexican Batman, Britain''s Downfall, Mr Bean''s Comeback & Jimmy Carr - Rabbit
+  Hole #5'
+type: reading
+updated: '2026-09-01T14:37:51.314188'
 ---
+
+
 
 # Mexican Batman, Britain's Downfall, Mr Bean's Comeback & Jimmy Carr - Rabbit Hole #5
 

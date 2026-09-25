@@ -1,18 +1,22 @@
 ---
-title: New Evidence Reveals New Important Details About COVID-19 Origins - Summary
-created: 2026-08-07
-updated: 2026-08-07
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-Sdr-ZCs1yzU-transcript.md]
-published: 2026-08-07
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-07
+domain: ai
+published: 2026-08-07
 reviewed: 2026-08-07
+sources:
+- raw/videos/youtube-Sdr-ZCs1yzU-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: New Evidence Reveals New Important Details About COVID-19 Origins - Summary
+type: reading
+updated: 2026-08-07
 ---
+
+
 
 # New Evidence Reveals New Important Details About COVID-19 Origins - Summary
 

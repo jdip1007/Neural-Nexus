@@ -1,16 +1,20 @@
 ---
-title: Sam Altman
-created: 2026-08-26
-updated: 2026-08-26
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-6BOxK_JrghY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-26
+domain: ai
 reviewed: 2026-08-26
+sources:
+- raw/videos/youtube-6BOxK_JrghY-transcript.md
+status: active
+tags:
+- general
+title: Sam Altman
+type: entity
+updated: 2026-08-26
 ---
+
+
 
 # Sam Altman
 

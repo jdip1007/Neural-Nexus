@@ -1,23 +1,20 @@
 ---
-{
-  "title": "The Wars in Iran & Ukraine Will Merge Very Soon",
-  "created": "2026-09-14",
-  "updated": "2026-09-14",
-  "type": "video",
-  "tags": [
-    "technology",
-    "science",
-    "media"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=d1BAL1623v4"
-  ],
-  "video_id": "d1BAL1623v4",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-14 19:55:02"
-}
+channel: Chris Willx
+created: '2026-09-14'
+domain: general
+ingestion_date: '2026-09-14 19:55:02'
+sources:
+- https://www.youtube.com/watch?v=d1BAL1623v4
+tags:
+- media
+title: The Wars in Iran & Ukraine Will Merge Very Soon
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-14'
+video_id: d1BAL1623v4
 ---
+
+
 
 # The Wars in Iran & Ukraine Will Merge Very Soon
 

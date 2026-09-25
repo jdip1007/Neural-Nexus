@@ -1,18 +1,22 @@
 ---
-title: What Happens When A 12-Year-Old Goes To Prison For 13 Years? - Johnny Chang
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
+backlinks: []
 classification: philosophy.youtube-channel.chriswillx
+confidence: high
+created: 2026-08-29
 domain: philosophy
-tags: []
+reviewed: 2026-08-29
 sources:
 - raw/videos/chriswillx/what_happens_12_year_old_prison_what-happens-when-a-12-year-old-goes-to-prison-for-13-years-johnny-chang.md
-confidence: high
 status: active
-reviewed: 2026-08-29
-backlinks: []
+tags:
+- general
+title: What Happens When A 12-Year-Old Goes To Prison For 13 Years? - Johnny Chang
+type: reading
+updated: 2026-08-29
 ---
+
+
+
 
 # What Happens When A 12-Year-Old Goes To Prison For 13 Years? - Johnny Chang
 

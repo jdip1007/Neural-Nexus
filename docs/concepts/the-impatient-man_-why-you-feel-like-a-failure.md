@@ -1,11 +1,16 @@
 ---
-title: 'The Impatient Man: Why You Feel Like A Failure'
+classification: the
 created: '2026-09-12'
-updated: '2026-09-12'
-type: concept
 domain: general
-tags: []
+tags:
+- general
+title: 'The Impatient Man: Why You Feel Like A Failure'
+type: concept
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Impatient Man: Why You Feel Like A Failure
 

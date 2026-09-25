@@ -1,15 +1,19 @@
 ---
-title: JiDion's Past Is Catching Up To Him
-created: 2026-08-17T14:51:21.703455
-updated: 2026-08-17T14:51:21.703456
-type: reading
-tags: ["internet-culture"]
-sources: [raw/videos/internetanarchist/m5_n7p8q9r.md]
-video_id: m5_n7p8q9r
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-08-17 14:51:21.703455
 domain: internet-culture
+duration: 15-25 minutes
+sources:
+- raw/videos/internetanarchist/m5_n7p8q9r.md
+tags:
+- general
+title: JiDion's Past Is Catching Up To Him
+type: reading
+updated: 2026-08-17 14:51:21.703456
+video_id: m5_n7p8q9r
 ---
+
+
 
 # JiDion's Past Is Catching Up To Him
 

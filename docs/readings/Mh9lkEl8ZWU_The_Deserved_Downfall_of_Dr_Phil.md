@@ -1,18 +1,17 @@
 ---
-title: The Deserved Downfall of Dr Phil
-created: 2026-09-07 22:49:19
-updated: 2026-09-07 22:49:19
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- general
-video_id: Mh9lkEl8ZWU
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-07 22:49:19
 domain: general
+duration: 15-25 minutes
+tags:
+- general
+title: The Deserved Downfall of Dr Phil
+type: reading
+updated: 2026-09-07 22:49:19
+video_id: Mh9lkEl8ZWU
 ---
+
+
 
 # The Deserved Downfall of Dr Phil
 

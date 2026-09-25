@@ -1,11 +1,17 @@
 ---
-title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
+classification: _Dude I'm Broke_ Why Is My Data Worth Harvesting_
 created: '2026-09-12'
-updated: '2026-09-12'
-type: concept
 domain: general
-tags: []
+tags:
+- general
+title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
+type: concept
+updated: '2026-09-12'
 ---
+
+
+
+
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting?
 

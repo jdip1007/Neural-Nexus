@@ -1,17 +1,21 @@
 ---
-title: We Need To Talk About Ozempic - HealthyGamerGG
-created: 2026-08-21
-updated: 2026-08-21
-type: reading
-classification: psychology.mental_health
-domain: psychology
-tags: ["youtube", "mental-health", "therapy", "relationships"]
-sources: ["raw/videos/healthygamergg/youtube-ozempic_mental_health-we-need-to-talk-about-ozempic.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-21
 backlinks: []
+classification: psychology.mental_health
+confidence: medium
+created: 2026-08-21
+domain: psychology
+reviewed: 2026-08-21
+sources:
+- raw/videos/healthygamergg/youtube-ozempic_mental_health-we-need-to-talk-about-ozempic.md
+status: active
+tags:
+- general
+title: We Need To Talk About Ozempic - HealthyGamerGG
+type: reading
+updated: 2026-08-21
 ---
+
+
 
 # We Need To Talk About Ozempic - HealthyGamerGG
 

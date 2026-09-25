@@ -1,12 +1,15 @@
 ---
-title: "Shbg"
+classification: shbg
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [shbg]
 status: stub
+tags:
+- shbg
+title: Shbg
+type: concept
+updated: 2026-09-25
 ---
+
 
 # Shbg
 

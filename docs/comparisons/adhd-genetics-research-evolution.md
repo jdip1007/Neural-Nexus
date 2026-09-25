@@ -1,17 +1,21 @@
 ---
-title: ADHD Genetics Research Evolution
-created: 2026-08-06
-updated: 2026-08-06
-type: comparison
-classification: research-methodology.knowledge-management
-domain: research-methodology
-tags: [adhd, genetics, meta-analysis, research-comparison, scientific-progress]
-sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
-confidence: high
-status: active
-reviewed: 2026-08-06
 backlinks: []
+classification: research-methodology.knowledge-management
+confidence: high
+created: 2026-08-06
+domain: research-methodology
+reviewed: 2026-08-06
+sources:
+- raw/articles/adhd-genetics-nature-genetics-2025.md
+status: active
+tags:
+- adhd
+title: ADHD Genetics Research Evolution
+type: comparison
+updated: 2026-08-06
 ---
+
+
 
 # ADHD Genetics Research Evolution
 

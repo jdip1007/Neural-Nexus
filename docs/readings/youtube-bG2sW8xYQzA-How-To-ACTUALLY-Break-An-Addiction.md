@@ -1,23 +1,16 @@
 ---
 created: '2026-09-11T00:09:38.190817'
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=bG2sW8xYQzA
 tags:
-- youtube
-- healthy-gamer
-- digital_life
-- gaming
-- online_communities
-- mental_health
-- psychology
-- self_improvement
-- growth
-- personal_development
+- general
 title: How To ACTUALLY Break An Addiction
 type: reading
 updated: '2026-09-11T00:09:38.190819'
-domain: psychology
 ---
+
+
 
 # How To ACTUALLY Break An Addiction
 

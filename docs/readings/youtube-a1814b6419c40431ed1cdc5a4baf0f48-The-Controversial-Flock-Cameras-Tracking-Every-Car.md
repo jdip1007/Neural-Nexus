@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-18T01:39:43.427277'
+domain: general
 duration: 22 minutes
 sources:
 - https://www.youtube.com/watch?v=LJSgsf9ro38
 tags:
-- programming
-- assembly
-- ethernet
-- network
 - led
-- software
 - tech
 - diy
-- hardware
-- tutorial
-- development
-- system
 - code
-- youtube
-- daves-garage
-title: "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown"
+title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 type: video
 updated: '2026-09-18T01:39:43.427290'
 video_id: LJSgsf9ro38
 views: 258K
 ---
+
+
+
 
 # The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 

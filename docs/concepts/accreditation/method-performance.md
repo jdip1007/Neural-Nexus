@@ -1,16 +1,20 @@
 ---
-title: Method Performance Characteristics
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.method-evaluation.quality
-domain: laboratory
-tags: [performance-characteristics, accuracy, precision, analytical-validation]
-sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources:
+- raw/laboratory/accreditation/verification-validation-toolkit-aphl.md
+status: active
+tags:
+- general
+title: Method Performance Characteristics
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Method Performance Characteristics
 

@@ -1,16 +1,18 @@
 ---
-title: "Ethernet Explained so well that even YOU can Understand it!"
-created: "2026-09-04"
-updated: "2026-09-04"
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ["hardware", "youtube", "tutorial"]
-confidence: medium
-status: active
-reviewed: "2026-09-04"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-04'
+domain: technology
+reviewed: '2026-09-04'
+status: active
+tags:
+- general
+title: Ethernet Explained so well that even YOU can Understand it!
+type: reading
+updated: '2026-09-04'
 ---
+
 
 # Ethernet Explained so well that even YOU can Understand it!
 

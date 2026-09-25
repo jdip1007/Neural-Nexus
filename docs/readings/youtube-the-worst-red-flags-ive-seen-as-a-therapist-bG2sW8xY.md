@@ -1,11 +1,14 @@
 ---
-title: The Worst Red Flags I've Seen As A Therapist
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: The Worst Red Flags I've Seen As A Therapist
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # The Worst Red Flags I've Seen As A Therapist
 

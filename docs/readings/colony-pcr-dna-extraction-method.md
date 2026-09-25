@@ -1,15 +1,19 @@
 ---
-title: Colony PCR DNA Extraction Method
-created: 2026-07-19
-updated: 2026-07-19
-type: reading
-domain: biotech
-tags: [dna-extraction, molecular-biology, biotechnology, pcr]
-sources: [raw/articles/colony-pcr-dna-extraction-method.md]
 confidence: high
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources:
+- raw/articles/colony-pcr-dna-extraction-method.md
+status: active
+tags:
+- pcr
+title: Colony PCR DNA Extraction Method
+type: reading
+updated: 2026-07-19
 ---
+
+
 
 # Colony PCR DNA Extraction Method
 

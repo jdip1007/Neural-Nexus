@@ -1,22 +1,20 @@
 ---
-{
-  "title": "The 4 Things You Can Do Now For A Truly Great Life - Dr Andrew Huberman",
-  "created": "2026-09-21",
-  "updated": "2026-09-21",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=fresh_video_004"
-  ],
-  "video_id": "fresh_video_004",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-21"
-}
+channel: Chris Willx
+created: '2026-09-21'
+domain: general
+ingestion_date: '2026-09-21'
+sources:
+- https://www.youtube.com/watch?v=fresh_video_004
+tags:
+- general
+title: The 4 Things You Can Do Now For A Truly Great Life - Dr Andrew Huberman
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-21'
+video_id: fresh_video_004
 ---
+
+
 
 # The 4 Things You Can Do Now For A Truly Great Life - Dr Andrew Huberman
 

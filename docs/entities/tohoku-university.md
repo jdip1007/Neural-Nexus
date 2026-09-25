@@ -1,16 +1,19 @@
 ---
-title: Tohoku University
-created: 2026-07-29
-updated: 2026-07-29
-type: entity
 classification: organization.research-institution
-domain: biotech
-tags: [research-institution, japan]
-sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
-status: active
+created: 2026-07-29
+domain: biotech
 reviewed: 2026-07-29
+sources:
+- raw/articles/energy-paradox-rem-sleep-2026.md
+status: active
+tags:
+- japan
+title: Tohoku University
+type: entity
+updated: 2026-07-29
 ---
+
 
 # Tohoku University
 

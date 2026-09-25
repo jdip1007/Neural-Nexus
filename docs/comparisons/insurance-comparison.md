@@ -1,17 +1,21 @@
 ---
-title: Insurance Comparison
-created: 2026-07-25
-updated: 2026-07-25
-type: comparison
-classification: finance.insurance-products
-domain: finance
-tags: [insurance, financial-planning]
-sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
-confidence: high
-status: active
-reviewed: 2026-07-25
 backlinks: []
+classification: finance.insurance-products
+confidence: high
+created: 2026-07-25
+domain: finance
+reviewed: 2026-07-25
+sources:
+- raw/videos/savings-insurance-hong-kong-myths-bowtie.md
+status: active
+tags:
+- general
+title: Insurance Comparison
+type: comparison
+updated: 2026-07-25
 ---
+
+
 
 # Insurance Comparison
 

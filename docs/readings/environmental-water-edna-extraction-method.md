@@ -1,15 +1,19 @@
 ---
-title: Environmental Water eDNA Extraction Method
-created: 2026-07-19
-updated: 2026-07-19
-type: reading
-domain: biotech
-tags: [dna-extraction, molecular-biology, biotechnology, environmental-science, ecology]
-sources: [raw/articles/environmental-water-edna-extraction-method.md]
 confidence: high
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources:
+- raw/articles/environmental-water-edna-extraction-method.md
+status: active
+tags:
+- general
+title: Environmental Water eDNA Extraction Method
+type: reading
+updated: 2026-07-19
 ---
+
+
 
 # Environmental Water eDNA Extraction Method
 

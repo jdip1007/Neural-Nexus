@@ -1,17 +1,21 @@
 ---
-title: Prefrontal Cortex Development
-created: 2025-01-21
-updated: 2026-07-31
-type: concept
-classification: psychology.neuroscience.prefrontal-cortex-development
-domain: psychology
-tags: [prefrontal-cortex, executive-function, brain-connectivity, neurodevelopment, genetics, longitudinal-study, mental-health, research]
-sources: [raw/articles/shared-neural-basis-psychiatric-comorbidity.md]
-confidence: high
-status: active
-reviewed: 2026-07-31
 backlinks: []
+classification: psychology.neuroscience.prefrontal-cortex-development
+confidence: high
+created: 2025-01-21
+domain: psychology
+reviewed: 2026-07-31
+sources:
+- raw/articles/shared-neural-basis-psychiatric-comorbidity.md
+status: active
+tags:
+- general
+title: Prefrontal Cortex Development
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Prefrontal Cortex Development
 

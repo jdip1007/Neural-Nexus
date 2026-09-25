@@ -1,15 +1,21 @@
 ---
-title: "Coffee and SHBG"
-created: 2026-09-24
-updated: 2026-09-24
-type: concept
-domain: biology
-tags: [coffee, shbg, sex-hormone-binding-globulin, type-2-diabetes, metabolic-syndrome, sex-differences]
-sources: [raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt]
+classification: coffee
 confidence: high
-status: active
+created: 2026-09-24
+domain: biology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt
+status: active
+tags:
+- shbg
+title: Coffee and SHBG
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Coffee and SHBG
 

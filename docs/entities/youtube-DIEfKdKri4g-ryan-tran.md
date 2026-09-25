@@ -1,16 +1,20 @@
 ---
-title: Ryan Tran
-created: 2026-08-23
-updated: 2026-08-23
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-DIEfKdKri4g-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-23
+domain: ai
 reviewed: 2026-08-23
+sources:
+- raw/videos/youtube-DIEfKdKri4g-transcript.md
+status: active
+tags:
+- general
+title: Ryan Tran
+type: entity
+updated: 2026-08-23
 ---
+
+
 
 # Ryan Tran
 

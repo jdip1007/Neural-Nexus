@@ -1,22 +1,19 @@
 ---
-{
-  "title": "Why You Should NEVER Confess Your Love",
-  "created": "2026-09-20T04:23:02.435156",
-  "updated": "2026-09-20T04:23:02.435169",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "mental health",
-    "love",
-    "emotional intelligence"
-  ],
-  "sources": [
-    "youtube.com/watch?v=xWz2oqOqPHw"
-  ],
-  "video_id": "xWz2oqOqPHw",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-20T04:23:02.435156'
+domain: general
+sources:
+- youtube.com/watch?v=xWz2oqOqPHw
+tags:
+- love
+title: Why You Should NEVER Confess Your Love
+type: video
+updated: '2026-09-20T04:23:02.435169'
+video_id: xWz2oqOqPHw
 ---
+
+
+
 
 # Why You Should NEVER Confess Your Love
 

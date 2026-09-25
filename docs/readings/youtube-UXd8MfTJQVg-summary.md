@@ -1,18 +1,22 @@
 ---
-title: What do CPUs do when there's nothing to do? - Summary
-created: 2026-09-19
-updated: 2026-09-19
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, UXd8MfTJQVg]
-sources: [raw/videos/youtube-UXd8MfTJQVg-transcript.md]
-published: 2026-09-19
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-19
+domain: ai
+published: 2026-09-19
 reviewed: 2026-09-19
+sources:
+- raw/videos/youtube-UXd8MfTJQVg-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: What do CPUs do when there's nothing to do? - Summary
+type: reading
+updated: 2026-09-19
 ---
+
+
 
 # What do CPUs do when there's nothing to do? - Summary
 

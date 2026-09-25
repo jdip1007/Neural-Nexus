@@ -1,16 +1,20 @@
 ---
-title: Cognitive vs Affective Empathy
-created: 2026-08-17
-updated: 2026-08-17
-type: concept
-domain: psychology
-tags: [empathy, autism, cognitive-empathy, affective-empathy, emotional-processing, social-cognition]
-sources: [raw/transcripts/youtube/phqIVUoy70k.md]
-confidence: high
-status: active
-reviewed: 2026-08-17
 classification: psychology.cognitive-science.empathy
+confidence: high
+created: 2026-08-17
+domain: psychology
+reviewed: 2026-08-17
+sources:
+- raw/transcripts/youtube/phqIVUoy70k.md
+status: active
+tags:
+- general
+title: Cognitive vs Affective Empathy
+type: concept
+updated: 2026-08-17
 ---
+
+
 
 # Cognitive vs Affective Empathy
 

@@ -1,18 +1,17 @@
 ---
-title: How Penguinz0 Destroyed a Psycho Vegan Bodybuilder
-created: 2026-09-05 22:24:30
-updated: 2026-09-05 22:24:30
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: FfgYq3_z-kg
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-05 22:24:30
 domain: general
+duration: 15-25 minutes
+tags:
+- general
+title: How Penguinz0 Destroyed a Psycho Vegan Bodybuilder
+type: reading
+updated: 2026-09-05 22:24:30
+video_id: FfgYq3_z-kg
 ---
+
+
 
 # How Penguinz0 Destroyed a Psycho Vegan Bodybuilder
 

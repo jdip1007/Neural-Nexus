@@ -1,18 +1,17 @@
 ---
-title: The Deserved Downfall of Yo Mama
-created: 2026-09-04 22:10:07
-updated: 2026-09-04 22:10:07
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: P-debBoN21E
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-04 22:10:07
 domain: devops
+duration: 15-25 minutes
+tags:
+- general
+title: The Deserved Downfall of Yo Mama
+type: reading
+updated: 2026-09-04 22:10:07
+video_id: P-debBoN21E
 ---
+
+
 
 # The Deserved Downfall of Yo Mama
 

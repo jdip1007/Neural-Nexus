@@ -1,17 +1,20 @@
 ---
-title: Mental Health
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
-classification: psychology.mental-health
-domain: psychology
-tags: [mental-health, diagnosis, therapy, neurodiversity]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-07-25
 backlinks: []
+classification: psychology.mental-health
+confidence: high
+created: 2026-07-25
+domain: psychology
+reviewed: 2026-07-25
+sources: []
+status: active
+tags:
+- general
+title: Mental Health
+type: concept
+updated: 2026-07-25
 ---
+
+
 
 # Mental Health
 

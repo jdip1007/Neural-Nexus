@@ -1,32 +1,22 @@
 ---
-title: 'DIY Smart Mirror: Building Your Own Assistant'
-created: '2026-08-25'
-updated: '2026-08-25'
-type: concept
+backlinks: []
 classification: technology.smart-home
+confidence: high
+created: '2026-08-25'
 domain: technology
-tags:
-- iot
-- innovation
-- automation
-- diy
-- making
-- future
-- youtube
-- smart-home
-- video-derived
-- workshop
-- technology
-- dave-garage
-- transcript
+reviewed: '2026-08-25'
 sources:
 - raw/videos/youtube-dave_garage_003-transcript.md
-confidence: high
 status: active
-reviewed: '2026-08-25'
-backlinks: []
-
+tags:
+- iot
+- diy
+title: 'DIY Smart Mirror: Building Your Own Assistant'
+type: concept
+updated: '2026-08-25'
 ---
+
+
 
 # DIY Smart Mirror: Building Your Own Assistant
 

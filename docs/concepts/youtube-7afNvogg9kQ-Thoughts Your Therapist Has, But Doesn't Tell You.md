@@ -1,15 +1,18 @@
 ---
-title: Thoughts Your Therapist Has, But Doesn't Tell You
+classification: youtube
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- youtube
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/Thoughts Your Therapist Has
 - But Doesn't Tell You.md
-domain: psychology
+tags:
+- general
+title: Thoughts Your Therapist Has, But Doesn't Tell You
+type: concept
+updated: 2026-09-03
 ---
+
+
 
 # Thoughts Your Therapist Has, But Doesn't Tell You
 

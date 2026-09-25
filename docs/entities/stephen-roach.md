@@ -1,16 +1,21 @@
 ---
-title: Stephen Roach
-created: 2026-08-11
-updated: 2026-08-11
-type: entity
 classification: people.economists
-domain: economics
-tags: ["economist", "china-bull-turned-bear"]
-sources: [raw/pdfs/china-deepening-japan-problem-stephen-roach.md, raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 confidence: high
-status: active
+created: 2026-08-11
+domain: economics
 reviewed: 2026-08-11
+sources:
+- raw/pdfs/china-deepening-japan-problem-stephen-roach.md
+- raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md
+status: active
+tags:
+- general
+title: Stephen Roach
+type: entity
+updated: 2026-08-11
 ---
+
+
 
 # Stephen Roach
 

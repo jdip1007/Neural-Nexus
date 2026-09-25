@@ -1,32 +1,21 @@
 ---
-title: Building a Custom Electric Vehicle from Scratch
-created: '2026-08-25'
-updated: '2026-08-25'
-type: reading
+backlinks: []
 classification: general.education
+confidence: high
+created: '2026-08-25'
 domain: general
-tags:
-- general
-- education
-- making
-- diy
-- transportation
-- youtube
-- automotive
-- video-derived
-- workshop
-- technology
-- dave-garage
-- electric-vehicles
-- transcript
+reviewed: '2026-08-25'
 sources:
 - raw/videos/youtube-dave_garage_001-transcript.md
-confidence: high
 status: active
-reviewed: '2026-08-25'
-backlinks: []
-
+tags:
+- diy
+title: Building a Custom Electric Vehicle from Scratch
+type: reading
+updated: '2026-08-25'
 ---
+
+
 
 # Building a Custom Electric Vehicle from Scratch
 

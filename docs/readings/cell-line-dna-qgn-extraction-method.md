@@ -1,15 +1,20 @@
 ---
-title: Cell Line DNA QGN Extraction Method
-created: 2026-07-19
-updated: 2026-07-19
-type: reading
-domain: biotech
-tags: [dna-extraction, cell-line, molecular-biology, biotechnology]
-sources: [raw/articles/cell-line-dna-qgn-extraction-method.md, raw/articles/cell-line-dna-qgn-extraction-method-en-13.md]
 confidence: high
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources:
+- raw/articles/cell-line-dna-qgn-extraction-method.md
+- raw/articles/cell-line-dna-qgn-extraction-method-en-13.md
+status: active
+tags:
+- general
+title: Cell Line DNA QGN Extraction Method
+type: reading
+updated: 2026-07-19
 ---
+
+
 
 # Cell Line DNA QGN Extraction Method
 

@@ -1,23 +1,20 @@
 ---
-{
-  "title": "Jimmy Carr vs Victorian Slang: Can He Get It Right?",
-  "created": "2026-09-13",
-  "updated": "2026-09-13",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e93"
-  ],
-  "video_id": "e93",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-13 19:38:07"
-}
+channel: Chris Willx
+created: '2026-09-13'
+domain: general
+ingestion_date: '2026-09-13 19:38:07'
+sources:
+- https://www.youtube.com/watch?v=e93
+tags:
+- general
+title: 'Jimmy Carr vs Victorian Slang: Can He Get It Right?'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-13'
+video_id: e93
 ---
+
+
 
 # Jimmy Carr vs Victorian Slang: Can He Get It Right?
 

@@ -1,21 +1,20 @@
 ---
-title: Your Job Achieves Nothing... (probably)
+channel: How Money Works
 created: 2026-09-07 21:56:02.371116
-updated: 2026-09-07 21:56:02.371127
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Market
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=uK3OBAxCi6k
-channel: How Money Works
+tags:
+- general
+title: Your Job Achieves Nothing... (probably)
+type: reading
+updated: 2026-09-07 21:56:02.371127
 video_id: uK3OBAxCi6k
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # Your Job Achieves Nothing... (probably)
 

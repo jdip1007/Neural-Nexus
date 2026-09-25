@@ -1,16 +1,20 @@
 ---
-title: Comet Interceptor
-created: 2026-08-30
-updated: 2026-08-30
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-GCkAsesSzw4-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-30
+domain: ai
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-GCkAsesSzw4-transcript.md
+status: active
+tags:
+- general
+title: Comet Interceptor
+type: entity
+updated: 2026-08-30
 ---
+
+
 
 # Comet Interceptor
 

@@ -1,12 +1,17 @@
 ---
-title: "Type 2 Diabetes"
+classification: type-2-diabetes
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [type-2-diabetes]
 status: stub
+tags:
+- general
+title: Type 2 Diabetes
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Type 2 Diabetes
 

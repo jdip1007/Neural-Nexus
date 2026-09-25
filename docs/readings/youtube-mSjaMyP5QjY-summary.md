@@ -1,11 +1,14 @@
 ---
-title: 'AI DEBATE: “Most People Have No Idea What’s Coming” - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'AI DEBATE: “Most People Have No Idea What’s Coming” - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # AI DEBATE: “Most People Have No Idea What’s Coming” - Summary
 

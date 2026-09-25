@@ -1,17 +1,21 @@
 ---
-title: Why Your Brain Can't Handle Modern Life || The Infographics Show
-created: '2026-09-15'
-updated: '2026-09-15'
-type: reading
-domain: general
-tags: [youtube, educational-content, content-creation, youtube-documentary, current-events, psychology, society, media]
-sources: [raw/videos/youtube-k0ksj42YJaM-transcript.md]
-published: '2026-09-15'
-time_sensitive: false
 confidence: medium
-status: active
+created: '2026-09-15'
+domain: general
+published: '2026-09-15'
 reviewed: '2026-09-15'
+sources:
+- raw/videos/youtube-k0ksj42YJaM-transcript.md
+status: active
+tags:
+- media
+time_sensitive: false
+title: Why Your Brain Can't Handle Modern Life || The Infographics Show
+type: reading
+updated: '2026-09-15'
 ---
+
+
 
 # Why Your Brain Can't Handle Modern Life || The Infographics Show
 

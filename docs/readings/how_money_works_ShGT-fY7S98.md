@@ -1,11 +1,15 @@
 ---
-title: 'The Future of Work: AI vs Humans'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The Future of Work: AI vs Humans'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Future of Work: AI vs Humans
 

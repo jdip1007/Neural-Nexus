@@ -1,23 +1,20 @@
 ---
-{
-  "title": "Health Hacks Big Pharma Doesn't Want You To Know - Biohacking Roundtable",
-  "created": "2026-09-14",
-  "updated": "2026-09-14",
-  "type": "video",
-  "tags": [
-    "technology",
-    "health",
-    "science"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=8MxG6tOkdNY"
-  ],
-  "video_id": "8MxG6tOkdNY",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-14 19:55:09"
-}
+channel: Chris Willx
+created: '2026-09-14'
+domain: general
+ingestion_date: '2026-09-14 19:55:09'
+sources:
+- https://www.youtube.com/watch?v=8MxG6tOkdNY
+tags:
+- general
+title: Health Hacks Big Pharma Doesn't Want You To Know - Biohacking Roundtable
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-14'
+video_id: 8MxG6tOkdNY
 ---
+
+
 
 # Health Hacks Big Pharma Doesn't Want You To Know - Biohacking Roundtable
 

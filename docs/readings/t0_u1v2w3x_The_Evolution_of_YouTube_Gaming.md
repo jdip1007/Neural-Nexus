@@ -1,18 +1,21 @@
 ---
-title: The Evolution of YouTube Gaming
-created: 2026-08-31T20:34:49
-updated: 2026-08-31T20:34:49
-type: reading
-classification: hermes.internet-culture.youtube-creator
-domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "internet-culture", "business-strategy", "gaming"]
-video_id: t0_u1v2w3x
-duration: 15-25 minutes
 channel: Internet Anarchist
+classification: hermes.internet-culture.youtube-creator
 confidence: high
-status: active
+created: 2026-08-31 20:34:49
+domain: hermes
+duration: 15-25 minutes
 reviewed: 2026-08-31
+status: active
+tags:
+- general
+title: The Evolution of YouTube Gaming
+type: reading
+updated: 2026-08-31 20:34:49
+video_id: t0_u1v2w3x
 ---
+
+
 
 # The Evolution of YouTube Gaming
 

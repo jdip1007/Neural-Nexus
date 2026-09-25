@@ -1,18 +1,16 @@
 ---
-title: What Women Choose When They Can't Have Everything
 created: '2026-09-01T14:37:50.882781'
-updated: '2026-09-01T14:37:50.882793'
-type: reading
-tags:
-- youtube
-- youtube-creator
-- digital-media
-- discussion
-- relationships
+domain: ai
 sources:
 - https://www.youtube.com/watch?v=piaEj-pzkpE
-domain: ai
+tags:
+- general
+title: What Women Choose When They Can't Have Everything
+type: reading
+updated: '2026-09-01T14:37:50.882793'
 ---
+
+
 
 # What Women Choose When They Can't Have Everything
 

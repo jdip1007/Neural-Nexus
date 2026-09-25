@@ -1,22 +1,19 @@
 ---
-{
-  "title": "Why Gifted People Burn Out The Fastest",
-  "created": "2026-09-20T04:23:03.436069",
-  "updated": "2026-09-20T04:23:03.436082",
-  "type": "video",
-  "tags": [
-    "psychology",
-    "education",
-    "mental health",
-    "talent"
-  ],
-  "sources": [
-    "youtube.com/watch?v=_N6qPEA_dGc"
-  ],
-  "video_id": "_N6qPEA_dGc",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-20T04:23:03.436069'
+domain: general
+sources:
+- youtube.com/watch?v=_N6qPEA_dGc
+tags:
+- general
+title: Why Gifted People Burn Out The Fastest
+type: video
+updated: '2026-09-20T04:23:03.436082'
+video_id: _N6qPEA_dGc
 ---
+
+
+
 
 # Why Gifted People Burn Out The Fastest
 

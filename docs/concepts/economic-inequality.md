@@ -1,17 +1,21 @@
 ---
-title: Economic Inequality
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: economics.income-distribution
-domain: economics
-tags: [economic-inequality, income-inequality, generational-wealth, wealth-concentration, economic-justice, social-mobility, economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: high
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: economics.income-distribution
+confidence: high
+created: 2026-08-02
+domain: economics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Economic Inequality
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Economic Inequality
 

@@ -1,15 +1,15 @@
 ---
-title: Can Men & Women Be Friends?
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- relationships
-- relationships
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/Can Men & Women Be Friends_.md
-domain: psychology
+tags:
+- general
+title: Can Men & Women Be Friends?
+type: concept
+updated: 2026-09-03
 ---
+
 
 # Can Men & Women Be Friends?
 

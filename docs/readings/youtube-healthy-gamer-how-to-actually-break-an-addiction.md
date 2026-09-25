@@ -1,17 +1,16 @@
 ---
-title: How To ACTUALLY Break An Addiction
 created: 2026-08-26 18:46:29.599213
-updated: 2026-08-26 18:46:29.599216
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://youtu.be/def456
-domain: psychology
+tags:
+- dr-k
+title: How To ACTUALLY Break An Addiction
+type: reading
+updated: 2026-08-26 18:46:29.599216
 ---
+
+
 
 # How To ACTUALLY Break An Addiction
 

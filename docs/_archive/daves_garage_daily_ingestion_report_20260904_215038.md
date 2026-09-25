@@ -1,12 +1,16 @@
 ---
-title: Dave's Garage Daily Ingestion Report
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: Dave's Garage Daily Ingestion Report
+type: reading
+updated: 2026-09-12
 ---
+
+
+
 
 # Dave's Garage Daily Ingestion Report
 **Date:** 2026-09-04 21:50:38

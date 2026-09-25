@@ -1,16 +1,20 @@
 ---
-title: Atmospheric Administration
-created: 2026-08-22
-updated: 2026-08-22
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-22
+domain: ai
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-THodtjsCTSI-transcript.md
+status: active
+tags:
+- general
+title: Atmospheric Administration
+type: entity
+updated: 2026-08-22
 ---
+
+
 
 # Atmospheric Administration
 

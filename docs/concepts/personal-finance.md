@@ -1,12 +1,17 @@
 ---
-title: "Personal Finance"
+classification: personal
 created: 2026-09-21
-updated: 2026-09-21
-type: concept
 domain: finance
-tags: []
 status: draft
+tags:
+- general
+title: Personal Finance
+type: concept
+updated: 2026-09-21
 ---
+
+
+
 
 # Personal Finance
 

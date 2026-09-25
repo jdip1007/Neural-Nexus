@@ -1,12 +1,17 @@
 ---
-title: "Economics"
+classification: economics
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: finance
-tags: []
 status: draft
+tags:
+- general
+title: Economics
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # Economics
 

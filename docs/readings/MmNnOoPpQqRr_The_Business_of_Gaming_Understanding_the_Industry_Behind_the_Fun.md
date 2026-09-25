@@ -1,11 +1,15 @@
 ---
-title: 'The Business of Gaming: Understanding the Industry Behind the Fun'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The Business of Gaming: Understanding the Industry Behind the Fun'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Business of Gaming: Understanding the Industry Behind the Fun
 

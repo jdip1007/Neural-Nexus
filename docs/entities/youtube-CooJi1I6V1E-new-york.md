@@ -1,16 +1,20 @@
 ---
-title: New York
-created: 2026-08-30
-updated: 2026-08-30
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-CooJi1I6V1E-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-30
+domain: ai
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-CooJi1I6V1E-transcript.md
+status: active
+tags:
+- general
+title: New York
+type: entity
+updated: 2026-08-30
 ---
+
+
 
 # New York
 

@@ -1,19 +1,19 @@
 ---
 created: '2026-09-08T17:45:11.478941'
+domain: general
 duration: 2 hours, 5 minutes
 sources:
 - https://www.youtube.com/watch?v=dummy_real2
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: '"Age Reversal Is Coming." Everything You Need To Know - Dr David Sinclair'
 type: reading
 updated: '2026-09-08T17:45:11.478943'
 video_id: dummy_real2
 views: 67K
-domain: general
 ---
+
+
 
 # "Age Reversal Is Coming." Everything You Need To Know - Dr David Sinclair
 

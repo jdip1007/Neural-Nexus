@@ -1,24 +1,21 @@
 ---
-{
-  "title": "Why Sensitive People Get Traumatized So Easily",
-  "created": "2026-09-13T00:47:34.884863",
-  "updated": "2026-09-13T00:47:34.884879",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "healthygamer",
-    "mental health",
-    "relationship"
-  ],
-  "sources": [
-    "https://youtu.be/e91"
-  ],
-  "video_id": "e91",
-  "video_length": "22 minutes",
-  "video_views": "Unknown",
-  "video_published": "Unknown"
-}
+created: '2026-09-13T00:47:34.884863'
+domain: general
+sources:
+- https://youtu.be/e91
+tags:
+- general
+title: Why Sensitive People Get Traumatized So Easily
+type: video
+updated: '2026-09-13T00:47:34.884879'
+video_id: e91
+video_length: 22 minutes
+video_published: Unknown
+video_views: Unknown
 ---
+
+
+
 
 # Why Sensitive People Get Traumatized So Easily
 

@@ -9,17 +9,13 @@ sources:
 - ./raw/transcripts/internet-anarchist-07a1ae855fbf-transcript.md
 status: active
 tags:
-- internet-culture
-- youtube-creator
-- social-media
-- online-controversy
-- digital-analysis
-- internet-anarchist
+- general
 title: JiDion's Past Is Catching Up To Him
 type: reading
 updated: '2026-08-20'
-
 ---
+
+
 
 # JiDion's Past Is Catching Up To Him
 

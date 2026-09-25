@@ -1,12 +1,16 @@
 ---
-title: "Insurance"
+classification: insurance
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: finance
-tags: [insurance]
 status: stub
+tags:
+- general
+title: Insurance
+type: concept
+updated: 2026-09-25
 ---
+
+
 
 # Insurance
 

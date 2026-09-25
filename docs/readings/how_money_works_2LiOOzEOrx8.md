@@ -1,23 +1,20 @@
 ---
-title: The (Overdue) Collapse of the 9-5 Job
+channel: How Money Works
 created: 2026-09-09 22:23:29.303782
-updated: 2026-09-09 22:23:29.303796
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Money
-- Investing
-- Finance
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=2LiOOzEOrx8
-channel: How Money Works
+tags:
+- general
+title: The (Overdue) Collapse of the 9-5 Job
+type: reading
+updated: 2026-09-09 22:23:29.303796
 video_id: 2LiOOzEOrx8
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # The (Overdue) Collapse of the 9-5 Job
 

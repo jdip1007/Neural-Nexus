@@ -1,11 +1,17 @@
 ---
-title: The Most Satisfying Downfalls In YouTube History
 created: 2026-09-21
-updated: 2026-09-21
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/4OoN-eLshD4.md
+tags:
+- general
+title: The Most Satisfying Downfalls In YouTube History
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/4OoN-eLshD4.md]
+updated: 2026-09-21
 ---
+
+
+
 
 # The Most Satisfying Downfalls In YouTube History
 

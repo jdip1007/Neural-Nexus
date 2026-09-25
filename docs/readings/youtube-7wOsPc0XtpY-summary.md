@@ -1,11 +1,14 @@
 ---
-title: 'Video 6: Setting the Exposure - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Video 6: Setting the Exposure - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Video 6: Setting the Exposure - Summary
 

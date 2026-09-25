@@ -1,12 +1,17 @@
 ---
-title: "Autism Spectrum Disorder"
+classification: autism-spectrum-disorder
 created: 2026-09-24
-updated: 2026-09-24
-type: concept
 domain: psychology
-tags: ['autism-spectrum-disorder', 'neurodevelopmental-disorder', 'diagnostics']
 status: draft
+tags:
+- general
+title: Autism Spectrum Disorder
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Autism Spectrum Disorder
 

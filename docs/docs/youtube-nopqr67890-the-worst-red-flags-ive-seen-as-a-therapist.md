@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-nopqr67890-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- wellbeing
-- personal-development
+- general
 title: The Worst Red Flags I've Seen As A Therapist
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # The Worst Red Flags I've Seen As A Therapist
 

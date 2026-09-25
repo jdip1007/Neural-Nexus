@@ -1,12 +1,17 @@
 ---
-title: "Shark Tank Pitches That Turned Into Disasters"
+classification: shark
 created: 2026-09-21
-updated: 2026-09-21
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: Shark Tank Pitches That Turned Into Disasters
+type: concept
+updated: 2026-09-21
 ---
+
+
+
 
 # Shark Tank Pitches That Turned Into Disasters
 

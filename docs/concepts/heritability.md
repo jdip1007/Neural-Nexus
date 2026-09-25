@@ -1,17 +1,21 @@
 ---
-title: Heritability
-created: 2026-08-06
-updated: 2026-08-06
-type: concept
-classification: research-methodology.genetics
-domain: research-methodology
-tags: [genetics, quantitative-genetics, family-studies, genetic-epidemiology, statistical-genetics]
-sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
-confidence: high
-status: active
-reviewed: 2026-08-06
 backlinks: []
+classification: research-methodology.genetics
+confidence: high
+created: 2026-08-06
+domain: research-methodology
+reviewed: 2026-08-06
+sources:
+- raw/articles/adhd-genetics-nature-genetics-2025.md
+status: active
+tags:
+- general
+title: Heritability
+type: concept
+updated: 2026-08-06
 ---
+
+
 
 # Heritability
 

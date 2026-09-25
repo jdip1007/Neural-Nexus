@@ -1,11 +1,17 @@
 ---
-title: The Worst YouTubers Destroyed By Penguinz0
 created: 2026-09-25
-updated: 2026-09-25
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/VhWeh-HtCxY.md
+tags:
+- general
+title: The Worst YouTubers Destroyed By Penguinz0
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/VhWeh-HtCxY.md]
+updated: 2026-09-25
 ---
+
+
+
 
 # The Worst YouTubers Destroyed By Penguinz0
 

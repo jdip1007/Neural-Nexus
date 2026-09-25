@@ -1,16 +1,17 @@
 ---
-title: The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome)
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- mental-health
-- therapy
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/The Most Misdiagnosed Condition In Mental Health
   (Cognitive Disengagement Syndrome).md
-domain: psychology
+tags:
+- general
+title: The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome)
+type: concept
+updated: 2026-09-03
 ---
+
+
 
 # The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome)
 

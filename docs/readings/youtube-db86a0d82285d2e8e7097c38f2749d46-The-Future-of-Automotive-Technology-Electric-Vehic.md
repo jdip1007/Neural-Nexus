@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-23T02:58:27.133291'
+domain: general
 duration: 25 minutes
 sources:
 - https://www.youtube.com/watch?v=5c5f7WzQzY
 tags:
-- development
 - tech
 - code
-- hardware
 - diy
-- software
 - led
-- system
-- tutorial
-- programming
-- ethernet
-- assembly
-- network
-- youtube
-- daves-garage
 title: 'The Future of Automotive Technology: Electric Vehicles and Beyond'
 type: video
 updated: '2026-09-23T02:58:27.133303'
 video_id: 5c5f7WzQzY
 views: 89K
 ---
+
+
+
 
 # The Future of Automotive Technology: Electric Vehicles and Beyond
 

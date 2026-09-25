@@ -1,16 +1,20 @@
 ---
-title: Linear Algebra
-created: 2026-08-22
-updated: 2026-08-22
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-J7DzL2_Na80-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-22
+domain: ai
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-J7DzL2_Na80-transcript.md
+status: active
+tags:
+- general
+title: Linear Algebra
+type: entity
+updated: 2026-08-22
 ---
+
+
 
 # Linear Algebra
 

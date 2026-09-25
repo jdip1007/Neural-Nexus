@@ -1,12 +1,15 @@
 ---
+created: '2026-09-12'
+domain: general
+tags:
+- general
 title: 'NASA’s 100-Mile Moon Base: The Insane Plan to Colonize the Lunar South Pole
   by 2032 - Summary'
-created: '2026-09-12'
-updated: '2026-09-12'
 type: reading
-domain: general
-tags: []
+updated: '2026-09-12'
 ---
+
+
 
 # NASA’s 100-Mile Moon Base: The Insane Plan to Colonize the Lunar South Pole by 2032 - Summary
 

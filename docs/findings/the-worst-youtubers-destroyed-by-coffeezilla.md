@@ -1,11 +1,17 @@
 ---
-title: The Worst YouTubers Destroyed by CoffeeZilla
 created: 2026-09-16
-updated: 2026-09-16
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/hZART9r8rqs.md
+tags:
+- general
+title: The Worst YouTubers Destroyed by CoffeeZilla
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/hZART9r8rqs.md]
+updated: 2026-09-16
 ---
+
+
+
 
 # The Worst YouTubers Destroyed by CoffeeZilla
 

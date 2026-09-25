@@ -1,16 +1,20 @@
 ---
-title: But Malo
-created: 2026-09-19
-updated: 2026-09-19
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, mYBxnojY-JA]
-sources: [raw/videos/youtube-mYBxnojY-JA-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-19
+domain: ai
 reviewed: 2026-09-19
+sources:
+- raw/videos/youtube-mYBxnojY-JA-transcript.md
+status: active
+tags:
+- general
+title: But Malo
+type: entity
+updated: 2026-09-19
 ---
+
+
 
 # But Malo
 

@@ -1,18 +1,20 @@
 ---
 created: '2026-09-15T20:13:06.164523'
+domain: general
 duration: 1 hour, 57 minutes
 sources:
 - https://www.youtube.com/watch?v=WEP5ubPMGDU
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: Living with Confidence & Going All In - Matthew McConaughey
 type: video
 updated: '2026-09-15T20:13:06.164525'
 video_id: WEP5ubPMGDU
 views: 2.6M
 ---
+
+
+
 
 # Living with Confidence & Going All In - Matthew McConaughey
 

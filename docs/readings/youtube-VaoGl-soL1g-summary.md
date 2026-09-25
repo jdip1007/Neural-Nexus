@@ -1,18 +1,22 @@
 ---
-title: The Epstein Story You Haven’t Heard - Eric Weinstein - Summary
-created: 2026-08-22
-updated: 2026-08-22
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-VaoGl-soL1g-transcript.md]
-published: 2026-08-22
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-22
+domain: ai
+published: 2026-08-22
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-VaoGl-soL1g-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The Epstein Story You Haven’t Heard - Eric Weinstein - Summary
+type: reading
+updated: 2026-08-22
 ---
+
+
 
 # The Epstein Story You Haven’t Heard - Eric Weinstein - Summary
 

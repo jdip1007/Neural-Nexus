@@ -1,13 +1,13 @@
 ---
-title: What Happens When You Lose Just One Packet?
 created: '2026-09-03T21:40:05.828104'
-updated: '2026-09-03T21:40:05.828106'
-type: reading
-tags:
-- youtube
-- diy
 domain: devops
+tags:
+- diy
+title: What Happens When You Lose Just One Packet?
+type: reading
+updated: '2026-09-03T21:40:05.828106'
 ---
+
 
 # What Happens When You Lose Just One Packet?
 

@@ -9,17 +9,13 @@ sources:
 - ./raw/transcripts/internet-anarchist-8ff9bfd22347-transcript.md
 status: active
 tags:
-- internet-culture
-- youtube-creator
-- social-media
-- online-controversy
-- digital-analysis
-- internet-anarchist
+- general
 title: How Penguinz0 Destroyed the Technoblade Copycat
 type: reading
 updated: '2026-08-20'
-
 ---
+
+
 
 # How Penguinz0 Destroyed the Technoblade Copycat
 

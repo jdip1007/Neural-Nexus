@@ -1,12 +1,15 @@
 ---
-title: Ethernet Explained so well that even YOU can Understand it!
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: devops
-tags: []
 status: draft
+tags:
+- general
+title: Ethernet Explained so well that even YOU can Understand it!
+type: reading
+updated: 2026-09-12
 ---
+
+
 
 # Ethernet Explained so well that even YOU can Understand it!
 

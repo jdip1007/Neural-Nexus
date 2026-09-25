@@ -1,17 +1,21 @@
 ---
-title: Bowtie Insurance
-created: 2025-01-18
-updated: 2026-07-31
-type: entity
-classification: organization.insurance-provider
-domain: finance
-tags: [insurance, hong-kong, insurtech, life-insurance, health-insurance]
-sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
-confidence: medium
-status: active
-reviewed: 2026-07-31
 backlinks: []
+classification: organization.insurance-provider
+confidence: medium
+created: 2025-01-18
+domain: finance
+reviewed: 2026-07-31
+sources:
+- raw/videos/savings-insurance-hong-kong-myths-bowtie.md
+status: active
+tags:
+- general
+title: Bowtie Insurance
+type: entity
+updated: 2026-07-31
 ---
+
+
 
 # Overview
 

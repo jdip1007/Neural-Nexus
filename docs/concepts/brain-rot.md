@@ -1,17 +1,24 @@
 ---
+classification: psychology.mental-health.digital-wellness
+confidence: high
+created: 2026-08-11
+domain: psychology
+related:
+- dopamine-lemon-metaphor
+- artificial-brain-circuit-activation
+- social-media-addiction
+reviewed: 2026-08-11
+sources:
+- raw/videos/healthygamergg/why-brain-rot-is-so-addictive.md
+status: active
+tags:
+- general
 title: Brain Rot
 type: concept
-tags: [digital-wellness, addiction, mental-health, dopamine]
-related: [dopamine-lemon-metaphor, artificial-brain-circuit-activation, social-media-addiction]
-classification: psychology.mental-health.digital-wellness
-domain: psychology
-created: 2026-08-11
 updated: 2026-08-11
-confidence: high
-status: active
-reviewed: 2026-08-11
-sources: [raw/videos/healthygamergg/why-brain-rot-is-so-addictive.md]
 ---
+
+
 
 # Brain Rot
 

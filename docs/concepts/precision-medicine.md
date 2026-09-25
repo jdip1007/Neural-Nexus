@@ -1,17 +1,21 @@
 ---
-title: Precision Medicine
-created: 2026-08-06
-updated: 2026-08-06
-type: concept
-classification: research-methodology.healthcare
-domain: research-methodology
-tags: [precision-medicine, personalized-medicine, genomics, pharmacogenomics, treatment-personalization, individualized-care]
-sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
-confidence: high
-status: active
-reviewed: 2026-08-06
 backlinks: []
+classification: research-methodology.healthcare
+confidence: high
+created: 2026-08-06
+domain: research-methodology
+reviewed: 2026-08-06
+sources:
+- raw/articles/adhd-genetics-nature-genetics-2025.md
+status: active
+tags:
+- general
+title: Precision Medicine
+type: concept
+updated: 2026-08-06
 ---
+
+
 
 # Precision Medicine
 

@@ -1,12 +1,17 @@
 ---
-title: "fame"
+classification: fame
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: fame
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # fame
 

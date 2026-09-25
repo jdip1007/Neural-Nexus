@@ -1,16 +1,20 @@
 ---
-title: Lam Kwok Wai (林國偉) - Tuen Mun Rapist
-created: 2026-07-19
-updated: 2026-07-19
-type: entity
 classification: person.legal-figure
-domain: psychology
-tags: ["criminal", "serial-offender", "hong-kong"]
 confidence: medium
-status: active
+created: 2026-07-19
+domain: psychology
 reviewed: 2026-07-19
-sources: [raw/videos/dangerous-person-2-0/]
+sources:
+- raw/videos/dangerous-person-2-0/
+status: active
+tags:
+- general
+title: Lam Kwok Wai (林國偉) - Tuen Mun Rapist
+type: entity
+updated: 2026-07-19
 ---
+
+
 
 # Lam Kwok Wai (林國偉) - Tuen Mun Rapist
 

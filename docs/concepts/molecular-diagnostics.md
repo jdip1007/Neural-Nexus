@@ -1,16 +1,19 @@
 ---
-title: Molecular Diagnostics
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.testing
-domain: laboratory
-tags: [molecular-diagnostics, ngs-validation, bioinformatics-validation, method-evaluation]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- general
+title: Molecular Diagnostics
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Molecular Diagnostics
 

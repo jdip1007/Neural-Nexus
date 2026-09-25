@@ -1,12 +1,17 @@
 ---
-title: "Nutritional Epidemiology"
+classification: nutritional-epidemiology
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [nutritional-epidemiology]
 status: stub
+tags:
+- general
+title: Nutritional Epidemiology
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Nutritional Epidemiology
 

@@ -1,17 +1,18 @@
 ---
-title: Ethernet Explained so well that even YOU can Understand it!
 created: 2026-08-18 14:56:02.030271
-updated: 2026-08-18 14:56:02.030286
-type: finding
-tags:
-- youtube
-sources:
-- type: youtube
-  url: https://www.youtube.com/watch?v=7vzjIv2l6wY
-  title: Ethernet Explained so well that even YOU can Understand it!
-  accessed: '2026-08-18T14:56:02.030288'
 domain: devops
+sources:
+- accessed: '2026-08-18T14:56:02.030288'
+  title: Ethernet Explained so well that even YOU can Understand it!
+  type: youtube
+  url: https://www.youtube.com/watch?v=7vzjIv2l6wY
+tags:
+- general
+title: Ethernet Explained so well that even YOU can Understand it!
+type: finding
+updated: 2026-08-18 14:56:02.030286
 ---
+
 
 # Ethernet Explained so well that even YOU can Understand it!
 

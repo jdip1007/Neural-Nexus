@@ -1,18 +1,22 @@
 ---
-title: How to Win Every Single Day - David Goggins - Summary
-created: 2026-08-22
-updated: 2026-08-22
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-K1QDYuHGa_I-transcript.md]
-published: 2026-08-22
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-08-22
+domain: ai
+published: 2026-08-22
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-K1QDYuHGa_I-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: How to Win Every Single Day - David Goggins - Summary
+type: reading
+updated: 2026-08-22
 ---
+
+
 
 # How to Win Every Single Day - David Goggins - Summary
 

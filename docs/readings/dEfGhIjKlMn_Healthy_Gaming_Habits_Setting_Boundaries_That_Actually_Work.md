@@ -1,11 +1,15 @@
 ---
-title: 'Healthy Gaming Habits: Setting Boundaries That Actually Work'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Healthy Gaming Habits: Setting Boundaries That Actually Work'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Healthy Gaming Habits: Setting Boundaries That Actually Work
 

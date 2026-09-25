@@ -1,17 +1,21 @@
 ---
-title: Air Force Military Operations
-created: 2026-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.military.air-force
-domain: psychology
-tags: [military, air-force, aviation, aerial-operations, strategic-operations]
-sources: [raw/videos/youtube-uzg-tGiK_y8-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.military.air-force
+confidence: medium
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-uzg-tGiK_y8-transcript.md
+status: active
+tags:
+- general
+title: Air Force Military Operations
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Air Force Military Operations
 

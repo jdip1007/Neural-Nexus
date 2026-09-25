@@ -1,11 +1,14 @@
 ---
-title: The Lie of "Positive Thinking" - HealthyGamerGG
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: The Lie of "Positive Thinking" - HealthyGamerGG
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # The Lie of "Positive Thinking" - HealthyGamerGG
 

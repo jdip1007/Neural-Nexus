@@ -1,17 +1,21 @@
 ---
-title: New Internet Scam Exposed - 2026 - Internet Anarchist
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
-classification: media.investigative_journalism
-domain: media
-tags: ["youtube", "investigative-journalism", "scams", "internet-safety", "exposure", "online-reputation", "internet-culture"]
-sources: ["raw/videos/internet_anarchist/youtube-new_video_1-new-internet-scam-exposed--2026.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-29
 backlinks: []
+classification: media.investigative_journalism
+confidence: medium
+created: 2026-08-29
+domain: media
+reviewed: 2026-08-29
+sources:
+- raw/videos/internet_anarchist/youtube-new_video_1-new-internet-scam-exposed--2026.md
+status: active
+tags:
+- scams
+title: New Internet Scam Exposed - 2026 - Internet Anarchist
+type: reading
+updated: 2026-08-29
 ---
+
+
 
 # New Internet Scam Exposed - 2026 - Internet Anarchist
 

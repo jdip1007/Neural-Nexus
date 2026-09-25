@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-Wz2oqOqPHw-transcript.md
 status: active
 tags:
-- internet-anarchist
-- youtube-content
-- content-creation
-- intellectual-property
+- general
 title: How Penguinz0 Destroyed the Technoblade Copycat
 type: finding
 updated: '2026-09-02'
 ---
+
+
 
 # How Penguinz0 Destroyed the Technoblade Copycat
 

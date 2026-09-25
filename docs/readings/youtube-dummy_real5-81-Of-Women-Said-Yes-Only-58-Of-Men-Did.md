@@ -1,19 +1,19 @@
 ---
 created: '2026-09-08T17:45:10.477114'
+domain: general
 duration: 10 minutes, 9 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy_real5
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: '"81% Of Women Said Yes. Only 58% Of Men Did."'
 type: reading
 updated: '2026-09-08T17:45:10.477116'
 video_id: dummy_real5
 views: 83K
-domain: general
 ---
+
+
 
 # "81% Of Women Said Yes. Only 58% Of Men Did."
 

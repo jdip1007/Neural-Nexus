@@ -1,16 +1,19 @@
 ---
-title: Laboratory-Developed Tests
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.testing.technology
-domain: laboratory
-tags: [ldt, laboratory-developed-tests, in-house-tests, fda-oversight, method-development, clinical-laboratory]
-sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources:
+- raw/laboratory/accreditation/verification-validation-toolkit-aphl.md
+status: active
+tags:
+- ldt
+title: Laboratory-Developed Tests
+type: concept
+updated: 2026-07-31
 ---
+
 
 # Laboratory-Developed Tests
 

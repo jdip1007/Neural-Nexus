@@ -1,16 +1,16 @@
 ---
-title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
-created: '2026-09-09T23:20:22.656219'
-updated: '2026-09-09T23:20:22.656220'
-type: reading
-tags:
-- youtube
-- diy
-youtube_id: example5
 channel: Dave's Garage
 channel_url: https://youtube.com/@davesgarage
+created: '2026-09-09T23:20:22.656219'
 domain: devops
+tags:
+- diy
+title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
+type: reading
+updated: '2026-09-09T23:20:22.656220'
+youtube_id: example5
 ---
+
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
 

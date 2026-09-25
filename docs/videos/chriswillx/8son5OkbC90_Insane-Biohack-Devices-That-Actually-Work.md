@@ -1,22 +1,20 @@
 ---
-{
-  "title": "Insane Biohack Devices That Actually Work",
-  "created": "2026-09-16",
-  "updated": "2026-09-16",
-  "type": "video",
-  "tags": [
-    "technology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=8son5OkbC90"
-  ],
-  "video_id": "8son5OkbC90",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-16 20:30:57"
-}
+channel: Chris Willx
+created: '2026-09-16'
+domain: general
+ingestion_date: '2026-09-16 20:30:57'
+sources:
+- https://www.youtube.com/watch?v=8son5OkbC90
+tags:
+- general
+title: Insane Biohack Devices That Actually Work
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-16'
+video_id: 8son5OkbC90
 ---
+
+
 
 # Insane Biohack Devices That Actually Work
 

@@ -1,11 +1,14 @@
 ---
-title: The Lie of "Positive Thinking"
 created: '2026-09-12'
-updated: '2026-09-12'
-type: finding
 domain: general
-tags: []
+tags:
+- general
+title: The Lie of "Positive Thinking"
+type: finding
+updated: '2026-09-12'
 ---
+
+
 
 # The Lie of "Positive Thinking"
 

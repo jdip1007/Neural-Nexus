@@ -1,21 +1,16 @@
 ---
 created: '2026-09-11T00:09:40.193181'
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=7MykFJ7TByM
 tags:
-- youtube
-- healthy-gamer
-- digital_life
-- gaming
-- online_communities
-- mental_health
-- psychology
-- personal_development
+- general
 title: Analyzing The Lindsay Clancy Case
 type: reading
 updated: '2026-09-11T00:09:40.193183'
-domain: psychology
 ---
+
+
 
 # Analyzing The Lindsay Clancy Case
 

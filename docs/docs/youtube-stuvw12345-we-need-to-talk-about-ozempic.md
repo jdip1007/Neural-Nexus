@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-stuvw12345-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- wellbeing
-- personal-development
+- general
 title: We Need To Talk About Ozempic
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # We Need To Talk About Ozempic
 

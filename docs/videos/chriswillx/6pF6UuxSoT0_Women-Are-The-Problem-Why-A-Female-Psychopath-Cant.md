@@ -1,25 +1,20 @@
 ---
-{
-  "title": "\"Women Are The Problem\" - Why A Female Psychopath Can't Relate To Her Audience",
-  "created": "2026-09-14",
-  "updated": "2026-09-14",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "society",
-    "technology",
-    "media"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=6pF6UuxSoT0"
-  ],
-  "video_id": "6pF6UuxSoT0",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-14 19:55:07"
-}
+channel: Chris Willx
+created: '2026-09-14'
+domain: general
+ingestion_date: '2026-09-14 19:55:07'
+sources:
+- https://www.youtube.com/watch?v=6pF6UuxSoT0
+tags:
+- media
+title: '"Women Are The Problem" - Why A Female Psychopath Can''t Relate To Her Audience'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-14'
+video_id: 6pF6UuxSoT0
 ---
+
+
 
 # "Women Are The Problem" - Why A Female Psychopath Can't Relate To Her Audience
 

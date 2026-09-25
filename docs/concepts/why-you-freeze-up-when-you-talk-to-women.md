@@ -1,17 +1,22 @@
 ---
-title: Why You Freeze Up When You Talk to Women
-created: 2026-08-23
-updated: 2026-08-23
-type: concept
-classification: psychology.dating
-domain: psychology
-tags: ["relationships", "anxiety", "communication", "social-skills"]
-sources: [raw/videos/healthygamergg/Why You Freeze Up When You Talk to Women _ Lovemaxxing w_ Dr. K.md]
-confidence: medium
-status: active
-reviewed: 2026-08-23
 backlinks: []
+classification: psychology.dating
+confidence: medium
+created: 2026-08-23
+domain: psychology
+reviewed: 2026-08-23
+sources:
+- raw/videos/healthygamergg/Why You Freeze Up When You Talk to Women _ Lovemaxxing
+  w_ Dr. K.md
+status: active
+tags:
+- general
+title: Why You Freeze Up When You Talk to Women
+type: concept
+updated: 2026-08-23
 ---
+
+
 
 # Why You Freeze Up When You Talk to Women
 

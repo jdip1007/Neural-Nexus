@@ -1,17 +1,19 @@
 ---
-title: Technology
-created: 2026-09-02
-updated: 2026-09-02
-type: concept
-classification: technology.general
-domain: technology
-tags: ["digital"]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: technology.general
+confidence: high
+created: 2026-09-02
+domain: technology
+reviewed: 2026-09-02
+sources: []
+status: active
+tags:
+- general
+title: Technology
+type: concept
+updated: 2026-09-02
 ---
+
 
 # Technology
 

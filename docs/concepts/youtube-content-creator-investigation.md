@@ -1,12 +1,17 @@
 ---
-title: "youtube-content-creator-investigation"
+classification: youtube
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: youtube-content-creator-investigation
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # youtube-content-creator-investigation
 

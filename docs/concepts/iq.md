@@ -1,12 +1,15 @@
 ---
-title: "Iq"
+classification: iq
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: psychology
-tags: [iq]
 status: stub
+tags:
+- iq
+title: Iq
+type: concept
+updated: 2026-09-25
 ---
+
 
 # Iq
 

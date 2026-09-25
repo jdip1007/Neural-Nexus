@@ -1,22 +1,20 @@
 ---
-{
-  "title": "I built my dream podcast studio in Austin.",
-  "created": "2026-09-14",
-  "updated": "2026-09-14",
-  "type": "video",
-  "tags": [
-    "business",
-    "media"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=bxzmUeNN8ac"
-  ],
-  "video_id": "bxzmUeNN8ac",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-14 19:55:12"
-}
+channel: Chris Willx
+created: '2026-09-14'
+domain: general
+ingestion_date: '2026-09-14 19:55:12'
+sources:
+- https://www.youtube.com/watch?v=bxzmUeNN8ac
+tags:
+- media
+title: I built my dream podcast studio in Austin.
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-14'
+video_id: bxzmUeNN8ac
 ---
+
+
 
 # I built my dream podcast studio in Austin.
 

@@ -1,19 +1,23 @@
 ---
-title: JiDion's Past Is Catching Up To Him
-created: 2026-09-14T00:22:01
-updated: 2026-09-14T00:22:01
-type: video
-classification: hermes.internet-culture.youtube-creator
-domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "content-creation", "internet-culture", "marketing"]
-sources: ["https://www.youtube.com/watch?v=fresh001_2026"]
-video_id: fresh001_2026
-duration: 15-25 minutes
 channel: Internet Anarchist
+classification: hermes.internet-culture.youtube-creator
 confidence: high
-status: active
+created: 2026-09-14 00:22:01
+domain: hermes
+duration: 15-25 minutes
 reviewed: 2026-09-14
+sources:
+- https://www.youtube.com/watch?v=fresh001_2026
+status: active
+tags:
+- general
+title: JiDion's Past Is Catching Up To Him
+type: video
+updated: 2026-09-14 00:22:01
+video_id: fresh001_2026
 ---
+
+
 
 # JiDion's Past Is Catching Up To Him
 

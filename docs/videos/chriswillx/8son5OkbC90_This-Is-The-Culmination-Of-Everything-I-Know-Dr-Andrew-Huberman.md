@@ -1,22 +1,20 @@
 ---
-{
-  "title": "\u201cThis Is The Culmination Of Everything I Know\u201d - Dr Andrew Huberman",
-  "created": "2026-09-17",
-  "updated": "2026-09-17",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=8son5OkbC90"
-  ],
-  "video_id": "8son5OkbC90",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-17"
-}
+channel: Chris Willx
+created: '2026-09-17'
+domain: general
+ingestion_date: '2026-09-17'
+sources:
+- https://www.youtube.com/watch?v=8son5OkbC90
+tags:
+- general
+title: “This Is The Culmination Of Everything I Know” - Dr Andrew Huberman
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-17'
+video_id: 8son5OkbC90
 ---
+
+
 
 # “This Is The Culmination Of Everything I Know” - Dr Andrew Huberman
 

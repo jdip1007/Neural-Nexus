@@ -1,16 +1,20 @@
 ---
-title: Optimisation Techniques for Small-Scale Simulation
-created: 2026-07-23
-updated: 2026-07-23
-type: concept
 classification: computer-science.simulation.optimisation
-domain: devops
-tags: ["game-development", "computer-science", "data-structures", "rendering", "web-performance"]
-sources: [raw/articles/sand-game-simulation.md]
 confidence: high
-status: active
+created: 2026-07-23
+domain: devops
 reviewed: 2026-07-23
+sources:
+- raw/articles/sand-game-simulation.md
+status: active
+tags:
+- general
+title: Optimisation Techniques for Small-Scale Simulation
+type: concept
+updated: 2026-07-23
 ---
+
+
 
 # Optimisation Techniques for Small-Scale Simulation
 

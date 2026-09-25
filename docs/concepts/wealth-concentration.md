@@ -1,17 +1,21 @@
 ---
-title: Wealth Concentration
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: economics.wealth-distribution
-domain: economics
-tags: [wealth-concentration, economic-inequality, wealth-inequality, wealth-distribution, economic-power, wealth-accumulation, economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: high
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: economics.wealth-distribution
+confidence: high
+created: 2026-08-02
+domain: economics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Wealth Concentration
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Wealth Concentration
 

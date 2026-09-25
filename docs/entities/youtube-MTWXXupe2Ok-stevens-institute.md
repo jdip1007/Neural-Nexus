@@ -1,16 +1,20 @@
 ---
-title: Stevens Institute
-created: 2026-08-22
-updated: 2026-08-22
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "organizations"]
-sources: [raw/videos/youtube-MTWXXupe2Ok-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-22
+domain: ai
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-MTWXXupe2Ok-transcript.md
+status: active
+tags:
+- general
+title: Stevens Institute
+type: entity
+updated: 2026-08-22
 ---
+
+
 
 # Stevens Institute
 

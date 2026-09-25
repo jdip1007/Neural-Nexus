@@ -1,17 +1,21 @@
 ---
-title: "Solucionar fallo en mando de luces de moto"
-created: "2026-09-14"
-updated: "2026-09-14"
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ['automotive', 'hardware', 'tutorial', 'daves-garage', 'youtube', 'tutorial', 'automotive']
-sources: ["https://www.youtube.com/watch?v=BKi_mDawOPg"]
-confidence: medium
-status: active
-reviewed: "2026-09-14"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-14'
+domain: technology
+reviewed: '2026-09-14'
+sources:
+- https://www.youtube.com/watch?v=BKi_mDawOPg
+status: active
+tags:
+- general
+title: Solucionar fallo en mando de luces de moto
+type: reading
+updated: '2026-09-14'
 ---
+
+
 
 # Solucionar fallo en mando de luces de moto
 

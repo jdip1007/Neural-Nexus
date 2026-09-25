@@ -1,17 +1,20 @@
 ---
-title: Criminal Psychology
-created: 2026-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.criminal-forensic.criminal-psychology
-domain: psychology
-tags: [criminal-psychology, forensic-psychology, criminal-behavior]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.criminal-forensic.criminal-psychology
+confidence: high
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources: []
+status: active
+tags:
+- general
+title: Criminal Psychology
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Criminal Psychology
 

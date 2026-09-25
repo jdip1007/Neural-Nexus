@@ -1,11 +1,14 @@
 ---
-title: The Deserved Downfall of Tom Segura
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: The Deserved Downfall of Tom Segura
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # The Deserved Downfall of Tom Segura
 

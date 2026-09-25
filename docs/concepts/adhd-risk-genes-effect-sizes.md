@@ -1,17 +1,21 @@
 ---
-title: ADHD Risk Genes and Effect Sizes
-created: 2026-08-06
-updated: 2026-08-06
-type: concept
-classification: psychology.mental-health
-domain: psychology
-tags: [adhd, genetics, genome-wide-association, polygenic, neuropsychiatry]
-sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
-confidence: high
-status: active
-reviewed: 2026-08-06
 backlinks: []
+classification: psychology.mental-health
+confidence: high
+created: 2026-08-06
+domain: psychology
+reviewed: 2026-08-06
+sources:
+- raw/articles/adhd-genetics-nature-genetics-2025.md
+status: active
+tags:
+- adhd
+title: ADHD Risk Genes and Effect Sizes
+type: concept
+updated: 2026-08-06
 ---
+
+
 
 # ADHD Risk Genes and Effect Sizes
 

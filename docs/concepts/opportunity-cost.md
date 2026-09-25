@@ -1,17 +1,21 @@
 ---
-title: Opportunity Cost
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
-classification: finance.personal-finance
-domain: finance
-tags: [investment-risk, financial-planning, personal-finance]
-sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
-confidence: high
-status: active
-reviewed: 2026-07-25
 backlinks: []
+classification: finance.personal-finance
+confidence: high
+created: 2026-07-25
+domain: finance
+reviewed: 2026-07-25
+sources:
+- raw/videos/savings-insurance-hong-kong-myths-bowtie.md
+status: active
+tags:
+- general
+title: Opportunity Cost
+type: concept
+updated: 2026-07-25
 ---
+
+
 
 # Opportunity Cost
 

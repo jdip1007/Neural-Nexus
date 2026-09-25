@@ -1,11 +1,17 @@
 ---
-title: How Penguinz0 Ended Kwebbelkop's Career
 created: 2026-09-21
-updated: 2026-09-21
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/TeJaFf9z4Rc.md
+tags:
+- general
+title: How Penguinz0 Ended Kwebbelkop's Career
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/TeJaFf9z4Rc.md]
+updated: 2026-09-21
 ---
+
+
+
 
 # How Penguinz0 Ended Kwebbelkop's Career
 

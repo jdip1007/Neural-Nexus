@@ -1,18 +1,22 @@
 ---
-title: America's Latest Farming Crisis - Summary
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-r5xxTIPKY8s-transcript.md]
-published: 2026-08-29
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-29
+domain: ai
+published: 2026-08-29
 reviewed: 2026-08-29
+sources:
+- raw/videos/youtube-r5xxTIPKY8s-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: America's Latest Farming Crisis - Summary
+type: reading
+updated: 2026-08-29
 ---
+
+
 
 # America's Latest Farming Crisis - Summary
 

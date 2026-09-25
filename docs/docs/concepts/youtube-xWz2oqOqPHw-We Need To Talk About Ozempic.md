@@ -1,14 +1,15 @@
 ---
-title: We Need To Talk About Ozempic
 created: 2026-09-01
-updated: 2026-09-01
-type: concept
-tags:
-- youtube
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/We Need To Talk About Ozempic.md
-domain: psychology
+tags:
+- general
+title: We Need To Talk About Ozempic
+type: concept
+updated: 2026-09-01
 ---
+
 
 # We Need To Talk About Ozempic
 

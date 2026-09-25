@@ -1,23 +1,19 @@
 ---
-{
-  "title": "How To Actually Have An Elite Mindset",
-  "created": "2026-09-16T02:21:19.089852",
-  "updated": "2026-09-16T02:21:19.089862",
-  "type": "video",
-  "tags": [
-    "mental_health",
-    "personal_growth",
-    "men_health",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Wu7zcamEAI0"
-  ],
-  "duration": "28:23",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-16T02:21:19.089852'
+domain: general
+duration: '28:23'
+sources:
+- https://www.youtube.com/watch?v=Wu7zcamEAI0
+tags:
+- general
+title: How To Actually Have An Elite Mindset
+type: video
+updated: '2026-09-16T02:21:19.089862'
 ---
+
+
+
 
 # How To Actually Have An Elite Mindset
 

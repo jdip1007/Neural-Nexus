@@ -1,18 +1,19 @@
 ---
-title: '"Blue Zone Science" Is A Total Scam'
+channel: Chris Willx
 created: '2026-09-05'
-updated: '2026-09-05'
-type: reading
-tags:
-- technology
+domain: psychology
+ingestion_date: '2026-09-05 17:07:05'
 sources:
 - https://www.youtube.com/watch?v=YGAjgLtJJFI
-video_id: YGAjgLtJJFI
-channel: Chris Willx
+tags:
+- general
+title: '"Blue Zone Science" Is A Total Scam'
 transcript_api: transcriptapi.com
-ingestion_date: '2026-09-05 17:07:05'
-domain: psychology
+type: reading
+updated: '2026-09-05'
+video_id: YGAjgLtJJFI
 ---
+
 
 # "Blue Zone Science" Is A Total Scam
 

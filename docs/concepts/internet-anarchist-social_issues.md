@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Social_Issues
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The Dark Life After To Catch a Predator.md
+tags:
+- general
+title: Internet Anarchist - Social_Issues
 type: concept
-tags: [youtube, internet-anarchist, social_issues, documentary]
-sources: [The Dark Life After To Catch a Predator.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Social_Issues
 

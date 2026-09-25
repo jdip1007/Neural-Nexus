@@ -1,17 +1,20 @@
 ---
-title: Relationships
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
-classification: psychology.relationships
-domain: psychology
-tags: [relationships, communication, emotions, social-dynamics]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-07-25
 backlinks: []
+classification: psychology.relationships
+confidence: high
+created: 2026-07-25
+domain: psychology
+reviewed: 2026-07-25
+sources: []
+status: active
+tags:
+- general
+title: Relationships
+type: concept
+updated: 2026-07-25
 ---
+
+
 
 # Relationships
 

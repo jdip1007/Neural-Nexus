@@ -1,17 +1,21 @@
 ---
-title: Why Smart People Are Bad At Dating - HealthyGamerGG
-created: 2026-08-20
-updated: 2026-08-20
-type: reading
-classification: psychology.mental_health
-domain: psychology
-tags: ["healthy-gamer-gg", "youtube", "mental-health", "therapy", "relationships"]
-sources: ["raw/videos/healthygamergg/youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-20
 backlinks: []
+classification: psychology.mental_health
+confidence: medium
+created: 2026-08-20
+domain: psychology
+reviewed: 2026-08-20
+sources:
+- raw/videos/healthygamergg/youtube-QTTCqGtT6I4-why-smart-people-are-bad-at-dating.md
+status: active
+tags:
+- general
+title: Why Smart People Are Bad At Dating - HealthyGamerGG
+type: reading
+updated: 2026-08-20
 ---
+
+
 
 # Why Smart People Are Bad At Dating - HealthyGamerGG
 

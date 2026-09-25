@@ -1,17 +1,16 @@
 ---
-title: Deep Dive into Relationships and Attachment Styles | MEMBERS' LIVESTREAM
 created: 2026-08-26 18:54:45.744560
-updated: 2026-08-26 18:54:45.744570
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=fpXFXQfFa1c
-domain: psychology
+tags:
+- dr-k
+title: Deep Dive into Relationships and Attachment Styles | MEMBERS' LIVESTREAM
+type: reading
+updated: 2026-08-26 18:54:45.744570
 ---
+
+
 
 # Deep Dive into Relationships and Attachment Styles | MEMBERS' LIVESTREAM
 

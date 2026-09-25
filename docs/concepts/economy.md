@@ -1,12 +1,17 @@
 ---
-title: "Economy"
+classification: economy
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: Economy
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # Economy
 

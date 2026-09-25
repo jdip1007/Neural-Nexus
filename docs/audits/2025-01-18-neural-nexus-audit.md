@@ -1,17 +1,20 @@
 ---
-title: Neural Nexus Audit - 2025-01-18
-created: 2025-01-18
-updated: 2025-01-18
-type: comparison
-classification: systems.knowledge-systems
-domain: hermes
-tags: ["quality-assurance", "knowledge-base", "systems-audit"]
-sources: []
-confidence: high
-status: active
-reviewed: 2025-01-18
 backlinks: []
+classification: systems.knowledge-systems
+confidence: high
+created: 2025-01-18
+domain: hermes
+reviewed: 2025-01-18
+sources: []
+status: active
+tags:
+- general
+title: Neural Nexus Audit - 2025-01-18
+type: comparison
+updated: 2025-01-18
 ---
+
+
 
 # Neural Nexus Comprehensive Audit Report
 

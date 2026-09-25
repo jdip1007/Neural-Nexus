@@ -1,15 +1,19 @@
 ---
-title: Content Creator Burnout and Mental Health
-created: 2026-08-17T14:51:24.335089
-updated: 2026-08-17T14:51:24.335090
-type: reading
-tags: ["internet-culture"]
-sources: [raw/videos/internetanarchist/u1_v2w3x4y.md]
-video_id: u1_v2w3x4y
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-08-17 14:51:24.335089
 domain: internet-culture
+duration: 15-25 minutes
+sources:
+- raw/videos/internetanarchist/u1_v2w3x4y.md
+tags:
+- general
+title: Content Creator Burnout and Mental Health
+type: reading
+updated: 2026-08-17 14:51:24.335090
+video_id: u1_v2w3x4y
 ---
+
+
 
 # Content Creator Burnout and Mental Health
 

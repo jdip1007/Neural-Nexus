@@ -1,11 +1,14 @@
 ---
-title: 'Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman - Summary
 

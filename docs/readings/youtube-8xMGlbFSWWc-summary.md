@@ -1,18 +1,22 @@
 ---
-title: Insane Conspiracy Theories That Turned Out to be True - Summary
-created: 2026-08-08
-updated: 2026-08-08
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-8xMGlbFSWWc-transcript.md]
-published: 2026-08-08
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-08
+domain: ai
+published: 2026-08-08
 reviewed: 2026-08-08
+sources:
+- raw/videos/youtube-8xMGlbFSWWc-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Insane Conspiracy Theories That Turned Out to be True - Summary
+type: reading
+updated: 2026-08-08
 ---
+
+
 
 # Insane Conspiracy Theories That Turned Out to be True - Summary
 

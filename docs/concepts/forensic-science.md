@@ -1,17 +1,20 @@
 ---
-title: Forensic Science
-created: 2026-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.criminal-forensic.forensic-science
-domain: psychology
-tags: [forensic-science, criminalistics, evidence-analysis, criminal-investigation, forensic-technology]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.criminal-forensic.forensic-science
+confidence: high
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources: []
+status: active
+tags:
+- general
+title: Forensic Science
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Forensic Science
 

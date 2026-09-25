@@ -1,18 +1,19 @@
 ---
-title: 'Q&A: Becoming A Dad, Favourite Peptides & Red Rising'
+channel: Chris Willx
 created: '2026-09-05'
-updated: '2026-09-05'
-type: reading
-tags:
-- technology
+domain: psychology
+ingestion_date: '2026-09-05 17:06:58'
 sources:
 - https://www.youtube.com/watch?v=8Oj3NxSLP1U
-video_id: 8Oj3NxSLP1U
-channel: Chris Willx
+tags:
+- general
+title: 'Q&A: Becoming A Dad, Favourite Peptides & Red Rising'
 transcript_api: transcriptapi.com
-ingestion_date: '2026-09-05 17:06:58'
-domain: psychology
+type: reading
+updated: '2026-09-05'
+video_id: 8Oj3NxSLP1U
 ---
+
 
 # Q&A: Becoming A Dad, Favourite Peptides & Red Rising
 

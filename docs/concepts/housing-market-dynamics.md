@@ -1,17 +1,21 @@
 ---
-title: Housing Market Dynamics
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: real-estate.markets
-domain: real-estate
-tags: [housing-market-dynamics, property-values, home-ownership, generational-wealth, housing-affordability, real-estate-economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: real-estate.markets
+confidence: medium
+created: 2026-08-02
+domain: real-estate
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Housing Market Dynamics
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Housing Market Dynamics
 

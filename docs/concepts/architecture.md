@@ -1,16 +1,19 @@
 ---
-title: Architecture
-created: 2026-08-20
-updated: 2026-08-20
-type: concept
-domain: ai
 classification: artificial-intelligence.architecture
-tags: ["system-design", "software-architecture"]
-sources: []
 confidence: high
-status: active
+created: 2026-08-20
+domain: ai
 reviewed: 2026-08-20
+sources: []
+status: active
+tags:
+- general
+title: Architecture
+type: concept
+updated: 2026-08-20
 ---
+
+
 
 # Architecture
 

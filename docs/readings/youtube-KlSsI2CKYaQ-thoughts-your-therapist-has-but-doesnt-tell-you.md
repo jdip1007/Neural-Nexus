@@ -1,17 +1,21 @@
 ---
-title: Thoughts Your Therapist Has, But Doesn't Tell You - HealthyGamerGG
-created: 2026-08-20
-updated: 2026-08-20
-type: reading
-classification: psychology.mental_health
-domain: psychology
-tags: ["healthy-gamer-gg", "youtube", "mental-health", "therapy", "therapy"]
-sources: ["raw/videos/healthygamergg/youtube-KlSsI2CKYaQ-thoughts-your-therapist-has-but-doesnt-tell-you.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-20
 backlinks: []
+classification: psychology.mental_health
+confidence: medium
+created: 2026-08-20
+domain: psychology
+reviewed: 2026-08-20
+sources:
+- raw/videos/healthygamergg/youtube-KlSsI2CKYaQ-thoughts-your-therapist-has-but-doesnt-tell-you.md
+status: active
+tags:
+- general
+title: Thoughts Your Therapist Has, But Doesn't Tell You - HealthyGamerGG
+type: reading
+updated: 2026-08-20
 ---
+
+
 
 # Thoughts Your Therapist Has, But Doesn't Tell You - HealthyGamerGG
 

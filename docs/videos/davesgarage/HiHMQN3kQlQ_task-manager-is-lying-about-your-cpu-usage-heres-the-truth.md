@@ -1,17 +1,20 @@
 ---
-title: Task Manager is LYING About Your CPU Usage (Here's the Truth)
-created: 2026-08-28
-updated: 2026-08-28
-type: reading
-classification: technology.youtube-channel.davesgarage
-domain: devops
-tags: ["microsoft", "hardware"]
-sources: [raw/videos/davesgarage/HiHMQN3kQlQ_task-manager-is-lying-about-your-cpu-usage-heres-the-truth.md]
-confidence: high
-status: active
-reviewed: 2026-08-28
 backlinks: []
+classification: technology.youtube-channel.davesgarage
+confidence: high
+created: 2026-08-28
+domain: devops
+reviewed: 2026-08-28
+sources:
+- raw/videos/davesgarage/HiHMQN3kQlQ_task-manager-is-lying-about-your-cpu-usage-heres-the-truth.md
+status: active
+tags:
+- general
+title: Task Manager is LYING About Your CPU Usage (Here's the Truth)
+type: reading
+updated: 2026-08-28
 ---
+
 
 # Task Manager is LYING About Your CPU Usage (Here's the Truth)
 

@@ -1,18 +1,17 @@
 ---
-title: How Penguinz0 Destroyed YouTube's Worst Content Thief
-created: 2026-09-07 22:49:23
-updated: 2026-09-07 22:49:23
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: AltzlEgXO_M
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-07 22:49:23
 domain: general
+duration: 15-25 minutes
+tags:
+- general
+title: How Penguinz0 Destroyed YouTube's Worst Content Thief
+type: reading
+updated: 2026-09-07 22:49:23
+video_id: AltzlEgXO_M
 ---
+
+
 
 # How Penguinz0 Destroyed YouTube's Worst Content Thief
 

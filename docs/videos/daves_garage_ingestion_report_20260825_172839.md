@@ -1,16 +1,18 @@
 ---
-title: Dave's Garage YouTube Ingestion Report
-created: 2026-08-25
-updated: 2026-08-25
-type: reading
-domain: general
-tags: ["youtube", "report"]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-25
 backlinks: []
+confidence: high
+created: 2026-08-25
+domain: general
+reviewed: 2026-08-25
+sources: []
+status: active
+tags:
+- general
+title: Dave's Garage YouTube Ingestion Report
+type: reading
+updated: 2026-08-25
 ---
+
 
 # Dave's Garage YouTube Ingestion Report
 

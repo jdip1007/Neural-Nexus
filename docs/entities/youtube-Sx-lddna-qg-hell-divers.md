@@ -1,16 +1,20 @@
 ---
-title: Hell Divers
-created: 2026-08-24
-updated: 2026-08-24
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-Sx-lddna-qg-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-24
+domain: ai
 reviewed: 2026-08-24
+sources:
+- raw/videos/youtube-Sx-lddna-qg-transcript.md
+status: active
+tags:
+- general
+title: Hell Divers
+type: entity
+updated: 2026-08-24
 ---
+
+
 
 # Hell Divers
 

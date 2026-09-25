@@ -1,24 +1,21 @@
 ---
-{
-  "title": "Why You Need Constant Reassurance",
-  "created": "2026-09-13T00:47:36.501744",
-  "updated": "2026-09-13T00:47:36.501755",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "healthygamer",
-    "mental health",
-    "relationship"
-  ],
-  "sources": [
-    "https://youtu.be/e101"
-  ],
-  "video_id": "e101",
-  "video_length": "18 minutes",
-  "video_views": "Unknown",
-  "video_published": "Unknown"
-}
+created: '2026-09-13T00:47:36.501744'
+domain: general
+sources:
+- https://youtu.be/e101
+tags:
+- general
+title: Why You Need Constant Reassurance
+type: video
+updated: '2026-09-13T00:47:36.501755'
+video_id: e101
+video_length: 18 minutes
+video_published: Unknown
+video_views: Unknown
 ---
+
+
+
 
 # Why You Need Constant Reassurance
 

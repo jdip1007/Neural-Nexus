@@ -1,3 +1,16 @@
+---
+created: &id001 2026-09-25
+domain: media
+tags:
+- general
+title: Chris Willx Ingestion Report
+type: reading
+updated: *id001
+---
+
+
+
+
 
 # Chris Willx YouTube Ingestion Report
 

@@ -1,11 +1,15 @@
 ---
-title: So... Is Private Equity Collapsing Yet?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: So... Is Private Equity Collapsing Yet?
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # So... Is Private Equity Collapsing Yet?
 

@@ -1,16 +1,20 @@
 ---
-title: Reproducibility Crisis
-created: 2026-07-18
-updated: 2026-07-18
-type: concept
 classification: research-methodology.reproducibility
-domain: ai, biotech, research
-tags: [reproducibility, research-crisis, scientific-method]
-sources: [raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md]
 confidence: high
-status: active
+created: 2026-07-18
+domain: ai, biotech, research
 reviewed: 2026-07-18
+sources:
+- raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
+status: active
+tags:
+- general
+title: Reproducibility Crisis
+type: concept
+updated: 2026-07-18
 ---
+
+
 
 # Reproducibility Crisis
 

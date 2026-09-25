@@ -1,18 +1,22 @@
 ---
-title: Why Gen Z DON'T WANT Kids - Summary
-created: 2026-08-30
-updated: 2026-08-30
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-aPyFM0Cav4M-transcript.md]
-published: 2026-08-30
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-30
+domain: ai
+published: 2026-08-30
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-aPyFM0Cav4M-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why Gen Z DON'T WANT Kids - Summary
+type: reading
+updated: 2026-08-30
 ---
+
+
 
 # Why Gen Z DON'T WANT Kids - Summary
 

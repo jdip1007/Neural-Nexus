@@ -1,18 +1,20 @@
 ---
 created: '2026-09-15T20:13:04.161265'
+domain: general
 duration: 1 hour, 37 minutes
 sources:
 - https://www.youtube.com/watch?v=VaoGl-soL1g
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: Raccoon Wars, Lindsay Clancy, NFL Scammers & More
 type: video
 updated: '2026-09-15T20:13:04.161266'
 video_id: VaoGl-soL1g
 views: 279K
 ---
+
+
+
 
 # Raccoon Wars, Lindsay Clancy, NFL Scammers & More
 

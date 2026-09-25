@@ -1,16 +1,20 @@
 ---
-title: Marine Corp
-created: 2026-08-09
-updated: 2026-08-09
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, organizations]
-sources: [raw/videos/youtube-0UvrxfAgu48-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-09
+domain: ai
 reviewed: 2026-08-09
+sources:
+- raw/videos/youtube-0UvrxfAgu48-transcript.md
+status: active
+tags:
+- general
+title: Marine Corp
+type: entity
+updated: 2026-08-09
 ---
+
+
 
 # Marine Corp
 

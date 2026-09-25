@@ -1,3 +1,14 @@
+---
+created: 2026-09-25
+domain: psychology
+tags:
+- general
+title: Log
+type: reading
+updated: 2026-09-25
+---
+
+
 ## [2026-09-05] process | HealthyGamerGG YouTube Videos
 
 - **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)

@@ -1,16 +1,18 @@
 ---
-title: "Dude I'm Broke: Why Is My Data Worth Harvesting?"
-created: 2026-09-02
-updated: 2026-09-02
-type: reading
-classification: education.youtube-channel.howmoneyworks
-domain: finance
-tags: ["finance", "business"]
-confidence: high
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: education.youtube-channel.howmoneyworks
+confidence: high
+created: 2026-09-02
+domain: finance
+reviewed: 2026-09-02
+status: active
+tags:
+- general
+title: 'Dude I''m Broke: Why Is My Data Worth Harvesting?'
+type: reading
+updated: 2026-09-02
 ---
+
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting?
 

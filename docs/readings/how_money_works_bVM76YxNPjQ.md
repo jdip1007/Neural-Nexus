@@ -1,23 +1,20 @@
 ---
-title: How The Wolf of Wall Street Scam Actually Worked
+channel: How Money Works
 created: 2026-09-09 22:23:27.302044
-updated: 2026-09-09 22:23:27.302053
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Market
-- Wealth
-- Finance
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=bVM76YxNPjQ
-channel: How Money Works
+tags:
+- general
+title: How The Wolf of Wall Street Scam Actually Worked
+type: reading
+updated: 2026-09-09 22:23:27.302053
 video_id: bVM76YxNPjQ
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # How The Wolf of Wall Street Scam Actually Worked
 

@@ -1,16 +1,19 @@
 ---
-title: Inflammation
-created: 2026-08-26
-updated: 2026-08-26
-type: concept
 classification: biology.immunology.inflammation
-domain: biology
-tags: ["immune-response", "cytokines", "chronic-inflammation", "acute-inflammation", "metabolic-disorder", "neuroinflammation"]
-sources: []
 confidence: high
-status: active
+created: 2026-08-26
+domain: biology
 reviewed: 2026-08-26
+sources: []
+status: active
+tags:
+- general
+title: Inflammation
+type: concept
+updated: 2026-08-26
 ---
+
+
 
 # Inflammation
 

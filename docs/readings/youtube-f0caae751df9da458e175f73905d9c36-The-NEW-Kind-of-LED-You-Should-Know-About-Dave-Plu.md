@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-18T01:19:27.402962'
+domain: general
 duration: 14 minutes
 sources:
 - https://www.youtube.com/watch?v=4c5f7WzQzY
 tags:
-- system
-- assembly
-- programming
 - tech
-- tutorial
-- ethernet
-- software
 - diy
-- network
-- hardware
 - code
 - led
-- development
-- youtube
-- daves-garage
 title: 'The NEW Kind of LED You Should Know About: Dave Plummer'
 type: video
 updated: '2026-09-18T01:19:27.402974'
 video_id: 4c5f7WzQzY
 views: 1.1M
 ---
+
+
+
 
 # The NEW Kind of LED You Should Know About: Dave Plummer
 

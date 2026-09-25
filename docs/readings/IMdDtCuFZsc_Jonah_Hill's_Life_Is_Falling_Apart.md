@@ -1,18 +1,17 @@
 ---
-title: Jonah Hill's Life Is Falling Apart
-created: 2026-09-04 22:19:13
-updated: 2026-09-04 22:19:13
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- mental-health
-video_id: IMdDtCuFZsc
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-04 22:19:13
 domain: psychology
+duration: 15-25 minutes
+tags:
+- general
+title: Jonah Hill's Life Is Falling Apart
+type: reading
+updated: 2026-09-04 22:19:13
+video_id: IMdDtCuFZsc
 ---
+
+
 
 # Jonah Hill's Life Is Falling Apart
 

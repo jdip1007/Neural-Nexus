@@ -1,19 +1,19 @@
 ---
 created: '2026-09-10T18:28:32.291805'
+domain: general
 duration: 10 minutes, 5 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy_real8
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: '"I Have A Problem With Love On The Spectrum" - Jeff Dye'
 type: reading
 updated: '2026-09-10T18:28:32.291810'
 video_id: dummy_real8
 views: Unknown
-domain: general
 ---
+
+
 
 # "I Have A Problem With Love On The Spectrum" - Jeff Dye
 

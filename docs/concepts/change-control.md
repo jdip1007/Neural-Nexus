@@ -1,16 +1,19 @@
 ---
-title: Change Control
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.regulatory
-domain: laboratory
-tags: [change-control, quality-management, regulatory-compliance]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- general
+title: Change Control
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Change Control
 

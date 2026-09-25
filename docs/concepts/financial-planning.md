@@ -1,17 +1,21 @@
 ---
-title: Financial Planning
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
-classification: finance.personal-finance
-domain: finance
-tags: [financial-planning, personal-finance]
-sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
-confidence: medium
-status: draft
-reviewed: 2026-07-25
 backlinks: []
+classification: finance.personal-finance
+confidence: medium
+created: 2026-07-25
+domain: finance
+reviewed: 2026-07-25
+sources:
+- raw/videos/savings-insurance-hong-kong-myths-bowtie.md
+status: draft
+tags:
+- general
+title: Financial Planning
+type: concept
+updated: 2026-07-25
 ---
+
+
 
 # Financial Planning
 

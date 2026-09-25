@@ -1,11 +1,13 @@
 ---
-title: "X4Y5Z6A7B_The Dark Side Of Influencer Culture"
-type: reading
-domain: general
-tags: [youtube]
 created: 2026-09-12
+domain: general
+tags:
+- general
+title: X4Y5Z6A7B_The Dark Side Of Influencer Culture
+type: reading
 updated: 2026-09-12
 ---
+
 # The Dark Side of Influencer Culture
 
 **Source**: [https://www.youtube.com/watch?v=x4y5z6a7b](https://www.youtube.com/watch?v=x4y5z6a7b)  

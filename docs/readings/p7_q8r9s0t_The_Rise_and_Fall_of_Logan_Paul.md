@@ -1,20 +1,17 @@
 ---
-title: The Rise and Fall of Logan Paul
-created: 2026-08-28 18:55:19
-updated: 2026-08-28 18:55:19
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-- internet-culture
-- mental-health
-video_id: p7_q8r9s0t
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-08-28 18:55:19
 domain: psychology
+duration: 15-25 minutes
+tags:
+- general
+title: The Rise and Fall of Logan Paul
+type: reading
+updated: 2026-08-28 18:55:19
+video_id: p7_q8r9s0t
 ---
+
+
 
 # The Rise and Fall of Logan Paul
 

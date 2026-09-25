@@ -1,17 +1,21 @@
 ---
-title: "Brico Asiento Saab 93 1/2"
-created: "2026-09-14"
-updated: "2026-09-14"
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ['automotive', 'hardware', 'tutorial', 'daves-garage', 'youtube', 'tutorial', 'automotive']
-sources: ["https://www.youtube.com/watch?v=w-AzgOc8rE8"]
-confidence: medium
-status: active
-reviewed: "2026-09-14"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-14'
+domain: technology
+reviewed: '2026-09-14'
+sources:
+- https://www.youtube.com/watch?v=w-AzgOc8rE8
+status: active
+tags:
+- general
+title: Brico Asiento Saab 93 1/2
+type: reading
+updated: '2026-09-14'
 ---
+
+
 
 # Brico Asiento Saab 93 1/2
 

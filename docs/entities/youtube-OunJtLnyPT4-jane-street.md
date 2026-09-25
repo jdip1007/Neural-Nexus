@@ -1,16 +1,20 @@
 ---
-title: Jane Street
-created: 2026-08-13
-updated: 2026-08-13
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-OunJtLnyPT4-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-13
+domain: ai
 reviewed: 2026-08-13
+sources:
+- raw/videos/youtube-OunJtLnyPT4-transcript.md
+status: active
+tags:
+- general
+title: Jane Street
+type: entity
+updated: 2026-08-13
 ---
+
+
 
 # Jane Street
 

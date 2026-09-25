@@ -1,11 +1,14 @@
 ---
-title: 'Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2
 

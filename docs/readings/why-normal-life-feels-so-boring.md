@@ -1,21 +1,19 @@
 ---
-{
-  "title": "Why Normal Life Feels So Boring",
-  "created": "2026-09-21T04:29:12.564070",
-  "updated": "2026-09-21T04:29:12.564072",
-  "type": "video",
-  "tags": [
-    "mental_health",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=RdmYUULKf7s"
-  ],
-  "duration": "22:38",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-21T04:29:12.564070'
+domain: general
+duration: '22:38'
+sources:
+- https://www.youtube.com/watch?v=RdmYUULKf7s
+tags:
+- general
+title: Why Normal Life Feels So Boring
+type: video
+updated: '2026-09-21T04:29:12.564072'
 ---
+
+
+
 
 # Why Normal Life Feels So Boring
 

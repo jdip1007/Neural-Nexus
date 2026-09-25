@@ -1,11 +1,14 @@
 ---
-title: 'Ultimate LED Effects: New Software and Hardware! - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Ultimate LED Effects: New Software and Hardware! - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Ultimate LED Effects: New Software and Hardware! - Summary
 

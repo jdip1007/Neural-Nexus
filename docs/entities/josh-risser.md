@@ -1,17 +1,21 @@
 ---
-title: Josh Risser
-created: 2026-08-02
-updated: 2026-08-02
-type: entity
-classification: person.media
-domain: media
-tags: ["narrator", "youtube-creator", "educational-media", "media-production"]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: high
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: person.media
+confidence: high
+created: 2026-08-02
+domain: media
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Josh Risser
+type: entity
+updated: 2026-08-02
 ---
+
+
 
 # Josh Risser
 

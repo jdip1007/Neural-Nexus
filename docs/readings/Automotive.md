@@ -1,17 +1,19 @@
 ---
-title: "Automotive"
-created: "2026-09-24"
-updated: "2026-09-24"
-type: reading
-classification: technology.automotive
-domain: technology
-tags: ["automotive", "vehicles", "cars", "electric", "modifications"]
-sources: []
-confidence: high
-status: active
-reviewed: "2026-09-24"
 backlinks: []
+classification: technology.automotive
+confidence: high
+created: '2026-09-24'
+domain: technology
+reviewed: '2026-09-24'
+sources: []
+status: active
+tags:
+- cars
+title: Automotive
+type: reading
+updated: '2026-09-24'
 ---
+
 
 # Automotive
 

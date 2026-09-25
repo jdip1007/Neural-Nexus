@@ -1,17 +1,21 @@
 ---
-title: AI's Impact on Science - Nature 2026
-created: 2026-07-30
-updated: 2026-07-30
-type: reading
-classification: research-methodology.knowledge-management
-domain: ai
-tags: [ai, research, scientific-method, knowledge-management, analysis]
-sources: [raw/articles/ai-impacts-science-nature-2026.md]
-confidence: high
-status: active
-reviewed: 2026-07-30
 backlinks: []
+classification: research-methodology.knowledge-management
+confidence: high
+created: 2026-07-30
+domain: ai
+reviewed: 2026-07-30
+sources:
+- raw/articles/ai-impacts-science-nature-2026.md
+status: active
+tags:
+- general
+title: AI's Impact on Science - Nature 2026
+type: reading
+updated: 2026-07-30
 ---
+
+
 
 # AI's Impact on Science - Nature 2026
 

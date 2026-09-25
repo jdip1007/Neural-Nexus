@@ -1,16 +1,20 @@
 ---
-title: That Don
-created: 2026-08-09
-updated: 2026-08-09
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-k0ksj42YJaM-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-09
+domain: ai
 reviewed: 2026-08-09
+sources:
+- raw/videos/youtube-k0ksj42YJaM-transcript.md
+status: active
+tags:
+- general
+title: That Don
+type: entity
+updated: 2026-08-09
 ---
+
+
 
 # That Don
 

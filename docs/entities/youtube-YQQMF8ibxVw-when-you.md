@@ -1,16 +1,20 @@
 ---
-title: When You
-created: 2026-08-09
-updated: 2026-08-09
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-YQQMF8ibxVw-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-09
+domain: ai
 reviewed: 2026-08-09
+sources:
+- raw/videos/youtube-YQQMF8ibxVw-transcript.md
+status: active
+tags:
+- general
+title: When You
+type: entity
+updated: 2026-08-09
 ---
+
+
 
 # When You
 

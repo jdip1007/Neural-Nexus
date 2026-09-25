@@ -1,17 +1,21 @@
 ---
-title: Inheritance Economics
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: economics.wealth-distribution
-domain: economics
-tags: [inheritance-economics, generational-wealth, wealth-transfer, intergenerational, estate-planning, wealth-distribution, economic-justice, economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: economics.wealth-distribution
+confidence: medium
+created: 2026-08-02
+domain: economics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Inheritance Economics
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Inheritance Economics
 

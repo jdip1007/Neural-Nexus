@@ -1,11 +1,15 @@
 ---
-title: Why Haven't We Had That Oil Crisis... Yet?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Why Haven't We Had That Oil Crisis... Yet?
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Why Haven't We Had That Oil Crisis... Yet?
 

@@ -1,17 +1,20 @@
 ---
-title: The Infographics Show
-created: 2026-08-19
-updated: 2026-08-19
-type: entity
-classification: media.organization
-domain: media
-tags: [youtube-channel, educational-content, visual-education, science-communication]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: media.organization
+confidence: high
+created: 2026-08-19
+domain: media
+reviewed: 2026-08-19
+sources: []
+status: active
+tags:
+- general
+title: The Infographics Show
+type: entity
+updated: 2026-08-19
 ---
+
+
 
 # The Infographics Show
 

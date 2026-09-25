@@ -1,18 +1,19 @@
 ---
-title: Why Do Female Teachers Sleep With Students?
+channel: Chris Willx
 created: '2026-09-06'
-updated: '2026-09-06'
-type: reading
-tags:
-- technology
+domain: psychology
+ingestion_date: '2026-09-06 17:18:02'
 sources:
 - https://www.youtube.com/watch?v=-5epM9WG95g
-video_id: -5epM9WG95g
-channel: Chris Willx
+tags:
+- general
+title: Why Do Female Teachers Sleep With Students?
 transcript_api: transcriptapi.com
-ingestion_date: '2026-09-06 17:18:02'
-domain: psychology
+type: reading
+updated: '2026-09-06'
+video_id: -5epM9WG95g
 ---
+
 
 # Why Do Female Teachers Sleep With Students?
 

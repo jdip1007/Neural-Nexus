@@ -1,11 +1,17 @@
 ---
-title: JiDion's Past Is Catching Up To Him
 created: 2026-09-21
-updated: 2026-09-21
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/07a1ae855fbf.md
+tags:
+- general
+title: JiDion's Past Is Catching Up To Him
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/07a1ae855fbf.md]
+updated: 2026-09-21
 ---
+
+
+
 
 # JiDion's Past Is Catching Up To Him
 

@@ -1,19 +1,17 @@
 ---
-title: Mizkif's Life Is Falling Apart
-created: 2026-09-07 22:49:21
-updated: 2026-09-07 22:49:21
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-- mental-health
-video_id: A-SGv0fCUsw
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-07 22:49:21
 domain: psychology
+duration: 15-25 minutes
+tags:
+- general
+title: Mizkif's Life Is Falling Apart
+type: reading
+updated: 2026-09-07 22:49:21
+video_id: A-SGv0fCUsw
 ---
+
+
 
 # Mizkif's Life Is Falling Apart
 

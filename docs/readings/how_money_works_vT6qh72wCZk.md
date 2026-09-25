@@ -1,23 +1,20 @@
 ---
-title: The (Overdue) Collapse Of Short Term Rentals
+channel: How Money Works
 created: 2026-09-07 21:56:03.371897
-updated: 2026-09-07 21:56:03.371913
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Market
-- Wealth
-- Finance
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=vT6qh72wCZk
-channel: How Money Works
+tags:
+- general
+title: The (Overdue) Collapse Of Short Term Rentals
+type: reading
+updated: 2026-09-07 21:56:03.371913
 video_id: vT6qh72wCZk
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # The (Overdue) Collapse Of Short Term Rentals
 

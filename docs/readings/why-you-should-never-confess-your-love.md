@@ -1,21 +1,18 @@
 ---
-{
-  "title": "Why You Should NEVER Confess Your Love",
-  "created": "2026-09-21T04:29:12.563783",
-  "updated": "2026-09-21T04:29:12.563785",
-  "type": "video",
-  "tags": [
-    "breakup",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=xHkcIRZa6lo"
-  ],
-  "duration": "35:37",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-21T04:29:12.563783'
+domain: general
+duration: '35:37'
+sources:
+- https://www.youtube.com/watch?v=xHkcIRZa6lo
+tags:
+- general
+title: Why You Should NEVER Confess Your Love
+type: video
+updated: '2026-09-21T04:29:12.563785'
 ---
+
+
 
 # Why You Should NEVER Confess Your Love
 

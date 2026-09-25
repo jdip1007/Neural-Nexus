@@ -1,12 +1,17 @@
 ---
-title: "self-improvement"
+classification: self
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: self-improvement
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # self-improvement
 

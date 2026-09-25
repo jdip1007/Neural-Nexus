@@ -1,18 +1,22 @@
 ---
-title: Most Insane The Infographics Show Videos of All Time (Compilation) - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, cemy5eP5Jjs]
-sources: [raw/videos/youtube-cemy5eP5Jjs-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-cemy5eP5Jjs-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Most Insane The Infographics Show Videos of All Time (Compilation) - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # Most Insane The Infographics Show Videos of All Time (Compilation) - Summary
 

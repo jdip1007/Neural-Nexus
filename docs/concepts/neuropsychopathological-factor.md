@@ -1,17 +1,21 @@
 ---
-title: Neuropsychopathological Factor
-created: 2025-01-21
-updated: 2026-07-31
-type: concept
-classification: psychology.neuroscience.neuropsychopathology
-domain: psychology
-tags: [neuropsychopathology, psychiatric-comorbidity, brain-connectivity, longitudinal-study, prefrontal-cortex, executive-function, genetics, mental-health, research]
-sources: [raw/articles/shared-neural-basis-psychiatric-comorbidity.md]
-confidence: high
-status: active
-reviewed: 2026-07-31
 backlinks: []
+classification: psychology.neuroscience.neuropsychopathology
+confidence: high
+created: 2025-01-21
+domain: psychology
+reviewed: 2026-07-31
+sources:
+- raw/articles/shared-neural-basis-psychiatric-comorbidity.md
+status: active
+tags:
+- general
+title: Neuropsychopathological Factor
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Neuropsychopathological (NP) Factor
 

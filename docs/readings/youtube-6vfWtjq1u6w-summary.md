@@ -1,18 +1,22 @@
 ---
-title: It's NOT Just Chernobyl. The REAL Disaster Is 10,000 Blocks Deep. - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, 6vfWtjq1u6w]
-sources: [raw/videos/youtube-6vfWtjq1u6w-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-6vfWtjq1u6w-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: It's NOT Just Chernobyl. The REAL Disaster Is 10,000 Blocks Deep. - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # It's NOT Just Chernobyl. The REAL Disaster Is 10,000 Blocks Deep. - Summary
 

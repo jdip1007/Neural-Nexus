@@ -1,12 +1,17 @@
 ---
-title: "Relationship Psychology"
+classification: relationship
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: psychology
-tags: []
 status: draft
+tags:
+- general
+title: Relationship Psychology
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # Relationship Psychology
 

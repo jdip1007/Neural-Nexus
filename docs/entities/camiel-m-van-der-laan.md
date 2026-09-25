@@ -1,17 +1,21 @@
 ---
-title: Camiel M. van der Laan
-created: 2026-08-06
-updated: 2026-08-06
-type: entity
-classification: person.researcher
-domain: psychology
-tags: [genetics, adhd, genome-wide-association, meta-analysis, neuropsychiatry]
-sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
-confidence: high
-status: active
-reviewed: 2026-08-06
 backlinks: []
+classification: person.researcher
+confidence: high
+created: 2026-08-06
+domain: psychology
+reviewed: 2026-08-06
+sources:
+- raw/articles/adhd-genetics-nature-genetics-2025.md
+status: active
+tags:
+- adhd
+title: Camiel M. van der Laan
+type: entity
+updated: 2026-08-06
 ---
+
+
 
 # Camiel M. van der Laan
 

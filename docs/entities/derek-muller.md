@@ -1,16 +1,20 @@
 ---
-title: Derek Muller
-created: 2026-07-31
-updated: 2026-07-31
-type: entity
 classification: person.media-figure
-domain: media
-tags: ["science-communication", "youtube-educator", "science-education"]
-sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: media
 reviewed: 2026-07-31
+sources:
+- raw/videos/one-billion-heartbeats-veritasium.md
+status: active
+tags:
+- general
+title: Derek Muller
+type: entity
+updated: 2026-07-31
 ---
+
+
 
 # Derek Muller
 

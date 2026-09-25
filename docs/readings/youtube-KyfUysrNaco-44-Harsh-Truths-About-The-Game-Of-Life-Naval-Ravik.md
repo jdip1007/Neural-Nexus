@@ -1,18 +1,20 @@
 ---
 created: '2026-09-15T20:13:03.159237'
+domain: general
 duration: 3 hours, 16 minutes
 sources:
 - https://www.youtube.com/watch?v=KyfUysrNaco
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)
 type: video
 updated: '2026-09-15T20:13:03.159239'
 video_id: KyfUysrNaco
 views: 5,912,909
 ---
+
+
+
 
 # 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)
 

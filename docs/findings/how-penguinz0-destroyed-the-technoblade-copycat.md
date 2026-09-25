@@ -1,11 +1,17 @@
 ---
-title: How Penguinz0 Destroyed The Technoblade Copycat
 created: 2026-09-25
-updated: 2026-09-25
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/8ff9bfd22347.md
+tags:
+- general
+title: How Penguinz0 Destroyed The Technoblade Copycat
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/8ff9bfd22347.md]
+updated: 2026-09-25
 ---
+
+
+
 
 # How Penguinz0 Destroyed The Technoblade Copycat
 

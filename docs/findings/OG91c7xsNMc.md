@@ -1,11 +1,15 @@
 ---
-title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: finding
 domain: general
-tags: []
+tags:
+- general
+title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
+type: finding
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
 

@@ -1,11 +1,14 @@
 ---
-title: '{{title}}'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: '{{title}}'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # {{title}}
 

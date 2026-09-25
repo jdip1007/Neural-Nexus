@@ -1,16 +1,20 @@
 ---
-title: Veritasium
-created: 2026-07-31
-updated: 2026-07-31
-type: entity
 classification: organization.science-communication
-domain: media
-tags: [science-communication, youtube-channel, educational-content]
-sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: media
 reviewed: 2026-07-31
+sources:
+- raw/videos/one-billion-heartbeats-veritasium.md
+status: active
+tags:
+- general
+title: Veritasium
+type: entity
+updated: 2026-07-31
 ---
+
+
 
 # Veritasium
 

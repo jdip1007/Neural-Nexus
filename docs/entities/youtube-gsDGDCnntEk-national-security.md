@@ -1,16 +1,20 @@
 ---
-title: National Security
-created: 2026-08-13
-updated: 2026-08-13
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-gsDGDCnntEk-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-13
+domain: ai
 reviewed: 2026-08-13
+sources:
+- raw/videos/youtube-gsDGDCnntEk-transcript.md
+status: active
+tags:
+- general
+title: National Security
+type: entity
+updated: 2026-08-13
 ---
+
+
 
 # National Security
 

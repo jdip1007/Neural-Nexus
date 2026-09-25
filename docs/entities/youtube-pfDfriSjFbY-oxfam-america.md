@@ -1,16 +1,20 @@
 ---
-title: Oxfam America
-created: 2026-08-28
-updated: 2026-08-28
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-pfDfriSjFbY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-28
+domain: ai
 reviewed: 2026-08-28
+sources:
+- raw/videos/youtube-pfDfriSjFbY-transcript.md
+status: active
+tags:
+- general
+title: Oxfam America
+type: entity
+updated: 2026-08-28
 ---
+
+
 
 # Oxfam America
 

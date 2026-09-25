@@ -1,17 +1,21 @@
 ---
-title: Why 'Learning From Failure' Is Ruining Your Life
-created: 2026-08-23
-updated: 2026-08-23
-type: concept
-classification: psychology.personal-development
-domain: psychology
-tags: ["failure", "learning", "mindset", "personal-development"]
-sources: [raw/videos/healthygamergg/Why 'Learning From Failure' Is Ruining Your Life.md]
-confidence: medium
-status: active
-reviewed: 2026-08-23
 backlinks: []
+classification: psychology.personal-development
+confidence: medium
+created: 2026-08-23
+domain: psychology
+reviewed: 2026-08-23
+sources:
+- raw/videos/healthygamergg/Why 'Learning From Failure' Is Ruining Your Life.md
+status: active
+tags:
+- general
+title: Why 'Learning From Failure' Is Ruining Your Life
+type: concept
+updated: 2026-08-23
 ---
+
+
 
 # Why 'Learning From Failure' Is Ruining Your Life
 

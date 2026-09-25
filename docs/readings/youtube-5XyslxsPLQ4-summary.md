@@ -1,18 +1,22 @@
 ---
-title: We (Still) Don't Know How Epstein Got So Rich... - Summary
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-5XyslxsPLQ4-transcript.md]
-published: 2026-08-29
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-29
+domain: ai
+published: 2026-08-29
 reviewed: 2026-08-29
+sources:
+- raw/videos/youtube-5XyslxsPLQ4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: We (Still) Don't Know How Epstein Got So Rich... - Summary
+type: reading
+updated: 2026-08-29
 ---
+
+
 
 # We (Still) Don't Know How Epstein Got So Rich... - Summary
 

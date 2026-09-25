@@ -1,18 +1,22 @@
 ---
-title: Video H6vMTSMZmzc - Summary
-created: 2026-09-06
-updated: 2026-09-06
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-H6vMTSMZmzc-transcript.md]
-published: 2026-09-06
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-09-06
+domain: ai
+published: 2026-09-06
 reviewed: 2026-09-06
+sources:
+- raw/videos/youtube-H6vMTSMZmzc-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: Video H6vMTSMZmzc - Summary
+type: reading
+updated: 2026-09-06
 ---
+
+
 
 # Video H6vMTSMZmzc - Summary
 

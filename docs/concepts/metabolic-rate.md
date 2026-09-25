@@ -1,12 +1,17 @@
 ---
-title: "Metabolic Rate"
+classification: metabolic-rate
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [metabolic-rate]
 status: stub
+tags:
+- general
+title: Metabolic Rate
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Metabolic Rate
 

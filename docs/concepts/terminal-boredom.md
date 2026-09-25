@@ -1,17 +1,25 @@
 ---
+classification: psychology.mental-health.digital-wellness
+confidence: high
+created: 2026-08-11
+domain: psychology
+related:
+- brain-rot
+- dopamine-tolerance
+- executive-function-rust
+- impulse-control-atrophy
+reviewed: 2026-08-11
+sources:
+- raw/videos/healthygamergg/terminal-boredom.md
+status: active
+tags:
+- general
 title: Terminal Boredom
 type: concept
-tags: [digital-wellness, screen-addiction, dopamine, mental-health]
-related: [brain-rot, dopamine-tolerance, executive-function-rust, impulse-control-atrophy]
-classification: psychology.mental-health.digital-wellness
-domain: psychology
-created: 2026-08-11
 updated: 2026-08-11
-confidence: high
-status: active
-reviewed: 2026-08-11
-sources: [raw/videos/healthygamergg/terminal-boredom.md]
 ---
+
+
 
 # Terminal Boredom
 

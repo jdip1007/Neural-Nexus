@@ -1,22 +1,18 @@
 ---
-{
-  "title": "Why You Need Constant Reassurance",
-  "created": "2026-09-16T02:21:19.090645",
-  "updated": "2026-09-16T02:21:19.090647",
-  "type": "video",
-  "tags": [
-    "breakup",
-    "relationships",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=L-gJ_Fo72-k"
-  ],
-  "duration": "18:23",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-16T02:21:19.090645'
+domain: general
+duration: '18:23'
+sources:
+- https://www.youtube.com/watch?v=L-gJ_Fo72-k
+tags:
+- general
+title: Why You Need Constant Reassurance
+type: video
+updated: '2026-09-16T02:21:19.090647'
 ---
+
+
 
 # Why You Need Constant Reassurance
 

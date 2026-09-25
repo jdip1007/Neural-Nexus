@@ -1,17 +1,20 @@
 ---
-title: "Networking"
-created: "2026-09-24"
-updated: "2026-09-24"
-type: reading
-classification: technology.networking
-domain: technology
-tags: ["networking", "protocols", "ethernet", "canbus", "tcp", "udp"]
-sources: []
-confidence: high
-status: active
-reviewed: "2026-09-24"
 backlinks: []
+classification: technology.networking
+confidence: high
+created: '2026-09-24'
+domain: technology
+reviewed: '2026-09-24'
+sources: []
+status: active
+tags:
+- tcp
+- udp
+title: Networking
+type: reading
+updated: '2026-09-24'
 ---
+
 
 # Networking
 

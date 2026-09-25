@@ -1,17 +1,21 @@
 ---
-title: ADHD (Attention Deficit Hyperactivity Disorder)
-created: 2026-07-29
-updated: 2026-07-29
-type: concept
-classification: psychology.mental-health
-domain: psychology
-tags: [adhd, mental-health, executive-function, developmental-psychopathology, stigma, gender-differences, dopamine, cortical-maturation]
-sources: [raw/articles/hinshaw-2018-adhd-review.md]
-confidence: high
-status: active
-reviewed: 2026-07-29
 backlinks: []
+classification: psychology.mental-health
+confidence: high
+created: 2026-07-29
+domain: psychology
+reviewed: 2026-07-29
+sources:
+- raw/articles/hinshaw-2018-adhd-review.md
+status: active
+tags:
+- adhd
+title: ADHD (Attention Deficit Hyperactivity Disorder)
+type: concept
+updated: 2026-07-29
 ---
+
+
 
 # ADHD (Attention Deficit Hyperactivity Disorder)
 

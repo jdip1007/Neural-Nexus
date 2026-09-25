@@ -1,22 +1,20 @@
 ---
-title: Here's Why You Want A Really Boring Job
+channel: How Money Works
 created: 2026-09-07 21:56:04.372847
-updated: 2026-09-07 21:56:04.372865
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Investing
-- Budget
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=4hiVQf9MPzg
-channel: How Money Works
+tags:
+- general
+title: Here's Why You Want A Really Boring Job
+type: reading
+updated: 2026-09-07 21:56:04.372865
 video_id: 4hiVQf9MPzg
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # Here's Why You Want A Really Boring Job
 

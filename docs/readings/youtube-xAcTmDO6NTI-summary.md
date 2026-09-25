@@ -1,11 +1,14 @@
 ---
-title: 'Lecture 1: Introduction to CS and Programming Using Python - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Lecture 1: Introduction to CS and Programming Using Python - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Lecture 1: Introduction to CS and Programming Using Python - Summary
 

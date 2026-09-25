@@ -1,17 +1,21 @@
 ---
-title: The Psychology of Loneliness
-created: 2026-09-05
-updated: 2026-09-05
-type: concept
-classification: psychology.mental-health
-domain: psychology
-tags: ["mental-health", "youtube", "mental-health-awareness"]
-sources: [raw/transcripts/healthygamergg/The Psychology of Loneliness.md]
-confidence: medium
-status: active
-reviewed: 2026-09-05
 backlinks: []
+classification: psychology.mental-health
+confidence: medium
+created: 2026-09-05
+domain: psychology
+reviewed: 2026-09-05
+sources:
+- raw/transcripts/healthygamergg/The Psychology of Loneliness.md
+status: active
+tags:
+- general
+title: The Psychology of Loneliness
+type: concept
+updated: 2026-09-05
 ---
+
+
 
 # The Psychology of Loneliness
 

@@ -1,22 +1,20 @@
 ---
-title: Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
+channel: How Money Works
 created: 2026-09-03 20:38:22.474658
-updated: 2026-09-03 20:38:22.474673
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Investing
-- Budget
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=swtfbef3HhM
-channel: How Money Works
+tags:
+- general
+title: Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
+type: reading
+updated: 2026-09-03 20:38:22.474673
 video_id: swtfbef3HhM
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
 

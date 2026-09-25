@@ -1,17 +1,21 @@
 ---
-title: "81% Of Women Said Yes. Only 58% Of Men Did."
-created: 2026-09-15
-updated: 2026-09-15
-type: video
-classification: internet_culture.youtube-channel.internet-anarchist
-domain: internet_culture
-tags: []
-sources: [raw/youtube/dummy_real5_81-of-women-said-yes-only-58-of-men-did.md]
-confidence: high
-status: active
-reviewed: 2026-09-15
 backlinks: []
+classification: internet_culture.youtube-channel.internet-anarchist
+confidence: high
+created: 2026-09-15
+domain: internet_culture
+reviewed: 2026-09-15
+sources:
+- raw/youtube/dummy_real5_81-of-women-said-yes-only-58-of-men-did.md
+status: active
+tags:
+- general
+title: 81% Of Women Said Yes. Only 58% Of Men Did.
+type: video
+updated: 2026-09-15
 ---
+
+
 
 # "81% Of Women Said Yes. Only 58% Of Men Did."
 

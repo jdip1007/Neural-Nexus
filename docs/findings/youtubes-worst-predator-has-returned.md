@@ -1,11 +1,17 @@
 ---
-title: YouTube's Worst Predator Has Returned
 created: 2026-09-24
-updated: 2026-09-24
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/6ujyVJr3I3I.md
+tags:
+- general
+title: YouTube's Worst Predator Has Returned
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/6ujyVJr3I3I.md]
+updated: 2026-09-24
 ---
+
+
+
 
 # YouTube's Worst Predator Has Returned
 

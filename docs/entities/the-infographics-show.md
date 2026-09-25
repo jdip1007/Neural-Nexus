@@ -1,17 +1,21 @@
 ---
-title: The Infographics Show
-created: 2026-08-02
-updated: 2026-08-02
-type: entity
-classification: media.organization
-domain: media
-tags: ["youtube-channel", "educational-content", "economics", "media-production"]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: high
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: media.organization
+confidence: high
+created: 2026-08-02
+domain: media
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: The Infographics Show
+type: entity
+updated: 2026-08-02
 ---
+
+
 
 # The Infographics Show
 

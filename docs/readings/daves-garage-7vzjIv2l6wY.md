@@ -1,16 +1,16 @@
 ---
-title: Ethernet Explained so well that even YOU can Understand it!
-created: '2026-09-09T23:20:22.656320'
-updated: '2026-09-09T23:20:22.656321'
-type: reading
-tags:
-- youtube
-- diy
-youtube_id: 7vzjIv2l6wY
 channel: Dave's Garage
 channel_url: https://youtube.com/@davesgarage
+created: '2026-09-09T23:20:22.656320'
 domain: devops
+tags:
+- diy
+title: Ethernet Explained so well that even YOU can Understand it!
+type: reading
+updated: '2026-09-09T23:20:22.656321'
+youtube_id: 7vzjIv2l6wY
 ---
+
 
 # Ethernet Explained so well that even YOU can Understand it!
 

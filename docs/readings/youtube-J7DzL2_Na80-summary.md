@@ -1,18 +1,22 @@
 ---
-title: 1. The Geometry of Linear Equations - Summary
-created: 2026-08-22
-updated: 2026-08-22
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-J7DzL2_Na80-transcript.md]
-published: 2026-08-22
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-22
+domain: ai
+published: 2026-08-22
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-J7DzL2_Na80-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: 1. The Geometry of Linear Equations - Summary
+type: reading
+updated: 2026-08-22
 ---
+
+
 
 # 1. The Geometry of Linear Equations - Summary
 

@@ -1,11 +1,15 @@
 ---
-title: Why You Can't Just "Rewire" Your Brain
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Why You Can't Just "Rewire" Your Brain
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Why You Can't Just "Rewire" Your Brain
 

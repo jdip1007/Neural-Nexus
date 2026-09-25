@@ -1,16 +1,20 @@
 ---
-title: Method Evaluation Decision Flow
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.method-evaluation.workflow
-domain: laboratory
-tags: [decision-flow, verification-vs-validation, method-evaluation, clia-requirements]
-sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources:
+- raw/laboratory/accreditation/verification-validation-toolkit-aphl.md
+status: active
+tags:
+- general
+title: Method Evaluation Decision Flow
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Method Evaluation Decision Flow
 

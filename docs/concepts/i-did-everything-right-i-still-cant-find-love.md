@@ -1,17 +1,21 @@
 ---
-title: I Did Everything Right. I still Can't Find Love
-created: 2026-08-23
-updated: 2026-08-23
-type: concept
-classification: psychology.relationships
-domain: psychology
-tags: ["love", "relationships", "relationships"]
-sources: [raw/videos/healthygamergg/I did EVERYTHING right. I still can't find love. _ Lovemaxxing w_ Dr. K.md]
-confidence: medium
-status: active
-reviewed: 2026-08-23
 backlinks: []
+classification: psychology.relationships
+confidence: medium
+created: 2026-08-23
+domain: psychology
+reviewed: 2026-08-23
+sources:
+- raw/videos/healthygamergg/I did EVERYTHING right. I still can't find love. _ Lovemaxxing
+  w_ Dr. K.md
+status: active
+tags:
+- love
+title: I Did Everything Right. I still Can't Find Love
+type: concept
+updated: 2026-08-23
 ---
+
 
 # I Did Everything Right. I still Can't Find Love
 

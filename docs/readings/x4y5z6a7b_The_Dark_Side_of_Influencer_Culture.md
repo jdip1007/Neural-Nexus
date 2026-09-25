@@ -1,18 +1,21 @@
 ---
-title: The Dark Side of Influencer Culture
-created: 2026-09-09T23:27:55
-updated: 2026-09-09T23:27:55
-type: reading
-classification: hermes.internet-culture.youtube-creator
-domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "internet-culture", "mental-health"]
-video_id: x4y5z6a7b
-duration: 15-25 minutes
 channel: Internet Anarchist
+classification: hermes.internet-culture.youtube-creator
 confidence: high
-status: active
+created: 2026-09-09 23:27:55
+domain: hermes
+duration: 15-25 minutes
 reviewed: 2026-09-09
+status: active
+tags:
+- general
+title: The Dark Side of Influencer Culture
+type: reading
+updated: 2026-09-09 23:27:55
+video_id: x4y5z6a7b
 ---
+
+
 
 # The Dark Side of Influencer Culture
 

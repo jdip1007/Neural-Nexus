@@ -1,18 +1,22 @@
 ---
-title: Why Jack Doherty Is The Worst YouTuber… - Summary
-created: 2026-09-01
-updated: 2026-09-01
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-giG3JkPj5RE-transcript.md]
-published: 2026-09-01
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-01
+domain: ai
+published: 2026-09-01
 reviewed: 2026-09-01
+sources:
+- raw/videos/youtube-giG3JkPj5RE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why Jack Doherty Is The Worst YouTuber… - Summary
+type: reading
+updated: 2026-09-01
 ---
+
+
 
 # Why Jack Doherty Is The Worst YouTuber… - Summary
 

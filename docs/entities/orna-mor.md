@@ -1,17 +1,21 @@
 ---
-title: Orna Mor
-created: 2026-08-01
-updated: 2026-08-01
-type: entity
-classification: person.researcher
-domain: laboratory
-tags: [clinical-virology, respiratory-viruses, molecular-diagnostics]
-sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
-confidence: high
-status: active
-reviewed: 2026-08-01
 backlinks: []
+classification: person.researcher
+confidence: high
+created: 2026-08-01
+domain: laboratory
+reviewed: 2026-08-01
+sources:
+- raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md
+status: active
+tags:
+- general
+title: Orna Mor
+type: entity
+updated: 2026-08-01
 ---
+
+
 
 # Orna Mor
 

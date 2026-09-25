@@ -1,17 +1,19 @@
 ---
-title: Automotive
-created: 2026-09-02
-updated: 2026-09-02
-type: concept
-classification: technology.automotive
-domain: technology
-tags: ["vehicles", "cars", "transportation"]
-sources: []
-confidence: medium
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: technology.automotive
+confidence: medium
+created: 2026-09-02
+domain: technology
+reviewed: 2026-09-02
+sources: []
+status: active
+tags:
+- cars
+title: Automotive
+type: concept
+updated: 2026-09-02
 ---
+
 
 # Automotive
 

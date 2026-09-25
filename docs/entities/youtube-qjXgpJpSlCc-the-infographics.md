@@ -1,16 +1,20 @@
 ---
-title: The Infographics
-created: 2026-09-16
-updated: 2026-09-16
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, qjXgpJpSlCc]
-sources: [raw/videos/youtube-qjXgpJpSlCc-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-16
+domain: ai
 reviewed: 2026-09-16
+sources:
+- raw/videos/youtube-qjXgpJpSlCc-transcript.md
+status: active
+tags:
+- general
+title: The Infographics
+type: entity
+updated: 2026-09-16
 ---
+
+
 
 # The Infographics
 

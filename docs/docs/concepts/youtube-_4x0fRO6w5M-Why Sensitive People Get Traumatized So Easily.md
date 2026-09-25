@@ -1,15 +1,16 @@
 ---
-title: Why Sensitive People Get Traumatized So Easily
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- mental-health
-- therapy
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/Why Sensitive People Get Traumatized So Easily.md
-domain: psychology
+tags:
+- general
+title: Why Sensitive People Get Traumatized So Easily
+type: concept
+updated: 2026-09-03
 ---
+
+
 
 # Why Sensitive People Get Traumatized So Easily
 

@@ -9,14 +9,13 @@ sources:
 - ./raw/videos/internet-anarchist-4_tngSkFXes-transcript.md
 status: active
 tags:
-- internet-culture
-- youtube-creator
-- social-media
+- general
 title: The 13 Seconds That Exposed Hank Green
 type: reading
 updated: '2026-08-22'
-
 ---
+
+
 
 # The 13 Seconds That Exposed Hank Green
 

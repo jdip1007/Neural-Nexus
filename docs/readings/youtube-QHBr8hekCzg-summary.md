@@ -1,12 +1,15 @@
 ---
+created: '2026-09-12'
+domain: general
+tags:
+- general
 title: 'NVIDIA''s $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway
   Monitor - Summary'
-created: '2026-09-12'
-updated: '2026-09-12'
 type: reading
-domain: general
-tags: []
+updated: '2026-09-12'
 ---
+
+
 
 # NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway Monitor - Summary
 

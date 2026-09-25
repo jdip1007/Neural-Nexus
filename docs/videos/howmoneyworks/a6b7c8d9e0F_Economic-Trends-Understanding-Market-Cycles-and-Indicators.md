@@ -1,21 +1,21 @@
 ---
-{
-  "title": "Economic Trends: Understanding Market Cycles and Indicators",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "economic trends"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=a6b7c8d9e0F"
-  ],
-  "video_id": "a6b7c8d9e0F",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=a6b7c8d9e0F
+tags:
+- general
+title: 'Economic Trends: Understanding Market Cycles and Indicators'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: a6b7c8d9e0F
 ---
+
+
+
 
 # Economic Trends: Understanding Market Cycles and Indicators
 

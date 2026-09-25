@@ -1,17 +1,16 @@
 ---
-title: The Cost Of Attention
 created: 2026-09-07 23:22:02.075456
-updated: 2026-09-07 23:22:02.075466
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=50FtUPGLyyo
-domain: psychology
+tags:
+- dr-k
+title: The Cost Of Attention
+type: reading
+updated: 2026-09-07 23:22:02.075466
 ---
+
+
 
 # The Cost Of Attention
 

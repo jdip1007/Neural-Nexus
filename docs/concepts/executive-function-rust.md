@@ -1,17 +1,25 @@
 ---
+classification: psychology.mental-health.digital-wellness
+confidence: high
+created: 2026-08-11
+domain: psychology
+related:
+- terminal-boredom
+- brain-rot
+- impulse-control-atrophy
+- dopamine-depletion
+reviewed: 2026-08-11
+sources:
+- raw/videos/healthygamergg/terminal-boredom.md
+status: active
+tags:
+- general
 title: Executive Function Rust
 type: concept
-tags: [digital-wellness, executive-function, atrophy]
-related: [terminal-boredom, brain-rot, impulse-control-atrophy, dopamine-depletion]
-classification: psychology.mental-health.digital-wellness
-domain: psychology
-created: 2026-08-11
 updated: 2026-08-11
-confidence: high
-status: active
-reviewed: 2026-08-11
-sources: [raw/videos/healthygamergg/terminal-boredom.md]
 ---
+
+
 
 # Executive Function Rust
 

@@ -1,17 +1,21 @@
 ---
-title: "Butaca con palets y asiento de coche"
-created: "2026-09-14"
-updated: "2026-09-14"
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ['automotive', 'hardware', 'daves-garage', 'youtube', 'tutorial', 'automotive']
-sources: ["https://www.youtube.com/watch?v=wbTXUk4chbo"]
-confidence: medium
-status: active
-reviewed: "2026-09-14"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-14'
+domain: technology
+reviewed: '2026-09-14'
+sources:
+- https://www.youtube.com/watch?v=wbTXUk4chbo
+status: active
+tags:
+- general
+title: Butaca con palets y asiento de coche
+type: reading
+updated: '2026-09-14'
 ---
+
+
 
 # Butaca con palets y asiento de coche
 

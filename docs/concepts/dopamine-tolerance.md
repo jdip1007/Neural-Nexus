@@ -1,17 +1,24 @@
 ---
+classification: psychology.mental-health.dopamine
+confidence: high
+created: 2026-08-11
+domain: psychology
+related:
+- terminal-boredom
+- dopamine-lemon-metaphor
+- brain-rot
+reviewed: 2026-08-11
+sources:
+- raw/videos/healthygamergg/terminal-boredom.md
+status: active
+tags:
+- general
 title: Dopamine Tolerance
 type: concept
-tags: [digital-wellness, dopamine, tolerance]
-related: [terminal-boredom, dopamine-lemon-metaphor, brain-rot]
-classification: psychology.mental-health.dopamine
-domain: psychology
-created: 2026-08-11
 updated: 2026-08-11
-confidence: high
-status: active
-reviewed: 2026-08-11
-sources: [raw/videos/healthygamergg/terminal-boredom.md]
 ---
+
+
 
 # Dopamine Tolerance
 

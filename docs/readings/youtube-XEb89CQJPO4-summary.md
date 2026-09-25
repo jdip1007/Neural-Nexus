@@ -1,18 +1,22 @@
 ---
-title: Why You Should Stop Watching YouTube (Yes, Even This Video) - Summary
-created: 2026-08-30
-updated: 2026-08-30
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-XEb89CQJPO4-transcript.md]
-published: 2026-08-30
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-30
+domain: ai
+published: 2026-08-30
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-XEb89CQJPO4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why You Should Stop Watching YouTube (Yes, Even This Video) - Summary
+type: reading
+updated: 2026-08-30
 ---
+
+
 
 # Why You Should Stop Watching YouTube (Yes, Even This Video) - Summary
 

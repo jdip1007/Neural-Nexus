@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Social_Media
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The Never-Ending Downfall of KSI.md
+tags:
+- general
+title: Internet Anarchist - Social_Media
 type: concept
-tags: [youtube, internet-anarchist, social_media, documentary]
-sources: [The Never-Ending Downfall of KSI.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Social_Media
 

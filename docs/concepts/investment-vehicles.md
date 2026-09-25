@@ -1,17 +1,21 @@
 ---
-title: Investment Vehicles
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
-classification: finance.investment-products
-domain: finance
-tags: [investment-products, financial-planning, investment-risk]
-sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
-confidence: medium
-status: draft
-reviewed: 2026-07-25
 backlinks: []
+classification: finance.investment-products
+confidence: medium
+created: 2026-07-25
+domain: finance
+reviewed: 2026-07-25
+sources:
+- raw/videos/savings-insurance-hong-kong-myths-bowtie.md
+status: draft
+tags:
+- general
+title: Investment Vehicles
+type: concept
+updated: 2026-07-25
 ---
+
+
 
 # Investment Vehicles
 

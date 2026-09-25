@@ -1,12 +1,17 @@
 ---
-title: "Test Validity"
+classification: test-validity
 created: 2026-09-24
-updated: 2026-09-24
-type: concept
 domain: psychology
-tags: ['test-validity', 'psychometrics', 'assessment']
 status: draft
+tags:
+- general
+title: Test Validity
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Test Validity
 

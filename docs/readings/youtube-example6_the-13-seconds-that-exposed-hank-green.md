@@ -1,17 +1,21 @@
 ---
-title: The 13 Seconds That Exposed Hank Green
-created: 2026-09-15
-updated: 2026-09-15
-type: video
-classification: internet_culture.youtube-channel.internet-anarchist
-domain: internet_culture
-tags: ["social_media"]
-sources: [raw/youtube/example6_the-13-seconds-that-exposed-hank-green.md]
-confidence: high
-status: active
-reviewed: 2026-09-15
 backlinks: []
+classification: internet_culture.youtube-channel.internet-anarchist
+confidence: high
+created: 2026-09-15
+domain: internet_culture
+reviewed: 2026-09-15
+sources:
+- raw/youtube/example6_the-13-seconds-that-exposed-hank-green.md
+status: active
+tags:
+- general
+title: The 13 Seconds That Exposed Hank Green
+type: video
+updated: 2026-09-15
 ---
+
+
 
 # The 13 Seconds That Exposed Hank Green
 

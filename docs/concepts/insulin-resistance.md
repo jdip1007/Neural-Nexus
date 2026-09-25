@@ -1,12 +1,17 @@
 ---
-title: "Insulin Resistance"
+classification: insulin-resistance
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [insulin-resistance]
 status: stub
+tags:
+- general
+title: Insulin Resistance
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Insulin Resistance
 

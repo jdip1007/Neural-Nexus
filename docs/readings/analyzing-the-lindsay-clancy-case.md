@@ -1,23 +1,19 @@
 ---
-{
-  "title": "Analyzing The Lindsay Clancy Case",
-  "created": "2026-09-21T04:29:12.563109",
-  "updated": "2026-09-21T04:29:12.563113",
-  "type": "video",
-  "tags": [
-    "mental_health",
-    "depression",
-    "men_health",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=7MykFJ7TByM"
-  ],
-  "duration": "29:29",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-21T04:29:12.563109'
+domain: general
+duration: '29:29'
+sources:
+- https://www.youtube.com/watch?v=7MykFJ7TByM
+tags:
+- general
+title: Analyzing The Lindsay Clancy Case
+type: video
+updated: '2026-09-21T04:29:12.563113'
 ---
+
+
+
 
 # Analyzing The Lindsay Clancy Case
 

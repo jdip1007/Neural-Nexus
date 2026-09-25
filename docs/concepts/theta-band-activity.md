@@ -1,16 +1,19 @@
 ---
-title: Theta-Band Activity
-created: 2026-07-29
-updated: 2026-07-29
-type: concept
 classification: biotechnology.neuroscience.brain-energy-dynamics
-domain: biotech
-tags: [brain-metabolism, neurovascular-coupling, sleep]
-sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
-status: active
+created: 2026-07-29
+domain: biotech
 reviewed: 2026-07-29
+sources:
+- raw/articles/energy-paradox-rem-sleep-2026.md
+status: active
+tags:
+- sleep
+title: Theta-Band Activity
+type: concept
+updated: 2026-07-29
 ---
+
 
 # Theta-Band Activity
 

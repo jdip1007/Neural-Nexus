@@ -1,18 +1,22 @@
 ---
-title: The Horrors of Unit 731 - Summary
-created: 2026-08-08
-updated: 2026-08-08
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
-published: 2026-08-08
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-08
+domain: ai
+published: 2026-08-08
 reviewed: 2026-08-08
+sources:
+- raw/videos/youtube-D4nPxik59oE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The Horrors of Unit 731 - Summary
+type: reading
+updated: 2026-08-08
 ---
+
+
 
 # The Horrors of Unit 731 - Summary
 

@@ -1,11 +1,14 @@
 ---
-title: '2:06:15'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: '2:06:15'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # 2:06:15
 

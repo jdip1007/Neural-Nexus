@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-18T01:35:06.036833'
+domain: general
 duration: 22 minutes
 sources:
 - https://www.youtube.com/watch?v=hRhBuHJ-j_o
 tags:
-- assembly
-- tutorial
-- network
-- ethernet
 - tech
 - diy
 - code
-- programming
-- hardware
-- software
-- development
-- system
 - led
-- youtube
-- daves-garage
 title: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 type: video
 updated: '2026-09-18T01:35:06.036846'
 video_id: hRhBuHJ-j_o
 views: 41K
 ---
+
+
+
 
 # The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 

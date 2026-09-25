@@ -1,17 +1,21 @@
 ---
-title: Nucleic Acid Extraction Platforms
-created: 2026-08-01
-updated: 2026-08-01
-type: concept
-classification: laboratory.method-evaluation
-domain: laboratory
-tags: [nucleic-acid-extraction, laboratory-platform-comparison, molecular-biology, laboratory-technique]
-sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
-confidence: high
-status: active
-reviewed: 2026-08-01
 backlinks: []
+classification: laboratory.method-evaluation
+confidence: high
+created: 2026-08-01
+domain: laboratory
+reviewed: 2026-08-01
+sources:
+- raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md
+status: active
+tags:
+- general
+title: Nucleic Acid Extraction Platforms
+type: concept
+updated: 2026-08-01
 ---
+
+
 
 # Nucleic Acid Extraction Platforms
 

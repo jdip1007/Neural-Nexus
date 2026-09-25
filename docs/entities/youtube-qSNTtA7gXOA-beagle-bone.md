@@ -1,16 +1,20 @@
 ---
-title: Beagle Bone
-created: 2026-09-19
-updated: 2026-09-19
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, qSNTtA7gXOA]
-sources: [raw/videos/youtube-qSNTtA7gXOA-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-19
+domain: ai
 reviewed: 2026-09-19
+sources:
+- raw/videos/youtube-qSNTtA7gXOA-transcript.md
+status: active
+tags:
+- general
+title: Beagle Bone
+type: entity
+updated: 2026-09-19
 ---
+
+
 
 # Beagle Bone
 

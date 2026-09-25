@@ -1,16 +1,19 @@
 ---
-title: Sample Preparation
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: biotechnology.laboratory-methods
-domain: biotech
-tags: [laboratory-technique, molecular-biology, quality-control]
-sources: []
 confidence: medium
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources: []
+status: active
+tags:
+- general
+title: Sample Preparation
+type: concept
+updated: 2026-07-19
 ---
+
+
 
 # Sample Preparation
 

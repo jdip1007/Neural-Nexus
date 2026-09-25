@@ -1,21 +1,21 @@
 ---
-{
-  "title": "Debt Management: Strategies to Become Debt-Free",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "debt management"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=s2t3u4v5w6G"
-  ],
-  "video_id": "s2t3u4v5w6G",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=s2t3u4v5w6G
+tags:
+- general
+title: 'Debt Management: Strategies to Become Debt-Free'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: s2t3u4v5w6G
 ---
+
+
+
 
 # Debt Management: Strategies to Become Debt-Free
 

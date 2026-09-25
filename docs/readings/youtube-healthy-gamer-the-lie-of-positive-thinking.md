@@ -1,17 +1,16 @@
 ---
-title: The Lie of "Positive Thinking"
 created: 2026-09-07 23:22:03.337210
-updated: 2026-09-07 23:22:03.337218
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=l7BaFufR23E
-domain: psychology
+tags:
+- dr-k
+title: The Lie of "Positive Thinking"
+type: reading
+updated: 2026-09-07 23:22:03.337218
 ---
+
+
 
 # The Lie of "Positive Thinking"
 

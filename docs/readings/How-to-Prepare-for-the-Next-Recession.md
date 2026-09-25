@@ -1,11 +1,15 @@
 ---
-title: How to Prepare for the Next Recession
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: How to Prepare for the Next Recession
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # How to Prepare for the Next Recession
 

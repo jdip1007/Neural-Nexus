@@ -1,18 +1,22 @@
 ---
-title: Voyager 2 Discovered Something Strange at the Edge of Our Solar System - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, UOUM1QT5GgU]
-sources: [raw/videos/youtube-UOUM1QT5GgU-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-UOUM1QT5GgU-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Voyager 2 Discovered Something Strange at the Edge of Our Solar System - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # Voyager 2 Discovered Something Strange at the Edge of Our Solar System - Summary
 

@@ -1,16 +1,20 @@
 ---
-title: Edward Jones
-created: 2026-08-26
-updated: 2026-08-26
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-pATAV2Fehw8-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-26
+domain: ai
 reviewed: 2026-08-26
+sources:
+- raw/videos/youtube-pATAV2Fehw8-transcript.md
+status: active
+tags:
+- general
+title: Edward Jones
+type: entity
+updated: 2026-08-26
 ---
+
+
 
 # Edward Jones
 

@@ -1,11 +1,14 @@
 ---
-title: '"Dude I''m Broke" Why Is My Data Worth Harvesting? - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: '"Dude I''m Broke" Why Is My Data Worth Harvesting? - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting? - Summary
 

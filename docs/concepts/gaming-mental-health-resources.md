@@ -1,12 +1,17 @@
 ---
-title: "Gaming Mental Health Resources"
+classification: gaming
 created: 2026-09-21
-updated: 2026-09-21
-type: concept
 domain: psychology
-tags: []
 status: draft
+tags:
+- general
+title: Gaming Mental Health Resources
+type: concept
+updated: 2026-09-21
 ---
+
+
+
 
 # Gaming Mental Health Resources
 

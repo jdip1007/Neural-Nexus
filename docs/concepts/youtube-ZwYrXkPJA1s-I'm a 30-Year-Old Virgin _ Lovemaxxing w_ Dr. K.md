@@ -1,17 +1,21 @@
 ---
-title: I'm a 30-Year-Old Virgin | Lovemaxxing w/ Dr. K
-created: 2026-09-05
-updated: 2026-09-05
-type: concept
-classification: psychology.mental-health
-domain: psychology
-tags: ["mental-health", "youtube", "mental-health-awareness", "relationships"]
-sources: [raw/transcripts/healthygamergg/I'm a 30-Year-Old Virgin _ Lovemaxxing w_ Dr. K.md]
-confidence: medium
-status: active
-reviewed: 2026-09-05
 backlinks: []
+classification: psychology.mental-health
+confidence: medium
+created: 2026-09-05
+domain: psychology
+reviewed: 2026-09-05
+sources:
+- raw/transcripts/healthygamergg/I'm a 30-Year-Old Virgin _ Lovemaxxing w_ Dr. K.md
+status: active
+tags:
+- general
+title: I'm a 30-Year-Old Virgin | Lovemaxxing w/ Dr. K
+type: concept
+updated: 2026-09-05
 ---
+
+
 
 # I'm a 30-Year-Old Virgin | Lovemaxxing w/ Dr. K
 

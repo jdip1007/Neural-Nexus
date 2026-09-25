@@ -1,18 +1,22 @@
 ---
-title: Oracle is Genuinely Far Scarier Than Blackrock - Summary
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-V64TdrkhTqo-transcript.md]
-published: 2026-08-29
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-29
+domain: ai
+published: 2026-08-29
 reviewed: 2026-08-29
+sources:
+- raw/videos/youtube-V64TdrkhTqo-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Oracle is Genuinely Far Scarier Than Blackrock - Summary
+type: reading
+updated: 2026-08-29
 ---
+
+
 
 # Oracle is Genuinely Far Scarier Than Blackrock - Summary
 

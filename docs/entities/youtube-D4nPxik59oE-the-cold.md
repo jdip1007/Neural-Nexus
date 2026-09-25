@@ -1,16 +1,20 @@
 ---
-title: The Cold
-created: 2026-08-08
-updated: 2026-08-08
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-08
+domain: ai
 reviewed: 2026-08-08
+sources:
+- raw/videos/youtube-D4nPxik59oE-transcript.md
+status: active
+tags:
+- general
+title: The Cold
+type: entity
+updated: 2026-08-08
 ---
+
+
 
 # The Cold
 

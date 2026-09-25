@@ -1,11 +1,15 @@
 ---
-title: 'The Future of AI: Quantum Computing and Neural Networks'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: finding
 domain: general
-tags: []
+tags:
+- general
+title: 'The Future of AI: Quantum Computing and Neural Networks'
+type: finding
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Future of AI: Quantum Computing and Neural Networks
 

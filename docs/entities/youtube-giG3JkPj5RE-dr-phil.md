@@ -1,16 +1,20 @@
 ---
-title: Dr Phil
-created: 2026-09-01
-updated: 2026-09-01
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-giG3JkPj5RE-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-01
+domain: ai
 reviewed: 2026-09-01
+sources:
+- raw/videos/youtube-giG3JkPj5RE-transcript.md
+status: active
+tags:
+- general
+title: Dr Phil
+type: entity
+updated: 2026-09-01
 ---
+
+
 
 # Dr Phil
 

@@ -1,17 +1,18 @@
 ---
-title: bUt ThAt"s mY NeSt eGG!
+channel: How Money Works
 created: '2026-09-10T22:38:10.547011'
-updated: '2026-09-10T22:38:10.547025'
-type: reading
-tags:
-- youtube
-- how-money-works
+domain: finance
 sources:
 - https://www.youtube.com/watch?v=QGjXQwUmGTI
+tags:
+- general
+title: bUt ThAt"s mY NeSt eGG!
+type: reading
+updated: '2026-09-10T22:38:10.547025'
 video_id: QGjXQwUmGTI
-channel: How Money Works
-domain: finance
 ---
+
+
 
 # bUt ThAt"s mY NeSt eGG!
 

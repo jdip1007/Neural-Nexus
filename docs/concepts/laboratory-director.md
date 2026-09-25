@@ -1,16 +1,18 @@
 ---
-title: Laboratory Director
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.regulatory
-domain: laboratory
-tags: [laboratory-director, clia, regulatory-compliance, quality-management]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- clia
+title: Laboratory Director
+type: concept
+updated: 2026-07-31
 ---
+
 
 # Laboratory Director
 

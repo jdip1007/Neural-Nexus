@@ -1,16 +1,20 @@
 ---
-created: 2026-08-18
-title: 'MrBeast: Behind the Scenes'
-video_id: q8_r9s0t1u
-source: Internet Anarchist
-ingestion_date: '2026-08-06T12:54:20.882610'
 channel_url: https://youtube.com/@InternetAnarchist
-transcript_api: simulated
+created: 2026-08-18
 domain: internet-culture
-updated: 2026-08-18
+ingestion_date: '2026-08-06T12:54:20.882610'
+source: Internet Anarchist
+tags:
+- general
+title: 'MrBeast: Behind the Scenes'
+transcript_api: simulated
 type: reading
-tags: []
+updated: 2026-08-18
+video_id: q8_r9s0t1u
 ---
+
+
+
 
 0.00s - 5.00s: Welcome to Internet Anarchist! Today we're exploring MrBeast: Behind the Scenes.
 5.00s - 10.00s: Our mission is to uncover the truth behind internet personalities and their impact on digital culture.

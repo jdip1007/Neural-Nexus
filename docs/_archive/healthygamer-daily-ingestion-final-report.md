@@ -1,12 +1,15 @@
 ---
-title: Daily YouTube Ingestion Report - HealthyGamerGG Channel
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: psychology
-tags: []
 status: draft
+tags:
+- general
+title: Daily YouTube Ingestion Report - HealthyGamerGG Channel
+type: reading
+updated: 2026-09-12
 ---
+
+
 
 # Daily YouTube Ingestion Report - HealthyGamerGG Channel
 **Generated:** 2026-09-08T23:35:40.340813

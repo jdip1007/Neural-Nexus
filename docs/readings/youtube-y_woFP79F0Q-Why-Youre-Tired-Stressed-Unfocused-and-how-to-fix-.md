@@ -1,18 +1,20 @@
 ---
 created: '2026-09-15T20:13:07.165964'
+domain: general
 duration: 2 hours, 32 minutes
 sources:
 - https://www.youtube.com/watch?v=y_woFP79F0Q
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: Why You're Tired, Stressed & Unfocused (and how to fix it)
 type: video
 updated: '2026-09-15T20:13:07.165967'
 video_id: y_woFP79F0Q
 views: 295K
 ---
+
+
+
 
 # Why You're Tired, Stressed & Unfocused (and how to fix it)
 

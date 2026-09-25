@@ -1,11 +1,15 @@
 ---
-title: 'MrBeast: Behind the Scenes'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'MrBeast: Behind the Scenes'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # MrBeast: Behind the Scenes
 

@@ -1,15 +1,19 @@
 ---
-title: "Energy Paradox in REM Sleep: Balancing Supply and Consumption in Brain Metabolism"
-created: 2026-07-29
-updated: 2026-07-29
-type: reading
-domain: biotech
-tags: ["sleep", "brain-metabolism", "rem-sleep", "neurovascular-coupling", "pyruvate", "energy-dynamics"]
-sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
-status: active
+created: 2026-07-29
+domain: biotech
 reviewed: 2026-07-29
+sources:
+- raw/articles/energy-paradox-rem-sleep-2026.md
+status: active
+tags:
+- sleep
+title: 'Energy Paradox in REM Sleep: Balancing Supply and Consumption in Brain Metabolism'
+type: reading
+updated: 2026-07-29
 ---
+
+
 
 # Energy Paradox in REM Sleep: Balancing Supply and Consumption in Brain Metabolism
 

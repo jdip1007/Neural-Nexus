@@ -1,12 +1,16 @@
 ---
-title: Crypto Is Dead (But Not Really)
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: finance
-tags: []
 status: draft
+tags:
+- general
+title: Crypto Is Dead (But Not Really)
+type: reading
+updated: 2026-09-12
 ---
+
+
+
 
 # Crypto Is Dead (But Not Really)
 

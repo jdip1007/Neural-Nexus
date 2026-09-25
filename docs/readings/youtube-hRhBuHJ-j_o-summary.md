@@ -1,18 +1,23 @@
 ---
-title: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III - Summary
-created: 2026-09-15
-updated: 2026-09-15
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, hRhBuHJ-j_o]
-sources: [raw/videos/youtube-hRhBuHJ-j_o-transcript.md]
-published: 2026-09-15
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-15
+domain: ai
+published: 2026-09-15
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-hRhBuHJ-j_o-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
+  - Summary
+type: reading
+updated: 2026-09-15
 ---
+
+
 
 # The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III - Summary
 

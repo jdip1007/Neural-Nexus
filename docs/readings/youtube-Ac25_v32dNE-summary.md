@@ -1,18 +1,22 @@
 ---
-title: How Much Longer Can We "Hide" The Inflation? - Summary
-created: 2026-08-24
-updated: 2026-08-24
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-Ac25_v32dNE-transcript.md]
-published: 2026-08-24
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-24
+domain: ai
+published: 2026-08-24
 reviewed: 2026-08-24
+sources:
+- raw/videos/youtube-Ac25_v32dNE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: How Much Longer Can We "Hide" The Inflation? - Summary
+type: reading
+updated: 2026-08-24
 ---
+
+
 
 # How Much Longer Can We "Hide" The Inflation? - Summary
 

@@ -1,17 +1,19 @@
 ---
-title: Hardware
-created: 2026-09-02
-updated: 2026-09-02
-type: concept
-classification: technology.hardware
-domain: technology
-tags: ["hardware"]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: technology.hardware
+confidence: high
+created: 2026-09-02
+domain: technology
+reviewed: 2026-09-02
+sources: []
+status: active
+tags:
+- general
+title: Hardware
+type: concept
+updated: 2026-09-02
 ---
+
 
 # Hardware
 

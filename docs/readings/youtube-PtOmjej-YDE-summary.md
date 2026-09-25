@@ -1,18 +1,22 @@
 ---
-title: You NEED to STOP Using Meta Right NOW. The Collapse JUST Began. - Summary
-created: 2026-08-20
-updated: 2026-08-20
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-PtOmjej-YDE-transcript.md]
-published: 2026-08-20
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-20
+domain: ai
+published: 2026-08-20
 reviewed: 2026-08-20
+sources:
+- raw/videos/youtube-PtOmjej-YDE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: You NEED to STOP Using Meta Right NOW. The Collapse JUST Began. - Summary
+type: reading
+updated: 2026-08-20
 ---
+
+
 
 # You NEED to STOP Using Meta Right NOW. The Collapse JUST Began. - Summary
 

@@ -1,11 +1,14 @@
 ---
-title: WTF Does Peter Thiel Actually Want?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: WTF Does Peter Thiel Actually Want?
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # WTF Does Peter Thiel Actually Want?
 

@@ -1,18 +1,22 @@
 ---
-title: What Does it Actually Feel Like to be Shot in the Head - Summary
-created: 2026-08-09
-updated: 2026-08-09
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-YQQMF8ibxVw-transcript.md]
-published: 2026-08-09
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-09
+domain: ai
+published: 2026-08-09
 reviewed: 2026-08-09
+sources:
+- raw/videos/youtube-YQQMF8ibxVw-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: What Does it Actually Feel Like to be Shot in the Head - Summary
+type: reading
+updated: 2026-08-09
 ---
+
+
 
 # What Does it Actually Feel Like to be Shot in the Head - Summary
 

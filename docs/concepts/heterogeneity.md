@@ -1,12 +1,17 @@
 ---
-title: "Heterogeneity"
+classification: heterogeneity
 created: 2026-09-24
-updated: 2026-09-24
-type: concept
 domain: psychology
-tags: ['heterogeneity', 'variability', 'individual-differences']
 status: draft
+tags:
+- general
+title: Heterogeneity
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Heterogeneity
 

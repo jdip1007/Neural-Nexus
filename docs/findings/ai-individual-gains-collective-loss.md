@@ -1,17 +1,21 @@
 ---
-title: AI Creates Individual Gains but Collective Loss in Science
-created: 2026-07-30
-updated: 2026-07-30
-type: finding
-classification: research-methodology.knowledge-management
-domain: ai
-tags: [ai, research, scientific-method, analysis, knowledge-management]
-sources: [raw/articles/ai-impacts-science-nature-2026.md]
-confidence: high
-status: active
-reviewed: 2026-07-30
 backlinks: []
+classification: research-methodology.knowledge-management
+confidence: high
+created: 2026-07-30
+domain: ai
+reviewed: 2026-07-30
+sources:
+- raw/articles/ai-impacts-science-nature-2026.md
+status: active
+tags:
+- general
+title: AI Creates Individual Gains but Collective Loss in Science
+type: finding
+updated: 2026-07-30
 ---
+
+
 
 # AI Creates Individual Gains but Collective Loss in Science
 

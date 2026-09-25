@@ -1,21 +1,20 @@
 ---
-{
-  "title": "Understanding Mental Health in the Digital Era",
-  "created": "2026-09-12",
-  "updated": "2026-09-12",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=fresh002"
-  ],
-  "video_id": "fresh002",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-12 19:29:49"
-}
+channel: Chris Willx
+created: '2026-09-12'
+domain: general
+ingestion_date: '2026-09-12 19:29:49'
+sources:
+- https://www.youtube.com/watch?v=fresh002
+tags:
+- general
+title: Understanding Mental Health in the Digital Era
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-12'
+video_id: fresh002
 ---
+
+
 
 # Understanding Mental Health in the Digital Era
 

@@ -1,16 +1,20 @@
 ---
-title: Criminal Psychology and Behavior Patterns
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: psychology.forensic-psychology
-domain: psychology
-tags: ["criminal-behavior", "forensic-psychology", "hong-kong"]
 confidence: medium
-status: active
+created: 2026-07-19
+domain: psychology
 reviewed: 2026-07-19
-sources: [raw/videos/dangerous-person-2-0/]
+sources:
+- raw/videos/dangerous-person-2-0/
+status: active
+tags:
+- general
+title: Criminal Psychology and Behavior Patterns
+type: concept
+updated: 2026-07-19
 ---
+
+
 
 # Criminal Psychology and Behavior Patterns
 

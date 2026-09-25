@@ -1,17 +1,21 @@
 ---
-title: Canvas Rendering
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
-classification: computer-science.simulation
-domain: devops
-tags: ["rendering", "web-performance"]
-sources: [raw/articles/sand-game-simulation.md]
-confidence: medium
-status: draft
-reviewed: 2026-07-25
 backlinks: []
+classification: computer-science.simulation
+confidence: medium
+created: 2026-07-25
+domain: devops
+reviewed: 2026-07-25
+sources:
+- raw/articles/sand-game-simulation.md
+status: draft
+tags:
+- general
+title: Canvas Rendering
+type: concept
+updated: 2026-07-25
 ---
+
+
 
 # Canvas Rendering
 

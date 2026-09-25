@@ -1,16 +1,19 @@
 ---
-title: Algorithm
-created: 2026-08-20
-updated: 2026-08-20
-type: concept
-domain: ai
 classification: artificial-intelligence.algorithms
-tags: [algorithm, computer-science, data-structures]
-sources: []
 confidence: high
-status: active
+created: 2026-08-20
+domain: ai
 reviewed: 2026-08-20
+sources: []
+status: active
+tags:
+- general
+title: Algorithm
+type: concept
+updated: 2026-08-20
 ---
+
+
 
 # Algorithm
 

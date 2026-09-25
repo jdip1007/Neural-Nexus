@@ -1,17 +1,21 @@
 ---
-title: Genome-Wide Association Studies
-created: 2026-08-06
-updated: 2026-08-06
-type: concept
-classification: research-methodology.genetics
-domain: research-methodology
-tags: [genome-wide-association, gwas, genetics, statistical-genetics, genetic-epidemiology, complex-traits, quantitative-genetics]
-sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
-confidence: high
-status: active
-reviewed: 2026-08-06
 backlinks: []
+classification: research-methodology.genetics
+confidence: high
+created: 2026-08-06
+domain: research-methodology
+reviewed: 2026-08-06
+sources:
+- raw/articles/adhd-genetics-nature-genetics-2025.md
+status: active
+tags:
+- gwas
+title: Genome-Wide Association Studies
+type: concept
+updated: 2026-08-06
 ---
+
+
 
 # Genome-Wide Association Studies (GWAS)
 

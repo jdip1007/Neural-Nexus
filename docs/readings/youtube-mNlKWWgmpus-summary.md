@@ -1,18 +1,23 @@
 ---
-title: Why You Wouldn't Survive 1 Day in CECOT... World's Largest Mega Prison in El Salvador - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, mNlKWWgmpus]
-sources: [raw/videos/youtube-mNlKWWgmpus-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-mNlKWWgmpus-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why You Wouldn't Survive 1 Day in CECOT... World's Largest Mega Prison in El
+  Salvador - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # Why You Wouldn't Survive 1 Day in CECOT... World's Largest Mega Prison in El Salvador - Summary
 

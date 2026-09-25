@@ -1,11 +1,14 @@
 ---
-title: Why Do Female Teachers Sleep With Students?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Why Do Female Teachers Sleep With Students?
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Why Do Female Teachers Sleep With Students?
 

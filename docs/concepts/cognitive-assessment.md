@@ -1,12 +1,17 @@
 ---
-title: "Cognitive Assessment"
+classification: cognitive-assessment
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: psychology
-tags: [cognitive-assessment]
 status: stub
+tags:
+- general
+title: Cognitive Assessment
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Cognitive Assessment
 

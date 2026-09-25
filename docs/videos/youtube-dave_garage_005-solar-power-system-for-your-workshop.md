@@ -1,32 +1,21 @@
 ---
-title: Solar Power System for Your Workshop
-created: '2026-08-25'
-updated: '2026-08-25'
-type: concept
+backlinks: []
 classification: technology.smart-home
+confidence: high
+created: '2026-08-25'
 domain: technology
-tags:
-- innovation
-- sustainability
-- making
-- diy
-- future
-- youtube
-- transcript
-- video-derived
-- workshop
-- technology
-- dave-garage
-- renewable-energy
-- solar-energy
+reviewed: '2026-08-25'
 sources:
 - raw/videos/youtube-dave_garage_005-transcript.md
-confidence: high
 status: active
-reviewed: '2026-08-25'
-backlinks: []
-
+tags:
+- diy
+title: Solar Power System for Your Workshop
+type: concept
+updated: '2026-08-25'
 ---
+
+
 
 # Solar Power System for Your Workshop
 

@@ -1,16 +1,18 @@
 ---
-title: API
-created: 2026-08-20
-updated: 2026-08-20
-type: concept
-domain: ai
 classification: artificial-intelligence.api
-tags: [api, application-programming-interface, software-development]
-sources: []
 confidence: high
-status: active
+created: 2026-08-20
+domain: ai
 reviewed: 2026-08-20
+sources: []
+status: active
+tags:
+- api
+title: API
+type: concept
+updated: 2026-08-20
 ---
+
 
 # API
 

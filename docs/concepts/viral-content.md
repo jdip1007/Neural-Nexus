@@ -1,12 +1,17 @@
 ---
-title: "viral content"
+classification: viral
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: viral content
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # viral content
 

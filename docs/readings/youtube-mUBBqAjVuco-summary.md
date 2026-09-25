@@ -1,18 +1,22 @@
 ---
-title: WTF Is Happening To The Car Market? - Summary
-created: 2026-08-27
-updated: 2026-08-27
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-mUBBqAjVuco-transcript.md]
-published: 2026-08-27
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-27
+domain: ai
+published: 2026-08-27
 reviewed: 2026-08-27
+sources:
+- raw/videos/youtube-mUBBqAjVuco-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: WTF Is Happening To The Car Market? - Summary
+type: reading
+updated: 2026-08-27
 ---
+
+
 
 # WTF Is Happening To The Car Market? - Summary
 

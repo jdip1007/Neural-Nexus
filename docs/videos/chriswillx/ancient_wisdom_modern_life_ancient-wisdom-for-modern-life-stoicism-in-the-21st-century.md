@@ -1,11 +1,15 @@
 ---
-title: 'Ancient Wisdom for Modern Life: Stoicism in the 21st Century'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Ancient Wisdom for Modern Life: Stoicism in the 21st Century'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Ancient Wisdom for Modern Life: Stoicism in the 21st Century
 

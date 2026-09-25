@@ -1,11 +1,14 @@
 ---
-title: Can Meta Actually Survive This?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Can Meta Actually Survive This?
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Can Meta Actually Survive This?
 

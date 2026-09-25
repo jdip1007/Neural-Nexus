@@ -1,16 +1,20 @@
 ---
-title: Minimum Viable
-created: 2026-08-05
-updated: 2026-08-05
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-q9GpzCudQb4-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-05
+domain: ai
 reviewed: 2026-08-05
+sources:
+- raw/videos/youtube-q9GpzCudQb4-transcript.md
+status: active
+tags:
+- general
+title: Minimum Viable
+type: entity
+updated: 2026-08-05
 ---
+
+
 
 # Minimum Viable
 

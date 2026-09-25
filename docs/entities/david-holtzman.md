@@ -1,17 +1,21 @@
 ---
-title: David M. Holtzman
-created: 2026-07-29
-updated: 2026-07-29
-type: entity
-classification: person.researcher
-domain: biotech
-tags: ["neurology", "alzheimers-disease", "neurodegeneration", "therapeutic-antibodies"]
-sources: [raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-confidence: high
-status: active
-reviewed: 2026-07-29
 backlinks: []
+classification: person.researcher
+confidence: high
+created: 2026-07-29
+domain: biotech
+reviewed: 2026-07-29
+sources:
+- raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md
+status: active
+tags:
+- general
+title: David M. Holtzman
+type: entity
+updated: 2026-07-29
 ---
+
+
 
 # David M. Holtzman
 

@@ -1,11 +1,14 @@
 ---
-title: 'Hades: The Solution to Analysis Paralysis in Esports - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Hades: The Solution to Analysis Paralysis in Esports - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Hades: The Solution to Analysis Paralysis in Esports - Summary
 

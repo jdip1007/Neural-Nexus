@@ -1,22 +1,19 @@
 ---
-{
-  "title": "The Lie of \"Positive Thinking\"",
-  "created": "2026-09-20T04:23:05.438077",
-  "updated": "2026-09-20T04:23:05.438090",
-  "type": "video",
-  "tags": [
-    "psychology",
-    "mindset",
-    "mental health",
-    "cognitive"
-  ],
-  "sources": [
-    "youtube.com/watch?v=vr-EwLQCOIk"
-  ],
-  "video_id": "vr-EwLQCOIk",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-20T04:23:05.438077'
+domain: general
+sources:
+- youtube.com/watch?v=vr-EwLQCOIk
+tags:
+- general
+title: The Lie of "Positive Thinking"
+type: video
+updated: '2026-09-20T04:23:05.438090'
+video_id: vr-EwLQCOIk
 ---
+
+
+
 
 # The Lie of "Positive Thinking"
 

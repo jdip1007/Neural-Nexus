@@ -1,23 +1,20 @@
 ---
-title: Is America Chasing Away All Of Its Smart People?
+channel: How Money Works
 created: 2026-09-03 20:38:20.473091
-updated: 2026-09-03 20:38:20.473106
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Investing
-- Money
-- Finance
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=THodtjsCTSI
-channel: How Money Works
+tags:
+- general
+title: Is America Chasing Away All Of Its Smart People?
+type: reading
+updated: 2026-09-03 20:38:20.473106
 video_id: THodtjsCTSI
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # Is America Chasing Away All Of Its Smart People?
 

@@ -1,16 +1,20 @@
 ---
-title: X先生 (Mr. X) - Television Celebrity
-created: 2026-07-19
-updated: 2026-07-19
-type: entity
 classification: person.media-figure
-domain: psychology
-tags: ["celebrity", "television-personality", "blackmail-victim", "hong-kong"]
 confidence: medium
-status: active
+created: 2026-07-19
+domain: psychology
 reviewed: 2026-07-19
-sources: [raw/videos/dangerous-person-2-0/]
+sources:
+- raw/videos/dangerous-person-2-0/
+status: active
+tags:
+- general
+title: X先生 (Mr. X) - Television Celebrity
+type: entity
+updated: 2026-07-19
 ---
+
+
 
 # X先生 (Mr. X) - Television Celebrity
 

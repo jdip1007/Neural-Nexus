@@ -1,12 +1,17 @@
 ---
-title: "Metabolic Syndrome"
+classification: metabolic-syndrome
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [metabolic-syndrome]
 status: stub
+tags:
+- general
+title: Metabolic Syndrome
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Metabolic Syndrome
 

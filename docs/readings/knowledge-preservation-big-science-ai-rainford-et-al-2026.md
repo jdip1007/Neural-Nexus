@@ -1,15 +1,19 @@
 ---
-title: Knowledge Preservation in the Era of Big Science and AI
-created: 2026-07-18
-updated: 2026-07-18
-type: reading
-domain: ai, biotech
-tags: [knowledge-management, research, reproducibility, ai]
-sources: [raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md]
 confidence: high
-status: active
+created: 2026-07-18
+domain: ai, biotech
 reviewed: 2026-07-18
+sources:
+- raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
+status: active
+tags:
+- general
+title: Knowledge Preservation in the Era of Big Science and AI
+type: reading
+updated: 2026-07-18
 ---
+
+
 
 # Knowledge Preservation in the Era of Big Science and AI
 

@@ -1,18 +1,22 @@
 ---
-title: Inside the $14 Billion Contract Crippling Modern Computers - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, lXWVGT7aZVo]
-sources: [raw/videos/youtube-lXWVGT7aZVo-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-lXWVGT7aZVo-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Inside the $14 Billion Contract Crippling Modern Computers - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # Inside the $14 Billion Contract Crippling Modern Computers - Summary
 

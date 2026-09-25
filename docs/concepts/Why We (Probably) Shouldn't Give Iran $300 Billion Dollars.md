@@ -1,19 +1,19 @@
 ---
-title: Why We (Probably) Shouldn't Give Iran $300 Billion Dollars
+classification: youtube
 created: 2026-09-04
-updated: 2026-09-04
-type: concept
-tags:
-- youtube
-- how-money-works
-- finance
-- investing
-- international-finance
+domain: finance
 sources:
 - raw/transcripts/how-money-works/Why We (Probably) Shouldn't Give Iran $300 Billion
   Dollars.md
-domain: finance
+tags:
+- general
+title: Why We (Probably) Shouldn't Give Iran $300 Billion Dollars
+type: concept
+updated: 2026-09-04
 ---
+
+
+
 
 # Why We (Probably) Shouldn't Give Iran $300 Billion Dollars
 

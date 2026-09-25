@@ -1,21 +1,20 @@
 ---
 created: '2026-08-24T10:22:01.449384'
+domain: general
 duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=dummy9
 tags:
-- youtube
-- chris-willx
-- philosophy
-- health
+- general
 title: 'Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel
   Lieberman'
 type: reading
 updated: '2026-08-24T10:22:01.449386'
 video_id: dummy9
 views: Unknown
-domain: general
 ---
+
+
 
 # Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman
 

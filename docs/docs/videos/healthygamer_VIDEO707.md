@@ -1,12 +1,16 @@
 ---
-title: Sample Video VIDEO707
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: psychology
-tags: []
 status: draft
+tags:
+- general
+title: Sample Video VIDEO707
+type: reading
+updated: 2026-09-12
 ---
+
+
+
 
 ---
 title: Sample Video VIDEO707

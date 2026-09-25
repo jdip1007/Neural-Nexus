@@ -1,21 +1,20 @@
 ---
-{
-  "title": "Insurance Planning: Protecting Your Assets and Family",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "insurance"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=x1Y2z3m4n5P"
-  ],
-  "video_id": "x1Y2z3m4n5P",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=x1Y2z3m4n5P
+tags:
+- general
+title: 'Insurance Planning: Protecting Your Assets and Family'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: x1Y2z3m4n5P
 ---
+
+
 
 # Insurance Planning: Protecting Your Assets and Family
 

@@ -9,14 +9,13 @@ sources:
 - ./raw/transcripts/social-media-analysis.md
 status: active
 tags:
-- social-media
-- digital-marketing
-- internet-culture
-- online-behavior
+- general
 title: Social Media
 type: reading
 updated: '2026-08-25'
 ---
+
+
 
 # Social Media
 

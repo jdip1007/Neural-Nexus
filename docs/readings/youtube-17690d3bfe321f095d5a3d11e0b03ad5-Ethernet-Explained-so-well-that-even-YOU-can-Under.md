@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-18T01:19:28.032755'
+domain: general
 duration: 23 minutes
 sources:
 - https://www.youtube.com/watch?v=7vzjIv2l6wY
 tags:
-- system
-- assembly
-- programming
 - tech
-- tutorial
-- ethernet
-- software
 - diy
-- network
-- hardware
 - code
 - led
-- development
-- youtube
-- daves-garage
 title: Ethernet Explained so well that even YOU can Understand it!
 type: video
 updated: '2026-09-18T01:19:28.032769'
 video_id: 7vzjIv2l6wY
 views: 170K
 ---
+
+
+
 
 # Ethernet Explained so well that even YOU can Understand it!
 

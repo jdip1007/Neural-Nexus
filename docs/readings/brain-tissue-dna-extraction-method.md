@@ -1,15 +1,19 @@
 ---
-title: Brain Tissue DNA Extraction Method
-created: 2026-07-19
-updated: 2026-07-19
-type: reading
-domain: biotech
-tags: [dna-extraction, molecular-biology, biotechnology, tissue-preparation]
-sources: [raw/articles/brain-tissue-dna-extraction-method.md]
 confidence: high
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources:
+- raw/articles/brain-tissue-dna-extraction-method.md
+status: active
+tags:
+- general
+title: Brain Tissue DNA Extraction Method
+type: reading
+updated: 2026-07-19
 ---
+
+
 
 # Brain Tissue DNA Extraction Method
 

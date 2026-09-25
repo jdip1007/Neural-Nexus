@@ -1,17 +1,21 @@
 ---
-title: The Worst Red Flags I've Seen As A Therapist
-created: 2026-09-15
-updated: 2026-09-15
-type: video
-classification: internet_culture.youtube-channel.internet-anarchist
-domain: internet_culture
-tags: []
-sources: [raw/youtube/bG2sW8xY3oP_the-worst-red-flags-ive-seen-as-a-therapist.md]
-confidence: high
-status: active
-reviewed: 2026-09-15
 backlinks: []
+classification: internet_culture.youtube-channel.internet-anarchist
+confidence: high
+created: 2026-09-15
+domain: internet_culture
+reviewed: 2026-09-15
+sources:
+- raw/youtube/bG2sW8xY3oP_the-worst-red-flags-ive-seen-as-a-therapist.md
+status: active
+tags:
+- general
+title: The Worst Red Flags I've Seen As A Therapist
+type: video
+updated: 2026-09-15
 ---
+
+
 
 # The Worst Red Flags I've Seen As A Therapist
 

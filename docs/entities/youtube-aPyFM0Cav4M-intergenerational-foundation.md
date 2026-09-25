@@ -1,16 +1,20 @@
 ---
-title: Intergenerational Foundation
-created: 2026-08-30
-updated: 2026-08-30
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "organizations"]
-sources: [raw/videos/youtube-aPyFM0Cav4M-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-30
+domain: ai
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-aPyFM0Cav4M-transcript.md
+status: active
+tags:
+- general
+title: Intergenerational Foundation
+type: entity
+updated: 2026-08-30
 ---
+
+
 
 # Intergenerational Foundation
 

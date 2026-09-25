@@ -1,16 +1,20 @@
 ---
-title: The Milky
-created: 2026-09-02
-updated: 2026-09-02
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-4NtVHGT2tgI-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-02
+domain: ai
 reviewed: 2026-09-02
+sources:
+- raw/videos/youtube-4NtVHGT2tgI-transcript.md
+status: active
+tags:
+- general
+title: The Milky
+type: entity
+updated: 2026-09-02
 ---
+
+
 
 # The Milky
 

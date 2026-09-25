@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-23T02:58:27.446979'
+domain: general
 duration: 16 minutes
 sources:
 - https://www.youtube.com/watch?v=2c4Yf7WzQzY
 tags:
-- development
 - tech
 - code
-- hardware
 - diy
-- software
 - led
-- system
-- tutorial
-- programming
-- ethernet
-- assembly
-- network
-- youtube
-- daves-garage
 title: fopen is Magic! - Find Out What You've Been Missing All These Years!
 type: video
 updated: '2026-09-23T02:58:27.446989'
 video_id: 2c4Yf7WzQzY
 views: 129K
 ---
+
+
+
 
 # fopen is Magic! - Find Out What You've Been Missing All These Years!
 

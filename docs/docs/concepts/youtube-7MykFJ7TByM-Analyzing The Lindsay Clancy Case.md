@@ -1,14 +1,15 @@
 ---
-title: Analyzing The Lindsay Clancy Case
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- youtube
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/Analyzing The Lindsay Clancy Case.md
-domain: psychology
+tags:
+- general
+title: Analyzing The Lindsay Clancy Case
+type: concept
+updated: 2026-09-03
 ---
+
 
 # Analyzing The Lindsay Clancy Case
 

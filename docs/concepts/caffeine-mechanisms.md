@@ -1,12 +1,17 @@
 ---
-title: "Caffeine Mechanisms"
+classification: caffeine-mechanisms
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [caffeine-mechanisms]
 status: stub
+tags:
+- general
+title: Caffeine Mechanisms
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Caffeine Mechanisms
 

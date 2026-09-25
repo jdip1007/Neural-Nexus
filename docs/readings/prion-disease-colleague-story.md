@@ -1,17 +1,21 @@
 ---
-title: My Friend Got Prion Disease - Chubbyemu Medical Case
-created: 2026-08-02
-updated: 2026-08-02
-type: reading
-classification: biotechnology.neuroscience.neurodegeneration
-domain: biotech
-tags: [neurodegeneration, prion-disease, creutzfeldt-jakob-disease, kuru, neurodegenerative-disease, infectious-proteins, brain-disease]
-sources: [raw/videos/prion-disease-colleague-story.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: biotechnology.neuroscience.neurodegeneration
+confidence: medium
+created: 2026-08-02
+domain: biotech
+reviewed: 2026-08-02
+sources:
+- raw/videos/prion-disease-colleague-story.md
+status: active
+tags:
+- kuru
+title: My Friend Got Prion Disease - Chubbyemu Medical Case
+type: reading
+updated: 2026-08-02
 ---
+
+
 
 # My Friend Got Prion Disease - Chubbyemu Medical Case
 

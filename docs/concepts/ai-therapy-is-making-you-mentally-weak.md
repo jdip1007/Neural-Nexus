@@ -1,17 +1,21 @@
 ---
-title: AI Therapy is Making You Mentally Weak
-created: 2026-08-23
-updated: 2026-08-23
-type: concept
-classification: psychology.mental-health
-domain: psychology
-tags: ["ai", "therapy", "mental-health"]
-sources: [raw/videos/healthygamergg/AI Therapy is Making You Mentally Weak.md]
-confidence: medium
-status: active
-reviewed: 2026-08-23
 backlinks: []
+classification: psychology.mental-health
+confidence: medium
+created: 2026-08-23
+domain: psychology
+reviewed: 2026-08-23
+sources:
+- raw/videos/healthygamergg/AI Therapy is Making You Mentally Weak.md
+status: active
+tags:
+- general
+title: AI Therapy is Making You Mentally Weak
+type: concept
+updated: 2026-08-23
 ---
+
+
 
 # AI Therapy is Making You Mentally Weak
 

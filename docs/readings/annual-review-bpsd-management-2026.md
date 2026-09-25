@@ -1,17 +1,21 @@
 ---
-title: Management of Behavioral and Psychological Symptoms of Dementia (2026 Review)
-created: 2026-08-02
-updated: 2026-08-02
-type: reading
-classification: psychology.mental-health.bpsd
-domain: psychology
-tags: [bpsd, neuropsychiatric-symptoms, person-centered-dementia-care, nonpharmacologic-interventions, deprescribing, research, review]
-sources: [raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
-confidence: high
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: psychology.mental-health.bpsd
+confidence: high
+created: 2026-08-02
+domain: psychology
+reviewed: 2026-08-02
+sources:
+- raw/articles/annual-review-bpsd-management-watt-et-al-2026.md
+status: active
+tags:
+- bpsd
+title: Management of Behavioral and Psychological Symptoms of Dementia (2026 Review)
+type: reading
+updated: 2026-08-02
 ---
+
+
 
 # Management of Behavioral and Psychological Symptoms of Dementia: Nonpharmacologic and Pharmacologic Interventions
 

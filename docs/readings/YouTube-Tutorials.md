@@ -1,17 +1,19 @@
 ---
-title: "YouTube Tutorials"
-created: "2026-09-24"
-updated: "2026-09-24"
-type: finding
-classification: resource.tutorials
-domain: technology
-tags: ["youtube", "tutorials", "learning", "technology", "education"]
-sources: []
-confidence: high
-status: active
-reviewed: "2026-09-24"
 backlinks: []
+classification: resource.tutorials
+confidence: high
+created: '2026-09-24'
+domain: technology
+reviewed: '2026-09-24'
+sources: []
+status: active
+tags:
+- general
+title: YouTube Tutorials
+type: finding
+updated: '2026-09-24'
 ---
+
 
 # YouTube Tutorials
 

@@ -1,16 +1,18 @@
 ---
-title: Microsoft's Secret 90s Weapon That Made Windows Fast
-created: 2026-09-02
-updated: 2026-09-02
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ["youtube", "tutorial"]
-confidence: medium
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: 2026-09-02
+domain: technology
+reviewed: 2026-09-02
+status: active
+tags:
+- general
+title: Microsoft's Secret 90s Weapon That Made Windows Fast
+type: reading
+updated: 2026-09-02
 ---
+
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 

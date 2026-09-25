@@ -1,16 +1,16 @@
 ---
-title: 'Reliable Isn''t Always Better: TCP vs UDP'
-created: '2026-09-09T23:20:22.656166'
-updated: '2026-09-09T23:20:22.656167'
-type: reading
-tags:
-- youtube
-- diy
-youtube_id: 6uTZWbGLtjw
 channel: Dave's Garage
 channel_url: https://youtube.com/@davesgarage
+created: '2026-09-09T23:20:22.656166'
 domain: devops
+tags:
+- diy
+title: 'Reliable Isn''t Always Better: TCP vs UDP'
+type: reading
+updated: '2026-09-09T23:20:22.656167'
+youtube_id: 6uTZWbGLtjw
 ---
+
 
 # Reliable Isn't Always Better: TCP vs UDP
 

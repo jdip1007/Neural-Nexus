@@ -1,19 +1,18 @@
 ---
-title: How Much Longer Can We "Hide" The Inflation?
+channel: How Money Works
 created: '2026-09-10T22:38:12.918242'
-updated: '2026-09-10T22:38:12.918255'
-type: reading
-tags:
-- youtube
-- how-money-works
-- data
-- inflation
+domain: finance
 sources:
 - https://www.youtube.com/watch?v=Ac25_v32dNE
+tags:
+- general
+title: How Much Longer Can We "Hide" The Inflation?
+type: reading
+updated: '2026-09-10T22:38:12.918255'
 video_id: Ac25_v32dNE
-channel: How Money Works
-domain: finance
 ---
+
+
 
 # How Much Longer Can We "Hide" The Inflation?
 

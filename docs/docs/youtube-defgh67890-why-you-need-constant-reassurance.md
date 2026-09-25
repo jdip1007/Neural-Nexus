@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-defgh67890-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- wellbeing
-- personal-development
+- general
 title: Why You Need Constant Reassurance
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # Why You Need Constant Reassurance
 

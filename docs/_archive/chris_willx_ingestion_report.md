@@ -1,12 +1,16 @@
 ---
-title: Chris Willx YouTube Ingestion Report
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: Chris Willx YouTube Ingestion Report
+type: reading
+updated: 2026-09-12
 ---
+
+
+
 
 
 # Chris Willx YouTube Ingestion Report

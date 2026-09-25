@@ -1,21 +1,20 @@
 ---
-{
-  "title": "Cryptocurrency and Digital Assets: Understanding the New Financial Frontier",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "cryptocurrency"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=kL8P5mZ7xY2"
-  ],
-  "video_id": "kL8P5mZ7xY2",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=kL8P5mZ7xY2
+tags:
+- general
+title: 'Cryptocurrency and Digital Assets: Understanding the New Financial Frontier'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: kL8P5mZ7xY2
 ---
+
+
 
 # Cryptocurrency and Digital Assets: Understanding the New Financial Frontier
 

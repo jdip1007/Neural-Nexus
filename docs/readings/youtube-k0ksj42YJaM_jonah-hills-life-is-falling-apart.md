@@ -1,17 +1,21 @@
 ---
-title: Jonah Hill's Life Is Falling Apart
-created: 2026-09-15
-updated: 2026-09-15
-type: video
-classification: internet_culture.youtube-channel.internet-anarchist
-domain: internet_culture
-tags: [""]
-sources: [raw/youtube/k0ksj42YJaM_jonah-hills-life-is-falling-apart.md]
-confidence: high
-status: active
-reviewed: 2026-09-15
 backlinks: []
+classification: internet_culture.youtube-channel.internet-anarchist
+confidence: high
+created: 2026-09-15
+domain: internet_culture
+reviewed: 2026-09-15
+sources:
+- raw/youtube/k0ksj42YJaM_jonah-hills-life-is-falling-apart.md
+status: active
+tags:
+- general
+title: Jonah Hill's Life Is Falling Apart
+type: video
+updated: 2026-09-15
 ---
+
+
 
 # Jonah Hill's Life Is Falling Apart
 

@@ -1,17 +1,20 @@
 ---
-title: The Cost Of Attention
-created: 2026-08-17
-updated: 2026-08-17
-type: concept
-classification: psychology.relationships
-domain: psychology
-tags: ["attention", "cognition", "focus"]
-sources: [raw/videos/healthygamergg/sample4.md]
-confidence: medium
-status: active
-reviewed: 2026-08-17
 backlinks: []
+classification: psychology.relationships
+confidence: medium
+created: 2026-08-17
+domain: psychology
+reviewed: 2026-08-17
+sources:
+- raw/videos/healthygamergg/sample4.md
+status: active
+tags:
+- focus
+title: The Cost Of Attention
+type: concept
+updated: 2026-08-17
 ---
+
 
 # The Cost Of Attention
 

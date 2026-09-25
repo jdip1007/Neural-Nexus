@@ -1,12 +1,16 @@
 ---
-title: "Adiposity"
+classification: adiposity
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [adiposity]
 status: stub
+tags:
+- general
+title: Adiposity
+type: concept
+updated: 2026-09-25
 ---
+
+
 
 # Adiposity
 

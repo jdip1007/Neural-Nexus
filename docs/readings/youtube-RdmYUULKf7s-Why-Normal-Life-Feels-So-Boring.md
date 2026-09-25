@@ -1,24 +1,16 @@
 ---
 created: '2026-09-11T00:10:26.053664'
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=RdmYUULKf7s
 tags:
-- youtube
-- healthy-gamer
-- mental_health
-- psychology
-- emotional_regulation
-- online_communities
-- personal_development
-- gaming
-- digital_life
-- anxiety
-- stress
+- general
 title: Why Normal Life Feels So Boring
 type: reading
 updated: '2026-09-11T00:10:26.053668'
-domain: psychology
 ---
+
+
 
 # Why Normal Life Feels So Boring
 

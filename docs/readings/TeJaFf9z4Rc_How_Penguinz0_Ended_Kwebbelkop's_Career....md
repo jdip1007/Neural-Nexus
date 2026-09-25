@@ -1,19 +1,17 @@
 ---
-title: How Penguinz0 Ended Kwebbelkop's Career...
-created: 2026-09-04 22:10:09
-updated: 2026-09-04 22:10:09
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-- internet-culture
-video_id: TeJaFf9z4Rc
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-04 22:10:09
 domain: devops
+duration: 15-25 minutes
+tags:
+- general
+title: How Penguinz0 Ended Kwebbelkop's Career...
+type: reading
+updated: 2026-09-04 22:10:09
+video_id: TeJaFf9z4Rc
 ---
+
+
 
 # How Penguinz0 Ended Kwebbelkop's Career...
 

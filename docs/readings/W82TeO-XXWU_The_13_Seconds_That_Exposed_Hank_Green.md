@@ -1,18 +1,17 @@
 ---
-title: The 13 Seconds That Exposed Hank Green
-created: 2026-09-05 22:24:23
-updated: 2026-09-05 22:24:23
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- general
-video_id: W82TeO-XXWU
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-05 22:24:23
 domain: devops
+duration: 15-25 minutes
+tags:
+- general
+title: The 13 Seconds That Exposed Hank Green
+type: reading
+updated: 2026-09-05 22:24:23
+video_id: W82TeO-XXWU
 ---
+
+
 
 # The 13 Seconds That Exposed Hank Green
 

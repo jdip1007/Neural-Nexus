@@ -1,11 +1,15 @@
 ---
-title: 'The Future of Cryptocurrency: What''s Next After Bitcoin?'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The Future of Cryptocurrency: What''s Next After Bitcoin?'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Future of Cryptocurrency: What's Next After Bitcoin?
 

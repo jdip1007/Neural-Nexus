@@ -1,18 +1,22 @@
 ---
-title: Can Meta Actually Survive This? - Summary
-created: 2026-08-27
-updated: 2026-08-27
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-4rmkiGMknpg-transcript.md]
-published: 2026-08-27
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-27
+domain: ai
+published: 2026-08-27
 reviewed: 2026-08-27
+sources:
+- raw/videos/youtube-4rmkiGMknpg-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Can Meta Actually Survive This? - Summary
+type: reading
+updated: 2026-08-27
 ---
+
+
 
 # Can Meta Actually Survive This? - Summary
 

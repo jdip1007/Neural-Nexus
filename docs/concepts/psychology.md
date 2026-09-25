@@ -1,17 +1,20 @@
 ---
-title: Psychology
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
-classification: psychology.general
-domain: psychology
-tags: [behavior, cognitive-science]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-07-25
 backlinks: []
+classification: psychology.general
+confidence: high
+created: 2026-07-25
+domain: psychology
+reviewed: 2026-07-25
+sources: []
+status: active
+tags:
+- general
+title: Psychology
+type: concept
+updated: 2026-07-25
 ---
+
+
 
 # Psychology
 

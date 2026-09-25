@@ -1,17 +1,16 @@
 ---
-title: Thoughts Your Therapist Has, But Doesnt Tell You
 created: 2026-08-29 19:54:51.638878
-updated: 2026-08-29 19:54:51.638881
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://youtu.be/xHkcIRZa6lo
-domain: psychology
+tags:
+- dr-k
+title: Thoughts Your Therapist Has, But Doesnt Tell You
+type: reading
+updated: 2026-08-29 19:54:51.638881
 ---
+
+
 
 # Thoughts Your Therapist Has, But Doesnt Tell You
 

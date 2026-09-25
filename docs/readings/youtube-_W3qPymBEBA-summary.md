@@ -1,18 +1,22 @@
 ---
-title: WTF Does Peter Thiel Actually Want? - Summary
-created: 2026-08-22
-updated: 2026-08-22
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-_W3qPymBEBA-transcript.md]
-published: 2026-08-22
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-22
+domain: ai
+published: 2026-08-22
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-_W3qPymBEBA-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: WTF Does Peter Thiel Actually Want? - Summary
+type: reading
+updated: 2026-08-22
 ---
+
+
 
 # WTF Does Peter Thiel Actually Want? - Summary
 

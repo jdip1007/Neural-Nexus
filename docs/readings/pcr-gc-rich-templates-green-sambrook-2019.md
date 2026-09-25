@@ -1,16 +1,22 @@
 ---
-title: PCR Amplification of GC-Rich Templates (Green & Sambrook 2019)
-created: 2026-07-26
-updated: 2026-07-26
-type: reading
 classification: biotechnology.molecular-biology.dna-operations
-domain: biotech
-tags: [pcr, gc-rich, dna-amplification, molecular-biology, enhancers, betaine, dmso, additives]
-sources: [raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md]
 confidence: high
-status: active
+created: 2026-07-26
+domain: biotech
 reviewed: 2026-07-26
+sources:
+- raw/articles/pcr-gc-rich-templates-green-sambrook-2019.md
+status: active
+tags:
+- pcr
+- gc-rich
+- dmso
+title: PCR Amplification of GC-Rich Templates (Green & Sambrook 2019)
+type: reading
+updated: 2026-07-26
 ---
+
+
 
 # PCR Amplification of GC-Rich Templates
 

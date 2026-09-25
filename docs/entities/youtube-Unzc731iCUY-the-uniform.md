@@ -1,16 +1,20 @@
 ---
-title: The Uniform
-created: 2026-08-29
-updated: 2026-08-29
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-29
+domain: ai
 reviewed: 2026-08-29
+sources:
+- raw/videos/youtube-Unzc731iCUY-transcript.md
+status: active
+tags:
+- general
+title: The Uniform
+type: entity
+updated: 2026-08-29
 ---
+
+
 
 # The Uniform
 

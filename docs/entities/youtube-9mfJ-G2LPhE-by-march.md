@@ -1,16 +1,20 @@
 ---
-title: By March
-created: 2026-09-16
-updated: 2026-09-16
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, 9mfJ-G2LPhE]
-sources: [raw/videos/youtube-9mfJ-G2LPhE-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-16
+domain: ai
 reviewed: 2026-09-16
+sources:
+- raw/videos/youtube-9mfJ-G2LPhE-transcript.md
+status: active
+tags:
+- general
+title: By March
+type: entity
+updated: 2026-09-16
 ---
+
+
 
 # By March
 

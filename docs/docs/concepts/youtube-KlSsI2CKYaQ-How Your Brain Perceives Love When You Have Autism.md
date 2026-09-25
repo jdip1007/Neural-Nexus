@@ -1,15 +1,15 @@
 ---
-title: How Your Brain Perceives Love When You Have Autism
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- relationships
-- relationships
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/How Your Brain Perceives Love When You Have Autism.md
-domain: psychology
+tags:
+- general
+title: How Your Brain Perceives Love When You Have Autism
+type: concept
+updated: 2026-09-03
 ---
+
 
 # How Your Brain Perceives Love When You Have Autism
 

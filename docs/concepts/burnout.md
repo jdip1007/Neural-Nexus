@@ -1,12 +1,17 @@
 ---
-title: "burnout"
+classification: burnout
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: burnout
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # burnout
 

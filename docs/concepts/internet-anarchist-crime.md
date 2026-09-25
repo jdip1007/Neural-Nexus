@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Crime
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The Dark Life After To Catch a Predator.md
+tags:
+- crime
+title: Internet Anarchist - Crime
 type: concept
-tags: [youtube, internet-anarchist, crime, documentary]
-sources: [The Dark Life After To Catch a Predator.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Crime
 

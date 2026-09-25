@@ -1,18 +1,22 @@
 ---
-title: Modern Cyber Security Is DEAD. The $3300 BILLION Quantum COLLAPSE. - Summary
-created: 2026-08-22
-updated: 2026-08-22
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-jlyIyObWBzo-transcript.md]
-published: 2026-08-22
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-22
+domain: ai
+published: 2026-08-22
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-jlyIyObWBzo-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Modern Cyber Security Is DEAD. The $3300 BILLION Quantum COLLAPSE. - Summary
+type: reading
+updated: 2026-08-22
 ---
+
+
 
 # Modern Cyber Security Is DEAD. The $3300 BILLION Quantum COLLAPSE. - Summary
 

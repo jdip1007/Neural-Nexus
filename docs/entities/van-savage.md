@@ -1,16 +1,19 @@
 ---
-title: Van Savage
-created: 2026-07-31
-updated: 2026-07-31
-type: entity
 classification: person.researcher
-domain: biology
-tags: [metabolic-scaling, theoretical-biology, fractal-networks]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: biology
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- general
+title: Van Savage
+type: entity
+updated: 2026-07-31
 ---
+
+
 
 # Van Savage
 

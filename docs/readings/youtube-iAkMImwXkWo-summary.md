@@ -1,11 +1,14 @@
 ---
-title: 'From Core Memory to the Internet: Amazing History of the PDP-11 - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'From Core Memory to the Internet: Amazing History of the PDP-11 - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # From Core Memory to the Internet: Amazing History of the PDP-11 - Summary
 

@@ -1,16 +1,18 @@
 ---
-title: "The Cost Of Attention"
-created: "2026-09-11"
-updated: "2026-09-11"
-type: finding
-classification: video.daves-garage
-domain: economics
-tags: ["economics", "youtube", "analysis"]
-confidence: medium
-status: active
-reviewed: "2026-09-11"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-11'
+domain: economics
+reviewed: '2026-09-11'
+status: active
+tags:
+- general
+title: The Cost Of Attention
+type: finding
+updated: '2026-09-11'
 ---
+
 
 # The Cost Of Attention
 

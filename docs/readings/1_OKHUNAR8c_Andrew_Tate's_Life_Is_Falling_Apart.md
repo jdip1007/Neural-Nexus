@@ -1,18 +1,17 @@
 ---
-title: Andrew Tate's Life Is Falling Apart
-created: 2026-09-04 22:10:12
-updated: 2026-09-04 22:10:12
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: 1_OKHUNAR8c
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-04 22:10:12
 domain: devops
+duration: 15-25 minutes
+tags:
+- general
+title: Andrew Tate's Life Is Falling Apart
+type: reading
+updated: 2026-09-04 22:10:12
+video_id: 1_OKHUNAR8c
 ---
+
+
 
 # Andrew Tate's Life Is Falling Apart
 

@@ -1,16 +1,20 @@
 ---
-title: Harris Alton
-created: 2026-08-13
-updated: 2026-08-13
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-8zUhBnpVgdE-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-13
+domain: ai
 reviewed: 2026-08-13
+sources:
+- raw/videos/youtube-8zUhBnpVgdE-transcript.md
+status: active
+tags:
+- general
+title: Harris Alton
+type: entity
+updated: 2026-08-13
 ---
+
+
 
 # Harris Alton
 

@@ -1,16 +1,20 @@
 ---
-title: Social Media
-created: 2026-08-21
-updated: 2026-08-21
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-XJ_DP8SJfa0-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-21
+domain: ai
 reviewed: 2026-08-21
+sources:
+- raw/videos/youtube-XJ_DP8SJfa0-transcript.md
+status: active
+tags:
+- general
+title: Social Media
+type: entity
+updated: 2026-08-21
 ---
+
+
 
 # Social Media
 

@@ -1,18 +1,23 @@
 ---
-title: How To Make Your Own Currency & The Companies That Already Have - How Money Works - Summary
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-5EDzRGxHT2M-transcript.md]
-published: 2026-08-29
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-29
+domain: ai
+published: 2026-08-29
 reviewed: 2026-08-29
+sources:
+- raw/videos/youtube-5EDzRGxHT2M-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: How To Make Your Own Currency & The Companies That Already Have - How Money
+  Works - Summary
+type: reading
+updated: 2026-08-29
 ---
+
+
 
 # How To Make Your Own Currency & The Companies That Already Have - How Money Works - Summary
 

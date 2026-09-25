@@ -1,17 +1,21 @@
 ---
-title: Criminal Forensic Testing Methods
-created: 1968-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.criminal-forensic.testing
-domain: psychology
-tags: [forensic-science, criminal-investigation, evidence-testing]
-sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.criminal-forensic.testing
+confidence: medium
+created: 1968-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-D4nPxik59oE-transcript.md
+status: active
+tags:
+- general
+title: Criminal Forensic Testing Methods
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Criminal Forensic Testing Methods
 

@@ -1,19 +1,23 @@
 ---
-title: Content Creator Burnout and Mental Health
-created: 2026-09-14T00:22:03
-updated: 2026-09-14T00:22:03
-type: video
-classification: hermes.internet-culture.youtube-creator
-domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "content-creation", "mental-health"]
-sources: ["https://www.youtube.com/watch?v=fresh007_2026"]
-video_id: fresh007_2026
-duration: 15-25 minutes
 channel: Internet Anarchist
+classification: hermes.internet-culture.youtube-creator
 confidence: high
-status: active
+created: 2026-09-14 00:22:03
+domain: hermes
+duration: 15-25 minutes
 reviewed: 2026-09-14
+sources:
+- https://www.youtube.com/watch?v=fresh007_2026
+status: active
+tags:
+- general
+title: Content Creator Burnout and Mental Health
+type: video
+updated: 2026-09-14 00:22:03
+video_id: fresh007_2026
 ---
+
+
 
 # Content Creator Burnout and Mental Health
 

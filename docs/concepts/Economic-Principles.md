@@ -1,22 +1,19 @@
 ---
-title: Economic Principles
-created: 2026-08-25
-updated: 2026-08-25
-type: concept
-classification: economics.general
-tags:
-- economics
-- finance
-- money
-- markets
-- policy
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-25
 backlinks: []
+classification: economics.general
+confidence: high
+created: 2026-08-25
 domain: finance
+reviewed: 2026-08-25
+sources: []
+status: active
+tags:
+- general
+title: Economic Principles
+type: concept
+updated: 2026-08-25
 ---
+
 
 # Economic Principles
 

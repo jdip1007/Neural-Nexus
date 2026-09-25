@@ -1,12 +1,16 @@
 ---
-title: "Metabolomics"
+classification: metabolomics
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [metabolomics]
 status: stub
+tags:
+- general
+title: Metabolomics
+type: concept
+updated: 2026-09-25
 ---
+
+
 
 # Metabolomics
 

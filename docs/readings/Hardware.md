@@ -1,17 +1,19 @@
 ---
-title: "Hardware"
-created: "2026-09-24"
-updated: "2026-09-24"
-type: reading
-classification: technology.hardware
-domain: technology
-tags: ["hardware", "electronics", "circuits", "embedded", "components"]
-sources: []
-confidence: high
-status: active
-reviewed: "2026-09-24"
 backlinks: []
+classification: technology.hardware
+confidence: high
+created: '2026-09-24'
+domain: technology
+reviewed: '2026-09-24'
+sources: []
+status: active
+tags:
+- general
+title: Hardware
+type: reading
+updated: '2026-09-24'
 ---
+
 
 # Hardware
 

@@ -1,18 +1,22 @@
 ---
-title: 360 Degree Video Tour of Amazing Shop - Summary
-created: 2026-08-16
-updated: 2026-08-16
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-pfVR4UwwIwU-transcript.md]
-published: 2026-08-16
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-16
+domain: ai
+published: 2026-08-16
 reviewed: 2026-08-16
+sources:
+- raw/videos/youtube-pfVR4UwwIwU-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: 360 Degree Video Tour of Amazing Shop - Summary
+type: reading
+updated: 2026-08-16
 ---
+
+
 
 # 360 Degree Video Tour of Amazing Shop - Summary
 

@@ -1,16 +1,20 @@
 ---
-title: Brian Enquist
-created: 2026-07-31
-updated: 2026-07-31
-type: entity
 classification: person.researcher
-domain: biology
-tags: [ecological-scaling, theoretical-biology, fractal-geometry]
-sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: biology
 reviewed: 2026-07-31
+sources:
+- raw/videos/one-billion-heartbeats-veritasium.md
+status: active
+tags:
+- general
+title: Brian Enquist
+type: entity
+updated: 2026-07-31
 ---
+
+
 
 # Brian Enquist
 

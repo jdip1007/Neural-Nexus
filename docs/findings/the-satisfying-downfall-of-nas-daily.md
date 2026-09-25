@@ -1,11 +1,17 @@
 ---
-title: The Satisfying Downfall of Nas Daily
 created: 2026-09-21
-updated: 2026-09-21
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/gcx2jMbBGY4.md
+tags:
+- general
+title: The Satisfying Downfall of Nas Daily
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/gcx2jMbBGY4.md]
+updated: 2026-09-21
 ---
+
+
+
 
 # The Satisfying Downfall of Nas Daily
 

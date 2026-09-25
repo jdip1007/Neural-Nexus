@@ -1,18 +1,22 @@
 ---
-title: The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Right NOW. - Summary
-created: 2026-08-13
-updated: 2026-08-13
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-OunJtLnyPT4-transcript.md]
-published: 2026-08-13
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-13
+domain: ai
+published: 2026-08-13
 reviewed: 2026-08-13
+sources:
+- raw/videos/youtube-OunJtLnyPT4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Right NOW. - Summary
+type: reading
+updated: 2026-08-13
 ---
+
+
 
 # The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Right NOW. - Summary
 

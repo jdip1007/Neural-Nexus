@@ -1,18 +1,22 @@
 ---
-title: $2.45 BILLION Debt. Ubisoft is DOOMED. - Summary
-created: 2026-08-09
-updated: 2026-08-09
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-q9GpzCudQb4-transcript.md]
-published: 2026-08-09
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-09
+domain: ai
+published: 2026-08-09
 reviewed: 2026-08-09
+sources:
+- raw/videos/youtube-q9GpzCudQb4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: $2.45 BILLION Debt. Ubisoft is DOOMED. - Summary
+type: reading
+updated: 2026-08-09
 ---
+
+
 
 # $2.45 BILLION Debt. Ubisoft is DOOMED. - Summary
 

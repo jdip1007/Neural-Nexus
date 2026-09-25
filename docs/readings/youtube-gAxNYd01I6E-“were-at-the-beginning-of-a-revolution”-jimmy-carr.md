@@ -1,11 +1,14 @@
 ---
-title: “We're At The Beginning Of A Revolution” - Jimmy Carr
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: “We're At The Beginning Of A Revolution” - Jimmy Carr
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # “We're At The Beginning Of A Revolution” - Jimmy Carr
 

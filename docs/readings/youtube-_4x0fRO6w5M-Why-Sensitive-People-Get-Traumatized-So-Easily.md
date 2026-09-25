@@ -1,24 +1,16 @@
 ---
 created: '2026-09-11T00:09:39.192011'
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=_4x0fRO6w5M
 tags:
-- youtube
-- healthy-gamer
-- digital_life
-- personal_development
-- emotional_regulation
-- gaming
-- mental_health
-- psychology
-- anxiety
-- stress
-- online_communities
+- general
 title: Why Sensitive People Get Traumatized So Easily
 type: reading
 updated: '2026-09-11T00:09:39.192013'
-domain: psychology
 ---
+
+
 
 # Why Sensitive People Get Traumatized So Easily
 

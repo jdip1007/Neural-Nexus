@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-xyzab67890-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- wellbeing
-- personal-development
+- general
 title: Why Gifted People Burn Out The Fastest
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # Why Gifted People Burn Out The Fastest
 

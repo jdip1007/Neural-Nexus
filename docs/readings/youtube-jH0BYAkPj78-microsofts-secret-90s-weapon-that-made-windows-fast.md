@@ -1,13 +1,13 @@
 ---
-title: Microsoft's Secret 90s Weapon That Made Windows Fast
 created: '2026-09-03T21:40:05.826440'
-updated: '2026-09-03T21:40:05.826447'
-type: reading
-tags:
-- youtube
-- diy
 domain: devops
+tags:
+- diy
+title: Microsoft's Secret 90s Weapon That Made Windows Fast
+type: reading
+updated: '2026-09-03T21:40:05.826447'
 ---
+
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 

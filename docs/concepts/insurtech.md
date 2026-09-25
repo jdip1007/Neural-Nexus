@@ -1,17 +1,19 @@
 ---
-title: Insurtech
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
-classification: finance.insurance-products
-domain: finance
-tags: [insurance]
-sources: []
-confidence: medium
-status: draft
-reviewed: 2026-07-25
 backlinks: []
+classification: finance.insurance-products
+confidence: medium
+created: 2026-07-25
+domain: finance
+reviewed: 2026-07-25
+sources: []
+status: draft
+tags:
+- general
+title: Insurtech
+type: concept
+updated: 2026-07-25
 ---
+
 
 # Insurtech
 

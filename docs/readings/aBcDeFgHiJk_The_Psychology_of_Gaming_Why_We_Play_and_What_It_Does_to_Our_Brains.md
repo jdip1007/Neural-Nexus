@@ -1,11 +1,15 @@
 ---
-title: 'The Psychology of Gaming: Why We Play and What It Does to Our Brains'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The Psychology of Gaming: Why We Play and What It Does to Our Brains'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Psychology of Gaming: Why We Play and What It Does to Our Brains
 

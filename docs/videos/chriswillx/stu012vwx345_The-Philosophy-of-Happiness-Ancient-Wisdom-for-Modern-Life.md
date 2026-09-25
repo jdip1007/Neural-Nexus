@@ -1,11 +1,15 @@
 ---
-title: 'The Philosophy of Happiness: Ancient Wisdom for Modern Life'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The Philosophy of Happiness: Ancient Wisdom for Modern Life'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Philosophy of Happiness: Ancient Wisdom for Modern Life
 

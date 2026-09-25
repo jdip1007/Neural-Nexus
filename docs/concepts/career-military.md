@@ -1,17 +1,20 @@
 ---
-title: Career Military
-created: 2026-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.military.career
-domain: psychology
-tags: [military, career, service, military-career-path]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.military.career
+confidence: high
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources: []
+status: active
+tags:
+- general
+title: Career Military
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Career Military
 

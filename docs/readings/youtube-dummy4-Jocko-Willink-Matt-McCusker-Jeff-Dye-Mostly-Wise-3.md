@@ -1,19 +1,19 @@
 ---
 created: '2026-08-24T10:22:00.448070'
+domain: general
 duration: 2 hours, 33 minutes
 sources:
 - https://www.youtube.com/watch?v=dummy4
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: 'Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3'
 type: reading
 updated: '2026-08-24T10:22:00.448071'
 video_id: dummy4
 views: 211K
-domain: general
 ---
+
+
 
 # Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3
 

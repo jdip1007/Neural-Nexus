@@ -1,16 +1,19 @@
 ---
-title: PCR (Polymerase Chain Reaction)
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: biotechnology.molecular-biology.dna-operations
-domain: biotech
-tags: [molecular-biology, genomics, laboratory-technique, biotechnology]
-sources: []
 confidence: medium
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources: []
+status: active
+tags:
+- general
+title: PCR (Polymerase Chain Reaction)
+type: concept
+updated: 2026-07-19
 ---
+
+
 
 # PCR (Polymerase Chain Reaction)
 

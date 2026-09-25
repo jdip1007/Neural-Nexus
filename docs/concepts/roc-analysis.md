@@ -1,16 +1,19 @@
 ---
-title: ROC Analysis
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.method-evaluation
-domain: laboratory
-tags: [diagnostic-accuracy, statistical-analysis]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- general
+title: ROC Analysis
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # ROC Analysis
 

@@ -1,16 +1,23 @@
 ---
-title: DNA Extraction Methodologies
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: biotechnology.molecular-biology.dna-operations
-domain: biotech
-tags: [molecular-biology, genomics, laboratory-technique, biotechnology, dna-extraction]
-sources: [raw/articles/cell-line-dna-pure-extraction-method.md, raw/articles/cell-line-dna-pure-extraction-method-en-13.md, raw/articles/cell-line-dna-qgn-extraction-method.md, raw/articles/cell-line-dna-qgn-extraction-method-en-13.md]
 confidence: high
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources:
+- raw/articles/cell-line-dna-pure-extraction-method.md
+- raw/articles/cell-line-dna-pure-extraction-method-en-13.md
+- raw/articles/cell-line-dna-qgn-extraction-method.md
+- raw/articles/cell-line-dna-qgn-extraction-method-en-13.md
+status: active
+tags:
+- general
+title: DNA Extraction Methodologies
+type: concept
+updated: 2026-07-19
 ---
+
+
 
 # DNA Extraction Methodologies
 

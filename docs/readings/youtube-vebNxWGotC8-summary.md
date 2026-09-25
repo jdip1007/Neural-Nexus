@@ -1,18 +1,22 @@
 ---
-title: FBI vs CIA - How Do They Compare? - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, vebNxWGotC8]
-sources: [raw/videos/youtube-vebNxWGotC8-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-vebNxWGotC8-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: FBI vs CIA - How Do They Compare? - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # FBI vs CIA - How Do They Compare? - Summary
 

@@ -1,17 +1,16 @@
 ---
-title: Why You Need Constant Reassurance
 created: 2026-09-07 23:20:09.956378
-updated: 2026-09-07 23:20:09.956388
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=L-gJ_Fo72-k
-domain: psychology
+tags:
+- dr-k
+title: Why You Need Constant Reassurance
+type: reading
+updated: 2026-09-07 23:20:09.956388
 ---
+
+
 
 # Why You Need Constant Reassurance
 

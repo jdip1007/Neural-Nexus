@@ -1,17 +1,27 @@
 ---
-title: Why Brain Rot is So Addictive and How to Break Free
-created: 2026-08-10
-updated: 2026-08-10
-type: reading
-tags: [digital-wellness, brain-rot, dopamine, inflammation-cycle]
-domain: psychology
 classification: psychology.digital-wellness.addiction
-sources: [raw/videos/healthygamergg/why-brain-rot-is-so-addictive.md]
-video_id: eu9uvBYsPXs
-duration: 32:11
+created: 2026-08-10
 creator: Dr K (Healthy Gamer)
-related: [brain-rot, dopamine-lemon-metaphor, artificial-brain-circuit-activation, parasocial-relationships, inflammation-cycle, rage-bait]
+domain: psychology
+duration: 1931
+related:
+- brain-rot
+- dopamine-lemon-metaphor
+- artificial-brain-circuit-activation
+- parasocial-relationships
+- inflammation-cycle
+- rage-bait
+sources:
+- raw/videos/healthygamergg/why-brain-rot-is-so-addictive.md
+tags:
+- general
+title: Why Brain Rot is So Addictive and How to Break Free
+type: reading
+updated: 2026-08-10
+video_id: eu9uvBYsPXs
 ---
+
+
 
 # Why "Brain Rot" Content is So Addictive & How to Break Free (YouTube, 32:11)
 

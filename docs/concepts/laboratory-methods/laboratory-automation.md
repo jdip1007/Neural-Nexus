@@ -1,17 +1,20 @@
 ---
-title: Laboratory Automation
-created: 2026-08-01
-updated: 2026-08-01
-type: concept
-classification: laboratory.workflow
-domain: laboratory
-tags: [laboratory-automation, laboratory-equipment, workflow-efficiency]
-sources: []
-confidence: low
-status: stub
-reviewed: 2026-08-01
 backlinks: []
+classification: laboratory.workflow
+confidence: low
+created: 2026-08-01
+domain: laboratory
+reviewed: 2026-08-01
+sources: []
+status: stub
+tags:
+- general
+title: Laboratory Automation
+type: concept
+updated: 2026-08-01
 ---
+
+
 
 # Laboratory Automation
 

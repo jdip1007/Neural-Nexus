@@ -1,11 +1,17 @@
 ---
-title: The Satisfying Downfall of SSSniperWolf
 created: 2026-09-21
-updated: 2026-09-21
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/U7YtrRRccC0.md
+tags:
+- general
+title: The Satisfying Downfall of SSSniperWolf
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/U7YtrRRccC0.md]
+updated: 2026-09-21
 ---
+
+
+
 
 # The Satisfying Downfall of SSSniperWolf
 

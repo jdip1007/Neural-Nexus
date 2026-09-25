@@ -1,16 +1,20 @@
 ---
-title: The Church
-created: 2026-08-13
-updated: 2026-08-13
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-gsDGDCnntEk-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-13
+domain: ai
 reviewed: 2026-08-13
+sources:
+- raw/videos/youtube-gsDGDCnntEk-transcript.md
+status: active
+tags:
+- general
+title: The Church
+type: entity
+updated: 2026-08-13
 ---
+
+
 
 # The Church
 

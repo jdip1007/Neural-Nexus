@@ -1,15 +1,20 @@
 ---
-title: "Autism Spectrum Disorder and IQ – A Complex Interplay"
-created: 2026-09-24
-updated: 2026-09-24
-type: reading
-domain: psychology
-tags: [autism-spectrum-disorder, iq, diagnostics, heterogeneity, ados, cognitive-impairment, epidemiology, clinical-psychology]
-sources: [raw/transcripts/wolff-2022-asd-iq-interplay.txt]
 confidence: high
-status: active
+created: 2026-09-24
+domain: psychology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/wolff-2022-asd-iq-interplay.txt
+status: active
+tags:
+- iq
+- ados
+title: Autism Spectrum Disorder and IQ – A Complex Interplay
+type: reading
+updated: 2026-09-24
 ---
+
+
 
 # Autism Spectrum Disorder and IQ – A Complex Interplay
 

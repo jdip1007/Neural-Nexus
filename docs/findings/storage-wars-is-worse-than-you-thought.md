@@ -1,11 +1,17 @@
 ---
-title: Storage Wars Is Worse Than You Thought
 created: 2026-09-24
-updated: 2026-09-24
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/eTfGOlJiLbk.md
+tags:
+- general
+title: Storage Wars Is Worse Than You Thought
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/eTfGOlJiLbk.md]
+updated: 2026-09-24
 ---
+
+
+
 
 # Storage Wars Is Worse Than You Thought
 

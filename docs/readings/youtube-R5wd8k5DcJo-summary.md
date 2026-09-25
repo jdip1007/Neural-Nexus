@@ -1,18 +1,22 @@
 ---
-title: Daniel Sloss On Falling In Love - Summary
-created: 2026-08-25
-updated: 2026-08-25
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-R5wd8k5DcJo-transcript.md]
-published: 2026-08-25
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-08-25
+domain: ai
+published: 2026-08-25
 reviewed: 2026-08-25
+sources:
+- raw/videos/youtube-R5wd8k5DcJo-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: Daniel Sloss On Falling In Love - Summary
+type: reading
+updated: 2026-08-25
 ---
+
+
 
 # Daniel Sloss On Falling In Love - Summary
 

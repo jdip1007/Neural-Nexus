@@ -1,16 +1,20 @@
 ---
-title: REM Sleep Energy Paradox
-created: 2026-07-29
-updated: 2026-07-29
-type: concept
 classification: biotechnology.neuroscience.brain-energy-dynamics
-domain: biotech
-tags: ["rem-sleep", "brain-metabolism", "energy-dynamics", "neurovascular-coupling"]
-sources: [raw/articles/energy-paradox-rem-sleep-2026.md]
 confidence: high
-status: active
+created: 2026-07-29
+domain: biotech
 reviewed: 2026-07-29
+sources:
+- raw/articles/energy-paradox-rem-sleep-2026.md
+status: active
+tags:
+- general
+title: REM Sleep Energy Paradox
+type: concept
+updated: 2026-07-29
 ---
+
+
 
 # REM Sleep Energy Paradox
 

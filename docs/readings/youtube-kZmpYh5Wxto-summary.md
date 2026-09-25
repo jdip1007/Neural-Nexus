@@ -1,18 +1,22 @@
 ---
-title: The Challenger Space Shuttle Disaster - Explained (Minute by Minute) - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, kZmpYh5Wxto]
-sources: [raw/videos/youtube-kZmpYh5Wxto-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-kZmpYh5Wxto-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The Challenger Space Shuttle Disaster - Explained (Minute by Minute) - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # The Challenger Space Shuttle Disaster - Explained (Minute by Minute) - Summary
 

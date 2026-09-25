@@ -1,21 +1,21 @@
 ---
-title: WTF Is Happening To The Video Game Industry?
-created: 2026-09-13T23:21:29.374984
-updated: 2026-09-13T23:21:29.375009
-type: video
-tags: [
-  "youtube",
-  "how-money-works",
-  "finance"
-]
-sources: [
-  "https://www.youtube.com/watch?v=Sx-lddna-qg"
-]
 channel: How Money Works
-video_id: Sx-lddna-qg
+created: 2026-09-13 23:21:29.374984
+domain: general
 duration: Unknown
+sources:
+- https://www.youtube.com/watch?v=Sx-lddna-qg
+tags:
+- general
+title: WTF Is Happening To The Video Game Industry?
+type: video
+updated: 2026-09-13 23:21:29.375009
+video_id: Sx-lddna-qg
 views: Unknown
 ---
+
+
+
 
 # WTF Is Happening To The Video Game Industry?
 

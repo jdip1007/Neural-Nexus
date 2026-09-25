@@ -1,16 +1,20 @@
 ---
-title: But Sirenhead
-created: 2026-08-21
-updated: 2026-08-21
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [docs/raw/videos/youtube-g2nXwiNl9tg-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-21
+domain: ai
 reviewed: 2026-08-21
+sources:
+- docs/raw/videos/youtube-g2nXwiNl9tg-transcript.md
+status: active
+tags:
+- general
+title: But Sirenhead
+type: entity
+updated: 2026-08-21
 ---
+
+
 
 # But Sirenhead
 

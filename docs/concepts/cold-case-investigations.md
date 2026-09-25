@@ -1,17 +1,21 @@
 ---
-title: Cold Case Investigations
-created: 2026-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.criminal-forensic.cold-cases
-domain: psychology
-tags: ["criminal-investigation", "forensic-science"]
-sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.criminal-forensic.cold-cases
+confidence: medium
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-D4nPxik59oE-transcript.md
+status: active
+tags:
+- general
+title: Cold Case Investigations
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Cold Case Investigations
 

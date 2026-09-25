@@ -1,11 +1,15 @@
 ---
-title: WTF Is Happening To The Video Game Industry?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: WTF Is Happening To The Video Game Industry?
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # WTF Is Happening To The Video Game Industry?
 

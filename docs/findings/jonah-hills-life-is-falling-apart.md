@@ -1,11 +1,17 @@
 ---
-title: Jonah Hill's Life Is Falling Apart
 created: 2026-09-16
-updated: 2026-09-16
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/IMdDtCuFZsc.md
+tags:
+- general
+title: Jonah Hill's Life Is Falling Apart
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/IMdDtCuFZsc.md]
+updated: 2026-09-16
 ---
+
+
+
 
 # Jonah Hill's Life Is Falling Apart
 

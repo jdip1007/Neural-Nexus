@@ -1,11 +1,15 @@
 ---
-title: 'The Great Layoff: Why Companies Are Firing People'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The Great Layoff: Why Companies Are Firing People'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Great Layoff: Why Companies Are Firing People
 

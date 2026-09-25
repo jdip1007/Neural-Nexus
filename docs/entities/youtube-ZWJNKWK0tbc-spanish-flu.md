@@ -1,16 +1,20 @@
 ---
-title: Spanish Flu
-created: 2026-09-16
-updated: 2026-09-16
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, ZWJNKWK0tbc]
-sources: [raw/videos/youtube-ZWJNKWK0tbc-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-16
+domain: ai
 reviewed: 2026-09-16
+sources:
+- raw/videos/youtube-ZWJNKWK0tbc-transcript.md
+status: active
+tags:
+- general
+title: Spanish Flu
+type: entity
+updated: 2026-09-16
 ---
+
+
 
 # Spanish Flu
 

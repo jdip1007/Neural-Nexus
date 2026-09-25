@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Entrepreneurship
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- Shark Tank Pitches That Turned Into Disasters.md
+tags:
+- general
+title: Internet Anarchist - Entrepreneurship
 type: concept
-tags: [youtube, internet-anarchist, entrepreneurship, documentary]
-sources: [Shark Tank Pitches That Turned Into Disasters.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Entrepreneurship
 

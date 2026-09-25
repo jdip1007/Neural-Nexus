@@ -1,15 +1,17 @@
 ---
+confidence: high
+created: 2026-07-29
+domain: general
+reviewed: 2026-07-29
+sources: []
+status: active
+tags:
+- general
 title: Findings
 type: index
-created: 2026-07-29
 updated: 2026-07-29
-domain: general
-tags: [index]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-07-29
 ---
+
 
 # Findings
 

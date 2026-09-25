@@ -1,18 +1,22 @@
 ---
-title: How to Speak - Summary
-created: 2026-09-03
-updated: 2026-09-03
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
-published: 2026-09-03
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-03
+domain: ai
+published: 2026-09-03
 reviewed: 2026-09-03
+sources:
+- raw/videos/youtube-Unzc731iCUY-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: How to Speak - Summary
+type: reading
+updated: 2026-09-03
 ---
+
+
 
 # How to Speak - Summary
 

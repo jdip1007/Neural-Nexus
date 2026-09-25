@@ -1,21 +1,20 @@
 ---
-{
-  "title": "Entrepreneurship: Building a Business from Scratch",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "entrepreneurship"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=w9X4y6z7a8B"
-  ],
-  "video_id": "w9X4y6z7a8B",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=w9X4y6z7a8B
+tags:
+- general
+title: 'Entrepreneurship: Building a Business from Scratch'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: w9X4y6z7a8B
 ---
+
+
 
 # Entrepreneurship: Building a Business from Scratch
 

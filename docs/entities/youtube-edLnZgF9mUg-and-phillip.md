@@ -1,16 +1,20 @@
 ---
-title: And Phillip
-created: 2026-08-22
-updated: 2026-08-22
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-edLnZgF9mUg-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-22
+domain: ai
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-edLnZgF9mUg-transcript.md
+status: active
+tags:
+- general
+title: And Phillip
+type: entity
+updated: 2026-08-22
 ---
+
+
 
 # And Phillip
 

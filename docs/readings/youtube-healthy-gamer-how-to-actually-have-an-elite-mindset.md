@@ -1,17 +1,16 @@
 ---
-title: How To Actually Have An Elite Mindset
 created: 2026-08-26 18:58:56.401142
-updated: 2026-08-26 18:58:56.401144
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=Wu7zcamEAI0
-domain: psychology
+tags:
+- dr-k
+title: How To Actually Have An Elite Mindset
+type: reading
+updated: 2026-08-26 18:58:56.401144
 ---
+
+
 
 # How To Actually Have An Elite Mindset
 

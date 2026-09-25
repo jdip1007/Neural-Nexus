@@ -1,17 +1,21 @@
 ---
-title: Luxury Paradox
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: economics.monetary-policy
-domain: economics
-tags: [luxury-paradox, interest-rates, monetary-policy, economic-policy, wealth-concentration, economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: economics.monetary-policy
+confidence: medium
+created: 2026-08-02
+domain: economics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Luxury Paradox
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Luxury Paradox
 

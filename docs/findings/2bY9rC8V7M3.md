@@ -1,17 +1,18 @@
 ---
-title: 'Building a Smart Home: IoT Devices and Security Considerations'
 created: '2026-08-18T14:58:01.047646'
-updated: '2026-08-18T14:58:01.047661'
-type: finding
-tags:
-- youtube
-sources:
-- type: youtube
-  url: https://www.youtube.com/watch?v=2bY9rC8V7M3
-  title: 'Building a Smart Home: IoT Devices and Security Considerations'
-  accessed: '2026-08-18T14:58:01.047663'
 domain: devops
+sources:
+- accessed: '2026-08-18T14:58:01.047663'
+  title: 'Building a Smart Home: IoT Devices and Security Considerations'
+  type: youtube
+  url: https://www.youtube.com/watch?v=2bY9rC8V7M3
+tags:
+- general
+title: 'Building a Smart Home: IoT Devices and Security Considerations'
+type: finding
+updated: '2026-08-18T14:58:01.047661'
 ---
+
 
 # Building a Smart Home: IoT Devices and Security Considerations
 

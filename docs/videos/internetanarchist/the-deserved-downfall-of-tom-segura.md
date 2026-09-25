@@ -1,11 +1,17 @@
 ---
-title: The Deserved Downfall of Tom Segura
 created: 2026-09-17
-updated: 2026-09-17
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/uK_G92TUXWg.md
+tags:
+- general
+title: The Deserved Downfall of Tom Segura
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/uK_G92TUXWg.md]
+updated: 2026-09-17
 ---
+
+
+
 
 # The Deserved Downfall of Tom Segura
 

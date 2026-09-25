@@ -1,17 +1,21 @@
 ---
-title: What Everyone Gets Wrong About ADHD - HealthyGamerGG
-created: 2026-08-20
-updated: 2026-08-20
-type: reading
-classification: psychology.mental_health
-domain: psychology
-tags: ["healthy-gamer-gg", "youtube", "mental-health", "therapy"]
-sources: ["raw/videos/healthygamergg/what-everyone-gets-wrong-about-adhd.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-20
 backlinks: []
+classification: psychology.mental_health
+confidence: medium
+created: 2026-08-20
+domain: psychology
+reviewed: 2026-08-20
+sources:
+- raw/videos/healthygamergg/what-everyone-gets-wrong-about-adhd.md
+status: active
+tags:
+- general
+title: What Everyone Gets Wrong About ADHD - HealthyGamerGG
+type: reading
+updated: 2026-08-20
 ---
+
+
 
 # What Everyone Gets Wrong About ADHD - HealthyGamerGG
 

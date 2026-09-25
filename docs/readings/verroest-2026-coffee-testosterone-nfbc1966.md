@@ -1,15 +1,20 @@
 ---
-title: "Coffee Intake, Testosterone, and Cardiometabolic Markers (NFBC1966)"
-created: 2026-09-24
-updated: 2026-09-24
-type: reading
-domain: biology
-tags: [coffee, testosterone, shbg, cardiometabolic, metabolomics, body-composition, bcaa, insulin-resistance, nutritional-epidemiology, sex-differences]
-sources: [raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt]
 confidence: high
-status: active
+created: 2026-09-24
+domain: biology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt
+status: active
+tags:
+- shbg
+- bcaa
+title: Coffee Intake, Testosterone, and Cardiometabolic Markers (NFBC1966)
+type: reading
+updated: 2026-09-24
 ---
+
+
 
 # Coffee Intake, Testosterone, and Cardiometabolic Markers (NFBC1966)
 

@@ -1,18 +1,22 @@
 ---
-title: Why Alexander The Great Is The Single Most Important Man In History - Summary
-created: 2026-08-23
-updated: 2026-08-23
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-a2a4oR0ZUYE-transcript.md]
-published: 2026-08-23
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-23
+domain: ai
+published: 2026-08-23
 reviewed: 2026-08-23
+sources:
+- raw/videos/youtube-a2a4oR0ZUYE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why Alexander The Great Is The Single Most Important Man In History - Summary
+type: reading
+updated: 2026-08-23
 ---
+
+
 
 # Why Alexander The Great Is The Single Most Important Man In History - Summary
 

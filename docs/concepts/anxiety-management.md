@@ -1,12 +1,17 @@
 ---
-title: "Anxiety Management"
+classification: anxiety
 created: 2026-09-21
-updated: 2026-09-21
-type: concept
 domain: psychology
-tags: []
 status: draft
+tags:
+- general
+title: Anxiety Management
+type: concept
+updated: 2026-09-21
 ---
+
+
+
 
 # Anxiety Management
 

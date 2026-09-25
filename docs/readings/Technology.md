@@ -1,17 +1,19 @@
 ---
-title: "Technology"
-created: "2026-09-24"
-updated: "2026-09-24"
-type: reading
-classification: technology.general
-domain: technology
-tags: ["technology", "innovation", "digital", "computing", "engineering"]
-sources: []
-confidence: high
-status: active
-reviewed: "2026-09-24"
 backlinks: []
+classification: technology.general
+confidence: high
+created: '2026-09-24'
+domain: technology
+reviewed: '2026-09-24'
+sources: []
+status: active
+tags:
+- general
+title: Technology
+type: reading
+updated: '2026-09-24'
 ---
+
 
 # Technology
 

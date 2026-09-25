@@ -1,18 +1,22 @@
 ---
-title: Tech billionaires are panicking... - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, KrnX63esw_4]
-sources: [raw/videos/youtube-KrnX63esw_4-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-KrnX63esw_4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Tech billionaires are panicking... - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # Tech billionaires are panicking... - Summary
 

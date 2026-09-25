@@ -1,11 +1,15 @@
 ---
-title: 'The Truth About Electric Vehicles: Battery Technology and Range'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: finding
 domain: general
-tags: []
+tags:
+- general
+title: 'The Truth About Electric Vehicles: Battery Technology and Range'
+type: finding
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Truth About Electric Vehicles: Battery Technology and Range
 

@@ -1,21 +1,20 @@
 ---
-{
-  "title": "The \"Stay-At-Home Boyfriend\" Epidemic - Women Now Outnumber Men In The Workforce",
-  "created": "2026-09-20",
-  "updated": "2026-09-20",
-  "type": "video",
-  "tags": [
-    "workforce"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=D-uK2Xs6D9s"
-  ],
-  "video_id": "D-uK2Xs6D9s",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-20"
-}
+channel: How Money Works
+created: '2026-09-20'
+domain: general
+ingestion_date: '2026-09-20'
+sources:
+- https://www.youtube.com/watch?v=D-uK2Xs6D9s
+tags:
+- general
+title: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-20'
+video_id: D-uK2Xs6D9s
 ---
+
+
 
 # The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
 

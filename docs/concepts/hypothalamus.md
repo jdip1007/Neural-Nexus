@@ -1,16 +1,19 @@
 ---
-title: Hypothalamus
-created: 2026-08-26
-updated: 2026-08-26
-type: concept
 classification: biology.neuroscience.neuroanatomy
-domain: biology
-tags: ["energy-homeostasis", "neuroendocrine", "obesity", "hypothalamic-inflammation"]
-sources: []
 confidence: high
-status: active
+created: 2026-08-26
+domain: biology
 reviewed: 2026-08-26
+sources: []
+status: active
+tags:
+- general
+title: Hypothalamus
+type: concept
+updated: 2026-08-26
 ---
+
+
 
 # Hypothalamus
 

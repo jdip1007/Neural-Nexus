@@ -1,18 +1,21 @@
 ---
-title: Viral Marketing Strategies That Work
-created: 2026-08-31T20:34:53
-updated: 2026-08-31T20:34:53
-type: reading
-classification: hermes.internet-culture.youtube-creator
-domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "marketing"]
-video_id: w3x4y5z6a
-duration: 15-25 minutes
 channel: Internet Anarchist
+classification: hermes.internet-culture.youtube-creator
 confidence: high
-status: active
+created: 2026-08-31 20:34:53
+domain: hermes
+duration: 15-25 minutes
 reviewed: 2026-08-31
+status: active
+tags:
+- general
+title: Viral Marketing Strategies That Work
+type: reading
+updated: 2026-08-31 20:34:53
+video_id: w3x4y5z6a
 ---
+
+
 
 # Viral Marketing Strategies That Work
 

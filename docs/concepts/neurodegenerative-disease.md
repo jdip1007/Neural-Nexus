@@ -1,16 +1,19 @@
 ---
-title: Neurodegenerative disease
-created: 2026-08-26
-updated: 2026-08-26
-type: concept
 classification: biology.neuroscience.neurodegeneration
-domain: biology
-tags: ["neurodegeneration", "neurodegenerative-disease", "protein-aggregation", "aging", "metabolic-disorder", "neurovascular-unit"]
-sources: []
 confidence: high
-status: active
+created: 2026-08-26
+domain: biology
 reviewed: 2026-08-26
+sources: []
+status: active
+tags:
+- aging
+title: Neurodegenerative disease
+type: concept
+updated: 2026-08-26
 ---
+
+
 
 # Neurodegenerative disease
 

@@ -1,15 +1,15 @@
 ---
-title: Why Smart People Are Bad At Dating
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- relationships
-- relationships
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/Why Smart People Are Bad At Dating.md
-domain: psychology
+tags:
+- general
+title: Why Smart People Are Bad At Dating
+type: concept
+updated: 2026-09-03
 ---
+
 
 # Why Smart People Are Bad At Dating
 

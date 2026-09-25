@@ -1,12 +1,17 @@
 ---
-title: "Glucose Metabolism"
+classification: glucose-metabolism
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [glucose-metabolism]
 status: stub
+tags:
+- general
+title: Glucose Metabolism
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Glucose Metabolism
 

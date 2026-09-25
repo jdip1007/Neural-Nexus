@@ -1,11 +1,15 @@
 ---
-title: 'The Psychology of Money: Why Rich People Think Differently'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The Psychology of Money: Why Rich People Think Differently'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Psychology of Money: Why Rich People Think Differently
 

@@ -1,17 +1,21 @@
 ---
-title: Apolipoprotein E (APOE)
-created: 2026-07-29
-updated: 2026-07-29
-type: concept
-classification: biotechnology.neuroscience.neurodegeneration
-domain: biotech
-tags: [neurodegeneration, alzheimers-disease, apoe, genetics, therapeutic-targeting]
-sources: [raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md]
-confidence: high
-status: active
-reviewed: 2026-07-29
 backlinks: []
+classification: biotechnology.neuroscience.neurodegeneration
+confidence: high
+created: 2026-07-29
+domain: biotech
+reviewed: 2026-07-29
+sources:
+- raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md
+status: active
+tags:
+- apoe
+title: Apolipoprotein E (APOE)
+type: concept
+updated: 2026-07-29
 ---
+
+
 
 # Apolipoprotein E (APOE)
 

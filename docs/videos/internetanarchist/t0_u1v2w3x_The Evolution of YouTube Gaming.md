@@ -1,11 +1,13 @@
 ---
-title: "T0_U1V2W3X_The Evolution Of Youtube Gaming"
-type: reading
-domain: general
-tags: [youtube]
 created: 2026-09-12
+domain: general
+tags:
+- general
+title: T0_U1V2W3X_The Evolution Of Youtube Gaming
+type: reading
 updated: 2026-09-12
 ---
+
 # The Evolution of YouTube Gaming
 
 **Source**: [https://www.youtube.com/watch?v=t0_u1v2w3x](https://www.youtube.com/watch?v=t0_u1v2w3x)  

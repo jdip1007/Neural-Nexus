@@ -1,3 +1,14 @@
+---
+created: 2026-09-25
+domain: psychology
+tags:
+- general
+title: Index
+type: reading
+updated: 2026-09-25
+---
+
+
 # Neural Nexus
 
 Welcome to the Neural Nexus knowledge base.

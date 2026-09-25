@@ -1,12 +1,17 @@
 ---
-title: "Large Language Model"
+classification: large-language-model
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: computer-science
-tags: [large-language-model]
 status: stub
+tags:
+- general
+title: Large Language Model
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Large Language Model
 

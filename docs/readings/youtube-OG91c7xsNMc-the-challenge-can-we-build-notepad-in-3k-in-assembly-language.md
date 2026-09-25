@@ -1,16 +1,18 @@
 ---
-title: "The Challenge: Can we build Notepad in 3K in assembly language?"
-created: "2026-09-04"
-updated: "2026-09-04"
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ["youtube", "tutorial"]
-confidence: medium
-status: active
-reviewed: "2026-09-04"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-04'
+domain: technology
+reviewed: '2026-09-04'
+status: active
+tags:
+- general
+title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
+type: reading
+updated: '2026-09-04'
 ---
+
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
 

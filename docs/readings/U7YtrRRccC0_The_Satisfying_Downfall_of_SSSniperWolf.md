@@ -1,18 +1,17 @@
 ---
-title: The Satisfying Downfall of SSSniperWolf
-created: 2026-09-05 22:24:25
-updated: 2026-09-05 22:24:25
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: U7YtrRRccC0
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-05 22:24:25
 domain: general
+duration: 15-25 minutes
+tags:
+- general
+title: The Satisfying Downfall of SSSniperWolf
+type: reading
+updated: 2026-09-05 22:24:25
+video_id: U7YtrRRccC0
 ---
+
+
 
 # The Satisfying Downfall of SSSniperWolf
 

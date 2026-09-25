@@ -1,16 +1,20 @@
 ---
-title: Knowledge Preservation
-created: 2026-07-18
-updated: 2026-07-18
-type: concept
 classification: research-methodology.knowledge-management
-domain: ai, biotech, research
-tags: [knowledge-management, research, sustainability, reproducibility]
-sources: [raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md]
 confidence: high
-status: active
+created: 2026-07-18
+domain: ai, biotech, research
 reviewed: 2026-07-18
+sources:
+- raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
+status: active
+tags:
+- general
+title: Knowledge Preservation
+type: concept
+updated: 2026-07-18
 ---
+
+
 
 # Knowledge Preservation
 

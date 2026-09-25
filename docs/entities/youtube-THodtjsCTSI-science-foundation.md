@@ -1,16 +1,20 @@
 ---
-title: Science Foundation
-created: 2026-08-26
-updated: 2026-08-26
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "organizations"]
-sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-26
+domain: ai
 reviewed: 2026-08-26
+sources:
+- raw/videos/youtube-THodtjsCTSI-transcript.md
+status: active
+tags:
+- general
+title: Science Foundation
+type: entity
+updated: 2026-08-26
 ---
+
+
 
 # Science Foundation
 

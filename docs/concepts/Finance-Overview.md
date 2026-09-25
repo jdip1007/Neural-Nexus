@@ -1,22 +1,19 @@
 ---
-title: Finance Overview
-created: 2026-08-25
-updated: 2026-08-25
-type: concept
-classification: finance.general
-tags:
-- finance
-- economics
-- money
-- investing
-- markets
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-25
 backlinks: []
+classification: finance.general
+confidence: high
+created: 2026-08-25
 domain: finance
+reviewed: 2026-08-25
+sources: []
+status: active
+tags:
+- general
+title: Finance Overview
+type: concept
+updated: 2026-08-25
 ---
+
 
 # Finance Overview
 

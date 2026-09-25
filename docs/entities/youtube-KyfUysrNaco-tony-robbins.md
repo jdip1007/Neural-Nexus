@@ -1,16 +1,20 @@
 ---
-title: Tony Robbins
-created: 2026-09-03
-updated: 2026-09-03
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-KyfUysrNaco-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-03
+domain: ai
 reviewed: 2026-09-03
+sources:
+- raw/videos/youtube-KyfUysrNaco-transcript.md
+status: active
+tags:
+- general
+title: Tony Robbins
+type: entity
+updated: 2026-09-03
 ---
+
+
 
 # Tony Robbins
 

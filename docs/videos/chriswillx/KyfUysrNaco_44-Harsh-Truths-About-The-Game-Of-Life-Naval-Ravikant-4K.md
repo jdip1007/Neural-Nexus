@@ -1,22 +1,20 @@
 ---
-{
-  "title": "44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)",
-  "created": "2026-09-17",
-  "updated": "2026-09-17",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=KyfUysrNaco"
-  ],
-  "video_id": "KyfUysrNaco",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-17"
-}
+channel: Chris Willx
+created: '2026-09-17'
+domain: general
+ingestion_date: '2026-09-17'
+sources:
+- https://www.youtube.com/watch?v=KyfUysrNaco
+tags:
+- general
+title: 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-17'
+video_id: KyfUysrNaco
 ---
+
+
 
 # 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)
 

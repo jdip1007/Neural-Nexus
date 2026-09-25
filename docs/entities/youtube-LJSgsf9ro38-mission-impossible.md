@@ -1,16 +1,20 @@
 ---
-title: Mission Impossible
-created: 2026-09-15
-updated: 2026-09-15
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, LJSgsf9ro38]
-sources: [raw/videos/youtube-LJSgsf9ro38-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-15
+domain: ai
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-LJSgsf9ro38-transcript.md
+status: active
+tags:
+- general
+title: Mission Impossible
+type: entity
+updated: 2026-09-15
 ---
+
+
 
 # Mission Impossible
 

@@ -1,11 +1,17 @@
 ---
-title: Ryan's World Is Finally Ending
 created: 2026-09-24
-updated: 2026-09-24
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/JyNB44JepZc.md
+tags:
+- general
+title: Ryan's World Is Finally Ending
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/JyNB44JepZc.md]
+updated: 2026-09-24
 ---
+
+
+
 
 # Ryan's World Is Finally Ending
 

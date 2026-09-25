@@ -1,11 +1,17 @@
 ---
-title: The Deserved Downfall of Yo Mama
 created: 2026-09-18
-updated: 2026-09-18
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/db08456b1e85.md
+tags:
+- general
+title: The Deserved Downfall of Yo Mama
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/db08456b1e85.md]
+updated: 2026-09-18
 ---
+
+
+
 
 # The Deserved Downfall of Yo Mama
 

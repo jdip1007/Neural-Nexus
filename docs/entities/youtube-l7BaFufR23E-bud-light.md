@@ -1,16 +1,20 @@
 ---
-title: Bud Light
-created: 2026-08-16
-updated: 2026-08-16
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-l7BaFufR23E-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-16
+domain: ai
 reviewed: 2026-08-16
+sources:
+- raw/videos/youtube-l7BaFufR23E-transcript.md
+status: active
+tags:
+- general
+title: Bud Light
+type: entity
+updated: 2026-08-16
 ---
+
+
 
 # Bud Light
 

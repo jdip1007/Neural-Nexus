@@ -1,12 +1,16 @@
 ---
+created: '2026-09-12'
+domain: general
+tags:
+- general
 title: 'Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel
   Lieberman'
-created: '2026-09-12'
-updated: '2026-09-12'
 type: reading
-domain: general
-tags: []
+updated: '2026-09-12'
 ---
+
+
+
 
 # Harvard Professor: "I Tried Every Diet. This Is By Far The Worst." - Daniel Lieberman
 

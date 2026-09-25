@@ -1,18 +1,16 @@
 ---
-title: Female Psychopath Explains How She Manipulates Men - Kanika Batra
 created: '2026-09-01T14:37:52.168093'
-updated: '2026-09-01T14:37:52.168104'
-type: reading
-tags:
-- youtube
-- youtube-creator
-- digital-media
-- discussion
-- psychology
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=YKUyw68PNgI
-domain: psychology
+tags:
+- general
+title: Female Psychopath Explains How She Manipulates Men - Kanika Batra
+type: reading
+updated: '2026-09-01T14:37:52.168104'
 ---
+
+
 
 # Female Psychopath Explains How She Manipulates Men - Kanika Batra
 

@@ -1,12 +1,16 @@
 ---
-title: Why Everyone Hates Their Job
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: finance
-tags: []
 status: draft
+tags:
+- general
+title: Why Everyone Hates Their Job
+type: reading
+updated: 2026-09-12
 ---
+
+
+
 
 # Why Everyone Hates Their Job
 

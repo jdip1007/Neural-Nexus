@@ -1,17 +1,20 @@
 ---
-title: qPCR
-created: 2026-08-01
-updated: 2026-08-01
-type: concept
-classification: laboratory.method
-domain: laboratory
-tags: [qpcr, molecular-biology, pcr, molecular-diagnostics, respiratory-viruses]
-sources: []
-confidence: low
-status: stub
-reviewed: 2026-08-01
 backlinks: []
+classification: laboratory.method
+confidence: low
+created: 2026-08-01
+domain: laboratory
+reviewed: 2026-08-01
+sources: []
+status: stub
+tags:
+- qpcr
+- pcr
+title: qPCR
+type: concept
+updated: 2026-08-01
 ---
+
 
 # qPCR
 

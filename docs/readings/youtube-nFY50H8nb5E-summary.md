@@ -1,18 +1,22 @@
 ---
-title: Flirting Kinda Sucks, Actually. - Summary
-created: 2026-08-16
-updated: 2026-08-16
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-nFY50H8nb5E-transcript.md]
-published: 2026-08-16
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-08-16
+domain: ai
+published: 2026-08-16
 reviewed: 2026-08-16
+sources:
+- raw/videos/youtube-nFY50H8nb5E-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: Flirting Kinda Sucks, Actually. - Summary
+type: reading
+updated: 2026-08-16
 ---
+
+
 
 # Flirting Kinda Sucks, Actually. - Summary
 

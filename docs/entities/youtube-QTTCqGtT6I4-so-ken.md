@@ -1,16 +1,20 @@
 ---
-title: So Ken
-created: 2026-09-15
-updated: 2026-09-15
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, QTTCqGtT6I4]
-sources: [raw/videos/youtube-QTTCqGtT6I4-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-15
+domain: ai
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-QTTCqGtT6I4-transcript.md
+status: active
+tags:
+- general
+title: So Ken
+type: entity
+updated: 2026-09-15
 ---
+
+
 
 # So Ken
 

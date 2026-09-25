@@ -1,17 +1,19 @@
 ---
-title: Dave's Garage
-created: 2026-09-02
-updated: 2026-09-02
-type: entity
-classification: video.channel
-domain: technology
-tags: ["youtube", "tutorial"]
-sources: []
-confidence: medium
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: video.channel
+confidence: medium
+created: 2026-09-02
+domain: technology
+reviewed: 2026-09-02
+sources: []
+status: active
+tags:
+- general
+title: Dave's Garage
+type: entity
+updated: 2026-09-02
 ---
+
 
 # Dave's Garage
 

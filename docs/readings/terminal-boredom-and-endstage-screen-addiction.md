@@ -1,17 +1,25 @@
 ---
-title: Terminal Boredom and Endstage Screen Addiction
-created: 2026-08-10
-updated: 2026-08-10
-type: reading
-tags: [digital-wellness, screen-addiction, dopamine, terminal-boredom]
-domain: psychology
 classification: psychology.digital-wellness.addiction
-sources: [raw/videos/healthygamergg/terminal-boredom.md]
-video_id: OwlXbUYDf0w
-duration: ~46:00
+created: 2026-08-10
 creator: Dr K (Healthy Gamer)
-related: [terminal-boredom, brain-rot, executive-function-rust, impulse-control-atrophy]
+domain: psychology
+duration: ~46:00
+related:
+- terminal-boredom
+- brain-rot
+- executive-function-rust
+- impulse-control-atrophy
+sources:
+- raw/videos/healthygamergg/terminal-boredom.md
+tags:
+- general
+title: Terminal Boredom and Endstage Screen Addiction
+type: reading
+updated: 2026-08-10
+video_id: OwlXbUYDf0w
 ---
+
+
 
 # Terminal Boredom and Endstage Screen Addiction (YouTube, ~46:00)
 

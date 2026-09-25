@@ -1,33 +1,22 @@
 ---
-title: The Complete Guide to Home Automation Systems
-created: '2026-08-25'
-updated: '2026-08-25'
-type: concept
+backlinks: []
 classification: engineering.technology
+confidence: high
+created: '2026-08-25'
 domain: engineering
-tags:
-- iot
-- innovation
-- automation
-- diy
-- making
-- youtube
-- engineering
-- smart-home
-- video-derived
-- workshop
-- technology
-- dave-garage
-- robotics
-- transcript
+reviewed: '2026-08-25'
 sources:
 - raw/videos/youtube-dave_garage_002-transcript.md
-confidence: high
 status: active
-reviewed: '2026-08-25'
-backlinks: []
-
+tags:
+- iot
+- diy
+title: The Complete Guide to Home Automation Systems
+type: concept
+updated: '2026-08-25'
 ---
+
+
 
 # The Complete Guide to Home Automation Systems
 

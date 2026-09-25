@@ -1,3 +1,15 @@
+---
+created: 2026-09-25
+domain: psychology
+tags:
+- general
+title: Schema
+type: reading
+updated: 2026-09-25
+---
+
+
+
 # Neural Nexus Schema
 
 ## Domain
@@ -92,11 +104,84 @@ transcript_available: true
 ## Taxonomy
 
 ### Core Topics
+- addiction-recovery
+- assessment
+- awareness
+- breakup
+- burnout
+- cancel-culture
+- cognitive
+- content
+- creator
+- crisis
+- dating
+- emotional
+- emotional-intelligence
+- emotional-regulation
+- failure
+- fame
+- family
+- framework
+- growth
+- hidden
+- innovation
+- internet
+- online
+- online-behavior
+- online-safety
+- partnership
+- pattern-recognition
+- personal
+- personal-development
+- personal-growth
+- personal-life
+- physical-fitness
+- self
+- sensitivity
+- social
+- social-issues
+- stress
+- training
+- viral
+- wellbeing
+- workforce
 - ados
 - autism-spectrum-disorder
 - bimodal-distribution
 - circularity
-- cognitive-assessment
+- cognitive-assessm- algorithmic
+- algorithms
+- automation
+- circuit-design
+- circuits
+- cms
+- command
+- computing
+- data
+- database
+- development
+- diy
+- embedded
+- engineering
+- fopen
+- graph
+- iot
+- microcontrollers
+- microsoft
+- network
+- optimization
+- protocols
+- reliable
+- robotics
+- smart-home
+- system
+- systems-audit
+- tcp
+- tech
+- udp
+- wikilinks
+- windows
+ent
 - cognitive-impairment
 - diagnostic-delay
 - epidemiology
@@ -114,7 +199,32 @@ youtube-creator
 educational-content
 content-creation
 internet-culture
-youtube-algorithm
+yo- bonds
+- budgeting
+- cars
+- cryptocurrency
+- economic
+- economy
+- electric
+- electric-vehicles
+- entrepreneurship
+- financial
+- invest
+- investment
+- legal
+- market-analysis
+- meta
+- national-debt
+- real-estate
+- renewable-energy
+- retirement
+- solar-energy
+- stock-market
+- stocks
+- trade-war
+- transportation
+- vehicles
+utube-algorithm
 digital-media
 digital-society
 mental-health
@@ -182,6 +292,9 @@ workflow
 workflow-efficiency
 
 ### Business & Finance
+- bonds
+- wealth
+- budget
 finance
 money
 investing
@@ -195,7 +308,47 @@ inflation
 privacy
 asset-inflation
 china-economy
-demographic-economic-impact
+demographic-economic-impact- additives
+- administrative-data
+- barrier
+- basal-metabolic-rate
+- bmi
+- bpsd
+- brain-function
+- brain-rot
+- children
+- cortical-maturation
+- diagnostics
+- dopamine
+- dr-k
+- evidence-based
+- existentialism
+- gc-rich
+- generational-cohort
+- geriatric-medicine
+- health
+- healthy-gamer
+- healthygamer
+- healthygamer-gg
+- healthygamergg
+- in-house-tests
+- individual-differences
+- intellectual-disability
+- iso-15189
+- men-health
+- neurodevelopmental-disorder
+- neuroscience
+- ngs-validation
+- parental-mental-health
+- population-studies
+- precision
+- prevalence
+- psychometrics
+- tau-pathology
+- terminal-boredom
+- type-2-diabetes
+- variability
+
 economic-comparison
 economic-growth
 economic-impact
@@ -263,6 +416,9 @@ opportunity-cost
 worker-rights
 demographic-bulge
 demographic-wall
+- mental-health
+- relationship
+- talent
 
 ### Health & Psychology
 healthy-gamer-gg
@@ -425,7 +581,27 @@ genome-wide-association
 gwas
 polygenic
 polygenic-risk
-population-genetics
+population-genetics- amphibious-operations
+- brain-drain
+- case-study
+- china
+- crime
+- criminal
+- documentary
+- futurism
+- historical-development
+- human-invention
+- human-progress
+- intellectual-property
+- japan
+- online-communities
+- reality-tv
+- soldiers
+- sweden
+- television-personality
+- weapons
+- workshop
+
 quantitative-genetics
 statistical-genetics
 family-studies
@@ -477,13 +653,46 @@ historical-biologist
 biology
 ecology
 environmental-science
-ecological-scaling
+e- agricultural-science
+- cognitive-assessment
+- complex-traits
+- decision-flow
+- metabolomics
+- modifications
+- protocols
+- systematizing
+- theoretical-physics
+cological-scaling
 urban-scaling
 comparative-physiology
 allometry
 energy-dynamics
 energy-homeostasis
-metabolic-scaling
+meta- boxing
+- channel
+- chris-willx
+- chriswillx
+- content-moderation
+- daily
+- dave-garage
+- digital-life
+- final
+- game
+- general
+- index
+- interview
+- log
+- nerd
+- page
+- recent
+- shark
+- social-media
+- tags
+- transcript
+- tutorials
+- vlogbrothers
+- wtf
+bolic-scaling
 power-law
 fractal-geometry
 science-communication
@@ -621,9 +830,12 @@ gender
 gender-differences
 generational-cohorts
 generational-shifts
+- stem
+- electronics
 intergenerational
 family-dynamics
 support
+- llm
 
 ### Science & Research
 science
@@ -637,6 +849,7 @@ research-crisis
 research-findings
 research-methodology
 statistical-analysis
+- youtube-algorithm
 biostatistics
 analysis
 finding

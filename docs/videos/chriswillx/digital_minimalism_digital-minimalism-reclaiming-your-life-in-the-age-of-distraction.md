@@ -1,22 +1,20 @@
 ---
-{
-  "title": "Digital Minimalism: Reclaiming Your Life in the Age of Distraction",
-  "created": "2026-09-12",
-  "updated": "2026-09-12",
-  "type": "video",
-  "tags": [
-    "technology",
-    "philosophy"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=new005"
-  ],
-  "video_id": "new005",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-11 18:50:36"
-}
+channel: Chris Willx
+created: '2026-09-12'
+domain: general
+ingestion_date: '2026-09-11 18:50:36'
+sources:
+- https://www.youtube.com/watch?v=new005
+tags:
+- general
+title: 'Digital Minimalism: Reclaiming Your Life in the Age of Distraction'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-12'
+video_id: new005
 ---
+
+
 
 # Digital Minimalism: Reclaiming Your Life in the Age of Distraction
 

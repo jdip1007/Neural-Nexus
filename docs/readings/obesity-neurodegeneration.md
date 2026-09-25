@@ -1,15 +1,19 @@
 ---
-title: Obesity as a catalyst for neurodegeneration
-created: 2026-08-25
-updated: 2026-08-25
-type: reading
-domain: biology
-tags: ["obesity", "neurodegeneration", "neurovascular-unit", "blood-brain-barrier"]
-sources: [raw/transcripts/obesity_neurodegeneration_nature_metabolism_2026.txt]
 confidence: high
-status: active
+created: 2026-08-25
+domain: biology
 reviewed: 2026-08-25
+sources:
+- raw/transcripts/obesity_neurodegeneration_nature_metabolism_2026.txt
+status: active
+tags:
+- general
+title: Obesity as a catalyst for neurodegeneration
+type: reading
+updated: 2026-08-25
 ---
+
+
 
 # Obesity as a catalyst for neurodegeneration
 

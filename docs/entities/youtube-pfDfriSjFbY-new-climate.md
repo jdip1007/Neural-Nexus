@@ -1,16 +1,20 @@
 ---
-title: New Climate
-created: 2026-08-27
-updated: 2026-08-27
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-pfDfriSjFbY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-27
+domain: ai
 reviewed: 2026-08-27
+sources:
+- raw/videos/youtube-pfDfriSjFbY-transcript.md
+status: active
+tags:
+- general
+title: New Climate
+type: entity
+updated: 2026-08-27
 ---
+
+
 
 # New Climate
 

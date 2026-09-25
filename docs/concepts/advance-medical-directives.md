@@ -1,16 +1,20 @@
 ---
-title: 預設醫療指示與不作心肺復甦命令
-created: 2026-08-04
-updated: 2026-08-04
-type: concept
 classification: legal-science.medical-law
-domain: general
-tags: [hong-kong-law, patient-rights, end-of-life-care, cantonese]
-sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 confidence: high
-status: active
+created: 2026-08-04
+domain: general
 reviewed: 2026-08-07
+sources:
+- raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md
+status: active
+tags:
+- general
+title: 預設醫療指示與不作心肺復甦命令
+type: concept
+updated: 2026-08-04
 ---
+
+
 
 # 預設醫療指示與不作心肺復甦命令
 

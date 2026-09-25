@@ -1,17 +1,18 @@
 ---
-title: Can Meta Actually Survive This?
+classification: youtube
 created: 2026-09-04
-updated: 2026-09-04
-type: concept
-tags:
-- youtube
-- how-money-works
-- finance
-- investing
+domain: finance
 sources:
 - raw/transcripts/how-money-works/Can Meta Actually Survive This_.md
-domain: finance
+tags:
+- general
+title: Can Meta Actually Survive This?
+type: concept
+updated: 2026-09-04
 ---
+
+
+
 
 # Can Meta Actually Survive This?
 

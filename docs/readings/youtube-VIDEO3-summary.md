@@ -1,18 +1,22 @@
 ---
-title: The Impact of Gaming on Your Mental Health
-created: 2026-09-19
-updated: 2026-09-19
-type: reading
-domain: mental-health
 classification: mental-health.gaming
-tags: [video-summary, transcript, healthygamer-gg, gaming, mental-health]
-sources: [raw/videos/youtube-VIDEO3-transcript.md]
-published: 2024-01-15
-time_sensitive: false
 confidence: high
-status: active
+created: 2026-09-19
+domain: mental-health
+published: 2024-01-15
 reviewed: 2026-09-19
+sources:
+- raw/videos/youtube-VIDEO3-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: The Impact of Gaming on Your Mental Health
+type: reading
+updated: 2026-09-19
 ---
+
+
 
 # The Impact of Gaming on Your Mental Health
 

@@ -1,17 +1,20 @@
 ---
-title: "Dave's Garage"
-created: "2026-09-24"
-updated: "2026-09-24"
-type: finding
-classification: channel.daves-garage
-domain: technology
-tags: ["daves-garage", "youtube", "channel", "technology", "automotive", "programming", "hardware"]
-sources: []
-confidence: high
-status: active
-reviewed: "2026-09-24"
 backlinks: []
+classification: channel.daves-garage
+confidence: high
+created: '2026-09-24'
+domain: technology
+reviewed: '2026-09-24'
+sources: []
+status: active
+tags:
+- general
+title: Dave's Garage
+type: finding
+updated: '2026-09-24'
 ---
+
+
 
 # Dave's Garage
 

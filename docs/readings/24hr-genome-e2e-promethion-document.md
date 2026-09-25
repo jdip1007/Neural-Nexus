@@ -1,15 +1,19 @@
 ---
-title: 24-Hour Genome End-to-End Document - PromethION
-created: 2026-07-19
-updated: 2026-07-19
-type: reading
-domain: biotech
-tags: [genomics, nanopore-sequencing, dna-sequencing, long-read-sequencing, biotechnology]
-sources: [raw/articles/24hr-genome-e2e-promethion-document.md]
 confidence: high
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources:
+- raw/articles/24hr-genome-e2e-promethion-document.md
+status: active
+tags:
+- general
+title: 24-Hour Genome End-to-End Document - PromethION
+type: reading
+updated: 2026-07-19
 ---
+
+
 
 # 24-Hour Genome End-to-End Document - PromethION
 

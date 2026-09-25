@@ -1,11 +1,15 @@
 ---
-title: Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
 

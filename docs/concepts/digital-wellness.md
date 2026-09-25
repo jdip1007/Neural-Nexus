@@ -1,12 +1,17 @@
 ---
-title: "Digital Wellness"
+classification: digital
 created: 2026-09-21
-updated: 2026-09-21
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: Digital Wellness
+type: concept
+updated: 2026-09-21
 ---
+
+
+
 
 # Digital Wellness
 

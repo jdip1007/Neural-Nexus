@@ -1,16 +1,20 @@
 ---
-title: Turtle Man
-created: 2026-08-23
-updated: 2026-08-23
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-W9mF-NOHatI-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-23
+domain: ai
 reviewed: 2026-08-23
+sources:
+- raw/videos/youtube-W9mF-NOHatI-transcript.md
+status: active
+tags:
+- general
+title: Turtle Man
+type: entity
+updated: 2026-08-23
 ---
+
+
 
 # Turtle Man
 

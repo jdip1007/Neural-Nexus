@@ -1,16 +1,18 @@
 ---
-title: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
-created: 2026-09-02
-updated: 2026-09-02
-type: reading
-classification: education.youtube-channel.howmoneyworks
-domain: finance
-tags: ["finance", "society"]
-confidence: high
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: education.youtube-channel.howmoneyworks
+confidence: high
+created: 2026-09-02
+domain: finance
+reviewed: 2026-09-02
+status: active
+tags:
+- general
+title: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
+type: reading
+updated: 2026-09-02
 ---
+
 
 # The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
 

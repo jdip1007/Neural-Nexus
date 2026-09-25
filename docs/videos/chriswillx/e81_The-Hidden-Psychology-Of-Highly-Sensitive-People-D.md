@@ -1,23 +1,20 @@
 ---
-{
-  "title": "The Hidden Psychology Of Highly Sensitive People - Dr Sasha Hamdani",
-  "created": "2026-09-13",
-  "updated": "2026-09-13",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e81"
-  ],
-  "video_id": "e81",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-13 19:39:08"
-}
+channel: Chris Willx
+created: '2026-09-13'
+domain: general
+ingestion_date: '2026-09-13 19:39:08'
+sources:
+- https://www.youtube.com/watch?v=e81
+tags:
+- general
+title: The Hidden Psychology Of Highly Sensitive People - Dr Sasha Hamdani
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-13'
+video_id: e81
 ---
+
+
 
 # The Hidden Psychology Of Highly Sensitive People - Dr Sasha Hamdani
 

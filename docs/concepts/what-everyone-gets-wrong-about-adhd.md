@@ -1,17 +1,21 @@
 ---
-title: What Everyone Gets Wrong About ADHD
-created: 2026-08-23
-updated: 2026-08-23
-type: concept
-classification: psychology.mental-health
-domain: psychology
-tags: ["adhd", "mental-health", "misconceptions", "neurodiversity"]
-sources: [raw/videos/healthygamergg/What Everyone Gets Wrong About ADHD.md]
-confidence: medium
-status: active
-reviewed: 2026-08-23
 backlinks: []
+classification: psychology.mental-health
+confidence: medium
+created: 2026-08-23
+domain: psychology
+reviewed: 2026-08-23
+sources:
+- raw/videos/healthygamergg/What Everyone Gets Wrong About ADHD.md
+status: active
+tags:
+- adhd
+title: What Everyone Gets Wrong About ADHD
+type: concept
+updated: 2026-08-23
 ---
+
+
 
 # What Everyone Gets Wrong About ADHD
 

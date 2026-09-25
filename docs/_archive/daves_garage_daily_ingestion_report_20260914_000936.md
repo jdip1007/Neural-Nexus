@@ -1,3 +1,15 @@
+---
+created: 2026-09-25
+domain: media
+tags:
+- general
+title: Daves Garage Daily Ingestion Report 20260914 000936
+type: reading
+updated: 2026-09-25
+---
+
+
+
 # Dave's Garage Daily Ingestion Report
 **Date:** 2026-09-14 00:09:36
 

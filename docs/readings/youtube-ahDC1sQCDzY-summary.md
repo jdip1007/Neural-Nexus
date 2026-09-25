@@ -1,18 +1,22 @@
 ---
-title: Surviving Most Extreme Mega Tsunami in Modern History - True Story - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, ahDC1sQCDzY]
-sources: [raw/videos/youtube-ahDC1sQCDzY-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-ahDC1sQCDzY-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Surviving Most Extreme Mega Tsunami in Modern History - True Story - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # Surviving Most Extreme Mega Tsunami in Modern History - True Story - Summary
 

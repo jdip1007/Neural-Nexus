@@ -1,16 +1,20 @@
 ---
-title: It It
-created: 2026-08-19
-updated: 2026-08-19
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons]
-sources: [raw/videos/youtube-RhelaTtcmEo-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-19
+domain: ai
 reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-RhelaTtcmEo-transcript.md
+status: active
+tags:
+- general
+title: It It
+type: entity
+updated: 2026-08-19
 ---
+
+
 
 # It It
 

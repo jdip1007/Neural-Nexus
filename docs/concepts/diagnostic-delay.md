@@ -1,12 +1,17 @@
 ---
-title: "Diagnostic Delay"
+classification: diagnostic-delay
 created: 2026-09-24
-updated: 2026-09-24
-type: concept
 domain: psychology
-tags: ['diagnostic-delay', 'late-diagnosis', 'diagnostics']
 status: draft
+tags:
+- general
+title: Diagnostic Delay
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Diagnostic Delay
 

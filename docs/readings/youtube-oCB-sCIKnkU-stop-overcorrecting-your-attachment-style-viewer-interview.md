@@ -1,17 +1,21 @@
 ---
-title: Stop Overcorrecting Your Attachment Style (Viewer Interview) - HealthyGamerGG
-created: 2026-08-20
-updated: 2026-08-20
-type: reading
-classification: psychology.mental_health
-domain: psychology
-tags: ["healthy-gamer-gg", "youtube", "mental-health", "therapy"]
-sources: ["raw/videos/healthygamergg/stop-overcorrecting-your-attachment-style-viewer-interview.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-20
 backlinks: []
+classification: psychology.mental_health
+confidence: medium
+created: 2026-08-20
+domain: psychology
+reviewed: 2026-08-20
+sources:
+- raw/videos/healthygamergg/stop-overcorrecting-your-attachment-style-viewer-interview.md
+status: active
+tags:
+- general
+title: Stop Overcorrecting Your Attachment Style (Viewer Interview) - HealthyGamerGG
+type: reading
+updated: 2026-08-20
 ---
+
+
 
 # Stop Overcorrecting Your Attachment Style (Viewer Interview) - HealthyGamerGG
 

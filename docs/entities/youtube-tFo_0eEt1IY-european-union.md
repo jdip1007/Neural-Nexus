@@ -1,16 +1,20 @@
 ---
-title: European Union
-created: 2026-08-20
-updated: 2026-08-20
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-tFo_0eEt1IY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-20
+domain: ai
 reviewed: 2026-08-20
+sources:
+- raw/videos/youtube-tFo_0eEt1IY-transcript.md
+status: active
+tags:
+- general
+title: European Union
+type: entity
+updated: 2026-08-20
 ---
+
+
 
 # European Union
 

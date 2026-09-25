@@ -1,18 +1,22 @@
 ---
-title: Living with Confidence & Going All In - Matthew McConaughey (4K) - Summary
-created: 2026-08-25
-updated: 2026-08-25
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-y_woFP79F0Q-transcript.md]
-published: 2026-08-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-25
+domain: ai
+published: 2026-08-25
 reviewed: 2026-08-25
+sources:
+- raw/videos/youtube-y_woFP79F0Q-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Living with Confidence & Going All In - Matthew McConaughey (4K) - Summary
+type: reading
+updated: 2026-08-25
 ---
+
+
 
 # Living with Confidence & Going All In - Matthew McConaughey (4K) - Summary
 

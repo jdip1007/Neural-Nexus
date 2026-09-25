@@ -1,18 +1,22 @@
 ---
-title: Understanding Gaming Addiction and Recovery
-created: 2026-09-17
-updated: 2026-09-17
-type: reading
-domain: mental-health
 classification: mental-health.gaming
-tags: [video-summary, transcript, healthygamer-gg, gaming, mental-health]
-sources: [raw/videos/youtube-VIDEO1-transcript.md]
-published: 2024-01-15
-time_sensitive: false
 confidence: high
-status: active
+created: 2026-09-17
+domain: mental-health
+published: 2024-01-15
 reviewed: 2026-09-17
+sources:
+- raw/videos/youtube-VIDEO1-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: Understanding Gaming Addiction and Recovery
+type: reading
+updated: 2026-09-17
 ---
+
+
 
 # Understanding Gaming Addiction and Recovery
 

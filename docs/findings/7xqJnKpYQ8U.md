@@ -1,17 +1,18 @@
 ---
-title: Microsoft's Secret 90s Weapon That Made Windows Fast
 created: 2026-08-18 14:56:01.392521
-updated: 2026-08-18 14:56:01.392540
-type: finding
-tags:
-- youtube
-sources:
-- type: youtube
-  url: https://www.youtube.com/watch?v=7xqJnKpYQ8U
-  title: Microsoft's Secret 90s Weapon That Made Windows Fast
-  accessed: '2026-08-18T14:56:01.392543'
 domain: devops
+sources:
+- accessed: '2026-08-18T14:56:01.392543'
+  title: Microsoft's Secret 90s Weapon That Made Windows Fast
+  type: youtube
+  url: https://www.youtube.com/watch?v=7xqJnKpYQ8U
+tags:
+- general
+title: Microsoft's Secret 90s Weapon That Made Windows Fast
+type: finding
+updated: 2026-08-18 14:56:01.392540
 ---
+
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 

@@ -1,19 +1,18 @@
 ---
 channel: Chris Willx
 created: '2026-09-09T18:07:03.820442'
+domain: general
 sources:
 - https://www.youtube.com/watch?v=VIDEO_1
 tags:
-- youtube
-- chris-willx
 - general
-- discussion
 title: 'Chris Willx: "Women Are The Problem" - Female Dating Coach'
 type: reading
 updated: '2026-09-09T18:07:03.820444'
 youtube_id: '1'
-domain: general
 ---
+
+
 
 # Chris Willx: "Women Are The Problem" - Female Dating Coach
 

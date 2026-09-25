@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-23T02:58:26.164498'
+domain: general
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=dFzX7z8kY9A
 tags:
-- development
 - tech
 - code
-- hardware
 - diy
-- software
 - led
-- system
-- tutorial
-- programming
-- ethernet
-- assembly
-- network
-- youtube
-- daves-garage
 title: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
 type: video
 updated: '2026-09-23T02:58:26.164508'
 video_id: dFzX7z8kY9A
 views: 738K
 ---
+
+
+
 
 # As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
 

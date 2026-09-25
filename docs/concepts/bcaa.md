@@ -1,12 +1,15 @@
 ---
-title: "Bcaa"
+classification: bcaa
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [bcaa]
 status: stub
+tags:
+- bcaa
+title: Bcaa
+type: concept
+updated: 2026-09-25
 ---
+
 
 # Bcaa
 

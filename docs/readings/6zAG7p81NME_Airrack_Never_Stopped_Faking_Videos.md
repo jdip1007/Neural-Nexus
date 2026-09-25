@@ -1,18 +1,17 @@
 ---
-title: Airrack Never Stopped Faking Videos
-created: 2026-09-04 22:10:02
-updated: 2026-09-04 22:10:02
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: 6zAG7p81NME
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-04 22:10:02
 domain: general
+duration: 15-25 minutes
+tags:
+- general
+title: Airrack Never Stopped Faking Videos
+type: reading
+updated: 2026-09-04 22:10:02
+video_id: 6zAG7p81NME
 ---
+
+
 
 # Airrack Never Stopped Faking Videos
 

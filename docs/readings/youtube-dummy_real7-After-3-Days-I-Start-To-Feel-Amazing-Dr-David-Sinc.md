@@ -1,19 +1,19 @@
 ---
 created: '2026-09-10T18:28:31.290035'
+domain: general
 duration: 8 minutes, 26 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy_real7
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: '"After 3 Days... I Start To Feel Amazing" - Dr David Sinclair'
 type: reading
 updated: '2026-09-10T18:28:31.290036'
 video_id: dummy_real7
 views: 41K
-domain: general
 ---
+
+
 
 # "After 3 Days... I Start To Feel Amazing" - Dr David Sinclair
 

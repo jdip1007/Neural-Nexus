@@ -1,11 +1,15 @@
 ---
-title: Is America Chasing Away All Of Its Smart People?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Is America Chasing Away All Of Its Smart People?
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Is America Chasing Away All Of Its Smart People?
 

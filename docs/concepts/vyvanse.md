@@ -1,17 +1,20 @@
 ---
-title: Vyvanse (Lisdexamfetamine Dimesylate)
-created: 2026-08-04
-updated: 2026-08-04
-type: concept
-classification: psychiatry.medication
-domain: psychiatry
-tags: [vyvanse, lisdexamfetamine, stimulant, adhd, binge-eating-disorder, cns-stimulant, controlled-substance]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-04
 backlinks: []
+classification: psychiatry.medication
+confidence: high
+created: 2026-08-04
+domain: psychiatry
+reviewed: 2026-08-04
+sources: []
+status: active
+tags:
+- adhd
+title: Vyvanse (Lisdexamfetamine Dimesylate)
+type: concept
+updated: 2026-08-04
 ---
+
+
 
 # Vyvanse (Lisdexamfetamine Dimesylate)
 

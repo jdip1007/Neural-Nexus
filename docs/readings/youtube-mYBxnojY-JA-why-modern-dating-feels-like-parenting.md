@@ -1,13 +1,13 @@
 ---
-title: Why Modern Dating Feels Like Parenting
 created: '2026-09-03T21:40:05.827220'
-updated: '2026-09-03T21:40:05.827223'
-type: reading
-tags:
-- youtube
-- diy
 domain: psychology
+tags:
+- diy
+title: Why Modern Dating Feels Like Parenting
+type: reading
+updated: '2026-09-03T21:40:05.827223'
 ---
+
 
 # Why Modern Dating Feels Like Parenting
 

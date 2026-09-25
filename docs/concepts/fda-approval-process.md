@@ -1,16 +1,19 @@
 ---
-title: FDA Approval Process
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.regulatory
-domain: laboratory
-tags: [fda-approval-process, fda-oversight, fda-approved-tests, regulatory-compliance]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- general
+title: FDA Approval Process
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # FDA Approval Process
 

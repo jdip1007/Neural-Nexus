@@ -1,16 +1,20 @@
 ---
-title: Harvard Medical
-created: 2026-08-30
-updated: 2026-08-30
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-Hq32ZIz1EBE-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-30
+domain: ai
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-Hq32ZIz1EBE-transcript.md
+status: active
+tags:
+- general
+title: Harvard Medical
+type: entity
+updated: 2026-08-30
 ---
+
+
 
 # Harvard Medical
 

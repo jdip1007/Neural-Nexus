@@ -1,18 +1,22 @@
 ---
-title: What Everyone Gets Wrong About ADHD - Summary
-created: 2026-08-19
-updated: 2026-08-19
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary]
-sources: [raw/videos/youtube-6kD5RbQCjFg-transcript.md]
-published: 2026-08-19
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-19
+domain: ai
+published: 2026-08-19
 reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-6kD5RbQCjFg-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: What Everyone Gets Wrong About ADHD - Summary
+type: reading
+updated: 2026-08-19
 ---
+
+
 
 # What Everyone Gets Wrong About ADHD - Summary
 

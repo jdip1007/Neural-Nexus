@@ -473,6 +473,27 @@ function lint() {
   // 5. No JSON frontmatter (must be YAML)
   // (Checked by checkFrontmatter — if any page has JSON FM, it'll fail parsing)
 
+  // 6. No wikilinks containing known YouTube channel/creator names (junk auto-links)
+  const ytChannelPattern = /^(?:chriswillx|chris-willx|daves-garage|dave-garage|healthygamergg|healthy-gamer|how-money-works|internet-anarchist|penguinz0|the-infographics-show|mrbeast)$/i;
+  const ytIdInLink = /youtube-[A-Za-z0-9_-]{6,}-in-the/i;
+  const junkWikilinks = [];
+  for (const file of files) {
+    if (!file.content) continue;
+    const links = [...file.content.matchAll(/\[\[([^\]|]+)/g)];
+    for (const m of links) {
+      const target = m[1].split('|')[0].split('#')[0].trim();
+      if (ytChannelPattern.test(target) || ytIdInLink.test(target)) {
+        junkWikilinks.push(`${file.relPath}: [[${target}]]`);
+      }
+    }
+  }
+  if (junkWikilinks.length > 0) {
+    structuralFailures.push(`${junkWikilinks.length} junk YouTube channel/ID wikilinks found (e.g. [[chriswillx]], [[youtube-...-in-the]]) — strip from content`);
+    // Log first 5 as examples
+    junkWikilinks.slice(0, 5).forEach(j => console.log(`   ⚠ Junk wikilink: ${j}`));
+    if (junkWikilinks.length > 5) console.log(`   ... and ${junkWikilinks.length - 5} more`);
+  }
+
   if (structuralFailures.length > 0) {
     console.log(`\n🚫 STRUCTURAL FAILURES (${structuralFailures.length}):`);
     structuralFailures.forEach(f => console.log(`   ${f}`));

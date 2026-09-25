@@ -1,18 +1,22 @@
 ---
-title: Is America Chasing Away All Of Its Smart People? - Summary
-created: 2026-08-26
-updated: 2026-08-26
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
-published: 2026-08-26
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-26
+domain: ai
+published: 2026-08-26
 reviewed: 2026-08-26
+sources:
+- raw/videos/youtube-THodtjsCTSI-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Is America Chasing Away All Of Its Smart People? - Summary
+type: reading
+updated: 2026-08-26
 ---
+
+
 
 # Is America Chasing Away All Of Its Smart People? - Summary
 

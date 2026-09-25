@@ -1,16 +1,20 @@
 ---
-title: Laboratory Accreditation
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.regulatory.compliance
-domain: laboratory
-tags: [accreditation, clia, cap, iso-15189, quality-management, regulatory-compliance]
-sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources:
+- raw/laboratory/accreditation/verification-validation-toolkit-aphl.md
+status: active
+tags:
+- clia
+title: Laboratory Accreditation
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Laboratory Accreditation
 

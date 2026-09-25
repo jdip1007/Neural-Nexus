@@ -1,16 +1,20 @@
 ---
-title: One Billion Heartbeats Phenomenon
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: biology.comparative-physiology.metabolic-scaling
-domain: biology
-tags: [lifespan, metabolic-scaling, comparative-physiology, allometry]
-sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: biology
 reviewed: 2026-07-31
+sources:
+- raw/videos/one-billion-heartbeats-veritasium.md
+status: active
+tags:
+- general
+title: One Billion Heartbeats Phenomenon
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # One Billion Heartbeats Phenomenon
 

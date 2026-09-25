@@ -1,16 +1,20 @@
 ---
-title: Phillip Tan
-created: 2026-08-24
-updated: 2026-08-24
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-pfDfriSjFbY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-24
+domain: ai
 reviewed: 2026-08-24
+sources:
+- raw/videos/youtube-pfDfriSjFbY-transcript.md
+status: active
+tags:
+- general
+title: Phillip Tan
+type: entity
+updated: 2026-08-24
 ---
+
+
 
 # Phillip Tan
 

@@ -1,18 +1,23 @@
 ---
-title: Desktop AI Compared - From 2GB to 1024GB, Deepseek R1, Gemma3, and More! - Summary
-created: 2026-08-24
-updated: 2026-08-24
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-yHrGN243JNA-transcript.md]
-published: 2026-08-24
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-24
+domain: ai
+published: 2026-08-24
 reviewed: 2026-08-24
+sources:
+- raw/videos/youtube-yHrGN243JNA-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Desktop AI Compared - From 2GB to 1024GB, Deepseek R1, Gemma3, and More! -
+  Summary
+type: reading
+updated: 2026-08-24
 ---
+
+
 
 # Desktop AI Compared - From 2GB to 1024GB, Deepseek R1, Gemma3, and More! - Summary
 

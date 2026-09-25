@@ -1,12 +1,16 @@
 ---
-title: "Cognitive Impairment"
+classification: cognitive-impairment
 created: 2026-09-24
-updated: 2026-09-24
-type: concept
 domain: psychology
-tags: ['cognitive-impairment', 'intellectual-disability', 'iq']
 status: draft
+tags:
+- iq
+title: Cognitive Impairment
+type: concept
+updated: 2026-09-24
 ---
+
+
 
 # Cognitive Impairment
 

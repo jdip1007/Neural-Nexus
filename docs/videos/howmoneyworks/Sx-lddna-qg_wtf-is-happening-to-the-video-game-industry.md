@@ -1,16 +1,18 @@
 ---
-title: WTF Is Happening To The Video Game Industry?
-created: 2026-09-02
-updated: 2026-09-02
-type: reading
-classification: education.youtube-channel.howmoneyworks
-domain: finance
-tags: ["investing", "finance", "business"]
-confidence: high
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: education.youtube-channel.howmoneyworks
+confidence: high
+created: 2026-09-02
+domain: finance
+reviewed: 2026-09-02
+status: active
+tags:
+- general
+title: WTF Is Happening To The Video Game Industry?
+type: reading
+updated: 2026-09-02
 ---
+
 
 # WTF Is Happening To The Video Game Industry?
 

@@ -1,16 +1,20 @@
 ---
-title: Jesse Bloom
-created: 2026-08-07
-updated: 2026-08-07
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-Sdr-ZCs1yzU-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-07
+domain: ai
 reviewed: 2026-08-07
+sources:
+- raw/videos/youtube-Sdr-ZCs1yzU-transcript.md
+status: active
+tags:
+- general
+title: Jesse Bloom
+type: entity
+updated: 2026-08-07
 ---
+
+
 
 # Jesse Bloom
 

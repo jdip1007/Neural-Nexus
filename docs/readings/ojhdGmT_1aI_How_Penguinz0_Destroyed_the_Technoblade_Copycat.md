@@ -1,18 +1,17 @@
 ---
-title: How Penguinz0 Destroyed the Technoblade Copycat
-created: 2026-09-05 22:24:28
-updated: 2026-09-05 22:24:28
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: ojhdGmT_1aI
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-05 22:24:28
 domain: general
+duration: 15-25 minutes
+tags:
+- general
+title: How Penguinz0 Destroyed the Technoblade Copycat
+type: reading
+updated: 2026-09-05 22:24:28
+video_id: ojhdGmT_1aI
 ---
+
+
 
 # How Penguinz0 Destroyed the Technoblade Copycat
 

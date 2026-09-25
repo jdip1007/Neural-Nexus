@@ -1,11 +1,15 @@
 ---
-title: '1980s: Learning To Code Back in the ''80s!'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: finding
 domain: general
-tags: []
+tags:
+- general
+title: '1980s: Learning To Code Back in the ''80s!'
+type: finding
+updated: '2026-09-12'
 ---
+
+
+
 
 # 1980s: Learning To Code Back in the '80s!
 

@@ -1,18 +1,22 @@
 ---
-title: Microsoft's Secret 90s Weapon That Made Windows Fast - Summary
-created: 2026-09-15
-updated: 2026-09-15
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, jH0BYAkPj78]
-sources: [raw/videos/youtube-jH0BYAkPj78-transcript.md]
-published: 2026-09-15
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-15
+domain: ai
+published: 2026-09-15
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-jH0BYAkPj78-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Microsoft's Secret 90s Weapon That Made Windows Fast - Summary
+type: reading
+updated: 2026-09-15
 ---
+
+
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast - Summary
 

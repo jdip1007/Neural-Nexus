@@ -1,23 +1,20 @@
 ---
-{
-  "title": "Why Women Never Choose The Nice Guy",
-  "created": "2026-09-13",
-  "updated": "2026-09-13",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "society"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e87"
-  ],
-  "video_id": "e87",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-13 19:38:09"
-}
+channel: Chris Willx
+created: '2026-09-13'
+domain: general
+ingestion_date: '2026-09-13 19:38:09'
+sources:
+- https://www.youtube.com/watch?v=e87
+tags:
+- general
+title: Why Women Never Choose The Nice Guy
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-13'
+video_id: e87
 ---
+
+
 
 # Why Women Never Choose The Nice Guy
 

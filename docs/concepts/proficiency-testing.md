@@ -1,16 +1,19 @@
 ---
-title: Proficiency Testing
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.regulatory
-domain: laboratory
-tags: [proficiency-testing, quality-control, clia, cms]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- clia
+- cms
+title: Proficiency Testing
+type: concept
+updated: 2026-07-31
 ---
+
 
 # Proficiency Testing
 

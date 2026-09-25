@@ -1,12 +1,17 @@
 ---
-title: "Dr K"
+classification: dr
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: Dr K
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # Dr K
 

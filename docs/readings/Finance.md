@@ -1,11 +1,15 @@
 ---
-title: Finance
-created: 2026-09-13T23:22:00.000000
-updated: 2026-09-13T23:22:00.000000
-type: article
-tags: ["finance", "business", "economics", "money", "investing"]
+created: 2026-09-13 23:22:00
+domain: general
 sources: []
+tags:
+- general
+title: Finance
+type: article
+updated: 2026-09-13 23:22:00
 ---
+
+
 
 # Finance
 

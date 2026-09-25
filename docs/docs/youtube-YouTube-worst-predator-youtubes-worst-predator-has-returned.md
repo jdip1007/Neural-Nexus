@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-YouTube-worst-predator-transcript.md
 status: active
 tags:
-- internet-anarchist
-- youtube-content
-- content-moderation
-- online-safety
+- general
 title: YouTube's Worst Predator Has Returned
 type: finding
 updated: '2026-09-02'
 ---
+
+
 
 # YouTube's Worst Predator Has Returned
 

@@ -1,18 +1,22 @@
 ---
-title: How to Find the Meaning You’ve Been Looking For - Jordan Peterson (4K) - Summary
-created: 2026-08-21
-updated: 2026-08-21
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-WEP5ubPMGDU-transcript.md]
-published: 2026-08-21
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-21
+domain: ai
+published: 2026-08-21
 reviewed: 2026-08-21
+sources:
+- raw/videos/youtube-WEP5ubPMGDU-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: How to Find the Meaning You’ve Been Looking For - Jordan Peterson (4K) - Summary
+type: reading
+updated: 2026-08-21
 ---
+
+
 
 # How to Find the Meaning You’ve Been Looking For - Jordan Peterson (4K) - Summary
 

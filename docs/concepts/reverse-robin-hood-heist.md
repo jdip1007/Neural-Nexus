@@ -1,17 +1,21 @@
 ---
-title: Reverse Robin Hood Heist
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: economics.policy-impact
-domain: economics
-tags: ["economic-policy", "wealth-redistribution", "generational-wealth", "policy-paradox", "economics"]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: economics.policy-impact
+confidence: medium
+created: 2026-08-02
+domain: economics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Reverse Robin Hood Heist
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Reverse Robin Hood Heist
 

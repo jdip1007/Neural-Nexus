@@ -1,18 +1,22 @@
 ---
-title: What Caused the Catastrophic Nuclear Accident in Chernobyl? - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, tFo_0eEt1IY]
-sources: [raw/videos/youtube-tFo_0eEt1IY-transcript.md]
-published: 2026-09-25
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-tFo_0eEt1IY-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: What Caused the Catastrophic Nuclear Accident in Chernobyl? - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # What Caused the Catastrophic Nuclear Accident in Chernobyl? - Summary
 

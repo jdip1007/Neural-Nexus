@@ -1,16 +1,19 @@
 ---
-title: Environmental Monitoring
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: biotechnology.environmental-biology
-domain: biotech
-tags: [environmental-science, ecology, sustainability]
-sources: []
 confidence: medium
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources: []
+status: active
+tags:
+- general
+title: Environmental Monitoring
+type: concept
+updated: 2026-07-19
 ---
+
+
 
 # Environmental Monitoring
 

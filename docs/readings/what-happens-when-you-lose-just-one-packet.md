@@ -1,16 +1,18 @@
 ---
-title: What Happens When You Lose Just One Packet?
-created: 2026-09-05
-updated: 2026-09-05
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ["youtube", "tutorial"]
-confidence: medium
-status: active
-reviewed: 2026-09-05
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: 2026-09-05
+domain: technology
+reviewed: 2026-09-05
+status: active
+tags:
+- general
+title: What Happens When You Lose Just One Packet?
+type: reading
+updated: 2026-09-05
 ---
+
 
 # What Happens When You Lose Just One Packet?
 

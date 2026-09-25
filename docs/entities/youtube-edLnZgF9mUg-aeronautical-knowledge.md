@@ -1,16 +1,20 @@
 ---
-title: Aeronautical Knowledge
-created: 2026-08-22
-updated: 2026-08-22
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-edLnZgF9mUg-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-22
+domain: ai
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-edLnZgF9mUg-transcript.md
+status: active
+tags:
+- general
+title: Aeronautical Knowledge
+type: entity
+updated: 2026-08-22
 ---
+
+
 
 # Aeronautical Knowledge
 

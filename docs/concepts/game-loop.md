@@ -1,18 +1,21 @@
 ---
-title: Game Loop
-created: 2026-07-25
-updated: 2026-07-25
-type: concept
+backlinks: []
 classification: computer-science.simulation
+confidence: medium
+created: 2026-07-25
 domain: devops
-tags: []
+reviewed: 2026-07-25
 sources:
 - raw/articles/sand-game-simulation.md
-confidence: medium
 status: draft
-reviewed: 2026-07-25
-backlinks: []
+tags:
+- general
+title: Game Loop
+type: concept
+updated: 2026-07-25
 ---
+
+
 
 # Game Loop
 

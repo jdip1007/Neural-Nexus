@@ -1,18 +1,22 @@
 ---
-title: CANBUS – Networking so simple, even YOU can understand it! - Summary
-created: 2026-09-15
-updated: 2026-09-15
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, QTTCqGtT6I4]
-sources: [raw/videos/youtube-QTTCqGtT6I4-transcript.md]
-published: 2026-09-15
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-15
+domain: ai
+published: 2026-09-15
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-QTTCqGtT6I4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: CANBUS – Networking so simple, even YOU can understand it! - Summary
+type: reading
+updated: 2026-09-15
 ---
+
+
 
 # CANBUS – Networking so simple, even YOU can understand it! - Summary
 

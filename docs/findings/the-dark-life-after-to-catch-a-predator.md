@@ -1,11 +1,17 @@
 ---
-title: The Dark Life After To Catch a Predator
 created: 2026-09-24
-updated: 2026-09-24
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/wBGF1M4e3l8.md
+tags:
+- general
+title: The Dark Life After To Catch a Predator
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/wBGF1M4e3l8.md]
+updated: 2026-09-24
 ---
+
+
+
 
 # The Dark Life After To Catch a Predator
 

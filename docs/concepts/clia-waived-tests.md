@@ -1,16 +1,18 @@
 ---
-title: CLIA Waived Tests
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.regulatory
-domain: laboratory
-tags: [clia-waived-tests, clia, fda-approved-tests, regulatory-compliance]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- clia
+title: CLIA Waived Tests
+type: concept
+updated: 2026-07-31
 ---
+
 
 # CLIA Waived Tests
 

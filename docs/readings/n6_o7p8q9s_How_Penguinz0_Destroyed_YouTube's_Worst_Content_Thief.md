@@ -1,18 +1,21 @@
 ---
-title: How Penguinz0 Destroyed YouTube's Worst Content Thief
-created: 2026-09-09T23:27:49
-updated: 2026-09-09T23:27:49
-type: reading
-classification: hermes.internet-culture.youtube-creator
-domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "content-creation"]
-video_id: n6_o7p8q9s
-duration: 15-25 minutes
 channel: Internet Anarchist
+classification: hermes.internet-culture.youtube-creator
 confidence: high
-status: active
+created: 2026-09-09 23:27:49
+domain: hermes
+duration: 15-25 minutes
 reviewed: 2026-09-09
+status: active
+tags:
+- general
+title: How Penguinz0 Destroyed YouTube's Worst Content Thief
+type: reading
+updated: 2026-09-09 23:27:49
+video_id: n6_o7p8q9s
 ---
+
+
 
 # How Penguinz0 Destroyed YouTube's Worst Content Thief
 

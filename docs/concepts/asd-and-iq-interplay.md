@@ -1,15 +1,22 @@
 ---
-title: "ASD and IQ Interplay"
-created: 2026-09-24
-updated: 2026-09-24
-type: concept
-domain: psychology
-tags: [autism-spectrum-disorder, iq, diagnostics, heterogeneity, ados]
-sources: [raw/transcripts/wolff-2022-asd-iq-interplay.txt]
+classification: autism-spectrum-disorder
 confidence: high
-status: active
+created: 2026-09-24
+domain: psychology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/wolff-2022-asd-iq-interplay.txt
+status: active
+tags:
+- iq
+- ados
+title: ASD and IQ Interplay
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # ASD and IQ Interplay
 

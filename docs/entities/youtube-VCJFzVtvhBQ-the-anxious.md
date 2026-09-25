@@ -1,16 +1,20 @@
 ---
-title: The Anxious
-created: 2026-08-22
-updated: 2026-08-22
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-VCJFzVtvhBQ-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-22
+domain: ai
 reviewed: 2026-08-22
+sources:
+- raw/videos/youtube-VCJFzVtvhBQ-transcript.md
+status: active
+tags:
+- general
+title: The Anxious
+type: entity
+updated: 2026-08-22
 ---
+
+
 
 # The Anxious
 

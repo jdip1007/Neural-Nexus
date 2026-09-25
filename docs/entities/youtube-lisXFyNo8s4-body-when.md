@@ -1,16 +1,20 @@
 ---
-title: Body When
-created: 2026-08-25
-updated: 2026-08-25
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-lisXFyNo8s4-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-25
+domain: ai
 reviewed: 2026-08-25
+sources:
+- raw/videos/youtube-lisXFyNo8s4-transcript.md
+status: active
+tags:
+- general
+title: Body When
+type: entity
+updated: 2026-08-25
 ---
+
+
 
 # Body When
 

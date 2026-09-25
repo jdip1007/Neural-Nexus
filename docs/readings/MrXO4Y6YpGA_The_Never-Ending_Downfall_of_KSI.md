@@ -1,18 +1,17 @@
 ---
-title: The Never-Ending Downfall of KSI
-created: 2026-09-04 22:19:13
-updated: 2026-09-04 22:19:13
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: MrXO4Y6YpGA
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-04 22:19:13
 domain: devops
+duration: 15-25 minutes
+tags:
+- general
+title: The Never-Ending Downfall of KSI
+type: reading
+updated: 2026-09-04 22:19:13
+video_id: MrXO4Y6YpGA
 ---
+
+
 
 # The Never-Ending Downfall of KSI
 

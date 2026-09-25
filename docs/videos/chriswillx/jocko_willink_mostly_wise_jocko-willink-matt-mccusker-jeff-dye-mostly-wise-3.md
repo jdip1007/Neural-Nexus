@@ -1,18 +1,22 @@
 ---
-title: Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
+backlinks: []
 classification: philosophy.youtube-channel.chriswillx
+confidence: high
+created: 2026-08-29
 domain: philosophy
-tags: []
+reviewed: 2026-08-29
 sources:
 - raw/videos/chriswillx/jocko_willink_mostly_wise_jocko-willink-matt-mccusker-jeff-dye-mostly-wise-3.md
-confidence: high
 status: active
-reviewed: 2026-08-29
-backlinks: []
+tags:
+- general
+title: Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise
+type: reading
+updated: 2026-08-29
 ---
+
+
+
 
 # Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3
 

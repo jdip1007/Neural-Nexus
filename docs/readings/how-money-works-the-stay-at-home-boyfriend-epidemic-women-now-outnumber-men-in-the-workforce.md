@@ -1,11 +1,14 @@
 ---
-title: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
 

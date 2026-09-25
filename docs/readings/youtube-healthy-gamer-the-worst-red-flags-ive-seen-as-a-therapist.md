@@ -1,17 +1,16 @@
 ---
-title: The Worst Red Flags I've Seen As A Therapist
 created: 2026-08-26 18:58:56.400608
-updated: 2026-08-26 18:58:56.400610
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=KBkkN12nVqs
-domain: psychology
+tags:
+- dr-k
+title: The Worst Red Flags I've Seen As A Therapist
+type: reading
+updated: 2026-08-26 18:58:56.400610
 ---
+
+
 
 # The Worst Red Flags I've Seen As A Therapist
 

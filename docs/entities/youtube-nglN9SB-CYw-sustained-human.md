@@ -1,16 +1,20 @@
 ---
-title: Sustained Human
-created: 2026-08-21
-updated: 2026-08-21
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [docs/raw/videos/youtube-nglN9SB-CYw-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-21
+domain: ai
 reviewed: 2026-08-21
+sources:
+- docs/raw/videos/youtube-nglN9SB-CYw-transcript.md
+status: active
+tags:
+- general
+title: Sustained Human
+type: entity
+updated: 2026-08-21
 ---
+
+
 
 # Sustained Human
 

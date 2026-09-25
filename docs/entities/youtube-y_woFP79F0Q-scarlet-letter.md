@@ -1,16 +1,20 @@
 ---
-title: Scarlet Letter
-created: 2026-08-25
-updated: 2026-08-25
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-y_woFP79F0Q-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-25
+domain: ai
 reviewed: 2026-08-25
+sources:
+- raw/videos/youtube-y_woFP79F0Q-transcript.md
+status: active
+tags:
+- general
+title: Scarlet Letter
+type: entity
+updated: 2026-08-25
 ---
+
+
 
 # Scarlet Letter
 

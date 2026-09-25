@@ -1,11 +1,14 @@
 ---
-title: Why We (Probably) Shouldn't Give Iran $300 Billion Dollars
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Why We (Probably) Shouldn't Give Iran $300 Billion Dollars
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Why We (Probably) Shouldn't Give Iran $300 Billion Dollars
 

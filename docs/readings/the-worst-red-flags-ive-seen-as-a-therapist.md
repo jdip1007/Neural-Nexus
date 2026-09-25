@@ -1,22 +1,18 @@
 ---
-{
-  "title": "The Worst Red Flags I've Seen As A Therapist",
-  "created": "2026-09-16T02:21:19.091350",
-  "updated": "2026-09-16T02:21:19.091353",
-  "type": "video",
-  "tags": [
-    "breakup",
-    "relationships",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=KBkkN12nVqs"
-  ],
-  "duration": "16:15",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-16T02:21:19.091350'
+domain: general
+duration: '16:15'
+sources:
+- https://www.youtube.com/watch?v=KBkkN12nVqs
+tags:
+- general
+title: The Worst Red Flags I've Seen As A Therapist
+type: video
+updated: '2026-09-16T02:21:19.091353'
 ---
+
+
 
 # The Worst Red Flags I've Seen As A Therapist
 

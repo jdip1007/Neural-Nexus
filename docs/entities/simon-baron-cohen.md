@@ -1,16 +1,19 @@
 ---
-title: Simon Baron-Cohen
-created: 2026-08-17
-updated: 2026-08-17
-type: entity
-domain: psychology
-tags: [systematizing, neurodiversity]
-sources: [raw/transcripts/youtube/phqIVUoy70k.md]
-confidence: high
-status: active
-reviewed: 2026-08-17
 classification: psychology.cognitive-science.neurodiversity
+confidence: high
+created: 2026-08-17
+domain: psychology
+reviewed: 2026-08-17
+sources:
+- raw/transcripts/youtube/phqIVUoy70k.md
+status: active
+tags:
+- general
+title: Simon Baron-Cohen
+type: entity
+updated: 2026-08-17
 ---
+
 
 # Simon Baron-Cohen
 

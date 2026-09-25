@@ -1,18 +1,23 @@
 ---
-title: Full-Time Work Is DEAD. The $20 BILLION Job Crisis Crushing the ECONOMY. - Summary
-created: 2026-09-02
-updated: 2026-09-02
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-Jf19D1HaRjo-transcript.md]
-published: 2026-09-02
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-02
+domain: ai
+published: 2026-09-02
 reviewed: 2026-09-02
+sources:
+- raw/videos/youtube-Jf19D1HaRjo-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Full-Time Work Is DEAD. The $20 BILLION Job Crisis Crushing the ECONOMY. -
+  Summary
+type: reading
+updated: 2026-09-02
 ---
+
+
 
 # Full-Time Work Is DEAD. The $20 BILLION Job Crisis Crushing the ECONOMY. - Summary
 

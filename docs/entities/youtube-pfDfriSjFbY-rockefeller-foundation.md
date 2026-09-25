@@ -1,16 +1,20 @@
 ---
-title: Rockefeller Foundation
-created: 2026-08-29
-updated: 2026-08-29
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "organizations"]
-sources: [raw/videos/youtube-pfDfriSjFbY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-29
+domain: ai
 reviewed: 2026-08-29
+sources:
+- raw/videos/youtube-pfDfriSjFbY-transcript.md
+status: active
+tags:
+- general
+title: Rockefeller Foundation
+type: entity
+updated: 2026-08-29
 ---
+
+
 
 # Rockefeller Foundation
 

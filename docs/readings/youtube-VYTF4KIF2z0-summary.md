@@ -1,18 +1,22 @@
 ---
-title: Why I Deleted printf() from Windows COM in 1994! - Summary
-created: 2026-09-19
-updated: 2026-09-19
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, VYTF4KIF2z0]
-sources: [raw/videos/youtube-VYTF4KIF2z0-transcript.md]
-published: 2026-09-19
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-19
+domain: ai
+published: 2026-09-19
 reviewed: 2026-09-19
+sources:
+- raw/videos/youtube-VYTF4KIF2z0-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why I Deleted printf() from Windows COM in 1994! - Summary
+type: reading
+updated: 2026-09-19
 ---
+
+
 
 # Why I Deleted printf() from Windows COM in 1994! - Summary
 

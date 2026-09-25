@@ -1,18 +1,17 @@
 ---
-title: The Deserved Downfall of Tom Segura
-created: 2026-09-04 22:19:14
-updated: 2026-09-04 22:19:14
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- general
-video_id: uK_G92TUXWg
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-04 22:19:14
 domain: devops
+duration: 15-25 minutes
+tags:
+- general
+title: The Deserved Downfall of Tom Segura
+type: reading
+updated: 2026-09-04 22:19:14
+video_id: uK_G92TUXWg
 ---
+
+
 
 # The Deserved Downfall of Tom Segura
 

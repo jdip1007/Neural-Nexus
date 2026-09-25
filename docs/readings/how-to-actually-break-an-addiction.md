@@ -1,21 +1,18 @@
 ---
-{
-  "title": "How To ACTUALLY Break An Addiction",
-  "created": "2026-09-15T01:39:56.733354",
-  "updated": "2026-09-15T01:39:56.733355",
-  "type": "video",
-  "tags": [
-    "addiction",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=example5"
-  ],
-  "duration": "18 minutes",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-15T01:39:56.733354'
+domain: general
+duration: 18 minutes
+sources:
+- https://www.youtube.com/watch?v=example5
+tags:
+- general
+title: How To ACTUALLY Break An Addiction
+type: video
+updated: '2026-09-15T01:39:56.733355'
 ---
+
+
 
 # How To ACTUALLY Break An Addiction
 

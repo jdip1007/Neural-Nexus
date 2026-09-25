@@ -1,16 +1,24 @@
 ---
-title: Tissue-Specific DNA Extraction
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: biotechnology.molecular-biology.dna-operations
-domain: biotech
-tags: [molecular-biology, genomics, laboratory-technique, biotechnology, dna-extraction]
-sources: [raw/articles/agarose-plug-dna-extraction-method.md, raw/articles/brain-tissue-dna-extraction-method.md, raw/articles/c-elegans-dna-extraction-method.md, raw/articles/buffy-coat-dna-extraction-method.md, raw/articles/animal-pore-c-dna-extraction-method.md]
 confidence: high
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources:
+- raw/articles/agarose-plug-dna-extraction-method.md
+- raw/articles/brain-tissue-dna-extraction-method.md
+- raw/articles/c-elegans-dna-extraction-method.md
+- raw/articles/buffy-coat-dna-extraction-method.md
+- raw/articles/animal-pore-c-dna-extraction-method.md
+status: active
+tags:
+- general
+title: Tissue-Specific DNA Extraction
+type: concept
+updated: 2026-07-19
 ---
+
+
 
 # Tissue-Specific DNA Extraction
 

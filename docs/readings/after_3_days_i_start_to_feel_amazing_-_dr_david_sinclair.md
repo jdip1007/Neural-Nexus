@@ -1,15 +1,19 @@
 ---
-title: After 3 Days… I Start To Feel Amazing - Dr David Sinclair
-created: 2026-08-28 11:50:02.409330
-updated: 2026-08-28 11:50:02.409357
-type: reading
-tags: []
 channel: Chris Willx
-video_id: 34353637381
-guests: []
-themes: []
+created: 2026-08-28 11:50:02.409330
 domain: general
+guests: []
+tags:
+- general
+themes: []
+title: After 3 Days… I Start To Feel Amazing - Dr David Sinclair
+type: reading
+updated: 2026-08-28 11:50:02.409357
+video_id: 34353637381
 ---
+
+
+
 
 # After 3 Days… I Start To Feel Amazing - Dr David Sinclair
 

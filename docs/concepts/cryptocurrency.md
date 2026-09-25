@@ -1,12 +1,16 @@
 ---
-title: "Cryptocurrency"
+classification: cryptocurrency
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: finance
-tags: [cryptocurrency]
 status: stub
+tags:
+- general
+title: Cryptocurrency
+type: concept
+updated: 2026-09-25
 ---
+
+
 
 # Cryptocurrency
 

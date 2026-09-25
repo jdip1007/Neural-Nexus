@@ -1,23 +1,20 @@
 ---
-{
-  "title": "Understanding Blockchain: Beyond the Hype",
-  "created": "2026-09-13",
-  "updated": "2026-09-13",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=new003"
-  ],
-  "video_id": "new003",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-13 19:40:28"
-}
+channel: Chris Willx
+created: '2026-09-13'
+domain: general
+ingestion_date: '2026-09-13 19:40:28'
+sources:
+- https://www.youtube.com/watch?v=new003
+tags:
+- general
+title: 'Understanding Blockchain: Beyond the Hype'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-13'
+video_id: new003
 ---
+
+
 
 # Understanding Blockchain: Beyond the Hype
 

@@ -1,16 +1,21 @@
 ---
-title: Capital Deepening Trap
-created: 2026-08-11
-updated: 2026-08-11
-type: concept
 classification: economics.china
-domain: economics
-tags: [capital-deepening, china-economy, japan-comparison, structural-economics]
-sources: [raw/pdfs/china-deepening-japan-problem-stephen-roach.md, raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md]
 confidence: high
-status: active
+created: 2026-08-11
+domain: economics
 reviewed: 2026-08-11
+sources:
+- raw/pdfs/china-deepening-japan-problem-stephen-roach.md
+- raw/transcripts/笑談中國經濟/stephen-roach-capital-deepening.md
+status: active
+tags:
+- general
+title: Capital Deepening Trap
+type: concept
+updated: 2026-08-11
 ---
+
+
 
 # Capital Deepening Trap
 

@@ -1,12 +1,16 @@
 ---
-title: Healthygamergg_Ingestion_Final_Report
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: psychology
-tags: []
 status: draft
+tags:
+- general
+title: Healthygamergg_Ingestion_Final_Report
+type: reading
+updated: 2026-09-12
 ---
+
+
+
 
 === HealthyGamerGG YouTube Ingestion Pipeline - FINAL REPORT ===
 Generated: 2026-08-22 17:40:48

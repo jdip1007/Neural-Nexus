@@ -1,11 +1,13 @@
 ---
-title: "S9_T0U1V2W_Pewdiepie'S Journey"
-type: reading
-domain: general
-tags: [youtube]
 created: 2026-09-12
+domain: general
+tags:
+- general
+title: S9_T0U1V2W_Pewdiepie'S Journey
+type: reading
 updated: 2026-09-12
 ---
+
 # PewDiePie's Journey
 
 **Source**: [https://www.youtube.com/watch?v=s9_t0u1v2w](https://www.youtube.com/watch?v=s9_t0u1v2w)  

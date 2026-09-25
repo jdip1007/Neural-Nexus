@@ -1,14 +1,14 @@
 ---
-title: The Lie of "Positive Thinking"
 created: 2026-08-27 19:15:30.442044
-updated: 2026-08-27 19:15:30.442046
-type: reading
-tags:
-- healthy-gamer-gg
-- mental-health
-- youtube
 domain: psychology
+tags:
+- general
+title: The Lie of "Positive Thinking"
+type: reading
+updated: 2026-08-27 19:15:30.442046
 ---
+
+
 
 # The Lie of "Positive Thinking"
 

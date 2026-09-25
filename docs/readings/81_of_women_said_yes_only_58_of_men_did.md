@@ -1,15 +1,19 @@
 ---
-title: 81% Of Women Said Yes. Only 58% Of Men Did.
-created: 2026-08-28 11:50:04.411044
-updated: 2026-08-28 11:50:04.411061
-type: reading
-tags: []
 channel: Chris Willx
-video_id: 24252627281
-guests: []
-themes: []
+created: 2026-08-28 11:50:04.411044
 domain: general
+guests: []
+tags:
+- general
+themes: []
+title: 81% Of Women Said Yes. Only 58% Of Men Did.
+type: reading
+updated: 2026-08-28 11:50:04.411061
+video_id: 24252627281
 ---
+
+
+
 
 # 81% Of Women Said Yes. Only 58% Of Men Did.
 

@@ -1,16 +1,20 @@
 ---
-title: Shop Talk
-created: 2026-09-15
-updated: 2026-09-15
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, jH0BYAkPj78]
-sources: [raw/videos/youtube-jH0BYAkPj78-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-15
+domain: ai
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-jH0BYAkPj78-transcript.md
+status: active
+tags:
+- general
+title: Shop Talk
+type: entity
+updated: 2026-09-15
 ---
+
+
 
 # Shop Talk
 

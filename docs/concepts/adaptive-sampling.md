@@ -1,16 +1,20 @@
 ---
-title: Adaptive Sampling
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: biotechnology.sequencing
-domain: biotech
-tags: [genomics, bioinformatics, computational-biology]
-sources: [raw/articles/adaptive-sampling-document.md]
 confidence: high
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources:
+- raw/articles/adaptive-sampling-document.md
+status: active
+tags:
+- general
+title: Adaptive Sampling
+type: concept
+updated: 2026-07-19
 ---
+
+
 
 # Adaptive Sampling
 

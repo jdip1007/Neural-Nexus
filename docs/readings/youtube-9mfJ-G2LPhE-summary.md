@@ -1,18 +1,22 @@
 ---
-title: What Caused the Rise of Nazi Germany - Summary
-created: 2026-09-16
-updated: 2026-09-16
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, 9mfJ-G2LPhE]
-sources: [raw/videos/youtube-9mfJ-G2LPhE-transcript.md]
-published: 2026-09-16
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-16
+domain: ai
+published: 2026-09-16
 reviewed: 2026-09-16
+sources:
+- raw/videos/youtube-9mfJ-G2LPhE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: What Caused the Rise of Nazi Germany - Summary
+type: reading
+updated: 2026-09-16
 ---
+
+
 
 # What Caused the Rise of Nazi Germany - Summary
 

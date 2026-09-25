@@ -1,17 +1,19 @@
 ---
-title: Networking
-created: 2026-09-02
-updated: 2026-09-02
-type: concept
-classification: technology.networking
-domain: technology
-tags: ["ethernet", "protocols"]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: technology.networking
+confidence: high
+created: 2026-09-02
+domain: technology
+reviewed: 2026-09-02
+sources: []
+status: active
+tags:
+- general
+title: Networking
+type: concept
+updated: 2026-09-02
 ---
+
 
 # Networking
 

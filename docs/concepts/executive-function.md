@@ -1,16 +1,18 @@
 ---
-title: Executive Function
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: psychology.mental-health
-domain: psychology
-tags: [executive-function, cognitive-science, adhd, prefrontal-cortex, mental-health]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: psychology
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- adhd
+title: Executive Function
+type: concept
+updated: 2026-07-31
 ---
+
 
 # Executive Function
 

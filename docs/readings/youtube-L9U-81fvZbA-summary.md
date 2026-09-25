@@ -1,18 +1,22 @@
 ---
-title: Declassified FBI Secrets You’re Not Supposed To Know - Summary
-created: 2026-08-09
-updated: 2026-08-09
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-L9U-81fvZbA-transcript.md]
-published: 2026-08-09
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-09
+domain: ai
+published: 2026-08-09
 reviewed: 2026-08-09
+sources:
+- raw/videos/youtube-L9U-81fvZbA-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Declassified FBI Secrets You’re Not Supposed To Know - Summary
+type: reading
+updated: 2026-08-09
 ---
+
+
 
 # Declassified FBI Secrets You’re Not Supposed To Know - Summary
 

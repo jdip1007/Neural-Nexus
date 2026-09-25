@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-23T02:58:26.811045'
+domain: general
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=8c4Yf7WzQzY
 tags:
-- development
 - tech
 - code
-- hardware
 - diy
-- software
 - led
-- system
-- tutorial
-- programming
-- ethernet
-- assembly
-- network
-- youtube
-- daves-garage
 title: Microsoft's Secret 90s Weapon That Made Windows Fast
 type: video
 updated: '2026-09-23T02:58:26.811055'
 video_id: 8c4Yf7WzQzY
 views: 130K
 ---
+
+
+
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 

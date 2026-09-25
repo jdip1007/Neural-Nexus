@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Science
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The 13 Seconds That Exposed Hank Green.md
+tags:
+- general
+title: Internet Anarchist - Science
 type: concept
-tags: [youtube, internet-anarchist, science, documentary]
-sources: [The 13 Seconds That Exposed Hank Green.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Science
 

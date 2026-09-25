@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-18T01:19:27.081710'
+domain: general
 duration: 20 minutes
 sources:
 - https://www.youtube.com/watch?v=OG91c7xsNMc
 tags:
-- system
-- assembly
-- programming
 - tech
-- tutorial
-- ethernet
-- software
 - diy
-- network
-- hardware
 - code
 - led
-- development
-- youtube
-- daves-garage
 title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
 type: video
 updated: '2026-09-18T01:19:27.081764'
 video_id: OG91c7xsNMc
 views: 331K
 ---
+
+
+
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
 

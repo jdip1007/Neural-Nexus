@@ -1,17 +1,21 @@
 ---
-title: Demographic Wall
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: demographics.economics
-domain: demographics
-tags: [demographic-wall, demographic-bulge, generational-shifts, economic-transformation, wealth-transfer, population-aging, economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: demographics.economics
+confidence: medium
+created: 2026-08-02
+domain: demographics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Demographic Wall
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Demographic Wall
 

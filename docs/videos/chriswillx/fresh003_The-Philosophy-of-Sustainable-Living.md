@@ -1,21 +1,20 @@
 ---
-{
-  "title": "The Philosophy of Sustainable Living",
-  "created": "2026-09-12",
-  "updated": "2026-09-12",
-  "type": "video",
-  "tags": [
-    "technology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=fresh003"
-  ],
-  "video_id": "fresh003",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-12 19:29:47"
-}
+channel: Chris Willx
+created: '2026-09-12'
+domain: general
+ingestion_date: '2026-09-12 19:29:47'
+sources:
+- https://www.youtube.com/watch?v=fresh003
+tags:
+- general
+title: The Philosophy of Sustainable Living
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-12'
+video_id: fresh003
 ---
+
+
 
 # The Philosophy of Sustainable Living
 

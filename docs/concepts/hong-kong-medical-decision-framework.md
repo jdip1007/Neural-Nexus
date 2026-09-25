@@ -1,16 +1,20 @@
 ---
-title: 香港醫療決定法律框架
-created: 2026-08-04
-updated: 2026-08-04
-type: concept
 classification: legal-science.medical-law
-domain: general
-tags: [hong-kong-law, healthcare-system, legal-framework, patient-rights, cantonese]
-sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 confidence: high
-status: active
+created: 2026-08-04
+domain: general
 reviewed: 2026-08-07
+sources:
+- raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md
+status: active
+tags:
+- general
+title: 香港醫療決定法律框架
+type: concept
+updated: 2026-08-04
 ---
+
+
 
 # 香港醫療決定法律框架
 

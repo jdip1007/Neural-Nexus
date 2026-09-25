@@ -1,18 +1,22 @@
 ---
-title: Germany has hit rock bottom... - Summary
-created: 2026-08-20
-updated: 2026-08-20
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-f47Qi11cfs8-transcript.md]
-published: 2026-08-20
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-20
+domain: ai
+published: 2026-08-20
 reviewed: 2026-08-20
+sources:
+- raw/videos/youtube-f47Qi11cfs8-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Germany has hit rock bottom... - Summary
+type: reading
+updated: 2026-08-20
 ---
+
+
 
 # Germany has hit rock bottom... - Summary
 

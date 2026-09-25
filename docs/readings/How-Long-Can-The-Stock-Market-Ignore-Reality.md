@@ -1,11 +1,15 @@
 ---
-title: How Long Can The Stock Market Ignore Reality?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: How Long Can The Stock Market Ignore Reality?
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # How Long Can The Stock Market Ignore Reality?
 

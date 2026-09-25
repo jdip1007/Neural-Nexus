@@ -1,16 +1,20 @@
 ---
-title: Tesla Model
-created: 2026-08-27
-updated: 2026-08-27
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-mUBBqAjVuco-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-27
+domain: ai
 reviewed: 2026-08-27
+sources:
+- raw/videos/youtube-mUBBqAjVuco-transcript.md
+status: active
+tags:
+- general
+title: Tesla Model
+type: entity
+updated: 2026-08-27
 ---
+
+
 
 # Tesla Model
 

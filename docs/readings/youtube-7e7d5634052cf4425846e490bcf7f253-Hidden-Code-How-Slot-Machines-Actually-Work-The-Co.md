@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-18T01:39:43.741683'
+domain: general
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=3c5f7WzQzY
 tags:
-- programming
-- assembly
-- ethernet
-- network
 - led
-- software
 - tech
 - diy
-- hardware
-- tutorial
-- development
-- system
 - code
-- youtube
-- daves-garage
 title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside'
 type: video
 updated: '2026-09-18T01:39:43.741693'
 video_id: 3c5f7WzQzY
 views: 428K
 ---
+
+
+
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside
 

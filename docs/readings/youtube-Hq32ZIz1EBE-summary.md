@@ -1,18 +1,22 @@
 ---
-title: How Intelligence Leads To Avoidance | Episode 003 Video Game Addiction - Summary
-created: 2026-08-30
-updated: 2026-08-30
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-Hq32ZIz1EBE-transcript.md]
-published: 2026-08-30
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-08-30
+domain: ai
+published: 2026-08-30
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-Hq32ZIz1EBE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: How Intelligence Leads To Avoidance | Episode 003 Video Game Addiction - Summary
+type: reading
+updated: 2026-08-30
 ---
+
+
 
 # How Intelligence Leads To Avoidance | Episode 003 Video Game Addiction - Summary
 

@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-JiDion-past-catching-up-transcript.md
 status: active
 tags:
-- internet-anarchist
-- youtube-content
-- online-controversy
-- cancel-culture
+- general
 title: JiDion's Past Is Catching Up To Him
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # JiDion's Past Is Catching Up To Him
 

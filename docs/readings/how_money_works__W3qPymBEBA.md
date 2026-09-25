@@ -1,21 +1,20 @@
 ---
-title: WTF Does Peter Thiel Actually Want?
+channel: How Money Works
 created: 2026-09-03 20:38:18.471860
-updated: 2026-09-03 20:38:18.471869
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Market
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=_W3qPymBEBA
-channel: How Money Works
+tags:
+- general
+title: WTF Does Peter Thiel Actually Want?
+type: reading
+updated: 2026-09-03 20:38:18.471869
 video_id: _W3qPymBEBA
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # WTF Does Peter Thiel Actually Want?
 

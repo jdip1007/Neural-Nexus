@@ -1,18 +1,22 @@
 ---
-title: Can Men & Women Be Friends? - Summary
-created: 2026-08-16
-updated: 2026-08-16
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-OafdDpFjOIg-transcript.md]
-published: 2026-08-16
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-08-16
+domain: ai
+published: 2026-08-16
 reviewed: 2026-08-16
+sources:
+- raw/videos/youtube-OafdDpFjOIg-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: Can Men & Women Be Friends? - Summary
+type: reading
+updated: 2026-08-16
 ---
+
+
 
 # Can Men & Women Be Friends? - Summary
 

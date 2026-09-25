@@ -1,18 +1,22 @@
 ---
-title: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. - Summary
-created: 2026-08-16
-updated: 2026-08-16
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-ZwYrXkPJA1s-transcript.md]
-published: 2026-08-16
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-16
+domain: ai
+published: 2026-08-16
 reviewed: 2026-08-16
+sources:
+- raw/videos/youtube-ZwYrXkPJA1s-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. - Summary
+type: reading
+updated: 2026-08-16
 ---
+
+
 
 # Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. - Summary
 

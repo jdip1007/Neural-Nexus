@@ -1,18 +1,22 @@
 ---
-title: fopen is Magic! - Find Out What You've Been Missing All These Years! - Summary
-created: 2026-09-15
-updated: 2026-09-15
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, XAzUoizwnXM]
-sources: [raw/videos/youtube-XAzUoizwnXM-transcript.md]
-published: 2026-09-15
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-15
+domain: ai
+published: 2026-09-15
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-XAzUoizwnXM-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: fopen is Magic! - Find Out What You've Been Missing All These Years! - Summary
+type: reading
+updated: 2026-09-15
 ---
+
+
 
 # fopen is Magic! - Find Out What You've Been Missing All These Years! - Summary
 

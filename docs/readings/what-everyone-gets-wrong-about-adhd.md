@@ -1,14 +1,14 @@
 ---
-title: What Everyone Gets Wrong About ADHD
 created: 2026-08-27 19:15:56.109413
-updated: 2026-08-27 19:15:56.109423
-type: reading
-tags:
-- healthy-gamer-gg
-- mental-health
-- youtube
 domain: psychology
+tags:
+- general
+title: What Everyone Gets Wrong About ADHD
+type: reading
+updated: 2026-08-27 19:15:56.109423
 ---
+
+
 
 # What Everyone Gets Wrong About ADHD
 

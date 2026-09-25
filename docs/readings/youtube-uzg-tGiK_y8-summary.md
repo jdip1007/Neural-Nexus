@@ -1,18 +1,23 @@
 ---
-title: Why Marines aren't just a different kind of 'soldier' || The Infographics Show react - Summary
-created: 2026-08-13
-updated: 2026-08-13
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-uzg-tGiK_y8-transcript.md]
-published: 2026-08-13
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-13
+domain: ai
+published: 2026-08-13
 reviewed: 2026-08-13
+sources:
+- raw/videos/youtube-uzg-tGiK_y8-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why Marines aren't just a different kind of 'soldier' || The Infographics Show
+  react - Summary
+type: reading
+updated: 2026-08-13
 ---
+
+
 
 # Why Marines aren't just a different kind of 'soldier' || The Infographics Show react - Summary
 

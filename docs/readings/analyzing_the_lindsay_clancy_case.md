@@ -1,22 +1,19 @@
 ---
-{
-  "title": "Analyzing The Lindsay Clancy Case",
-  "created": "2026-09-20T04:23:04.437035",
-  "updated": "2026-09-20T04:23:04.437048",
-  "type": "video",
-  "tags": [
-    "mental health",
-    "case study",
-    "psychology",
-    "awareness"
-  ],
-  "sources": [
-    "youtube.com/watch?v=eF6g7h8i9J0"
-  ],
-  "video_id": "eF6g7h8i9J0",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-20T04:23:04.437035'
+domain: general
+sources:
+- youtube.com/watch?v=eF6g7h8i9J0
+tags:
+- general
+title: Analyzing The Lindsay Clancy Case
+type: video
+updated: '2026-09-20T04:23:04.437048'
+video_id: eF6g7h8i9J0
 ---
+
+
+
 
 # Analyzing The Lindsay Clancy Case
 

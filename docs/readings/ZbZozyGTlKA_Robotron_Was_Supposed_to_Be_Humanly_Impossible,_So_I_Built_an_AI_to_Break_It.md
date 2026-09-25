@@ -1,18 +1,17 @@
 ---
-title: Robotron Was Supposed to Be Humanly Impossible, So I Built an AI to Break It
-created: 2026-08-28 19:35:30
-updated: 2026-08-28 19:35:30
-type: reading
-tags:
-- youtube
-- gaming
-- mental-health
-- gaming
-video_id: ZbZozyGTlKA
-duration: 15-25 minutes
 channel: Dave's Garage
+created: 2026-08-28 19:35:30
 domain: psychology
+duration: 15-25 minutes
+tags:
+- general
+title: Robotron Was Supposed to Be Humanly Impossible, So I Built an AI to Break It
+type: reading
+updated: 2026-08-28 19:35:30
+video_id: ZbZozyGTlKA
 ---
+
+
 
 # Robotron Was Supposed to Be Humanly Impossible, So I Built an AI to Break It
 

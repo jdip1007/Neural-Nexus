@@ -1,17 +1,16 @@
 ---
-title: Why You Should NEVER Confess Your Love
 created: 2026-09-07 23:22:02.394616
-updated: 2026-09-07 23:22:02.394624
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=xHkcIRZa6lo
-domain: psychology
+tags:
+- dr-k
+title: Why You Should NEVER Confess Your Love
+type: reading
+updated: 2026-09-07 23:22:02.394624
 ---
+
+
 
 # Why You Should NEVER Confess Your Love
 

@@ -1,18 +1,22 @@
 ---
-title: The Story of Lizzie Borden And How She Got Away With Murder - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, uNpHhPJzEEg]
-sources: [raw/videos/youtube-uNpHhPJzEEg-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-uNpHhPJzEEg-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The Story of Lizzie Borden And How She Got Away With Murder - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # The Story of Lizzie Borden And How She Got Away With Murder - Summary
 

@@ -1,17 +1,20 @@
 ---
-title: Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.
-created: 2026-08-28
-updated: 2026-08-28
-type: reading
-classification: technology.youtube-channel.davesgarage
-domain: devops
-tags: ["ai"]
-sources: [raw/videos/davesgarage/ZbZozyGTlKA_robotron-was-supposed-to-be-humanly-impossible-so-i-built-an-ai-to-break-it.md]
-confidence: high
-status: active
-reviewed: 2026-08-28
 backlinks: []
+classification: technology.youtube-channel.davesgarage
+confidence: high
+created: 2026-08-28
+domain: devops
+reviewed: 2026-08-28
+sources:
+- raw/videos/davesgarage/ZbZozyGTlKA_robotron-was-supposed-to-be-humanly-impossible-so-i-built-an-ai-to-break-it.md
+status: active
+tags:
+- general
+title: Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.
+type: reading
+updated: 2026-08-28
 ---
+
 
 # Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.
 

@@ -1,16 +1,20 @@
 ---
-title: Ludendorff Offensive
-created: 2026-09-02
-updated: 2026-09-02
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-9mfJ-G2LPhE-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-02
+domain: ai
 reviewed: 2026-09-02
+sources:
+- raw/videos/youtube-9mfJ-G2LPhE-transcript.md
+status: active
+tags:
+- general
+title: Ludendorff Offensive
+type: entity
+updated: 2026-09-02
 ---
+
+
 
 # Ludendorff Offensive
 

@@ -1,16 +1,19 @@
 ---
-title: Steven Strogatz
-created: 2026-07-31
-updated: 2026-07-31
-type: entity
 classification: person.researcher
-domain: biology
-tags: [complex-systems, theoretical-physics]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: biology
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- general
+title: Steven Strogatz
+type: entity
+updated: 2026-07-31
 ---
+
+
 
 # Steven Strogatz
 

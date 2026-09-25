@@ -1,22 +1,20 @@
 ---
-{
-  "title": "Why Women Hate Sydney Sweeney & Love Sabrina Carpenter",
-  "created": "2026-09-21",
-  "updated": "2026-09-21",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Y-r63JyWmDs"
-  ],
-  "video_id": "Y-r63JyWmDs",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-21"
-}
+channel: Chris Willx
+created: '2026-09-21'
+domain: general
+ingestion_date: '2026-09-21'
+sources:
+- https://www.youtube.com/watch?v=Y-r63JyWmDs
+tags:
+- general
+title: Why Women Hate Sydney Sweeney & Love Sabrina Carpenter
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-21'
+video_id: Y-r63JyWmDs
 ---
+
+
 
 # Why Women Hate Sydney Sweeney & Love Sabrina Carpenter
 

@@ -1,18 +1,19 @@
 ---
-title: '"We''re At The Beginning Of A Revolution" - Jimmy Carr'
+channel: Chris Willx
 created: '2026-09-05'
-updated: '2026-09-05'
-type: reading
-tags:
-- technology
+domain: psychology
+ingestion_date: '2026-09-05 17:07:01'
 sources:
 - https://www.youtube.com/watch?v=gAxNYd01I6E
-video_id: gAxNYd01I6E
-channel: Chris Willx
+tags:
+- general
+title: '"We''re At The Beginning Of A Revolution" - Jimmy Carr'
 transcript_api: transcriptapi.com
-ingestion_date: '2026-09-05 17:07:01'
-domain: psychology
+type: reading
+updated: '2026-09-05'
+video_id: gAxNYd01I6E
 ---
+
 
 # "We're At The Beginning Of A Revolution" - Jimmy Carr
 

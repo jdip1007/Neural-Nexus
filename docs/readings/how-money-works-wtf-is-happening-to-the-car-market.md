@@ -1,11 +1,14 @@
 ---
-title: WTF Is Happening To The Car Market?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: WTF Is Happening To The Car Market?
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # WTF Is Happening To The Car Market?
 

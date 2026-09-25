@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-abcdef12345-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- sensitivity
-- trauma
+- general
 title: Why Sensitive People Get Traumatized So Easily
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # Why Sensitive People Get Traumatized So Easily
 

@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Internet_Safety
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The Dark Life After To Catch a Predator.md
+tags:
+- general
+title: Internet Anarchist - Internet_Safety
 type: concept
-tags: [youtube, internet-anarchist, internet_safety, documentary]
-sources: [The Dark Life After To Catch a Predator.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Internet_Safety
 

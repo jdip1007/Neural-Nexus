@@ -1,17 +1,20 @@
 ---
-title: Engineering
-created: 2026-08-17
-updated: 2026-08-17
-type: concept
-classification: technology.engineering
-domain: devops
-tags: [design, problem-solving]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-17
 backlinks: []
+classification: technology.engineering
+confidence: high
+created: 2026-08-17
+domain: devops
+reviewed: 2026-08-17
+sources: []
+status: active
+tags:
+- general
+title: Engineering
+type: concept
+updated: 2026-08-17
 ---
+
+
 
 # Engineering
 

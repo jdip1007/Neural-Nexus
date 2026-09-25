@@ -1,13 +1,13 @@
 ---
-title: 'The Challenge: Building a Custom Electric Vehicle'
 created: '2026-09-03T21:40:05.827844'
-updated: '2026-09-03T21:40:05.827845'
-type: reading
-tags:
-- youtube
-- diy
 domain: devops
+tags:
+- diy
+title: 'The Challenge: Building a Custom Electric Vehicle'
+type: reading
+updated: '2026-09-03T21:40:05.827845'
 ---
+
 
 # The Challenge: Building a Custom Electric Vehicle
 

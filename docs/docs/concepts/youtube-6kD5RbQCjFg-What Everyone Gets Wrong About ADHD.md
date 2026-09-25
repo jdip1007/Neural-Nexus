@@ -1,15 +1,16 @@
 ---
-title: What Everyone Gets Wrong About ADHD
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- mental-health
-- therapy
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/What Everyone Gets Wrong About ADHD.md
-domain: psychology
+tags:
+- general
+title: What Everyone Gets Wrong About ADHD
+type: concept
+updated: 2026-09-03
 ---
+
+
 
 # What Everyone Gets Wrong About ADHD
 

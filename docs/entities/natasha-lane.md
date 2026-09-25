@@ -1,17 +1,22 @@
 ---
-title: Natasha Lane
-created: 2026-08-02
-updated: 2026-08-02
-type: entity
-classification: person.researcher
-domain: psychology
-tags: ["bpsd", "geriatric-medicine", "aging", "research"]
-sources: [raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
-confidence: high
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: person.researcher
+confidence: high
+created: 2026-08-02
+domain: psychology
+reviewed: 2026-08-02
+sources:
+- raw/articles/annual-review-bpsd-management-watt-et-al-2026.md
+status: active
+tags:
+- bpsd
+- aging
+title: Natasha Lane
+type: entity
+updated: 2026-08-02
 ---
+
+
 
 # Natasha Lane
 

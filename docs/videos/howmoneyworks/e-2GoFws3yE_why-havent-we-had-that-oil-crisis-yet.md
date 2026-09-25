@@ -1,18 +1,22 @@
 ---
-title: Why Haven't We Had That Oil Crisis... Yet?
-created: 2026-09-01
-updated: 2026-09-01
-type: reading
+backlinks: []
 classification: education.youtube-channel.howmoneyworks
+confidence: high
+created: 2026-09-01
 domain: finance
-tags: []
+reviewed: 2026-09-01
 sources:
 - raw/videos/howmoneyworks/e-2GoFws3yE_why-havent-we-had-that-oil-crisis-yet.md
-confidence: high
 status: active
-reviewed: 2026-09-01
-backlinks: []
+tags:
+- general
+title: Why Haven't We Had That Oil Crisis... Yet?
+type: reading
+updated: 2026-09-01
 ---
+
+
+
 
 # Why Haven't We Had That Oil Crisis... Yet?
 

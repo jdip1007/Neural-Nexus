@@ -1,11 +1,15 @@
 ---
-title: 'The Future of AI: Ethics and Implications'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The Future of AI: Ethics and Implications'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # The Future of AI: Ethics and Implications
 

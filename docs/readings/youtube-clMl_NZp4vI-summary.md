@@ -1,18 +1,22 @@
 ---
-title: Video clMl_NZp4vI - Summary
-created: 2026-09-06
-updated: 2026-09-06
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-clMl_NZp4vI-transcript.md]
-published: 2026-09-06
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-09-06
+domain: ai
+published: 2026-09-06
 reviewed: 2026-09-06
+sources:
+- raw/videos/youtube-clMl_NZp4vI-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: Video clMl_NZp4vI - Summary
+type: reading
+updated: 2026-09-06
 ---
+
+
 
 # Video clMl_NZp4vI - Summary
 

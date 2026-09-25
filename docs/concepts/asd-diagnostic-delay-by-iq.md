@@ -1,15 +1,21 @@
 ---
-title: "ASD Diagnostic Delay by IQ Level"
-created: 2026-09-24
-updated: 2026-09-24
-type: concept
-domain: psychology
-tags: [autism-spectrum-disorder, iq, diagnostic-delay, late-diagnosis, lifespan, clinical-psychology]
-sources: [raw/transcripts/wolff-2022-asd-iq-interplay.txt]
+classification: autism-spectrum-disorder
 confidence: high
-status: active
+created: 2026-09-24
+domain: psychology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/wolff-2022-asd-iq-interplay.txt
+status: active
+tags:
+- iq
+title: ASD Diagnostic Delay by IQ Level
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # ASD Diagnostic Delay by IQ Level
 

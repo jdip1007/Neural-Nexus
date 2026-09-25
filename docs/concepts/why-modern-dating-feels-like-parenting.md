@@ -1,17 +1,22 @@
 ---
-title: Why Modern Dating Feels Like Parenting
-created: 2026-08-23
-updated: 2026-08-23
-type: concept
-classification: psychology.dating
-domain: psychology
-tags: ["relationships", "relationships", "modern-dating", "relationships"]
-sources: [raw/videos/healthygamergg/Why Modern Dating Feels Like Parenting _ Lovemaxxing w_ Dr..md]
-confidence: medium
-status: active
-reviewed: 2026-08-23
 backlinks: []
+classification: psychology.dating
+confidence: medium
+created: 2026-08-23
+domain: psychology
+reviewed: 2026-08-23
+sources:
+- raw/videos/healthygamergg/Why Modern Dating Feels Like Parenting _ Lovemaxxing w_
+  Dr..md
+status: active
+tags:
+- general
+title: Why Modern Dating Feels Like Parenting
+type: concept
+updated: 2026-08-23
 ---
+
+
 
 # Why Modern Dating Feels Like Parenting
 

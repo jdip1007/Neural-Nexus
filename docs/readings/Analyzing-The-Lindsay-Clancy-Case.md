@@ -1,24 +1,21 @@
 ---
-{
-  "title": "Analyzing The Lindsay Clancy Case",
-  "created": "2026-09-13T00:47:37.345493",
-  "updated": "2026-09-13T00:47:37.345505",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "healthygamer",
-    "mental health",
-    "relationship"
-  ],
-  "sources": [
-    "https://youtu.be/e93"
-  ],
-  "video_id": "e93",
-  "video_length": "29 minutes",
-  "video_views": "Unknown",
-  "video_published": "Unknown"
-}
+created: '2026-09-13T00:47:37.345493'
+domain: general
+sources:
+- https://youtu.be/e93
+tags:
+- general
+title: Analyzing The Lindsay Clancy Case
+type: video
+updated: '2026-09-13T00:47:37.345505'
+video_id: e93
+video_length: 29 minutes
+video_published: Unknown
+video_views: Unknown
 ---
+
+
+
 
 # Analyzing The Lindsay Clancy Case
 

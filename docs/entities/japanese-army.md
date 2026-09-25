@@ -1,17 +1,22 @@
 ---
-title: Japanese Army Historical Development
-created: 2026-08-19
-updated: 2026-08-19
-type: entity
-classification: psychology.military.japanese-army
-domain: psychology
-tags: ["japan", "military", "army", "historical-development", "imperial-army"]
-sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.military.japanese-army
+confidence: medium
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-D4nPxik59oE-transcript.md
+status: active
+tags:
+- japan
+- army
+title: Japanese Army Historical Development
+type: entity
+updated: 2026-08-19
 ---
+
+
 
 # Japanese Army Historical Development
 

@@ -1,17 +1,21 @@
 ---
-title: Airrack Never Stopped Faking Videos
-created: 2026-09-15
-updated: 2026-09-15
-type: video
-classification: internet_culture.youtube-channel.internet-anarchist
-domain: internet_culture
-tags: []
-sources: [raw/youtube/example7_airrack-never-stopped-faking-videos.md]
-confidence: high
-status: active
-reviewed: 2026-09-15
 backlinks: []
+classification: internet_culture.youtube-channel.internet-anarchist
+confidence: high
+created: 2026-09-15
+domain: internet_culture
+reviewed: 2026-09-15
+sources:
+- raw/youtube/example7_airrack-never-stopped-faking-videos.md
+status: active
+tags:
+- general
+title: Airrack Never Stopped Faking Videos
+type: video
+updated: 2026-09-15
 ---
+
+
 
 # Airrack Never Stopped Faking Videos
 

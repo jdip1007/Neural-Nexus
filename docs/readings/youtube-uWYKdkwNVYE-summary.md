@@ -1,18 +1,22 @@
 ---
-title: It's Not the Economy You Should Be Watching. It's the POPULATION - Summary
-created: 2026-08-25
-updated: 2026-08-25
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-uWYKdkwNVYE-transcript.md]
-published: 2026-08-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-25
+domain: ai
+published: 2026-08-25
 reviewed: 2026-08-25
+sources:
+- raw/videos/youtube-uWYKdkwNVYE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: It's Not the Economy You Should Be Watching. It's the POPULATION - Summary
+type: reading
+updated: 2026-08-25
 ---
+
+
 
 # It's Not the Economy You Should Be Watching. It's the POPULATION - Summary
 

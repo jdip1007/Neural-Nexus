@@ -1,17 +1,21 @@
 ---
-title: ADHD Genetics Meta-Analysis - Nature Genetics 2025
-created: 2026-08-06
-updated: 2026-08-06
-type: reading
-classification: psychology.mental-health
-domain: psychology
-tags: [adhd, genetics, genome-wide-association, meta-analysis, neurodevelopmental, neuropsychiatry, polygenic-risk]
-sources: [raw/articles/adhd-genetics-nature-genetics-2025.md]
-confidence: high
-status: active
-reviewed: 2026-08-06
 backlinks: []
+classification: psychology.mental-health
+confidence: high
+created: 2026-08-06
+domain: psychology
+reviewed: 2026-08-06
+sources:
+- raw/articles/adhd-genetics-nature-genetics-2025.md
+status: active
+tags:
+- adhd
+title: ADHD Genetics Meta-Analysis - Nature Genetics 2025
+type: reading
+updated: 2026-08-06
 ---
+
+
 
 # ADHD Genetics Meta-Analysis - Nature Genetics 2025
 

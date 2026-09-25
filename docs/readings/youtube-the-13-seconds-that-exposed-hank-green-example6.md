@@ -1,11 +1,14 @@
 ---
-title: The 13 Seconds That Exposed Hank Green
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: The 13 Seconds That Exposed Hank Green
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # The 13 Seconds That Exposed Hank Green
 

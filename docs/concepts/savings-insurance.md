@@ -1,17 +1,21 @@
 ---
-title: Savings Insurance (儲蓄保)
-created: 2025-01-18
-updated: 2026-07-31
-type: concept
-classification: finance.insurance-products
-domain: finance
-tags: [insurance, savings-insurance, investment-products, financial-planning, hong-kong, life-insurance, investment-risk, opportunity-cost]
-sources: [raw/videos/savings-insurance-hong-kong-myths-bowtie.md]
-confidence: high
-status: active
-reviewed: 2026-07-31
 backlinks: []
+classification: finance.insurance-products
+confidence: high
+created: 2025-01-18
+domain: finance
+reviewed: 2026-07-31
+sources:
+- raw/videos/savings-insurance-hong-kong-myths-bowtie.md
+status: active
+tags:
+- general
+title: Savings Insurance (儲蓄保)
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Definition
 

@@ -1,17 +1,21 @@
 ---
-title: Behavioral and Psychological Symptoms of Dementia (BPSD)
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: psychology.mental-health.bpsd
-domain: psychology
-tags: [bpsd, neuropsychiatric-symptoms, dementia, person-centered-dementia-care, mental-health, concept]
-sources: [raw/articles/annual-review-bpsd-management-watt-et-al-2026.md]
-confidence: high
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: psychology.mental-health.bpsd
+confidence: high
+created: 2026-08-02
+domain: psychology
+reviewed: 2026-08-02
+sources:
+- raw/articles/annual-review-bpsd-management-watt-et-al-2026.md
+status: active
+tags:
+- bpsd
+title: Behavioral and Psychological Symptoms of Dementia (BPSD)
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Behavioral and Psychological Symptoms of Dementia (BPSD)
 

@@ -1,18 +1,22 @@
 ---
-title: How Did World War 1 Start? - Summary
-created: 2026-08-23
-updated: 2026-08-23
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-BYmj1HXvU44-transcript.md]
-published: 2026-08-23
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-08-23
+domain: ai
+published: 2026-08-23
 reviewed: 2026-08-23
+sources:
+- raw/videos/youtube-BYmj1HXvU44-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: How Did World War 1 Start? - Summary
+type: reading
+updated: 2026-08-23
 ---
+
+
 
 # How Did World War 1 Start? - Summary
 

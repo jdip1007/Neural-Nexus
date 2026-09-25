@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-dQw4w9WgXcQ-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- neuroscience
-- brain-function
+- general
 title: Why You Can't Just "Rewire" Your Brain
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # Why You Can't Just "Rewire" Your Brain
 

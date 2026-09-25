@@ -1,16 +1,20 @@
 ---
-title: Duty Warzone
-created: 2026-08-25
-updated: 2026-08-25
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-hp4i09wbshU-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-25
+domain: ai
 reviewed: 2026-08-25
+sources:
+- raw/videos/youtube-hp4i09wbshU-transcript.md
+status: active
+tags:
+- general
+title: Duty Warzone
+type: entity
+updated: 2026-08-25
 ---
+
+
 
 # Duty Warzone
 

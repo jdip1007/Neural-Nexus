@@ -1,3 +1,14 @@
+---
+created: 2026-09-25
+domain: psychology
+tags:
+- general
+title: Graph
+type: reading
+updated: 2026-09-25
+---
+
+
 # Knowledge Graph
 
 > Interactive visualization of your knowledge network

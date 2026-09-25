@@ -1,11 +1,14 @@
 ---
-title: 'The "Do Anything" Chip: FPGA - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'The "Do Anything" Chip: FPGA - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # The "Do Anything" Chip: FPGA - Summary
 

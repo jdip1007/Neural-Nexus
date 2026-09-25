@@ -1,17 +1,21 @@
 ---
-title: The Most Evil Father on TikTok
-created: 2026-09-15
-updated: 2026-09-15
-type: video
-classification: internet_culture.youtube-channel.internet-anarchist
-domain: internet_culture
-tags: ["social_media"]
-sources: [raw/youtube/example9_the-most-evil-father-on-tiktok.md]
-confidence: high
-status: active
-reviewed: 2026-09-15
 backlinks: []
+classification: internet_culture.youtube-channel.internet-anarchist
+confidence: high
+created: 2026-09-15
+domain: internet_culture
+reviewed: 2026-09-15
+sources:
+- raw/youtube/example9_the-most-evil-father-on-tiktok.md
+status: active
+tags:
+- general
+title: The Most Evil Father on TikTok
+type: video
+updated: 2026-09-15
 ---
+
+
 
 # The Most Evil Father on TikTok
 

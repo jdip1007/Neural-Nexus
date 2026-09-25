@@ -1,18 +1,22 @@
 ---
-title: Why I Specialize In Video Game Addiction - Summary
-created: 2026-08-30
-updated: 2026-08-30
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-lhtcLe9QbMQ-transcript.md]
-published: 2026-08-30
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-30
+domain: ai
+published: 2026-08-30
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-lhtcLe9QbMQ-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why I Specialize In Video Game Addiction - Summary
+type: reading
+updated: 2026-08-30
 ---
+
+
 
 # Why I Specialize In Video Game Addiction - Summary
 

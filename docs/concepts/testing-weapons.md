@@ -1,17 +1,21 @@
 ---
-title: Weapon Testing and Ballistics Analysis
-created: 2026-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.criminal-forensic.ballistics
-domain: psychology
-tags: [weapons, firearm-testing, ballistic-fingerprinting, criminal-investigation]
-sources: [raw/videos/youtube-D4nPxik59oE-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.criminal-forensic.ballistics
+confidence: medium
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-D4nPxik59oE-transcript.md
+status: active
+tags:
+- general
+title: Weapon Testing and Ballistics Analysis
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Weapon Testing and Ballistics Analysis
 

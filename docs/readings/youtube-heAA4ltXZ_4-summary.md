@@ -1,18 +1,22 @@
 ---
-title: YouTubers Who Destroyed Their Career With 1 Video - Summary
-created: 2026-08-24
-updated: 2026-08-24
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-heAA4ltXZ_4-transcript.md]
-published: 2026-08-24
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-24
+domain: ai
+published: 2026-08-24
 reviewed: 2026-08-24
+sources:
+- raw/videos/youtube-heAA4ltXZ_4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: YouTubers Who Destroyed Their Career With 1 Video - Summary
+type: reading
+updated: 2026-08-24
 ---
+
+
 
 # YouTubers Who Destroyed Their Career With 1 Video - Summary
 

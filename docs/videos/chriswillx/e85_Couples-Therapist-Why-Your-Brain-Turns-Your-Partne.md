@@ -1,23 +1,21 @@
 ---
-{
-  "title": "Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy - Stan Tatkin",
-  "created": "2026-09-13",
-  "updated": "2026-09-13",
-  "type": "video",
-  "tags": [
-    "relationships",
-    "psychology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=e85"
-  ],
-  "video_id": "e85",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-13 19:40:23"
-}
+channel: Chris Willx
+created: '2026-09-13'
+domain: general
+ingestion_date: '2026-09-13 19:40:23'
+sources:
+- https://www.youtube.com/watch?v=e85
+tags:
+- general
+title: 'Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy - Stan
+  Tatkin'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-13'
+video_id: e85
 ---
+
+
 
 # Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy - Stan Tatkin
 

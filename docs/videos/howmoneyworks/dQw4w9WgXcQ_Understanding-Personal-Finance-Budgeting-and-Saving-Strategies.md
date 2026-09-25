@@ -1,22 +1,21 @@
 ---
-{
-  "title": "Understanding Personal Finance: Budgeting and Saving Strategies",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "budgeting"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  ],
-  "video_id": "dQw4w9WgXcQ",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=dQw4w9WgXcQ
+tags:
+- general
+title: 'Understanding Personal Finance: Budgeting and Saving Strategies'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: dQw4w9WgXcQ
 ---
+
+
+
 
 # Understanding Personal Finance: Budgeting and Saving Strategies
 

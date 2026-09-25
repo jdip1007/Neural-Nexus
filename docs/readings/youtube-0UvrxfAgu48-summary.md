@@ -1,18 +1,22 @@
 ---
-title: The Pentagon Just Declassified 50 UFO Encounters - Summary
-created: 2026-08-09
-updated: 2026-08-09
-type: reading
-domain: ai
 classification: general.media
-tags: [video-summary]
-sources: [raw/videos/youtube-0UvrxfAgu48-transcript.md]
-published: 2026-08-09
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-09
+domain: ai
+published: 2026-08-09
 reviewed: 2026-08-09
+sources:
+- raw/videos/youtube-0UvrxfAgu48-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The Pentagon Just Declassified 50 UFO Encounters - Summary
+type: reading
+updated: 2026-08-09
 ---
+
+
 
 # The Pentagon Just Declassified 50 UFO Encounters - Summary
 

@@ -1,18 +1,23 @@
 ---
-title: Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation) - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, jUJ0MQFNTko]
-sources: [raw/videos/youtube-jUJ0MQFNTko-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-jUJ0MQFNTko-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation)
+  - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation) - Summary
 

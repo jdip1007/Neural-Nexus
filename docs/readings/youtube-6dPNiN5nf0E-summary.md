@@ -1,18 +1,22 @@
 ---
-title: 16 Most Disturbing Videos From Pentagon UFO Release - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, 6dPNiN5nf0E]
-sources: [raw/videos/youtube-6dPNiN5nf0E-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-6dPNiN5nf0E-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: 16 Most Disturbing Videos From Pentagon UFO Release - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # 16 Most Disturbing Videos From Pentagon UFO Release - Summary
 

@@ -1,22 +1,19 @@
 ---
-{
-  "title": "Why You Can't Just \"Rewire\" Your Brain",
-  "created": "2026-09-21T04:29:12.562677",
-  "updated": "2026-09-21T04:29:12.562684",
-  "type": "video",
-  "tags": [
-    "personal_growth",
-    "men_health",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=OfPOtN51MpM"
-  ],
-  "duration": "18:02",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-21T04:29:12.562677'
+domain: general
+duration: '18:02'
+sources:
+- https://www.youtube.com/watch?v=OfPOtN51MpM
+tags:
+- general
+title: Why You Can't Just "Rewire" Your Brain
+type: video
+updated: '2026-09-21T04:29:12.562684'
 ---
+
+
+
 
 # Why You Can't Just "Rewire" Your Brain
 

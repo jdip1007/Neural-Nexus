@@ -1,11 +1,15 @@
 ---
-title: 'Digital Detox: Finding Balance in a Connected World'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Digital Detox: Finding Balance in a Connected World'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Digital Detox: Finding Balance in a Connected World
 

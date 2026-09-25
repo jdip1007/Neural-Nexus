@@ -1,16 +1,16 @@
 ---
-title: CANBUS – Networking so simple, even YOU can understand it!
-created: '2026-09-09T23:20:22.656253'
-updated: '2026-09-09T23:20:22.656254'
-type: reading
-tags:
-- youtube
-- diy
-youtube_id: clMl_NZp4vI
 channel: Dave's Garage
 channel_url: https://youtube.com/@davesgarage
+created: '2026-09-09T23:20:22.656253'
 domain: devops
+tags:
+- diy
+title: CANBUS – Networking so simple, even YOU can understand it!
+type: reading
+updated: '2026-09-09T23:20:22.656254'
+youtube_id: clMl_NZp4vI
 ---
+
 
 # CANBUS – Networking so simple, even YOU can understand it!
 

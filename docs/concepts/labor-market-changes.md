@@ -1,17 +1,21 @@
 ---
-title: Labor Market Changes
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: economics.labor
-domain: economics
-tags: [labor-market-changes, employment-trends, worker-rights, economic-inequality, generational-wealth, labor-economics, economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: economics.labor
+confidence: medium
+created: 2026-08-02
+domain: economics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Labor Market Changes
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Labor Market Changes
 

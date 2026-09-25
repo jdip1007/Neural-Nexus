@@ -1,16 +1,18 @@
 ---
-title: "Your Job Achieves Nothing... (probably)"
-created: "2026-09-11"
-updated: "2026-09-11"
-type: finding
-classification: video.daves-garage
-domain: psychology
-tags: ["sociology", "youtube", "analysis"]
-confidence: medium
-status: active
-reviewed: "2026-09-11"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-11'
+domain: psychology
+reviewed: '2026-09-11'
+status: active
+tags:
+- general
+title: Your Job Achieves Nothing... (probably)
+type: finding
+updated: '2026-09-11'
 ---
+
 
 # Your Job Achieves Nothing... (probably)
 

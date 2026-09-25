@@ -9,14 +9,13 @@ sources:
 - ./raw/transcripts/youtube-creator-analysis.md
 status: active
 tags:
-- youtube-creator
-- content-creation
-- digital-media
-- educational-content
+- general
 title: YouTube Creator
 type: reading
 updated: '2026-08-25'
 ---
+
+
 
 # YouTube Creator
 

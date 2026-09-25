@@ -1,11 +1,14 @@
 ---
-title: 'Cicada 3301: The Internet''s Greatest Mystery! - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Cicada 3301: The Internet''s Greatest Mystery! - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Cicada 3301: The Internet's Greatest Mystery! - Summary
 

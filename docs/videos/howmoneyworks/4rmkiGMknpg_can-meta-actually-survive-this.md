@@ -1,16 +1,18 @@
 ---
-title: Can Meta Actually Survive This?
-created: 2026-09-01
-updated: 2026-09-01
-type: reading
-classification: education.youtube-channel.howmoneyworks
-domain: finance
-tags: ["finance", "business", "investing"]
-confidence: high
-status: active
-reviewed: 2026-09-01
 backlinks: []
+classification: education.youtube-channel.howmoneyworks
+confidence: high
+created: 2026-09-01
+domain: finance
+reviewed: 2026-09-01
+status: active
+tags:
+- general
+title: Can Meta Actually Survive This?
+type: reading
+updated: 2026-09-01
 ---
+
 
 # Can Meta Actually Survive This?
 

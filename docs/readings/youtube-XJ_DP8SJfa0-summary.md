@@ -1,12 +1,15 @@
 ---
+created: '2026-09-12'
+domain: general
+tags:
+- general
 title: 'The Dark Side of Fitness: “I Starved Myself Until I Fainted" - Will Tennyson
   (4K) - Summary'
-created: '2026-09-12'
-updated: '2026-09-12'
 type: reading
-domain: general
-tags: []
+updated: '2026-09-12'
 ---
+
+
 
 # The Dark Side of Fitness: “I Starved Myself Until I Fainted" - Will Tennyson (4K) - Summary
 

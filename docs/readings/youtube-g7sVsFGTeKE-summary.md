@@ -1,18 +1,22 @@
 ---
-title: Why UPS Drivers Make $170,000 Per Year And You DON'T - Summary
-created: 2026-08-26
-updated: 2026-08-26
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-g7sVsFGTeKE-transcript.md]
-published: 2026-08-26
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-26
+domain: ai
+published: 2026-08-26
 reviewed: 2026-08-26
+sources:
+- raw/videos/youtube-g7sVsFGTeKE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why UPS Drivers Make $170,000 Per Year And You DON'T - Summary
+type: reading
+updated: 2026-08-26
 ---
+
+
 
 # Why UPS Drivers Make $170,000 Per Year And You DON'T - Summary
 

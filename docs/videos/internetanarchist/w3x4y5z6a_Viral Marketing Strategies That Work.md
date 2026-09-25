@@ -1,15 +1,19 @@
 ---
-title: Viral Marketing Strategies That Work
-created: 2026-08-17T14:51:26.966351
-updated: 2026-08-17T14:51:26.966352
-type: reading
-tags: ["internet-culture"]
-sources: [raw/videos/internetanarchist/w3x4y5z6a.md]
-video_id: w3x4y5z6a
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-08-17 14:51:26.966351
 domain: internet-culture
+duration: 15-25 minutes
+sources:
+- raw/videos/internetanarchist/w3x4y5z6a.md
+tags:
+- general
+title: Viral Marketing Strategies That Work
+type: reading
+updated: 2026-08-17 14:51:26.966352
+video_id: w3x4y5z6a
 ---
+
+
 
 # Viral Marketing Strategies That Work
 

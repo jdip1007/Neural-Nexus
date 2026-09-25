@@ -1,17 +1,21 @@
 ---
-title: Latest YouTube Drama Investigation - Internet Anarchist
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
-classification: media.investigative_journalism
-domain: media
-tags: ["youtube", "investigative-journalism", "youtube", "content-creators", "online-reputation", "internet-culture"]
-sources: ["raw/videos/internet_anarchist/youtube-new_video_2-latest-youtube-drama-investigation.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-29
 backlinks: []
+classification: media.investigative_journalism
+confidence: medium
+created: 2026-08-29
+domain: media
+reviewed: 2026-08-29
+sources:
+- raw/videos/internet_anarchist/youtube-new_video_2-latest-youtube-drama-investigation.md
+status: active
+tags:
+- general
+title: Latest YouTube Drama Investigation - Internet Anarchist
+type: reading
+updated: 2026-08-29
 ---
+
+
 
 # Latest YouTube Drama Investigation - Internet Anarchist
 

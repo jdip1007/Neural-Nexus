@@ -1,11 +1,14 @@
 ---
-title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside
 

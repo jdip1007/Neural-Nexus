@@ -1,17 +1,16 @@
 ---
-title: We Need To Talk About Ozempic
 created: 2026-09-07 23:22:02.709871
-updated: 2026-09-07 23:22:02.709880
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=xWz2oqOqPHw
-domain: psychology
+tags:
+- dr-k
+title: We Need To Talk About Ozempic
+type: reading
+updated: 2026-09-07 23:22:02.709880
 ---
+
+
 
 # We Need To Talk About Ozempic
 

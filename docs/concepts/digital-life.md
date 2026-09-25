@@ -1,12 +1,17 @@
 ---
-title: "digital_life"
+classification: digital
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: digital_life
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # digital_life
 

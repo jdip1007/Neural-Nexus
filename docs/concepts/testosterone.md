@@ -1,12 +1,16 @@
 ---
-title: "Testosterone"
+classification: testosterone
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [testosterone]
 status: stub
+tags:
+- general
+title: Testosterone
+type: concept
+updated: 2026-09-25
 ---
+
+
 
 # Testosterone
 

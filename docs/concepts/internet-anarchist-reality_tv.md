@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Reality_Tv
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- Shark Tank Pitches That Turned Into Disasters.md
+tags:
+- general
+title: Internet Anarchist - Reality_Tv
 type: concept
-tags: [youtube, internet-anarchist, reality_tv, documentary]
-sources: [Shark Tank Pitches That Turned Into Disasters.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Reality_Tv
 

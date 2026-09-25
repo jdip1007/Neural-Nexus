@@ -1,16 +1,20 @@
 ---
-title: Bernard Baruch
-created: 2026-08-08
-updated: 2026-08-08
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-TuvSVH-UNAE-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-08
+domain: ai
 reviewed: 2026-08-08
+sources:
+- raw/videos/youtube-TuvSVH-UNAE-transcript.md
+status: active
+tags:
+- general
+title: Bernard Baruch
+type: entity
+updated: 2026-08-08
 ---
+
+
 
 # Bernard Baruch
 

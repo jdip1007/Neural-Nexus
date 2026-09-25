@@ -1,11 +1,14 @@
 ---
-title: Finding 1
 created: '2026-09-12'
-updated: '2026-09-12'
-type: finding
 domain: general
-tags: []
+tags:
+- general
+title: Finding 1
+type: finding
+updated: '2026-09-12'
 ---
+
+
 
 # Finding 1
 

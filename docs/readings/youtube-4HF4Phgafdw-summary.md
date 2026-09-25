@@ -1,18 +1,23 @@
 ---
-title: The Why and How of the Megalodon Extinction (What Killed the Giant Shark) - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, 4HF4Phgafdw]
-sources: [raw/videos/youtube-4HF4Phgafdw-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-4HF4Phgafdw-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The Why and How of the Megalodon Extinction (What Killed the Giant Shark) -
+  Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # The Why and How of the Megalodon Extinction (What Killed the Giant Shark) - Summary
 

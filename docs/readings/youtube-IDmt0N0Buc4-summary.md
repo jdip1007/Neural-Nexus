@@ -1,18 +1,22 @@
 ---
-title: Fake Restoration Videos Are Ruining YouTube - Summary
-created: 2026-08-27
-updated: 2026-08-27
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-IDmt0N0Buc4-transcript.md]
-published: 2026-08-27
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-27
+domain: ai
+published: 2026-08-27
 reviewed: 2026-08-27
+sources:
+- raw/videos/youtube-IDmt0N0Buc4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Fake Restoration Videos Are Ruining YouTube - Summary
+type: reading
+updated: 2026-08-27
 ---
+
+
 
 # Fake Restoration Videos Are Ruining YouTube - Summary
 

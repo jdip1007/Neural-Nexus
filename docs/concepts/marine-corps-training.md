@@ -1,17 +1,21 @@
 ---
-title: Marine Corps Training
-created: 2026-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.military.training
-domain: psychology
-tags: [military, marines, training, physical-fitness, mental-toughness, amphibious-operations]
-sources: [raw/videos/youtube-uzg-tGiK_y8-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.military.training
+confidence: medium
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-uzg-tGiK_y8-transcript.md
+status: active
+tags:
+- general
+title: Marine Corps Training
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Marine Corps Training
 

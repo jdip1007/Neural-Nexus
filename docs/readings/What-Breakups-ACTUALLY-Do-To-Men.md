@@ -1,24 +1,21 @@
 ---
-{
-  "title": "What Breakups ACTUALLY Do To Men",
-  "created": "2026-09-13T00:47:38.163143",
-  "updated": "2026-09-13T00:47:38.163162",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "healthygamer",
-    "mental health",
-    "relationship"
-  ],
-  "sources": [
-    "https://youtu.be/e83"
-  ],
-  "video_id": "e83",
-  "video_length": "16 minutes",
-  "video_views": "Unknown",
-  "video_published": "Unknown"
-}
+created: '2026-09-13T00:47:38.163143'
+domain: general
+sources:
+- https://youtu.be/e83
+tags:
+- general
+title: What Breakups ACTUALLY Do To Men
+type: video
+updated: '2026-09-13T00:47:38.163162'
+video_id: e83
+video_length: 16 minutes
+video_published: Unknown
+video_views: Unknown
 ---
+
+
+
 
 # What Breakups ACTUALLY Do To Men
 

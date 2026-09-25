@@ -1,11 +1,14 @@
 ---
-title: Andrew Tate's Life Is Falling Apart
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Andrew Tate's Life Is Falling Apart
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Andrew Tate's Life Is Falling Apart
 

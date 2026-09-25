@@ -1,18 +1,22 @@
 ---
-title: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me - Summary
-created: 2026-09-19
-updated: 2026-09-19
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, 2aw3MF8pY3w]
-sources: [raw/videos/youtube-2aw3MF8pY3w-transcript.md]
-published: 2026-09-19
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-19
+domain: ai
+published: 2026-09-19
 reviewed: 2026-09-19
+sources:
+- raw/videos/youtube-2aw3MF8pY3w-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me - Summary
+type: reading
+updated: 2026-09-19
 ---
+
+
 
 # As a Microsoft Engineer, This Is the AI Agent Story That Scared Me - Summary
 

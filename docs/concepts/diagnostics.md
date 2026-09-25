@@ -1,12 +1,17 @@
 ---
-title: "Diagnostics"
+classification: diagnostics
 created: 2026-09-24
-updated: 2026-09-24
-type: concept
 domain: psychology
-tags: ['diagnostics', 'assessment', 'clinical-psychology']
 status: draft
+tags:
+- general
+title: Diagnostics
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Diagnostics
 

@@ -1,16 +1,20 @@
 ---
-title: Penn Rainford
-created: 2026-07-18
-updated: 2026-07-18
-type: entity
 classification: person.researcher
-domain: ai, biotech, research
-tags: [computer-science, knowledge-management, ai]
-sources: [raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md]
 confidence: high
-status: active
+created: 2026-07-18
+domain: ai, biotech, research
 reviewed: 2026-07-18
+sources:
+- raw/articles/knowledge-preservation-big-science-ai-rainford-et-al-2026.md
+status: active
+tags:
+- general
+title: Penn Rainford
+type: entity
+updated: 2026-07-18
 ---
+
+
 
 # Penn Rainford
 

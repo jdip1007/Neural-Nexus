@@ -1,16 +1,20 @@
 ---
-title: Bill Gates
-created: 2026-09-15
-updated: 2026-09-15
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, kLcpCqLwNU8]
-sources: [raw/videos/youtube-kLcpCqLwNU8-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-15
+domain: ai
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-kLcpCqLwNU8-transcript.md
+status: active
+tags:
+- general
+title: Bill Gates
+type: entity
+updated: 2026-09-15
 ---
+
+
 
 # Bill Gates
 

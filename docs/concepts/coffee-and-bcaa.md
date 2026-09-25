@@ -1,15 +1,21 @@
 ---
-title: "Coffee and BCAA"
-created: 2026-09-24
-updated: 2026-09-24
-type: concept
-domain: biology
-tags: [coffee, bcaa, insulin-resistance, metabolomics, branched-chain-amino-acids, type-2-diabetes]
-sources: [raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt]
+classification: coffee
 confidence: medium
-status: active
+created: 2026-09-24
+domain: biology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt
+status: active
+tags:
+- bcaa
+title: Coffee and BCAA
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Coffee and BCAA
 

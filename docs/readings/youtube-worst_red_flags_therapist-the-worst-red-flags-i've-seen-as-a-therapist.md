@@ -1,17 +1,21 @@
 ---
-title: The Worst Red Flags I've Seen As A Therapist - HealthyGamerGG
-created: 2026-08-21
-updated: 2026-08-21
-type: reading
-classification: psychology.mental_health
-domain: psychology
-tags: ["youtube", "mental-health", "therapy", "relationships"]
-sources: ["raw/videos/healthygamergg/youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-21
 backlinks: []
+classification: psychology.mental_health
+confidence: medium
+created: 2026-08-21
+domain: psychology
+reviewed: 2026-08-21
+sources:
+- raw/videos/healthygamergg/youtube-worst_red_flags_therapist-the-worst-red-flags-i've-seen-as-a-therapist.md
+status: active
+tags:
+- general
+title: The Worst Red Flags I've Seen As A Therapist - HealthyGamerGG
+type: reading
+updated: 2026-08-21
 ---
+
+
 
 # The Worst Red Flags I've Seen As A Therapist - HealthyGamerGG
 

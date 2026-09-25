@@ -1,21 +1,19 @@
 ---
-{
-  "title": "Can Meta Actually Survive This?",
-  "created": "2026-09-20",
-  "updated": "2026-09-20",
-  "type": "video",
-  "tags": [
-    "meta"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=4rmkiGMknpg"
-  ],
-  "video_id": "4rmkiGMknpg",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-20"
-}
+channel: How Money Works
+created: '2026-09-20'
+domain: general
+ingestion_date: '2026-09-20'
+sources:
+- https://www.youtube.com/watch?v=4rmkiGMknpg
+tags:
+- meta
+title: Can Meta Actually Survive This?
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-20'
+video_id: 4rmkiGMknpg
 ---
+
 
 # Can Meta Actually Survive This?
 

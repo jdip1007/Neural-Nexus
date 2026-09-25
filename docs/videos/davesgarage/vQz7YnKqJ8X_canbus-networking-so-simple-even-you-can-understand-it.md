@@ -1,17 +1,21 @@
 ---
-title: CANBUS – Networking so simple, even YOU can understand it!
-created: 2026-08-17
-updated: 2026-08-17
-type: reading
-classification: technology.youtube-channel.davesgarage
-domain: devops
-tags: [canbus]  # Limit to 5 tags
-sources: [raw/videos/davesgarage/vQz7YnKqJ8X_CANBUS – Networking so simple, even YOU can understand it!.md]
-confidence: high
-status: active
-reviewed: 2026-08-17
 backlinks: []
+classification: technology.youtube-channel.davesgarage
+confidence: high
+created: 2026-08-17
+domain: devops
+reviewed: 2026-08-17
+sources:
+- raw/videos/davesgarage/vQz7YnKqJ8X_CANBUS – Networking so simple
+- even YOU can understand it!.md
+status: active
+tags:
+- general
+title: CANBUS – Networking so simple, even YOU can understand it!
+type: reading
+updated: 2026-08-17
 ---
+
 
 # CANBUS – Networking so simple, even YOU can understand it!
 

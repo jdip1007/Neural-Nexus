@@ -1,12 +1,16 @@
 ---
-title: The Truth About Remote Work
 created: 2026-09-12
-updated: 2026-09-12
-type: reading
 domain: finance
-tags: []
 status: draft
+tags:
+- general
+title: The Truth About Remote Work
+type: reading
+updated: 2026-09-12
 ---
+
+
+
 
 # The Truth About Remote Work
 

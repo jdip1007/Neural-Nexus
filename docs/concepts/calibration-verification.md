@@ -1,16 +1,19 @@
 ---
-title: Calibration Verification
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.method-evaluation
-domain: laboratory
-tags: [calibration-verification, quality-control, clia, accuracy, method-evaluation]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- clia
+title: Calibration Verification
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Calibration Verification
 

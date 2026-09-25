@@ -1,16 +1,20 @@
 ---
-title: Media Lab
-created: 2026-08-31
-updated: 2026-08-31
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-31
+domain: ai
 reviewed: 2026-08-31
+sources:
+- raw/videos/youtube-Unzc731iCUY-transcript.md
+status: active
+tags:
+- general
+title: Media Lab
+type: entity
+updated: 2026-08-31
 ---
+
+
 
 # Media Lab
 

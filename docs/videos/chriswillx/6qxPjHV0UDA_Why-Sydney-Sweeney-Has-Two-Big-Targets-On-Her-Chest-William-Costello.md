@@ -1,22 +1,20 @@
 ---
-{
-  "title": "Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello",
-  "created": "2026-09-21",
-  "updated": "2026-09-21",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=6qxPjHV0UDA"
-  ],
-  "video_id": "6qxPjHV0UDA",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-21"
-}
+channel: Chris Willx
+created: '2026-09-21'
+domain: general
+ingestion_date: '2026-09-21'
+sources:
+- https://www.youtube.com/watch?v=6qxPjHV0UDA
+tags:
+- general
+title: Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-21'
+video_id: 6qxPjHV0UDA
 ---
+
+
 
 # Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello
 

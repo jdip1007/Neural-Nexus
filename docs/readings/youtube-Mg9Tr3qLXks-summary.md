@@ -1,18 +1,22 @@
 ---
-title: How Trauma Splits A Soul (Dissociative Identity Disorder) - Summary
-created: 2026-08-19
-updated: 2026-08-19
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary]
-sources: [raw/videos/youtube-Mg9Tr3qLXks-transcript.md]
-published: 2026-08-19
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-19
+domain: ai
+published: 2026-08-19
 reviewed: 2026-08-19
+sources:
+- raw/videos/youtube-Mg9Tr3qLXks-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: How Trauma Splits A Soul (Dissociative Identity Disorder) - Summary
+type: reading
+updated: 2026-08-19
 ---
+
+
 
 # How Trauma Splits A Soul (Dissociative Identity Disorder) - Summary
 

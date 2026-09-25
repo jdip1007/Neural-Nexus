@@ -1,17 +1,21 @@
 ---
-title: Ned Fulmer's Life Is Falling Apart - Internet Anarchist
-created: 2026-08-30
-updated: 2026-08-30
-type: reading
-classification: media.investigative_journalism
-domain: media
-tags: ["youtube", "investigative-journalism", "personal-life", "online-reputation", "internet-culture"]
-sources: ["raw/videos/internet_anarchist/youtube-ned_fulmer_life-ned-fulmer's-life-is-falling-apart.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-30
 backlinks: []
+classification: media.investigative_journalism
+confidence: medium
+created: 2026-08-30
+domain: media
+reviewed: 2026-08-30
+sources:
+- raw/videos/internet_anarchist/youtube-ned_fulmer_life-ned-fulmer's-life-is-falling-apart.md
+status: active
+tags:
+- general
+title: Ned Fulmer's Life Is Falling Apart - Internet Anarchist
+type: reading
+updated: 2026-08-30
 ---
+
+
 
 # Ned Fulmer's Life Is Falling Apart - Internet Anarchist
 

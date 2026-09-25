@@ -1,17 +1,22 @@
 ---
-title: Respiratory Virus Testing
-created: 2026-08-01
-updated: 2026-08-01
-type: concept
-classification: laboratory.clinical-testing
-domain: laboratory
-tags: [respiratory-viruses, clinical-virology, molecular-diagnostics, qpcr, influenza, rsv, hmpv]
-sources: []
-confidence: low
-status: stub
-reviewed: 2026-08-01
 backlinks: []
+classification: laboratory.clinical-testing
+confidence: low
+created: 2026-08-01
+domain: laboratory
+reviewed: 2026-08-01
+sources: []
+status: stub
+tags:
+- qpcr
+- rsv
+- hmpv
+title: Respiratory Virus Testing
+type: concept
+updated: 2026-08-01
 ---
+
+
 
 # Respiratory Virus Testing
 

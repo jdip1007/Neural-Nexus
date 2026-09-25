@@ -1,17 +1,21 @@
 ---
-title: Cash Buyer Cartel
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: real-estate.markets
-domain: real-estate
-tags: ["housing-markets", "generational-wealth", "wealth-concentration", "economic-inequality", "housing-affordability"]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: real-estate.markets
+confidence: medium
+created: 2026-08-02
+domain: real-estate
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Cash Buyer Cartel
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Cash Buyer Cartel
 

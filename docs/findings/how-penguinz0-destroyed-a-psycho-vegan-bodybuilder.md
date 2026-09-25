@@ -1,11 +1,17 @@
 ---
-title: How Penguinz0 Destroyed a Psycho Vegan Bodybuilder
 created: 2026-09-18
-updated: 2026-09-18
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/FfgYq3_z-kg.md
+tags:
+- general
+title: How Penguinz0 Destroyed a Psycho Vegan Bodybuilder
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/FfgYq3_z-kg.md]
+updated: 2026-09-18
 ---
+
+
+
 
 # How Penguinz0 Destroyed a Psycho Vegan Bodybuilder
 

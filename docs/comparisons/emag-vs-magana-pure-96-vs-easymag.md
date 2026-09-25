@@ -1,17 +1,21 @@
 ---
-title: eMAG vs MagNA PURE 96 vs easyMAG Comparison
-created: 2026-08-01
-updated: 2026-08-01
-type: comparison
-classification: laboratory.method-evaluation
-domain: laboratory
-tags: [laboratory-platform-comparison, nucleic-acid-extraction, performance-characteristics, clinical-validation, analytical-sensitivity]
-sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
-confidence: high
-status: active
-reviewed: 2026-08-01
 backlinks: []
+classification: laboratory.method-evaluation
+confidence: high
+created: 2026-08-01
+domain: laboratory
+reviewed: 2026-08-01
+sources:
+- raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md
+status: active
+tags:
+- general
+title: eMAG vs MagNA PURE 96 vs easyMAG Comparison
+type: comparison
+updated: 2026-08-01
 ---
+
+
 
 # eMAG vs MagNA PURE 96 vs easyMAG Comparison
 

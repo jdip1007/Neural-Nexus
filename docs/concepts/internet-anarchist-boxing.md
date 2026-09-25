@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Boxing
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The Never-Ending Downfall of KSI.md
+tags:
+- general
+title: Internet Anarchist - Boxing
 type: concept
-tags: [youtube, internet-anarchist, boxing, documentary]
-sources: [The Never-Ending Downfall of KSI.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Boxing
 

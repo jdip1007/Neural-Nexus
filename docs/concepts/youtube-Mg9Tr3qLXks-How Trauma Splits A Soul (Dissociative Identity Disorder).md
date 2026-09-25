@@ -1,15 +1,18 @@
 ---
-title: How Trauma Splits A Soul (Dissociative Identity Disorder)
+classification: mental-health
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- mental-health
-- therapy
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/How Trauma Splits A Soul (Dissociative Identity Disorder).md
-domain: psychology
+tags:
+- general
+title: How Trauma Splits A Soul (Dissociative Identity Disorder)
+type: concept
+updated: 2026-09-03
 ---
+
+
+
 
 # How Trauma Splits A Soul (Dissociative Identity Disorder)
 

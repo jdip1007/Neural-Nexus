@@ -1,18 +1,22 @@
 ---
-title: State Prison vs Federal Prison - What’s The Actual Difference? - Summary
-created: 2026-08-23
-updated: 2026-08-23
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-CzapeCu_jDE-transcript.md]
-published: 2026-08-23
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-23
+domain: ai
+published: 2026-08-23
 reviewed: 2026-08-23
+sources:
+- raw/videos/youtube-CzapeCu_jDE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: State Prison vs Federal Prison - What’s The Actual Difference? - Summary
+type: reading
+updated: 2026-08-23
 ---
+
+
 
 # State Prison vs Federal Prison - What’s The Actual Difference? - Summary
 

@@ -1,16 +1,18 @@
 ---
-title: Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K
+classification: relationships
 created: 2026-09-04
-updated: 2026-09-04
-type: concept
-tags:
-- relationships
-- relationships
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/Why You Freeze Up When You Talk to Women _ Lovemaxxing
   w_ Dr. K.md
-domain: psychology
+tags:
+- general
+title: Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K
+type: concept
+updated: 2026-09-04
 ---
+
+
 
 # Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K
 

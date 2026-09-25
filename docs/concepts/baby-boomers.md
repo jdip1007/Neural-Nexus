@@ -1,17 +1,20 @@
 ---
-title: Baby Boomers
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: demographics.generation
-domain: demographics
-tags: [generational-cohort, demographic-bulge, wealth-concentration, economic-impact, gen-z]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: demographics.generation
+confidence: medium
+created: 2026-08-02
+domain: demographics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- gen-z
+title: Baby Boomers
+type: concept
+updated: 2026-08-02
 ---
+
 
 # Baby Boomers
 

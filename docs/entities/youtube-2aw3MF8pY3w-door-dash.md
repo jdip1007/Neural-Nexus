@@ -1,16 +1,20 @@
 ---
-title: Door Dash
-created: 2026-09-19
-updated: 2026-09-19
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, 2aw3MF8pY3w]
-sources: [raw/videos/youtube-2aw3MF8pY3w-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-19
+domain: ai
 reviewed: 2026-09-19
+sources:
+- raw/videos/youtube-2aw3MF8pY3w-transcript.md
+status: active
+tags:
+- general
+title: Door Dash
+type: entity
+updated: 2026-09-19
 ---
+
+
 
 # Door Dash
 

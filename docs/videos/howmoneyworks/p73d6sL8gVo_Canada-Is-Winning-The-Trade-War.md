@@ -1,21 +1,21 @@
 ---
-{
-  "title": "Canada Is Winning The Trade War",
-  "created": "2026-09-20",
-  "updated": "2026-09-20",
-  "type": "video",
-  "tags": [
-    "trade war"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=p73d6sL8gVo"
-  ],
-  "video_id": "p73d6sL8gVo",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-20"
-}
+channel: How Money Works
+created: '2026-09-20'
+domain: general
+ingestion_date: '2026-09-20'
+sources:
+- https://www.youtube.com/watch?v=p73d6sL8gVo
+tags:
+- general
+title: Canada Is Winning The Trade War
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-20'
+video_id: p73d6sL8gVo
 ---
+
+
+
 
 # Canada Is Winning The Trade War
 

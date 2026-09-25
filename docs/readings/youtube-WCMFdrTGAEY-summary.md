@@ -1,18 +1,22 @@
 ---
-title: The OCW Update - Summary
-created: 2026-09-03
-updated: 2026-09-03
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-WCMFdrTGAEY-transcript.md]
-published: 2026-09-03
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-03
+domain: ai
+published: 2026-09-03
 reviewed: 2026-09-03
+sources:
+- raw/videos/youtube-WCMFdrTGAEY-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: The OCW Update - Summary
+type: reading
+updated: 2026-09-03
 ---
+
+
 
 # The OCW Update - Summary
 

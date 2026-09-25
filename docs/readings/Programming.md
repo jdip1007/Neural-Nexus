@@ -1,17 +1,19 @@
 ---
-title: "Programming"
-created: "2026-09-24"
-updated: "2026-09-24"
-type: reading
-classification: technology.programming
-domain: technology
-tags: ["programming", "software", "development", "algorithms", "optimization"]
-sources: []
-confidence: high
-status: active
-reviewed: "2026-09-24"
 backlinks: []
+classification: technology.programming
+confidence: high
+created: '2026-09-24'
+domain: technology
+reviewed: '2026-09-24'
+sources: []
+status: active
+tags:
+- general
+title: Programming
+type: reading
+updated: '2026-09-24'
 ---
+
 
 # Programming
 

@@ -1,11 +1,14 @@
 ---
-title: '2.10.1 Árboles: Vídeo - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: '2.10.1 Árboles: Vídeo - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # 2.10.1 Árboles: Vídeo - Summary
 

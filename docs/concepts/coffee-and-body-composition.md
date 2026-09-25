@@ -1,15 +1,21 @@
 ---
-title: "Coffee and Body Composition"
-created: 2026-09-24
-updated: 2026-09-24
-type: concept
-domain: biology
-tags: [coffee, body-composition, adiposity, visceral-fat, skeletal-muscle, bmi, caffeine]
-sources: [raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt]
+classification: coffee
 confidence: high
-status: active
+created: 2026-09-24
+domain: biology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt
+status: active
+tags:
+- bmi
+title: Coffee and Body Composition
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Coffee and Body Composition
 

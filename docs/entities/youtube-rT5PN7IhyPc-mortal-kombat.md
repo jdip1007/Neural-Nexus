@@ -1,16 +1,20 @@
 ---
-title: Mortal Kombat
-created: 2026-08-30
-updated: 2026-08-30
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-rT5PN7IhyPc-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-30
+domain: ai
 reviewed: 2026-08-30
+sources:
+- raw/videos/youtube-rT5PN7IhyPc-transcript.md
+status: active
+tags:
+- general
+title: Mortal Kombat
+type: entity
+updated: 2026-08-30
 ---
+
+
 
 # Mortal Kombat
 

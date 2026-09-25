@@ -1,16 +1,16 @@
 ---
-title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
-created: '2026-09-09T23:20:22.656053'
-updated: '2026-09-09T23:20:22.656055'
-type: reading
-tags:
-- youtube
-- diy
-youtube_id: WlInICQUHeo
 channel: Dave's Garage
 channel_url: https://youtube.com/@davesgarage
+created: '2026-09-09T23:20:22.656053'
 domain: devops
+tags:
+- diy
+title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
+type: reading
+updated: '2026-09-09T23:20:22.656055'
+youtube_id: WlInICQUHeo
 ---
+
 
 # The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 

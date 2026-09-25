@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-cdefg12345-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- wellbeing
-- personal-development
+- general
 title: How To Actually Have An Elite Mindset
 type: reading
 updated: '2026-09-02'
 ---
+
+
 
 # How To Actually Have An Elite Mindset
 

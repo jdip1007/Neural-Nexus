@@ -1,3 +1,14 @@
+---
+created: 2026-09-25
+domain: media
+tags:
+- general
+title: Index
+type: reading
+updated: 2026-09-25
+---
+
+
 # Readings
 
 ## Overview

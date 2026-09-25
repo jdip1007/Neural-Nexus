@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-ghijkl67890-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- case-study
-- parental-mental-health
+- general
 title: Analyzing The Lindsay Clancy Case
 type: finding
 updated: '2026-09-02'
 ---
+
+
 
 # Analyzing The Lindsay Clancy Case
 

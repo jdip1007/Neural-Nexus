@@ -1,12 +1,16 @@
 ---
-title: "Coffee"
+classification: coffee
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [coffee]
 status: stub
+tags:
+- general
+title: Coffee
+type: concept
+updated: 2026-09-25
 ---
+
+
 
 # Coffee
 

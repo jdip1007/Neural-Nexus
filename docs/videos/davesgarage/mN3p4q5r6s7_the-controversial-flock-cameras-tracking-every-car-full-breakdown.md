@@ -1,19 +1,23 @@
 ---
-title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
-created: 2026-08-17
-updated: 2026-08-17
-type: reading
+backlinks: []
 classification: technology.youtube-channel.davesgarage
+confidence: high
+created: 2026-08-17
 domain: devops
-tags: []
+reviewed: 2026-08-17
 sources:
 - raw/videos/davesgarage/mN3p4q5r6s7_The Controversial Flock Cameras Tracking Every
   Car — Full Breakdown.md
-confidence: high
 status: active
-reviewed: 2026-08-17
-backlinks: []
+tags:
+- general
+title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
+type: reading
+updated: 2026-08-17
 ---
+
+
+
 
 # The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 

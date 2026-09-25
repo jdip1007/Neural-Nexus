@@ -1,18 +1,21 @@
 ---
-title: PewDiePie's Journey
-created: 2026-09-09T23:27:51
-updated: 2026-09-09T23:27:51
-type: reading
-classification: hermes.internet-culture.youtube-creator
-domain: hermes
-tags: ["youtube", "youtube-creator", "educational-content", "content-creation", "internet-culture", "gaming"]
-video_id: s9_t0u1v2w
-duration: 15-25 minutes
 channel: Internet Anarchist
+classification: hermes.internet-culture.youtube-creator
 confidence: high
-status: active
+created: 2026-09-09 23:27:51
+domain: hermes
+duration: 15-25 minutes
 reviewed: 2026-09-09
+status: active
+tags:
+- general
+title: PewDiePie's Journey
+type: reading
+updated: 2026-09-09 23:27:51
+video_id: s9_t0u1v2w
 ---
+
+
 
 # PewDiePie's Journey
 

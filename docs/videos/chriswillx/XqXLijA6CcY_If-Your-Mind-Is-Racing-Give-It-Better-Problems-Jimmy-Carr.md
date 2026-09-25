@@ -1,22 +1,20 @@
 ---
-title: If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
 created: 2026-08-31
-updated: 2026-08-31
-type: reading
-tags:
-- youtube
-- chriswillx
-- science
-- philosophy
+domain: general
+duration: Medium
 sources:
 - https://www.youtube.com/watch?v=XqXLijA6CcY
-video_id: XqXLijA6CcY
-duration: Medium
+tags:
+- general
+title: If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
 topics:
 - science
 - philosophy
-domain: general
+type: reading
+updated: 2026-08-31
+video_id: XqXLijA6CcY
 ---
+
 
 # If Your Mind Is Racing, Give It Better Problems - Jimmy Carr
 

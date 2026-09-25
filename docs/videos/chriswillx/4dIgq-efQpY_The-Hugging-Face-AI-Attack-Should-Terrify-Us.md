@@ -1,19 +1,19 @@
 ---
-title: The Hugging Face AI Attack Should Terrify Us
+channel: Chris Willx
 created: '2026-09-05'
-updated: '2026-09-05'
-type: reading
-tags:
-- society
-- technology
+domain: psychology
+ingestion_date: '2026-09-05 17:07:03'
 sources:
 - https://www.youtube.com/watch?v=4dIgq-efQpY
-video_id: 4dIgq-efQpY
-channel: Chris Willx
+tags:
+- general
+title: The Hugging Face AI Attack Should Terrify Us
 transcript_api: transcriptapi.com
-ingestion_date: '2026-09-05 17:07:03'
-domain: psychology
+type: reading
+updated: '2026-09-05'
+video_id: 4dIgq-efQpY
 ---
+
 
 # The Hugging Face AI Attack Should Terrify Us
 

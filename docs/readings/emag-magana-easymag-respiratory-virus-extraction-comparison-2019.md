@@ -1,17 +1,23 @@
 ---
-title: eMAG vs MagNA PURE 96 vs easyMAG Respiratory Virus Extraction Comparison
-created: 2026-08-01
-updated: 2026-08-01
-type: reading
-classification: laboratory.method-evaluation
-domain: laboratory
-tags: [nucleic-acid-extraction, respiratory-viruses, qpcr, influenza, rsv, hmpv, laboratory-platform-comparison, performance-characteristics, clinical-validation, analytical-sensitivity, limit-of-detection]
-sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
-confidence: high
-status: active
-reviewed: 2026-08-01
 backlinks: []
+classification: laboratory.method-evaluation
+confidence: high
+created: 2026-08-01
+domain: laboratory
+reviewed: 2026-08-01
+sources:
+- raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md
+status: active
+tags:
+- qpcr
+- rsv
+- hmpv
+title: eMAG vs MagNA PURE 96 vs easyMAG Respiratory Virus Extraction Comparison
+type: reading
+updated: 2026-08-01
 ---
+
+
 
 # eMAG vs MagNA PURE 96 vs easyMAG: Respiratory Virus Extraction Platform Comparison
 

@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Vlogbrothers
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The 13 Seconds That Exposed Hank Green.md
+tags:
+- general
+title: Internet Anarchist - Vlogbrothers
 type: concept
-tags: [youtube, internet-anarchist, vlogbrothers, documentary]
-sources: [The 13 Seconds That Exposed Hank Green.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Vlogbrothers
 

@@ -1,17 +1,22 @@
 ---
-title: APHL Verification and Validation Toolkit
-created: 2026-07-31
-updated: 2026-07-31
-type: reading
 classification: laboratory.regulatory.guidance
-domain: laboratory
-tags: [aphl, clia, toolkit, method-evaluation, quality-management]
-sources: [raw/laboratory/accreditation/verification-validation-toolkit-aphl.md]
-url: https://aphl.org/resources/collections/toolkits/verification-validation-toolkit
 confidence: high
-status: completed
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources:
+- raw/laboratory/accreditation/verification-validation-toolkit-aphl.md
+status: completed
+tags:
+- aphl
+- clia
+title: APHL Verification and Validation Toolkit
+type: reading
+updated: 2026-07-31
+url: https://aphl.org/resources/collections/toolkits/verification-validation-toolkit
 ---
+
+
 
 # APHL Verification and Validation Toolkit
 

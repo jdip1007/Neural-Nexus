@@ -1,17 +1,20 @@
 ---
-title: Military Training
-created: 2026-08-19
-updated: 2026-08-19
-type: concept
-classification: psychology.military.training
-domain: psychology
-tags: ["military", "training", "physical-fitness"]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.military.training
+confidence: high
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources: []
+status: active
+tags:
+- general
+title: Military Training
+type: concept
+updated: 2026-08-19
 ---
+
+
 
 # Military Training
 

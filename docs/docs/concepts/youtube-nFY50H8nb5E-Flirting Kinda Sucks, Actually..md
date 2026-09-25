@@ -1,15 +1,16 @@
 ---
-title: Flirting Kinda Sucks, Actually.
 created: 2026-09-01
-updated: 2026-09-01
-type: concept
-tags:
-- youtube
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/Flirting Kinda Sucks
 - Actually..md
-domain: psychology
+tags:
+- general
+title: Flirting Kinda Sucks, Actually.
+type: concept
+updated: 2026-09-01
 ---
+
 
 # Flirting Kinda Sucks, Actually.
 

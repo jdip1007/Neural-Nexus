@@ -1,11 +1,14 @@
 ---
-title: The Deserved Downfall of Yo Mama
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: The Deserved Downfall of Yo Mama
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # The Deserved Downfall of Yo Mama
 

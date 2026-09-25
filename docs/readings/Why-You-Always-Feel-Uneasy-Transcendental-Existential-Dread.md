@@ -1,24 +1,21 @@
 ---
-{
-  "title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
-  "created": "2026-09-13T00:47:35.687384",
-  "updated": "2026-09-13T00:47:35.687396",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "healthygamer",
-    "mental health",
-    "relationship"
-  ],
-  "sources": [
-    "https://youtu.be/e99"
-  ],
-  "video_id": "e99",
-  "video_length": "12 minutes",
-  "video_views": "Unknown",
-  "video_published": "Unknown"
-}
+created: '2026-09-13T00:47:35.687384'
+domain: general
+sources:
+- https://youtu.be/e99
+tags:
+- general
+title: Why You Always Feel Uneasy (Transcendental Existential Dread)
+type: video
+updated: '2026-09-13T00:47:35.687396'
+video_id: e99
+video_length: 12 minutes
+video_published: Unknown
+video_views: Unknown
 ---
+
+
+
 
 # Why You Always Feel Uneasy (Transcendental Existential Dread)
 

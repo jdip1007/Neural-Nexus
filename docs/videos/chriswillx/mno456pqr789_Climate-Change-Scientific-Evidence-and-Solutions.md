@@ -1,11 +1,15 @@
 ---
-title: 'Climate Change: Scientific Evidence and Solutions'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Climate Change: Scientific Evidence and Solutions'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Climate Change: Scientific Evidence and Solutions
 

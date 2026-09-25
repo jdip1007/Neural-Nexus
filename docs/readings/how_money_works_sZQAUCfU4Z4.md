@@ -1,23 +1,20 @@
 ---
-title: The Dumbest Business Idea in History
+channel: How Money Works
 created: 2026-09-07 21:56:06.375061
-updated: 2026-09-07 21:56:06.375076
-type: reading
-tags:
-- youtube
-- how-money-works
-- finance
-- Money
-- Investing
-- Finance
+domain: finance
+duration: Unknown
 sources:
 - https://www.youtube.com/watch?v=sZQAUCfU4Z4
-channel: How Money Works
+tags:
+- general
+title: The Dumbest Business Idea in History
+type: reading
+updated: 2026-09-07 21:56:06.375076
 video_id: sZQAUCfU4Z4
-duration: Unknown
 views: Unknown
-domain: finance
 ---
+
+
 
 # The Dumbest Business Idea in History
 

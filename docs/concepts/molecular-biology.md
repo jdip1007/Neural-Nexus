@@ -1,16 +1,18 @@
 ---
-title: Molecular Biology
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: systems.knowledge-systems
-domain: biotech
-tags: [biology, genetics, biotechnology]
-sources: []
 confidence: medium
-status: active
+created: 2026-07-19
+domain: biotech
 reviewed: 2026-07-19
+sources: []
+status: active
+tags:
+- general
+title: Molecular Biology
+type: concept
+updated: 2026-07-19
 ---
+
 
 # Molecular Biology
 

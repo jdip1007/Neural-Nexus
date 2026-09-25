@@ -1,15 +1,20 @@
 ---
-title: Neurovascular unit
-created: 2026-08-25
-updated: 2026-08-25
-type: concept
-domain: biology
-tags: ["brain", "neurovascular-coupling", "blood-brain-barrier", "glia"]
-sources: []
+classification: brain
 confidence: high
-status: active
+created: 2026-08-25
+domain: biology
 reviewed: 2026-08-25
+sources: []
+status: active
+tags:
+- brain
+- glia
+title: Neurovascular unit
+type: concept
+updated: 2026-08-25
 ---
+
+
 
 # Neurovascular unit
 

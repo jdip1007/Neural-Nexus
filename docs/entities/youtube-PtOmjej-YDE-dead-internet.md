@@ -1,16 +1,20 @@
 ---
-title: Dead Internet
-created: 2026-08-20
-updated: 2026-08-20
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-PtOmjej-YDE-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-20
+domain: ai
 reviewed: 2026-08-20
+sources:
+- raw/videos/youtube-PtOmjej-YDE-transcript.md
+status: active
+tags:
+- general
+title: Dead Internet
+type: entity
+updated: 2026-08-20
 ---
+
+
 
 # Dead Internet
 

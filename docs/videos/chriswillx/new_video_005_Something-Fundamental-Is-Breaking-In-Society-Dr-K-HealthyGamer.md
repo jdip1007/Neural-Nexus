@@ -1,21 +1,20 @@
 ---
-{
-  "title": "Something Fundamental Is Breaking In Society - Dr K HealthyGamer",
-  "created": "2026-09-21",
-  "updated": "2026-09-21",
-  "type": "video",
-  "tags": [
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=new_video_005"
-  ],
-  "video_id": "new_video_005",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-21"
-}
+channel: Chris Willx
+created: '2026-09-21'
+domain: general
+ingestion_date: '2026-09-21'
+sources:
+- https://www.youtube.com/watch?v=new_video_005
+tags:
+- general
+title: Something Fundamental Is Breaking In Society - Dr K HealthyGamer
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-21'
+video_id: new_video_005
 ---
+
+
 
 # Something Fundamental Is Breaking In Society - Dr K HealthyGamer
 

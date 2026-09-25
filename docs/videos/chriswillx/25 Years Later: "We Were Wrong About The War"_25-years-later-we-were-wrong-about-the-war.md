@@ -1,11 +1,15 @@
 ---
-title: '25 Years Later: "We Were Wrong About The War"'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: '25 Years Later: "We Were Wrong About The War"'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # 25 Years Later: "We Were Wrong About The War"
 

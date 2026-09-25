@@ -1,20 +1,19 @@
 ---
 created: '2026-08-24T10:22:03.452194'
+domain: general
 duration: 9 minutes, 39 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy8
 tags:
-- youtube
-- chris-willx
-- philosophy
-- society
+- general
 title: Why Do Female Teachers Sleep With Students?
 type: reading
 updated: '2026-08-24T10:22:03.452196'
 video_id: dummy8
 views: 134K
-domain: general
 ---
+
+
 
 # Why Do Female Teachers Sleep With Students?
 

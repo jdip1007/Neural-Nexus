@@ -1,17 +1,21 @@
 ---
-title: Why You Should NEVER Confess Your Love - HealthyGamerGG
-created: 2026-08-20
-updated: 2026-08-20
-type: reading
-classification: psychology.mental_health
-domain: psychology
-tags: ["healthy-gamer-gg", "youtube", "mental-health", "therapy", "relationships"]
-sources: ["raw/videos/healthygamergg/youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love.md"]
-confidence: medium
-status: active
-reviewed: 2026-08-20
 backlinks: []
+classification: psychology.mental_health
+confidence: medium
+created: 2026-08-20
+domain: psychology
+reviewed: 2026-08-20
+sources:
+- raw/videos/healthygamergg/youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love.md
+status: active
+tags:
+- general
+title: Why You Should NEVER Confess Your Love - HealthyGamerGG
+type: reading
+updated: 2026-08-20
 ---
+
+
 
 # Why You Should NEVER Confess Your Love - HealthyGamerGG
 

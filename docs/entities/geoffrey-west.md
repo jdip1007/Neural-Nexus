@@ -1,16 +1,20 @@
 ---
-title: Geoffrey West
-created: 2026-07-31
-updated: 2026-07-31
-type: entity
 classification: person.researcher
-domain: biology
-tags: [complex-systems, theoretical-physics, fractal-geometry, urban-scaling]
-sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: biology
 reviewed: 2026-07-31
+sources:
+- raw/videos/one-billion-heartbeats-veritasium.md
+status: active
+tags:
+- general
+title: Geoffrey West
+type: entity
+updated: 2026-07-31
 ---
+
+
 
 # Geoffrey West
 

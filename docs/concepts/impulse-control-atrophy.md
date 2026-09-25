@@ -1,17 +1,24 @@
 ---
+classification: psychology.mental-health.digital-wellness
+confidence: high
+created: 2026-08-11
+domain: psychology
+related:
+- terminal-boredom
+- executive-function-rust
+- brain-rot
+reviewed: 2026-08-11
+sources:
+- raw/videos/healthygamergg/terminal-boredom.md
+status: active
+tags:
+- general
 title: Impulse Control Atrophy
 type: concept
-tags: [digital-wellness, impulse-control, atrophy]
-related: [terminal-boredom, executive-function-rust, brain-rot]
-classification: psychology.mental-health.digital-wellness
-domain: psychology
-created: 2026-08-11
 updated: 2026-08-11
-confidence: high
-status: active
-reviewed: 2026-08-11
-sources: [raw/videos/healthygamergg/terminal-boredom.md]
 ---
+
+
 
 # Impulse Control Atrophy
 

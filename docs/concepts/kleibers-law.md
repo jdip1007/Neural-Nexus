@@ -1,16 +1,20 @@
 ---
-title: Kleiber's Law
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: biology.comparative-physiology.metabolic-scaling
-domain: biology
-tags: [metabolic-scaling, power-law, comparative-physiology, basal-metabolic-rate]
-sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: biology
 reviewed: 2026-07-31
+sources:
+- raw/videos/one-billion-heartbeats-veritasium.md
+status: active
+tags:
+- general
+title: Kleiber's Law
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Kleiber's Law
 

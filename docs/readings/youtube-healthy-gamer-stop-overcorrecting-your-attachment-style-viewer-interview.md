@@ -1,17 +1,16 @@
 ---
-title: Stop Overcorrecting Your Attachment Style (Viewer Interview)
 created: 2026-09-07 23:20:09.571282
-updated: 2026-09-07 23:20:09.571295
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=Ads8VOa0qKQ
-domain: psychology
+tags:
+- dr-k
+title: Stop Overcorrecting Your Attachment Style (Viewer Interview)
+type: reading
+updated: 2026-09-07 23:20:09.571295
 ---
+
+
 
 # Stop Overcorrecting Your Attachment Style (Viewer Interview)
 

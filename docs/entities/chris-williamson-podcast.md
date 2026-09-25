@@ -1,17 +1,19 @@
 ---
-title: Chris Williamson Podcast Overview
-created: 2026-08-19
-updated: 2026-08-19
-type: entity
-classification: psychology.media-ethics
-domain: psychology
-tags: [youtube, podcast, interview]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-19
 backlinks: []
+classification: psychology.media-ethics
+confidence: high
+created: 2026-08-19
+domain: psychology
+reviewed: 2026-08-19
+sources: []
+status: active
+tags:
+- general
+title: Chris Williamson Podcast Overview
+type: entity
+updated: 2026-08-19
 ---
+
 
 # Chris Williamson Podcast Overview
 

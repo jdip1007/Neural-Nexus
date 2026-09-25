@@ -1,14 +1,14 @@
 ---
-title: Why You Always Feel Uneasy (Transcendental Existential Dread)
 created: 2026-08-27 19:15:30.440736
-updated: 2026-08-27 19:15:30.440744
-type: reading
-tags:
-- healthy-gamer-gg
-- mental-health
-- youtube
 domain: psychology
+tags:
+- general
+title: Why You Always Feel Uneasy (Transcendental Existential Dread)
+type: reading
+updated: 2026-08-27 19:15:30.440744
 ---
+
+
 
 # Why You Always Feel Uneasy (Transcendental Existential Dread)
 

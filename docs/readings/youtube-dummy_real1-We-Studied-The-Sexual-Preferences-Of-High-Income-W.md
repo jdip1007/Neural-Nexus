@@ -1,19 +1,19 @@
 ---
 created: '2026-09-08T17:45:12.480515'
+domain: general
 duration: 9 minutes, 34 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy_real1
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: '"We Studied The Sexual Preferences Of High Income Women"'
 type: reading
 updated: '2026-09-08T17:45:12.480517'
 video_id: dummy_real1
 views: 58K
-domain: general
 ---
+
+
 
 # "We Studied The Sexual Preferences Of High Income Women"
 

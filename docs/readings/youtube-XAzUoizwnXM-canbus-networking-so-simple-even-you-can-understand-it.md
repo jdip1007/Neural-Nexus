@@ -1,13 +1,13 @@
 ---
-title: CANBUS - Networking so simple, even YOU can understand it!
 created: '2026-09-03T21:40:05.827592'
-updated: '2026-09-03T21:40:05.827593'
-type: reading
-tags:
-- youtube
-- diy
 domain: devops
+tags:
+- diy
+title: CANBUS - Networking so simple, even YOU can understand it!
+type: reading
+updated: '2026-09-03T21:40:05.827593'
 ---
+
 
 # CANBUS - Networking so simple, even YOU can understand it!
 

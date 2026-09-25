@@ -1,16 +1,19 @@
 ---
-title: OpenAI
-created: 2026-08-13
-updated: 2026-08-13
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, tools]
-sources: [raw/videos/youtube-OunJtLnyPT4-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-13
+domain: ai
 reviewed: 2026-08-13
+sources:
+- raw/videos/youtube-OunJtLnyPT4-transcript.md
+status: active
+tags:
+- tools
+title: OpenAI
+type: entity
+updated: 2026-08-13
 ---
+
 
 # OpenAI
 

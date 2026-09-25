@@ -1,18 +1,22 @@
 ---
-title: Every Generation Explained in 10 minutes - Summary
-created: 2026-09-16
-updated: 2026-09-16
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, ZWJNKWK0tbc]
-sources: [raw/videos/youtube-ZWJNKWK0tbc-transcript.md]
-published: 2026-09-16
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-16
+domain: ai
+published: 2026-09-16
 reviewed: 2026-09-16
+sources:
+- raw/videos/youtube-ZWJNKWK0tbc-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Every Generation Explained in 10 minutes - Summary
+type: reading
+updated: 2026-09-16
 ---
+
+
 
 # Every Generation Explained in 10 minutes - Summary
 

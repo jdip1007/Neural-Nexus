@@ -1,17 +1,16 @@
 ---
-title: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K
 created: 2026-09-07 23:20:10.598643
-updated: 2026-09-07 23:20:10.598653
-type: reading
-tags:
-- youtube
-- healthy-gamer
-- mental-health
-- dr-k
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=ZwYrXkPJA1s
-domain: psychology
+tags:
+- dr-k
+title: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K
+type: reading
+updated: 2026-09-07 23:20:10.598653
 ---
+
+
 
 # Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K
 

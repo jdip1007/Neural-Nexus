@@ -1,16 +1,20 @@
 ---
-title: 醫療決定中的家庭角色和責任
-created: 2026-08-04
-updated: 2026-08-04
-type: concept
 classification: legal-science.medical-law
-domain: general
-tags: [family-dynamics, medical-decision-making, patient-support, hong-kong-law, healthcare-ethics, cantonese]
-sources: [raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md]
 confidence: high
-status: active
+created: 2026-08-04
+domain: general
 reviewed: 2026-08-07
+sources:
+- raw/transcripts/hk-lawyer/medical-directives-cantonese-transcript.md
+status: active
+tags:
+- general
+title: 醫療決定中的家庭角色和責任
+type: concept
+updated: 2026-08-04
 ---
+
+
 
 # 醫療決定中的家庭角色和責任
 

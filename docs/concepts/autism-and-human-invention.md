@@ -1,16 +1,20 @@
 ---
-title: Autism and Human Invention
-created: 2026-08-17
-updated: 2026-08-17
-type: concept
-domain: psychology
-tags: [autism, human-invention, neurodiversity, cognitive-diversity, human-progress, cognitive-strengths]
-sources: [raw/transcripts/youtube/phqIVUoy70k.md]
-confidence: high
-status: active
-reviewed: 2026-08-17
 classification: psychology.cognitive-science.neurodiversity
+confidence: high
+created: 2026-08-17
+domain: psychology
+reviewed: 2026-08-17
+sources:
+- raw/transcripts/youtube/phqIVUoy70k.md
+status: active
+tags:
+- general
+title: Autism and Human Invention
+type: concept
+updated: 2026-08-17
 ---
+
+
 
 # Autism and Human Invention
 

@@ -9,17 +9,13 @@ sources:
 - ./raw/transcripts/internet-anarchist-9bea3420e9eb-transcript.md
 status: active
 tags:
-- internet-culture
-- youtube-creator
-- social-media
-- online-controversy
-- digital-analysis
-- internet-anarchist
+- general
 title: The Most Evil Father on TikTok
 type: reading
 updated: '2026-08-20'
-
 ---
+
+
 
 # The Most Evil Father on TikTok
 

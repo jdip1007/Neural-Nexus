@@ -1,18 +1,23 @@
 ---
-title: What Happens To Your Body When You Start Drinking Alcohol (Minute by Minute) - Summary
-created: 2026-08-25
-updated: 2026-08-25
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-lisXFyNo8s4-transcript.md]
-published: 2026-08-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-25
+domain: ai
+published: 2026-08-25
 reviewed: 2026-08-25
+sources:
+- raw/videos/youtube-lisXFyNo8s4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: What Happens To Your Body When You Start Drinking Alcohol (Minute by Minute)
+  - Summary
+type: reading
+updated: 2026-08-25
 ---
+
+
 
 # What Happens To Your Body When You Start Drinking Alcohol (Minute by Minute) - Summary
 

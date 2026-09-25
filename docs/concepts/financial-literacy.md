@@ -1,12 +1,17 @@
 ---
-title: "financial-literacy"
+classification: financial
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: financial-literacy
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # financial-literacy
 

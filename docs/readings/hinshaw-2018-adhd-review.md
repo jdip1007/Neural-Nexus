@@ -1,17 +1,22 @@
 ---
-title: "ADHD: Controversy, Developmental Mechanisms, and Multiple Levels of Analysis (Hinshaw 2018)"
-created: 2026-07-29
-updated: 2026-07-29
-type: reading
-classification: psychology.mental-health
-domain: psychology
-tags: [adhd, mental-health, developmental-psychopathology, executive-function, stigma, gender-differences]
-sources: [raw/articles/hinshaw-2018-adhd-review.md]
-confidence: high
-status: active
-reviewed: 2026-07-29
 backlinks: []
+classification: psychology.mental-health
+confidence: high
+created: 2026-07-29
+domain: psychology
+reviewed: 2026-07-29
+sources:
+- raw/articles/hinshaw-2018-adhd-review.md
+status: active
+tags:
+- adhd
+title: 'ADHD: Controversy, Developmental Mechanisms, and Multiple Levels of Analysis
+  (Hinshaw 2018)'
+type: reading
+updated: 2026-07-29
 ---
+
+
 
 # ADHD: Controversy, Developmental Mechanisms, and Multiple Levels of Analysis
 

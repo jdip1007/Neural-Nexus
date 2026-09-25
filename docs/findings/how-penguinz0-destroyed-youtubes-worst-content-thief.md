@@ -1,11 +1,17 @@
 ---
-title: How Penguinz0 Destroyed YouTube's Worst Content Thief
 created: 2026-09-25
-updated: 2026-09-25
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/AltzlEgXO_M.md
+tags:
+- general
+title: How Penguinz0 Destroyed YouTube's Worst Content Thief
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/AltzlEgXO_M.md]
+updated: 2026-09-25
 ---
+
+
+
 
 # How Penguinz0 Destroyed YouTube's Worst Content Thief
 

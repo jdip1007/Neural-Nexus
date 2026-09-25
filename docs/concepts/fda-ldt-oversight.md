@@ -1,16 +1,19 @@
 ---
-title: FDA LDT Oversight
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: laboratory.regulatory
-domain: laboratory
-tags: [fda-ldt-oversight, fda-oversight, ldt, laboratory-developed-tests, clia]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: laboratory
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- ldt
+- clia
+title: FDA LDT Oversight
+type: concept
+updated: 2026-07-31
 ---
+
 
 # FDA LDT Oversight
 

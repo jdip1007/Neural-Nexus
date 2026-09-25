@@ -1,11 +1,15 @@
 ---
-title: 'Yellow Key: BitLocker has been Broken!  Don''t lose your laptop!'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: finding
 domain: general
-tags: []
+tags:
+- general
+title: 'Yellow Key: BitLocker has been Broken!  Don''t lose your laptop!'
+type: finding
+updated: '2026-09-12'
 ---
+
+
+
 
 # Yellow Key: BitLocker has been Broken!  Don't lose your laptop!
 

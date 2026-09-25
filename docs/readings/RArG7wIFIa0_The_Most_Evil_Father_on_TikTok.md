@@ -1,18 +1,17 @@
 ---
-title: The Most Evil Father on TikTok
-created: 2026-09-05 22:24:21
-updated: 2026-09-05 22:24:21
-type: reading
-tags:
-- youtube
-- youtube-creator
-- educational-content
-- content-creation
-video_id: RArG7wIFIa0
-duration: 15-25 minutes
 channel: Internet Anarchist
+created: 2026-09-05 22:24:21
 domain: devops
+duration: 15-25 minutes
+tags:
+- general
+title: The Most Evil Father on TikTok
+type: reading
+updated: 2026-09-05 22:24:21
+video_id: RArG7wIFIa0
 ---
+
+
 
 # The Most Evil Father on TikTok
 

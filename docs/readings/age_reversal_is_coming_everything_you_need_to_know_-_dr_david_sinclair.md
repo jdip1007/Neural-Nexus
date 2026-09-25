@@ -1,15 +1,19 @@
 ---
-title: Age Reversal Is Coming. Everything You Need To Know - Dr David Sinclair
-created: 2026-08-28 11:50:06.412637
-updated: 2026-08-28 11:50:06.412656
-type: reading
-tags: []
 channel: Chris Willx
-video_id: 89101112131
-guests: []
-themes: []
+created: 2026-08-28 11:50:06.412637
 domain: general
+guests: []
+tags:
+- general
+themes: []
+title: Age Reversal Is Coming. Everything You Need To Know - Dr David Sinclair
+type: reading
+updated: 2026-08-28 11:50:06.412656
+video_id: 89101112131
 ---
+
+
+
 
 # Age Reversal Is Coming. Everything You Need To Know - Dr David Sinclair
 

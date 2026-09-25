@@ -1,31 +1,24 @@
 ---
 channel: Dave's Garage
 created: '2026-09-18T01:35:05.406037'
+domain: general
 duration: 23 minutes
 sources:
 - https://www.youtube.com/watch?v=QTTCqGtT6I4
 tags:
-- assembly
-- tutorial
-- network
-- ethernet
 - tech
 - diy
 - code
-- programming
-- hardware
-- software
-- development
-- system
 - led
-- youtube
-- daves-garage
-title: "CANBUS \u2013 Networking so simple, even YOU can understand it!"
+title: CANBUS – Networking so simple, even YOU can understand it!
 type: video
 updated: '2026-09-18T01:35:05.406052'
 video_id: QTTCqGtT6I4
 views: 496K
 ---
+
+
+
 
 # CANBUS – Networking so simple, even YOU can understand it!
 

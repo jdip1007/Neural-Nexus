@@ -1,32 +1,21 @@
 ---
-title: 'Arduino vs Raspberry Pi: Which is Better?'
-created: '2026-08-25'
-updated: '2026-08-25'
-type: concept
+backlinks: []
 classification: engineering.technology
+confidence: high
+created: '2026-08-25'
 domain: engineering
-tags:
-- innovation
-- making
-- diy
-- youtube
-- engineering
-- video-derived
-- circuit-design
-- electronics
-- workshop
-- microcontrollers
-- technology
-- dave-garage
-- transcript
+reviewed: '2026-08-25'
 sources:
 - raw/videos/youtube-dave_garage_006-transcript.md
-confidence: high
 status: active
-reviewed: '2026-08-25'
-backlinks: []
-
+tags:
+- diy
+title: 'Arduino vs Raspberry Pi: Which is Better?'
+type: concept
+updated: '2026-08-25'
 ---
+
+
 
 # Arduino vs Raspberry Pi: Which is Better?
 

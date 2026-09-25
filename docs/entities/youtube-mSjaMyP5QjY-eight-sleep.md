@@ -1,16 +1,20 @@
 ---
-title: Eight Sleep
-created: 2026-08-21
-updated: 2026-08-21
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-mSjaMyP5QjY-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-21
+domain: ai
 reviewed: 2026-08-21
+sources:
+- raw/videos/youtube-mSjaMyP5QjY-transcript.md
+status: active
+tags:
+- general
+title: Eight Sleep
+type: entity
+updated: 2026-08-21
 ---
+
+
 
 # Eight Sleep
 

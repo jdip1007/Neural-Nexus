@@ -1,14 +1,20 @@
 ---
-title: PhD Mental Health Crisis — Longitudinal Evidence
-created: 2026-08-14
-updated: 2026-08-14
-reviewed: 2026-08-14
-type: concept
-tags: [mental-health, graduate-studies, graduate-student-mental-health, longitudinal-study, population-study]
-related: [academic-burnout, phd-studies-mental-health-longitudinal, stress-response-system]
 classification: psychology.mental-health.academia
+created: 2026-08-14
 domain: psychology
+related:
+- academic-burnout
+- phd-studies-mental-health-longitudinal
+- stress-response-system
+reviewed: 2026-08-14
+tags:
+- general
+title: PhD Mental Health Crisis — Longitudinal Evidence
+type: concept
+updated: 2026-08-14
 ---
+
+
 
 # PhD Mental Health Crisis — Longitudinal Evidence
 

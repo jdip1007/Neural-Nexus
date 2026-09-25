@@ -1,16 +1,19 @@
 ---
-title: Metabolic Scaling
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: biology.metabolic-scaling
-domain: biology
-tags: [metabolic-scaling, power-law, comparative-physiology]
-sources: []
 confidence: high
-status: active
+created: 2026-07-31
+domain: biology
 reviewed: 2026-07-31
+sources: []
+status: active
+tags:
+- general
+title: Metabolic Scaling
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # Metabolic Scaling
 

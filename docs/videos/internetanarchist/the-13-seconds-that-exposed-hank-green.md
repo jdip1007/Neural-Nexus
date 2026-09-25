@@ -1,11 +1,17 @@
 ---
-title: The 13 Seconds That Exposed Hank Green
 created: 2026-09-17
-updated: 2026-09-17
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/4_tngSkFXes.md
+tags:
+- general
+title: The 13 Seconds That Exposed Hank Green
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/4_tngSkFXes.md]
+updated: 2026-09-17
 ---
+
+
+
 
 # The 13 Seconds That Exposed Hank Green
 

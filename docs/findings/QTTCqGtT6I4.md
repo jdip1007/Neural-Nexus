@@ -1,17 +1,18 @@
 ---
-title: CANBUS – Networking so simple, even YOU can understand it!
 created: 2026-08-18 14:58:00.106609
-updated: 2026-08-18 14:58:00.106624
-type: finding
-tags:
-- youtube
-sources:
-- type: youtube
-  url: https://www.youtube.com/watch?v=QTTCqGtT6I4
-  title: CANBUS – Networking so simple, even YOU can understand it!
-  accessed: '2026-08-18T14:58:00.106627'
 domain: devops
+sources:
+- accessed: '2026-08-18T14:58:00.106627'
+  title: CANBUS – Networking so simple, even YOU can understand it!
+  type: youtube
+  url: https://www.youtube.com/watch?v=QTTCqGtT6I4
+tags:
+- general
+title: CANBUS – Networking so simple, even YOU can understand it!
+type: finding
+updated: 2026-08-18 14:58:00.106624
 ---
+
 
 # CANBUS – Networking so simple, even YOU can understand it!
 

@@ -1,18 +1,22 @@
 ---
-title: This Is What Happens To Your Body When You Stop Smoking Tobacco - Summary
-created: 2026-09-02
-updated: 2026-09-02
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-D8gygc4boZA-transcript.md]
-published: 2026-09-02
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-02
+domain: ai
+published: 2026-09-02
 reviewed: 2026-09-02
+sources:
+- raw/videos/youtube-D8gygc4boZA-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: This Is What Happens To Your Body When You Stop Smoking Tobacco - Summary
+type: reading
+updated: 2026-09-02
 ---
+
+
 
 # This Is What Happens To Your Body When You Stop Smoking Tobacco - Summary
 

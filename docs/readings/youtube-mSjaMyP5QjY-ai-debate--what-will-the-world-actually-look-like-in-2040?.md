@@ -1,11 +1,14 @@
 ---
-title: 'AI DEBATE: What Will the World Actually Look Like in 2040?'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'AI DEBATE: What Will the World Actually Look Like in 2040?'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # AI DEBATE: What Will the World Actually Look Like in 2040?
 

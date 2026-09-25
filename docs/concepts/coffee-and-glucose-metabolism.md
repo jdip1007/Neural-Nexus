@@ -1,15 +1,21 @@
 ---
-title: "Coffee and Glucose Metabolism"
-created: 2026-09-24
-updated: 2026-09-24
-type: concept
-domain: biology
-tags: [coffee, glucose-metabolism, insulin-resistance, insulin-sensitivity, type-2-diabetes, sex-differences]
-sources: [raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt]
+classification: coffee
 confidence: medium
-status: active
+created: 2026-09-24
+domain: biology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/verroest-2026-coffee-testosterone-nfbc1966.txt
+status: active
+tags:
+- general
+title: Coffee and Glucose Metabolism
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # Coffee and Glucose Metabolism
 

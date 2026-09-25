@@ -1,24 +1,20 @@
 ---
-{
-  "title": "Mental Health in the Digital Age: Navigating Modern Challenges",
-  "created": "2026-09-13",
-  "updated": "2026-09-13",
-  "type": "video",
-  "tags": [
-    "psychology",
-    "society",
-    "technology",
-    "health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=new002"
-  ],
-  "video_id": "new002",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-13 19:38:03"
-}
+channel: Chris Willx
+created: '2026-09-13'
+domain: general
+ingestion_date: '2026-09-13 19:38:03'
+sources:
+- https://www.youtube.com/watch?v=new002
+tags:
+- general
+title: 'Mental Health in the Digital Age: Navigating Modern Challenges'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-13'
+video_id: new002
 ---
+
+
 
 # Mental Health in the Digital Age: Navigating Modern Challenges
 

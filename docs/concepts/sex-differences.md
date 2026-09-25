@@ -1,12 +1,17 @@
 ---
-title: "Sex Differences"
+classification: sex-differences
 created: 2026-09-25
-updated: 2026-09-25
-type: concept
 domain: biology
-tags: [sex-differences]
 status: stub
+tags:
+- general
+title: Sex Differences
+type: concept
+updated: 2026-09-25
 ---
+
+
+
 
 # Sex Differences
 

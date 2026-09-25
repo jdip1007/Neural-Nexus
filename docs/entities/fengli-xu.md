@@ -1,17 +1,21 @@
 ---
-title: Fengli Xu
-created: 2026-07-30
-updated: 2026-07-30
-type: entity
-classification: person.researcher
-domain: ai
-tags: [ai, research-methodology, knowledge-management]
-sources: [raw/articles/ai-impacts-science-nature-2026.md]
-confidence: high
-status: active
-reviewed: 2026-07-30
 backlinks: []
+classification: person.researcher
+confidence: high
+created: 2026-07-30
+domain: ai
+reviewed: 2026-07-30
+sources:
+- raw/articles/ai-impacts-science-nature-2026.md
+status: active
+tags:
+- general
+title: Fengli Xu
+type: entity
+updated: 2026-07-30
 ---
+
+
 
 # Fengli Xu
 

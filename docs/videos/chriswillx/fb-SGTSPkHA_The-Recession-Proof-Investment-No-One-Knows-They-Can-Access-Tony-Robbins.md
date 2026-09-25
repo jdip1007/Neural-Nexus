@@ -1,22 +1,20 @@
 ---
-{
-  "title": "The Recession-Proof Investment No One Knows They Can Access - Tony Robbins",
-  "created": "2026-09-21",
-  "updated": "2026-09-21",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=fb-SGTSPkHA"
-  ],
-  "video_id": "fb-SGTSPkHA",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-21"
-}
+channel: Chris Willx
+created: '2026-09-21'
+domain: general
+ingestion_date: '2026-09-21'
+sources:
+- https://www.youtube.com/watch?v=fb-SGTSPkHA
+tags:
+- general
+title: The Recession-Proof Investment No One Knows They Can Access - Tony Robbins
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-21'
+video_id: fb-SGTSPkHA
 ---
+
+
 
 # The Recession-Proof Investment No One Knows They Can Access - Tony Robbins
 

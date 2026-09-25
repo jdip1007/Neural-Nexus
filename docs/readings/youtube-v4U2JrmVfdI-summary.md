@@ -1,18 +1,22 @@
 ---
-title: Discurso de la Flota Estelar de la Almirante Isabel II - Summary
-created: 2026-08-23
-updated: 2026-08-23
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-v4U2JrmVfdI-transcript.md]
-published: 2026-08-23
-time_sensitive: False
 confidence: high
-status: active
+created: 2026-08-23
+domain: ai
+published: 2026-08-23
 reviewed: 2026-08-23
+sources:
+- raw/videos/youtube-v4U2JrmVfdI-transcript.md
+status: active
+tags:
+- general
+time_sensitive: false
+title: Discurso de la Flota Estelar de la Almirante Isabel II - Summary
+type: reading
+updated: 2026-08-23
 ---
+
+
 
 # Discurso de la Flota Estelar de la Almirante Isabel II - Summary
 

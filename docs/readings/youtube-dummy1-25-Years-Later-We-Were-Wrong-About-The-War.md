@@ -1,19 +1,19 @@
 ---
 created: '2026-08-24T10:21:59.446766'
+domain: general
 duration: 10 minutes, 29 seconds
 sources:
 - https://www.youtube.com/watch?v=dummy1
 tags:
-- youtube
-- chris-willx
-- philosophy
+- general
 title: '25 Years Later: "We Were Wrong About The War"'
 type: reading
 updated: '2026-08-24T10:21:59.446768'
 video_id: dummy1
 views: 21K
-domain: general
 ---
+
+
 
 # 25 Years Later: "We Were Wrong About The War"
 

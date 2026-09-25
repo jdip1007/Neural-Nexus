@@ -1,22 +1,21 @@
 ---
-{
-  "title": "The Law Just Changed. How Ordinary People Build Extreme Wealth - Tony Robbins (4K)",
-  "created": "2026-09-21",
-  "updated": "2026-09-21",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=DuRcrbP3kag"
-  ],
-  "video_id": "DuRcrbP3kag",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-21"
-}
+channel: Chris Willx
+created: '2026-09-21'
+domain: general
+ingestion_date: '2026-09-21'
+sources:
+- https://www.youtube.com/watch?v=DuRcrbP3kag
+tags:
+- general
+title: The Law Just Changed. How Ordinary People Build Extreme Wealth - Tony Robbins
+  (4K)
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-21'
+video_id: DuRcrbP3kag
 ---
+
+
 
 # The Law Just Changed. How Ordinary People Build Extreme Wealth - Tony Robbins (4K)
 

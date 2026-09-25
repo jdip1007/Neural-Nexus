@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Documentary
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- The Dark Life After To Catch a Predator.md
+tags:
+- general
+title: Internet Anarchist - Documentary
 type: concept
-tags: [youtube, internet-anarchist, documentary, documentary]
-sources: [The Dark Life After To Catch a Predator.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Documentary
 

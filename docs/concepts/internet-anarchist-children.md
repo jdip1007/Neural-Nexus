@@ -1,12 +1,19 @@
 ---
-title: Internet Anarchist - Children
+classification: youtube
 created: 2026-09-20
-updated: 2026-09-20
+domain: general
+sources:
+- Ryan's World Is Finally Ending.md
+tags:
+- general
+title: Internet Anarchist - Children
 type: concept
-tags: [youtube, internet-anarchist, children, documentary]
-sources: [Ryan's World Is Finally Ending.md]
-
+updated: 2026-09-20
 ---
+
+
+
+
 
 # Internet Anarchist - Children
 

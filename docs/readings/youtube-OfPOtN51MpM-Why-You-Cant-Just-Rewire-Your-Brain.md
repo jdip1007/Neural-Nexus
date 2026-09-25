@@ -1,24 +1,16 @@
 ---
 created: '2026-09-11T00:09:41.194325'
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=OfPOtN51MpM
 tags:
-- youtube
-- healthy-gamer
-- digital_life
-- therapy
-- gaming
-- mental_health
-- online_communities
-- psychology
-- self_improvement
-- growth
-- personal_development
+- general
 title: Why You Can't Just "Rewire" Your Brain
 type: reading
 updated: '2026-09-11T00:09:41.194327'
-domain: psychology
 ---
+
+
 
 # Why You Can't Just "Rewire" Your Brain
 

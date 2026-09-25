@@ -1,22 +1,19 @@
 ---
-title: Investing Basics
-created: 2026-08-25
-updated: 2026-08-25
-type: concept
-classification: finance.investing
-tags:
-- finance
-- investing
-- money
-- markets
-- portfolio
-sources: []
-confidence: high
-status: active
-reviewed: 2026-08-25
 backlinks: []
+classification: finance.investing
+confidence: high
+created: 2026-08-25
 domain: finance
+reviewed: 2026-08-25
+sources: []
+status: active
+tags:
+- general
+title: Investing Basics
+type: concept
+updated: 2026-08-25
 ---
+
 
 # Investing Basics
 

@@ -9,14 +9,13 @@ sources:
 - /home/hermes/Neural-Nexus/docs/raw/videos/youtube-stuvwx67890-transcript.md
 status: active
 tags:
-- healthygamergg
-- mental-health
-- addiction-recovery
-- evidence-based
+- general
 title: How To ACTUALLY Break An Addiction
 type: finding
 updated: '2026-09-02'
 ---
+
+
 
 # How To ACTUALLY Break An Addiction
 

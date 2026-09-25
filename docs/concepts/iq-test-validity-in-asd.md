@@ -1,15 +1,22 @@
 ---
-title: "IQ Test Validity in ASD"
-created: 2026-09-24
-updated: 2026-09-24
-type: concept
-domain: psychology
-tags: [autism-spectrum-disorder, iq, test-validity, cognitive-assessment, ados, wechsler]
-sources: [raw/transcripts/wolff-2022-asd-iq-interplay.txt]
+classification: autism-spectrum-disorder
 confidence: high
-status: active
+created: 2026-09-24
+domain: psychology
 reviewed: 2026-09-24
+sources:
+- raw/transcripts/wolff-2022-asd-iq-interplay.txt
+status: active
+tags:
+- iq
+- ados
+title: IQ Test Validity in ASD
+type: concept
+updated: 2026-09-24
 ---
+
+
+
 
 # IQ Test Validity in ASD
 

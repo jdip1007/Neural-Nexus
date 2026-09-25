@@ -1,18 +1,22 @@
 ---
-title: Why the United States DIDN'T Target Tokyo With Atomic Bombs - Summary
-created: 2026-09-02
-updated: 2026-09-02
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-ROHQecKe5aE-transcript.md]
-published: 2026-09-02
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-02
+domain: ai
+published: 2026-09-02
 reviewed: 2026-09-02
+sources:
+- raw/videos/youtube-ROHQecKe5aE-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Why the United States DIDN'T Target Tokyo With Atomic Bombs - Summary
+type: reading
+updated: 2026-09-02
 ---
+
+
 
 # Why the United States DIDN'T Target Tokyo With Atomic Bombs - Summary
 

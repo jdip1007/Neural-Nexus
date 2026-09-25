@@ -1,12 +1,17 @@
 ---
-title: "persona management"
+classification: persona
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: persona management
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # persona management
 

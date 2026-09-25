@@ -1,14 +1,15 @@
 ---
-title: The Lie of "Positive Thinking"
 created: 2026-09-03
-updated: 2026-09-03
-type: concept
-tags:
-- youtube
+domain: psychology
 sources:
 - raw/transcripts/healthygamergg/The Lie of _Positive Thinking_.md
-domain: psychology
+tags:
+- general
+title: The Lie of "Positive Thinking"
+type: concept
+updated: 2026-09-03
 ---
+
 
 # The Lie of "Positive Thinking"
 

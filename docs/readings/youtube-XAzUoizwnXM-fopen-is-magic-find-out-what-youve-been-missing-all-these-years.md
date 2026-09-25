@@ -1,17 +1,21 @@
 ---
-title: "fopen is Magic! - Find Out What You've Been Missing All These Years!"
-created: "2026-09-14"
-updated: "2026-09-14"
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ['programming', 'daves-garage', 'youtube', 'tutorial']
-sources: ["https://www.youtube.com/watch?v=XAzUoizwnXM"]
-confidence: medium
-status: active
-reviewed: "2026-09-14"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-14'
+domain: technology
+reviewed: '2026-09-14'
+sources:
+- https://www.youtube.com/watch?v=XAzUoizwnXM
+status: active
+tags:
+- general
+title: fopen is Magic! - Find Out What You've Been Missing All These Years!
+type: reading
+updated: '2026-09-14'
 ---
+
+
 
 # fopen is Magic! - Find Out What You've Been Missing All These Years!
 

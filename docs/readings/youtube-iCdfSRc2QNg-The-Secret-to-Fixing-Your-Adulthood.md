@@ -1,23 +1,16 @@
 ---
 created: '2026-09-11T00:10:22.047018'
+domain: psychology
 sources:
 - https://www.youtube.com/watch?v=iCdfSRc2QNg
 tags:
-- youtube
-- healthy-gamer
-- self_improvement
-- growth
-- mental_health
-- psychology
-- online_communities
-- personal_development
-- gaming
-- digital_life
+- general
 title: The Secret to Fixing Your Adulthood
 type: reading
 updated: '2026-09-11T00:10:22.047020'
-domain: psychology
 ---
+
+
 
 # The Secret to Fixing Your Adulthood
 

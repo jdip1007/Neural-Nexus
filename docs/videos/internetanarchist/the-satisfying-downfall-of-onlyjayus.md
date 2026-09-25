@@ -1,11 +1,17 @@
 ---
-title: The Satisfying Downfall of OnlyJayus
 created: 2026-09-17
-updated: 2026-09-17
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/01-QTmyvEI8.md
+tags:
+- general
+title: The Satisfying Downfall of OnlyJayus
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/01-QTmyvEI8.md]
+updated: 2026-09-17
 ---
+
+
+
 
 # The Satisfying Downfall of OnlyJayus
 

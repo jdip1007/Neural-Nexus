@@ -1,16 +1,20 @@
 ---
-title: In Wireshark
-created: 2026-09-15
-updated: 2026-09-15
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, DSA4VFdqELg]
-sources: [raw/videos/youtube-DSA4VFdqELg-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-15
+domain: ai
 reviewed: 2026-09-15
+sources:
+- raw/videos/youtube-DSA4VFdqELg-transcript.md
+status: active
+tags:
+- general
+title: In Wireshark
+type: entity
+updated: 2026-09-15
 ---
+
+
 
 # In Wireshark
 

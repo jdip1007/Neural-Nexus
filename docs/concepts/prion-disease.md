@@ -1,17 +1,21 @@
 ---
-title: Prion Disease
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: biotechnology.neuroscience.neurodegeneration
-domain: biotech
-tags: [neurodegeneration, prion-disease, infectious-proteins, creutzfeldt-jakob-disease, kuru, brain-disease, protein-folding, neurodegenerative-disease]
-sources: [raw/videos/prion-disease-colleague-story.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: biotechnology.neuroscience.neurodegeneration
+confidence: medium
+created: 2026-08-02
+domain: biotech
+reviewed: 2026-08-02
+sources:
+- raw/videos/prion-disease-colleague-story.md
+status: active
+tags:
+- kuru
+title: Prion Disease
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Prion Disease
 

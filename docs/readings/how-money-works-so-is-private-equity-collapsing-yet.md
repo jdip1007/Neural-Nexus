@@ -1,25 +1,19 @@
 ---
-{
-  "title": "So... Is Private Equity Collapsing Yet?",
-  "created": "2026-09-15T23:45:57.512162",
-  "updated": "2026-09-15T23:45:57.512173",
-  "type": "video",
-  "tags": [
-    "youtube",
-    "how-money-works",
-    "economics",
-    "business",
-    "business",
-    "finance",
-    "market"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=5aBW_VGT130"
-  ],
-  "video_id": "5aBW_VGT130",
-  "channel": "How Money Works"
-}
+channel: How Money Works
+created: '2026-09-15T23:45:57.512162'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=5aBW_VGT130
+tags:
+- general
+title: So... Is Private Equity Collapsing Yet?
+type: video
+updated: '2026-09-15T23:45:57.512173'
+video_id: 5aBW_VGT130
 ---
+
+
+
 
 # So... Is Private Equity Collapsing Yet?
 

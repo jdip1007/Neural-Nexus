@@ -1,11 +1,15 @@
 ---
-title: How Much Longer Can We "Hide" The Inflation?
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: How Much Longer Can We "Hide" The Inflation?
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # How Much Longer Can We "Hide" The Inflation?
 

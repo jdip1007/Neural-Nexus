@@ -1,16 +1,20 @@
 ---
-title: A shared neural basis underlying psychiatric comorbidity
-created: 2025-01-21
-updated: 2026-07-31
-type: reading
-domain: psychology
-tags: [psychiatric-comorbidity, neuropsychopathology, longitudinal-study, executive-function, prefrontal-cortex, genetics, mental-health, research]
-sources: [raw/articles/shared-neural-basis-psychiatric-comorbidity.md]
-confidence: high
-status: active
-reviewed: 2026-07-31
 backlinks: []
+confidence: high
+created: 2025-01-21
+domain: psychology
+reviewed: 2026-07-31
+sources:
+- raw/articles/shared-neural-basis-psychiatric-comorbidity.md
+status: active
+tags:
+- general
+title: A shared neural basis underlying psychiatric comorbidity
+type: reading
+updated: 2026-07-31
 ---
+
+
 
 # A shared neural basis underlying psychiatric comorbidity
 

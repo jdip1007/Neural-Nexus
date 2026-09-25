@@ -1,17 +1,21 @@
 ---
-title: The Deserved Downfall of Yo Mama
-created: 2026-09-15
-updated: 2026-09-15
-type: video
-classification: internet_culture.youtube-channel.internet-anarchist
-domain: internet_culture
-tags: [""]
-sources: [raw/youtube/example5_the-deserved-downfall-of-yo-mama.md]
-confidence: high
-status: active
-reviewed: 2026-09-15
 backlinks: []
+classification: internet_culture.youtube-channel.internet-anarchist
+confidence: high
+created: 2026-09-15
+domain: internet_culture
+reviewed: 2026-09-15
+sources:
+- raw/youtube/example5_the-deserved-downfall-of-yo-mama.md
+status: active
+tags:
+- general
+title: The Deserved Downfall of Yo Mama
+type: video
+updated: 2026-09-15
 ---
+
+
 
 # The Deserved Downfall of Yo Mama
 

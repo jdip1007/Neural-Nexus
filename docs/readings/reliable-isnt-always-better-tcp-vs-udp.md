@@ -1,11 +1,14 @@
 ---
-title: 'Reliable Isn''t Always Better: TCP vs UDP'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Reliable Isn''t Always Better: TCP vs UDP'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Reliable Isn't Always Better: TCP vs UDP
 

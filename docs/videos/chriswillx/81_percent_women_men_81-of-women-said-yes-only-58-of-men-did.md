@@ -1,18 +1,20 @@
 ---
-title: "81% Of Women Said Yes. Only 58% Of Men Did."
-created: 2026-08-29
-updated: 2026-08-29
-type: reading
-classification: philosophy.youtube-channel.chriswillx
-domain: philosophy
-tags: ["relationships"]
-sources: [raw/videos/chriswillx/81_percent_women_men_81-of-women-said-yes-only-58-of-men-did.md]
-confidence: high
-status: active
-reviewed: 2026-08-29
 backlinks: []
-
+classification: philosophy.youtube-channel.chriswillx
+confidence: high
+created: 2026-08-29
+domain: philosophy
+reviewed: 2026-08-29
+sources:
+- raw/videos/chriswillx/81_percent_women_men_81-of-women-said-yes-only-58-of-men-did.md
+status: active
+tags:
+- general
+title: 81% Of Women Said Yes. Only 58% Of Men Did.
+type: reading
+updated: 2026-08-29
 ---
+
 
 # "81% Of Women Said Yes. Only 58% Of Men Did."
 

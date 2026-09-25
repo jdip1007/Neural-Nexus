@@ -1,16 +1,20 @@
 ---
-title: Mafia Twang
-created: 2026-08-09
-updated: 2026-08-09
-type: entity
-domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
-sources: [raw/videos/youtube-L9U-81fvZbA-transcript.md]
 confidence: medium
-status: active
+created: 2026-08-09
+domain: ai
 reviewed: 2026-08-09
+sources:
+- raw/videos/youtube-L9U-81fvZbA-transcript.md
+status: active
+tags:
+- general
+title: Mafia Twang
+type: entity
+updated: 2026-08-09
 ---
+
+
 
 # Mafia Twang
 

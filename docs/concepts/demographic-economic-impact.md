@@ -1,17 +1,21 @@
 ---
-title: Demographic Economic Impact
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: demographics.economics
-domain: demographics
-tags: [demographic-economic-impact, generational-cohorts, population-aging, economic-growth, demographic-bulge, demographic-wall, economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: demographics.economics
+confidence: medium
+created: 2026-08-02
+domain: demographics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Demographic Economic Impact
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Demographic Economic Impact
 

@@ -1,11 +1,14 @@
 ---
-title: Why Sensitive People Get Traumatized So Easily
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Why Sensitive People Get Traumatized So Easily
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Why Sensitive People Get Traumatized So Easily
 

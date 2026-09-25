@@ -1,15 +1,19 @@
 ---
-title: Neural Nexus Setup Guide
-created: 2026-07-18
-updated: 2026-07-18
-type: reading
-domain: hermes
-tags: [setup, documentation, guide, knowledge-base]
-sources: []
 confidence: high
-status: active
+created: 2026-07-18
+domain: hermes
 reviewed: 2026-07-18
+sources: []
+status: active
+tags:
+- setup
+- guide
+title: Neural Nexus Setup Guide
+type: reading
+updated: 2026-07-18
 ---
+
+
 
 # Neural Nexus Setup Guide
 

@@ -1,17 +1,21 @@
 ---
-title: Katherine Johns
-created: 2026-08-02
-updated: 2026-08-02
-type: entity
-classification: person.researcher
-domain: biotech
-tags: [medical-research, medical-reviewer, medical-education]
-sources: [raw/videos/prion-disease-colleague-story.md]
-confidence: low
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: person.researcher
+confidence: low
+created: 2026-08-02
+domain: biotech
+reviewed: 2026-08-02
+sources:
+- raw/videos/prion-disease-colleague-story.md
+status: active
+tags:
+- general
+title: Katherine Johns
+type: entity
+updated: 2026-08-02
 ---
+
+
 
 # Katherine Johns
 

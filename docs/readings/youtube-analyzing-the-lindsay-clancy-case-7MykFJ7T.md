@@ -1,11 +1,14 @@
 ---
-title: Analyzing The Lindsay Clancy Case
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Analyzing The Lindsay Clancy Case
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Analyzing The Lindsay Clancy Case
 

@@ -1,16 +1,19 @@
 ---
-title: Neural Nexus
-created: 2026-07-18
-updated: 2026-07-18
-type: concept
 classification: systems.knowledge-systems
-domain: hermes
-tags: [knowledge-management, workflow]
-sources: []
 confidence: high
-status: active
+created: 2026-07-18
+domain: hermes
 reviewed: 2026-07-18
+sources: []
+status: active
+tags:
+- general
+title: Neural Nexus
+type: concept
+updated: 2026-07-18
 ---
+
+
 
 # Neural Nexus
 

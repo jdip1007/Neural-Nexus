@@ -1,16 +1,20 @@
 ---
-title: WBE Theory
-created: 2026-07-31
-updated: 2026-07-31
-type: concept
 classification: biology.theoretical-biology.metabolic-scaling
-domain: biology
-tags: [fractal-networks, metabolic-scaling, biological-networks, theoretical-biology]
-sources: [raw/videos/one-billion-heartbeats-veritasium.md]
 confidence: high
-status: active
+created: 2026-07-31
+domain: biology
 reviewed: 2026-07-31
+sources:
+- raw/videos/one-billion-heartbeats-veritasium.md
+status: active
+tags:
+- general
+title: WBE Theory
+type: concept
+updated: 2026-07-31
 ---
+
+
 
 # WBE Theory
 

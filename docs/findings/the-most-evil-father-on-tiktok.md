@@ -1,11 +1,17 @@
 ---
-title: The Most Evil Father on TikTok
 created: 2026-09-25
-updated: 2026-09-25
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/9bea3420e9eb.md
+tags:
+- general
+title: The Most Evil Father on TikTok
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/9bea3420e9eb.md]
+updated: 2026-09-25
 ---
+
+
+
 
 # The Most Evil Father on TikTok
 

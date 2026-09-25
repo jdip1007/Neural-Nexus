@@ -1,16 +1,20 @@
 ---
-title: DangerousPerson2.0 Channel Research Project
-created: 2026-07-19
-updated: 2026-07-19
-type: concept
 classification: research-methodology.knowledge-management
-domain: general
-tags: ["research-methodology", "hong-kong", "crime-investigation", "youtube-research"]
 confidence: medium
-status: active
+created: 2026-07-19
+domain: general
 reviewed: 2026-07-19
-sources: [raw/videos/dangerous-person-2-0/]
+sources:
+- raw/videos/dangerous-person-2-0/
+status: active
+tags:
+- general
+title: DangerousPerson2.0 Channel Research Project
+type: concept
+updated: 2026-07-19
 ---
+
+
 
 # DangerousPerson2.0 Channel Research Project
 

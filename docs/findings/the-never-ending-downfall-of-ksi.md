@@ -1,11 +1,17 @@
 ---
-title: The Never-Ending Downfall of KSI
 created: 2026-09-24
-updated: 2026-09-24
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/MrXO4Y6YpGA.md
+tags:
+- general
+title: The Never-Ending Downfall of KSI
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/MrXO4Y6YpGA.md]
+updated: 2026-09-24
 ---
+
+
+
 
 # The Never-Ending Downfall of KSI
 

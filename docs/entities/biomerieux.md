@@ -1,17 +1,21 @@
 ---
-title: bioMérieux
-created: 2026-08-01
-updated: 2026-08-01
-type: entity
-classification: organization.manufacturer
-domain: laboratory
-tags: [laboratory-equipment, nucleic-acid-extraction, in-vitro-diagnostics]
-sources: [raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md]
-confidence: high
-status: active
-reviewed: 2026-08-01
 backlinks: []
+classification: organization.manufacturer
+confidence: high
+created: 2026-08-01
+domain: laboratory
+reviewed: 2026-08-01
+sources:
+- raw/laboratory/validation/emag-magana-easymag-respiratory-virus-extraction-comparison.md
+status: active
+tags:
+- general
+title: bioMérieux
+type: entity
+updated: 2026-08-01
 ---
+
+
 
 # bioMérieux
 

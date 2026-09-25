@@ -1,22 +1,21 @@
 ---
-{
-  "title": "Tax Strategies: Smart Ways to Minimize Your Tax Liability",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "investing"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=p7Q2r5s8t1U"
-  ],
-  "video_id": "p7Q2r5s8t1U",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=p7Q2r5s8t1U
+tags:
+- general
+title: 'Tax Strategies: Smart Ways to Minimize Your Tax Liability'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: p7Q2r5s8t1U
 ---
+
+
+
 
 # Tax Strategies: Smart Ways to Minimize Your Tax Liability
 

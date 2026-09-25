@@ -1,11 +1,14 @@
 ---
-title: 'Video 1: Expectations - Summary'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'Video 1: Expectations - Summary'
+type: reading
+updated: '2026-09-12'
 ---
+
+
 
 # Video 1: Expectations - Summary
 

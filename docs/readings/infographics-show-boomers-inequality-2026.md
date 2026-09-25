@@ -1,19 +1,23 @@
 ---
-title: "It's Not Inflation You Should Be Watching. It's The Boomers."
-source_url: https://www.youtube.com/watch?v=D1KomlztSuA
-source_type: video
-ingested: 2026-08-02
-sha256: d1komlzt_sua_video_content
-created: 2026-08-02
-updated: 2026-08-07
-type: reading
-domain: finance
-tags: [wealth-concentration, economic-inequality, asset-inflation, interest-rates, monetary-policy, generational-wealth, housing-market-dynamics]
-sources: [raw/videos/infographics-show-boomers-inequality-2026.md]
 confidence: high
-status: active
+created: 2026-08-02
+domain: finance
+ingested: 2026-08-02
 reviewed: 2026-08-07
+sha256: d1komlzt_sua_video_content
+source_type: video
+source_url: https://www.youtube.com/watch?v=D1KomlztSuA
+sources:
+- raw/videos/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: It's Not Inflation You Should Be Watching. It's The Boomers.
+type: reading
+updated: 2026-08-07
 ---
+
+
 
 # It's Not Inflation You Should Be Watching. It's The Boomers.
 

@@ -1,17 +1,19 @@
 ---
-title: Programming
-created: 2026-09-02
-updated: 2026-09-02
-type: concept
-classification: technology.programming
-domain: technology
-tags: ["software"]
-sources: []
-confidence: high
-status: active
-reviewed: 2026-09-02
 backlinks: []
+classification: technology.programming
+confidence: high
+created: 2026-09-02
+domain: technology
+reviewed: 2026-09-02
+sources: []
+status: active
+tags:
+- general
+title: Programming
+type: concept
+updated: 2026-09-02
 ---
+
 
 # Programming
 

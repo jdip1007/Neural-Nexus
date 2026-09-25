@@ -1,22 +1,21 @@
 ---
-{
-  "title": "Real Estate Investing: A Beginner's Guide to Property Investment",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "investing",
-    "real estate"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=jNQXAC9IVRw"
-  ],
-  "video_id": "jNQXAC9IVRw",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=jNQXAC9IVRw
+tags:
+- general
+title: 'Real Estate Investing: A Beginner''s Guide to Property Investment'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: jNQXAC9IVRw
 ---
+
+
+
 
 # Real Estate Investing: A Beginner's Guide to Property Investment
 

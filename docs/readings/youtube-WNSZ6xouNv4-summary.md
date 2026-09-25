@@ -1,18 +1,22 @@
 ---
-title: Get Addicted to Improving Your Life - David Goggins - Summary
-created: 2026-08-21
-updated: 2026-08-21
-type: reading
-domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
-sources: [raw/videos/youtube-WNSZ6xouNv4-transcript.md]
-published: 2026-08-21
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-08-21
+domain: ai
+published: 2026-08-21
 reviewed: 2026-08-21
+sources:
+- raw/videos/youtube-WNSZ6xouNv4-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: Get Addicted to Improving Your Life - David Goggins - Summary
+type: reading
+updated: 2026-08-21
 ---
+
+
 
 # Get Addicted to Improving Your Life - David Goggins - Summary
 

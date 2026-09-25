@@ -1,11 +1,15 @@
 ---
-title: 'AI in Investing: Revolution or Hype?'
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: 'AI in Investing: Revolution or Hype?'
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # AI in Investing: Revolution or Hype?
 

@@ -1,18 +1,22 @@
 ---
-title: What Caused the Roman Empire to Collapse - Summary
-created: 2026-09-25
-updated: 2026-09-25
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, 5tilhR0C6DY]
-sources: [raw/videos/youtube-5tilhR0C6DY-transcript.md]
-published: 2026-09-25
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-25
+domain: ai
+published: 2026-09-25
 reviewed: 2026-09-25
+sources:
+- raw/videos/youtube-5tilhR0C6DY-transcript.md
+status: active
+tags:
+- general
+time_sensitive: true
+title: What Caused the Roman Empire to Collapse - Summary
+type: reading
+updated: 2026-09-25
 ---
+
+
 
 # What Caused the Roman Empire to Collapse - Summary
 

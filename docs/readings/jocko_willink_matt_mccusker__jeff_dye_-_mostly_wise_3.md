@@ -1,15 +1,19 @@
 ---
-title: Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise
-created: 2026-08-28 11:50:05.411853
-updated: 2026-08-28 11:50:05.411868
-type: reading
-tags: []
 channel: Chris Willx
-video_id: 29303132331
-guests: []
-themes: []
+created: 2026-08-28 11:50:05.411853
 domain: general
+guests: []
+tags:
+- general
+themes: []
+title: Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise
+type: reading
+updated: 2026-08-28 11:50:05.411868
+video_id: 29303132331
 ---
+
+
+
 
 # Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3
 

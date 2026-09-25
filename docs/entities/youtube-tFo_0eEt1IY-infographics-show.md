@@ -1,17 +1,21 @@
 ---
-title: Infographics Show
-created: 2026-08-20
-updated: 2026-08-20
-type: entity
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-tFo_0eEt1IY-transcript.md]
-confidence: medium
-status: active
-reviewed: 2026-08-20
 backlinks: []
-domain: ai
 classification: person.researcher
+confidence: medium
+created: 2026-08-20
+domain: ai
+reviewed: 2026-08-20
+sources:
+- raw/videos/youtube-tFo_0eEt1IY-transcript.md
+status: active
+tags:
+- general
+title: Infographics Show
+type: entity
+updated: 2026-08-20
 ---
+
+
 
 # Infographics Show
 

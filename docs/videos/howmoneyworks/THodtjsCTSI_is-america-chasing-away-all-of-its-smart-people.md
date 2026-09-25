@@ -1,16 +1,19 @@
 ---
-title: Is America Chasing Away All Of Its Smart People?
-created: 2026-09-01
-updated: 2026-09-01
-type: reading
-classification: education.youtube-channel.howmoneyworks
-domain: finance
-tags: ["self-improvement"]
-confidence: high
-status: active
-reviewed: 2026-09-01
 backlinks: []
+classification: education.youtube-channel.howmoneyworks
+confidence: high
+created: 2026-09-01
+domain: finance
+reviewed: 2026-09-01
+status: active
+tags:
+- general
+title: Is America Chasing Away All Of Its Smart People?
+type: reading
+updated: 2026-09-01
 ---
+
+
 
 # Is America Chasing Away All Of Its Smart People?
 

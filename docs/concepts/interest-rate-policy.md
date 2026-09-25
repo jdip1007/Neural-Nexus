@@ -1,17 +1,21 @@
 ---
-title: Interest Rate Policy
-created: 2026-08-02
-updated: 2026-08-02
-type: concept
-classification: finance.monetary-policy
-domain: economics
-tags: [interest-rate-policy, monetary-policy, central-banking, asset-valuation, wealth-concentration, economic-inequality, financial-markets, economics]
-sources: [readings/infographics-show-boomers-inequality-2026.md]
-confidence: medium
-status: active
-reviewed: 2026-08-02
 backlinks: []
+classification: finance.monetary-policy
+confidence: medium
+created: 2026-08-02
+domain: economics
+reviewed: 2026-08-02
+sources:
+- readings/infographics-show-boomers-inequality-2026.md
+status: active
+tags:
+- general
+title: Interest Rate Policy
+type: concept
+updated: 2026-08-02
 ---
+
+
 
 # Interest Rate Policy
 

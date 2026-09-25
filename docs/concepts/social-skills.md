@@ -1,12 +1,17 @@
 ---
-title: "Social Skills"
+classification: social
 created: 2026-09-12
-updated: 2026-09-12
-type: concept
 domain: general
-tags: []
 status: draft
+tags:
+- general
+title: Social Skills
+type: concept
+updated: 2026-09-12
 ---
+
+
+
 
 # Social Skills
 

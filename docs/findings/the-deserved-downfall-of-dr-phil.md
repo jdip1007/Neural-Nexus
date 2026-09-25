@@ -1,11 +1,17 @@
 ---
-title: The Deserved Downfall of Dr Phil
 created: 2026-09-18
-updated: 2026-09-18
+domain: general
+sources:
+- raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md
+tags:
+- general
+title: The Deserved Downfall of Dr Phil
 type: finding
-tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
-sources: [raw/transcripts/internet-anarchist/Mh9lkEl8ZWU.md]
+updated: 2026-09-18
 ---
+
+
+
 
 # The Deserved Downfall of Dr Phil
 

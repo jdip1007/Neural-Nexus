@@ -1,17 +1,24 @@
 ---
+classification: psychology.mental-health.dopamine
+confidence: high
+created: 2026-08-11
+domain: psychology
+related:
+- brain-rot
+- artificial-brain-circuit-activation
+- dopamine-depletion
+reviewed: 2026-08-11
+sources:
+- raw/videos/healthygamergg/why-brain-rot-is-so-addictive.md
+status: active
+tags:
+- general
 title: The Dopamine Lemon Metaphor
 type: concept
-tags: [dopamine, mental-health]
-related: [brain-rot, artificial-brain-circuit-activation, dopamine-depletion]
-classification: psychology.mental-health.dopamine
-domain: psychology
-created: 2026-08-11
 updated: 2026-08-11
-confidence: high
-status: active
-reviewed: 2026-08-11
-sources: [raw/videos/healthygamergg/why-brain-rot-is-so-addictive.md]
 ---
+
+
 
 # Dopamine Lemon Metaphor
 

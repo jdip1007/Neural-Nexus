@@ -1,22 +1,18 @@
 ---
-{
-  "title": "I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K",
-  "created": "2026-09-15T01:35:49.964369",
-  "updated": "2026-09-15T01:35:49.964384",
-  "type": "video",
-  "tags": [
-    "breakup",
-    "relationships",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=example9"
-  ],
-  "duration": "1 hour, 38 minutes",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-15T01:35:49.964369'
+domain: general
+duration: 1 hour, 38 minutes
+sources:
+- https://www.youtube.com/watch?v=example9
+tags:
+- general
+title: I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K
+type: video
+updated: '2026-09-15T01:35:49.964384'
 ---
+
+
 
 # I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K
 

@@ -1,11 +1,15 @@
 ---
-title: Why Your New Hobbies Only Last Two Weeks
 created: '2026-09-12'
-updated: '2026-09-12'
-type: reading
 domain: general
-tags: []
+tags:
+- general
+title: Why Your New Hobbies Only Last Two Weeks
+type: reading
+updated: '2026-09-12'
 ---
+
+
+
 
 # Why Your New Hobbies Only Last Two Weeks
 

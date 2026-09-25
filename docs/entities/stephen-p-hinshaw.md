@@ -1,17 +1,20 @@
 ---
-title: Stephen P. Hinshaw
-created: 2026-07-29
-updated: 2026-07-29
-type: entity
-classification: person.researcher
-domain: psychology
-tags: ["adhd", "developmental-psychopathology", "mental-health"]
-sources: [raw/articles/hinshaw-2018-adhd-review.md]
-confidence: high
-status: active
-reviewed: 2026-07-29
 backlinks: []
+classification: person.researcher
+confidence: high
+created: 2026-07-29
+domain: psychology
+reviewed: 2026-07-29
+sources:
+- raw/articles/hinshaw-2018-adhd-review.md
+status: active
+tags:
+- adhd
+title: Stephen P. Hinshaw
+type: entity
+updated: 2026-07-29
 ---
+
 
 # Stephen P. Hinshaw
 

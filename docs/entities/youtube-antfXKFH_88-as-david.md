@@ -1,16 +1,20 @@
 ---
-title: As David
-created: 2026-09-01
-updated: 2026-09-01
-type: entity
-domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
-sources: [raw/videos/youtube-antfXKFH_88-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-01
+domain: ai
 reviewed: 2026-09-01
+sources:
+- raw/videos/youtube-antfXKFH_88-transcript.md
+status: active
+tags:
+- general
+title: As David
+type: entity
+updated: 2026-09-01
 ---
+
+
 
 # As David
 
