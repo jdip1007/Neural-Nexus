@@ -31,6 +31,6 @@ Mentioned in the context of research and development.
 
 - [[youtube-17rJSSzto4U-how-to]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
 - [[youtube-heaa4ltxz-4-hand-foundation]]

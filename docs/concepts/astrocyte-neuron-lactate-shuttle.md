@@ -103,4 +103,4 @@ Findings from Takahashi, Ikoma & Matsui (2026) suggest the ANLS efficiency varie
 - [[brain-energy-metabolism]]
 - [[nrem-sleep]]
 - [[rem-sleep]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

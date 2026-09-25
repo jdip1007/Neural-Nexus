@@ -60,5 +60,5 @@ Revealing the secret behind Windows' performance in the 90s, Dave explores the t
 - [[technology]]
 - [[youtube-BYmj1HXvU44-they-compare]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

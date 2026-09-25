@@ -33,5 +33,5 @@ Mentioned in the context of research and development.
 - [[youtube-BT4gsZBpL0E-monster-hunter]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-ZwYrXkPJA1s-ivy-league]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

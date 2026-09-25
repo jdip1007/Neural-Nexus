@@ -29,6 +29,6 @@ Mentioned in the context of research and development.
 
 ## See also
 
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
 - [[youtube-uqf6NoAhFts-ivy-league]]

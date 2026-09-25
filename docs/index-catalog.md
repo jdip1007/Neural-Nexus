@@ -703,7 +703,7 @@
     - [[youtube-I_17-FIqadU-if-murdoch]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-07
     - [[youtube-LJSgsf9ro38-illinois-secretary]] · `person.researcher` · `youtube`, `video-derived`, `persons` · ✓ 2026-09-15
     - [[youtube-mUBBqAjVuco-in-america]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-24
-    - [[youtube-kZmpYh5Wxto-in-april]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-09
+    -  · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-09
     - [[youtube-vUYR5zv6gqU-in-april]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-09-02
     - [[youtube-4EPW0Ht7XCc-in-august]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-21
     - [[youtube-jlyIyObWBzo-in-august]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-22
@@ -712,7 +712,7 @@
     - [[youtube-IDmt0N0Buc4-in-harm]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-27
     - [[youtube-OunJtLnyPT4-in-july]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-13
     - [[youtube-SR8ESCmUYLY-in-nevada]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-24
-    - [[youtube-ahDC1sQCDzY-in-the]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-20
+    -  · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-20
     - [[youtube-DSA4VFdqELg-in-wireshark]] · `person.researcher` · `youtube`, `video-derived`, `persons` · ✓ 2026-09-15
     - [[youtube-uzg-tGiK_y8-individualized-training]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-13
     - [[youtube-iAkMImwXkWo-industrial-automation]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-29
@@ -863,7 +863,7 @@
     - [[youtube-RhelaTtcmEo-not-psycho]] · `person.researcher` · `youtube`, `video-derived`, `persons` · ✓ 2026-08-19
     - [[youtube-D8gygc4boZA-nothing-else]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-09-02
     - [[youtube-kZmpYh5Wxto-now-jarvis]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-09
-    - [[youtube-2uJhjqBz5Tk-nuclear-war]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-20
+    -  · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-20
     - [[youtube-XJ_DP8SJfa0-nutty-nutty]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-21
     - [[youtube-jUJ0MQFNTko-odeco-inc]] · `person.researcher` · `youtube`, `video-derived`, `organizations` · ✓ 2026-09-16
     - [[youtube-I_17-FIqadU-officer-lightoller]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-07
@@ -909,7 +909,7 @@
     - [[youtube-Sx-lddna-qg-playtime-tracking]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-22
     - [[youtube-r5xxTIPKY8s-policy-institute]] · `person.researcher` · `youtube`, `video-derived`, `organizations` · ✓ 2026-08-29
     - [[youtube-COJnlehBcKw-power-it]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-23
-    - [[youtube-2uJhjqBz5Tk-power-plant]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-20
+    -  · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-20
     - [[youtube-qjXgpJpSlCc-premium-membership]] · `person.researcher` · `youtube`, `video-derived`, `persons` · ✓ 2026-09-16
     - [[youtube-Unzc731iCUY-president-barack]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-09-01
     - [[youtube-cemy5eP5Jjs-president-john]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-13
@@ -1030,7 +1030,7 @@
     - [[youtube-D4nPxik59oE-the-cold]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-08
     - [[youtube-sRavs-1HMoI-the-dark]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-16
     - [[youtube-qmZmKZR8S5U-the-dow]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-22
-    - [[youtube-5tilhR0C6DY-the-emperor]] · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-07
+    -  · `person.researcher` · `video-derived`, `persons` · ✓ 2026-08-07
     - [[youtube-9mfJ-G2LPhE-the-enabling]] · `person.researcher` · `youtube`, `video-derived`, `persons` · ✓ 2026-09-16
     - [[youtube-Ac25_v32dNE-the-fed]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-24
     - [[youtube-D-uK2Xs6D9s-the-fed]] · `person.researcher` · `youtube`, `video-derived`, `entity` · ✓ 2026-08-22

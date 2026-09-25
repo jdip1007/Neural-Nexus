@@ -22,7 +22,7 @@
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: 
 - **Video ID**: Y-r63JyWmDs
 - **Original URL**: https://www.youtube.com/watch?v=Y-r63JyWmDs
 - **Ingestion Date**: 2026-09-21
@@ -72,9 +72,9 @@ This comprehensive exploration of psychology and mindfulness provides viewers wi
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+-  - Main channel page
+-  - General philosophy topics
+-  - Psychological concepts discussed
 
 ---
 

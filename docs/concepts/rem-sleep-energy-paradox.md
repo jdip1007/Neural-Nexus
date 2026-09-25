@@ -105,4 +105,4 @@ This paradox suggests that during REM, the energy consumed by neurons exceeds wh
 - [[brain-energy-metabolism]]
 - [[nrem-sleep]]
 - [[rem-sleep]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

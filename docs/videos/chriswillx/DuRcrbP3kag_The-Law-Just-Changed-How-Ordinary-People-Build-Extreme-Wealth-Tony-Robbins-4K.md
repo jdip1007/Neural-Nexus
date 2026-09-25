@@ -22,7 +22,7 @@
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: 
 - **Video ID**: DuRcrbP3kag
 - **Original URL**: https://www.youtube.com/watch?v=DuRcrbP3kag
 - **Ingestion Date**: 2026-09-21
@@ -72,9 +72,9 @@ This comprehensive exploration of self-improvement and psychology provides viewe
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+-  - Main channel page
+-  - General philosophy topics
+-  - Psychological concepts discussed
 
 ---
 

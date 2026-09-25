@@ -25,7 +25,7 @@ Key points analysis in progress...
 
 ## Full Transcript
 
-See [[raw/transcripts/internet-anarchist/9bea3420e9eb.md]] for the complete transcript.
+See  for the complete transcript.
 
 ## Related Topics
 

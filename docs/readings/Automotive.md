@@ -133,10 +133,10 @@ Automotive technology encompasses the engineering, systems, and modifications re
 
 ## Related Pages
 
-- [[Dave's Garage]] - Automotive projects and tutorials
+-  - Automotive projects and tutorials
 - [[Hardware]] - Automotive hardware and components
 - [[Networking]] - Automotive networking systems
-- [[Programming]] - Automotive programming and ECU development
+-  - Automotive programming and ECU development
 
 ## Citations
 

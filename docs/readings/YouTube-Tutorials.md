@@ -52,8 +52,8 @@ YouTube tutorials represent a significant portion of modern technical education 
 
 ## Related Pages
 
-- [[Dave's Garage]] - Specific channel content
-- [[Programming]] - Programming tutorials and resources
+-  - Specific channel content
+-  - Programming tutorials and resources
 - [[Networking]] - Network tutorials and protocols
 - [[Hardware]] - Hardware tutorials and projects
 - [[Automotive]] - Automotive tutorials and modifications

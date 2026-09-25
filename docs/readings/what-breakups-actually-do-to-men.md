@@ -52,8 +52,8 @@ This video from HealthyGamerGG explores important mental health topics related t
 
 ## Related Pages
 
-- [[Mental Health]]
-- [[Relationships]]
-- [[Personal Development]]
+- 
+- 
+- 
 - Anxiety Management
 - Addiction Recovery

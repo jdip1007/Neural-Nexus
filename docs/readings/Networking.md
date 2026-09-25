@@ -80,9 +80,9 @@ Networking encompasses the principles, protocols, and technologies that enable c
 
 ## Related Pages
 
-- [[Dave's Garage]] - Networking tutorials and projects
-- [[YouTube Tutorials]] - Video-based networking education
-- [[Programming]] - Network programming and socket programming
+-  - Networking tutorials and projects
+-  - Video-based networking education
+-  - Network programming and socket programming
 - [[Hardware]] - Network hardware and infrastructure
 
 ## Citations

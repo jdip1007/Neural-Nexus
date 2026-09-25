@@ -68,4 +68,4 @@ tags: []
 - [[cloud]]
 - [[youtube-5EDzRGxHT2M-how-money]]
 - [[youtube-BPnIYS35Fhk-big-tech]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

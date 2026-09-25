@@ -58,7 +58,7 @@ This video discusses What if the World Wars Never Happened And Other Insane Scen
 - [[container]]
 - [[technology]]
 - [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-2uJhjqBz5Tk-nuclear-war]]
+- 
 - [[youtube-5rFIcsi9EVc-to-your]]
 - [[youtube-5rFIcsi9EVc-what-does]]
-- [[youtube-5tilhR0C6DY-the-emperor]]
+- 

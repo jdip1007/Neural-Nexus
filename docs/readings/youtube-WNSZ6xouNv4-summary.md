@@ -50,4 +50,4 @@ This video discusses Get Addicted to Improving Your Life - David Goggins
 - [[youtube-WNSZ6xouNv4-used-to]]
 - [[youtube-YQQMF8ibxVw-what-happens]]
 - [[youtube-YQQMF8ibxVw-when-you]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

@@ -21,7 +21,7 @@
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: 
 - **Video ID**: x1Y2z3m4n5P
 - **Original URL**: https://www.youtube.com/watch?v=x1Y2z3m4n5P
 - **Ingestion Date**: 2026-09-18
@@ -71,8 +71,8 @@ This comprehensive exploration of investing and personal finance provides viewer
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
+-  - Main channel page
+-  - General personal finance topics
 - [[Investing]] - Investment strategies and concepts
 
 ---

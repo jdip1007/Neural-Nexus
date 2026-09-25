@@ -21,7 +21,7 @@
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: 
 - **Video ID**: kL8P5mZ7xY2
 - **Original URL**: https://www.youtube.com/watch?v=kL8P5mZ7xY2
 - **Ingestion Date**: 2026-09-18
@@ -71,8 +71,8 @@ This comprehensive exploration of debt management and bonds provides viewers wit
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
+-  - Main channel page
+-  - General personal finance topics
 - [[Investing]] - Investment strategies and concepts
 
 ---

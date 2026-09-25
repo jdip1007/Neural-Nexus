@@ -22,7 +22,7 @@
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: 
 - **Video ID**: new_video_003
 - **Original URL**: https://www.youtube.com/watch?v=new_video_003
 - **Ingestion Date**: 2026-09-21
@@ -72,9 +72,9 @@ This comprehensive exploration of productivity and technology provides viewers w
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+-  - Main channel page
+-  - General philosophy topics
+-  - Psychological concepts discussed
 
 ---
 

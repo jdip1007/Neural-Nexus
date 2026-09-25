@@ -31,5 +31,5 @@ Mentioned in the context of research and development.
 
 - [[youtube-D-uK2Xs6D9s-the-pentagon]]
 - [[youtube-ZwYrXkPJA1s-ivy-league]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

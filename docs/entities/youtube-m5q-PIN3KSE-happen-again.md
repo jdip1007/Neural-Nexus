@@ -30,6 +30,6 @@ Mentioned in the context of research and development.
 ## See also
 
 - [[youtube-ZwYrXkPJA1s-ivy-league]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
 - [[youtube-m5q-PIN3KSE-the-plague]]

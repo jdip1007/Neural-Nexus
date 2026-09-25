@@ -21,7 +21,7 @@
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: 
 - **Video ID**: w9X4y6z7a8B
 - **Original URL**: https://www.youtube.com/watch?v=w9X4y6z7a8B
 - **Ingestion Date**: 2026-09-18
@@ -71,8 +71,8 @@ This comprehensive exploration of bonds and retirement provides viewers with bot
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
+-  - Main channel page
+-  - General personal finance topics
 - [[Investing]] - Investment strategies and concepts
 
 ---

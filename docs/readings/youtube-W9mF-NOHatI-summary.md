@@ -52,4 +52,4 @@ This video discusses How Restoration Videos Are Faked
 - [[youtube-W9mF-NOHatI-barnacles-barnacles]]
 - [[youtube-W9mF-NOHatI-new-england]]
 - [[youtube-W9mF-NOHatI-turtle-man]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

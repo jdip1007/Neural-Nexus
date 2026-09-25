@@ -21,7 +21,7 @@
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: 
 - **Video ID**: fresh_video_005
 - **Original URL**: https://www.youtube.com/watch?v=fresh_video_005
 - **Ingestion Date**: 2026-09-21
@@ -67,13 +67,13 @@ This comprehensive exploration of health and health provides viewers with both t
 
 ## Key Topics
 
-- [[health]]
+- 
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+-  - Main channel page
+-  - General philosophy topics
+-  - Psychological concepts discussed
 
 ---
 

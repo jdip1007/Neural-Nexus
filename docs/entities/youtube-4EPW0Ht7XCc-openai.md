@@ -32,6 +32,6 @@ Mentioned in the context of research and development.
 - [[youtube-4EPW0Ht7XCc-south-korean]]
 - [[youtube-OunJtLnyPT4-openai]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
 - [[youtube-haZ5gddlQ4g-openai]]

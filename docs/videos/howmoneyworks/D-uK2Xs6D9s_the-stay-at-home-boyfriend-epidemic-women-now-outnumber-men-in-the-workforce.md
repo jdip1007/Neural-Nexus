@@ -65,5 +65,5 @@ Financial and economic discussion exploring finance, society.
 - [[Investing-Basics]]
 - [[neural-nexus]]
 - [[youtube-5EDzRGxHT2M-how-money]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-r5xxTIPKY8s-economic-policy]]

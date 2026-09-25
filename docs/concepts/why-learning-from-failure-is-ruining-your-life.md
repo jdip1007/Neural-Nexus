@@ -54,4 +54,4 @@ This content from HealthyGamerGG explores why 'learning from failure' is ruining
 - [[youtube-healthy-gamer-how-to-actually-have-an-elite-mindset]]
 - [[psychology]]
 - [[relationships]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

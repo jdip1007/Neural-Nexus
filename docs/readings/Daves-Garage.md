@@ -37,9 +37,9 @@ Dave's Garage is a popular YouTube channel featuring technical tutorials, automo
 
 ## Related Pages
 
-- [[YouTube Tutorials]] - Collection of technical tutorials
+-  - Collection of technical tutorials
 - [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+-  - Related programming tutorials
 - [[Automotive]] - Related automotive content
 - [[Hardware]] - Related hardware projects
 

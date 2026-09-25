@@ -46,4 +46,4 @@ This transcript explores "Why Your Brain Can't Handle Modern Life" from The Info
 - [[the-infographics-show]]
 - [[youtube-9mfJ-G2LPhE-the-infographics]]
 - [[youtube-xj-dp8sjfa0-social-media]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

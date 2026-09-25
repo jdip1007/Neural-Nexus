@@ -112,8 +112,8 @@ Programming is the process of creating sets of instructions that tell computers 
 
 ## Related Pages
 
-- [[Dave's Garage]] - Programming tutorials and challenges
-- [[YouTube Tutorials]] - Video-based programming education
+-  - Programming tutorials and challenges
+-  - Video-based programming education
 - [[Networking]] - Network programming and protocols
 - [[Hardware]] - Hardware programming and embedded systems
 

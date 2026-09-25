@@ -201,5 +201,5 @@ Labor market changes refer to the evolving dynamics of work, employment, compens
 - [[infographics-show]]
 - [[technology]]
 - [[wealth-concentration]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-r5xxTIPKY8s-economic-policy]]

@@ -44,5 +44,5 @@ This video discusses Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet P
 - [[youtube-RhelaTtcmEo-it-it]]
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-YQQMF8ibxVw-what-happens]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-wjIy2PJ8y-Q-blue-crew]]

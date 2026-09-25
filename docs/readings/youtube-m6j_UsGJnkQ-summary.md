@@ -57,6 +57,6 @@ is in the land of internet spaceships.
 
 - [[youtube-5EDzRGxHT2M-how-money]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-m6j-UsGJnkQ-casino-wars
 - youtube-m6j-UsGJnkQ-online-casino

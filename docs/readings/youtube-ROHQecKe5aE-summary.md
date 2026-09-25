@@ -68,5 +68,5 @@ nuclear device had been successfully detonated
 - [[youtube-ROHQecKe5aE-on-may]]
 - [[youtube-ROHQecKe5aE-thomas-ferebee]]
 - [[youtube-WlZmY4fLzhI-the-united]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-xaICKlp9kQc-united-states]]

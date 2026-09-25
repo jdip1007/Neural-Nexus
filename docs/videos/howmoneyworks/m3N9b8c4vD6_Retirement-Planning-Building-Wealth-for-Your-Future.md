@@ -21,7 +21,7 @@
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: 
 - **Video ID**: m3N9b8c4vD6
 - **Original URL**: https://www.youtube.com/watch?v=m3N9b8c4vD6
 - **Ingestion Date**: 2026-09-18
@@ -67,12 +67,12 @@ This comprehensive exploration of cryptocurrency and entrepreneurship provides v
 
 ## Key Topics
 
-- [[retirement]]
+- 
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
+-  - Main channel page
+-  - General personal finance topics
 - [[Investing]] - Investment strategies and concepts
 
 ---

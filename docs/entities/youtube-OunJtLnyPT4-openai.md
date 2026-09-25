@@ -30,6 +30,6 @@ Mentioned in the context of research and development.
 ## See also
 
 - [[youtube-BPnIYS35Fhk-big-tech]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
 - [[youtube-haZ5gddlQ4g-openai]]

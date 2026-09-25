@@ -137,5 +137,5 @@ This page provides foundational knowledge for understanding economic principles 
 - [[opportunity-cost]]
 - [[relationships]]
 - [[technology]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-vUYR5zv6gqU-economic-analysis]]

@@ -50,5 +50,5 @@ This video discusses The Alibaba AI Incident Should Terrify Us - Tristan Harris
 - [[youtube-VCJFzVtvhBQ-read-jonathan]]
 - [[youtube-VCJFzVtvhBQ-stuart-russell]]
 - [[youtube-VCJFzVtvhBQ-the-anxious]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-haZ5gddlQ4g-openai]]

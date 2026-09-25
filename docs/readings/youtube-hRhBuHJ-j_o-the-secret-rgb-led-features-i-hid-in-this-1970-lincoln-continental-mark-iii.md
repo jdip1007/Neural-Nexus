@@ -24,7 +24,7 @@ This video from Dave's Garage covers hardware, technology, automotive with a foc
 ## Key Topics
 
 - [[Hardware]]
-- [[Technology]]
+- 
 - [[Automotive]]
 
 ## Technical Concepts
@@ -40,9 +40,9 @@ RGB LED installation and programming tutorial for vintage vehicles. Covers wirin
 ## Related Pages
 
 - Dave's Garage - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+-  - Collection of technical tutorials
 - [[Networking]] - Related networking content
-- [[Programming]] - Related programming tutorials
+-  - Related programming tutorials
 
 ## Citations
 

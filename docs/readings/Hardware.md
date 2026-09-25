@@ -140,8 +140,8 @@ Hardware refers to the physical components and electronic devices that make up c
 
 ## Related Pages
 
-- [[Dave's Garage]] - Hardware projects and tutorials
-- [[Programming]] - Hardware programming and embedded systems
+-  - Hardware projects and tutorials
+-  - Hardware programming and embedded systems
 - [[Networking]] - Network hardware and infrastructure
 - [[Automotive]] - Automotive hardware and systems
 

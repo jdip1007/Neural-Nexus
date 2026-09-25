@@ -117,8 +117,8 @@ Technology encompasses the application of scientific knowledge for practical pur
 
 ## Related Pages
 
-- [[Dave's Garage]] - Technology tutorials and projects
-- [[Programming]] - Software development and computing
+-  - Technology tutorials and projects
+-  - Software development and computing
 - [[Networking]] - Communication technologies
 - [[Hardware]] - Physical computing systems
 - [[Automotive]] - Automotive technology and systems

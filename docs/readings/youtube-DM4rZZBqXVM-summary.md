@@ -55,4 +55,4 @@ This video discusses Bare Metal Programming - Booting From the Switches
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-WNSZ6xouNv4-used-to]]
 - [[youtube-YQQMF8ibxVw-when-you]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

@@ -130,4 +130,4 @@ If you start with brain rot, you won't "feel motivated later." You'll feel deple
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-xj-dp8sjfa0-social-media]]
 - [[youtube-YQQMF8ibxVw-when-you]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

@@ -82,5 +82,5 @@ This page serves as a foundational concept for understanding various financial t
 - [[financial-planning]]
 - [[labor-market-changes]]
 - [[technology]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-vUYR5zv6gqU-economic-analysis]]

@@ -42,4 +42,4 @@ reviewed: 2026-07-31
 - [[comparative-physiology]]
 - [[metabolic-scaling]]
 - [[wbe-theory]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 

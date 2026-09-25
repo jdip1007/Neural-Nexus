@@ -37,7 +37,7 @@ Discussed in [optimisation-techniques-small-scale-simulation](concepts/optimisat
 
 ## See also
 
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 
 ## See also
 

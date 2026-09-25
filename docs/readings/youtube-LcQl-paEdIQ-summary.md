@@ -177,6 +177,6 @@ a slight in-game advantage humans are both social
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-WNSZ6xouNv4-used-to]]
 - [[youtube-YQQMF8ibxVw-when-you]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-ecBEqWeipWs-the-world]]
 - [[youtube-qWQMyeRrabA-watching-you]]

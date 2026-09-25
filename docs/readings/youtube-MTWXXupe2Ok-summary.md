@@ -55,7 +55,7 @@ This video discusses Man Receives Highest Dose of Nuclear Radiation And More Nuc
 
 - [[cloud]]
 - [[container]]
-- [[youtube-2uJhjqBz5Tk-power-plant]]
+- 
 - [[youtube-D8gygc4boZA-cancer-institute]]
 - [[youtube-MTWXXupe2Ok-miles-away]]
 - [[youtube-MTWXXupe2Ok-ottawa-canada]]

@@ -52,5 +52,5 @@ This video discusses How Airrack Has Been Faking Videos...
 - [[youtube-DIEfKdKri4g-ryan-tran]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-SpXCOlrCgfM-los-angeles]]
-- [[youtube-ahDC1sQCDzY-in-the]]
+- 
 - [[youtube-bVM76YxNPjQ-new-york]]
