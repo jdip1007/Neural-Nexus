@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=RdmYUULKf7s
-ingested: 2026-09-18
+ingested: 2026-09-25
 video_id: RdmYUULKf7s
 title: Why Normal Life Feels So Boring
 series: 

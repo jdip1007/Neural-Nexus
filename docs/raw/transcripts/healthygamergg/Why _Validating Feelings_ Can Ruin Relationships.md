@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=zFp4n3h75cM
-ingested: 2026-08-31
+ingested: 2026-09-25
 video_id: zFp4n3h75cM
 title: Why "Validating Feelings" Can Ruin Relationships
 series: 

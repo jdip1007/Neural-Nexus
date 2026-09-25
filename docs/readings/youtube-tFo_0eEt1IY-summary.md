@@ -1,17 +1,17 @@
 ---
 title: What Caused the Catastrophic Nuclear Accident in Chernobyl? - Summary
-created: 2026-09-16
-updated: 2026-09-16
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, tFo_0eEt1IY]
 sources: [raw/videos/youtube-tFo_0eEt1IY-transcript.md]
-published: 2026-09-16
+published: 2026-09-25
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-09-16
+reviewed: 2026-09-25
 ---
 
 # What Caused the Catastrophic Nuclear Accident in Chernobyl? - Summary
@@ -22,7 +22,7 @@ This video discusses What Caused the Catastrophic Nuclear Accident in Chernobyl?
 ## Key Points
 
 ## Entities Mentioned
-- **Persons**: Catastrophic Nuclear, Upper Biological, Reactor No
+- **Persons**: Reactor No, Chernobyl Exclusion, Upper Biological
 
 ## Related Concepts
 - [[api]]

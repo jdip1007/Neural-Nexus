@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=ahDC1sQCDzY
 source_type: video
-ingested: 2026-08-20
-published: 2026-08-20
+ingested: 2026-09-25
+published: 2026-09-25
 duration_minutes: 5
 language: en
 sha256: 823d67c6dcfdc3195eee4c8dca275088923077e8f25f5862ed9353ca269544a3

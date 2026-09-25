@@ -1,7 +1,7 @@
 ---
 title: Extension Foundation
-created: 2026-09-16
-updated: 2026-09-16
+created: 2026-09-25
+updated: 2026-09-25
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, organizations, jUJ0MQFNTko]
 sources: [raw/videos/youtube-jUJ0MQFNTko-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-09-16
+reviewed: 2026-09-25
 ---
 
 # Extension Foundation
@@ -25,8 +25,3 @@ Mentioned in the context of research and development.
 
 ## Sources
 ^[raw/videos/youtube-jUJ0MQFNTko-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube]]

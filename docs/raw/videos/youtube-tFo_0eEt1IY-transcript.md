@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=tFo_0eEt1IY
 source_type: video
-ingested: 2026-09-16
-published: 2026-09-16
+ingested: 2026-09-25
+published: 2026-09-25
 duration_minutes: 7
 language: en
 sha256: 05bf2aa131afec71004b12d62e21103285d39d8749c6e9f2ea61e477349687bf

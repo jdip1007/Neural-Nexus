@@ -1,7 +1,7 @@
 ---
 title: "fopen is Magic! - Find Out What You've Been Missing All These Years!"
-created: "2026-09-24"
-updated: "2026-09-24"
+created: "2026-09-25"
+updated: "2026-09-25"
 type: reading
 classification: video.daves-garage
 domain: technology
@@ -9,7 +9,7 @@ tags: ['programming', 'daves-garage', 'youtube', 'tutorial']
 sources: ["https://www.youtube.com/watch?v=XAzUoizwnXM"]
 confidence: medium
 status: active
-reviewed: "2026-09-24"
+reviewed: "2026-09-25"
 backlinks: []
 ---
 
@@ -35,8 +35,8 @@ Comprehensive tutorial on the fopen function in C programming. Advanced file han
 
 ## Related Pages
 
-- [[Daves-Garage]] - Main channel page
-- [[YouTube-Tutorials]] - Collection of technical tutorials
+- [[Dave's Garage]] - Main channel page
+- [[YouTube Tutorials]] - Collection of technical tutorials
 - [[Networking]] - Related networking content
 - [[Programming]] - Related programming tutorials
 
@@ -45,4 +45,4 @@ Comprehensive tutorial on the fopen function in C programming. Advanced file han
 Source: [https://www.youtube.com/watch?v=XAzUoizwnXM](https://www.youtube.com/watch?v=XAzUoizwnXM)
 
 ---
-*Created: 2026-09-24 03:08:03*
+*Created: 2026-09-25 03:22:37*

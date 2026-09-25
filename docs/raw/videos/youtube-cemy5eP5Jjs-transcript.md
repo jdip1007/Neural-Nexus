@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=cemy5eP5Jjs
 source_type: video
-ingested: 2026-08-13
-published: 2026-08-13
+ingested: 2026-09-25
+published: 2026-09-25
 duration_minutes: 231
 language: en
 sha256: c8144346c105bb3f416da4cc4ee423f6943f2bf1da74c5a82fddd31b02dcc6e4

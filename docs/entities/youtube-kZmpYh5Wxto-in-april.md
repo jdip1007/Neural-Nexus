@@ -1,15 +1,15 @@
 ---
 title: In April
-created: 2026-08-09
-updated: 2026-08-09
+created: 2026-09-25
+updated: 2026-09-25
 type: entity
 domain: ai
 classification: person.researcher
-tags: [video-derived, persons]
+tags: [youtube, video-derived, persons, kZmpYh5Wxto]
 sources: [raw/videos/youtube-kZmpYh5Wxto-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-08-09
+reviewed: 2026-09-25
 ---
 
 # In April
@@ -21,14 +21,7 @@ In April is mentioned in the YouTube video "The Challenger Space Shuttle Disaste
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-kZmpYh5Wxto-summary.md)
+- [[youtube-kZmpYh5Wxto-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-kZmpYh5Wxto-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-ZwYrXkPJA1s-ivy-league]]
-- [[youtube-ahDC1sQCDzY-in-the]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

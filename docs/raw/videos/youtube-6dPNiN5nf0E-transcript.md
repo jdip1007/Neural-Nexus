@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=6dPNiN5nf0E
 source_type: video
-ingested: 2026-08-08
-published: 2026-08-08
+ingested: 2026-09-25
+published: 2026-09-25
 duration_minutes: 21
 language: en
 sha256: 212b28282c93f5501a775f9d18e27bfa9c5b4927a48032370fb3431c502e3f00

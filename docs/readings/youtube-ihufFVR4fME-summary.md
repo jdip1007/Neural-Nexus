@@ -1,17 +1,17 @@
 ---
 title: 50 Insane World War 2 Facts That Will Shock You! - Summary
-created: 2026-08-22
-updated: 2026-08-22
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
+tags: [youtube, video-summary, transcript, ihufFVR4fME]
 sources: [raw/videos/youtube-ihufFVR4fME-transcript.md]
-published: 2026-08-22
+published: 2026-09-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-22
+reviewed: 2026-09-25
 ---
 
 # 50 Insane World War 2 Facts That Will Shock You! - Summary
@@ -35,10 +35,10 @@ operations focused on the essentials
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Eastern Front, Walter Matthau, Charles Lindbergh
+- **Persons**: On June, Western Europe, Unholy Ground
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > so they made several concessions to Hitler. The 
@@ -52,12 +52,3 @@ fortresses and compounds built for himself,
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-YQQMF8ibxVw-when-you]]
-- [[youtube-ihufFVR4fME-charles-lindbergh]]
-- [[youtube-ihufFVR4fME-eastern-front]]
-- [[youtube-ihufFVR4fME-walter-matthau]]

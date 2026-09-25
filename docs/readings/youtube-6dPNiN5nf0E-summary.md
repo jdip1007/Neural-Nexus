@@ -1,17 +1,17 @@
 ---
 title: 16 Most Disturbing Videos From Pentagon UFO Release - Summary
-created: 2026-08-08
-updated: 2026-08-08
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
-tags: [video-summary]
+tags: [youtube, video-summary, transcript, 6dPNiN5nf0E]
 sources: [raw/videos/youtube-6dPNiN5nf0E-transcript.md]
-published: 2026-08-08
+published: 2026-09-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-08
+reviewed: 2026-09-25
 ---
 
 # 16 Most Disturbing Videos From Pentagon UFO Release - Summary
@@ -39,11 +39,11 @@ relative to the major axis of the main mass
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: News Pentagon, Admiral Timothy, Eleanor Watson
+- **Persons**: Southern United, Military Can, Resolution Office
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > It was submitted to the All-domain Anomaly 
@@ -57,11 +57,3 @@ and orientation relative to one another.”
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-6dPNiN5nf0E-admiral-timothy]]
-- [[youtube-6dPNiN5nf0E-eleanor-watson]]
-- [[youtube-6dPNiN5nf0E-news-pentagon]]
-- [[youtube-D-uK2Xs6D9s-the-pentagon]]

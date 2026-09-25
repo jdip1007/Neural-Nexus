@@ -316,6 +316,24 @@
 ## [2026-09-14] process | HealthyGamerGG YouTube Videos
 
 - **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
+- **Action:** Processed recent videos into wiki pages
+- **Content:** Mental health, relationships, dating, self-improvement
+- **Output:** Created concept pages + raw transcripts
+- **Method:** TranscriptAPI integration with structured wiki pages
+
+
+## [2026-09-14] process | HealthyGamerGG YouTube Videos
+
+- **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
+- **Action:** Processed recent videos into wiki pages
+- **Content:** Mental health, relationships, dating, self-improvement
+- **Output:** Created concept pages + raw transcripts
+- **Method:** TranscriptAPI integration with structured wiki pages
+
+
+## [2026-09-14] process | HealthyGamerGG YouTube Videos
+
+- **Source:** HealthyGamerGG YouTube Channel (@HealthyGamerGG)
 - **Action:** Processed existing transcripts into Neural Nexus pages
 - **Content:** Mental health, relationships, dating, self-improvement
 - **Output:** Created concept pages from existing transcripts
@@ -699,3 +717,18 @@
 **Tags Used:** autism-spectrum-disorder, iq, diagnostics, heterogeneity, ados, cognitive-impairment, epidemiology, clinical-psychology, bimodal-distribution, circularity, diagnostic-delay, late-diagnosis, test-validity, wechsler, sampling-bias
 
 **Graph Impact:** 7 new pages with cross-links to existing ASD content and 5 new concept interconnections
+
+## 2026-09-24 ingest | Coffee, Testosterone, and Cardiometabolic Markers (Verroest et al. 2026)
+
+**Source:** Verroest L et al. (2026) Associations of habitual coffee intake with testosterone and cardiometabolic markers: the NFBC1966 study. European Journal of Nutrition, 65, 215. DOI: 10.1007/s00394-026-04038-z
+
+**Pages created:**
+- `readings/verroest-2026-coffee-testosterone-nfbc1966.md` — full summary with 7 key findings
+- `concepts/coffee-and-body-composition.md` — leaner profile despite similar BMI
+- `concepts/coffee-and-bcaa.md` — inverse BCAA correlation, insulin resistance relevance
+- `concepts/coffee-and-testosterone.md` — sex-specific androgen profile with table
+- `concepts/coffee-and-shbg.md` — SHBG as mediator of metabolic protection
+- `concepts/coffee-and-glucose-metabolism.md` — acute-chronic paradox, sex differences
+- `concepts/sex-differences-in-coffee-metabolism.md` — full sex-specific comparison table
+
+**Tags added:** 43 new tags to SCHEMA.md (coffee, testosterone, shbg, bcaa, cardiometabolic, etc.)

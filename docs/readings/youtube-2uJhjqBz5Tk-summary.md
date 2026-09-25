@@ -1,17 +1,17 @@
 ---
 title: Chernobyl Nuclear Explosion Disaster Explained (Hour by Hour) - Summary
-created: 2026-08-20
-updated: 2026-08-20
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
-tags: ["youtube", "video-summary"]
+tags: [youtube, video-summary, transcript, 2uJhjqBz5Tk]
 sources: [raw/videos/youtube-2uJhjqBz5Tk-transcript.md]
-published: 2026-08-20
+published: 2026-09-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-20
+reviewed: 2026-09-25
 ---
 
 # Chernobyl Nuclear Explosion Disaster Explained (Hour by Hour) - Summary
@@ -37,14 +37,14 @@ important, including all their personal documents
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Alexander Yuvchenko, Power Plant, Nuclear War
+- **Persons**: The Bridge, The Chernobyl, Power Plant
 - **Organizations**: Kurchatov Institute
 
 ## Related Concepts
-- [cloud](concepts/cloud.md)
-- [api](concepts/api.md)
-- [container](concepts/container.md)
-- [ai](concepts/ai.md)
+- [[container]]
+- [[cloud]]
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > The realtor has already been slowed down to run at 
@@ -58,15 +58,3 @@ get that main fire under control or
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[cloud]]
-- [[container]]
-- [[youtube-2uJhjqBz5Tk-alexander-yuvchenko]]
-- [[youtube-2uJhjqBz5Tk-kurchatov-institute]]
-- [[youtube-2uJhjqBz5Tk-nuclear-war]]
-- [[youtube-2uJhjqBz5Tk-power-plant]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-ahDC1sQCDzY-in-the]]

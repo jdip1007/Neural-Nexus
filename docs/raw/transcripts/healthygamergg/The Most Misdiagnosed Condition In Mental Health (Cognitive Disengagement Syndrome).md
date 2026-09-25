@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=3bHdic_l5Hg
-ingested: 2026-09-18
+ingested: 2026-09-25
 video_id: 3bHdic_l5Hg
 title: The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome)
 series: 

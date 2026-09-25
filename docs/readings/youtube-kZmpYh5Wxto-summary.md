@@ -1,17 +1,17 @@
 ---
 title: The Challenger Space Shuttle Disaster - Explained (Minute by Minute) - Summary
-created: 2026-08-09
-updated: 2026-08-09
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
-tags: [video-summary]
+tags: [youtube, video-summary, transcript, kZmpYh5Wxto]
 sources: [raw/videos/youtube-kZmpYh5Wxto-transcript.md]
-published: 2026-08-09
+published: 2026-09-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-09
+reviewed: 2026-09-25
 ---
 
 # The Challenger Space Shuttle Disaster - Explained (Minute by Minute) - Summary
@@ -36,13 +36,13 @@ decreases
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: In April, Johnson Space, Now Jarvis
+- **Persons**: Marshall Space, On February, In April
 - **Organizations**: Thiokol Inc
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
-- [cloud](concepts/cloud.md)
+- [[cloud]]
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > 10. 9. 8. 7. 6. We have main engine 
@@ -56,13 +56,3 @@ thrust as planned at this point in the flight.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[cloud]]
-- [[youtube-ahDC1sQCDzY-in-the]]
-- [[youtube-kZmpYh5Wxto-in-april]]
-- [[youtube-kZmpYh5Wxto-johnson-space]]
-- [[youtube-kZmpYh5Wxto-now-jarvis]]
-- [[youtube-kZmpYh5Wxto-thiokol-inc]]

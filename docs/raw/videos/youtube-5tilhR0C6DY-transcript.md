@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=5tilhR0C6DY
 source_type: video
-ingested: 2026-08-07
-published: 2026-08-07
+ingested: 2026-09-25
+published: 2026-09-25
 duration_minutes: 17
 language: en
 sha256: 6da26408817b80510ebbc250fc21d5168415fe1cd64f6f8c7330815903524c54

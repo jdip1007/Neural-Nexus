@@ -1,152 +1,59 @@
 {
   "nodes": [
     {
-      "id": "why_gifted_people_burn_out_the_fastest",
-      "title": "why_gifted_people_burn_out_the_fastest",
-      "file": "/home/hermes/Neural-Nexus/docs/why_gifted_people_burn_out_the_fastest.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "why-gifted-people-burn-out-the-fastest",
-      "title": "why-gifted-people-burn-out-the-fastest",
-      "file": "/home/hermes/Neural-Nexus/docs/why-gifted-people-burn-out-the-fastest.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
-      "title": "Why You're Tired, Stressed & Unfocused (and how to fix it)",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "title": "Content Creator Burnout and Mental Health",
-      "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
+      "id": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
+      "title": "\"How Interrogators Use Psychology To Get A Confession\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-example1-how-interrogators-use-psychology-to-get-a-confession.md",
       "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "mental-health"
+        "YouTube",
+        "HealthyGamerGG",
+        "Mental Health",
+        "Psychology"
       ],
       "type": "page"
     },
     {
-      "id": "the-worst-red-flags-ive-seen-as-a-therapist",
-      "title": "the-worst-red-flags-ive-seen-as-a-therapist",
-      "file": "/home/hermes/Neural-Nexus/docs/the-worst-red-flags-ive-seen-as-a-therapist.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-WEP5ubPMGDU-Living-with-Confidence-Going-All-In-Matthew-McCona",
-      "title": "Living with Confidence & Going All In - Matthew McConaughey",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-WEP5ubPMGDU-Living-with-Confidence-Going-All-In-Matthew-McCona.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "title": "The Rise and Fall of Logan Paul",
-      "file": "/home/hermes/Neural-Nexus/docs/p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul.md",
+      "id": "youtube-example3-what-divorce-does-to-a-child",
+      "title": "\"What Divorce Does To A Child\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-example3-what-divorce-does-to-a-child.md",
       "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "mental-health",
-        "marketing"
+        "YouTube",
+        "HealthyGamerGG",
+        "Mental Health",
+        "Psychology"
       ],
       "type": "page"
     },
     {
-      "id": "how_money_works_vT6qh72wCZk",
-      "title": "The (Overdue) Collapse Of Short Term Rentals",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_vT6qh72wCZk.md",
+      "id": "YouTube-Tutorials",
+      "title": "\"YouTube Tutorials\"",
+      "file": "/home/hermes/Neural-Nexus/docs/YouTube-Tutorials.md",
       "tags": [
         "youtube",
-        "how-money-works",
-        "finance",
-        "money",
-        "markets"
+        "tutorials",
+        "learning",
+        "technology",
+        "education"
       ],
-      "type": "page"
-    },
-    {
-      "id": "how-money-works-wtf-is-happening-to-the-video-game-industry",
-      "title": "how-money-works-wtf-is-happening-to-the-video-game-industry",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-is-happening-to-the-video-game-industry.md",
-      "tags": [],
       "type": "page"
     },
     {
       "id": "youtube-example8_andrew-tates-life-is-falling-apart",
       "title": "Andrew Tate's Life Is Falling Apart",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-example8_andrew-tates-life-is-falling-apart.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how_money_works_qmZmKZR8S5U",
-      "title": "How Long Can The Stock Market Ignore Reality?",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_qmZmKZR8S5U.md",
-      "tags": [
-        "youtube",
-        "how-money-works",
-        "finance"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-example9_the-most-evil-father-on-tiktok",
-      "title": "The Most Evil Father on TikTok",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example9_the-most-evil-father-on-tiktok.md",
       "tags": [
         "social_media"
       ],
       "type": "page"
     },
     {
-      "id": "youtube-dummy_real2_age-reversal-is-coming-everything-you-need-to-know-dr-david-sinclair",
-      "title": "\"Age Reversal Is Coming.\" Everything You Need To Know - Dr David Sinclair",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real2_age-reversal-is-coming-everything-you-need-to-know-dr-david-sinclair.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche",
-      "title": "\"Butaca con palets y asiento de coche\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-wbTXUk4chbo-butaca-con-palets-y-asiento-de-coche.md",
-      "tags": [
-        "automotive",
-        "hardware",
-        "daves-garage",
-        "youtube",
-        "tutorial",
-        "automotive"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "why-normal-life-feels-so-boring",
-      "title": "why-normal-life-feels-so-boring",
-      "file": "/home/hermes/Neural-Nexus/docs/why-normal-life-feels-so-boring.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it.md",
+      "id": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "title": "\"CANBUS \u2013 Networking so simple, even YOU can understand it!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
       "tags": [
         "networking",
         "hardware",
+        "automotive",
         "daves-garage",
         "youtube",
         "tutorial"
@@ -154,241 +61,42 @@
       "type": "page"
     },
     {
-      "id": "why-you-need-constant-reassurance",
-      "title": "why-you-need-constant-reassurance",
-      "file": "/home/hermes/Neural-Nexus/docs/why-you-need-constant-reassurance.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "title": "The Evolution of YouTube Gaming",
-      "file": "/home/hermes/Neural-Nexus/docs/t0_u1v2w3x_The_Evolution_of_YouTube_Gaming.md",
+      "id": "Daves-Garage",
+      "title": "\"Dave's Garage\"",
+      "file": "/home/hermes/Neural-Nexus/docs/Daves-Garage.md",
       "tags": [
+        "daves-garage",
         "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "business-strategy",
-        "gaming"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "why-40-of-young-men-need-erectile-retraining",
-      "title": "why-40-of-young-men-need-erectile-retraining",
-      "file": "/home/hermes/Neural-Nexus/docs/why-40-of-young-men-need-erectile-retraining.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how-money-works-dude-im-broke-why-is-my-data-worth-harvesting",
-      "title": "how-money-works-dude-im-broke-why-is-my-data-worth-harvesting",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-dude-im-broke-why-is-my-data-worth-harvesting.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "Finance",
-      "title": "Finance",
-      "file": "/home/hermes/Neural-Nexus/docs/Finance.md",
-      "tags": [
-        "finance",
-        "business",
-        "economics",
-        "money",
-        "investing"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "how_money_works_uK3OBAxCi6k",
-      "title": "Your Job Achieves Nothing... (probably)",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_uK3OBAxCi6k.md",
-      "tags": [
-        "youtube",
-        "how-money-works",
-        "finance",
-        "money",
-        "investing",
-        "markets"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
-      "title": "The Algorithm: How YouTube Recommends Content",
-      "file": "/home/hermes/Neural-Nexus/docs/v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "youtube-algorithm",
-        "internet-culture",
-        "mental-health",
-        "business-strategy"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
-      "title": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
-      "file": "/home/hermes/Neural-Nexus/docs/i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "why_you_always_feel_uneasy_(transcendental_existential_dread)",
-      "title": "why_you_always_feel_uneasy_(transcendental_existential_dread)",
-      "file": "/home/hermes/Neural-Nexus/docs/why_you_always_feel_uneasy_(transcendental_existential_dread).md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-dummy_real5_81-of-women-said-yes-only-58-of-men-did",
-      "title": "\"81% Of Women Said Yes. Only 58% Of Men Did.\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real5_81-of-women-said-yes-only-58-of-men-did.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "title": "The Evolution of YouTube Gaming",
-      "file": "/home/hermes/Neural-Nexus/docs/fresh006_2026_The_Evolution_of_YouTube_Gaming.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "business-strategy",
-        "gaming"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "we-need-to-talk-about-ozempic",
-      "title": "we-need-to-talk-about-ozempic",
-      "file": "/home/hermes/Neural-Nexus/docs/we-need-to-talk-about-ozempic.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how-money-works-wtf-does-peter-thiel-actually-want",
-      "title": "how-money-works-wtf-does-peter-thiel-actually-want",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-does-peter-thiel-actually-want.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
-      "title": "\"The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md",
-      "tags": [
-        "hardware",
+        "channel",
         "technology",
         "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "analyzing_the_lindsay_clancy_case",
-      "title": "analyzing_the_lindsay_clancy_case",
-      "file": "/home/hermes/Neural-Nexus/docs/analyzing_the_lindsay_clancy_case.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how_money_works_Sx-lddna-qg",
-      "title": "WTF Is Happening To The Video Game Industry?",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_Sx-lddna-qg.md",
-      "tags": [
-        "youtube",
-        "how-money-works",
-        "finance"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-VaoGl-soL1g-Raccoon-Wars-Lindsay-Clancy-NFL-Scammers-More",
-      "title": "Raccoon Wars, Lindsay Clancy, NFL Scammers & More",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-VaoGl-soL1g-Raccoon-Wars-Lindsay-Clancy-NFL-Scammers-More.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "what-happens-when-you-lose-just-one-packet",
-      "title": "What Happens When You Lose Just One Packet?",
-      "file": "/home/hermes/Neural-Nexus/docs/what-happens-when-you-lose-just-one-packet.md",
-      "tags": [
-        "networking",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "title": "\"Hidden Code: How Slot Machines Actually Work - The Computer Inside\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
-      "tags": [
         "programming",
-        "technology",
-        "gaming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
+        "hardware"
       ],
       "type": "page"
     },
     {
-      "id": "What-Breakups-ACTUALLY-Do-To-Men",
-      "title": "What-Breakups-ACTUALLY-Do-To-Men",
-      "file": "/home/hermes/Neural-Nexus/docs/What-Breakups-ACTUALLY-Do-To-Men.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread",
-      "title": "Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread",
-      "file": "/home/hermes/Neural-Nexus/docs/Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how_money_works__W3qPymBEBA",
-      "title": "WTF Does Peter Thiel Actually Want?",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works__W3qPymBEBA.md",
+      "id": "youtube-how-money-works-monopoly001",
+      "title": "\"Monopolies and How Money Works\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-monopoly001.md",
       "tags": [
-        "youtube",
-        "how-money-works",
-        "finance"
+        "finance",
+        "economics",
+        "education",
+        "money"
       ],
       "type": "page"
     },
     {
-      "id": "youtube-dummy_real6_jocko-willink-matt-mccusker-jeff-dye-mostly-wise-3",
-      "title": "\"Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real6_jocko-willink-matt-mccusker-jeff-dye-mostly-wise-3.md",
+      "id": "youtube-how-money-works-podcast003",
+      "title": "\"The Friday podcast, Episode 1: Breaking down money in real life and in video games, with Vikking\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-podcast003.md",
       "tags": [
-        ""
+        "finance",
+        "economics",
+        "education",
+        "money"
       ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-example7_airrack-never-stopped-faking-videos",
-      "title": "Airrack Never Stopped Faking Videos",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example7_airrack-never-stopped-faking-videos.md",
-      "tags": [],
       "type": "page"
     },
     {
@@ -404,130 +112,80 @@
       "type": "page"
     },
     {
-      "id": "youtube-uzg-tGiK_y8_the-never-ending-downfall-of-ksi",
-      "title": "The Never-Ending Downfall of KSI",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-uzg-tGiK_y8_the-never-ending-downfall-of-ksi.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "what-breakups-actually-do-to-men",
-      "title": "what-breakups-actually-do-to-men",
-      "file": "/home/hermes/Neural-Nexus/docs/what-breakups-actually-do-to-men.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-dummy_real4_why-violence-is-safer-than-vulnerability-johnny-chang",
-      "title": "\"Why Violence Is Safer Than Vulnerability - Johnny Chang\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real4_why-violence-is-safer-than-vulnerability-johnny-chang.md",
+      "id": "youtube-how-money-works-react004",
+      "title": "\"Financial YouTuber \"Influencer\" reacts to: How Money Works The Growing Problem With Personal Finance\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-react004.md",
       "tags": [
-        ""
-      ],
-      "type": "page"
-    },
-    {
-      "id": "why-you-cant-just-rewire-your-brain",
-      "title": "why-you-cant-just-rewire-your-brain",
-      "file": "/home/hermes/Neural-Nexus/docs/why-you-cant-just-rewire-your-brain.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-example6_the-13-seconds-that-exposed-hank-green",
-      "title": "The 13 Seconds That Exposed Hank Green",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example6_the-13-seconds-that-exposed-hank-green.md",
-      "tags": [
-        "social_media"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "analyzing-the-lindsay-clancy-case",
-      "title": "analyzing-the-lindsay-clancy-case",
-      "file": "/home/hermes/Neural-Nexus/docs/analyzing-the-lindsay-clancy-case.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how-money-works-the-stay-at-home-boyfriend-epidemic-women-now-outnumber-men-in-the-workforce",
-      "title": "how-money-works-the-stay-at-home-boyfriend-epidemic-women-now-outnumber-men-in-the-workforce",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-the-stay-at-home-boyfriend-epidemic-women-now-outnumber-men-in-the-workforce.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how_money_works_1zjcZ661ups",
-      "title": "If Nobody Can Afford A Home... Who's Going To Buy Them?",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_1zjcZ661ups.md",
-      "tags": [
-        "youtube",
-        "how-money-works",
         "finance",
-        "money",
-        "investing",
-        "markets"
+        "economics",
+        "education",
+        "money"
       ],
       "type": "page"
     },
     {
-      "id": "how_money_works_xEL3hn55gh8",
-      "title": "Why A National Debt Default Now Looks Genuinely Possible... (sort of)",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_xEL3hn55gh8.md",
+      "id": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "title": "\"The Challenge: Can we build Notepad in 3K in assembly language?\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language.md",
       "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
         "youtube",
-        "how-money-works",
-        "finance",
-        "money",
-        "investing",
-        "economics"
+        "tutorial"
       ],
       "type": "page"
     },
     {
-      "id": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
-      "title": "The Algorithm: How YouTube Recommends Content",
-      "file": "/home/hermes/Neural-Nexus/docs/fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
+      "id": "youtube-example5-the-secret-to-fixing-your-adulthood",
+      "title": "\"The Secret to Fixing Your Adulthood\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-example5-the-secret-to-fixing-your-adulthood.md",
       "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "youtube-algorithm",
-        "internet-culture",
-        "mental-health",
-        "business-strategy"
+        "YouTube",
+        "HealthyGamerGG",
+        "Mental Health",
+        "Psychology"
       ],
       "type": "page"
     },
     {
-      "id": "fresh005_2026_PewDiePie's_Journey",
-      "title": "PewDiePie's Journey",
-      "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
+      "id": "Networking",
+      "title": "\"Networking\"",
+      "file": "/home/hermes/Neural-Nexus/docs/Networking.md",
       "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "gaming"
+        "networking",
+        "protocols",
+        "ethernet",
+        "canbus",
+        "tcp",
+        "udp"
       ],
       "type": "page"
     },
     {
-      "id": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "title": "MrBeast: Behind the Scenes",
-      "file": "/home/hermes/Neural-Nexus/docs/q8_r9s0t1u_MrBeast_Behind_the_Scenes.md",
+      "id": "Automotive",
+      "title": "\"Automotive\"",
+      "file": "/home/hermes/Neural-Nexus/docs/Automotive.md",
       "tags": [
+        "automotive",
+        "vehicles",
+        "cars",
+        "electric",
+        "modifications"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "title": "\"The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
         "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "business-strategy",
-        "marketing"
+        "tutorial"
       ],
       "type": "page"
     },
@@ -541,138 +199,15 @@
       "type": "page"
     },
     {
-      "id": "how_money_works_4hiVQf9MPzg",
-      "title": "Here's Why You Want A Really Boring Job",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_4hiVQf9MPzg.md",
-      "tags": [
-        "youtube",
-        "how-money-works",
-        "finance",
-        "investing",
-        "money"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
-      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
-      "file": "/home/hermes/Neural-Nexus/docs/the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "title": "Ethernet Explained so well that even YOU can Understand it!",
-      "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "Economy",
-      "title": "Economy",
-      "file": "/home/hermes/Neural-Nexus/docs/Economy.md",
-      "tags": [
-        "economics",
-        "finance",
-        "business",
-        "market",
-        "society"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "how_money_works_bVM76YxNPjQ",
-      "title": "How The Wolf of Wall Street Scam Actually Worked",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_bVM76YxNPjQ.md",
-      "tags": [
-        "youtube",
-        "how-money-works",
-        "finance",
-        "money",
-        "investing",
-        "markets"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "why-you-should-never-confess-your-love",
-      "title": "why-you-should-never-confess-your-love",
-      "file": "/home/hermes/Neural-Nexus/docs/why-you-should-never-confess-your-love.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "title": "\"Reliable Isn't Always Better: TCP vs UDP\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
-      "tags": [
-        "networking",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-example4_the-deserved-downfall-of-dr-phil",
-      "title": "The Deserved Downfall of Dr Phil",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example4_the-deserved-downfall-of-dr-phil.md",
-      "tags": [
-        "social_media"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "how_money_works_THodtjsCTSI",
-      "title": "Is America Chasing Away All Of Its Smart People?",
-      "file": "/home/hermes/Neural-Nexus/docs/how_money_works_THodtjsCTSI.md",
-      "tags": [
-        "youtube",
-        "how-money-works",
-        "finance",
-        "investing",
-        "economics",
-        "business",
-        "market"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-VCJFzVtvhBQ-Couples-Therapist-Why-Your-Brain-Turns-Your-Partne",
-      "title": "'Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy'",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-VCJFzVtvhBQ-Couples-Therapist-Why-Your-Brain-Turns-Your-Partne.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "why_you_should_never_confess_your_love",
-      "title": "why_you_should_never_confess_your_love",
-      "file": "/home/hermes/Neural-Nexus/docs/why_you_should_never_confess_your_love.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
-      "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "id": "Programming",
+      "title": "\"Programming\"",
+      "file": "/home/hermes/Neural-Nexus/docs/Programming.md",
       "tags": [
         "programming",
-        "technology",
-        "daves-garage",
-        "youtube",
-        "tutorial"
+        "software",
+        "development",
+        "algorithms",
+        "optimization"
       ],
       "type": "page"
     },
@@ -681,117 +216,33 @@
       "title": "Jonah Hill's Life Is Falling Apart",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart.md",
       "tags": [
-        ""
+        "social_media"
       ],
       "type": "page"
     },
     {
-      "id": "youtube-V33WDRS1-Bw-gran-cherokee-52-v8-consumo",
-      "title": "\"Gran Cherokee 5.2 V8 Consumo\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-V33WDRS1-Bw-gran-cherokee-52-v8-consumo.md",
+      "id": "Hardware",
+      "title": "\"Hardware\"",
+      "file": "/home/hermes/Neural-Nexus/docs/Hardware.md",
       "tags": [
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial",
-        "automotive"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "canbus-networking-so-simple-even-you-can-understand-it",
-      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
-      "file": "/home/hermes/Neural-Nexus/docs/canbus-networking-so-simple-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
         "hardware",
+        "electronics",
+        "circuits",
+        "embedded",
+        "components"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "Technology",
+      "title": "\"Technology\"",
+      "file": "/home/hermes/Neural-Nexus/docs/Technology.md",
+      "tags": [
         "technology",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "how-to-actually-have-an-elite-mindset",
-      "title": "how-to-actually-have-an-elite-mindset",
-      "file": "/home/hermes/Neural-Nexus/docs/how-to-actually-have-an-elite-mindset.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
-      "title": "\"Microsoft's Secret 90s Weapon That Made Windows Fast\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
-      "tags": [
-        "programming",
-        "technology",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-8zUhBnpVgdE_storage-wars-is-worse-than-you-thought",
-      "title": "Storage Wars Is Worse Than You Thought",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-8zUhBnpVgdE_storage-wars-is-worse-than-you-thought.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "why-you-always-feel-uneasy-transcendental-existential-dread",
-      "title": "why-you-always-feel-uneasy-transcendental-existential-dread",
-      "file": "/home/hermes/Neural-Nexus/docs/why-you-always-feel-uneasy-transcendental-existential-dread.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-bG2sW8xY3oP_the-worst-red-flags-ive-seen-as-a-therapist",
-      "title": "The Worst Red Flags I've Seen As A Therapist",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-bG2sW8xY3oP_the-worst-red-flags-ive-seen-as-a-therapist.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "title": "Viral Marketing Strategies That Work",
-      "file": "/home/hermes/Neural-Nexus/docs/w3x4y5z6a_Viral_Marketing_Strategies_That_Work.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "marketing"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "title": "JiDion's Past Is Catching Up To Him",
-      "file": "/home/hermes/Neural-Nexus/docs/fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "marketing"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "Investing",
-      "title": "Investing",
-      "file": "/home/hermes/Neural-Nexus/docs/Investing.md",
-      "tags": [
-        "investing",
-        "finance",
-        "business",
-        "market",
-        "portfolio"
+        "innovation",
+        "digital",
+        "computing",
+        "engineering"
       ],
       "type": "page"
     },
@@ -799,15 +250,6 @@
       "id": "youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily",
       "title": "Why Sensitive People Get Traumatized So Easily",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily.md",
-      "tags": [
-        ""
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-example3_the-deserved-downfall-of-tom-segura",
-      "title": "The Deserved Downfall of Tom Segura",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example3_the-deserved-downfall-of-tom-segura.md",
       "tags": [
         "social_media"
       ],
@@ -828,785 +270,373 @@
       "type": "page"
     },
     {
-      "id": "youtube-EDpbOL_yUxo-reemplazo-sensor-\u00e1ngulo-direcci\u00f3n-audi-a6-b6",
-      "title": "\"Reemplazo sensor \u00e1ngulo direcci\u00f3n Audi A6 (B6)\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-EDpbOL_yUxo-reemplazo-sensor-\u00e1ngulo-direcci\u00f3n-audi-a6-b6.md",
-      "tags": [
-        "automotive",
-        "hardware",
-        "tutorial",
-        "daves-garage",
-        "youtube",
-        "tutorial",
-        "automotive"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-BKi_mDawOPg-solucionar-fallo-en-mando-de-luces-de-moto",
-      "title": "\"Solucionar fallo en mando de luces de moto\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-BKi_mDawOPg-solucionar-fallo-en-mando-de-luces-de-moto.md",
-      "tags": [
-        "automotive",
-        "hardware",
-        "tutorial",
-        "daves-garage",
-        "youtube",
-        "tutorial",
-        "automotive"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-w-AzgOc8rE8-brico-asiento-saab-93-12",
-      "title": "\"Brico Asiento Saab 93 1/2\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-w-AzgOc8rE8-brico-asiento-saab-93-12.md",
-      "tags": [
-        "automotive",
-        "hardware",
-        "tutorial",
-        "daves-garage",
-        "youtube",
-        "tutorial",
-        "automotive"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-KyfUysrNaco-44-Harsh-Truths-About-The-Game-Of-Life-Naval-Ravik",
-      "title": "44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-KyfUysrNaco-44-Harsh-Truths-About-The-Game-Of-Life-Naval-Ravik.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
       "id": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
       "title": "The Never-Ending Downfall of KSI",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi.md",
       "tags": [
-        ""
+        "social_media"
       ],
       "type": "page"
     },
     {
-      "id": "youtube-example5_the-deserved-downfall-of-yo-mama",
-      "title": "The Deserved Downfall of Yo Mama",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example5_the-deserved-downfall-of-yo-mama.md",
+      "id": "youtube-how-money-works-work002",
+      "title": "\"People No Longer Want To Work.\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-work002.md",
       "tags": [
-        ""
-      ],
-      "type": "page"
-    },
-    {
-      "id": "Analyzing-The-Lindsay-Clancy-Case",
-      "title": "Analyzing-The-Lindsay-Clancy-Case",
-      "file": "/home/hermes/Neural-Nexus/docs/Analyzing-The-Lindsay-Clancy-Case.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how-money-works-so-is-private-equity-collapsing-yet",
-      "title": "how-money-works-so-is-private-equity-collapsing-yet",
-      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-so-is-private-equity-collapsing-yet.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "Why-Sensitive-People-Get-Traumatized-So-Easily",
-      "title": "Why-Sensitive-People-Get-Traumatized-So-Easily",
-      "file": "/home/hermes/Neural-Nexus/docs/Why-Sensitive-People-Get-Traumatized-So-Easily.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "the_lie_of_\"positive_thinking\"",
-      "title": "the_lie_of_\"positive_thinking\"",
-      "file": "/home/hermes/Neural-Nexus/docs/the_lie_of_\"positive_thinking\".md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "why-sensitive-people-get-traumatized-so-easily",
-      "title": "why-sensitive-people-get-traumatized-so-easily",
-      "file": "/home/hermes/Neural-Nexus/docs/why-sensitive-people-get-traumatized-so-easily.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-example2_jonah-hills-life-is-falling-apart",
-      "title": "Jonah Hill's Life Is Falling Apart",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example2_jonah-hills-life-is-falling-apart.md",
-      "tags": [
-        ""
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-dummy_real1_we-studied-the-sexual-preferences-of-high-income-women",
-      "title": "\"We Studied The Sexual Preferences Of High Income Women\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-dummy_real1_we-studied-the-sexual-preferences-of-high-income-women.md",
-      "tags": [
-        ""
-      ],
-      "type": "page"
-    },
-    {
-      "id": "Why-You-Need-Constant-Reassurance",
-      "title": "Why-You-Need-Constant-Reassurance",
-      "file": "/home/hermes/Neural-Nexus/docs/Why-You-Need-Constant-Reassurance.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "how-to-actually-break-an-addiction",
-      "title": "how-to-actually-break-an-addiction",
-      "file": "/home/hermes/Neural-Nexus/docs/how-to-actually-break-an-addiction.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "Business",
-      "title": "Business",
-      "file": "/home/hermes/Neural-Nexus/docs/Business.md",
-      "tags": [
-        "business",
         "finance",
         "economics",
-        "market"
+        "education",
+        "money"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-example7-why-you-can-not-just-rewire-your-brain",
+      "title": "\"Why You Can Not Just Rewire Your Brain\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-example7-why-you-can-not-just-rewire-your-brain.md",
+      "tags": [
+        "YouTube",
+        "HealthyGamerGG",
+        "Mental Health",
+        "Psychology"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-how-money-works-toefl005",
+      "title": "\"How I Accidentally Got a 110 on the TOEFL (You can too)\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-toefl005.md",
+      "tags": [
+        "finance",
+        "economics",
+        "education",
+        "money"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-example6-why-normal-life-feels-so-boring",
+      "title": "\"Why Normal Life Feels So Boring\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-example6-why-normal-life-feels-so-boring.md",
+      "tags": [
+        "YouTube",
+        "HealthyGamerGG",
+        "Mental Health",
+        "Psychology"
       ],
       "type": "page"
     }
   ],
   "edges": [
     {
-      "source": "why_gifted_people_burn_out_the_fastest",
-      "target": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "source": "youtube-example3-what-divorce-does-to-a-child",
+      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
       "type": "wikilink"
     },
     {
-      "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
+      "source": "YouTube-Tutorials",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "source": "YouTube-Tutorials",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "Business",
+      "source": "YouTube-Tutorials",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
-      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "source": "YouTube-Tutorials",
+      "target": "Automotive",
       "type": "wikilink"
     },
     {
-      "source": "p7_q8r9s0t_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
+      "source": "youtube-example8_andrew-tates-life-is-falling-apart",
+      "target": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_vT6qh72wCZk",
-      "target": "Finance",
+      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_vT6qh72wCZk",
-      "target": "Investing",
+      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "Automotive",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_vT6qh72wCZk",
-      "target": "Economy",
+      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "Daves-Garage",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_vT6qh72wCZk",
-      "target": "Finance",
+      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "YouTube-Tutorials",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_vT6qh72wCZk",
-      "target": "Investing",
+      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_vT6qh72wCZk",
-      "target": "Economy",
+      "source": "Daves-Garage",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_vT6qh72wCZk",
-      "target": "Business",
+      "source": "Daves-Garage",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_qmZmKZR8S5U",
-      "target": "Finance",
+      "source": "Daves-Garage",
+      "target": "Automotive",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_qmZmKZR8S5U",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_qmZmKZR8S5U",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_qmZmKZR8S5U",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
-      "type": "wikilink"
-    },
-    {
-      "source": "Finance",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "Finance",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "Finance",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "Finance",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_uK3OBAxCi6k",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_uK3OBAxCi6k",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_uK3OBAxCi6k",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_uK3OBAxCi6k",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_uK3OBAxCi6k",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_uK3OBAxCi6k",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_uK3OBAxCi6k",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "v2_w3x4y5z_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
-      "type": "wikilink"
-    },
-    {
-      "source": "why_you_always_feel_uneasy_(transcendental_existential_dread)",
-      "target": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "analyzing_the_lindsay_clancy_case",
-      "target": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_Sx-lddna-qg",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_Sx-lddna-qg",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_Sx-lddna-qg",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_Sx-lddna-qg",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "what-happens-when-you-lose-just-one-packet",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "what-happens-when-you-lose-just-one-packet",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works__W3qPymBEBA",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works__W3qPymBEBA",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works__W3qPymBEBA",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works__W3qPymBEBA",
-      "target": "Business",
+      "source": "Daves-Garage",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
       "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_1zjcZ661ups",
-      "target": "Finance",
+      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "target": "Daves-Garage",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_1zjcZ661ups",
-      "target": "Investing",
+      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "target": "YouTube-Tutorials",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_1zjcZ661ups",
-      "target": "Economy",
+      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_1zjcZ661ups",
-      "target": "Finance",
+      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_1zjcZ661ups",
-      "target": "Investing",
+      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_1zjcZ661ups",
-      "target": "Economy",
+      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "Technology",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_1zjcZ661ups",
-      "target": "Business",
+      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "Daves-Garage",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_xEL3hn55gh8",
-      "target": "Finance",
+      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "YouTube-Tutorials",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_xEL3hn55gh8",
-      "target": "Investing",
+      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_xEL3hn55gh8",
-      "target": "Economy",
+      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_xEL3hn55gh8",
-      "target": "Finance",
+      "source": "youtube-example5-the-secret-to-fixing-your-adulthood",
+      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_xEL3hn55gh8",
-      "target": "Investing",
+      "source": "Networking",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_xEL3hn55gh8",
-      "target": "Economy",
+      "source": "Networking",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_xEL3hn55gh8",
-      "target": "Business",
+      "source": "Automotive",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
-      "source": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "Business",
+      "source": "Automotive",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
+      "source": "Automotive",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "t0_u1v2w3x_The_Evolution_of_YouTube_Gaming",
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "Technology",
       "type": "wikilink"
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "Automotive",
       "type": "wikilink"
     },
     {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "Daves-Garage",
       "type": "wikilink"
     },
     {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "Business",
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "YouTube-Tutorials",
       "type": "wikilink"
     },
     {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "Business",
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "q8_r9s0t1u_MrBeast_Behind_the_Scenes",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
+      "source": "youtube-2MwTDoT8q_A_why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_4hiVQf9MPzg",
-      "target": "Finance",
+      "source": "Programming",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_4hiVQf9MPzg",
-      "target": "Investing",
+      "source": "Programming",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_4hiVQf9MPzg",
-      "target": "how_money_works_vT6qh72wCZk",
+      "source": "youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart",
+      "target": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_4hiVQf9MPzg",
-      "target": "Finance",
+      "source": "Hardware",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_4hiVQf9MPzg",
-      "target": "Investing",
+      "source": "Hardware",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_4hiVQf9MPzg",
-      "target": "Economy",
+      "source": "Hardware",
+      "target": "Automotive",
       "type": "wikilink"
     },
     {
-      "source": "how_money_works_4hiVQf9MPzg",
-      "target": "Business",
+      "source": "Technology",
+      "target": "Programming",
       "type": "wikilink"
     },
     {
-      "source": "the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "source": "Technology",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "source": "Technology",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "source": "Technology",
+      "target": "Automotive",
       "type": "wikilink"
     },
     {
-      "source": "Economy",
-      "target": "Finance",
+      "source": "youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily",
+      "target": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
       "type": "wikilink"
     },
     {
-      "source": "Economy",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "Economy",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "Economy",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_bVM76YxNPjQ",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_bVM76YxNPjQ",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_bVM76YxNPjQ",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_bVM76YxNPjQ",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_bVM76YxNPjQ",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_bVM76YxNPjQ",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_bVM76YxNPjQ",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_THodtjsCTSI",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_THodtjsCTSI",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_THodtjsCTSI",
-      "target": "Investing",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_THodtjsCTSI",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "how_money_works_THodtjsCTSI",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "why_you_should_never_confess_your_love",
-      "target": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "type": "wikilink"
-    },
-    {
-      "source": "why_you_should_never_confess_your_love",
-      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
-      "type": "wikilink"
-    },
-    {
-      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "youtube-y_woFP79F0Q-Why-Youre-Tired-Stressed-Unfocused-and-how-to-fix-",
-      "type": "wikilink"
-    },
-    {
-      "source": "Investing",
-      "target": "Finance",
-      "type": "wikilink"
-    },
-    {
-      "source": "Investing",
-      "target": "Economy",
-      "type": "wikilink"
-    },
-    {
-      "source": "Investing",
-      "target": "Business",
-      "type": "wikilink"
-    },
-    {
-      "source": "Investing",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "source": "youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily",
+      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
       "type": "wikilink"
     },
     {
       "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "Hardware",
       "type": "wikilink"
     },
     {
-      "source": "the_lie_of_\"positive_thinking\"",
-      "target": "how-to-actually-have-an-elite-mindset",
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "Technology",
       "type": "wikilink"
     },
     {
-      "source": "the_lie_of_\"positive_thinking\"",
-      "target": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "Automotive",
       "type": "wikilink"
     },
     {
-      "source": "Business",
-      "target": "Finance",
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "Daves-Garage",
       "type": "wikilink"
     },
     {
-      "source": "Business",
-      "target": "Investing",
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "YouTube-Tutorials",
       "type": "wikilink"
     },
     {
-      "source": "Business",
-      "target": "Economy",
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
-      "source": "Business",
-      "target": "w3x4y5z6a_Viral_Marketing_Strategies_That_Work",
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "Programming",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-example7-why-you-can-not-just-rewire-your-brain",
+      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-example6-why-normal-life-feels-so-boring",
+      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
       "type": "wikilink"
     }
   ],
   "metadata": {
-    "generated": "2026-09-21T04:29:28.734832",
-    "total_nodes": 96,
-    "total_edges": 125
+    "generated": "2026-09-25T01:39:14.835482",
+    "total_nodes": 27,
+    "total_edges": 61
   }
 }

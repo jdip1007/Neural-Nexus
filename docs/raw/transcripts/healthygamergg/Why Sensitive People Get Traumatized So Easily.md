@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=_4x0fRO6w5M
-ingested: 2026-09-03
+ingested: 2026-09-25
 video_id: _4x0fRO6w5M
 title: Why Sensitive People Get Traumatized So Easily
 series: 

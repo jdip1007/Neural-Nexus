@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=OafdDpFjOIg
-ingested: 2026-09-03
+ingested: 2026-09-25
 video_id: OafdDpFjOIg
 title: Can Men & Women Be Friends?
 series: 

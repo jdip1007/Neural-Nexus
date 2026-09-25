@@ -1,6 +1,6 @@
 ---
 source_url: https://www.youtube.com/watch?v=6kD5RbQCjFg
-ingested: 2026-09-03
+ingested: 2026-09-25
 video_id: 6kD5RbQCjFg
 title: What Everyone Gets Wrong About ADHD
 series: 

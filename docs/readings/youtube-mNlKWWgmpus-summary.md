@@ -1,17 +1,17 @@
 ---
 title: Why You Wouldn't Survive 1 Day in CECOT... World's Largest Mega Prison in El Salvador - Summary
-created: 2026-08-08
-updated: 2026-08-08
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
-tags: [video-summary]
+tags: [youtube, video-summary, transcript, mNlKWWgmpus]
 sources: [raw/videos/youtube-mNlKWWgmpus-transcript.md]
-published: 2026-08-08
+published: 2026-09-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-08
+reviewed: 2026-09-25
 ---
 
 # Why You Wouldn't Survive 1 Day in CECOT... World's Largest Mega Prison in El Salvador - Summary
@@ -34,11 +34,11 @@ answer: Why does El Salvador need such a massive prison
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: President Nayib, Central America, Things Nobody
+- **Persons**: Nayib Bukele, The Salvadoran, Silivri Penitentiaries
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > Silivri Penitentiaries Campus in 
@@ -52,13 +52,3 @@ answer: Why does El Salvador need
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-YQQMF8ibxVw-when-you]]
-- [[youtube-ahDC1sQCDzY-in-the]]
-- [[youtube-ecBEqWeipWs-the-world]]
-- [[youtube-mNlKWWgmpus-central-america]]
-- [[youtube-mNlKWWgmpus-president-nayib]]
-- [[youtube-mNlKWWgmpus-things-nobody]]

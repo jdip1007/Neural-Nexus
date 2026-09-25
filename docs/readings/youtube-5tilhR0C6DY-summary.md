@@ -1,17 +1,17 @@
 ---
 title: What Caused the Roman Empire to Collapse - Summary
-created: 2026-08-07
-updated: 2026-08-07
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
-tags: [video-summary]
+tags: [youtube, video-summary, transcript, 5tilhR0C6DY]
 sources: [raw/videos/youtube-5tilhR0C6DY-transcript.md]
-published: 2026-08-07
+published: 2026-09-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-07
+reviewed: 2026-09-25
 ---
 
 # What Caused the Roman Empire to Collapse - Summary
@@ -43,10 +43,10 @@ was a capable leader - leaving their ministers to essentially take charge of the
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Julius Caesar, The Emperor, The Romans
+- **Persons**: Went Extinct, But Aurelian, Queen Zenobia
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > for one leader to maintain full control over every 
@@ -60,11 +60,3 @@ would have likely focused on maintaining the
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-5tilhR0C6DY-julius-caesar]]
-- [[youtube-5tilhR0C6DY-the-emperor]]
-- [[youtube-5tilhR0C6DY-the-romans]]
-- [[youtube-ahDC1sQCDzY-in-the]]

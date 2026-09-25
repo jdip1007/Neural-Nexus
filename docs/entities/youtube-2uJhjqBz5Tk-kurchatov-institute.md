@@ -1,15 +1,15 @@
 ---
 title: Kurchatov Institute
-created: 2026-08-20
-updated: 2026-08-20
+created: 2026-09-25
+updated: 2026-09-25
 type: entity
 domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "organizations"]
+tags: [youtube, video-derived, organizations, 2uJhjqBz5Tk]
 sources: [raw/videos/youtube-2uJhjqBz5Tk-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-08-20
+reviewed: 2026-09-25
 ---
 
 # Kurchatov Institute
@@ -21,15 +21,7 @@ Kurchatov Institute is mentioned in the YouTube video "Chernobyl Nuclear Explosi
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-2uJhjqBz5Tk-summary.md)
+- [[youtube-2uJhjqBz5Tk-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-2uJhjqBz5Tk-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-ahDC1sQCDzY-in-the]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
-- [[youtube-heaa4ltxz-4-hand-foundation]]

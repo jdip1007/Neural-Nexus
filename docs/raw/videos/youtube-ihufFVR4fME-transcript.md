@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=ihufFVR4fME
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
+ingested: 2026-09-25
+published: 2026-09-25
 duration_minutes: 26
 language: en
 sha256: d9c0eff6f397374f255210076092dd3c929ed4f119df3437f62a54debe730569

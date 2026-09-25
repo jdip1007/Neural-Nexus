@@ -1,17 +1,17 @@
 ---
 title: Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation) - Summary
-created: 2026-09-16
-updated: 2026-09-16
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, jUJ0MQFNTko]
 sources: [raw/videos/youtube-jUJ0MQFNTko-transcript.md]
-published: 2026-09-16
+published: 2026-09-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-16
+reviewed: 2026-09-25
 ---
 
 # Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation) - Summary
@@ -31,14 +31,14 @@ This video discusses Insane Ways People Are Preparing for Doomsday And More Insa
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Hot Fuzz, Costly Apparel, The Iran
+- **Persons**: William James, Russian Embassy, Westboro Baptist
 - **Organizations**: Odeco Inc, Extension Foundation
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
 - [[cloud]]
 - [[container]]
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > maintain a vault that could contain

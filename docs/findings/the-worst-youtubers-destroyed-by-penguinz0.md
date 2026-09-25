@@ -1,22 +1,17 @@
 ---
 title: The Worst YouTubers Destroyed By Penguinz0
-created: 2026-09-03
-updated: 2026-09-03
+created: 2026-09-25
+updated: 2026-09-25
 type: finding
-tags:
-- youtube-documentary
-- content-creator
-- investigation
-sources:
-- raw/transcripts/internet-anarchist/VhWeh-HtCxY.md
-domain: finance
+tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
+sources: [raw/transcripts/internet-anarchist/VhWeh-HtCxY.md]
 ---
 
 # The Worst YouTubers Destroyed By Penguinz0
 
 ## Overview
 
-title: The Worst YouTubers Destroyed By Penguinz0 video_id: VhWeh-HtCxY source: https://www.youtube.com/watch?v=VhWeh-HtCxY...
+**Video ID:** VhWeh-HtCxY **Source:** https://www.youtube.com/watch?v=VhWeh-HtCxY **Channel:** @InternetAnarchist...
 
 ## Video Details
 
@@ -26,11 +21,11 @@ title: The Worst YouTubers Destroyed By Penguinz0 video_id: VhWeh-HtCxY source: 
 
 ## Transcript Summary
 
-- tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
+Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet-anarchist/VhWeh-HtCxY.md for the complete transcript.
+See [[raw/transcripts/internet-anarchist/VhWeh-HtCxY.md]] for the complete transcript.
 
 ## Related Topics
 

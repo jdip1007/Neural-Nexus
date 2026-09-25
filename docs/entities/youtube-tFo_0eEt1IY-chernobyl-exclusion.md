@@ -1,15 +1,15 @@
 ---
 title: Chernobyl Exclusion
-created: 2026-08-20
-updated: 2026-08-20
+created: 2026-09-25
+updated: 2026-09-25
 type: entity
 domain: ai
 classification: person.researcher
-tags: ["youtube", "video-derived", "entity"]
+tags: [youtube, video-derived, persons, tFo_0eEt1IY]
 sources: [raw/videos/youtube-tFo_0eEt1IY-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-08-20
+reviewed: 2026-09-25
 ---
 
 # Chernobyl Exclusion
@@ -21,15 +21,7 @@ Chernobyl Exclusion is mentioned in the YouTube video "What Caused the Catastrop
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-tFo_0eEt1IY-summary.md)
+- [[youtube-tFo_0eEt1IY-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-tFo_0eEt1IY-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- [[youtube-ahDC1sQCDzY-in-the]]
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

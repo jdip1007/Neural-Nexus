@@ -1,17 +1,17 @@
 ---
 title: Most Insane The Infographics Show Videos of All Time (Compilation) - Summary
-created: 2026-08-13
-updated: 2026-08-13
+created: 2026-09-25
+updated: 2026-09-25
 type: reading
 domain: ai
 classification: general.media
-tags: [video-summary]
+tags: [youtube, video-summary, transcript, cemy5eP5Jjs]
 sources: [raw/videos/youtube-cemy5eP5Jjs-transcript.md]
-published: 2026-08-13
+published: 2026-09-25
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-08-13
+reviewed: 2026-09-25
 ---
 
 # Most Insane The Infographics Show Videos of All Time (Compilation) - Summary
@@ -31,14 +31,14 @@ This video discusses Most Insane The Infographics Show Videos of All Time (Compi
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Death Down, Lou Lui, President John
+- **Persons**: The Great, Number Four, Arthur Zimmerman
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- artificial-intelligence
 - [[database]]
-- [cloud](concepts/cloud.md)
-- [api](concepts/api.md)
+- [[cloud]]
+- [[artificial-intelligence]]
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > overhead 30 ft below the prison's main
@@ -49,12 +49,3 @@ This video discusses Most Insane The Infographics Show Videos of All Time (Compi
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[business]]
-- [[cloud]]
-- [[infographics-show]]
-- [[market]]
-- [[the-infographics-show]]

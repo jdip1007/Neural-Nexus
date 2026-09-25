@@ -1,7 +1,7 @@
 ---
 title: "The Challenge: Building a Custom Electric Vehicle"
-created: "2026-09-24"
-updated: "2026-09-24"
+created: "2026-09-25"
+updated: "2026-09-25"
 type: reading
 classification: video.daves-garage
 domain: technology
@@ -9,7 +9,7 @@ tags: ['hardware', 'technology', 'automotive', 'daves-garage', 'youtube', 'tutor
 sources: ["https://www.youtube.com/watch?v=kLcpCqLwNU8"]
 confidence: medium
 status: active
-reviewed: "2026-09-24"
+reviewed: "2026-09-25"
 backlinks: []
 ---
 
@@ -39,8 +39,8 @@ Documenting the process of building a custom electric vehicle from scratch. This
 
 ## Related Pages
 
-- [[Daves-Garage]] - Main channel page
-- [[YouTube-Tutorials]] - Collection of technical tutorials
+- [[Dave's Garage]] - Main channel page
+- [[YouTube Tutorials]] - Collection of technical tutorials
 - [[Networking]] - Related networking content
 - [[Programming]] - Related programming tutorials
 
@@ -49,4 +49,4 @@ Documenting the process of building a custom electric vehicle from scratch. This
 Source: [https://www.youtube.com/watch?v=kLcpCqLwNU8](https://www.youtube.com/watch?v=kLcpCqLwNU8)
 
 ---
-*Created: 2026-09-24 03:08:04*
+*Created: 2026-09-25 03:22:39*

@@ -1,0 +1,1530 @@
+RESEARCH
+European Journal of Nutrition (2026) 65:215
+https://doi.org/10.1007/s00394-026-04038-z
+	 Luca Verroest
+Luca.Verroest@Oulu.fi
+1	
+Research Unit of Biomedicine and Internal Medicine, 
+Faculty of Medicine, University of Oulu, Oulu, Finland
+2	
+Arctic Biobank, Infrastructure for Population Studies, 
+Faculty of Medicine, Northern Finland Birth Cohorts, 
+University of Oulu, Oulu, Finland
+3	
+Pediatric Gastroenterology and Metabolic Diseases, Pediatric 
+Institute, Poznan University of Medical Sciences, Poznan, 
+Poland
+4	
+Center for Life Course Health Research, Faculty of 
+Medicine, University of Oulu, Oulu, Finland
+5	
+Department of Epidemiology and Biostatistics, School of 
+Public Health, Imperial College London, London, UK
+6	
+Biocenter Oulu, University of Oulu, Oulu, Finland
+7	
+Unit of Primary Care, Oulu University Hospital, Oulu, 
+Finland
+8	
+Department of Life Sciences, College of Health and Life 
+Sciences, Brunel University London, Uxbridge, UK
+9	
+Research Unit of Population Health, University of Oulu, 
+Oulu, Finland
+10	 Medical Research Center, Oulu University Hospital, Oulu, 
+Finland
+Abstract
+Purpose  Coffee is a widely consumed source of bioactive compounds globally, yet its associations with circulating metabo­
+lites, sex hormones, and cardiometabolic markers remain incompletely characterised. We investigated these associations 
+in a large population-based cohort, with particular attention to sex-specific hormonal profiles and metabolomic signatures.
+Methods  Cross-sectional data from 2,264 participants (47% men) of the Northern Finland Birth Cohort 1966 (NFBC1966) 
+at age 46 were analysed using sex-stratified Spearman correlations and multivariable linear regression models adjusted for 
+BMI, educational attainment, smoking, physical activity, and alcohol intake.
+Results  Higher coffee intake groups showed lower total and visceral fat and higher skeletal muscle mass, while BMI was 
+comparable across groups. Inverse correlations were observed between coffee intake and circulating branched-chain amino 
+acids (BCAAs) in both sexes. In men, higher coffee intake correlated with a more favourable glucose–insulin profile. Mul­
+tivariable-adjusted models revealed a distinct hormonal pattern: positive associations with total testosterone (β = +0.29 
+nmol/L per cup/day), bioavailable testosterone, and sex hormone–binding globulin (SHBG), alongside inverse associations 
+with free testosterone and the free androgen index (FAI). In women, hormonal associations were more limited, with positive 
+associations for SHBG and inverse associations for free testosterone and FAI.
+Conclusions  Higher habitual coffee intake groups showed a leaner body composition, correlated inversely with circulating 
+BCAAs in both sexes, and were independently associated with a sex-specific hormonal profile that may be metabolically 
+relevant, particularly in men. Future longitudinal and intervention studies are needed to establish causality and identify the 
+coffee-derived bioactive compounds involved.
+Keywords  Coffee · Metabolomics · Testosterone · Body composition · Glucose metabolism · Nutritional epidemiology
+Received: 14 February 2026 / Accepted: 15 June 2026 / Published online: 16 July 2026
+© The Author(s) 2026
+Associations of habitual coffee intake with testosterone and 
+cardiometabolic markers: the Northern Finland birth cohort 1966 
+study
+Luca Verroest1
+ · Jari Jokelainen2 · Shalini Choudhary1 · Jaroslaw Walkowiak3 · Toni Karhu1 · 
+Saranya Palaniswamy1,4,9 · Juha Auvinen4,9 · Marjo-Riitta Jarvelin4,5,6,7,8 · Karl-Heinz Herzig1,3,6,10 · 
+Ghulam Shere Raza1
+1 3
+215 
+Page 2 of 15
+European Journal of Nutrition (2026) 65:215
+Introduction
+Coffee is one of the most widely consumed beverages glob­
+ally and a defining component of daily life across many 
+populations. In Europe, average per capita consumption 
+is approximately 5.7 kg per year, accounting for nearly 
+one quarter of global coffee intake. Finland stands out as 
+the highest coffee-consuming country worldwide, with an 
+annual intake of approximately 11.8 kg per capita, while 
+other Nordic countries also rank among the highest consum­
+ers (European Coffee Report 2022/2023). Beyond its wide­
+spread consumption, coffee is deeply embedded in daily 
+routines and is often consumed for stimulation, comfort, 
+social connection, mood enhancement, and stress manage­
+ment [1].
+Apart from its cultural and psychological relevance, cof­
+fee is a chemically complex beverage with over a thousand 
+bioactive compounds, including alkaloids such as caffeine 
+and trigonelline, diterpenes like cafestol and kahweol, 
+and phenolic compounds such as chlorogenic acids [2, 3]. 
+Many of these constituents possess antioxidant and anti-
+inflammatory properties, which may help protect against 
+oxidative-stress–related conditions. Consistent with these 
+mechanisms, reviews report inverse associations between 
+coffee intake and several cardiometabolic outcomes, includ­
+ing metabolic syndrome (MetS), type 2 diabetes (T2D), cor­
+onary artery disease, stroke, and reduced all-cause mortality 
+[4–6]. Furthermore, coffee consumption has been associated 
+with lower overall cancer risk, supported by evidence indi­
+cating reduced risks across a range of cancer types [7–10]. 
+Across these outcomes, reported harmful associations are 
+generally weak and are largely attenuated or nullified after 
+adjustment for smoking. Although potential risks of coffee 
+consumption include high-dose caffeine toxicity, interac­
+tions with certain medications, processing-related contami­
+nants, and increases in total and low-density lipoprotein 
+(LDL) cholesterol due to diterpenes in unfiltered coffee 
+[11, 12], the overall evidence indicates that moderate con­
+sumption is safe for most adults. Intake levels of up to 400 
+mg caffeine per day are not associated with overt adverse 
+effects [13], and epidemiological studies consistently report 
+the greatest risk reductions for multiple health outcomes at 
+approximately three to four cups per day, suggesting that 
+habitual coffee consumption is more likely to confer health 
+benefits than harm [7]. The physiological effects of coffee 
+may nevertheless vary depending on the specific profile 
+and concentration of bioactive compounds, which are influ­
+enced by factors such as bean origin, roasting, and brewing 
+method [14, 15].
+In addition to these cardiometabolic effects, sex hor­
+mones may represent an important biological pathway link­
+ing coffee consumption to metabolic health. Testosterone 
+and sex hormone-binding globulin (SHBG) are key regula­
+tors of adiposity, insulin sensitivity, and vascular function, 
+and have been implicated in the development of MetS, T2D, 
+and cardiovascular disease [16]. However, evidence on 
+dietary determinants of these hormonal pathways, including 
+coffee consumption, remains limited and inconsistent.
+Although coffee consumption has been associated with a 
+range of favourable health outcomes, the biological mecha­
+nisms underlying these effects remain incompletely under­
+stood. Recent reviews highlight that roasting and brewing 
+methods, interindividual genetic variation, and lifestyle fac­
+tors such as smoking may modify physiological responses 
+to coffee [4–6, 17], emphasizing the need for studies that 
+examine metabolic and cardiometabolic markers in greater 
+depth. In contrast, effects of coffee consumption on hor­
+monal outcomes including testosterone have been exam­
+ined far less frequently, and existing studies report variable 
+findings [18–21]. The objective of this cross-sectional study 
+was to examine habitual coffee intake in relation to circu­
+lating metabolites, cardiometabolic, and hormonal markers 
+in adults participating in the Northern Finland Birth Cohort 
+1966 (NFBC1966) study.
+Methods
+Study population
+Data for the present study were drawn exclusively from the 
+46-year follow-up (2012) of the NFBC1966, a population-
+based cohort established in the provinces of Oulu and Lap­
+land, in Finland [22, 23]. The cohort comprises children with 
+expected dates of birth between 1 January and 31 December 
+1966. In total, 12,058 live-born children (96.3% of all births 
+in the region that year, according to Statistics Finland) were 
+enrolled and have been prospectively followed from the 
+prenatal period onwards [24].
+Follow-up examinations were conducted at ages 1, 14, 
+31, and 46 years using a combination of questionnaires, 
+clinical assessments, and linkage to national health and 
+administrative registers. At the 46-year follow-up in 2012, 
+all cohort members living in Finland with a known address 
+(n = 10,331) were invited to participate. Data collection 
+comprised four self-administered questionnaires covering 
+background, lifestyle and health; economic situation and 
+working life; opinions and experiences; and supplementary 
+health-related questions, including detailed information on 
+diet, smoking, alcohol use, physical activity, medication 
+use, and diagnosed diseases. In total, 7,146 participants 
+returned at least one questionnaire, and 5,832 attended the 
+clinical examination conducted by three trained nurse teams 
+across 36 locations in Finland, using standardized protocols.
+1 3
+Page 3 of 15 
+215
+European Journal of Nutrition (2026) 65:215
+Participants were instructed to fast for 12  h overnight 
+and to abstain from smoking and coffee prior to the clini­
+cal examination. The examination included anthropomet­
+ric measurements, blood pressure assessment, and an oral 
+glucose tolerance test (OGTT). Fasting biological samples 
+(blood) were collected. All participants provided written 
+informed consent. The study was approved by the Ethical 
+Committee of the Northern Ostrobothnia Hospital District, 
+Oulu, Finland (EETTMK 94/11, 17.09.2012), and con­
+ducted in accordance with the Declaration of Helsinki.
+For the current analyses, participants with missing infor­
+mation on coffee and tea intake were excluded. To reduce 
+exposure heterogeneity and potential confounding, we 
+restricted the sample to individuals who reported consum­
+ing coffee only or neither coffee nor tea. The final analytical 
+sample comprised 2,264 participants, including 2,194 cof­
+fee consumers and 70 non-consumers. The distribution of 
+habitual coffee intake, stratified by sex, is shown in Supple­
+mentary Figure S1. Participant selection and exclusion cri­
+teria are summarized as flowchart (Fig. 1).
+Assessment of coffee consumption
+Coffee consumption was assessed using a self-administered 
+postal questionnaire. Participants were asked: “How many 
+cups on average a day and how many years have you drunk 
+coffee and/or tea?”. Response fields were provided for fil­
+tered coffee, boiled coffee, cappuccino, and tea. For the 
+present analyses, habitual coffee intake was calculated as the 
+total number of coffee cups consumed per day and expressed 
+as cups/day. The questionnaire did not define the volume of 
+one cup, and no visual aid, such as cup-size pictures, were 
+provided. For descriptive analyses, participants were classi­
+fied into four categories: non-consumers (0 cups/day), low 
+consumers (1–2 cups/day), moderate consumers (3–4 cups/
+day), and high consumers (≥ 5 cups/day). These categories 
+were applied in the baseline characteristics tables, while cof­
+fee intake was treated as a continuous variable in correlation 
+and regression analyses. Coffee type was available for 2,173 
+coffee consumers (96.0% of the analytical sample). Among 
+these consumers, filtered coffee was most common (97.8%), 
+followed by boiled coffee (13.5%) and cappuccino (3.1%), 
+with multiple responses allowed. Information on bean type, 
+roast level, detailed brewing characteristics, and additions 
+such as milk or sugar was not collected.
+Clinical and laboratory measurements
+Anthropometric assessments at the 46-year examination 
+included height (cm), weight (kg), and waist and hip cir­
+cumference (cm), from which BMI (kg/m2) and waist-to-hip 
+ratio (WHR) were calculated. For descriptive analyses, BMI 
+was additionally categorized according to World Health 
+Organization (WHO) criteria as underweight (< 18.5 kg/
+m2), normal weight (18.5–24.9 kg/m2), overweight (25.0–
+29.9 kg/m2), and obese (≥ 30.0 kg/m2) [25]. Body fat per­
+centage, visceral fat area, and skeletal muscle mass were 
+measured using bioimpedance analysis (BIA). Blood pres­
+sure was recorded three times using an automated oscil­
+lometric device (Omron M10-IT, Kyoto, Japan) and mean 
+systolic and diastolic values were used.
+Fasting plasma glucose (FPG) and fasting serum insu­
+lin (FSI) were used to calculate fasting indices of insulin 
+resistance, β-cell function, and insulin sensitivity. Insu­
+lin resistance was estimated using the homeostatic model 
+assessment for insulin resistance (HOMA-IR; FPG × FSI 
+/ 22.5), β-cell function using the HOMA2-β index ((20 × 
+FSI) / (FPG − 3.5) × 100), and insulin sensitivity using the 
+Quantitative Insulin Sensitivity Check Index (QUICKI), 
+calculated as 1 / (log FPG + log FSI). The standard 2-hour 
+OGTT was performed, with plasma glucose and serum insu­
+lin measured at 0, 30, 60, and 120 min following ingestion 
+of 75 g glucose. OGTT data were used to calculate glucose 
+and insulin areas under the curve (AUC).
+Serum total cholesterol, high-density lipoprotein (HDL), 
+low-density lipoprotein (LDL), and triglycerides were mea­
+sured using enzymatic assays. High-sensitivity C-reactive 
+Fig. 1  Flowchart of participant selection for the present study
+ 
+1 3
+215 
+Page 4 of 15
+European Journal of Nutrition (2026) 65:215
+protein (hsCRP) was assessed by an immune nephelomet­
+ric assay (BN ProSpec, Siemens Healthcare Diagnostics 
+Inc., Newark, DE, USA) and categorized as < 1, 1–3, or ≥ 
+3 mg/L. MetS was defined according to the International 
+Diabetes Federation criteria [26]. 10-year cardiovascular 
+disease risk was additionally estimated using the FINRISK 
+score, an estimate incorporating age, smoking status, blood 
+pressure, lipid levels, diabetes status, and family history of 
+cardiovascular disease [27].
+Hormonal analyses included serum total testosterone and 
+SHBG, measured using LC-MS/MS (Agilent Technologies, 
+Wilmington, DE) and electrochemiluminescence immuno­
+assay (Immulite 2000; Siemens Healthcare, Llanberis, UK), 
+respectively. Free testosterone was calculated using mass-
+action equations and the free androgen index (FAI) as (tes­
+tosterone / SHBG) × 100.
+NMR metabolomics
+Fasting serum samples were analysed using a high-through­
+put proton nuclear magnetic resonance (NMR) metabolo­
+mics platform (Nightingale Health Ltd., Helsinki, Finland). 
+This platform enables simultaneous quantification of 164 
+lipid and metabolite measures, including a panel of 14 lipo­
+protein subclasses with their lipid constituents (triglycer­
+ides, phospholipids, free and esterified cholesterol), a wide 
+range of fatty acid fractions, apolipoproteins, amino acids, 
+glycolysis-related metabolites, ketone bodies, and several 
+inflammation-related markers [28].
+Statistical analyses
+Baseline characteristics were summarized across categories 
+of coffee consumption. Continuous variables were described 
+as mean ± SD, and group differences were assessed using 
+Welch’s one-way analysis of variance (ANOVA). Categori­
+cal variables were presented as counts and percentages and 
+compared using Pearson’s χ2 tests; for sparse multi-level 
+variables, overall p-values were estimated using Monte 
+Carlo simulation (10,000 replicates).
+The distribution of continuous variables was assessed 
+visually using histograms and Q–Q plots for representa­
+tive variables across outcome domains. Several variables 
+showed non-normal distributions; therefore, non-parametric 
+methods were used where appropriate.
+Correlations between coffee intake and circulating 
+metabolites and cardiometabolic markers were first evalu­
+ated using Spearman rank correlations, stratified by sex. To 
+account for multiple testing across the metabolomic mark­
+ers, p-values were adjusted using the false discovery rate 
+(FDR) according to the Benjamini–Hochberg procedure. 
+Volcano plots were used to visualize the strength (ρ) and 
+significance of these associations across the metabolomic 
+and cardiometabolic panels.
+Serum total testosterone concentrations were compared 
+across coffee intake groups separately for men and women 
+using non-parametric Wilcoxon rank-sum tests. Results 
+were visualized with sex-stratified boxplots to illustrate the 
+distribution and dose-related pattern.
+Covariates were selected a priori as potential confound­
+ers based on biological plausibility and established asso­
+ciations with habitual coffee intake and cardiometabolic 
+and hormonal outcomes. Accordingly, the adjusted models 
+included the following anthropometric, sociodemographic, 
+and lifestyle factors: BMI, educational attainment at age 46 
+(basic or less, secondary, tertiary), smoking status (never; 
+former—quit > 6 months prior to the clinical examination; 
+former—quit ≤ 6 months prior to the clinical examination; 
+current), alcohol consumption (average drinks/week), and 
+leisure-time physical activity assessed by questionnaire and 
+categorized into four levels reflecting increasing intensity 
+and volume of activity, ranging from predominantly seden­
+tary behaviour to regular competitive training.
+To further evaluate independent associations, sex-strat­
+ified multivariable linear regression models were fitted for 
+each hormonal marker with coffee intake (cups/day) as 
+the main predictor. Model 1 was unadjusted; Model 2 was 
+adjusted for BMI; and Model 3 was additionally adjusted 
+for educational attainment, smoking status, physical activ­
+ity, and alcohol consumption. Participants were excluded 
+on a per-analysis basis if data on the outcome or covariates 
+were missing; no imputation was performed. For female 
+hormonal analyses, women with self-reported PCOS or 
+missing PCOS status were excluded because of the known 
+influence of PCOS on androgen-related markers. Specifi­
+cally, women who reported a PCOS diagnosis (4.7%) or 
+did not provide an answer (6.2%) were excluded from these 
+analyses.
+Sensitivity analyses were performed to assess the robust­
+ness of the findings. First, anthropometric and body compo­
+sition comparisons across coffee consumption groups were 
+repeated after excluding participants with extreme BMI val­
+ues (< 18.5 or > 40 kg/m2). Second, all regression models 
+were repeated after excluding participants using lipid-mod­
+ifying or anti-hypertensive medications, with no material 
+changes in the results. Exploratory generalized additive 
+models (GAMs) using a smooth term for coffee intake 
+showed no meaningful improvement over linear models for 
+most hormonal outcomes; therefore, linear regression was 
+retained as the primary approach.
+Results are presented as correlation coefficients (ρ) for 
+the non-parametric analyses and β-estimates with 95% con­
+fidence intervals (CI) for the regression models. All analy­
+ses were conducted in R (version 4.5.1), with a two-sided 
+1 3
+Page 5 of 15 
+215
+European Journal of Nutrition (2026) 65:215
+p < 0.05 considered statistically significant. This study was 
+reported in accordance with the Strengthening the Report­
+ing of Observational Studies in Epidemiology (STROBE) 
+guidelines for cohort studies.
+Results
+Study population
+The final sample comprised 2,264 participants from the 
+46-year follow-up of the NFBC1966, including 2,194 coffee 
+consumers and 70 non-consumers. Coffee consumers were 
+further divided into low (1–2 cups/day, n = 296), moderate 
+(3–4 cups/day, n = 822), and high (≥ 5 cups/day, n = 1,076) 
+intake groups. Baseline sociodemographic, lifestyle, anthro­
+pometric, and body composition characteristics by coffee 
+consumption group are summarized in Table 1. Overall, 47% 
+of participants were male. The proportion of men increased 
+across categories of coffee consumption, from 35% in low 
+consumers to 55% in high consumers (p < 0.001).
+Lifestyle and sociodemographic factors varied across 
+coffee consumption groups. Educational attainment differed 
+by intake (p < 0.001), with tertiary education most com­
+mon in low consumers (51%) and least common in high 
+consumers (32%). High coffee consumers were also more 
+likely to be current smokers compared with lower consum­
+ers (p < 0.001). Anthropometric measures, including BMI, 
+waist circumference, and WHR, were similar between cof­
+fee categories.
+Body composition showed significant differences across 
+coffee consumption groups. Higher coffee intake groups 
+showed lower body fat percentage (p < 0.001), lower body 
+fat mass (p = 0.002), lower visceral fat area (p = 0.048), and 
+higher skeletal muscle mass (p < 0.001).
+A full overview of all baseline characteristics, including 
+the number of participants with missing data for each vari­
+able and p-values for coffee by sex interaction terms for con­
+tinuous and binary variables, is provided in Supplementary 
+Table S1. Sensitivity analyses excluding participants with 
+extreme BMI values (< 18.5 or > 40 kg/m²) showed similar 
+anthropometric and body composition patterns across coffee 
+consumption groups (Supplementary Table S2).
+Correlations between coffee consumption and 
+circulating metabolites
+Spearman correlation analyses were performed to assess 
+unadjusted correlations between habitual coffee intake and 
+serum metabolites quantified by NMR spectroscopy, strati­
+fied by sex. The sex-stratified correlation coefficients and 
+FDR-corrected p-values are reported in Supplementary 
+Table S3 and visualized as combined volcano plots in Fig. 2. 
+Although correlation magnitudes were generally small (|ρ| 
+< 0.15), several correlations remained significant after FDR 
+correction.
+In men, coffee consumption showed a broader pattern of 
+significant correlations than in women. Higher coffee intake 
+was inversely correlated with several amino acids, including 
+the branched-chain amino acids (BCAAs) isoleucine, leu­
+cine, and valine, as well as alanine, omega-3 fatty acids, and 
+their relative proportions. Conversely, positive correlations 
+were observed with several cholesterol-related measures, 
+including LDL- and IDL-related cholesterol measures and 
+the proportion of saturated fatty acids.
+Volcano plots show sex-stratified Spearman rank correla­
+tions (ρ) between habitual coffee consumption (cups/day) 
+and circulating serum metabolites quantified by NMR spec­
+troscopy. The x-axis represents correlation coefficients (ρ), 
+and the y-axis represents −log10 nominal p-values. Hori­
+zontal dashed lines indicate nominal p = 0.05, and vertical 
+dashed lines indicate |ρ| = 0.10. Coloured points indicate 
+correlations meeting both thresholds: FDR-adjusted q < 0.05 
+and |ρ| ≥ 0.10.
+In women, the correlation pattern was more limited. 
+Coffee intake was inversely correlated with metabolites 
+involved in lipid and energy metabolism, including glyc­
+erol, citrate, leucine, and omega-3 fatty acids, and positively 
+correlated with glycine.
+Overall, coffee consumption showed sex-specific meta­
+bolic correlation patterns, with a broader pattern observed 
+in men.
+Correlations between coffee consumption and 
+cardiometabolic and hormonal markers
+Correlations between coffee intake and cardiometabolic 
+risk markers are presented in Fig. 3 and reported in Supple­
+mentary Table S4. Most correlations were small (|ρ| < 0.2), 
+although several were statistically significant.
+In men, higher coffee intake was inversely correlated with 
+fasting insulin, OGTT insulin responses (60 and 120 min), 
+and HOMA2 indices of insulin resistance and β-cell func­
+tion, and positively correlated with SHBG, total and bio­
+available testosterone, HOMA2 insulin sensitivity, and the 
+FINRISK score.
+Volcano plots show sex-stratified Spearman rank correla­
+tions (ρ) between habitual coffee consumption (cups/day) 
+and cardiometabolic and hormonal markers. The x-axis rep­
+resents correlation coefficients (ρ), and the y-axis represents 
+−log10(p-values). Horizontal dashed lines indicate p = 0.05, 
+and vertical dashed lines indicate |ρ| = 0.10. Coloured points 
+indicate correlations meeting both thresholds: p < 0.05 and 
+|ρ| ≥ 0.10.
+1 3
+215 
+Page 6 of 15
+European Journal of Nutrition (2026) 65:215
+In women, the correlation pattern was less pronounced, 
+however modest inverse correlations were observed with 
+waist-to-hip ratio, hsCRP, and fasting insulin, whereas mod­
+est positive correlations were observed with the FINRISK 
+score and QUICKI-derived insulin sensitivity.
+Overall, habitual coffee intake showed sex-specific cor­
+relation patterns with cardiometabolic and hormonal mark­
+ers, with a broader and more consistent pattern observed in 
+men.
+Associations between coffee intake and hormonal 
+markers
+Serum total testosterone across coffee consumption groups
+To visualize the sex-specific differences in serum total 
+testosterone across coffee consumption groups, testoster­
+one concentrations were compared between habitual coffee 
+Table 1  Participant characteristics by categories of habitual coffee consumption
+Measure
+Overall
+Non-consumers
+Low
+(1–2 cups/d)
+Moderate
+(3–4 cups/d)
+High
+(≥ 5 cups/d)
+p-value
+N = 2,264
+N = 70
+N = 296
+N = 822
+N = 1,076
+Sociodemographics & lifestyle
+Sex
+< 0.001***
+Men
+1,075 (47%)
+30 (43%)
+105 (35%)
+351 (43%)
+589 (55%)
+Women
+1,189 (53%)
+40 (57%)
+191 (65%)
+471 (57%)
+487 (45%)
+Education level
+< 0.001***
+Basic or less
+82 (3.6%)
+2 (2.9%)
+4 (1.4%)
+18 (2.2%)
+58 (5.4%)
+Secondary
+1,333 (59%)
+36 (51%)
+140 (47%)
+478 (58%)
+679 (63%)
+Tertiary
+849 (38%)
+32 (46%)
+152 (51%)
+326 (40%)
+339 (32%)
+Smoking
+< 0.001***
+Never
+1,095 (51%)
+51 (78%)
+174 (61%)
+425 (53%)
+445 (44%)
+Former, > 6 months
+516 (24%)
+9 (14%)
+63 (22%)
+202 (25%)
+242 (24%)
+Former, < 6 months
+52 (2.4%)
+1 (1.5%)
+8 (2.8%)
+15 (1.9%)
+28 (2.7%)
+Current
+499 (23%)
+4 (6.2%)
+38 (13%)
+153 (19%)
+304 (30%)
+Physical activity
+0.601
+Inactive
+448 (21%)
+11 (17%)
+63 (22%)
+160 (20%)
+214 (21%)
+Lightly active
+910 (42%)
+25 (39%)
+105 (37%)
+345 (44%)
+435 (43%)
+Active
+723 (34%)
+24 (38%)
+105 (37%)
+265 (33%)
+329 (32%)
+Very active
+74 (3.4%)
+4 (6.3%)
+9 (3.2%)
+23 (2.9%)
+38 (3.7%)
+Alcohol consumption (g/day)
+11.82 (19.24)
+8.49 (16.04)
+13.06 (21.69)
+10.85 (17.77)
+12.44 (19.77)
+0.077
+Sleep quality
+0.721
+Satisfactory
+1,239 (59%)
+42 (67%)
+158 (57%)
+472 (61%)
+567 (58%)
+Somewhat unsatisfactory
+687 (33%)
+15 (24%)
+94 (34%)
+248 (32%)
+330 (34%)
+Significantly unsatisfactory
+158 (7.5%)
+5 (7.9%)
+22 (7.9%)
+52 (6.7%)
+79 (8.0%)
+Totally unsatisfactory
+19 (0.9%)
+1 (1.6%)
+4 (1.4%)
+6 (0.8%)
+8 (0.8%)
+Anthropometrics
+BMI (kg/m2)
+26.92 (4.83)
+27.17 (5.03)
+26.87 (5.15)
+27.09 (5.01)
+26.79 (4.59)
+0.587
+BMI category (WHO)
+0.099
+Underweight
+13 (0.6%)
+1 (1.5%)
+4 (1.4%)
+5 (0.6%)
+3 (0.3%)
+Normal weight
+842 (37%)
+20 (30%)
+111 (38%)
+296 (36%)
+415 (39%)
+Overweight
+909 (40%)
+32 (48%)
+108 (37%)
+325 (40%)
+444 (42%)
+Obese
+482 (21%)
+14 (21%)
+71 (24%)
+191 (23%)
+206 (19%)
+Waist circumference (cm)
+92.07 (13.59)
+92.52 (14.69)
+92.24 (14.37)
+91.96 (13.67)
+92.09 (13.27)
+0.987
+Hip circumference (cm)
+99.96 (9.57)
+100.75 (10.73)
+100.86 (10.24)
+100.09 (9.79)
+99.56 (9.12)
+0.242
+Waist–hip ratio
+0.92 (0.08)
+0.91 (0.08)
+0.91 (0.09)
+0.92 (0.08)
+0.92 (0.09)
+0.206
+Body composition
+Body fat percentage (%)
+28.54 (9.21)
+29.67 (9.74)
+30.40 (9.10)
+29.64 (9.36)
+27.14 (8.89)
+< 0.001***
+Body fat mass (kg)
+23.13 (10.77)
+24.40 (11.93)
+24.51 (11.16)
+23.80 (11.13)
+22.17 (10.23)
+0.002**
+Skeletal muscle mass (kg)
+31.42 (7.08)
+30.88 (7.27)
+30.17 (7.03)
+30.56 (6.91)
+32.46 (7.06)
+< 0.001***
+Visceral fat area (cm²)
+105.23 (41.37)
+108.50 (46.22)
+108.57 (43.28)
+107.35 (42.37)
+102.52 (39.63)
+0.048*
+Values are mean (SD) or n (%). P-values from Welch’s ANOVA and χ2 test; Monte Carlo simulation used when expected counts < 5. Significance 
+levels: ***p < 0.001; **p < 0.01; *p < 0.05.
+WHO, World Health Organization.
+1 3
+Page 7 of 15 
+215
+European Journal of Nutrition (2026) 65:215
+intake categories using pairwise Wilcoxon rank-sum tests 
+(Fig. 4).
+Boxplots show serum total testosterone concentrations 
+across habitual coffee consumption groups, stratified by 
+sex. Boxes indicate the interquartile range, with medians 
+shown as horizontal lines; whiskers extend to 1.5× the 
+interquartile range, and points represent individual partici­
+pants, excluding outliers. Between-group differences were 
+assessed within each sex using pairwise Wilcoxon rank-sum 
+tests. Significant comparisons are annotated as p < 0.05*, 
+p < 0.01**.
+In men, serum total testosterone tended to increase across 
+higher coffee consumption groups. Testosterone levels were 
+significantly higher in moderate (p < 0.05) and high consum­
+ers (p < 0.01) compared with non-consumers. Differences 
+were also observed between coffee intake groups, with high 
+consumers showing higher levels than both low and moder­
+ate consumers (both p < 0.01).
+Fig. 3  Sex-stratified correlations between coffee intake and cardiometabolic and hormonal markers
+ 
+Fig. 2  Sex-stratified Spearman correlations between coffee intake and circulating metabolites
+ 
+1 3
+215 
+Page 8 of 15
+European Journal of Nutrition (2026) 65:215
+In women, testosterone concentrations were low overall 
+and showed no consistent differences across intake groups, 
+except for a higher value in high compared with moderate 
+consumers (p < 0.01).
+Multivariable associations between coffee intake and 
+hormonal markers
+To further evaluate these associations while accounting 
+for potential confounders, multivariable linear regression 
+analyses were performed for key hormonal markers, includ­
+ing total, bioavailable, and free testosterone, SHBG, and the 
+FAI. The sex-stratified results are shown in Fig. 5, while 
+full model details, including sample sizes, β-estimates, 
+95% confidence intervals, and p-values, are provided in 
+Supplementary Table S6. In the fully adjusted models, 
+analyses included approximately 896 men and 937 women, 
+with female analyses restricted to women with available 
+PCOS data who reported no PCOS diagnosis. Results are 
+expressed as β-estimates per additional cup of coffee per 
+day. Exploratory sex-stratified generalized additive models 
+using a smooth term for coffee intake did not show mean­
+ingful improvement over the corresponding linear models 
+for most hormonal outcomes, supporting the use of linear 
+regression as the primary approach (Supplementary Table 
+S5).
+Forest plot showing β-estimates and 95% confidence 
+intervals from sex-stratified linear regression models assess­
+ing the association between habitual coffee intake (cups/
+day) and circulating hormonal markers. Estimates represent 
+the change in each outcome per additional cup of coffee per 
+day. Models are shown as unadjusted, BMI-adjusted, and 
+fully adjusted. The fully adjusted model included BMI, edu­
+cational attainment, smoking status, physical activity, and 
+alcohol consumption. Female analyses were restricted to 
+women with available PCOS data and no reported PCOS 
+diagnosis. Full numerical results, including sample sizes 
+and p-values, are provided in Supplementary Table S6.
+In men, higher coffee intake was positively associated 
+with serum total testosterone (β = +0.29 nmol/L per cup/day, 
+p < 0.001), bioavailable testosterone (β = +0.08 nmol/L per 
+cup/day, p = 0.003), and SHBG (β = +0.57 nmol/L per cup/
+day, p < 0.001) in the fully adjusted model. Inverse associa­
+tions were observed with the FAI (β = −0.36 per cup/day, 
+p < 0.001) and free testosterone (β = −0.01 nmol/L per cup/
+day, p < 0.001). These associations were already evident in 
+the unadjusted model and remained statistically significant 
+after adjustment for BMI and lifestyle factors.
+In women, coffee intake was positively associated with 
+SHBG in the fully adjusted model (β = +1.27 nmol/L per 
+Fig. 4  Serum total testosterone by coffee intake group, stratified by sex
+ 
+1 3
+Page 9 of 15 
+215
+European Journal of Nutrition (2026) 65:215
+cup/day, p = 0.015). Inverse associations were observed with 
+the FAI (β = −0.32 per cup/day, p = 0.026) and free testoster­
+one (β = −0.01 nmol/L per cup/day, p = 0.015). No signifi­
+cant associations were observed with total or bioavailable 
+testosterone.
+Discussion
+Using cross-sectional data from 46-year-old adults in the 
+NFBC1966, we examined how habitual coffee intake relates 
+to circulating metabolites, cardiometabolic risk factors and 
+hormonal markers.
+We observed differences in body composition across 
+coffee consumption groups. While BMI, waist circumfer­
+ence, hip circumference, and waist–hip ratio were similar 
+between groups, individuals with higher coffee intake had 
+lower BIA-derived body fat percentage, lower absolute fat 
+mass, lower visceral fat area, and higher skeletal muscle 
+mass, showing dose-related trends. Together, these find­
+ings suggest that regular coffee drinkers exhibited a lower 
+adiposity profile despite similar BMI. However, these find­
+ings should be interpreted cautiously, as BIA-derived body 
+composition estimates are indirect and rely on assumptions 
+related to body water and tissue conductivity [29].
+The lower adiposity profile observed among higher cof­
+fee consumers is consistent with a growing body of experi­
+mental, genetic, and epidemiological evidence linking 
+coffee and caffeine intake to adiposity-related outcomes. 
+Mendelian randomization analyses indicate that genetically 
+predicted higher plasma caffeine concentrations are associ­
+ated with lower BMI and whole-body fat mass, and reduced 
+T2D risk [30].
+Mechanistically, caffeine acts as an adenosine-receptor 
+antagonist, activating the sympathetic nervous system and 
+increasing resting metabolic rate, energy expenditure, and 
+thermogenic lipolysis [31, 32]. These acute effects translate 
+into enhanced substrate utilization, as meta-analyses show 
+that pre-exercise caffeine intake enhances fat oxidation and 
+oxygen uptake during aerobic exercise in both fasting and 
+fed states [33, 34]. Over time, these mechanisms may con­
+tribute to weight regulation through increased lipid turnover, 
+Fig. 5  Multivariable associations between coffee intake and hormonal markers, stratified by sex
+ 
+1 3
+215 
+Page 10 of 15
+European Journal of Nutrition (2026) 65:215
+higher metabolic rate, and reduced absorption of short-chain 
+fatty acids [12, 30, 35].
+Consistent with these mechanisms, short-term random­
+ized trials show that regular coffee consumption can reduce 
+body fat and energy intake while modulating satiety hor­
+mones, such as serotonin and ghrelin [36]. A 24-week 
+randomized placebo-controlled trial further demonstrated 
+a modest but significant reduction in fat mass with daily 
+caffeinated coffee intake, even in the absence of changes 
+in insulin sensitivity [37]. In parallel, a pilot randomized 
+controlled trial (RCT) showed that dietary fiber from spent 
+coffee grounds increased satiety and reduced ad libitum 
+energy intake, suggesting a potential role in appetite regula­
+tion [38].
+Regarding blood pressure, diastolic BP did not differ 
+across coffee consumption groups, whereas systolic BP 
+showed a small overall difference across groups. Mean 
+systolic BP was highest among high coffee consumers, but 
+the absolute differences were modest, “ranging from ~ 1.6 
+mmHg higher than moderate consumers to ~ 3.6 mmHg 
+higher than non-consumers. Because BP was measured 
+after a 12-hour overnight fast and abstention from coffee, 
+this small difference is unlikely to reflect acute caffeine 
+effects. Although this contrasts with prospective studies and 
+dose–response meta-analyses reporting a modestly lower 
+hypertension risk among habitual coffee drinkers [39–42]. 
+The magnitude of the difference was substantially lower 
+than the transient pressor response reported after acute caf­
+feine intake (200–300 mg), which can increase systolic and 
+diastolic BP by approximately 8 and 6 mmHg, respectively 
+[12, 43].
+Spearman correlation analyses of circulating metabolites 
+revealed a broader pattern of correlations in men than in 
+women. In men, higher coffee intake correlated inversely 
+with several circulating amino acids, including alanine, iso­
+leucine, leucine, valine and tyrosine, as well as omega-3 fatty 
+acids and glycerol, and correlated positively with LDL- and 
+IDL-related lipid fractions and a higher proportion of SFA. 
+In women, the metabolic correlation pattern was narrower, 
+with inverse correlations primarily for glycerol, omega-3 
+fatty acids, leucine and citrate, and positive correlations for 
+glutamine and glycine. These findings extend the existing 
+metabolomics literature by showing inverse correlations 
+between coffee intake and several circulating amino acids, 
+including the BCAAs.
+The inverse correlations between coffee intake and cir­
+culating BCAAs in both men and women are particularly 
+noteworthy. Although BCAAs are essential amino acids 
+involved in key metabolic signalling pathways, chroni­
+cally elevated levels are strongly associated with insulin 
+resistance, T2D, cardiovascular disease, fatty liver disease, 
+and increased hypertension risk [44–49]. These adverse 
+associations appear to reflect endogenous BCAA accumula­
+tion and impaired metabolic regulation rather than dietary 
+intake per se [50]. Supporting this interpretation, elevated 
+BCAAs predict future T2D years before clinical onset [51]. 
+In line with this, reductions in circulating BCAAs during 
+weight loss have been linked to improvements in insulin 
+sensitivity and skeletal-muscle lipid oxidation [52–54].
+The positive correlations observed for LDL- and IDL-
+related fractions may be biologically plausible, as coffee 
+diterpenes such as cafestol and kahweol can increase apo­
+lipoprotein B–containing lipoproteins through inhibition 
+of bile acid synthesis [55–58]. However, this interpreta­
+tion should be cautious, because diterpene-related LDL 
+increases are mainly linked to unfiltered coffee, whereas 
+coffee consumption in Finland is predominantly filtered, 
+which substantially reduces diterpene exposure. This may 
+partly explain why evidence on coffee intake and LDL-
+related outcomes remains mixed [12, 59, 60]. In men, we 
+also observed a higher proportion of SFA and inverse cor­
+relations with omega-3 fatty acids and DHA. These find­
+ings contrast with limited intervention evidence reporting 
+no change in absolute SFA and increases in DHA and the 
+omega-3 index after dark-roasted coffee [61]. Given that 
+Finns typically consume light-roasted coffee, this discrep­
+ancy may reflect differences in roast-dependent bioactive 
+profiles, as well as sex-related variation in coffee bioactive 
+metabolism.
+Spearman correlation analyses of cardiometabolic and 
+hormonal markers also showed a clear sex-specific pattern. 
+In men, higher coffee intake was correlated with lower fast­
+ing insulin, lower insulin concentrations during the OGTT, 
+reduced HOMA2-derived insulin resistance and β-cell func­
+tion, and higher insulin sensitivity. These correlations sug­
+gest that habitual coffee consumption may be linked to a 
+more favourable glucose–insulin profile in men, which is 
+broadly consistent with evidence from observational studies 
+and longer-term trials showing improved glycaemic regu­
+lation and lower T2D risk among regular coffee drinkers 
+[62]. While acute studies indicate that coffee and caffeine 
+transiently impair glucose tolerance, chronic coffee intake 
+has been associated with enhanced insulin sensitivity over 
+time, although previous reviews have not identified consis­
+tent sex-specific effects [63, 64]. In women, the correlations 
+were fewer and weaker, centred on adiposity and inflam­
+mation, including an inverse correlation with waist–hip 
+ratio, together with a positive association with the FINRISK 
+score. A similar marginally positive association with FIN­
+RISK score was also observed in men. Given that this score 
+is a composite 10-year cardiovascular risk estimate driven 
+by smoking, blood pressure, lipids, diabetes and family his­
+tory [27], this likely reflects correlated lifestyle patterns 
+rather than a direct adverse effect of coffee itself.
+1 3
+Page 11 of 15 
+215
+European Journal of Nutrition (2026) 65:215
+Importantly, hormonal markers revealed pronounced sex 
+specificity, with men showing positive correlations between 
+habitual coffee intake and total and bioavailable testosterone 
+and SHBG, and inverse correlations with free testosterone 
+and the FAI, whereas these correlations were not observed 
+in women. Given their magnitude and clear sex specific­
+ity, these hormonal findings were examined in more detail 
+using regression models adjusted for covariates. Focusing 
+on these hormonal associations, multivariable regression 
+models demonstrated a clear graded pattern in men. Total 
+testosterone increased progressively across coffee consump­
+tion categories, with significantly higher concentrations in 
+moderate and high consumers compared with non-consum­
+ers. These dose-related differences were supported by the 
+adjusted regression models, in which higher coffee intake 
+was positively associated with total and bioavailable testos­
+terone and with SHBG, and inversely associated with free 
+testosterone and FAI. The consistency of these associations 
+across all adjustment models suggests that the observed 
+hormonal pattern is not fully explained by differences in 
+adiposity or lifestyle factors. In women, testosterone con­
+centrations were considerably lower overall and showed no 
+clear pattern across intake categories. In the adjusted analy­
+ses (restricted to women without PCOS), coffee intake was 
+positively associated with SHBG and inversely associated 
+with free testosterone and the FAI, but no associations were 
+observed with total or bioavailable testosterone.
+Our results indicate that coffee consumption is associated 
+with a broader androgen-related profile in men, character­
+ized by higher total and bioavailable testosterone and higher 
+SHBG, together with lower free testosterone, whereas in 
+women the associations are limited to SHBG and free hor­
+mone fractions. The clinical relevance of this pattern merits 
+consideration. In a large nationally representative sample of 
+US men (NHANES III), lower concentrations of total tes­
+tosterone and SHBG were independently associated with 
+a two-fold or greater likelihood of MetS after adjustment 
+for age, adiposity, smoking, physical activity, LDL cho­
+lesterol, CRP, and insulin resistance. Notably, calculated 
+free testosterone and bioavailable testosterone were not 
+independently associated with MetS after full adjustment, 
+underscoring that total testosterone and SHBG may be more 
+metabolically informative fractions [65]. Moreover, SHBG 
+has emerged across multiple large prospective studies and 
+meta-analyses as an independent predictor of T2D risk in 
+both men and women, with low SHBG further associated 
+with coronary artery disease in postmenopausal women and 
+peripheral artery disease in older individuals, independent 
+of established cardiovascular risk factors [66].
+The concurrent coffee-associated increase in total testos­
+terone and SHBG, alongside a reduction in the free andro­
+gen index, therefore, maps onto a hormonally favourable 
+profile that may be relevant to metabolic and cardiometa­
+bolic health at the population level. This pattern aligns in 
+part with findings from animal models, where caffeine or 
+chlorogenic-acid–rich coffee has been shown to increase 
+testosterone or enhance androgen signalling in models of 
+diabetes and heat-induced testicular stress, as well as follow­
+ing chronic low-dose caffeine exposure, possibly through 
+improved steroidogenesis, reduced oxidative stress, and 
+preserved testicular structure [67–70]. While not directly 
+comparable to habitual human intake, these findings indi­
+cate that coffee compounds could interact with androgen-
+regulatory pathways.
+Human interventional studies, however, suggest mainly 
+transient effects. Acute caffeine intake, particularly in exer­
+cise settings, can substantially raise circulating testosterone. 
+Controlled trials show that high doses of caffeine (up to 800 
+mg) can amplify exercise-induced testosterone increases by 
+more than 20%, accompanied by parallel rises in cortisol 
+[71]. Similar acute responses have been observed with caf­
+feinated coffee, which produced the highest post-exercise 
+testosterone in trained athletes and exceeded the effects of 
+pure caffeine [72]. Notably, the same study also reported 
+elevated testosterone levels after decaffeinated coffee, sug­
+gesting that caffeine itself may not fully account for the 
+acute hormonal response and that other coffee-derived bio­
+actives could contribute. In contrast, evidence for longer-
+term effects is limited: one RCT reported a modest increase 
+in total testosterone at week 4, which did not persist at 
+week 8, and no consistent changes in SHBG [20]. How­
+ever, because testosterone shows substantial biological and 
+analytical variability [73, 74], these modest cross-sectional 
+associations are best interpreted as population-level endo­
+crine patterns rather than direct evidence of clinically mean­
+ingful hormonal changes within individuals.
+In observational data, results from adult populations 
+show a more consistent pattern for SHBG than for testoster­
+one, with notable differences between men and women. In 
+men, both the Tromsø Study and National Health and Nutri­
+tion Examination Survey (NHANES) III initially reported 
+higher total testosterone with greater coffee consumption; 
+however, in NHANES III this association became non-sig­
+nificant after adjusting for factors such as adiposity, smok­
+ing, alcohol use, and physical activity [21, 75]. SHBG, by 
+contrast, remained positively associated with coffee intake 
+in both cohorts. Additional analyses of NHANES data from 
+1999 to 2004 and 2011–2012 found no linear relationship 
+between caffeine intake and testosterone, and the observed 
+J-shaped patterns were inconsistent across subgroups [76]. 
+More recent NHANES 2013–2014 metabolite studies 
+further extend this picture, showing inverse associations 
+between caffeine metabolites and testosterone in adult men, 
+1 3
+215 
+Page 12 of 15
+European Journal of Nutrition (2026) 65:215
+as well as in male children and adolescents, suggesting a 
+broadly similar pattern across age groups [18, 77].
+Beyond testosterone and SHBG, observational evidence 
+does not indicate major adverse reproductive effects of cof­
+fee. The Health Professionals Follow-up Study reported 
+no association between regular coffee intake and erectile 
+dysfunction [78], and a systematic review of 28 studies 
+found no consistent links between coffee or caffeine intake 
+and semen quality, with negative findings more commonly 
+attributed to soft drinks rather than coffee [79].
+In women, two large cohort studies provide relevant 
+insight. In the Nurses’ Health Study, higher caffeine and 
+coffee intake were linked to lower luteal oestradiol in pre­
+menopausal women and higher SHBG in postmenopausal 
+women, with no associations with total or free testoster­
+one [80]. In the Women’s Health Study, caffeinated cof­
+fee was similarly associated with higher SHBG, while sex 
+hormones remained unchanged; this SHBG increase partly 
+mediated the lower T2D risk among high coffee consumers 
+[81]. Overall, these findings indicate that in women, coffee 
+intake relates mainly to higher SHBG and modest oestradiol 
+shifts, rather than changes in testosterone, consistent with 
+the sex-specific patterns observed in our cohort.
+Strengths and limitations
+A major strength of this study is the use of NFBC1966, a 
+large population-based birth cohort comprising nearly all 
+births in Northern Finland in 1966, with extensive prospec­
+tive data collection across the life course and a high coffee 
+consumption. The homogeneous age and ethnic background 
+of participants reduces potential confounding from age- 
+and ancestry-related variation in hormonal and metabolic 
+profiles, strengthening the internal validity of the observed 
+associations. The 46-year follow-up provides clinical 
+examinations, standardized fasting protocols, and detailed 
+lifestyle and health assessments, enabling robust evalua­
+tion of metabolic and hormonal profiles. The availability of 
+comprehensive biomarker data, including NMR metabolo­
+mics and androgen-related hormones, together with a large 
+sample size and sex-stratified analyses, increases analytic 
+power and allows the detection of sex-specific associations. 
+Adjustment for sociodemographic, lifestyle, and adiposity-
+related factors further strengthens internal validity.
+Several limitations should be noted. The cross-sectional 
+design precludes causal inference, and reverse causation 
+cannot be excluded. Residual confounding from unmea­
+sured factors such as dietary patterns, stress, and menstrual 
+cycle phase in women also cannot be ruled out. Hormonal 
+markers were assessed at a single time point, and given the 
+well-documented intra-individual variability of testoster­
+one [73], the observed associations reflect population-level 
+patterns rather than individually detectable clinical changes. 
+Coffee intake was self-reported, and detailed information 
+on cup size, brewing method, bean type, and additions 
+was unavailable, which may introduce exposure misclas­
+sification and limits insight into which specific bioactive 
+compounds drive the observed effects. Finally, while the 
+analytical sample was broadly representative of the clini­
+cally examined cohort, the relatively small number of non-
+consumers and the homogeneous Finnish population may 
+limit the generalizability of findings to populations with dif­
+ferent coffee cultures and consumption patterns.
+Conclusion
+This study provides population-level evidence that habitual 
+coffee consumption is associated with a sex-differentiated 
+metabolic and hormonal profile in middle-aged adults. 
+Higher coffee intake groups showed lower total and visceral 
+fat despite similar BMI, together with inverse correlations 
+with circulating BCAAs in both men and women, a poten­
+tially novel finding that may be relevant to insulin resistance 
+and future cardiometabolic risk.
+The most pronounced sex-specific finding was the andro­
+gen-related hormonal profile in men: higher coffee intake 
+was independently associated with higher total testosterone, 
+bioavailable testosterone, and SHBG, alongside a lower 
+FAI. Both total testosterone and SHBG are established inde­
+pendent predictors of MetS and T2D risk in men, making the 
+observed pattern hormonally coherent with the cardiometa­
+bolic associations. In women, hormonal associations were 
+more limited and centred on higher SHBG and lower FAI, 
+consistent with the SHBG-mediated pathway previously 
+shown to partly explain coffee’s protective association with 
+T2D in women. Together, our findings indicate that habitual 
+coffee consumption is associated with a broader endocrine–
+metabolic signature that differs by sex.
+Future longitudinal and interventional studies are needed 
+to clarify whether these associations reflect direct biologi­
+cal effects of coffee constituents on endocrine and meta­
+bolic pathways, and to identify the bioactive compounds 
+involved.
+Supplementary 
+Information  The 
+online 
+version 
+contains 
+supplementary material available at ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​s​0​0​3​9​4​-​0​
+2​6​-​0​4​0​3​8​-​z​.​
+Acknowledgements  We thank the participants of the Northern Finland 
+Birth Cohort 1966 and the NFBC research team for their longstanding 
+commitment and contribution to data collection and management.
+Author contributions  K.H.H., J.A., J.J., S.P., and G.S.R. conceptual­
+ized the study. L.V. analysed the data and wrote the first draft of the 
+manuscript. J.J. supervised the statistical analysis and interpretation of 
+1 3
+Page 13 of 15 
+215
+European Journal of Nutrition (2026) 65:215
+the data. M.R.J., S.P., S. C., T.K. and J.W. contributed to interpreta­
+tion of the results. All authors revised the manuscript and approved 
+the final version.
+Funding  Open Access funding provided by University of Oulu (in­
+cluding Oulu University Hospital). This work was supported by the 
+European Union’s Horizon Europe research and innovation pro­
+gramme under the Marie Skłodowska-Curie Doctoral Network NU­
+TRIOME (Grant Agreement No. 2430470511). The funder had no 
+role in the design of the study; collection, analysis, or interpretation 
+of the data; writing of the manuscript; or the decision to publish. The 
+Northern Finland Birth Cohort 1966 (NFBC1966) has received finan­
+cial support from the University of Oulu (Grant Nos. 24000692 and 
+65354), Oulu University Hospital (Grant Nos. 24301140, 2/97, and 
+8/97), the Finnish Foundation for Cardiovascular Research (Grant 
+Nos. 200190 and 230117), the Ministry of Health and Social Affairs 
+(Grant Nos. 23/251/97, 160/97, and 190/97), the National Institute for 
+Health and Social Welfare, Helsinki (Grant No. 54121), the Regional 
+Institute of Occupational Health, Oulu, Finland (Grant Nos. 50621 and 
+54231), and the European Regional Development Fund (ERDF; Grant 
+No. 539/2010 A31592).
+Data availability  The data used in this study are derived from the 
+NFBC1966 and are available from the University of Oulu, Infrastruc­
+ture for Population Studies. Access to the data is subject to approval 
+and can be requested for research purposes through the cohort’s elec­
+tronic material request portal. All data handling complies with the EU 
+General Data Protection Regulation (679/2016) and the Finnish Data 
+Protection Act. Use of personal data is based on the written informed 
+consent provided by participants at their most recent follow-up. Fur­
+ther details are available from the NFBC project center (NFBCproject­
+center@oulu.fi) and on the cohort website (www.oulu.fi/nfbc).
+Declarations
+Conflict of interest  The authors declare no conflict of interest.
+Ethical approval  All participants provided written informed consent. 
+The study was approved by the Ethical Committee of the Northern 
+Ostrobothnia Hospital District, Oulu, Finland (EETTMK 94/11, 
+17.09.2012), and conducted in accordance with the Declaration of 
+Helsinki.
+Open Access  This article is licensed under a Creative Commons 
+Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, 
+as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons licence, and indicate 
+if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless 
+indicated otherwise in a credit line to the material. If material is not 
+included in the article’s Creative Commons licence and your intended 
+use is not permitted by statutory regulation or exceeds the permitted 
+use, you will need to obtain permission directly from the copyright 
+holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​v​e​c​o​m​m​o​n​s​.​o​
+r​g​/​l​i​c​e​n​s​e​s​/​b​y​/​4​.​0​/​.​
+References
+1.	
+Dajero BK, Dag-um IJ, Flores DJ, Barete M, Taja-on E (2025) 
+Coffee culture and mental health: a qualitative exploration of per­
+ceptions and experiences of coffee enthusiast. Asia Pac J Educ 
+Technol Psychol Social Sci 1:1–24. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​7​0​8​4​7​/​5​9​1​
+4​3​4​
+2.	
+de Melo Pereira GV, de Carvalho Neto DP, Magalhães Júnior AI 
+et al (2020) Chemical composition and health properties of coffee 
+and coffee by-products. Adv Food Nutr Res 91:65–96. ​h​t​t​p​s​:​/​/​d​o​i​
+.​o​r​g​/​1​0​.​1​0​1​6​/​B​S​.​A​F​N​R​.​2​0​1​9​.​1​0​.​0​0​2​
+3.	
+Socała K, Szopa A, Serefko A et al (2020) Neuroprotective effects 
+of coffee bioactive compounds: a review. Int J Mol Sci 2021 
+22:107. https:/​/doi.or​g/10.33​90/IJ​MS22010107
+4.	
+Dewland TA, Van Dam RM, Marcus GM (2025) Coffee and car­
+diovascular disease. Eur Heart J 46:3546–3554. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​
+.​1​0​9​3​/​E​U​R​H​E​A​R​T​J​/​E​H​A​F​4​2​1​
+5.	
+Mendoza MF, Sulague RM, Posas-Mendoza T, Lavie CJ (2023) 
+Impact of coffee consumption on cardiovascular health. Ochsner 
+J 23:152–158. https:/​/doi.or​g/10.31​486/T​OJ.22.0073
+6.	
+Ungvari Z, Kunutsor SK (2024) Coffee consumption and cardio­
+metabolic health: a comprehensive review of the evidence. Gero­
+science 46:6473–6510. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​S​1​1​3​5​7​-​0​2​4​-​0​1​2​6​
+2​-​5​
+7.	
+Poole R, Kennedy OJ, Roderick P et al (2017) Coffee consump­
+tion and health: umbrella review of meta-analyses of multiple 
+health outcomes. BMJ 359:j5024. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​3​6​/​B​M​J​.​J​
+5​0​2​4​
+8.	
+Emile SH, Barsom SH, Garoufalia Z, Wexner SD (2023) Does 
+drinking coffee reduce the risk of colorectal cancer? A qualita­
+tive umbrella review of systematic reviews. Tech Coloproctol 
+27:961–968. https:/​/doi.or​g/10.10​07/S1​0151-023-02804-3
+9.	
+Abbasi H, Alem E, Bakhshimoghaddam F et al (2024) Effects of 
+coffee and tea consumption on glioma risk: an umbrella review of 
+systematic reviews and meta-analyses. Clin Nutr ESPEN 64:37–
+43. https:/​/doi.or​g/10.10​16/J.​CLNESP.2024.08.013
+10.	 Zhao LG, Li ZY, Feng GS, Ji XW, Tan YT, Li HL, Xiang YB 
+(2020) Coffee drinking and cancer risk: an umbrella review of 
+meta-analyses of observational studies. BMC Cancer 20(1):101. 
+https:/​/doi.or​g/10.11​86/S1​2885-020-6561-9
+11.	 Ren Y, Wang C, Xu J, Wang S (2019) Cafestol and Kahweol: a 
+review on their bioactivities and pharmacological properties. Int J 
+Mol Sci 20:4238. https:/​/doi.or​g/10.33​90/IJ​MS20174238
+12.	 Barrea L, Pugliese G, Frias-Toral E et al (2023) Coffee con­
+sumption, health benefits and side effects: a narrative review and 
+update for dietitians and nutritionists. Crit Rev Food Sci Nutr 
+63:1238–1261. https:/​/doi.or​g/10.10​80/10​408398.2021.1963207
+13.	 Wikoff D, Welsh BT, Henderson R et al (2017) Systematic review 
+of the potential adverse effects of caffeine consumption in healthy 
+adults, pregnant women, adolescents, and children. Food Chem 
+Toxicol 109:585–648. https:/​/doi.or​g/10.10​16/J.​FCT.2017.04.002
+14.	 Herawati D, Armawan MS, Nurhaliza N et al (2024) Impact 
+of bean origin and brewing methods on bioactive compounds, 
+bioactivities, nutrition, and sensory perception in coffee brews: 
+an Indonesian coffee gastronomy study. Int J Gastron Food Sci 
+35:100892. https:/​/doi.or​g/10.10​16/J.​IJGFS.2024.100892
+15.	 Nieber K (2017) The impact of coffee on health. Planta Med 
+83:1256–1263. https:/​/doi.or​g/10.10​55/S-​0043-115007
+16.	 Xega V, Liu JL (2024) Beyond reproduction: unraveling the 
+impact of sex hormones on cardiometabolic health. Med Rev 
+4:284. https:/​/doi.or​g/10.15​15/MR​-2024-0012
+17.	 Emadi RC, Kamangar F (2025) Coffee’s impact on health and 
+well-being. Nutrients 17:2558. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​N​U​1​7​1​5​2​
+5​5​8​
+18.	 Glover FE, Caudle WM, Del Giudice F et al (2022) The association 
+between caffeine intake and testosterone: NHANES 2013–2014. 
+Nutr J 21:1–10. https:/​/doi.or​g/10.11​86/S1​2937-022-00783-Z
+19.	 Ramlau-Hansen CH, Thulstrup AM, Bonde JP et al (2008) Semen 
+quality according to prenatal coffee and present caffeine exposure: 
+two decades of follow-up of a pregnancy cohort. Hum Reprod 
+23:2799–2805. https:/​/doi.or​g/10.10​93/HU​MREP/DEN331
+1 3
+215 
+Page 14 of 15
+European Journal of Nutrition (2026) 65:215
+20.	 Wedick NM, Mantzoros CS, Ding EL et al (2012) The effects 
+of caffeinated and decaffeinated coffee on sex hormone-bind­
+ing globulin and endogenous sex hormone levels: a random­
+ized controlled trial. Nutr J 11:86. https:/​/doi.or​g/10.11​86/14​
+75-2891-11-86
+21.	 Svartberg J, Midtby M, Bønaa KH et al (2003) The associations 
+of age, lifestyle factors and chronic disease with testosterone in 
+men: the Tromsø Study. Eur J Endocrinol 149:145–152. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​5​3​0​/​E​J​E​.​0​.​1​4​9​0​1​4​5​
+22.	 Dataset - etsin.fairdata.fi. ​h​t​t​p​s​:​/​/​e​t​s​i​n​.​f​a​i​r​d​a​t​a​.​f​i​/​d​a​t​a​s​e​t​/​7​1​6​9​3​9​c​
+3​-​7​a​2​a​-​4​b​6​a​-​9​1​f​3​-​9​2​a​c​a​0​9​b​c​5​2​d​. Accessed 30 Sep 2025
+23.	 Nordström T, Miettunen J, Auvinen J et al (2022) Cohort Profile: 
+46 years of follow-up of the Northern Finland Birth Cohort 1966 
+(NFBC1966). Int J Epidemiol 50:1786–1787. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​
+0​9​3​/​I​J​E​/​D​Y​A​B​1​0​9​. J
+24.	 Statistics Finland (2025) https://stat.fi/fi. Accessed 30
+25.	 Body mass index (BMI) ​h​t​t​p​s​:​/​/​w​w​w​.​w​h​o​.​i​n​t​/​d​a​t​a​/​g​h​o​/​d​a​t​a​/​t​h​e​
+m​e​s​/​t​o​p​i​c​s​/​t​o​p​i​c​-​d​e​t​a​i​l​s​/​G​H​O​/​b​o​d​y​-​m​a​s​s​-​i​n​d​e​x​. Accessed 4 Feb 
+2026
+26.	 Alberti KGMM, Zimmet P, Shaw J (2006) Metabolic syndrome–a 
+new world-wide definition: a consensus statement from the inter­
+national diabetes federation. Diabet Med 23:469–480. ​h​t​t​p​s​:​/​/​d​o​i​.​
+o​r​g​/​1​0​.​1​1​1​1​/​J​.​1​4​6​4​-​5​4​9​1​.​2​0​0​6​.​0​1​8​5​8​.​X​
+27.	 Vartiainen E, Laatikainen T, Peltonen M, Puska P (2016) Predict­
+ing coronary heart disease and stroke: the FINRISK calculator. 
+Glob Heart 11:213–216. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​J​.​G​H​E​A​R​T​.​2​0​1​
+6​.​0​4​.​0​0​7​
+28.	 Soininen P, Kangas AJ, Würtz P et al (2009) High-throughput 
+serum NMR metabonomics for cost-effective holistic studies on 
+systemic metabolism. Analyst 134:1781–1785. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​
+.​1​0​3​9​/​B​9​1​0​2​0​5​A​
+29.	 Ward LC (2018) Bioelectrical impedance analysis for body com­
+position assessment: reflections on accuracy, clinical utility, and 
+standardisation. Eur J Clin Nutr 2018 73(2):194–199. ​h​t​t​p​s​:​/​/​d​o​i​.​
+o​r​g​/​1​0​.​1​0​3​8​/​s​4​1​4​3​0​-​0​1​8​-​0​3​3​5​-​3​
+30.	 Larsson SC, Woolf B, Gill D (2023) Appraisal of the causal effect 
+of plasma caffeine on adiposity, type 2 diabetes, and cardiovas­
+cular disease: two sample mendelian randomisation study. BMJ 
+Med 2:e000335. https:/​/doi.or​g/10.11​36/bm​jmed-2022-000335
+31.	 Astrup A, Toubro S, Cannon S et al (1990) Caffeine: a double-
+blind, placebo-controlled study of its thermogenic, metabolic, 
+and cardiovascular effects in healthy volunteers. Am J Clin Nutr 
+51:759–767. https:/​/doi.or​g/10.10​93/AJ​CN/51.5.759
+32.	 Fisone G, Borgkvist A, Usiello A (2004) Caffeine as a psychomo­
+tor stimulant: mechanism of action. Cell Mol Life Sci 61:857–
+872. https:/​/doi.or​g/10.10​07/S0​0018-003-3269-3
+33.	 Fernández-Sánchez J, Trujillo-Colmena D, Rodríguez-Castaño 
+A, Lavín-Pérez AM, Coso D, Casado J, A., Collado-Mateo D 
+(2024) Effect of acute caffeine intake on fat oxidation rate dur­
+ing Fed-State exercise: a systematic review and Meta-analysis. 
+Nutrients 16(2):207. https:/​/doi.or​g/10.33​90/NU​16020207
+34.	 Collado-Mateo D, Lavín-Pérez AM, Merellano-Navarro E, Coso 
+JD (2020) Effect of acute caffeine intake on the fat oxidation rate 
+during exercise: a systematic review and meta-analysis. Nutrients 
+12(12):3603. https:/​/doi.or​g/10.33​90/NU​12123603
+35.	 Voskoboinik A, Koh Y, Kistler PM (2019) Cardiovascular effects 
+of caffeinated beverages. Trends Cardiovasc Med 29:345–350. 
+https:/​/doi.or​g/10.10​16/J.​TCM.2018.09.019
+36.	 Bakuradze T, Parra GAM, Riedel A et al (2014) Four-week coffee 
+consumption affects energy intake, satiety regulation, body fat, 
+and protects DNA integrity. Food Res Int 63:420–427. ​h​t​t​p​s​:​/​/​d​o​i​
+.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​f​o​o​d​r​e​s​.​2​0​1​4​.​0​5​.​0​3​2​
+37.	 Alperet DJ, Rebello SA, Khoo EYH et al (2020) The effect of cof­
+fee consumption on insulin sensitivity and other biological risk 
+factors for type 2 diabetes: a randomized placebo-controlled trial. 
+Am J Clin Nutr 111:448–458. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​9​3​/​a​j​c​n​/​n​q​z​3​0​
+6​
+38.	 Campos-Vega R, Arreguín-Campos A, Cruz-Medrano MA, del 
+Castillo Bilbao MD (2020) Spent coffee (Coffea arabica L.) 
+grounds promote satiety and attenuate energy intake: a pilot study. 
+J Food Biochem 44:e13204. https:/​/doi.or​g/10.11​11/jf​bc.13204
+39.	 Miranda AM, Goulart AC, Benseñor IM et al (2021) Coffee con­
+sumption and risk of hypertension: a prospective analysis in the 
+cohort study. Clin Nutr 40:542–549. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​J​.​C​L​
+N​U​.​2​0​2​0​.​0​5​.​0​5​2​
+40.	 Grosso G, Micek A, Godos J, Pajak A, Sciacca S, Bes-Rastrollo 
+M, Martinez-Gonzalez MA (2017) Long-term coffee consump­
+tion is associated with decreased incidence of new-onset hyper­
+tension: a dose–response meta-analysis. Nutrients 9(8):890. 
+https:/​/doi.or​g/10.33​90/NU​9080890
+41.	 D’Elia L, La Fata E, Galletti F et al (2017) Coffee consumption 
+and risk of hypertension: a dose–response meta-analysis of pro­
+spective studies. Eur J Nutr 2017 58(1):271–280. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​
+1​0​.​1​0​0​7​/​S​0​0​3​9​4​-​0​1​7​-​1​5​9​1​-​Z​
+42.	 Xie C, Cui L, Zhu J et al (2018) Coffee consumption and risk 
+of hypertension: a systematic review and dose–response meta-
+analysis of cohort studies. J Hum Hypertens 2017 32(2):83–93. 
+https:/​/doi.or​g/10.10​38/s4​1371-017-0007-0
+43.	 Mesas AE, Leon-Muñoz LM, Rodriguez-Artalejo F, Lopez-Gar­
+cia E (2011) The effect of coffee on blood pressure and cardiovas­
+cular disease in hypertensive individuals: a systematic review and 
+meta-analysis. Am J Clin Nutr 94:1113–1126. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​
+9​4​5​/​A​J​C​N​.​1​1​1​.​0​1​6​6​6​7​
+44.	 Newgard CB, An J, Bain JR et al (2009) A branched-chain amino 
+acid-related metabolic signature that differentiates obese and lean 
+humans and contributes to insulin resistance. Cell Metab 9:311–
+326. https:/​/doi.or​g/10.10​16/j.​cmet.2009.02.002
+45.	 Wang TJ, Larson MG, Vasan RS et al (2011) Metabolite profiles 
+and the risk of developing diabetes. Nat Med 17:448–453. ​h​t​t​p​s​:​/​
+/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​8​/​n​m​.​2​3​0​7​
+46.	 Tobias DK, Lawler PR, Harada PH et al (2018) Circulating 
+Branched-chain amino acids and incident cardiovascular disease 
+in a prospective cohort of US women. Circ Genom Precis Med 
+11:e002157. https:/​/doi.or​g/10.11​61/CI​RCGEN.118.002157
+47.	 Grenier-Larouche T, Kwee LC, Deleye Y, Leon-Mimila P, Wale­
+jko JM, McGarrah RW, White PJ (2022) Altered branched-chain 
+α-keto acid metabolism is a feature of NAFLD in individuals with 
+severe obesity. JCI insight ​7​(​1​5​)​:​e​1​5​9​2​0​4​.​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​7​2​
+/​j​c​i​.​i​n​s​i​g​h​t​.​1​5​9​2​0​4​
+48.	 Cai S, Fu Y, Chen J et al (2024) Causal relationship between 
+branched-chain amino acids and hypertension: a mendelian ran­
+domization study. J Am Heart Assoc 13:32084. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​
+.​1​1​6​1​/​J​A​H​A​.​1​2​3​.​0​3​2​0​8​4​
+49.	 Okekunle AP, Lee H, Provido SMP, Chung GH, Hong S, Yu SH, 
+Lee JE (2026) Circulating branched-chain amino acids are asso­
+ciated with higher odds of obesity: findings from the FiLWHEL 
+study. Nutr Metabolic Insights 19:11786388251395146. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​1​1​7​8​6​3​8​8​2​5​1​3​9​5​1​4​6​
+50.	 Yao H, Li K, Wei J et al (2023) The contradictory role of branched-
+chain amino acids in lifespan and insulin resistance. Front Nutr 
+10:1189982. https:/​/doi.or​g/10.33​89/fn​ut.2023.1189982
+51.	 Ramzan I, Ardavani A, Vanweert F et al (2022) The association 
+between circulating branched chain amino acids and the temporal 
+risk of developing Type 2 diabetes mellitus: a systematic review 
+& meta-analysis. Nutrients 14:4411. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​9​0​/​n​u​1​4​
+2​0​4​4​1​1​
+52.	 Church DD, Hirsch KR, Park S et al (2020) Essential amino acids 
+and protein synthesis: Insights into maximizing the muscle and 
+whole-body response to feeding. Nutrients 12:1–14. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​3​3​9​0​/​n​u​1​2​1​2​3​7​1​7​
+1 3
+Page 15 of 15 
+215
+European Journal of Nutrition (2026) 65:215
+53.	 White PJ, Lapworth AL, An J et al (2016) Branched-chain amino 
+acid restriction in Zucker-fatty rats improves muscle insulin sen­
+sitivity by enhancing efficiency of fatty acid oxidation and acyl-
+glycine export. Mol Metab 5:538–551. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​
+m​o​l​m​e​t​.​2​0​1​6​.​0​4​.​0​0​6​
+54.	 Shah SH, Crosslin DR, Haynes CS et al (2012) Branched-chain 
+amino acid levels are associated with improvement in insulin 
+resistance with weight loss. Diabetologia 55:321–330. ​h​t​t​p​s​:​/​/​d​o​i​
+.​o​r​g​/​1​0​.​1​0​0​7​/​s​0​0​1​2​5​-​0​1​1​-​2​3​5​6​-​5​
+55.	 Ricketts ML, Boekschoten MV, Kreeft AJ et al (2007) The cho­
+lesterol-raising factor from coffee beans, cafestol, as an agonist 
+ligand for the farnesoid and pregnane X receptors. Mol Endocri­
+nol 21:1603–1616. https:/​/doi.or​g/10.12​10/ME​.2007-0133
+56.	 Lara-Guzmán OJ, Álvarez R, Muñoz-Durango K (2021) Changes 
+in the plasma lipidome of healthy subjects after coffee consump­
+tion reveal potential cardiovascular benefits: a randomized con­
+trolled trial. Free Radic Biol Med 176:345–355. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​
+0​.​1​0​1​6​/​J​.​F​R​E​E​R​A​D​B​I​O​M​E​D​.​2​0​2​1​.​1​0​.​0​1​2​
+57.	 Senftinger J, Nikorowitsch J, Borof K, Ojeda F, Aarabi G, Beikler 
+T, Wenzel JP (2023) Coffee consumption and associations with 
+blood pressure, LDL-cholesterol and echocardiographic mea­
+sures in the general population. Sci Rep 13(1):4668. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​0​3​8​/​s​4​1​5​9​8​-​0​2​3​-​3​1​8​5​7​-​5​
+58.	 Nusantara ACP, Rachma ND, Mandiricha T, Safithri F (2025) 
+Uncovering the relationship between coffee and cholesterol: a 
+systematic review. Arterial Hypertens 29:78–89. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​
+1​0​.​5​6​0​3​/​a​h​.​1​0​5​9​7​5​
+59.	 Bae J-H, Park J-H, Im S-S, Song D-K (2014) Coffee and health. 
+Integr Med Res 3:189–191. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​J​.​I​M​R​.​2​0​1​4​.​
+0​8​.​0​0​2​
+60.	 Miranda AM, Goulart AC, Generoso G et al (2022) Association 
+between coffee consumption with serum lipid profile in ELSA-
+Brasil study: a metabolomic approach. Eur J Nutr 2022 61:8. 
+https:/​/doi.or​g/10.10​07/s0​0394-022-02946-4
+61.	 Di Girolamo FG, Mazzucco S, Situlin R et al (2016) Roasting 
+intensity of naturally low-caffeine Laurina coffee modulates glu­
+cose metabolism and redox balance in humans. Nutrition 32:928–
+936. https:/​/doi.or​g/10.10​16/J.​NUT.2016.02.001
+62.	 Basalamah M, Almghamsi R, Altowairqi A et al (2022) The effect 
+of coffee consumption on blood glucose levels. J Biochem Tech­
+nol 13:64–69. https:/​/doi.or​g/10.51​847/V​OLNUKYP3C
+63.	 Alshawi AH (2020) The effect of coffee consumption on blood 
+glucose: a review. Pak J Nutr 19:420–429. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​9​2​
+3​/​P​J​N​.​2​0​2​0​.​4​2​0​.​4​2​9​
+64.	 Reis CEG, Dórea JG, da Costa THM (2019) Effects of coffee con­
+sumption on glucose metabolism: a systematic review of clinical 
+trials. J Tradit Complement Med 9:184–191. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​
+1​6​/​J​.​J​T​C​M​E​.​2​0​1​8​.​0​1​.​0​0​1​
+65.	 Li C, Ford ES, Li B et al (2010) Association of testosterone and 
+sex hormone–binding globulin with metabolic syndrome and 
+insulin resistance in men. Diabetes Care 33:1618–1624. ​h​t​t​p​s​:​/​/​
+d​o​i​.​o​r​g​/​1​0​.​2​3​3​7​/​D​C​0​9​-​1​7​8​8​
+66.	 Thaler MA, Seifert-Klauss V, Luppa PB (2015) The biomarker 
+sex hormone-binding globulin: from established applications to 
+emerging trends in clinical medicine. Best Pract Res Clin Endo­
+crinol Metab 29:749–760. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​J​.​B​E​E​M​.​2​0​1​5​.​
+0​6​.​0​0​5​
+67.	 Lingkungan Kesehatan G, Naning Sofyanita E, Zulfa Juniarto 
+A et al (2025) The effect of chlorogenic acid content in coffee 
+can reduce malondialdehyde (MDA) and increase testosterone 
+hormone levels in DM conditions. Gema Lingkungan Kesehatan 
+23:20–26. https:/​/doi.or​g/10.36​568/G​ELINKES.V23I1.163
+68.	 Sarobo C, Lacorte LM, Martins M et al (2012) Chronic caffeine 
+intake increases androgenic stimuli, epithelial cell proliferation 
+and hyperplasia in rat ventral prostate. Int J Exp Pathol 93:429–
+437. https:/​/doi.or​g/10.11​11/J.​1365-2613.2012.00843.X
+69.	 Raoofi A, Gholami O, Mokhtari H et al (2024) Caffeine attenu­
+ates spermatogenic disorders in mice with induced chronic scrotal 
+hyperthermia. Clin Exp Reprod Med 51:28–41. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​
+.​5​6​5​3​/​C​E​R​M​.​2​0​2​3​.​0​6​1​4​2​
+70.	 Akomolafe SF, Olasehinde TA, Ogunsuyi OB et al (2019) Caf­
+feine improves sperm quality, modulates steroidogenic enzyme 
+activities, restore testosterone levels and prevent oxidative dam­
+age in testicular and epididymal tissues of scopolamine-induced 
+rat model of amnesia. J Pharm Pharmacol 71:1565–1575. ​h​t​t​p​s​:​/​/​
+d​o​i​.​o​r​g​/​1​0​.​1​1​1​1​/​J​P​H​P​.​1​3​1​4​2​
+71.	 Beaven CM, Hopkins WG, Hansen KT et al (2008) Dose effect 
+of caffeine on testosterone and cortisol responses to resistance 
+exercise. Int J Sport Nutr Exerc Metab 18:131–141. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+g​/​1​0​.​1​1​2​3​/​I​J​S​N​E​M​.​1​8​.​2​.​1​3​1​
+72.	 Gür M, Çınar V, Akbulut T, Bozbay K, Yücedal P, Aslan M, 
+Migliaccio GM (2024) Determining the levels of cortisol, testos­
+terone, lactic acid and anaerobic performance in athletes using 
+various forms of coffee. Nutrients 16(19):3228. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​
+.​3​3​9​0​/​N​U​1​6​1​9​3​2​2​8​
+73.	 Collier CP, Morales A, Clark A et al (2010) The significance of 
+biological variation in the diagnosis of testosterone deficiency, 
+and consideration of the relevance of total, free and bioavailable 
+testosterone determinations. J Urol 183:2294–2299. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+g​/​1​0​.​1​0​1​6​/​J​.​J​U​R​O​.​2​0​1​0​.​0​2​.​0​1​1​
+74.	 Yun YM, Botelho JC, Chandler DW et al (2012) Performance 
+criteria for testosterone measurements based on biological varia­
+tion in adult males: recommendations from the partnership for the 
+accurate testing of hormones. Clin Chem 58:1703–1710. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​3​7​3​/​C​L​I​N​C​H​E​M​.​2​0​1​2​.​1​8​6​5​6​9​
+75.	 Frey T, Platz EA, Kanarek N et al (2018) Consumption of caffein­
+ated beverages and serum concentrations of sex steroid hormones 
+in US men. Cancer Causes Control 29:157–166. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​
+0​.​1​0​0​7​/​s​1​0​5​5​2​-​0​1​7​-​0​9​8​5​-​9​
+76.	 Lopez DS, Advani S, Qiu X et al (2019) Caffeine intake is not 
+associated with serum testosterone levels in adult men: cross-sec­
+tional findings from the NHANES 1999–2004 and 2011–2012. 
+Aging Male 22:45–54. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​8​0​/​1​3​6​8​5​5​3​8​.​2​0​1​8​.​1​
+4​6​5​9​1​2​
+77.	 Li S, Yuan Z, Zhao Y, Wang N (2025) Associations of caffeine 
+and caffeine metabolites with sex hormones among 6–19-year-
+old children and adolescents. Sci Rep 15(1):23052. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+g​/​1​0​.​1​0​3​8​/​s​4​1​5​9​8​-​0​2​5​-​0​6​3​3​0​-​0​
+78.	 Lopez DS, Liu L, Rimm EB et al (2018) Coffee intake and inci­
+dence of erectile dysfunction. Am J Epidemiol 187:951–959. 
+https:/​/doi.or​g/10.10​93/AJ​E/KWX304
+79.	 Ricci E, Viganò P, Cipriani S et al (2017) Coffee and caffeine 
+intake and male infertility: a systematic review. Nutr J 2017 
+16(1):37. https:/​/doi.or​g/10.11​86/S1​2937-017-0257-2
+80.	 Kotsopoulos J, Eliassen AH, Missmer SA et al (2009) Relation­
+ship between caffeine intake and plasma sex hormone concen­
+trations in premenopausal and postmenopausal women. Cancer 
+115:2765–2774. https:/​/doi.or​g/10.10​02/CN​CR.24328
+81.	 Goto A, Song Y, Chen BH et al (2011) Coffee and caffeine con­
+sumption in relation to sex hormone–binding globulin and risk 
+of Type 2 diabetes in postmenopausal women. Diabetes 60:269–
+275. https:​//d​oi.​or​g/10​.233​7/DB10-1193
