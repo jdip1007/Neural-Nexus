@@ -1,642 +1,159 @@
 {
   "nodes": [
     {
-      "id": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
-      "title": "\"How Interrogators Use Psychology To Get A Confession\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example1-how-interrogators-use-psychology-to-get-a-confession.md",
-      "tags": [
-        "YouTube",
-        "HealthyGamerGG",
-        "Mental Health",
-        "Psychology"
-      ],
+      "id": "SCHEMA",
+      "title": "Schema",
+      "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-example3-what-divorce-does-to-a-child",
-      "title": "\"What Divorce Does To A Child\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example3-what-divorce-does-to-a-child.md",
-      "tags": [
-        "YouTube",
-        "HealthyGamerGG",
-        "Mental Health",
-        "Psychology"
-      ],
+      "id": "tags",
+      "title": "Tags",
+      "file": "/home/hermes/Neural-Nexus/docs/tags.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "YouTube-Tutorials",
-      "title": "\"YouTube Tutorials\"",
-      "file": "/home/hermes/Neural-Nexus/docs/YouTube-Tutorials.md",
-      "tags": [
-        "youtube",
-        "tutorials",
-        "learning",
-        "technology",
-        "education"
-      ],
+      "id": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
+      "title": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
+      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-example8_andrew-tates-life-is-falling-apart",
-      "title": "Andrew Tate's Life Is Falling Apart",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example8_andrew-tates-life-is-falling-apart.md",
-      "tags": [
-        "social_media"
-      ],
+      "id": "index",
+      "title": "Index",
+      "file": "/home/hermes/Neural-Nexus/docs/index.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "title": "\"CANBUS \u2013 Networking so simple, even YOU can understand it!\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "hardware",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "id": "the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier",
+      "title": "the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier",
+      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "Daves-Garage",
-      "title": "\"Dave's Garage\"",
-      "file": "/home/hermes/Neural-Nexus/docs/Daves-Garage.md",
-      "tags": [
-        "daves-garage",
-        "youtube",
-        "channel",
-        "technology",
-        "automotive",
-        "programming",
-        "hardware"
-      ],
+      "id": "the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI",
+      "title": "the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI",
+      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-how-money-works-monopoly001",
-      "title": "\"Monopolies and How Money Works\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-monopoly001.md",
-      "tags": [
-        "finance",
-        "economics",
-        "education",
-        "money"
-      ],
+      "id": "log",
+      "title": "Log",
+      "file": "/home/hermes/Neural-Nexus/docs/log.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-how-money-works-podcast003",
-      "title": "\"The Friday podcast, Episode 1: Breaking down money in real life and in video games, with Vikking\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-podcast003.md",
-      "tags": [
-        "finance",
-        "economics",
-        "education",
-        "money"
-      ],
+      "id": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
+      "title": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
+      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "title": "\"fopen is Magic! - Find Out What You've Been Missing All These Years!\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years.md",
-      "tags": [
-        "programming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "id": "the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining",
+      "title": "the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining",
+      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-how-money-works-react004",
-      "title": "\"Financial YouTuber \"Influencer\" reacts to: How Money Works The Growing Problem With Personal Finance\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-react004.md",
-      "tags": [
-        "finance",
-        "economics",
-        "education",
-        "money"
-      ],
+      "id": "the-infographics-show-cemy5eP5Jjs-Most-Insane-The-Infographics-Show-Videos-of-All-Ti",
+      "title": "the-infographics-show-cemy5eP5Jjs-Most-Insane-The-Infographics-Show-Videos-of-All-Ti",
+      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-cemy5eP5Jjs-Most-Insane-The-Infographics-Show-Videos-of-All-Ti.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "title": "\"The Challenge: Can we build Notepad in 3K in assembly language?\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language.md",
-      "tags": [
-        "programming",
-        "technology",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "id": "the-infographics-show-example8-Andrew-Tates-Life-Is-Falling-Apart",
+      "title": "the-infographics-show-example8-Andrew-Tates-Life-Is-Falling-Apart",
+      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-example8-Andrew-Tates-Life-Is-Falling-Apart.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-example5-the-secret-to-fixing-your-adulthood",
-      "title": "\"The Secret to Fixing Your Adulthood\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example5-the-secret-to-fixing-your-adulthood.md",
-      "tags": [
-        "YouTube",
-        "HealthyGamerGG",
-        "Mental Health",
-        "Psychology"
-      ],
+      "id": "index-catalog",
+      "title": "Index Catalog",
+      "file": "/home/hermes/Neural-Nexus/docs/index-catalog.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "Networking",
-      "title": "\"Networking\"",
-      "file": "/home/hermes/Neural-Nexus/docs/Networking.md",
-      "tags": [
-        "networking",
-        "protocols",
-        "ethernet",
-        "canbus",
-        "tcp",
-        "udp"
-      ],
+      "id": "graph",
+      "title": "Graph",
+      "file": "/home/hermes/Neural-Nexus/docs/graph.md",
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "Automotive",
-      "title": "\"Automotive\"",
-      "file": "/home/hermes/Neural-Nexus/docs/Automotive.md",
-      "tags": [
-        "automotive",
-        "vehicles",
-        "cars",
-        "electric",
-        "modifications"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "title": "\"The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-2MwTDoT8q_A_why-40-of-young-men-need-erectile-retraining",
-      "title": "Why 40% Of Young Men Need Erectile Retraining",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-2MwTDoT8q_A_why-40-of-young-men-need-erectile-retraining.md",
-      "tags": [
-        "social_media"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "Programming",
-      "title": "\"Programming\"",
-      "file": "/home/hermes/Neural-Nexus/docs/Programming.md",
-      "tags": [
-        "programming",
-        "software",
-        "development",
-        "algorithms",
-        "optimization"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart",
-      "title": "Jonah Hill's Life Is Falling Apart",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart.md",
-      "tags": [
-        "social_media"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "Hardware",
-      "title": "\"Hardware\"",
-      "file": "/home/hermes/Neural-Nexus/docs/Hardware.md",
-      "tags": [
-        "hardware",
-        "electronics",
-        "circuits",
-        "embedded",
-        "components"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "Technology",
-      "title": "\"Technology\"",
-      "file": "/home/hermes/Neural-Nexus/docs/Technology.md",
-      "tags": [
-        "technology",
-        "innovation",
-        "digital",
-        "computing",
-        "engineering"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily",
-      "title": "Why Sensitive People Get Traumatized So Easily",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily.md",
-      "tags": [
-        "social_media"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "title": "\"The Challenge: Building a Custom Electric Vehicle\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
-      "title": "The Never-Ending Downfall of KSI",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi.md",
-      "tags": [
-        "social_media"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-how-money-works-work002",
-      "title": "\"People No Longer Want To Work.\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-work002.md",
-      "tags": [
-        "finance",
-        "economics",
-        "education",
-        "money"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-example7-why-you-can-not-just-rewire-your-brain",
-      "title": "\"Why You Can Not Just Rewire Your Brain\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example7-why-you-can-not-just-rewire-your-brain.md",
-      "tags": [
-        "YouTube",
-        "HealthyGamerGG",
-        "Mental Health",
-        "Psychology"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-how-money-works-toefl005",
-      "title": "\"How I Accidentally Got a 110 on the TOEFL (You can too)\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-how-money-works-toefl005.md",
-      "tags": [
-        "finance",
-        "economics",
-        "education",
-        "money"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-example6-why-normal-life-feels-so-boring",
-      "title": "\"Why Normal Life Feels So Boring\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-example6-why-normal-life-feels-so-boring.md",
-      "tags": [
-        "YouTube",
-        "HealthyGamerGG",
-        "Mental Health",
-        "Psychology"
-      ],
+      "id": "the-infographics-show-k0ksj42YJaM-Jonah-Hills-Life-Is-Falling-Apart",
+      "title": "the-infographics-show-k0ksj42YJaM-Jonah-Hills-Life-Is-Falling-Apart",
+      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-k0ksj42YJaM-Jonah-Hills-Life-Is-Falling-Apart.md",
+      "tags": [],
       "type": "page"
     }
   ],
   "edges": [
     {
-      "source": "youtube-example3-what-divorce-does-to-a-child",
-      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
+      "source": "index-catalog",
+      "target": "the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining",
       "type": "wikilink"
     },
     {
-      "source": "YouTube-Tutorials",
-      "target": "Programming",
+      "source": "index-catalog",
+      "target": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
       "type": "wikilink"
     },
     {
-      "source": "YouTube-Tutorials",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "source": "index-catalog",
+      "target": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
       "type": "wikilink"
     },
     {
-      "source": "YouTube-Tutorials",
-      "target": "Hardware",
+      "source": "index-catalog",
+      "target": "the-infographics-show-k0ksj42YJaM-Jonah-Hills-Life-Is-Falling-Apart",
       "type": "wikilink"
     },
     {
-      "source": "YouTube-Tutorials",
-      "target": "Automotive",
+      "source": "index-catalog",
+      "target": "the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI",
       "type": "wikilink"
     },
     {
-      "source": "youtube-example8_andrew-tates-life-is-falling-apart",
-      "target": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
+      "source": "index-catalog",
+      "target": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
       "type": "wikilink"
     },
     {
-      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "Hardware",
+      "source": "index-catalog",
+      "target": "the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier",
       "type": "wikilink"
     },
     {
-      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "Automotive",
+      "source": "index-catalog",
+      "target": "the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining",
       "type": "wikilink"
     },
     {
-      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "Daves-Garage",
+      "source": "index-catalog",
+      "target": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
       "type": "wikilink"
     },
     {
-      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "YouTube-Tutorials",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "Daves-Garage",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "Daves-Garage",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "Daves-Garage",
-      "target": "Automotive",
-      "type": "wikilink"
-    },
-    {
-      "source": "Daves-Garage",
-      "target": "Hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "Daves-Garage",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "YouTube-Tutorials",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "Technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "Daves-Garage",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "YouTube-Tutorials",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-example5-the-secret-to-fixing-your-adulthood",
-      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
-      "type": "wikilink"
-    },
-    {
-      "source": "Networking",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "Networking",
-      "target": "Hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "Automotive",
-      "target": "Hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "Automotive",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "Automotive",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "Hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "Technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "Automotive",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "Daves-Garage",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "YouTube-Tutorials",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-2MwTDoT8q_A_why-40-of-young-men-need-erectile-retraining",
-      "target": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
-      "type": "wikilink"
-    },
-    {
-      "source": "Programming",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "Programming",
-      "target": "Hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-k0ksj42YJaM_jonah-hills-life-is-falling-apart",
-      "target": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
-      "type": "wikilink"
-    },
-    {
-      "source": "Hardware",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "Hardware",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "Hardware",
-      "target": "Automotive",
-      "type": "wikilink"
-    },
-    {
-      "source": "Technology",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "Technology",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "Technology",
-      "target": "Hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "Technology",
-      "target": "Automotive",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily",
-      "target": "youtube-dQw4w9WgXcQ_the-never-ending-downfall-of-ksi",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-_4x0fRO6w5M_why-sensitive-people-get-traumatized-so-easily",
-      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "Hardware",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "Technology",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "Automotive",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "Daves-Garage",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "YouTube-Tutorials",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "Programming",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-example7-why-you-can-not-just-rewire-your-brain",
-      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-example6-why-normal-life-feels-so-boring",
-      "target": "youtube-example1-how-interrogators-use-psychology-to-get-a-confession",
+      "source": "index-catalog",
+      "target": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
       "type": "wikilink"
     }
   ],
   "metadata": {
-    "generated": "2026-09-25T01:39:14.835482",
-    "total_nodes": 27,
-    "total_edges": 61
+    "generated": "2026-09-26T22:56:18.927377",
+    "total_nodes": 14,
+    "total_edges": 10
   }
 }
