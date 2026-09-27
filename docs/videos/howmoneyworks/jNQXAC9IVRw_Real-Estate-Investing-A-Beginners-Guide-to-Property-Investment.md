@@ -1,27 +1,28 @@
 ---
-channel: How Money Works
-created: '2026-09-18'
-domain: general
-ingestion_date: '2026-09-18'
-sources:
-- https://www.youtube.com/watch?v=jNQXAC9IVRw
-tags:
-- general
-title: 'Real Estate Investing: A Beginner''s Guide to Property Investment'
-transcript_api: transcriptapi.com
-type: video
-updated: '2026-09-18'
-video_id: jNQXAC9IVRw
+{
+  "title": "Real Estate Investing: A Beginner's Guide to Property Investment",
+  "created": "2026-09-18",
+  "updated": "2026-09-18",
+  "type": "video",
+  "tags": [
+    "investing",
+    "real estate"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+  ],
+  "video_id": "jNQXAC9IVRw",
+  "channel": "How Money Works",
+  "transcript_api": "transcriptapi.com",
+  "ingestion_date": "2026-09-18"
+}
 ---
-
-
-
 
 # Real Estate Investing: A Beginner's Guide to Property Investment
 
 ## Video Information
 
-- **Channel**: How Money Works
+- **Channel**: [[How Money Works]]
 - **Video ID**: jNQXAC9IVRw
 - **Original URL**: https://www.youtube.com/watch?v=jNQXAC9IVRw
 - **Ingestion Date**: 2026-09-18
@@ -68,13 +69,13 @@ This comprehensive exploration of investing and real estate provides viewers wit
 ## Key Topics
 
 - [[investing]]
-- real estate
+- [[real estate]]
 
 ## Related Content
 
-- How Money Works - Main channel page
-- Personal Finance - General personal finance topics
-- [[investing]] - Investment strategies and concepts
+- [[How Money Works]] - Main channel page
+- [[Personal Finance]] - General personal finance topics
+- [[Investing]] - Investment strategies and concepts
 
 ---
 
