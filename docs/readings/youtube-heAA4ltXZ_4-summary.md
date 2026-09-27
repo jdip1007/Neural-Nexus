@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-24
+created: 2026-09-26
 domain: ai
-published: 2026-08-24
-reviewed: 2026-08-24
+published: 2026-09-26
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-heAA4ltXZ_4-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: YouTubers Who Destroyed Their Career With 1 Video - Summary
 type: reading
-updated: 2026-08-24
+updated: 2026-09-26
 ---
-
 
 
 # YouTubers Who Destroyed Their Career With 1 Video - Summary
@@ -32,12 +32,12 @@ This video discusses YouTubers Who Destroyed Their Career With 1 Video
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Mr Beast, Travis Pastrana, The Click
+- **Persons**: Antics Colleen, Trevor Jacobs, Miranda Sings
 - **Organizations**: Hand Foundation
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > his main Channel however his luck would
@@ -47,15 +47,3 @@ This video discusses YouTubers Who Destroyed Their Career With 1 Video
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-OunJtLnyPT4-in-july]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-THodtjsCTSI-safe-place]]
-- [[youtube-WNSZ6xouNv4-and-that]]
-- [[youtube-WNSZ6xouNv4-used-to]]
-- 
-- [[youtube-ecBEqWeipWs-the-world]]
-- [[youtube-heaa4ltxz-4-hand-foundation]]

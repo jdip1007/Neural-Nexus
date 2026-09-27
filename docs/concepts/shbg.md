@@ -1,5 +1,5 @@
 ---
-classification: shbg
+classification: misc.shbg
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Shbg
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 # Shbg

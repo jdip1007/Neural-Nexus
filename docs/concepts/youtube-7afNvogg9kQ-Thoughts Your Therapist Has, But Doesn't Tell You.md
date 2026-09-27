@@ -1,5 +1,5 @@
 ---
-classification: youtube
+classification: media.youtube
 created: 2026-09-03
 domain: psychology
 sources:
@@ -11,6 +11,7 @@ title: Thoughts Your Therapist Has, But Doesn't Tell You
 type: concept
 updated: 2026-09-03
 ---
+
 
 
 

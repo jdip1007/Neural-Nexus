@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=fdJ7hBBivQc
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
+ingested: 2026-09-26
+published: 2026-09-26
 duration_minutes: 9
 language: en
 sha256: 76fd3b1f2f2517b5c40f9de574e2dbee4383ff8f91d050a74f547cbab1ce150b

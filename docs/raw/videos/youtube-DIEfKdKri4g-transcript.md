@@ -1,18 +1,18 @@
 ---
 source_url: https://www.youtube.com/watch?v=DIEfKdKri4g
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
+ingested: 2026-09-26
+published: 2026-09-26
 duration_minutes: 15
 language: en
 sha256: 0054495c63b72a22445000ec4714e285abd932a20f1249e5a4e7e64b4410dab2
 time_sensitive: True
 ---
 
-# YouTube Transcript: How Airrack Has Been Faking Videos...
+# YouTube Transcript: How Airrack Has Been Faking Videos | Internet Anarchist Reaction
 
 ## Video Information
-- **Title**: How Airrack Has Been Faking Videos...
+- **Title**: How Airrack Has Been Faking Videos | Internet Anarchist Reaction
 - **Video ID**: DIEfKdKri4g
 - **Published**: Unknown
 - **Views**: Unknown

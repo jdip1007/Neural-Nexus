@@ -1,5 +1,5 @@
 ---
-classification: social
+classification: misc.social
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: Social Skills
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

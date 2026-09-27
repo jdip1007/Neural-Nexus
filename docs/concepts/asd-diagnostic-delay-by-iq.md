@@ -1,5 +1,5 @@
 ---
-classification: autism-spectrum-disorder
+classification: misc.autism-spectrum-disorder
 confidence: high
 created: 2026-09-24
 domain: psychology
@@ -13,6 +13,7 @@ title: ASD Diagnostic Delay by IQ Level
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

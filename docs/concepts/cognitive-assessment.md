@@ -1,5 +1,5 @@
 ---
-classification: cognitive-assessment
+classification: misc.cognitive-assessment
 created: 2026-09-25
 domain: psychology
 status: stub
@@ -9,6 +9,7 @@ title: Cognitive Assessment
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

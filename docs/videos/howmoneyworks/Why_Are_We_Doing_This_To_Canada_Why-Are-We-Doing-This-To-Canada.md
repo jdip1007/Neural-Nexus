@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Why Are We Doing This To Canada?",
-  "created": "2026-09-26",
-  "updated": "2026-09-26",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "investing"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Why_Are_We_Doing_This_To_Canada"
-  ],
-  "video_id": "Why_Are_We_Doing_This_To_Canada",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-26"
-}
+channel: How Money Works
+created: '2026-09-26'
+domain: general
+ingestion_date: '2026-09-26'
+sources:
+- https://www.youtube.com/watch?v=Why_Are_We_Doing_This_To_Canada
+tags:
+- investing
+title: Why Are We Doing This To Canada?
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-26'
+video_id: Why_Are_We_Doing_This_To_Canada
 ---
+
+
 
 # Why Are We Doing This To Canada?
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: [[how-money-works]]
 - **Video ID**: Why_Are_We_Doing_This_To_Canada
 - **Original URL**: https://www.youtube.com/watch?v=Why_Are_We_Doing_This_To_Canada
 - **Ingestion Date**: 2026-09-26
@@ -72,9 +70,9 @@ This comprehensive exploration of international finance and economic policy prov
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- [[how-money-works]] - Main channel page
+- [[personal-finance]] - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

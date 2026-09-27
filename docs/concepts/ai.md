@@ -1,5 +1,5 @@
 ---
-classification: artificial-intelligence
+classification: tech.artificial-intelligence
 confidence: high
 created: 2026-08-20
 domain: ai
@@ -12,6 +12,7 @@ title: Artificial Intelligence
 type: concept
 updated: 2026-08-20
 ---
+
 
 
 

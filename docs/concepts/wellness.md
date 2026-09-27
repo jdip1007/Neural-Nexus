@@ -1,5 +1,5 @@
 ---
-classification: wellness
+classification: misc.wellness
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: Wellness
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

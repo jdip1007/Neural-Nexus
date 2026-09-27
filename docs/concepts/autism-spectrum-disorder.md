@@ -1,5 +1,5 @@
 ---
-classification: autism-spectrum-disorder
+classification: misc.autism-spectrum-disorder
 created: 2026-09-24
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Autism Spectrum Disorder
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

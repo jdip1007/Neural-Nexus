@@ -1,5 +1,5 @@
 ---
-classification: anxiety
+classification: misc.anxiety
 created: 2026-09-21
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Anxiety Management
 type: concept
 updated: 2026-09-21
 ---
+
 
 
 

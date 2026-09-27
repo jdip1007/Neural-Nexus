@@ -1,6 +1,6 @@
 ---
 backlinks: []
-classification: youtube-creator
+classification: misc.youtube-creator
 confidence: high
 created: '2026-08-25'
 domain: general
@@ -14,6 +14,7 @@ title: YouTube Creator
 type: reading
 updated: '2026-08-25'
 ---
+
 
 
 

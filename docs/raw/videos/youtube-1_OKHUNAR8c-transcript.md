@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=1_OKHUNAR8c
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
+ingested: 2026-09-26
+published: 2026-09-26
 duration_minutes: 14
 language: en
 sha256: 3b04ac2439e6671dd3b4492a509171b52ceed293167a9b288c9ec379dbe2187c

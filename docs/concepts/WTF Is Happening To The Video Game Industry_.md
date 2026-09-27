@@ -1,5 +1,5 @@
 ---
-classification: youtube
+classification: media.youtube
 created: 2026-09-04
 domain: finance
 sources:
@@ -10,6 +10,7 @@ title: WTF Is Happening To The Video Game Industry?
 type: concept
 updated: 2026-09-04
 ---
+
 
 
 

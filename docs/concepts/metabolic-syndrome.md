@@ -1,5 +1,5 @@
 ---
-classification: metabolic-syndrome
+classification: misc.metabolic-syndrome
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Metabolic Syndrome
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

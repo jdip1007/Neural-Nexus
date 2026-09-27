@@ -1,5 +1,5 @@
 ---
-classification: glucose-metabolism
+classification: misc.glucose-metabolism
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Glucose Metabolism
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-classification: metabolic-rate
+classification: misc.metabolic-rate
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Metabolic Rate
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

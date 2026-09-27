@@ -1,23 +1,20 @@
 ---
-{
-  "title": "Chris Willx: Why Women Hate Sydney Sweeney & Love Sabrina Carpenter",
-  "created": "2026-09-26T22:55:46.136248",
-  "updated": "2026-09-26T22:55:46.136249",
-  "type": "youtube",
-  "tags": [
-    "youtube",
-    "chris-willx",
-    "media",
-    "culture",
-    "social trends"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Y-r63JyWmDs"
-  ],
-  "youtube_id": "Y-r63JyWmDs",
-  "channel": "Chris Willx"
-}
+channel: Chris Willx
+created: '2026-09-26T22:55:46.136248'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=Y-r63JyWmDs
+tags:
+- youtube
+- media
+- culture
+title: 'Chris Willx: Why Women Hate Sydney Sweeney & Love Sabrina Carpenter'
+type: youtube
+updated: '2026-09-26T22:55:46.136249'
+youtube_id: Y-r63JyWmDs
 ---
+
+
 
 # Chris Willx: Why Women Hate Sydney Sweeney & Love Sabrina Carpenter
 
@@ -37,7 +34,7 @@ Cultural analysis and media commentary on contemporary social trends. We examine
 
 ## Related Videos
 
-- [[Chris Willx]] channel
+- Chris Willx channel
 - [[YouTube]] content
 
 ## Notes

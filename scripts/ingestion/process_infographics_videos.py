@@ -223,7 +223,7 @@ This page captures the key insights and discussions from a video by The Infograp
 def main():
     """Main processing function"""
     # Initialize processor
-    neural_nexus_path = os.getenv('NEURAL_NEXUS_PATH', '/home/hermes/Neural-Nexus/docs')
+    neural_nexus_path = os.getenv('NEURAL_NEXUS_PATH', '/home/hermes/Neural-Nexus/content')
     processor = VideoProcessor(neural_nexus_path)
     
     # Load videos from tracker
@@ -235,8 +235,8 @@ def main():
     videos_to_process = []
     for video_id, video_data in processed_videos.items():
         # Check if page already exists
-        safe_title = re.sub(r'[^\w\s-]', '', video_data["title"]).strip()
-        safe_title = re.sub(r'[-\s]+', '-', safe_title)
+        safe_title = re.sub(r'[^\\w\\s-]', '', video_data["title"]).strip()
+        safe_title = re.sub(r'[-\\s]+', '-', safe_title)
         filename = f"the-infographics-show-{video_id}-{safe_title[:50]}.md"
         filepath = os.path.join(neural_nexus_path, filename)
         

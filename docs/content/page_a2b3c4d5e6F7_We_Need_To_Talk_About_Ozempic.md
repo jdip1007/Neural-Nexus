@@ -1,24 +1,22 @@
 ---
-{
-  "title": "We Need To Talk About Ozempic",
-  "created": "2026-09-27T05:24:10.028007",
-  "updated": "2026-09-27T05:24:10.028008",
-  "type": "video",
-  "tags": [
-    "healthygamergg",
-    "psychology",
-    "mental health",
-    "therapy",
-    "relationships",
-    "counseling"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=a2b3c4d5e6F7"
-  ],
-  "video_id": "a2b3c4d5e6F7",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-27T05:24:10.028007'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=a2b3c4d5e6F7
+tags:
+- healthygamergg
+- psychology
+- therapy
+- relationships
+- counseling
+title: We Need To Talk About Ozempic
+type: video
+updated: '2026-09-27T05:24:10.028008'
+video_id: a2b3c4d5e6F7
 ---
+
+
 
 # We Need To Talk About Ozempic
 

@@ -1,23 +1,21 @@
 ---
-{
-  "title": "The Cost Of Attention",
-  "created": "2026-09-27T05:24:58.205137",
-  "updated": "2026-09-27T05:24:58.205139",
-  "type": "video",
-  "tags": [
-    "healthygamergg",
-    "psychology",
-    "mental health",
-    "dating",
-    "relationships"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=i0j1k2l3m4N5"
-  ],
-  "video_id": "i0j1k2l3m4N5",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-27T05:24:58.205137'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=i0j1k2l3m4N5
+tags:
+- healthygamergg
+- psychology
+- dating
+- relationships
+title: The Cost Of Attention
+type: video
+updated: '2026-09-27T05:24:58.205139'
+video_id: i0j1k2l3m4N5
 ---
+
+
 
 # The Cost Of Attention
 

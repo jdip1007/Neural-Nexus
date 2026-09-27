@@ -1,5 +1,5 @@
 ---
-classification: caffeine-mechanisms
+classification: misc.caffeine-mechanisms
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Caffeine Mechanisms
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

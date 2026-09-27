@@ -1,5 +1,5 @@
 ---
-classification: nutritional-epidemiology
+classification: misc.nutritional-epidemiology
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Nutritional Epidemiology
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

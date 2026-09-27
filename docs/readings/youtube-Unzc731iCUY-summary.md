@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-09-03
+created: 2026-09-26
 domain: ai
-published: 2026-09-03
-reviewed: 2026-09-03
+published: 2026-09-26
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-Unzc731iCUY-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: How to Speak - Summary
 type: reading
-updated: 2026-09-03
+updated: 2026-09-26
 ---
-
 
 
 # How to Speak - Summary
@@ -45,14 +45,14 @@ it's important to talk about your research in context
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Democratic Convention, Alan Lazarus, Doug Lenat
+- **Persons**: Media Lab, Bartos Theater, Celebrity Weekend
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- artificial-intelligence
-- [ai](concepts/ai.md)
-- framework
-- [algorithm](concepts/algorithm.md)
+- [[ai]]
+- [[artificial-intelligence]]
+- [[framework]]
+- [[algorithm]]
 
 ## Transcript Highlights
 > about the place? And the most important
@@ -67,9 +67,3 @@ event or the opposite way around. So how can we fix this?
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[algorithm]]
-- [[engineering]]

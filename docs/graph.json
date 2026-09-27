@@ -22,6 +22,20 @@
       "type": "page"
     },
     {
+      "id": "youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "title": "\"The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "index",
       "title": "Index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
@@ -36,10 +50,37 @@
       "type": "page"
     },
     {
+      "id": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "title": "\"Hidden Code: How Slot Machines Actually Work - The Computer Inside\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "tags": [
+        "programming",
+        "technology",
+        "gaming",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI",
       "title": "the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI",
       "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "title": "\"The Challenge: Can we build Notepad in 3K in assembly language?\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language.md",
+      "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
       "type": "page"
     },
     {
@@ -54,6 +95,33 @@
       "title": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
       "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
+      "title": "\"Microsoft's Secret 90s Weapon That Made Windows Fast\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "title": "\"The Challenge: Building a Custom Electric Vehicle\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
       "type": "page"
     },
     {
@@ -78,13 +146,6 @@
       "type": "page"
     },
     {
-      "id": "index-catalog",
-      "title": "Index Catalog",
-      "file": "/home/hermes/Neural-Nexus/docs/index-catalog.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
       "id": "graph",
       "title": "Graph",
       "file": "/home/hermes/Neural-Nexus/docs/graph.md",
@@ -99,61 +160,10 @@
       "type": "page"
     }
   ],
-  "edges": [
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-k0ksj42YJaM-Jonah-Hills-Life-Is-Falling-Apart",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
-      "type": "wikilink"
-    },
-    {
-      "source": "index-catalog",
-      "target": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
-      "type": "wikilink"
-    }
-  ],
+  "edges": [],
   "metadata": {
-    "generated": "2026-09-26T22:56:18.927377",
-    "total_nodes": 14,
-    "total_edges": 10
+    "generated": "2026-09-27T03:43:59.067041",
+    "total_nodes": 18,
+    "total_edges": 0
   }
 }

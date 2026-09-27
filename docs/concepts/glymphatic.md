@@ -1,5 +1,5 @@
 ---
-classification: brain
+classification: misc.brain
 confidence: high
 created: 2026-08-25
 domain: biology
@@ -13,6 +13,7 @@ title: Glymphatic system
 type: concept
 updated: 2026-08-25
 ---
+
 
 
 

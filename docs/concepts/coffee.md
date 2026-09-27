@@ -1,5 +1,5 @@
 ---
-classification: coffee
+classification: misc.coffee
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Coffee
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

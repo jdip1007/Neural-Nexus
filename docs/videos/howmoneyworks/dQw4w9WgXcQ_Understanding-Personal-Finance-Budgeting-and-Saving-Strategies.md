@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Understanding Personal Finance: Budgeting and Saving Strategies",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "budgeting"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  ],
-  "video_id": "dQw4w9WgXcQ",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=dQw4w9WgXcQ
+tags:
+- budgeting
+title: 'Understanding Personal Finance: Budgeting and Saving Strategies'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: dQw4w9WgXcQ
 ---
+
+
 
 # Understanding Personal Finance: Budgeting and Saving Strategies
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: [[how-money-works]]
 - **Video ID**: dQw4w9WgXcQ
 - **Original URL**: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - **Ingestion Date**: 2026-09-18
@@ -68,14 +66,14 @@ This comprehensive exploration of personal finance and budgeting provides viewer
 
 ## Key Topics
 
-- [[personal finance]]
+- personal finance
 - [[budgeting]]
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- [[how-money-works]] - Main channel page
+- [[personal-finance]] - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

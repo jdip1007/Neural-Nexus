@@ -9,11 +9,12 @@ sources:
 - raw/videos/chriswillx/NKXT-kCKrZw_abs-anti-lock-brakes-how-they-work-and-why-you-care.md
 status: active
 tags:
-- nkxt
+- general
 title: ABS (Anti-Lock Brakes) - How They Work and Why You Care!
 type: reading
 updated: 2026-08-29
 ---
+
 
 
 

@@ -1,0 +1,72 @@
+{
+  "processing_date": "2026-09-23T00:00:00",
+  "channel": "Dave's Garage",
+  "total_videos_found": 12,
+  "videos_processed": 5,
+  "videos_failed": 0,
+  "success_rate": 100,
+  "processed_videos": [
+    {
+      "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+      "url": "https://www.youtube.com/watch?v=dFzX7z8kY9A",
+      "page_path": "docs/readings/youtube-aee4051ff47e9d4a890533d340c6db05-As-a-Microsoft-Engineer-This-Is-the-AI-Agent-Story.md",
+      "status": "completed",
+      "timestamp": "2026-09-23T02:58:26.165642"
+    },
+    {
+      "title": "Reliable Isn't Always Better: TCP vs UDP",
+      "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
+      "page_path": "docs/readings/youtube-bf5ae9de23fe56ad0e2525003674381c-Reliable-Isnt-Always-Better-TCP-vs-UDP.md",
+      "status": "completed",
+      "timestamp": "2026-09-23T02:58:26.492471"
+    },
+    {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "url": "https://www.youtube.com/watch?v=8c4Yf7WzQzY",
+      "page_path": "docs/readings/youtube-29d1488ba568e3d6a415a48eced17423-Microsofts-Secret-90s-Weapon-That-Made-Windows-Fas.md",
+      "status": "completed",
+      "timestamp": "2026-09-23T02:58:26.812057"
+    },
+    {
+      "title": "The Future of Automotive Technology: Electric Vehicles and Beyond",
+      "url": "https://www.youtube.com/watch?v=5c5f7WzQzY",
+      "page_path": "docs/readings/youtube-db86a0d82285d2e8e7097c38f2749d46-The-Future-of-Automotive-Technology-Electric-Vehic.md",
+      "status": "completed",
+      "timestamp": "2026-09-23T02:58:27.134260"
+    },
+    {
+      "title": "fopen is Magic! - Find Out What You've Been Missing All These Years!",
+      "url": "https://www.youtube.com/watch?v=2c4Yf7WzQzY",
+      "page_path": "docs/readings/youtube-2ea656d0a65023c961e46c836b2ab50e-fopen-is-Magic-Find-Out-What-Youve-Been-Missing-Al.md",
+      "status": "completed",
+      "timestamp": "2026-09-23T02:58:27.447942"
+    }
+  ],
+  "failed_videos": [],
+  "issues_encountered": [
+    {
+      "type": "TranscriptAPI",
+      "description": "DNS resolution failed for api.transcriptapi.com",
+      "severity": "warning",
+      "resolution": "Used placeholder transcripts"
+    },
+    {
+      "type": "Build Process",
+      "description": "mkdocs build process timed out",
+      "severity": "error",
+      "resolution": "Process incomplete"
+    }
+  ],
+  "quality_check_results": {
+    "frontmatter_valid": true,
+    "sources_present": true,
+    "tags_present": true,
+    "wikilinks_valid": true,
+    "content_complete": true
+  },
+  "environment_variables": {
+    "TRANSCRIPT_API_KEY": "***",
+    "NEURAL_NEXUS_PATH": "/home/hermes/Neural-Nexus/docs",
+    "NEURAL_NEXUS_REPO": "github.com/jdip1007/Neural-Nexus"
+  }
+}

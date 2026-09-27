@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Canada Is Joining The EU... But WTF Does That Even Mean?!",
-  "created": "2026-09-26",
-  "updated": "2026-09-26",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "investing"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Canada_Is_Joining_The_EU"
-  ],
-  "video_id": "Canada_Is_Joining_The_EU",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-26"
-}
+channel: How Money Works
+created: '2026-09-26'
+domain: general
+ingestion_date: '2026-09-26'
+sources:
+- https://www.youtube.com/watch?v=Canada_Is_Joining_The_EU
+tags:
+- investing
+title: Canada Is Joining The EU... But WTF Does That Even Mean?!
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-26'
+video_id: Canada_Is_Joining_The_EU
 ---
+
+
 
 # Canada Is Joining The EU... But WTF Does That Even Mean?!
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: [[how-money-works]]
 - **Video ID**: Canada_Is_Joining_The_EU
 - **Original URL**: https://www.youtube.com/watch?v=Canada_Is_Joining_The_EU
 - **Ingestion Date**: 2026-09-26
@@ -72,9 +70,9 @@ This comprehensive exploration of international finance and economic policy prov
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- [[how-money-works]] - Main channel page
+- [[personal-finance]] - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

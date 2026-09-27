@@ -1,5 +1,5 @@
 ---
-classification: gaming
+classification: misc.gaming
 created: 2026-09-21
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Gaming Mental Health Resources
 type: concept
 updated: 2026-09-21
 ---
+
 
 
 

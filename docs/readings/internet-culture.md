@@ -1,6 +1,6 @@
 ---
 backlinks: []
-classification: internet-culture
+classification: misc.internet-culture
 confidence: high
 created: '2026-08-25'
 domain: general
@@ -14,6 +14,7 @@ title: Internet Culture
 type: reading
 updated: '2026-08-25'
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-classification: how
+classification: misc.how
 created: 2026-09-21
 domain: finance
 status: draft
@@ -9,6 +9,7 @@ title: How Money Works
 type: concept
 updated: 2026-09-21
 ---
+
 
 
 

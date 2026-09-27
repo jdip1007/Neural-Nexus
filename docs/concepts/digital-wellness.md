@@ -1,5 +1,5 @@
 ---
-classification: digital
+classification: misc.digital
 created: 2026-09-21
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: Digital Wellness
 type: concept
 updated: 2026-09-21
 ---
+
 
 
 

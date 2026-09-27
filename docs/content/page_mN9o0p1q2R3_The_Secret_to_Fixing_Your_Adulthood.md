@@ -1,24 +1,21 @@
 ---
-{
-  "title": "The Secret to Fixing Your Adulthood",
-  "created": "2026-09-27T05:25:00.585139",
-  "updated": "2026-09-27T05:25:00.585141",
-  "type": "video",
-  "tags": [
-    "healthygamergg",
-    "psychology",
-    "mental health",
-    "emotional intelligence",
-    "communication",
-    "relationships"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=mN9o0p1q2R3"
-  ],
-  "video_id": "mN9o0p1q2R3",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-27T05:25:00.585139'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=mN9o0p1q2R3
+tags:
+- healthygamergg
+- psychology
+- communication
+- relationships
+title: The Secret to Fixing Your Adulthood
+type: video
+updated: '2026-09-27T05:25:00.585141'
+video_id: mN9o0p1q2R3
 ---
+
+
 
 # The Secret to Fixing Your Adulthood
 

@@ -1,5 +1,5 @@
 ---
-classification: metabolomics
+classification: misc.metabolomics
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Metabolomics
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

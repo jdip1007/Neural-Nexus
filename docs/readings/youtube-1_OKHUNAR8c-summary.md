@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-23
+created: 2026-09-26
 domain: ai
-published: 2026-08-23
-reviewed: 2026-08-23
+published: 2026-09-26
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-1_OKHUNAR8c-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: Andrew Tate's Life Is Falling Apart - Summary
 type: reading
-updated: 2026-08-23
+updated: 2026-09-26
 ---
-
 
 
 # Andrew Tate's Life Is Falling Apart - Summary
@@ -34,10 +34,10 @@ This video discusses Andrew Tate's Life Is Falling Apart
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: With Andrew, The British, United Kingdom
+- **Persons**: The Matrix, British American, Elon Musk
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > >> One of my main chicks is 200,000
@@ -48,13 +48,3 @@ This video discusses Andrew Tate's Life Is Falling Apart
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- youtube-1-OKHUNAR8c-the-british
-- youtube-1-OKHUNAR8c-united-kingdom
-- youtube-1-OKHUNAR8c-with-andrew
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WlZmY4fLzhI-the-united]]
-- [[youtube-ecBEqWeipWs-the-world]]

@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
-  "created": "2026-09-25",
-  "updated": "2026-09-25",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast"
-  ],
-  "video_id": "Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-25"
-}
+channel: Chris Willx
+created: '2026-09-25'
+domain: general
+ingestion_date: '2026-09-25'
+sources:
+- https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast
+tags:
+- philosophy
+- psychology
+title: Microsoft's Secret 90s Weapon That Made Windows Fast
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-25'
+video_id: Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast
 ---
+
 
 # Microsoft's Secret 90s Weapon That Made Windows Fast
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: Chris Willx
 - **Video ID**: Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast
 - **Original URL**: https://www.youtube.com/watch?v=Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast
 - **Ingestion Date**: 2026-09-25
@@ -72,9 +70,9 @@ This comprehensive exploration of mindfulness and productivity provides viewers 
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+- Chris Willx - Main channel page
+- Philosophy - General philosophy topics
+- Psychology - Psychological concepts discussed
 
 ---
 

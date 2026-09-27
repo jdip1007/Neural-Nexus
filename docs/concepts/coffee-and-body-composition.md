@@ -1,5 +1,5 @@
 ---
-classification: coffee
+classification: misc.coffee
 confidence: high
 created: 2026-09-24
 domain: biology
@@ -13,6 +13,7 @@ title: Coffee and Body Composition
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

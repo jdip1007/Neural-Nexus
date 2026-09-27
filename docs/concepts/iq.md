@@ -1,5 +1,5 @@
 ---
-classification: iq
+classification: misc.iq
 created: 2026-09-25
 domain: psychology
 status: stub
@@ -9,6 +9,7 @@ title: Iq
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 # Iq

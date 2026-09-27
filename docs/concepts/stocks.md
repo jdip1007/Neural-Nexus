@@ -1,0 +1,127 @@
+---
+backlinks: []
+classification: finance.investing.stocks
+confidence: high
+created: 2026-09-27
+domain: finance
+reviewed: 2026-09-27
+sources: []
+status: active
+tags:
+- stocks
+- investing
+- equity
+- market
+title: Stocks
+type: concept
+updated: 2026-09-27
+---
+
+
+# Stocks
+
+## Overview
+
+Stocks represent ownership shares in a company. When you buy a stock, you become a partial owner (shareholder) of that business and have a claim on its assets and earnings.
+
+## Types of Stocks
+
+### Common Stock
+- **Voting Rights**: Shareholders typically have voting rights in corporate decisions
+- **Dividends**: May receive dividends (portions of company profits)
+- **Residual Claim**: Last in line for assets during liquidation after creditors and preferred shareholders
+
+### Preferred Stock
+- **Fixed Dividends**: Usually receive fixed dividend payments
+- **No Voting Rights**: Typically no voting rights in corporate matters
+- **Priority Claim**: Higher priority than common shareholders in asset distribution
+
+## Stock Market Basics
+
+### Stock Exchanges
+- **NYSE**: New York Stock Exchange - largest by market capitalization
+- **NASDAQ**: National Association of Securities Dealers Automated Quotations - technology-focused
+- **International Exchanges**: Tokyo Stock Exchange, London Stock Exchange, etc.
+
+### Stock Symbols
+- **Ticker Symbols**: Unique 1-5 character codes for identifying stocks
+- **Company Identification**: Helps traders and investors quickly identify specific companies
+- **Market Data**: Used for tracking stock prices and trading volumes
+
+## Investment Strategies
+
+### Growth Stocks
+- **High Growth Potential**: Companies expected to grow faster than market average
+- **Reinvested Profits**: Often reinvest profits back into the business rather than paying dividends
+- **Higher Valuation**: Typically trade at higher price-to-earnings ratios
+- **Examples**: Technology companies, innovative startups
+
+### Value Stocks
+- **Undervalued**: Trading below their intrinsic value based on fundamentals
+- **Dividend Focus**: Often pay regular dividends to shareholders
+- **Established Companies**: Typically well-established businesses with stable earnings
+- **Lower Risk**: Generally less volatile than growth stocks
+
+### Dividend Stocks
+- **Income Generation**: Focus on providing regular income through dividends
+- **Stability**: Often from mature, established companies
+- **Reinvestment**: Dividends can be reinvested to compound returns
+- **Lower Growth**: Typically slower growth but more stable income
+
+## Key Metrics
+
+### Price-to-Earnings (P/E) Ratio
+- **Valuation Metric**: Compares stock price to earnings per share
+- **Market Comparison**: Helps compare valuation across companies
+- **Growth vs Value**: Higher P/E suggests growth expectations, lower suggests value
+
+### Dividend Yield
+- **Income Return**: Annual dividend divided by current stock price
+- **Income Focus**: Important for income-focused investors
+- **Growth Trade-off**: High yield may indicate limited growth potential
+
+### Market Capitalization
+- **Company Size**: Total market value of outstanding shares
+- **Risk Classification**: Large-cap, mid-cap, small-cap classifications
+- **Investment Strategy**: Different strategies based on company size
+
+## Risk and Return
+
+### Potential Returns
+- **Capital Appreciation**: Increase in stock price over time
+- **Dividend Income**: Regular payments from company profits
+- **Total Return**: Combination of price appreciation and dividends
+
+### Risk Factors
+- **Market Risk**: Overall market movements affecting all stocks
+- **Company Risk**: Specific factors affecting individual companies
+- **Sector Risk**: Industry-specific challenges and opportunities
+- **Liquidity Risk**: Difficulty buying or selling shares at desired prices
+
+## Investment Considerations
+
+### Research and Analysis
+- **Fundamental Analysis**: Study company financials, management, and competitive position
+- **Technical Analysis**: Analyze price patterns, trading volumes, and market indicators
+- **Qualitative Analysis**: Assess company culture, brand strength, and competitive advantages
+
+### Diversification
+- **Asset Allocation**: Mix of different types of investments
+- **Risk Management**: Spread risk across various stocks and sectors
+- **Rebalancing**: Adjust portfolio to maintain target allocations
+
+## Long-term Perspective
+
+### Compound Growth
+- **Time Value**: Longer holding periods allow for compounding returns
+- **Market History**: Stocks have historically outperformed other asset classes over long periods
+- **Patience**: Successful investing often requires long-term commitment
+
+### Market Cycles
+- **Periodic Volatility**: Markets go through cycles of growth and decline
+- **Emotional Discipline**: Avoid making decisions based on short-term market movements
+- **Systematic Investing**: Regular investments through market cycles
+
+---
+
+*This page was automatically generated by the YouTube Ingestion Pipeline.*

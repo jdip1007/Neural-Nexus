@@ -9,12 +9,12 @@ sources:
 status: active
 tags:
 - pcr
-- gc-rich
 - dmso
 title: PCR Amplification of GC-Rich Templates (Green & Sambrook 2019)
 type: reading
 updated: 2026-07-26
 ---
+
 
 
 

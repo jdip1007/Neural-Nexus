@@ -1,5 +1,5 @@
 ---
-classification: youtube
+classification: media.youtube
 created: 2026-09-20
 domain: general
 sources:
@@ -10,6 +10,7 @@ title: Internet Anarchist - Investment
 type: concept
 updated: 2026-09-20
 ---
+
 
 
 

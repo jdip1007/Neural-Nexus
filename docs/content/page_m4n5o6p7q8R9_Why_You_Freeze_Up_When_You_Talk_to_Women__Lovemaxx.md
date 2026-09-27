@@ -1,21 +1,19 @@
 ---
-{
-  "title": "Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K",
-  "created": "2026-09-27T05:24:08.506183",
-  "updated": "2026-09-27T05:24:08.506185",
-  "type": "video",
-  "tags": [
-    "healthygamergg",
-    "psychology",
-    "mental health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=m4n5o6p7q8R9"
-  ],
-  "video_id": "m4n5o6p7q8R9",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-27T05:24:08.506183'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=m4n5o6p7q8R9
+tags:
+- healthygamergg
+- psychology
+title: Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K
+type: video
+updated: '2026-09-27T05:24:08.506185'
+video_id: m4n5o6p7q8R9
 ---
+
+
 
 # Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K
 

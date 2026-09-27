@@ -1,5 +1,5 @@
 ---
-classification: testosterone
+classification: misc.testosterone
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Testosterone
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

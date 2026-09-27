@@ -1,5 +1,5 @@
 ---
-classification: youtube
+classification: media.youtube
 created: 2026-09-04
 domain: psychology
 sources:
@@ -10,6 +10,7 @@ title: The Lie of "Positive Thinking"
 type: concept
 updated: 2026-09-04
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-classification: youtube
+classification: media.youtube
 created: 2026-09-04
 domain: finance
 sources:
@@ -11,6 +11,7 @@ title: Why We (Probably) Shouldn't Give Iran $300 Billion Dollars
 type: concept
 updated: 2026-09-04
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-classification: mindset
+classification: misc.mindset
 created: 2026-09-04
 domain: psychology
 sources:
@@ -10,6 +10,7 @@ title: Nobody Cares How Stoic You Are (Anima/Animus)
 type: concept
 updated: 2026-09-04
 ---
+
 
 
 

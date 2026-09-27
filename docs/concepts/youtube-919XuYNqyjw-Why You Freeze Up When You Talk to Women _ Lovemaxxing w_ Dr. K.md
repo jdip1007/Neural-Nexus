@@ -1,5 +1,5 @@
 ---
-classification: relationships
+classification: misc.relationships
 created: 2026-09-04
 domain: psychology
 sources:
@@ -11,6 +11,7 @@ title: Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K
 type: concept
 updated: 2026-09-04
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-classification: the
+classification: misc.the
 created: '2026-09-12'
 domain: general
 tags:
@@ -8,6 +8,7 @@ title: 'The Impatient Man: Why You Feel Like A Failure'
 type: concept
 updated: '2026-09-12'
 ---
+
 
 
 

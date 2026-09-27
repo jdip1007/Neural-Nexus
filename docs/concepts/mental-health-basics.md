@@ -1,5 +1,5 @@
 ---
-classification: mental
+classification: misc.mental
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: Mental Health Basics
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

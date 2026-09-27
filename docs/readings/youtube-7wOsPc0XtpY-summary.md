@@ -1,14 +1,18 @@
 ---
-created: '2026-09-12'
-domain: general
-tags:
-- general
-title: 'Video 6: Setting the Exposure - Summary'
+title: Video 6: Setting the Exposure - Summary
+created: 2026-09-26
+updated: 2026-09-26
 type: reading
-updated: '2026-09-12'
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, 7wOsPc0XtpY]
+sources: [raw/videos/youtube-7wOsPc0XtpY-transcript.md]
+published: 2026-09-26
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-26
 ---
-
-
 
 # Video 6: Setting the Exposure - Summary
 
@@ -31,7 +35,7 @@ say, for a publication, or even a cover submission
 ## Entities Mentioned
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > We're also going to

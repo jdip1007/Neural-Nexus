@@ -1,5 +1,5 @@
 ---
-classification: framework
+classification: misc.framework
 created: 2026-09-25
 domain: methodology
 status: stub
@@ -9,6 +9,7 @@ title: Framework
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

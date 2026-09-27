@@ -1,5 +1,5 @@
 ---
-classification: entrepreneurship
+classification: misc.entrepreneurship
 created: 2026-09-25
 domain: finance
 status: stub
@@ -9,6 +9,7 @@ title: Entrepreneurship
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

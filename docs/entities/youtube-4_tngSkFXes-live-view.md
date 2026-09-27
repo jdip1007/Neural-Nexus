@@ -1,19 +1,19 @@
 ---
 classification: person.researcher
 confidence: medium
-created: 2026-09-01
+created: 2026-09-26
 domain: ai
-reviewed: 2026-09-01
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-4_tngSkFXes-transcript.md
 status: active
 tags:
-- general
+- youtube
+- persons
 title: Live View
 type: entity
-updated: 2026-09-01
+updated: 2026-09-26
 ---
-
 
 
 # Live View
@@ -25,15 +25,7 @@ Live View is mentioned in the YouTube video "Video 7: Aperture".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-4_tngSkFXes-summary.md)
+- [[youtube-4_tngSkFXes-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-4_tngSkFXes-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

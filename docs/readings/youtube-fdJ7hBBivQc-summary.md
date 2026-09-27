@@ -1,14 +1,18 @@
 ---
-created: '2026-09-12'
-domain: general
-tags:
-- general
-title: 'Video 11: An Introduction - Summary'
+title: Video 11: An Introduction - Summary
+created: 2026-09-26
+updated: 2026-09-26
 type: reading
-updated: '2026-09-12'
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, fdJ7hBBivQc]
+sources: [raw/videos/youtube-fdJ7hBBivQc-transcript.md]
+published: 2026-09-26
+time_sensitive: False
+confidence: high
+status: active
+reviewed: 2026-09-26
 ---
-
-
 
 # Video 11: An Introduction - Summary
 
@@ -29,8 +33,8 @@ really is important
 - **Persons**: No Small, Emily Dickenson
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [container](concepts/container.md)
+- [[container]]
+- [[ai]]
 
 ## Transcript Highlights
 > of the most important aspects
@@ -44,11 +48,3 @@ shadow, and that shadow does,
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[container]]
-- [[youtube-WNSZ6xouNv4-and-that]]
-- [[youtube-fdJ7hBBivQc-emily-dickenson]]
-- [[youtube-fdJ7hBBivQc-no-small]]

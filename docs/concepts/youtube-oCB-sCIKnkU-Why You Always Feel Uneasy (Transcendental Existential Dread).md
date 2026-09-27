@@ -1,5 +1,5 @@
 ---
-classification: youtube
+classification: media.youtube
 created: 2026-09-04
 domain: psychology
 sources:
@@ -11,6 +11,7 @@ title: Why You Always Feel Uneasy (Transcendental Existential Dread)
 type: concept
 updated: 2026-09-04
 ---
+
 
 
 

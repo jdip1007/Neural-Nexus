@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-23
+created: 2026-09-27
 domain: ai
-published: 2026-08-23
-reviewed: 2026-08-23
+published: 2026-09-27
+reviewed: 2026-09-27
 sources:
 - raw/videos/youtube-a2a4oR0ZUYE-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: Why Alexander The Great Is The Single Most Important Man In History - Summary
 type: reading
-updated: 2026-08-23
+updated: 2026-09-27
 ---
-
 
 
 # Why Alexander The Great Is The Single Most Important Man In History - Summary
@@ -37,10 +37,10 @@ it would have eventually imploded anyways
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: With Darius, Genghis Khan, The Greeks
+- **Persons**: King Porus, Alexander The, When Philip
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > most important centers of cultural and scientific
@@ -52,11 +52,3 @@ in doubt, and ultimately it's likely even
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-a2a4oR0ZUYE-genghis-khan]]
-- [[youtube-a2a4oR0ZUYE-the-greeks]]
-- [[youtube-a2a4oR0ZUYE-with-darius]]

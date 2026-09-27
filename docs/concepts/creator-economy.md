@@ -1,5 +1,5 @@
 ---
-classification: creator
+classification: misc.creator
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: creator economy
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

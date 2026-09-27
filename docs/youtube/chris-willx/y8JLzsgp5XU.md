@@ -1,23 +1,20 @@
 ---
-{
-  "title": "Chris Willx: Why Men Are Gambling Away Their Futures On Polymarket - Dr K",
-  "created": "2026-09-26T22:55:46.135956",
-  "updated": "2026-09-26T22:55:46.135958",
-  "type": "youtube",
-  "tags": [
-    "youtube",
-    "chris-willx",
-    "international relations",
-    "geopolitics",
-    "conflict"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=y8JLzsgp5XU"
-  ],
-  "youtube_id": "y8JLzsgp5XU",
-  "channel": "Chris Willx"
-}
+channel: Chris Willx
+created: '2026-09-26T22:55:46.135956'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=y8JLzsgp5XU
+tags:
+- youtube
+- geopolitics
+- conflict
+title: 'Chris Willx: Why Men Are Gambling Away Their Futures On Polymarket - Dr K'
+type: youtube
+updated: '2026-09-26T22:55:46.135958'
+youtube_id: y8JLzsgp5XU
 ---
+
+
 
 # Chris Willx: Why Men Are Gambling Away Their Futures On Polymarket - Dr K
 
@@ -37,7 +34,7 @@ Geopolitical analysis of current international conflicts and their potential int
 
 ## Related Videos
 
-- [[Chris Willx]] channel
+- Chris Willx channel
 - [[YouTube]] content
 
 ## Notes

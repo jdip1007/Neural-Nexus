@@ -1,5 +1,5 @@
 ---
-classification: _Dude I'm Broke_ Why Is My Data Worth Harvesting_
+classification: misc._Dude I'm Broke_ Why Is My Data Worth Harvesting_
 created: '2026-09-12'
 domain: general
 tags:
@@ -8,6 +8,7 @@ title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
 type: concept
 updated: '2026-09-12'
 ---
+
 
 
 

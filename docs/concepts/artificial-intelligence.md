@@ -1,5 +1,5 @@
 ---
-classification: artificial-intelligence
+classification: tech.artificial-intelligence
 created: 2026-09-25
 domain: computer-science
 status: stub
@@ -9,6 +9,7 @@ title: Artificial Intelligence
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

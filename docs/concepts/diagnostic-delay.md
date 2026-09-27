@@ -1,5 +1,5 @@
 ---
-classification: diagnostic-delay
+classification: misc.diagnostic-delay
 created: 2026-09-24
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Diagnostic Delay
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

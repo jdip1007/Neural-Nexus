@@ -1,14 +1,18 @@
 ---
-created: '2026-09-12'
-domain: general
-tags:
-- general
-title: 'Video 14: Using a Smartphone - Summary'
+title: Video 14: Using a Smartphone - Summary
+created: 2026-09-26
+updated: 2026-09-26
 type: reading
-updated: '2026-09-12'
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, h1GtR8xJraw]
+sources: [raw/videos/youtube-h1GtR8xJraw-transcript.md]
+published: 2026-09-26
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-26
 ---
-
-
 
 # Video 14: Using a Smartphone - Summary
 
@@ -29,7 +33,7 @@ work, of the equipment
 - **Persons**: Per Se, Chef Jarrod, New York
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > So camera phones do
@@ -39,11 +43,3 @@ have an important place
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- 
-- [[youtube-bVM76YxNPjQ-new-york]]
-- [[youtube-h1GtR8xJraw-chef-jarrod]]
-- [[youtube-h1GtR8xJraw-per-se]]

@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=a2a4oR0ZUYE
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
+ingested: 2026-09-27
+published: 2026-09-27
 duration_minutes: 10
 language: en
 sha256: 8256a9201e8671a307893f46cff2566287988b60b02d6ae51b0832d4814beee7

@@ -1,27 +1,25 @@
 ---
-{
-  "title": "Retirement Planning: Building Wealth for Your Future",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "retirement"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=m3N9b8c4vD6"
-  ],
-  "video_id": "m3N9b8c4vD6",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=m3N9b8c4vD6
+tags:
+- retirement
+title: 'Retirement Planning: Building Wealth for Your Future'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: m3N9b8c4vD6
 ---
+
 
 # Retirement Planning: Building Wealth for Your Future
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: [[how-money-works]]
 - **Video ID**: m3N9b8c4vD6
 - **Original URL**: https://www.youtube.com/watch?v=m3N9b8c4vD6
 - **Ingestion Date**: 2026-09-18
@@ -71,9 +69,9 @@ This comprehensive exploration of insurance and economic trends provides viewers
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- [[how-money-works]] - Main channel page
+- [[personal-finance]] - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Why A National Debt Default Now Looks Genuinely Possible... (sort of)",
-  "created": "2026-09-26",
-  "updated": "2026-09-26",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "investing"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=National_Debt_Default_Possible"
-  ],
-  "video_id": "National_Debt_Default_Possible",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-26"
-}
+channel: How Money Works
+created: '2026-09-26'
+domain: general
+ingestion_date: '2026-09-26'
+sources:
+- https://www.youtube.com/watch?v=National_Debt_Default_Possible
+tags:
+- investing
+title: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-26'
+video_id: National_Debt_Default_Possible
 ---
+
+
 
 # Why A National Debt Default Now Looks Genuinely Possible... (sort of)
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: [[how-money-works]]
 - **Video ID**: National_Debt_Default_Possible
 - **Original URL**: https://www.youtube.com/watch?v=National_Debt_Default_Possible
 - **Ingestion Date**: 2026-09-26
@@ -72,9 +70,9 @@ This comprehensive exploration of national debt and fiscal policy provides viewe
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- [[how-money-works]] - Main channel page
+- [[personal-finance]] - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

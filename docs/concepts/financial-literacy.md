@@ -1,5 +1,5 @@
 ---
-classification: financial
+classification: misc.financial
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: financial-literacy
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

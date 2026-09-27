@@ -1,5 +1,5 @@
 ---
-classification: insulin-resistance
+classification: misc.insulin-resistance
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Insulin Resistance
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

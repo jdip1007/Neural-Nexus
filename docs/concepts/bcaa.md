@@ -1,5 +1,5 @@
 ---
-classification: bcaa
+classification: misc.bcaa
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Bcaa
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 # Bcaa

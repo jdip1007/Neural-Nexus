@@ -1,23 +1,22 @@
 ---
-{
-  "title": "Chris Willx: The Recession-Proof Investment No One Knows They Can Access - Tony Robbins",
-  "created": "2026-09-26T22:55:46.136168",
-  "updated": "2026-09-26T22:55:46.136169",
-  "type": "youtube",
-  "tags": [
-    "youtube",
-    "chris-willx",
-    "finance",
-    "economics",
-    "wealth"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=fb-SGTSPkHA"
-  ],
-  "youtube_id": "fb-SGTSPkHA",
-  "channel": "Chris Willx"
-}
+channel: Chris Willx
+created: '2026-09-26T22:55:46.136168'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=fb-SGTSPkHA
+tags:
+- youtube
+- finance
+- economics
+- wealth
+title: 'Chris Willx: The Recession-Proof Investment No One Knows They Can Access -
+  Tony Robbins'
+type: youtube
+updated: '2026-09-26T22:55:46.136169'
+youtube_id: fb-SGTSPkHA
 ---
+
+
 
 # Chris Willx: The Recession-Proof Investment No One Knows They Can Access - Tony Robbins
 
@@ -37,7 +36,7 @@ Financial analysis and investment strategies for uncertain economic times. We ex
 
 ## Related Videos
 
-- [[Chris Willx]] channel
+- Chris Willx channel
 - [[YouTube]] content
 
 ## Notes

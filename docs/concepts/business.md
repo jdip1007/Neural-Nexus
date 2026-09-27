@@ -1,5 +1,5 @@
 ---
-classification: business
+classification: business.general
 created: 2026-09-12
 domain: finance
 status: draft
@@ -9,6 +9,7 @@ title: Business
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-classification: thermogenesis
+classification: misc.thermogenesis
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Thermogenesis
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

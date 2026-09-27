@@ -1,6 +1,6 @@
 ---
 backlinks: []
-classification: social-media
+classification: misc.social-media
 confidence: high
 created: '2026-08-25'
 domain: general
@@ -14,6 +14,7 @@ title: Social Media
 type: reading
 updated: '2026-08-25'
 ---
+
 
 
 

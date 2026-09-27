@@ -1,5 +1,5 @@
 ---
-classification: viral
+classification: misc.viral
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: viral content
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

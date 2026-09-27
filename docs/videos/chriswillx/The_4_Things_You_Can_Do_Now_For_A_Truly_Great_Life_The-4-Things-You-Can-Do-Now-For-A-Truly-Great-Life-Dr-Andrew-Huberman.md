@@ -1,28 +1,26 @@
 ---
-{
-  "title": "The 4 Things You Can Do Now For A Truly Great Life - Dr Andrew Huberman",
-  "created": "2026-09-25",
-  "updated": "2026-09-25",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=The_4_Things_You_Can_Do_Now_For_A_Truly_Great_Life"
-  ],
-  "video_id": "The_4_Things_You_Can_Do_Now_For_A_Truly_Great_Life",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-25"
-}
+channel: Chris Willx
+created: '2026-09-25'
+domain: general
+ingestion_date: '2026-09-25'
+sources:
+- https://www.youtube.com/watch?v=The_4_Things_You_Can_Do_Now_For_A_Truly_Great_Life
+tags:
+- philosophy
+- psychology
+title: The 4 Things You Can Do Now For A Truly Great Life - Dr Andrew Huberman
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-25'
+video_id: The_4_Things_You_Can_Do_Now_For_A_Truly_Great_Life
 ---
+
 
 # The 4 Things You Can Do Now For A Truly Great Life - Dr Andrew Huberman
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: Chris Willx
 - **Video ID**: The_4_Things_You_Can_Do_Now_For_A_Truly_Great_Life
 - **Original URL**: https://www.youtube.com/watch?v=The_4_Things_You_Can_Do_Now_For_A_Truly_Great_Life
 - **Ingestion Date**: 2026-09-25
@@ -72,9 +70,9 @@ This comprehensive exploration of politics and technology provides viewers with 
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+- Chris Willx - Main channel page
+- Philosophy - General philosophy topics
+- Psychology - Psychological concepts discussed
 
 ---
 

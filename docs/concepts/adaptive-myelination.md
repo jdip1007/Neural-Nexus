@@ -1,5 +1,5 @@
 ---
-classification: myelin
+classification: misc.myelin
 confidence: high
 created: 2026-08-25
 domain: biology
@@ -12,6 +12,7 @@ title: Adaptive myelination
 type: concept
 updated: 2026-08-25
 ---
+
 
 
 

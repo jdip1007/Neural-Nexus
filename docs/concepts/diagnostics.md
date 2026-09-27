@@ -1,5 +1,5 @@
 ---
-classification: diagnostics
+classification: misc.diagnostics
 created: 2026-09-24
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Diagnostics
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

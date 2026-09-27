@@ -1,19 +1,19 @@
 ---
 classification: person.researcher
 confidence: medium
-created: 2026-08-24
+created: 2026-09-26
 domain: ai
-reviewed: 2026-08-24
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-heAA4ltXZ_4-transcript.md
 status: active
 tags:
-- general
+- youtube
+- organizations
 title: Hand Foundation
 type: entity
-updated: 2026-08-24
+updated: 2026-09-26
 ---
-
 
 
 # Hand Foundation
@@ -25,14 +25,7 @@ Hand Foundation is mentioned in the YouTube video "YouTubers Who Destroyed Their
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-heAA4ltXZ_4-summary.md)
+- [[youtube-heAA4ltXZ_4-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-heAA4ltXZ_4-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

@@ -1,5 +1,5 @@
 ---
-classification: database
+classification: misc.database
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: database
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

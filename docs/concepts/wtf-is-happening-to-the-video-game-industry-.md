@@ -1,5 +1,5 @@
 ---
-classification: wtf
+classification: misc.wtf
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: 'Wtf Is Happening To The Video Game Industry '
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

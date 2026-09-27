@@ -1,21 +1,19 @@
 ---
-{
-  "title": "How Cops Use Psychology To Make You Talk",
-  "created": "2026-09-27T05:24:53.443038",
-  "updated": "2026-09-27T05:24:53.443040",
-  "type": "video",
-  "tags": [
-    "healthygamergg",
-    "psychology",
-    "mental health"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=fG2h8JkLm9N"
-  ],
-  "video_id": "fG2h8JkLm9N",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-27T05:24:53.443038'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=fG2h8JkLm9N
+tags:
+- healthygamergg
+- psychology
+title: How Cops Use Psychology To Make You Talk
+type: video
+updated: '2026-09-27T05:24:53.443040'
+video_id: fG2h8JkLm9N
 ---
+
+
 
 # How Cops Use Psychology To Make You Talk
 

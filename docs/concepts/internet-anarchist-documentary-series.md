@@ -1,5 +1,5 @@
 ---
-classification: internet
+classification: misc.internet
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: internet-anarchist-documentary-series
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

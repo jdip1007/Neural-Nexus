@@ -104,6 +104,10 @@ transcript_available: true
 ## Taxonomy
 
 ### Core Topics
+- culture
+- conflict
+- history
+- counseling
 - addiction-recovery
 - assessment
 - awareness
@@ -288,6 +292,16 @@ toolkit
 setup
 guide
 documentation
+- property
+- housing
+- assets
+- blockchain
+- debt
+- equity
+- personal-finance
+- real-estate
+- retirement
+- legal
 workflow
 workflow-efficiency
 
@@ -741,6 +755,7 @@ neuroendocrine
 respiratory-viruses
 influenza
 hmpv
+- geopolitics
 rsv
 controlled-substance
 cns-stimulant
@@ -825,6 +840,9 @@ personalized-education
 visual-education
 graduate-studies
 research-institution
+- deep-learning
+- transformer
+- machine-learning
 gen-z
 gender
 gender-differences

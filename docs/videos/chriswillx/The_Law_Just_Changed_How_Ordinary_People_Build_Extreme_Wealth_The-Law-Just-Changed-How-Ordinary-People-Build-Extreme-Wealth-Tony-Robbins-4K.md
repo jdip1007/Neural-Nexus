@@ -1,28 +1,27 @@
 ---
-{
-  "title": "The Law Just Changed. How Ordinary People Build Extreme Wealth - Tony Robbins (4K)",
-  "created": "2026-09-25",
-  "updated": "2026-09-25",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=The_Law_Just_Changed_How_Ordinary_People_Build_Extreme_Wealth"
-  ],
-  "video_id": "The_Law_Just_Changed_How_Ordinary_People_Build_Extreme_Wealth",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-25"
-}
+channel: Chris Willx
+created: '2026-09-25'
+domain: general
+ingestion_date: '2026-09-25'
+sources:
+- https://www.youtube.com/watch?v=The_Law_Just_Changed_How_Ordinary_People_Build_Extreme_Wealth
+tags:
+- philosophy
+- psychology
+title: The Law Just Changed. How Ordinary People Build Extreme Wealth - Tony Robbins
+  (4K)
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-25'
+video_id: The_Law_Just_Changed_How_Ordinary_People_Build_Extreme_Wealth
 ---
+
 
 # The Law Just Changed. How Ordinary People Build Extreme Wealth - Tony Robbins (4K)
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: Chris Willx
 - **Video ID**: The_Law_Just_Changed_How_Ordinary_People_Build_Extreme_Wealth
 - **Original URL**: https://www.youtube.com/watch?v=The_Law_Just_Changed_How_Ordinary_People_Build_Extreme_Wealth
 - **Ingestion Date**: 2026-09-25
@@ -72,9 +71,9 @@ This comprehensive exploration of health and relationships provides viewers with
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+- Chris Willx - Main channel page
+- Philosophy - General philosophy topics
+- Psychology - Psychological concepts discussed
 
 ---
 

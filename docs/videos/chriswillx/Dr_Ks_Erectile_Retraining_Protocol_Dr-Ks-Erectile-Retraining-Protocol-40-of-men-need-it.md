@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Dr K's Erectile Retraining Protocol (40% of men need it)",
-  "created": "2026-09-25",
-  "updated": "2026-09-25",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Dr_Ks_Erectile_Retraining_Protocol"
-  ],
-  "video_id": "Dr_Ks_Erectile_Retraining_Protocol",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-25"
-}
+channel: Chris Willx
+created: '2026-09-25'
+domain: general
+ingestion_date: '2026-09-25'
+sources:
+- https://www.youtube.com/watch?v=Dr_Ks_Erectile_Retraining_Protocol
+tags:
+- philosophy
+- psychology
+title: Dr K's Erectile Retraining Protocol (40% of men need it)
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-25'
+video_id: Dr_Ks_Erectile_Retraining_Protocol
 ---
+
 
 # Dr K's Erectile Retraining Protocol (40% of men need it)
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: Chris Willx
 - **Video ID**: Dr_Ks_Erectile_Retraining_Protocol
 - **Original URL**: https://www.youtube.com/watch?v=Dr_Ks_Erectile_Retraining_Protocol
 - **Ingestion Date**: 2026-09-25
@@ -72,9 +70,9 @@ This comprehensive exploration of psychology and happiness provides viewers with
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+- Chris Willx - Main channel page
+- Philosophy - General philosophy topics
+- Psychology - Psychological concepts discussed
 
 ---
 

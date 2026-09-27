@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-09-03
+created: 2026-09-26
 domain: ai
-published: 2026-09-03
-reviewed: 2026-09-03
+published: 2026-09-26
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-yXAgVyGY6M8-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: false
 title: Color Organ Video 2 - Summary
 type: reading
-updated: 2026-09-03
+updated: 2026-09-26
 ---
-
 
 
 # Color Organ Video 2 - Summary
@@ -33,13 +33,3 @@ This video discusses Color Organ Video 2
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-
-## See also
-
-- [[youtube-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily]]
-- [[youtube]]

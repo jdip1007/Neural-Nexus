@@ -1,27 +1,27 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-24
+created: 2026-09-26
 domain: ai
-published: 2026-08-24
-reviewed: 2026-08-24
+published: 2026-09-26
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-6zAG7p81NME-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
-title: Airrack Never Stopped Faking Videos - Summary
+title: How Bad Is YouTuber Airrack? (Doxxing/Fake Videos) - Summary
 type: reading
-updated: 2026-08-24
+updated: 2026-09-26
 ---
 
 
-
-# Airrack Never Stopped Faking Videos - Summary
+# How Bad Is YouTuber Airrack? (Doxxing/Fake Videos) - Summary
 
 ## TL;DR
-This video discusses Airrack Never Stopped Faking Videos
+This video discusses How Bad Is YouTuber Airrack? (Doxxing/Fake Videos)
 
 ## Key Points
 - **Eric**: Eric claimed the pilot wanted to remain anonymous because of legal concerns surrounding the flight
@@ -34,10 +34,10 @@ This video discusses Airrack Never Stopped Faking Videos
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Mountain Gods, Las Vegas, Northwest Angle
+- **Persons**: Mickey Mace, In April, Dominic Larigio
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > claimed the pilot wanted to remain
@@ -48,11 +48,3 @@ This video discusses Airrack Never Stopped Faking Videos
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-6zAG7p81NME-las-vegas]]
-- [[youtube-6zAG7p81NME-mountain-gods]]
-- [[youtube-6zAG7p81NME-northwest-angle]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

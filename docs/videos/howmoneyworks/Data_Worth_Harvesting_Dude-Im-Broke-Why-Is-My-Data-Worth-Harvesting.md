@@ -1,28 +1,26 @@
 ---
-{
-  "title": "\"Dude I'm Broke\" Why Is My Data Worth Harvesting?",
-  "created": "2026-09-26",
-  "updated": "2026-09-26",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "investing"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Data_Worth_Harvesting"
-  ],
-  "video_id": "Data_Worth_Harvesting",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-26"
-}
+channel: How Money Works
+created: '2026-09-26'
+domain: general
+ingestion_date: '2026-09-26'
+sources:
+- https://www.youtube.com/watch?v=Data_Worth_Harvesting
+tags:
+- investing
+title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-26'
+video_id: Data_Worth_Harvesting
 ---
+
+
 
 # "Dude I'm Broke" Why Is My Data Worth Harvesting?
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: [[how-money-works]]
 - **Video ID**: Data_Worth_Harvesting
 - **Original URL**: https://www.youtube.com/watch?v=Data_Worth_Harvesting
 - **Ingestion Date**: 2026-09-26
@@ -72,9 +70,9 @@ This comprehensive exploration of digital economy and privacy provides viewers w
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- [[how-money-works]] - Main channel page
+- [[personal-finance]] - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

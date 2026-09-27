@@ -9,11 +9,12 @@ sources:
 - raw/articles/recent-advances-alzheimers-disease-cell-review-2026.md
 status: active
 tags:
-- cryo-em
+- general
 title: Amyloid-beta (Aβ)
 type: concept
 updated: 2026-07-29
 ---
+
 
 
 

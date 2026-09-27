@@ -1,5 +1,5 @@
 ---
-classification: sex-differences
+classification: misc.sex-differences
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Sex Differences
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

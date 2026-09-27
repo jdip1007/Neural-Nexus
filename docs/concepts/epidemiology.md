@@ -1,5 +1,5 @@
 ---
-classification: epidemiology
+classification: misc.epidemiology
 created: 2026-09-24
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Epidemiology
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

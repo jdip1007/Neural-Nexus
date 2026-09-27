@@ -1,5 +1,5 @@
 ---
-classification: autism-spectrum-disorder
+classification: misc.autism-spectrum-disorder
 confidence: high
 created: 2026-09-24
 domain: psychology
@@ -13,6 +13,7 @@ title: ASD Epidemiological vs Clinical IQ Profiles
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

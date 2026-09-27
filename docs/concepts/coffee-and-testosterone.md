@@ -1,5 +1,5 @@
 ---
-classification: coffee
+classification: misc.coffee
 confidence: medium
 created: 2026-09-24
 domain: biology
@@ -14,6 +14,7 @@ title: Coffee and Testosterone
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

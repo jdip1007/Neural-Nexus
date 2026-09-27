@@ -1,5 +1,5 @@
 ---
-classification: type-2-diabetes
+classification: misc.type-2-diabetes
 created: 2026-09-25
 domain: biology
 status: stub
@@ -9,6 +9,7 @@ title: Type 2 Diabetes
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

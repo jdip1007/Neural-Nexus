@@ -1,23 +1,22 @@
 ---
-{
-  "title": "Chris Willx: How To Win The Algorithm, Even If You Hate It - Dylan Gossett (Live Performance)",
-  "created": "2026-09-26T22:55:46.135682",
-  "updated": "2026-09-26T22:55:46.135683",
-  "type": "youtube",
-  "tags": [
-    "youtube",
-    "chris-willx",
-    "psychology",
-    "dating",
-    "relationships"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=HC6-yqH_axA"
-  ],
-  "youtube_id": "HC6-yqH_axA",
-  "channel": "Chris Willx"
-}
+channel: Chris Willx
+created: '2026-09-26T22:55:46.135682'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=HC6-yqH_axA
+tags:
+- youtube
+- psychology
+- dating
+- relationships
+title: 'Chris Willx: How To Win The Algorithm, Even If You Hate It - Dylan Gossett
+  (Live Performance)'
+type: youtube
+updated: '2026-09-26T22:55:46.135683'
+youtube_id: HC6-yqH_axA
 ---
+
+
 
 # Chris Willx: How To Win The Algorithm, Even If You Hate It - Dylan Gossett (Live Performance)
 
@@ -27,7 +26,7 @@ In this episode, we explore the dynamics of modern relationships and dating patt
 
 ## Key Topics
 
-- [[Psychology]]
+- Psychology
 - [[Dating]]
 - [[Relationships]]
 
@@ -37,7 +36,7 @@ In this episode, we explore the dynamics of modern relationships and dating patt
 
 ## Related Videos
 
-- [[Chris Willx]] channel
+- Chris Willx channel
 - [[YouTube]] content
 
 ## Notes

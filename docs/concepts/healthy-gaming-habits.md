@@ -1,5 +1,5 @@
 ---
-classification: healthy
+classification: misc.healthy
 created: 2026-09-21
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: Healthy Gaming Habits
 type: concept
 updated: 2026-09-21
 ---
+
 
 
 

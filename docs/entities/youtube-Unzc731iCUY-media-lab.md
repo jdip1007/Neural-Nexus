@@ -1,19 +1,19 @@
 ---
 classification: person.researcher
 confidence: medium
-created: 2026-08-31
+created: 2026-09-26
 domain: ai
-reviewed: 2026-08-31
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-Unzc731iCUY-transcript.md
 status: active
 tags:
-- general
+- youtube
+- persons
 title: Media Lab
 type: entity
-updated: 2026-08-31
+updated: 2026-09-26
 ---
-
 
 
 # Media Lab
@@ -25,16 +25,7 @@ Media Lab is mentioned in the YouTube video "How to Speak".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-Unzc731iCUY-summary.md)
+- [[youtube-Unzc731iCUY-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-Unzc731iCUY-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

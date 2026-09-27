@@ -1,5 +1,5 @@
 ---
-classification: large-language-model
+classification: misc.large-language-model
 created: 2026-09-25
 domain: computer-science
 status: stub
@@ -9,6 +9,7 @@ title: Large Language Model
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

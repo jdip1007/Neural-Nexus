@@ -1,5 +1,5 @@
 ---
-classification: mental-health
+classification: misc.mental-health
 created: 2026-09-03
 domain: psychology
 sources:
@@ -10,6 +10,7 @@ title: How Trauma Splits A Soul (Dissociative Identity Disorder)
 type: concept
 updated: 2026-09-03
 ---
+
 
 
 

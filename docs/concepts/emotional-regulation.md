@@ -1,5 +1,5 @@
 ---
-classification: emotional
+classification: misc.emotional
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: Emotional Regulation
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

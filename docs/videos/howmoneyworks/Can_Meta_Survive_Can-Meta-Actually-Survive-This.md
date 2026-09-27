@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Can Meta Actually Survive This?",
-  "created": "2026-09-26",
-  "updated": "2026-09-26",
-  "type": "video",
-  "tags": [
-    "personal finance",
-    "investing"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Can_Meta_Survive"
-  ],
-  "video_id": "Can_Meta_Survive",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-26"
-}
+channel: How Money Works
+created: '2026-09-26'
+domain: general
+ingestion_date: '2026-09-26'
+sources:
+- https://www.youtube.com/watch?v=Can_Meta_Survive
+tags:
+- investing
+title: Can Meta Actually Survive This?
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-26'
+video_id: Can_Meta_Survive
 ---
+
+
 
 # Can Meta Actually Survive This?
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: [[how-money-works]]
 - **Video ID**: Can_Meta_Survive
 - **Original URL**: https://www.youtube.com/watch?v=Can_Meta_Survive
 - **Ingestion Date**: 2026-09-26
@@ -72,9 +70,9 @@ This comprehensive exploration of technology stocks and market analysis provides
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- [[how-money-works]] - Main channel page
+- [[personal-finance]] - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

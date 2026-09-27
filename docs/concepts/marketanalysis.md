@@ -1,5 +1,5 @@
 ---
-classification: marketanalysis
+classification: misc.marketanalysis
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: MarketAnalysis
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

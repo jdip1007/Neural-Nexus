@@ -1,5 +1,5 @@
 ---
-classification: relationship
+classification: misc.relationship
 created: 2026-09-12
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Relationship Psychology
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

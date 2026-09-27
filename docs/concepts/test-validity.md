@@ -1,5 +1,5 @@
 ---
-classification: test-validity
+classification: misc.test-validity
 created: 2026-09-24
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Test Validity
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

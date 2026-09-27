@@ -1,5 +1,5 @@
 ---
-classification: clinical-psychology
+classification: misc.clinical-psychology
 created: 2026-09-25
 domain: psychology
 status: stub
@@ -9,6 +9,7 @@ title: Clinical Psychology
 type: concept
 updated: 2026-09-25
 ---
+
 
 
 

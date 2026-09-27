@@ -1,48 +1,37 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-09-06
-domain: ai
-published: 2026-09-06
-reviewed: 2026-09-06
-sources:
-- raw/videos/youtube-4_tngSkFXes-transcript.md
-status: active
-tags:
-- general
-time_sensitive: false
-title: Video 4_tngSkFXes - Summary
+title: Video 7: Aperture - Summary
+created: 2026-09-26
+updated: 2026-09-26
 type: reading
-updated: 2026-09-06
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, 4_tngSkFXes]
+sources: [raw/videos/youtube-4_tngSkFXes-transcript.md]
+published: 2026-09-26
+time_sensitive: False
+confidence: high
+status: active
+reviewed: 2026-09-26
 ---
 
-
-
-# Video 4_tngSkFXes - Summary
+# Video 7: Aperture - Summary
 
 ## TL;DR
-This video discusses Video 4_tngSkFXes
+This video discusses Video 7: Aperture
 
 ## Key Points
 
 ## Entities Mentioned
+- **Persons**: Live View
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
+> So you really see a
+significant change.
 
 ## Takeaways
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-
-## See also
-
-- [[youtube-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily]]
-- [[youtube]]

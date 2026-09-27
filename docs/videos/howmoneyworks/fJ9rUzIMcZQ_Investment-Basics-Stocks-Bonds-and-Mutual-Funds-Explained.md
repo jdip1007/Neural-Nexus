@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Investment Basics: Stocks, Bonds, and Mutual Funds Explained",
-  "created": "2026-09-18",
-  "updated": "2026-09-18",
-  "type": "video",
-  "tags": [
-    "stocks",
-    "bonds"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
-  ],
-  "video_id": "fJ9rUzIMcZQ",
-  "channel": "How Money Works",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-18"
-}
+channel: How Money Works
+created: '2026-09-18'
+domain: general
+ingestion_date: '2026-09-18'
+sources:
+- https://www.youtube.com/watch?v=fJ9rUzIMcZQ
+tags:
+- stocks
+- bonds
+title: 'Investment Basics: Stocks, Bonds, and Mutual Funds Explained'
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-18'
+video_id: fJ9rUzIMcZQ
 ---
+
 
 # Investment Basics: Stocks, Bonds, and Mutual Funds Explained
 
 ## Video Information
 
-- **Channel**: [[How Money Works]]
+- **Channel**: [[how-money-works]]
 - **Video ID**: fJ9rUzIMcZQ
 - **Original URL**: https://www.youtube.com/watch?v=fJ9rUzIMcZQ
 - **Ingestion Date**: 2026-09-18
@@ -73,9 +71,9 @@ This comprehensive exploration of stocks and bonds provides viewers with both th
 
 ## Related Content
 
-- [[How Money Works]] - Main channel page
-- [[Personal Finance]] - General personal finance topics
-- [[Investing]] - Investment strategies and concepts
+- [[how-money-works]] - Main channel page
+- [[personal-finance]] - General personal finance topics
+- [[investing]] - Investment strategies and concepts
 
 ---
 

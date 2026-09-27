@@ -1,5 +1,5 @@
 ---
-classification: content
+classification: misc.content
 created: 2026-09-12
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: content-creation
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

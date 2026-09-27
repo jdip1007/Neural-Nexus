@@ -1,5 +1,5 @@
 ---
-classification: autism-spectrum-disorder
+classification: misc.autism-spectrum-disorder
 confidence: high
 created: 2026-09-24
 domain: psychology
@@ -14,6 +14,7 @@ title: ASD and IQ Interplay
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

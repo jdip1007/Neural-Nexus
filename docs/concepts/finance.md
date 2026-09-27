@@ -1,5 +1,5 @@
 ---
-classification: finance
+classification: business.finance
 created: 2026-09-12
 domain: finance
 status: draft
@@ -9,6 +9,7 @@ title: Finance
 type: concept
 updated: 2026-09-12
 ---
+
 
 
 

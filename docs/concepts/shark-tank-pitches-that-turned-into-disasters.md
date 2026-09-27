@@ -1,5 +1,5 @@
 ---
-classification: shark
+classification: misc.shark
 created: 2026-09-21
 domain: general
 status: draft
@@ -9,6 +9,7 @@ title: Shark Tank Pitches That Turned Into Disasters
 type: concept
 updated: 2026-09-21
 ---
+
 
 
 

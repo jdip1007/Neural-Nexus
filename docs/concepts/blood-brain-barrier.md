@@ -1,5 +1,5 @@
 ---
-classification: barrier
+classification: misc.barrier
 confidence: high
 created: 2026-08-25
 domain: biology
@@ -12,6 +12,7 @@ title: Blood-brain barrier
 type: concept
 updated: 2026-08-25
 ---
+
 
 
 

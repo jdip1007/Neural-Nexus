@@ -1,5 +1,5 @@
 ---
-classification: heterogeneity
+classification: misc.heterogeneity
 created: 2026-09-24
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Heterogeneity
 type: concept
 updated: 2026-09-24
 ---
+
 
 
 

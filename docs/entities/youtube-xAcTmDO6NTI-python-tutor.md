@@ -1,19 +1,19 @@
 ---
 classification: person.researcher
 confidence: medium
-created: 2026-09-03
+created: 2026-09-26
 domain: ai
-reviewed: 2026-09-03
+reviewed: 2026-09-26
 sources:
 - raw/videos/youtube-xAcTmDO6NTI-transcript.md
 status: active
 tags:
-- general
+- youtube
+- persons
 title: Python Tutor
 type: entity
-updated: 2026-09-03
+updated: 2026-09-26
 ---
-
 
 
 # Python Tutor
@@ -25,16 +25,7 @@ Python Tutor is mentioned in the YouTube video "Lecture 1: Introduction to CS an
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-xAcTmDO6NTI-summary.md)
+- [[youtube-xAcTmDO6NTI-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-xAcTmDO6NTI-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

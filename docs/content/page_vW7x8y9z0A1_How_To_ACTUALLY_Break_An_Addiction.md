@@ -1,24 +1,22 @@
 ---
-{
-  "title": "How To ACTUALLY Break An Addiction",
-  "created": "2026-09-27T05:24:51.059377",
-  "updated": "2026-09-27T05:24:51.059378",
-  "type": "video",
-  "tags": [
-    "healthygamergg",
-    "psychology",
-    "mental health",
-    "relationships",
-    "therapy",
-    "counseling"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=vW7x8y9z0A1"
-  ],
-  "video_id": "vW7x8y9z0A1",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-27T05:24:51.059377'
+domain: general
+sources:
+- https://www.youtube.com/watch?v=vW7x8y9z0A1
+tags:
+- healthygamergg
+- psychology
+- relationships
+- therapy
+- counseling
+title: How To ACTUALLY Break An Addiction
+type: video
+updated: '2026-09-27T05:24:51.059378'
+video_id: vW7x8y9z0A1
 ---
+
+
 
 # How To ACTUALLY Break An Addiction
 

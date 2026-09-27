@@ -1,5 +1,5 @@
 ---
-classification: addiction
+classification: misc.addiction
 created: 2026-09-21
 domain: psychology
 status: draft
@@ -9,6 +9,7 @@ title: Addiction Recovery
 type: concept
 updated: 2026-09-21
 ---
+
 
 
 
