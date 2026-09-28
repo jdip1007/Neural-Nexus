@@ -1,5 +1,5 @@
 ---
-title: Best Buy
+title: Patrick Schwarzenegger
 created: 2026-09-28
 updated: 2026-09-28
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-09-28
 ---
 
-# Best Buy
+# Patrick Schwarzenegger
 
 ## Overview
-Best Buy is mentioned in the YouTube video "Shark Tank is Worse Than You Thought".
+Patrick Schwarzenegger is mentioned in the YouTube video "Shark Tank is Worse Than You Thought".
 
 ## Context
 Mentioned in the context of research and development.

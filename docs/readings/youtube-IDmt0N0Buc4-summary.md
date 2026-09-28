@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-27
-domain: ai
-published: 2026-08-27
-reviewed: 2026-08-27
-sources:
-- raw/videos/youtube-IDmt0N0Buc4-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: Fake Restoration Videos Are Ruining YouTube - Summary
+created: 2026-09-28
+updated: 2026-09-28
 type: reading
-updated: 2026-08-27
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, IDmt0N0Buc4]
+sources: [raw/videos/youtube-IDmt0N0Buc4-transcript.md]
+published: 2026-09-28
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-28
 ---
-
-
 
 # Fake Restoration Videos Are Ruining YouTube - Summary
 
@@ -31,11 +27,11 @@ This video discusses Fake Restoration Videos Are Ruining YouTube
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: New England, Backyard Ballistics, In Harm
+- **Persons**: New England, Backyard Ballistics, One Clip
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [api](concepts/api.md)
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > decayed essentially it's all for show
@@ -44,15 +40,3 @@ This video discusses Fake Restoration Videos Are Ruining YouTube
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-IDmt0N0Buc4-backyard-ballistics]]
-- [[youtube-IDmt0N0Buc4-in-harm]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-W9mF-NOHatI-new-england]]
-- [[youtube-WNSZ6xouNv4-and-that]]
-- [[youtube-WNSZ6xouNv4-used-to]]
-- [[youtube-xj-dp8sjfa0-social-media]]

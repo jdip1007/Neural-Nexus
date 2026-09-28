@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=6IgDQMVZq2I
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
+ingested: 2026-09-28
+published: 2026-09-28
 duration_minutes: 21
 language: en
 sha256: 36d90b6fd3791ec6f2be8d196bd4f1f59f7ebd5c747fb4012f6f9b85fe24a0f7

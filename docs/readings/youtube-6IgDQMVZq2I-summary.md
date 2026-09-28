@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-23
-domain: ai
-published: 2026-08-23
-reviewed: 2026-08-23
-sources:
-- raw/videos/youtube-6IgDQMVZq2I-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: Shark Tank is Worse Than You Thought - Summary
+created: 2026-09-28
+updated: 2026-09-28
 type: reading
-updated: 2026-08-23
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, 6IgDQMVZq2I]
+sources: [raw/videos/youtube-6IgDQMVZq2I-transcript.md]
+published: 2026-09-28
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-28
 ---
-
-
 
 # Shark Tank is Worse Than You Thought - Summary
 
@@ -31,10 +27,10 @@ This video discusses Shark Tank is Worse Than You Thought
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: While Kevin, Richard Branson, Best Buy
+- **Persons**: Patrick Schwarzenegger, Best Buy, Britney Baker
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > his pitch on the show. More importantly,
@@ -43,11 +39,3 @@ This video discusses Shark Tank is Worse Than You Thought
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-01-QTmyvEI8-best-buy]]
-- [[youtube-6IgDQMVZq2I-richard-branson]]
-- [[youtube-6IgDQMVZq2I-while-kevin]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

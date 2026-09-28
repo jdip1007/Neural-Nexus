@@ -1,5 +1,5 @@
 ---
-title: Backyard Ballistics
+title: One Clip
 created: 2026-09-28
 updated: 2026-09-28
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-09-28
 ---
 
-# Backyard Ballistics
+# One Clip
 
 ## Overview
-Backyard Ballistics is mentioned in the YouTube video "Fake Restoration Videos Are Ruining YouTube".
+One Clip is mentioned in the YouTube video "Fake Restoration Videos Are Ruining YouTube".
 
 ## Context
 Mentioned in the context of research and development.

@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-23
-domain: ai
-published: 2026-08-23
-reviewed: 2026-08-23
-sources:
-- raw/videos/youtube-01-QTmyvEI8-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: The Satisfying Downfall of OnlyJayus - Summary
+created: 2026-09-28
+updated: 2026-09-28
 type: reading
-updated: 2026-08-23
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, 01-QTmyvEI8]
+sources: [raw/videos/youtube-01-QTmyvEI8-transcript.md]
+published: 2026-09-28
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-28
 ---
-
-
 
 # The Satisfying Downfall of OnlyJayus - Summary
 
@@ -31,10 +27,10 @@ This video discusses The Satisfying Downfall of OnlyJayus
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Forbes Netflix, Pro Max, Best Buy
+- **Persons**: Victory Alex, Best Buy, Blind Boom
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > main categories the first of which is
@@ -43,15 +39,3 @@ This video discusses The Satisfying Downfall of OnlyJayus
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-01-QTmyvEI8-best-buy]]
-- [[youtube-01-QTmyvEI8-forbes-netflix]]
-- [[youtube-01-QTmyvEI8-pro-max]]
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-OunJtLnyPT4-in-july]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-Unzc731iCUY-the-uniform]]
-- [[youtube-WNSZ6xouNv4-and-that]]

@@ -1,5 +1,5 @@
 ---
-title: Best Buy
+title: Blind Boom
 created: 2026-09-28
 updated: 2026-09-28
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-09-28
 ---
 
-# Best Buy
+# Blind Boom
 
 ## Overview
-Best Buy is mentioned in the YouTube video "The Satisfying Downfall of OnlyJayus".
+Blind Boom is mentioned in the YouTube video "The Satisfying Downfall of OnlyJayus".
 
 ## Context
 Mentioned in the context of research and development.

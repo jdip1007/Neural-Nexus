@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=IDmt0N0Buc4
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
+ingested: 2026-09-28
+published: 2026-09-28
 duration_minutes: 15
 language: en
 sha256: 3b001ec4ff2f39d95d24f5245de30dae3a8b3b24700d7e0229b2f3b813c68529
