@@ -1,18 +1,22 @@
 ---
-title: Jack Doherty’s Life Is Falling Apart - Summary
-created: 2026-09-28
-updated: 2026-09-28
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, tVSwhYcA1y8]
-sources: [raw/videos/youtube-tVSwhYcA1y8-transcript.md]
-published: 2026-09-28
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-28
+domain: ai
+published: 2026-09-28
 reviewed: 2026-09-28
+sources:
+- raw/videos/youtube-tVSwhYcA1y8-transcript.md
+status: active
+tags:
+- youtube
+- transcript
+time_sensitive: true
+title: Jack Doherty’s Life Is Falling Apart - Summary
+type: reading
+updated: 2026-09-28
 ---
+
 
 # Jack Doherty’s Life Is Falling Apart - Summary
 

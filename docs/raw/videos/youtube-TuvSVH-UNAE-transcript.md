@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=TuvSVH-UNAE
 source_type: video
-ingested: 2026-08-08
-published: 2026-08-08
+ingested: 2026-09-28
+published: 2026-09-28
 duration_minutes: 26
 language: en
 sha256: bbacba08af7aa762a70bce18c9ee69eb6bd0ce9e09452fc8b174712d9a12a152

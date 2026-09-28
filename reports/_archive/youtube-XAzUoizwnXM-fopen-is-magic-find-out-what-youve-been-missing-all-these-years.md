@@ -35,8 +35,8 @@ Comprehensive tutorial on the fopen function in C programming. Advanced file han
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- Dave's Garage - Main channel page
+- YouTube Tutorials - Collection of technical tutorials
 - [[Networking]] - Related networking content
 - [[Programming]] - Related programming tutorials
 

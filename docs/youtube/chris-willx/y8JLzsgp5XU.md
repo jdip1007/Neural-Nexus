@@ -24,9 +24,9 @@ Geopolitical analysis of current international conflicts and their potential int
 
 ## Key Topics
 
-- [[International relations]]
-- [[Geopolitics]]
-- [[Conflict]]
+- International relations
+- Geopolitics
+- Conflict
 
 ## Transcript
 
@@ -35,7 +35,7 @@ Geopolitical analysis of current international conflicts and their potential int
 ## Related Videos
 
 - Chris Willx channel
-- [[YouTube]] content
+- YouTube content
 
 ## Notes
 

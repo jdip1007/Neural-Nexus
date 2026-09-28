@@ -1,16 +1,20 @@
 ---
-title: Victory Alex
-created: 2026-09-28
-updated: 2026-09-28
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, 01-QTmyvEI8]
-sources: [raw/videos/youtube-01-QTmyvEI8-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-28
+domain: ai
 reviewed: 2026-09-28
+sources:
+- raw/videos/youtube-01-QTmyvEI8-transcript.md
+status: active
+tags:
+- youtube
+- persons
+title: Victory Alex
+type: entity
+updated: 2026-09-28
 ---
+
 
 # Victory Alex
 

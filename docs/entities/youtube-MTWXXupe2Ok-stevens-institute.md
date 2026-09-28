@@ -1,19 +1,19 @@
 ---
 classification: person.researcher
 confidence: medium
-created: 2026-08-22
+created: 2026-09-28
 domain: ai
-reviewed: 2026-08-22
+reviewed: 2026-09-28
 sources:
 - raw/videos/youtube-MTWXXupe2Ok-transcript.md
 status: active
 tags:
-- general
+- youtube
+- organizations
 title: Stevens Institute
 type: entity
-updated: 2026-08-22
+updated: 2026-09-28
 ---
-
 
 
 # Stevens Institute
@@ -25,15 +25,7 @@ Stevens Institute is mentioned in the YouTube video "Man Receives Highest Dose o
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-MTWXXupe2Ok-summary.md)
+- [[youtube-MTWXXupe2Ok-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-MTWXXupe2Ok-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
-- [[youtube-heaa4ltxz-4-hand-foundation]]

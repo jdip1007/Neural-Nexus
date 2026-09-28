@@ -1616,7 +1616,7 @@
 - [[youtube-LojDvrwBcUU-summary]] — ai · `general` · ✓ 2026-08-30
 - [[how-your-brain-perceives-love-when-you-have-autism]] — psychology · `general`
 - [[youtube-8pQBdZ3RdfA-summary]] — ai · `general` · ✓ 2026-08-30
-- [[youtube-ka2GKBfviic-hunter-biden,-matt-mccusker-&-duncan-trussell-mostly-wise-#2]] — general · `general`
+- youtube-ka2GKBfviic-hunter-biden,-matt-mccusker-&-duncan-trussell-mostly-wise- — general · `general`
 - [[i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k]] — general · `general`
 - [[youtube-Oj5lA7FfUkI-summary]] — ai · `general` · ✓ 2026-08-30
 - [[youtube-WlZmY4fLzhI-summary]] — ai · `general` · ✓ 2026-09-02

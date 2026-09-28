@@ -1,24 +1,18 @@
 ---
-{
-  "title": "The Secret to Fixing Your Adulthood",
-  "created": "2026-09-28T05:36:04.231455",
-  "updated": "2026-09-28T05:36:04.231458",
-  "type": "video",
-  "tags": [
-    "personal_growth",
-    "men_health",
-    "life_skills",
-    "emotional_intelligence",
-    "youtube",
-    "healthygamergg"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=919XuYNqyjw"
-  ],
-  "duration": "22 minutes",
-  "channel": "HealthyGamerGG"
-}
+channel: HealthyGamerGG
+created: '2026-09-28T05:36:04.231455'
+domain: general
+duration: 22 minutes
+sources:
+- https://www.youtube.com/watch?v=919XuYNqyjw
+tags:
+- youtube
+- healthygamergg
+title: The Secret to Fixing Your Adulthood
+type: video
+updated: '2026-09-28T05:36:04.231458'
 ---
+
 
 # The Secret to Fixing Your Adulthood
 
@@ -52,8 +46,8 @@ This video from HealthyGamerGG explores important mental health topics related t
 
 ## Related Pages
 
-- [[Mental Health]]
-- [[Relationships]]
-- [[Personal Development]]
-- [[Anxiety Management]]
-- [[Addiction Recovery]]
+- Mental Health
+- Relationships
+- Personal Development
+- Anxiety Management
+- Addiction Recovery

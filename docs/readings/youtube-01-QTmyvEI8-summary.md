@@ -1,18 +1,22 @@
 ---
-title: The Satisfying Downfall of OnlyJayus - Summary
-created: 2026-09-28
-updated: 2026-09-28
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, 01-QTmyvEI8]
-sources: [raw/videos/youtube-01-QTmyvEI8-transcript.md]
-published: 2026-09-28
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-28
+domain: ai
+published: 2026-09-28
 reviewed: 2026-09-28
+sources:
+- raw/videos/youtube-01-QTmyvEI8-transcript.md
+status: active
+tags:
+- youtube
+- transcript
+time_sensitive: true
+title: The Satisfying Downfall of OnlyJayus - Summary
+type: reading
+updated: 2026-09-28
 ---
+
 
 # The Satisfying Downfall of OnlyJayus - Summary
 

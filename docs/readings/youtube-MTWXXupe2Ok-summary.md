@@ -1,22 +1,22 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-22
+created: 2026-09-28
 domain: ai
-published: 2026-08-22
-reviewed: 2026-08-22
+published: 2026-09-28
+reviewed: 2026-09-28
 sources:
 - raw/videos/youtube-MTWXXupe2Ok-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: Man Receives Highest Dose of Nuclear Radiation And More Nuclear Videos (Compilation)
   - Summary
 type: reading
-updated: 2026-08-22
+updated: 2026-09-28
 ---
-
 
 
 # Man Receives Highest Dose of Nuclear Radiation And More Nuclear Videos (Compilation) - Summary
@@ -36,14 +36,14 @@ This video discusses Man Receives Highest Dose of Nuclear Radiation And More Nuc
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: The Silo, Ottawa Canada, Miles Away
+- **Persons**: Israel South, Nature Reserve, First Responders
 - **Organizations**: Cancer Institute, Stevens Institute
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [container](concepts/container.md)
-- [cloud](concepts/cloud.md)
-- [ai](concepts/ai.md)
+- [[cloud]]
+- [[ai]]
+- [[container]]
+- [[api]]
 
 ## Transcript Highlights
 > lives Uchi is in critical condition and
@@ -54,15 +54,3 @@ This video discusses Man Receives Highest Dose of Nuclear Radiation And More Nuc
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[cloud]]
-- [[container]]
-- 
-- [[youtube-D8gygc4boZA-cancer-institute]]
-- [[youtube-MTWXXupe2Ok-miles-away]]
-- [[youtube-MTWXXupe2Ok-ottawa-canada]]
-- [[youtube-MTWXXupe2Ok-stevens-institute]]
-- [[youtube-MTWXXupe2Ok-the-silo]]

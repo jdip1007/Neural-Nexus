@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-26
+created: 2026-09-28
 domain: ai
-published: 2026-08-26
-reviewed: 2026-08-26
+published: 2026-09-28
+reviewed: 2026-09-28
 sources:
 - raw/videos/youtube-17rJSSzto4U-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: Real Way to ACTUALLY Increase Your IQ - Summary
 type: reading
-updated: 2026-08-26
+updated: 2026-09-28
 ---
-
 
 
 # Real Way to ACTUALLY Increase Your IQ - Summary
@@ -39,11 +39,11 @@ have the key to the problem but you can figure it out
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Steve Jobs, South East, How To
+- **Persons**: The Feynman, South Africa, Learn Anything
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [api](concepts/api.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > Although social class is way more important
@@ -57,11 +57,3 @@ have the key to the problem but you can figure
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-17rJSSzto4U-south-east]]
-- [[youtube-17rJSSzto4U-steve-jobs]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

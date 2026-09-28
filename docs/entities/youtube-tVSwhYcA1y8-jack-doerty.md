@@ -1,16 +1,20 @@
 ---
-title: Jack Doerty
-created: 2026-09-28
-updated: 2026-09-28
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, tVSwhYcA1y8]
-sources: [raw/videos/youtube-tVSwhYcA1y8-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-28
+domain: ai
 reviewed: 2026-09-28
+sources:
+- raw/videos/youtube-tVSwhYcA1y8-transcript.md
+status: active
+tags:
+- youtube
+- persons
+title: Jack Doerty
+type: entity
+updated: 2026-09-28
 ---
+
 
 # Jack Doerty
 

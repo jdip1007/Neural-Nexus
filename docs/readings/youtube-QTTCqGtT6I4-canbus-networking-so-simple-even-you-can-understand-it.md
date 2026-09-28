@@ -1,17 +1,24 @@
 ---
-title: "CANBUS – Networking so simple, even YOU can understand it!"
-created: "2026-09-28"
-updated: "2026-09-28"
-type: reading
-classification: video.daves-garage
-domain: technology
-tags: ['networking', 'hardware', 'automotive', 'daves-garage', 'youtube', 'tutorial']
-sources: ["https://www.youtube.com/watch?v=QTTCqGtT6I4"]
-confidence: medium
-status: active
-reviewed: "2026-09-28"
 backlinks: []
+classification: video.daves-garage
+confidence: medium
+created: '2026-09-28'
+domain: technology
+reviewed: '2026-09-28'
+sources:
+- https://www.youtube.com/watch?v=QTTCqGtT6I4
+status: active
+tags:
+- networking
+- hardware
+- automotive
+- youtube
+- tutorial
+title: CANBUS – Networking so simple, even YOU can understand it!
+type: reading
+updated: '2026-09-28'
 ---
+
 
 # CANBUS – Networking so simple, even YOU can understand it!
 
@@ -39,8 +46,8 @@ CANBUS networking protocol explained in simple terms. Learn about Controller Are
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- Dave's Garage - Main channel page
+- YouTube Tutorials - Collection of technical tutorials
 - [[Networking]] - Related networking content
 - [[Programming]] - Related programming tutorials
 

@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello",
-  "created": "2026-09-25",
-  "updated": "2026-09-25",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Why_Sydney_Sweeney_Has_Two_Big_Targets_On_Her_Chest"
-  ],
-  "video_id": "Why_Sydney_Sweeney_Has_Two_Big_Targets_On_Her_Chest",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-25"
-}
+channel: Chris Willx
+created: '2026-09-25'
+domain: general
+ingestion_date: '2026-09-25'
+sources:
+- https://www.youtube.com/watch?v=Why_Sydney_Sweeney_Has_Two_Big_Targets_On_Her_Chest
+tags:
+- philosophy
+- psychology
+title: Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-25'
+video_id: Why_Sydney_Sweeney_Has_Two_Big_Targets_On_Her_Chest
 ---
+
 
 # Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: Chris Willx
 - **Video ID**: Why_Sydney_Sweeney_Has_Two_Big_Targets_On_Her_Chest
 - **Original URL**: https://www.youtube.com/watch?v=Why_Sydney_Sweeney_Has_Two_Big_Targets_On_Her_Chest
 - **Ingestion Date**: 2026-09-25
@@ -72,9 +70,9 @@ This comprehensive exploration of health and success provides viewers with both 
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+- Chris Willx - Main channel page
+- Philosophy - General philosophy topics
+- Psychology - Psychological concepts discussed
 
 ---
 

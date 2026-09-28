@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-23
+created: 2026-09-28
 domain: ai
-published: 2026-08-23
-reviewed: 2026-08-23
+published: 2026-09-28
+reviewed: 2026-09-28
 sources:
 - raw/videos/youtube-BYmj1HXvU44-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: false
 title: How Did World War 1 Start? - Summary
 type: reading
-updated: 2026-08-23
+updated: 2026-09-28
 ---
-
 
 
 # How Did World War 1 Start? - Summary
@@ -33,10 +33,10 @@ without one key player
 only way to ensure Germany's spot of power was through war
 
 ## Entities Mentioned
-- **Persons**: Franz Ferdinand, They Compare, Triple Alliance
+- **Persons**: World War, Kaiser Wilhelm, Gavrilo Princip
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > The two main sides of the war were the Central
@@ -50,11 +50,3 @@ only way to ensure Germany's spot of power
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-BYmj1HXvU44-franz-ferdinand]]
-- [[youtube-BYmj1HXvU44-they-compare]]
-- [[youtube-BYmj1HXvU44-triple-alliance]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

@@ -27,8 +27,8 @@ In this episode, we explore the dynamics of modern relationships and dating patt
 ## Key Topics
 
 - Psychology
-- [[Dating]]
-- [[Relationships]]
+- Dating
+- Relationships
 
 ## Transcript
 
@@ -37,7 +37,7 @@ In this episode, we explore the dynamics of modern relationships and dating patt
 ## Related Videos
 
 - Chris Willx channel
-- [[YouTube]] content
+- YouTube content
 
 ## Notes
 

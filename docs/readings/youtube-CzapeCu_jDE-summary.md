@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-23
+created: 2026-09-28
 domain: ai
-published: 2026-08-23
-reviewed: 2026-08-23
+published: 2026-09-28
+reviewed: 2026-09-28
 sources:
 - raw/videos/youtube-CzapeCu_jDE-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: State Prison vs Federal Prison - What’s The Actual Difference? - Summary
 type: reading
-updated: 2026-08-23
+updated: 2026-09-28
 ---
-
 
 
 # State Prison vs Federal Prison - What’s The Actual Difference? - Summary
@@ -42,11 +42,11 @@ to sports like tennis, bocce ball, and volleyball to maintain physical fitness
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Eighth Amendment, For Federal, Alabama State
+- **Persons**: How To, State Penitentiary, Club Fed
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [api](concepts/api.md)
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > And the care of state prisoners and the maintenance
@@ -60,12 +60,3 @@ criminals – such as murderers, sex criminals,
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- youtube-CzapeCu-jDE-alabama-state
-- youtube-CzapeCu-jDE-eighth-amendment
-- youtube-CzapeCu-jDE-for-federal
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 

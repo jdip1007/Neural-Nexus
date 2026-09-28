@@ -1,16 +1,20 @@
 ---
-title: In Praise
-created: 2026-09-28
-updated: 2026-09-28
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, n8Q_y1sG_t0]
-sources: [raw/videos/youtube-n8Q_y1sG_t0-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-28
+domain: ai
 reviewed: 2026-09-28
+sources:
+- raw/videos/youtube-n8Q_y1sG_t0-transcript.md
+status: active
+tags:
+- youtube
+- persons
+title: In Praise
+type: entity
+updated: 2026-09-28
 ---
+
 
 # In Praise
 

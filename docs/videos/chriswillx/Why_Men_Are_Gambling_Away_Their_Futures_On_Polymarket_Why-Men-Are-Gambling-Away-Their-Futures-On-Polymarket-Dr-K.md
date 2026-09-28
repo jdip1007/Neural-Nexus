@@ -1,28 +1,26 @@
 ---
-{
-  "title": "Why Men Are Gambling Away Their Futures On Polymarket - Dr K",
-  "created": "2026-09-25",
-  "updated": "2026-09-25",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=Why_Men_Are_Gambling_Away_Their_Futures_On_Polymarket"
-  ],
-  "video_id": "Why_Men_Are_Gambling_Away_Their_Futures_On_Polymarket",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-25"
-}
+channel: Chris Willx
+created: '2026-09-25'
+domain: general
+ingestion_date: '2026-09-25'
+sources:
+- https://www.youtube.com/watch?v=Why_Men_Are_Gambling_Away_Their_Futures_On_Polymarket
+tags:
+- philosophy
+- psychology
+title: Why Men Are Gambling Away Their Futures On Polymarket - Dr K
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-25'
+video_id: Why_Men_Are_Gambling_Away_Their_Futures_On_Polymarket
 ---
+
 
 # Why Men Are Gambling Away Their Futures On Polymarket - Dr K
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: Chris Willx
 - **Video ID**: Why_Men_Are_Gambling_Away_Their_Futures_On_Polymarket
 - **Original URL**: https://www.youtube.com/watch?v=Why_Men_Are_Gambling_Away_Their_Futures_On_Polymarket
 - **Ingestion Date**: 2026-09-25
@@ -72,9 +70,9 @@ This comprehensive exploration of happiness and mental health provides viewers w
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+- Chris Willx - Main channel page
+- Philosophy - General philosophy topics
+- Psychology - Psychological concepts discussed
 
 ---
 

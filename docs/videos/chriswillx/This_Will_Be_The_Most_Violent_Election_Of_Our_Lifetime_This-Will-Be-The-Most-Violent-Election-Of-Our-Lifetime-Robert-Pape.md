@@ -1,28 +1,26 @@
 ---
-{
-  "title": "This Will Be The Most Violent Election Of Our Lifetime - Robert Pape",
-  "created": "2026-09-25",
-  "updated": "2026-09-25",
-  "type": "video",
-  "tags": [
-    "philosophy",
-    "psychology"
-  ],
-  "sources": [
-    "https://www.youtube.com/watch?v=This_Will_Be_The_Most_Violent_Election_Of_Our_Lifetime"
-  ],
-  "video_id": "This_Will_Be_The_Most_Violent_Election_Of_Our_Lifetime",
-  "channel": "Chris Willx",
-  "transcript_api": "transcriptapi.com",
-  "ingestion_date": "2026-09-25"
-}
+channel: Chris Willx
+created: '2026-09-25'
+domain: general
+ingestion_date: '2026-09-25'
+sources:
+- https://www.youtube.com/watch?v=This_Will_Be_The_Most_Violent_Election_Of_Our_Lifetime
+tags:
+- philosophy
+- psychology
+title: This Will Be The Most Violent Election Of Our Lifetime - Robert Pape
+transcript_api: transcriptapi.com
+type: video
+updated: '2026-09-25'
+video_id: This_Will_Be_The_Most_Violent_Election_Of_Our_Lifetime
 ---
+
 
 # This Will Be The Most Violent Election Of Our Lifetime - Robert Pape
 
 ## Video Information
 
-- **Channel**: [[Chris Willx]]
+- **Channel**: Chris Willx
 - **Video ID**: This_Will_Be_The_Most_Violent_Election_Of_Our_Lifetime
 - **Original URL**: https://www.youtube.com/watch?v=This_Will_Be_The_Most_Violent_Election_Of_Our_Lifetime
 - **Ingestion Date**: 2026-09-25
@@ -72,9 +70,9 @@ This comprehensive exploration of relationships and psychology provides viewers 
 
 ## Related Content
 
-- [[Chris Willx]] - Main channel page
-- [[Philosophy]] - General philosophy topics
-- [[Psychology]] - Psychological concepts discussed
+- Chris Willx - Main channel page
+- Philosophy - General philosophy topics
+- Psychology - Psychological concepts discussed
 
 ---
 

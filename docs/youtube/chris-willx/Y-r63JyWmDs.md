@@ -24,9 +24,9 @@ Cultural analysis and media commentary on contemporary social trends. We examine
 
 ## Key Topics
 
-- [[Media]]
-- [[Culture]]
-- [[Social trends]]
+- Media
+- Culture
+- Social trends
 
 ## Transcript
 
@@ -35,7 +35,7 @@ Cultural analysis and media commentary on contemporary social trends. We examine
 ## Related Videos
 
 - Chris Willx channel
-- [[YouTube]] content
+- YouTube content
 
 ## Notes
 

@@ -39,8 +39,8 @@ Detailed breakdown of Flock cameras and vehicle tracking technology. This compre
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- Dave's Garage - Main channel page
+- YouTube Tutorials - Collection of technical tutorials
 - [[Networking]] - Related networking content
 - [[Programming]] - Related programming tutorials
 

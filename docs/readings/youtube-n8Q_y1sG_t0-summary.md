@@ -1,18 +1,22 @@
 ---
-title: How Exposing Wendigoon Ended His Career - Summary
-created: 2026-09-28
-updated: 2026-09-28
-type: reading
-domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, n8Q_y1sG_t0]
-sources: [raw/videos/youtube-n8Q_y1sG_t0-transcript.md]
-published: 2026-09-28
-time_sensitive: True
 confidence: high
-status: active
+created: 2026-09-28
+domain: ai
+published: 2026-09-28
 reviewed: 2026-09-28
+sources:
+- raw/videos/youtube-n8Q_y1sG_t0-transcript.md
+status: active
+tags:
+- youtube
+- transcript
+time_sensitive: true
+title: How Exposing Wendigoon Ended His Career - Summary
+type: reading
+updated: 2026-09-28
 ---
+
 
 # How Exposing Wendigoon Ended His Career - Summary
 

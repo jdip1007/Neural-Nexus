@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-07
+created: 2026-09-28
 domain: ai
-published: 2026-08-07
-reviewed: 2026-08-07
+published: 2026-09-28
+reviewed: 2026-09-28
 sources:
 - raw/videos/youtube-m5q-PIN3KSE-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: What Made The Black Death (The Plague) so Deadly? - Summary
 type: reading
-updated: 2026-08-07
+updated: 2026-09-28
 ---
-
 
 
 # What Made The Black Death (The Plague) so Deadly? - Summary
@@ -38,10 +38,10 @@ at the time determined that only 0
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: While Washington, Happen Again, The Plague
+- **Persons**: Black Death, World War, The Black
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > Sometimes, bodies of the deceased remained
@@ -55,10 +55,3 @@ at the time determined that only 0.2% had
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-m5q-PIN3KSE-happen-again]]
-- [[youtube-m5q-PIN3KSE-the-plague]]
-- [[youtube-m5q-PIN3KSE-while-washington]]

@@ -35,8 +35,8 @@ TCP vs UDP networking protocols comparison and analysis. This video explains the
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- Dave's Garage - Main channel page
+- YouTube Tutorials - Collection of technical tutorials
 - [[Networking]] - Related networking content
 - [[Programming]] - Related programming tutorials
 

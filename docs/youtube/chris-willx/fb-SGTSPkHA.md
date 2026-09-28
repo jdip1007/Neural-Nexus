@@ -27,8 +27,8 @@ Financial analysis and investment strategies for uncertain economic times. We ex
 ## Key Topics
 
 - [[Finance]]
-- [[Economics]]
-- [[Wealth]]
+- Economics
+- Wealth
 
 ## Transcript
 
@@ -37,7 +37,7 @@ Financial analysis and investment strategies for uncertain economic times. We ex
 ## Related Videos
 
 - Chris Willx channel
-- [[YouTube]] content
+- YouTube content
 
 ## Notes
 

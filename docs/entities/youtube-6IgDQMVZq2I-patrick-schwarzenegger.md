@@ -1,16 +1,20 @@
 ---
-title: Patrick Schwarzenegger
-created: 2026-09-28
-updated: 2026-09-28
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, 6IgDQMVZq2I]
-sources: [raw/videos/youtube-6IgDQMVZq2I-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-28
+domain: ai
 reviewed: 2026-09-28
+sources:
+- raw/videos/youtube-6IgDQMVZq2I-transcript.md
+status: active
+tags:
+- youtube
+- persons
+title: Patrick Schwarzenegger
+type: entity
+updated: 2026-09-28
 ---
+
 
 # Patrick Schwarzenegger
 

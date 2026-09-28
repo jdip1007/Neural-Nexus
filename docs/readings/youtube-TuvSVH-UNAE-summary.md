@@ -1,21 +1,21 @@
 ---
 classification: general.media
 confidence: high
-created: 2026-08-08
+created: 2026-09-28
 domain: ai
-published: 2026-08-08
-reviewed: 2026-08-08
+published: 2026-09-28
+reviewed: 2026-09-28
 sources:
 - raw/videos/youtube-TuvSVH-UNAE-transcript.md
 status: active
 tags:
-- general
+- youtube
+- transcript
 time_sensitive: true
 title: Declassified FBI Secrets You’re Not Supposed To Know - Summary
 type: reading
-updated: 2026-08-08
+updated: 2026-09-28
 ---
-
 
 
 # Declassified FBI Secrets You’re Not Supposed To Know - Summary
@@ -41,10 +41,10 @@ found themselves dealing with a rash of animal mutilations, mainly cattle
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Bernard Baruch, Truman Capote, Hollyweird While
+- **Persons**: Lucille Ball, What Happened, Space Shuttle
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > It’s rare for someone to play a key role in the 
@@ -58,11 +58,3 @@ parks didn’t like anything that shattered
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-TuvSVH-UNAE-bernard-baruch]]
-- [[youtube-TuvSVH-UNAE-hollyweird-while]]
-- [[youtube-TuvSVH-UNAE-truman-capote]]
-- 

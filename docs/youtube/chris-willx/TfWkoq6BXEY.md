@@ -25,9 +25,9 @@ Deep dive into the psychology of highly sensitive individuals and their unique c
 
 ## Key Topics
 
-- [[Neuroscience]]
+- Neuroscience
 - Psychology
-- [[Mental health]]
+- Mental health
 
 ## Transcript
 
@@ -36,7 +36,7 @@ Deep dive into the psychology of highly sensitive individuals and their unique c
 ## Related Videos
 
 - Chris Willx channel
-- [[YouTube]] content
+- YouTube content
 
 ## Notes
 

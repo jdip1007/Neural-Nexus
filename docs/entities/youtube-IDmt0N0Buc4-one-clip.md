@@ -1,16 +1,20 @@
 ---
-title: One Clip
-created: 2026-09-28
-updated: 2026-09-28
-type: entity
-domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, persons, IDmt0N0Buc4]
-sources: [raw/videos/youtube-IDmt0N0Buc4-transcript.md]
 confidence: medium
-status: active
+created: 2026-09-28
+domain: ai
 reviewed: 2026-09-28
+sources:
+- raw/videos/youtube-IDmt0N0Buc4-transcript.md
+status: active
+tags:
+- youtube
+- persons
+title: One Clip
+type: entity
+updated: 2026-09-28
 ---
+
 
 # One Clip
 

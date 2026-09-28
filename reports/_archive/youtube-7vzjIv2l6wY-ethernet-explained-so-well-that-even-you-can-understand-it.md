@@ -37,8 +37,8 @@ Ethernet technology explained from basic principles to advanced networking conce
 
 ## Related Pages
 
-- [[Dave's Garage]] - Main channel page
-- [[YouTube Tutorials]] - Collection of technical tutorials
+- Dave's Garage - Main channel page
+- YouTube Tutorials - Collection of technical tutorials
 - [[Networking]] - Related networking content
 - [[Programming]] - Related programming tutorials
 
