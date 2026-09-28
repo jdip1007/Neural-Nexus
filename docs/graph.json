@@ -1,6 +1,40 @@
 {
   "nodes": [
     {
+      "id": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "title": "\"CANBUS \u2013 Networking so simple, even YOU can understand it!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "hardware",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "hardware",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "why-you-need-constant-reassurance",
+      "title": "why-you-need-constant-reassurance",
+      "file": "/home/hermes/Neural-Nexus/docs/why-you-need-constant-reassurance.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "SCHEMA",
       "title": "Schema",
       "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
@@ -15,24 +49,10 @@
       "type": "page"
     },
     {
-      "id": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
-      "title": "the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati",
-      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-8zUhBnpVgdE-Most-Viewed-The-Infographics-Show-Videos-Compilati.md",
+      "id": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "title": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "file": "/home/hermes/Neural-Nexus/docs/i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k.md",
       "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
-      "title": "\"The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
       "type": "page"
     },
     {
@@ -43,20 +63,11 @@
       "type": "page"
     },
     {
-      "id": "the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier",
-      "title": "the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier",
-      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "title": "\"Hidden Code: How Slot Machines Actually Work - The Computer Inside\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "id": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "title": "\"fopen is Magic! - Find Out What You've Been Missing All These Years!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years.md",
       "tags": [
         "programming",
-        "technology",
-        "gaming",
         "daves-garage",
         "youtube",
         "tutorial"
@@ -64,19 +75,27 @@
       "type": "page"
     },
     {
-      "id": "the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI",
-      "title": "the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI",
-      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-dQw4w9WgXcQ-The-Never-Ending-Downfall-of-KSI.md",
+      "id": "why-you-cant-just-rewire-your-brain",
+      "title": "why-you-cant-just-rewire-your-brain",
+      "file": "/home/hermes/Neural-Nexus/docs/why-you-cant-just-rewire-your-brain.md",
       "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
-      "title": "\"The Challenge: Can we build Notepad in 3K in assembly language?\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language.md",
+      "id": "analyzing-the-lindsay-clancy-case",
+      "title": "analyzing-the-lindsay-clancy-case",
+      "file": "/home/hermes/Neural-Nexus/docs/analyzing-the-lindsay-clancy-case.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "title": "\"The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
       "tags": [
-        "programming",
+        "hardware",
         "technology",
+        "automotive",
         "daves-garage",
         "youtube",
         "tutorial"
@@ -91,58 +110,15 @@
       "type": "page"
     },
     {
-      "id": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
-      "title": "the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily",
-      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
-      "title": "\"Microsoft's Secret 90s Weapon That Made Windows Fast\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "title": "\"Reliable Isn't Always Better: TCP vs UDP\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
       "tags": [
-        "programming",
-        "technology",
+        "networking",
         "daves-garage",
         "youtube",
         "tutorial"
       ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "title": "\"The Challenge: Building a Custom Electric Vehicle\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining",
-      "title": "the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining",
-      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-2MwTDoT8q_A-Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "the-infographics-show-cemy5eP5Jjs-Most-Insane-The-Infographics-Show-Videos-of-All-Ti",
-      "title": "the-infographics-show-cemy5eP5Jjs-Most-Insane-The-Infographics-Show-Videos-of-All-Ti",
-      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-cemy5eP5Jjs-Most-Insane-The-Infographics-Show-Videos-of-All-Ti.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "the-infographics-show-example8-Andrew-Tates-Life-Is-Falling-Apart",
-      "title": "the-infographics-show-example8-Andrew-Tates-Life-Is-Falling-Apart",
-      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-example8-Andrew-Tates-Life-Is-Falling-Apart.md",
-      "tags": [],
       "type": "page"
     },
     {
@@ -153,17 +129,63 @@
       "type": "page"
     },
     {
-      "id": "the-infographics-show-k0ksj42YJaM-Jonah-Hills-Life-Is-Falling-Apart",
-      "title": "the-infographics-show-k0ksj42YJaM-Jonah-Hills-Life-Is-Falling-Apart",
-      "file": "/home/hermes/Neural-Nexus/docs/the-infographics-show-k0ksj42YJaM-Jonah-Hills-Life-Is-Falling-Apart.md",
+      "id": "the-secret-to-fixing-your-adulthood",
+      "title": "the-secret-to-fixing-your-adulthood",
+      "file": "/home/hermes/Neural-Nexus/docs/the-secret-to-fixing-your-adulthood.md",
       "tags": [],
       "type": "page"
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "index",
+      "target": "why-you-need-constant-reassurance",
+      "type": "wikilink"
+    },
+    {
+      "source": "index",
+      "target": "analyzing-the-lindsay-clancy-case",
+      "type": "wikilink"
+    },
+    {
+      "source": "index",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    }
+  ],
   "metadata": {
-    "generated": "2026-09-27T03:43:59.067041",
-    "total_nodes": 18,
-    "total_edges": 0
+    "generated": "2026-09-28T05:36:41.438317",
+    "total_nodes": 15,
+    "total_edges": 9
   }
 }
