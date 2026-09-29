@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-23
-domain: ai
-published: 2026-08-23
-reviewed: 2026-08-23
-sources:
-- raw/videos/youtube-W9mF-NOHatI-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: How Restoration Videos Are Faked - Summary
+created: 2026-09-29
+updated: 2026-09-29
 type: reading
-updated: 2026-08-23
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, W9mF-NOHatI]
+sources: [raw/videos/youtube-W9mF-NOHatI-transcript.md]
+published: 2026-09-29
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-29
 ---
-
-
 
 # How Restoration Videos Are Faked - Summary
 
@@ -31,11 +27,11 @@ This video discusses How Restoration Videos Are Faked
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: New England, Barnacles Barnacles, Turtle Man
+- **Persons**: New England, Turtle Man, Happy Endings
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > mainly due to the fact that they are
@@ -46,14 +42,3 @@ This video discusses How Restoration Videos Are Faked
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-7HF6UuVdihA-the-big]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-W9mF-NOHatI-barnacles-barnacles]]
-- [[youtube-W9mF-NOHatI-new-england]]
-- [[youtube-W9mF-NOHatI-turtle-man]]
-- 

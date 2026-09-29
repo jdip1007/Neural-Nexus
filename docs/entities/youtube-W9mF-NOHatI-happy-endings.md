@@ -1,5 +1,5 @@
 ---
-title: Turtle Man
+title: Happy Endings
 created: 2026-09-29
 updated: 2026-09-29
 type: entity
@@ -12,16 +12,16 @@ status: active
 reviewed: 2026-09-29
 ---
 
-# Turtle Man
+# Happy Endings
 
 ## Overview
-Turtle Man is mentioned in the YouTube video "How Restoration Videos Are Faked".
+Happy Endings is mentioned in the YouTube video "How Restoration Videos Are Faked".
 
 ## Context
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](../readings/youtube-W9mF-NOHatI-summary.md)
+- [[youtube-W9mF-NOHatI-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-W9mF-NOHatI-transcript.md] Video mention at timestamp

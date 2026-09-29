@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=W9mF-NOHatI
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
+ingested: 2026-09-29
+published: 2026-09-29
 duration_minutes: 6
 language: en
 sha256: 7f7282afa709f1d44015cfa0f3cb4f5324edfaabc07e3530901e6abf7a934976

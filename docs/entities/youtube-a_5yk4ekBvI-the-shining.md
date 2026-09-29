@@ -1,5 +1,5 @@
 ---
-title: Brent Rivera
+title: The Shining
 created: 2026-09-29
 updated: 2026-09-29
 type: entity
@@ -12,16 +12,16 @@ status: active
 reviewed: 2026-09-29
 ---
 
-# Brent Rivera
+# The Shining
 
 ## Overview
-Brent Rivera is mentioned in the YouTube video "The Worst Content Thieves on YouTube".
+The Shining is mentioned in the YouTube video "The Worst Content Thieves on YouTube".
 
 ## Context
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [[youtube-a_5yk4ekBvI-summary|Video Summary]]
+- [Video Summary](../readings/youtube-a_5yk4ekBvI-summary.md)
 
 ## Sources
 ^[raw/videos/youtube-a_5yk4ekBvI-transcript.md] Video mention at timestamp

@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-24
-domain: ai
-published: 2026-08-24
-reviewed: 2026-08-24
-sources:
-- raw/videos/youtube-a_5yk4ekBvI-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: The Worst Content Thieves on YouTube - Summary
+created: 2026-09-29
+updated: 2026-09-29
 type: reading
-updated: 2026-08-24
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, a_5yk4ekBvI]
+sources: [raw/videos/youtube-a_5yk4ekBvI-transcript.md]
+published: 2026-09-29
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-29
 ---
-
-
 
 # The Worst Content Thieves on YouTube - Summary
 
@@ -32,10 +28,10 @@ This video discusses The Worst Content Thieves on YouTube
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Brent Rivera, Andrew Lexi, Rose Jack
+- **Persons**: The Shining, Brent Rivera, The Stokes
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > mainly focused on Call of Duty gameplay
@@ -46,15 +42,3 @@ This video discusses The Worst Content Thieves on YouTube
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
-- youtube-6BOxK-JrghY-the-work
-- [[youtube-FVZDXz3Iibw-the-american]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-Vw5sPrcqdMI-sniper-wolf]]
-- [[youtube-WNSZ6xouNv4-and-that]]
-- [[youtube-WNSZ6xouNv4-used-to]]

@@ -1,5 +1,5 @@
 ---
-title: Brent Rivera
+title: The Stokes
 created: 2026-09-29
 updated: 2026-09-29
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-09-29
 ---
 
-# Brent Rivera
+# The Stokes
 
 ## Overview
-Brent Rivera is mentioned in the YouTube video "The Worst Content Thieves on YouTube".
+The Stokes is mentioned in the YouTube video "The Worst Content Thieves on YouTube".
 
 ## Context
 Mentioned in the context of research and development.
