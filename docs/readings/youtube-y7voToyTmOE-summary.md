@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-26
-domain: ai
-published: 2026-08-26
-reviewed: 2026-08-26
-sources:
-- raw/videos/youtube-y7voToyTmOE-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: Scientists Reveal How a Zombie Apocalypse Could Actually Happen - Summary
+created: 2026-09-29
+updated: 2026-09-29
 type: reading
-updated: 2026-08-26
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, y7voToyTmOE]
+sources: [raw/videos/youtube-y7voToyTmOE-transcript.md]
+published: 2026-09-29
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-29
 ---
-
-
 
 # Scientists Reveal How a Zombie Apocalypse Could Actually Happen - Summary
 
@@ -39,12 +35,12 @@ essentially becoming self-replicating
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Scientists Create, The Asian, Jakob Disease
+- **Persons**: Murder Hornets, Zombie Attack, While Toxoplasma
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [api](concepts/api.md)
-- [cloud](concepts/cloud.md)
+- [[cloud_computing]]
+- [[application_programming_interface]]
+- [[artificial_intelligence]]
 
 ## Transcript Highlights
 > they’re a case of kidnapping and enslavement. 
@@ -58,13 +54,3 @@ tissue in the brain might essentially do a
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[cloud]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 
-- [[youtube-y7voToyTmOE-jakob-disease]]
-- [[youtube-y7voToyTmOE-scientists-create]]
-- [[youtube-y7voToyTmOE-the-asian]]

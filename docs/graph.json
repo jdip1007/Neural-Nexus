@@ -1,9 +1,23 @@
 {
   "nodes": [
     {
+      "id": "how-money-works-wtf-is-happening-to-the-video-game-industry",
+      "title": "how-money-works-wtf-is-happening-to-the-video-game-industry",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-is-happening-to-the-video-game-industry.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "SCHEMA",
       "title": "Schema",
       "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "how-money-works-americas-unsolvable-problem",
+      "title": "how-money-works-americas-unsolvable-problem",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-americas-unsolvable-problem.md",
       "tags": [],
       "type": "page"
     },
@@ -15,9 +29,37 @@
       "type": "page"
     },
     {
+      "id": "youtube-mNGaK9SCOlE-James-Sexton-Matt-McCusker-Rick-Glassman-Mostly-Wi",
+      "title": "'James Sexton, Matt McCusker & Rick Glassman - Mostly Wise #4'",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-mNGaK9SCOlE-James-Sexton-Matt-McCusker-Rick-Glassman-Mostly-Wi.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "how-money-works-is-america-chasing-away-all-of-its-smart-people",
+      "title": "how-money-works-is-america-chasing-away-all-of-its-smart-people",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-is-america-chasing-away-all-of-its-smart-people.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "title": "how-money-works-how-long-can-the-stock-market-ignore-reality",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-how-long-can-the-stock-market-ignore-reality.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "index",
       "title": "Index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-HC6-yqH_axA-How-To-Stay-Real-Succeed-In-A-Fake-World-Dylan-Gos",
+      "title": "How To Stay Real & Succeed In A Fake World - Dylan Gossett (Live Performance)",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-HC6-yqH_axA-How-To-Stay-Real-Succeed-In-A-Fake-World-Dylan-Gos.md",
       "tags": [],
       "type": "page"
     },
@@ -29,17 +71,31 @@
       "type": "page"
     },
     {
+      "id": "how-money-works-canada-is-joining-the-eu-but-wtf-does-that-even-mean",
+      "title": "how-money-works-canada-is-joining-the-eu-but-wtf-does-that-even-mean",
+      "file": "/home/hermes/Neural-Nexus/docs/how-money-works-canada-is-joining-the-eu-but-wtf-does-that-even-mean.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "graph",
       "title": "Graph",
       "file": "/home/hermes/Neural-Nexus/docs/graph.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-5k-BbXf2lMo-A-very-slow-training-session-with-Zac-Efron",
+      "title": "A very slow training session with Zac Efron.",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-5k-BbXf2lMo-A-very-slow-training-session-with-Zac-Efron.md",
       "tags": [],
       "type": "page"
     }
   ],
   "edges": [],
   "metadata": {
-    "generated": "2026-09-28T23:12:35.674958",
-    "total_nodes": 5,
+    "generated": "2026-09-29T23:23:00.141970",
+    "total_nodes": 13,
     "total_edges": 0
   }
 }
