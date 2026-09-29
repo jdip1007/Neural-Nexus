@@ -1,24 +1,31 @@
 ---
 channel: Dave's Garage
-created: '2026-09-18T01:19:27.081710'
-domain: general
+created: '2026-09-29T03:56:44.535452'
 duration: 20 minutes
 sources:
 - https://www.youtube.com/watch?v=OG91c7xsNMc
 tags:
-- tech
 - diy
+- hardware
+- programming
+- tutorial
+- system
 - code
+- development
+- software
+- ethernet
 - led
+- tech
+- assembly
+- network
+- youtube
+- daves-garage
 title: 'The Challenge: Can we build Notepad in 3K in assembly language?'
 type: video
-updated: '2026-09-18T01:19:27.081764'
+updated: '2026-09-29T03:56:44.535462'
 video_id: OG91c7xsNMc
 views: 331K
 ---
-
-
-
 
 # The Challenge: Can we build Notepad in 3K in assembly language?
 
@@ -29,23 +36,23 @@ views: 331K
 
 ## Summary
 
-This video from Dave's Garage explores system, assembly, programming and related concepts in depth.
+This video from Dave's Garage explores diy, hardware, programming and related concepts in depth.
 
 ## Key Topics
 
-- system
-- assembly
-- programming
-- tech
-- tutorial
-- ethernet
-- software
 - diy
-- network
 - hardware
+- programming
+- tutorial
+- system
 - code
-- led
 - development
+- software
+- ethernet
+- led
+- tech
+- assembly
+- network
 
 ## Key Concepts
 
@@ -70,12 +77,3 @@ This video from Dave's Garage explores system, assembly, programming and related
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube]]

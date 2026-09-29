@@ -1,7 +1,33 @@
 {
-  "processed_videos": {},
+  "processed_videos": {
+    "Sx-lddna-qg": {
+      "title": "WTF Is Happening To The Video Game Industry?",
+      "processed_date": "2026-09-29T02:23:28.963131",
+      "status": "completed"
+    },
+    "THodtjsCTSI": {
+      "title": "Is America Chasing Away All Of Its Smart People?",
+      "processed_date": "2026-09-29T02:23:31.354003",
+      "status": "completed"
+    },
+    "W6xkZy9nkaI": {
+      "title": "Canada Is Joining The EU... But WTF Does That Even Mean?!",
+      "processed_date": "2026-09-29T02:23:33.741546",
+      "status": "completed"
+    },
+    "qmZmKZR8S5U": {
+      "title": "How Long Can The Stock Market Ignore Reality?",
+      "processed_date": "2026-09-29T02:23:36.128856",
+      "status": "completed"
+    },
+    "fQOQuge0dfw": {
+      "title": "America's \"Unsolvable\" Problem",
+      "processed_date": "2026-09-29T02:23:38.508383",
+      "status": "completed"
+    }
+  },
   "video_metadata": {},
-  "last_updated": "2026-08-28T17:36:45.000000",
+  "last_updated": "2026-09-29T02:23:38.508386",
   "channel_name": "How Money Works",
   "channel_id": "HowMoneyWorks"
 }

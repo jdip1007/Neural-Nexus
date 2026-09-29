@@ -7,23 +7,23 @@
 
 ## Summary
 
-This video from Dave's Garage explores system, assembly, programming and related concepts in depth.
+This video from Dave's Garage explores diy, hardware, programming and related concepts in depth.
 
 ## Key Topics
 
-- system
-- assembly
-- programming
-- tech
-- tutorial
-- ethernet
-- software
 - diy
-- network
 - hardware
+- programming
+- tutorial
+- system
 - code
-- led
 - development
+- software
+- ethernet
+- led
+- tech
+- assembly
+- network
 
 ## Key Concepts
 

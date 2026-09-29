@@ -7,21 +7,21 @@
 
 ## Summary
 
-This video from Dave's Garage explores development, tech, code and related concepts in depth.
+This video from Dave's Garage explores diy, hardware, programming and related concepts in depth.
 
 ## Key Topics
 
-- development
-- tech
-- code
-- hardware
 - diy
-- software
-- led
-- system
-- tutorial
+- hardware
 - programming
+- tutorial
+- system
+- code
+- development
+- software
 - ethernet
+- led
+- tech
 - assembly
 - network
 

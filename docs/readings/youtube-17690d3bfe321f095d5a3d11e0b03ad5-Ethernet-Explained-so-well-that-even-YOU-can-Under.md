@@ -1,24 +1,31 @@
 ---
 channel: Dave's Garage
-created: '2026-09-18T01:19:28.032755'
-domain: general
+created: '2026-09-29T03:56:45.700813'
 duration: 23 minutes
 sources:
 - https://www.youtube.com/watch?v=7vzjIv2l6wY
 tags:
-- tech
 - diy
+- hardware
+- programming
+- tutorial
+- system
 - code
+- development
+- software
+- ethernet
 - led
+- tech
+- assembly
+- network
+- youtube
+- daves-garage
 title: Ethernet Explained so well that even YOU can Understand it!
 type: video
-updated: '2026-09-18T01:19:28.032769'
+updated: '2026-09-29T03:56:45.700823'
 video_id: 7vzjIv2l6wY
 views: 170K
 ---
-
-
-
 
 # Ethernet Explained so well that even YOU can Understand it!
 
@@ -29,23 +36,23 @@ views: 170K
 
 ## Summary
 
-This video from Dave's Garage explores system, assembly, programming and related concepts in depth.
+This video from Dave's Garage explores diy, hardware, programming and related concepts in depth.
 
 ## Key Topics
 
-- system
-- assembly
-- programming
-- tech
-- tutorial
-- ethernet
-- software
 - diy
-- network
 - hardware
+- programming
+- tutorial
+- system
 - code
-- led
 - development
+- software
+- ethernet
+- led
+- tech
+- assembly
+- network
 
 ## Key Concepts
 
@@ -70,13 +77,3 @@ This video from Dave's Garage explores system, assembly, programming and related
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[engineering]]
-- [[ethernet-explained-so-well-that-even-you-can-understand-it]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube]]

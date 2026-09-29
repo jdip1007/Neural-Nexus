@@ -1,24 +1,31 @@
 ---
 channel: Dave's Garage
-created: '2026-09-18T01:39:43.741683'
-domain: general
+created: '2026-09-29T03:56:45.317486'
 duration: 18 minutes
 sources:
 - https://www.youtube.com/watch?v=3c5f7WzQzY
 tags:
+- diy
+- hardware
+- programming
+- tutorial
+- system
+- code
+- development
+- software
+- ethernet
 - led
 - tech
-- diy
-- code
+- assembly
+- network
+- youtube
+- daves-garage
 title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside'
 type: video
-updated: '2026-09-18T01:39:43.741693'
+updated: '2026-09-29T03:56:45.317497'
 video_id: 3c5f7WzQzY
 views: 428K
 ---
-
-
-
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside
 
@@ -29,23 +36,23 @@ views: 428K
 
 ## Summary
 
-This video from Dave's Garage explores programming, assembly, ethernet and related concepts in depth.
+This video from Dave's Garage explores diy, hardware, programming and related concepts in depth.
 
 ## Key Topics
 
-- programming
-- assembly
-- ethernet
-- network
-- led
-- software
-- tech
 - diy
 - hardware
+- programming
 - tutorial
-- development
 - system
 - code
+- development
+- software
+- ethernet
+- led
+- tech
+- assembly
+- network
 
 ## Key Concepts
 
@@ -70,12 +77,3 @@ This video from Dave's Garage explores programming, assembly, ethernet and relat
 
 [01:30] This placeholder ensures that the ingestion process continues even when external APIs are unavailable, allowing the system to maintain functionality and complete the ingestion workflow.
 
-
-
-## See also
-
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[programming]]
-- [[youtube]]

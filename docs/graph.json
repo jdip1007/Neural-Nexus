@@ -1,40 +1,6 @@
 {
   "nodes": [
     {
-      "id": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "title": "\"CANBUS \u2013 Networking so simple, even YOU can understand it!\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "hardware",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "hardware",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "why-you-need-constant-reassurance",
-      "title": "why-you-need-constant-reassurance",
-      "file": "/home/hermes/Neural-Nexus/docs/why-you-need-constant-reassurance.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
       "id": "SCHEMA",
       "title": "Schema",
       "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
@@ -49,57 +15,10 @@
       "type": "page"
     },
     {
-      "id": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
-      "title": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
-      "file": "/home/hermes/Neural-Nexus/docs/i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
       "id": "index",
       "title": "Index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
       "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "title": "\"fopen is Magic! - Find Out What You've Been Missing All These Years!\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years.md",
-      "tags": [
-        "programming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "why-you-cant-just-rewire-your-brain",
-      "title": "why-you-cant-just-rewire-your-brain",
-      "file": "/home/hermes/Neural-Nexus/docs/why-you-cant-just-rewire-your-brain.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "analyzing-the-lindsay-clancy-case",
-      "title": "analyzing-the-lindsay-clancy-case",
-      "file": "/home/hermes/Neural-Nexus/docs/analyzing-the-lindsay-clancy-case.md",
-      "tags": [],
-      "type": "page"
-    },
-    {
-      "id": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "title": "\"The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
       "type": "page"
     },
     {
@@ -110,82 +29,17 @@
       "type": "page"
     },
     {
-      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "title": "\"Reliable Isn't Always Better: TCP vs UDP\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
-      "tags": [
-        "networking",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
       "id": "graph",
       "title": "Graph",
       "file": "/home/hermes/Neural-Nexus/docs/graph.md",
       "tags": [],
       "type": "page"
-    },
-    {
-      "id": "the-secret-to-fixing-your-adulthood",
-      "title": "the-secret-to-fixing-your-adulthood",
-      "file": "/home/hermes/Neural-Nexus/docs/the-secret-to-fixing-your-adulthood.md",
-      "tags": [],
-      "type": "page"
     }
   ],
-  "edges": [
-    {
-      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "index",
-      "target": "why-you-need-constant-reassurance",
-      "type": "wikilink"
-    },
-    {
-      "source": "index",
-      "target": "analyzing-the-lindsay-clancy-case",
-      "type": "wikilink"
-    },
-    {
-      "source": "index",
-      "target": "why-you-cant-just-rewire-your-brain",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    }
-  ],
+  "edges": [],
   "metadata": {
-    "generated": "2026-09-28T05:36:41.438317",
-    "total_nodes": 15,
-    "total_edges": 9
+    "generated": "2026-09-28T23:12:35.674958",
+    "total_nodes": 5,
+    "total_edges": 0
   }
 }

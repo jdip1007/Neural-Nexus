@@ -1,0 +1,69 @@
+{
+  "processed_videos": {
+    "ca231d3ce1234405aab600e13bf76077": {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "processed_date": "2026-09-29T03:56:44.536796",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc"
+    },
+    "f0caae751df9da458e175f73905d9c36": {
+      "title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+      "processed_date": "2026-09-29T03:56:44.927631",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=4c5f7WzQzY"
+    },
+    "7e7d5634052cf4425846e490bcf7f253": {
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "processed_date": "2026-09-29T03:56:45.318431",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=3c5f7WzQzY"
+    },
+    "17690d3bfe321f095d5a3d11e0b03ad5": {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "processed_date": "2026-09-29T03:56:45.701708",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY"
+    },
+    "bf5ae9de23fe56ad0e2525003674381c": {
+      "title": "Reliable Isn't Always Better: TCP vs UDP",
+      "processed_date": "2026-09-29T03:56:46.086521",
+      "status": "completed",
+      "url": "https://www.youtube.com/watch?v=eGzH3jXwB2C"
+    }
+  },
+  "last_updated": "2026-09-29T03:56:46.086530",
+  "channel_name": "Dave's Garage",
+  "channel_id": "davesgarage",
+  "ingestion_history": [
+    {
+      "video_title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "video_url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "processed_date": "2026-09-29T03:56:44.536804",
+      "status": "completed"
+    },
+    {
+      "video_title": "The NEW Kind of LED You Should Know About: Dave Plummer",
+      "video_url": "https://www.youtube.com/watch?v=4c5f7WzQzY",
+      "processed_date": "2026-09-29T03:56:44.927637",
+      "status": "completed"
+    },
+    {
+      "video_title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "video_url": "https://www.youtube.com/watch?v=3c5f7WzQzY",
+      "processed_date": "2026-09-29T03:56:45.318440",
+      "status": "completed"
+    },
+    {
+      "video_title": "Ethernet Explained so well that even YOU can Understand it!",
+      "video_url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "processed_date": "2026-09-29T03:56:45.701713",
+      "status": "completed"
+    },
+    {
+      "video_title": "Reliable Isn't Always Better: TCP vs UDP",
+      "video_url": "https://www.youtube.com/watch?v=eGzH3jXwB2C",
+      "processed_date": "2026-09-29T03:56:46.086528",
+      "status": "completed"
+    }
+  ]
+}
