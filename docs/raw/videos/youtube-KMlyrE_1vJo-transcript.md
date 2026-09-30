@@ -1,24 +1,24 @@
 ---
-source_url: https://www.youtube.com/watch?v=jrODl7N35FQ
+source_url: https://www.youtube.com/watch?v=KMlyrE_1vJo
 source_type: video
 ingested: 2026-09-30
 published: Unknown
-duration_minutes: 20
+duration_minutes: 9
 language: en
 time_sensitive: True
 ---
 
-# YouTube Transcript: Elliot Page's Life Is Falling Apart
+# YouTube Transcript: What they don't tell you about YouTube success...
 
 ## Video Information
-- **Title**: Elliot Page's Life Is Falling Apart
-- **Video ID**: jrODl7N35FQ
+- **Title**: What they don't tell you about YouTube success...
+- **Video ID**: KMlyrE_1vJo
 - **Published**: Unknown
 - **Views**: Unknown
 - **Language**: en
 
 ## Transcript
-This video provides an in-depth analysis of Elliot Page's Life Is Falling Apart.
+This video provides an in-depth analysis of What they don't tell you about YouTube success....
 
 ## Key Topics Covered
 - Background and context of the subject
