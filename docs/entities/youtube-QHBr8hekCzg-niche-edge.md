@@ -1,5 +1,5 @@
 ---
-title: Edge Computing
+title: Niche Edge
 created: 2026-09-30
 updated: 2026-09-30
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-09-30
 ---
 
-# Edge Computing
+# Niche Edge
 
 ## Overview
-Edge Computing is mentioned in the YouTube video "NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway Monitor".
+Niche Edge is mentioned in the YouTube video "NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway Monitor".
 
 ## Context
 Mentioned in the context of research and development.

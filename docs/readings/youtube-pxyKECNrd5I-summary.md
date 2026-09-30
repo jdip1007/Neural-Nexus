@@ -1,12 +1,12 @@
 ---
-title: Pluma - Break You Off [Pop/EDM] - OFFICIAL -Visualization by GhostWave - Summary
+title: John Conway's game of Life on ESP32 - Summary
 created: 2026-09-30
 updated: 2026-09-30
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, CM37vD8tF5g]
-sources: [raw/videos/youtube-CM37vD8tF5g-transcript.md]
+tags: [youtube, video-summary, transcript, pxyKECNrd5I]
+sources: [raw/videos/youtube-pxyKECNrd5I-transcript.md]
 published: 2026-09-30
 time_sensitive: False
 confidence: high
@@ -14,14 +14,18 @@ status: active
 reviewed: 2026-09-30
 ---
 
-# Pluma - Break You Off [Pop/EDM] - OFFICIAL -Visualization by GhostWave - Summary
+# John Conway's game of Life on ESP32 - Summary
 
 ## TL;DR
-This video discusses Pluma - Break You Off [Pop/EDM] - OFFICIAL -Visualization by GhostWave
+This video discusses John Conway's game of Life on ESP32
 
 ## Key Points
 
 ## Entities Mentioned
+- **Persons**: John Conway
+
+## Related Concepts
+- [[ai]]
 
 ## Transcript Highlights
 

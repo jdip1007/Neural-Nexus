@@ -1,15 +1,18 @@
 ---
-created: '2026-09-12'
-domain: general
-tags:
-- general
-title: 'NVIDIA''s $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway
-  Monitor - Summary'
+title: NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway Monitor - Summary
+created: 2026-09-30
+updated: 2026-09-30
 type: reading
-updated: '2026-09-12'
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, QHBr8hekCzg]
+sources: [raw/videos/youtube-QHBr8hekCzg-transcript.md]
+published: 2026-09-30
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-09-30
 ---
-
-
 
 # NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway Monitor - Summary
 
@@ -25,14 +28,14 @@ This video discusses NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano 
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Edge Computing, Raspberry Pi, Pro May
+- **Persons**: Mac Go, Niche Edge, Edge Computing
 
 ## Related Concepts
-- [cloud](concepts/cloud.md)
-- large-language-model
-- neural-network
-- [ai](concepts/ai.md)
-- machine-learning
+- [[architecture]]
+- [[natural-language-processing]]
+- [[neural-network]]
+- [[large-language-model]]
+- [[ai]]
 
 ## Transcript Highlights
 > effective out here in the shop the key
@@ -43,12 +46,3 @@ This video discusses NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano 
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[architecture]]
-- [[cloud]]
-- [[hardware]]
-- [[programming]]
-- [[technology]]

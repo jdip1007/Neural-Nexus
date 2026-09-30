@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=CM37vD8tF5g
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
+ingested: 2026-09-30
+published: 2026-09-30
 duration_minutes: 2
 language: en
 sha256: 3d6fd6373e8ae19b03e9421915691d1578f46247f2803e57d87e73f1861de9ff
