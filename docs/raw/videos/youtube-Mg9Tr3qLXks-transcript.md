@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Mg9Tr3qLXks
+title: YouTube Transcript: How Trauma Splits A Soul (Dissociative Identity Disorder)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Mg9Tr3qLXks-transcript
 source_type: video
-ingested: 2026-08-19
-published: 2026-08-19
-duration_minutes: 51
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: db05ab62bd0ad8cbcc613ab28cb20aaec5f35d3e5346cf779df1f7623b06303a
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Trauma Splits A Soul (Dissociative Identity Disorder)
 

@@ -38,9 +38,9 @@ This video discusses Why I Deleted printf() from Windows COM in 1994!
 - **Persons**: Shop Talk, Don Box
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
-- [[architecture]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > license plate designed by a mainframe,

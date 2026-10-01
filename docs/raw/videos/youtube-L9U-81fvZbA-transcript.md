@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=L9U-81fvZbA
+title: YouTube Transcript: Declassified FBI Secrets You’re Not Supposed To Know
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=L9U-81fvZbA-transcript
 source_type: video
-ingested: 2026-08-09
-published: 2026-08-09
-duration_minutes: 226
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: abd877eac474190f68f033eafbd219d9744ac746f5192bf7fa8deea535f34b33
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Declassified FBI Secrets You’re Not Supposed To Know
 

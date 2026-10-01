@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=K1QDYuHGa_I
+title: YouTube Transcript: How to Win Every Single Day - David Goggins
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=K1QDYuHGa_I-transcript
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
-duration_minutes: 11
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 11262192a94a4aaa2fa7805cc7207fb33f9956fb02a231bfa5119b48d193334b
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: How to Win Every Single Day - David Goggins
 

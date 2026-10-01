@@ -38,10 +38,10 @@ by little, they were essentially building new ground across the surface of the l
 - **Persons**: Lake Karachay, Radiation Protection, Twilight Zone
 
 ## Related Concepts
-- [[database]]
-- [[framework]]
-- [[ai]]
-- [[cloud]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > That remains trapped in bone for decades.

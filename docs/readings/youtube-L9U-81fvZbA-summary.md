@@ -39,7 +39,7 @@ This video discusses Declassified FBI Secrets You’re Not Supposed To Know
 
 ## Related Concepts
 - [ai](concepts/ai.md)
-- [[llm]]
+- 
 - [cloud](concepts/cloud.md)
 - [container](concepts/container.md)
 - [api](concepts/api.md)
@@ -57,11 +57,11 @@ This video discusses Declassified FBI Secrets You’re Not Supposed To Know
 
 ## See also
 
-- [[cloud]]
-- [[container]]
+- 
+- 
 - [[infographics-show]]
-- [[relationships]]
-- [[serial-killers]]
-- [[technology]]
+- 
+- 
+- 
 - [[the-infographics-show]]
 - [[youtube-17rJSSzto4U-how-to]]

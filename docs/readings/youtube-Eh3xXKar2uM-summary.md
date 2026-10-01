@@ -43,9 +43,9 @@ and how important it is to their survival is still a mystery
 - **Persons**: Explosion Disaster, Daiichi Nuclear, Shelter Object
 
 ## Related Concepts
-- [[ai]]
-- [[framework]]
-- [[cloud]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > is essentially inaccessible.

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=OwuXF1AyKak
+title: YouTube Transcript: No One is Buying it
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=OwuXF1AyKak-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 13
+published: recent
+duration_minutes: 20
 language: en
-sha256: efea671c88f6e96e6c960832563a5617821f1259cb9f64b32b249daf3475c184
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: No One is Buying it
 

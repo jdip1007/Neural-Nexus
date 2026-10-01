@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Ck-vX7PxtEw
+title: YouTube Transcript: Jail vs Prison - What's ACTUALLY The Difference?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Ck-vX7PxtEw-transcript
 source_type: video
-ingested: 2026-09-27
-published: 2026-09-27
-duration_minutes: 6
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 59c1b21713f4e3ffc4af9f190e4cc1a37c7ce93fd98a13ca539aa4001941d31c
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Jail vs Prison - What's ACTUALLY The Difference?
 

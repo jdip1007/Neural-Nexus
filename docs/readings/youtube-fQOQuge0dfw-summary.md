@@ -37,8 +37,8 @@ a stricter set of rules and a permanent ban on the career they were planning to 
 - **Persons**: First Amendment, Cambridge University, Jobs Creation
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > business interests had a significant influence on 

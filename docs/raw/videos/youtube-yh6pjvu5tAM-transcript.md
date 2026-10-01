@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=yh6pjvu5tAM
+title: YouTube Transcript: Class 24 Video: Algorithmic Composition (II)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=yh6pjvu5tAM-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 70
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: f09ee2057f69b7d973feae7f1b1f66f659036decde01da64d3387cf1fecc6bf2
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Class 24 Video: Algorithmic Composition (II)
 

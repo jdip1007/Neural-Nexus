@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=2aw3MF8pY3w
+title: YouTube Transcript: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=2aw3MF8pY3w-transcript
 source_type: video
-ingested: 2026-09-19
-published: 2026-09-19
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: b018f888c0dc256efc4d53ea678a8d840f6a4f3ac53658d5320fc6b9d388336b
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
 

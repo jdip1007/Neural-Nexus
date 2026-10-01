@@ -25,9 +25,9 @@ This video provides an in-depth analysis of what they don't tell you about youtu
 - **General**: Video content analysis
 
 ## Related Concepts
-- [[media]]
-- [[internet-culture]]
-- [[youtube]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 

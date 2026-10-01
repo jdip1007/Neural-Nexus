@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=hp4i09wbshU
+title: YouTube Transcript: The Truth Behind Video Games & Their Psychological Impact - Michael Kasumovic
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=hp4i09wbshU-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 95
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: f9b21cf6523e9422392b24cc6e1d92112a1efec66215d7ec0b969cbada6571fa
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Truth Behind Video Games & Their Psychological Impact - Michael Kasumovic
 

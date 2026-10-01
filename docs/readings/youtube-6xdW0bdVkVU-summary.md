@@ -31,7 +31,7 @@ This video discusses Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlma
 
 ## Related Concepts
 - [cloud](concepts/cloud.md)
-- [[llm]]
+- 
 - [api](concepts/api.md)
 - [ai](concepts/ai.md)
 
@@ -48,7 +48,7 @@ This video discusses Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlma
 
 ## See also
 
-- [[cloud]]
+- 
 - [[youtube-17rJSSzto4U-how-to]]
 - [[youtube-6xdW0bdVkVU-and-jimmy]]
 - [[youtube-6xdW0bdVkVU-avengers-endgame]]

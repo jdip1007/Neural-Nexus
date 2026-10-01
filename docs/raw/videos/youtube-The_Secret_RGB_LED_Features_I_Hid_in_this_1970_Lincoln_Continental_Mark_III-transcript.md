@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III
+title: YouTube Transcript: Unknown
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III-transcript
 source_type: video
-ingested: 2026-09-08
-published: 2026-09-08
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 604c3a4a2c27c642a5c74a09a6391c57b0f570036c17e6a7b68853b0b1873900
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Unknown
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=GCkAsesSzw4
+title: YouTube Transcript: What's Directly Above And Below The Sun?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=GCkAsesSzw4-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 689b098625400d8acd5b8d82f0af7b5b138264c4bac9299ebef8bed1b8fd413e
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What's Directly Above And Below The Sun?
 

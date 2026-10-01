@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=gHT4d3Ep_M0
+title: YouTube Transcript: Video 9a: Music Information Retrieval (MIR): Sound to Score and Music Theory
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=gHT4d3Ep_M0-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 13
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 94fe08896f3c14558535b156e5eec0ec861b24b1a00455151789f3bdba0be4b1
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 9a: Music Information Retrieval (MIR): Sound to Score and Music Theory
 

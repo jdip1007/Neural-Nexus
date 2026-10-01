@@ -36,7 +36,7 @@ Fed held that rate at essentially zero
 
 ## Related Concepts
 - [ai](concepts/ai.md)
-- [[database]]
+- 
 
 ## Transcript Highlights
 > From March 2020 to March of 2022, the 

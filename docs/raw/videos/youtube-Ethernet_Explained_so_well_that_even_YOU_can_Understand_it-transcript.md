@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Ethernet_Explained_so_well_that_even_YOU_can_Understand_it
+title: YouTube Transcript: Unknown
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Ethernet_Explained_so_well_that_even_YOU_can_Understand_it-transcript
 source_type: video
-ingested: 2026-09-08
-published: 2026-09-08
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 604c3a4a2c27c642a5c74a09a6391c57b0f570036c17e6a7b68853b0b1873900
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Unknown
 

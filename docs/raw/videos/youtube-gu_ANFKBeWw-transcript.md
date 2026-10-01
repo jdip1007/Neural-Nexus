@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=gu_ANFKBeWw
+title: YouTube Transcript: Video gu_ANFKBeWw
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=gu_ANFKBeWw-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 84d9225ec48071613eff6dc993f6726eeb7bfb3d92c9b27326a5a17e37a166bf
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video gu_ANFKBeWw
 

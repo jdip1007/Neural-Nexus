@@ -49,10 +49,10 @@ it's important to talk about your research in context
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- [[ai]]
-- [[artificial-intelligence]]
-- [[framework]]
-- [[algorithm]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > about the place? And the most important

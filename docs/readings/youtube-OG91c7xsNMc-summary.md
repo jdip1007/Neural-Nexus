@@ -34,11 +34,11 @@ This video discusses The Challenge:  Can we build Notepad in 3K in assembly lang
 - **Persons**: Matthew Power, Real Replace, Real Search
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 - framework
-- [[architecture]]
+- 
 
 ## Transcript Highlights
 > taught how important it was to never

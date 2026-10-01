@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=J7DzL2_Na80
+title: YouTube Transcript: 1. The Geometry of Linear Equations
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=J7DzL2_Na80-transcript
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
-duration_minutes: 39
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 8b2f7130505ab5fe3153828647d86a16e7a7d47042c2257dfd71a526fe119291
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 1. The Geometry of Linear Equations
 

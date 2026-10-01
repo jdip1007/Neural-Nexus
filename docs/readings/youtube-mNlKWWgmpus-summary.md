@@ -42,8 +42,8 @@ answer: Why does El Salvador need such a massive prison
 - **Persons**: Nayib Bukele, The Salvadoran, Silivri Penitentiaries
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > Silivri Penitentiaries Campus in 

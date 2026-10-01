@@ -44,8 +44,8 @@ with the status of the European luxury brands
 - **Persons**: Modern Corvettes, North America, In America
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > it's important to understand what is actually 

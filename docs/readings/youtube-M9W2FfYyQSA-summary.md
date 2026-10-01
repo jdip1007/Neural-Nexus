@@ -31,8 +31,8 @@ This video discusses How This Psycho YouTuber Ruined His Life in 7 Minutes...
 - **Persons**: Community Market, Gaining Zero, Good Wife
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > left the main driving forces behind csgo

@@ -68,8 +68,8 @@ government. But like all good philanthropy, the
 
 ## See also
 
-- [[algorithm]]
-- [[cloud]]
+- 
+- 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-V64TdrkhTqo-mark-zuckerberg]]
 - [[youtube-V64TdrkhTqo-paramount-sky]]

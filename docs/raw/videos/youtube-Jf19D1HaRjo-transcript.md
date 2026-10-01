@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Jf19D1HaRjo
+title: YouTube Transcript: Full-Time Work Is DEAD. The $20 BILLION Job Crisis Crushing the ECONOMY.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Jf19D1HaRjo-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 16
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: dc0c348198260c42071037510412b54a3f7b844a302dea6200a0fb0113f10767
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Full-Time Work Is DEAD. The $20 BILLION Job Crisis Crushing the ECONOMY.
 

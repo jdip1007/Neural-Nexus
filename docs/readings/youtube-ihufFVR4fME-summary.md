@@ -42,7 +42,7 @@ operations focused on the essentials
 - **Persons**: On June, Western Europe, Unholy Ground
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > so they made several concessions to Hitler. The 

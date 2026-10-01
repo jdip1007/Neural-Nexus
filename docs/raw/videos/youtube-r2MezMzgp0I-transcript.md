@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=r2MezMzgp0I
+title: YouTube Transcript: Sunflower Video 3
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=r2MezMzgp0I-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: d81aed5ae70dd66ec4d30713745d1a0778e6da9b87c4966f56fdaa58e97a2fbf
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Sunflower Video 3
 

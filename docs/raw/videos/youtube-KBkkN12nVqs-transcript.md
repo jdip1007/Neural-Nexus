@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=KBkkN12nVqs
+title: YouTube Transcript: The Worst Red Flags I’ve Seen As A Therapist
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=KBkkN12nVqs-transcript
 source_type: video
-ingested: 2026-08-16
-published: 2026-08-16
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: ea9e063e114cf25fb9f07869960eca7086238694e3387d38bfd9bec1a0b016c5
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Worst Red Flags I’ve Seen As A Therapist
 

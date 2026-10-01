@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=d-gAe2PV9F8
+title: YouTube Transcript: The Most Brutal 6 Minutes in Prison History
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=d-gAe2PV9F8-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 219
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 7fda89697dfa7d7f1db13a31e3b9bdb9c69d8dce220c62424a9702fdbdcf81dd
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Most Brutal 6 Minutes in Prison History
 

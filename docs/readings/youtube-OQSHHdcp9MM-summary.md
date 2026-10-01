@@ -44,8 +44,8 @@ positions until suitable replacements could be found
 - **Persons**: Reich Broadcasting, Feliz Strajenheim, Soviet Union
 
 ## Related Concepts
-- [[artificial_intelligence]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > like Hitler's inner circle. But he was without a 

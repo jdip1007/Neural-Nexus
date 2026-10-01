@@ -25,9 +25,9 @@ This video provides an in-depth analysis of the challenge: can we build notepad 
 - **Notepad**: [[youtube-vwx234yza567-notepad]]
 
 ## Related Concepts
-- [[technology]]
-- [[computer-science]]
-- [[networking]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 

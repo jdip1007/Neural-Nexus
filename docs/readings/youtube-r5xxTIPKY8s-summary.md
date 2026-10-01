@@ -43,9 +43,9 @@ their own agriculture, but more importantly their own people
 - **Organizations**: Policy Institute
 
 ## Related Concepts
-- [[algorithm]]
-- [[api]]
-- [[ai]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > need a bailout to keep their essential industry 

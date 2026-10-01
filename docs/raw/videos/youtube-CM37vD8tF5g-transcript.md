@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=CM37vD8tF5g
+title: YouTube Transcript: Pluma - Break You Off [Pop/EDM] - OFFICIAL -Visualization by GhostWave
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=CM37vD8tF5g-transcript
 source_type: video
-ingested: 2026-09-30
-published: 2026-09-30
-duration_minutes: 2
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3d6fd6373e8ae19b03e9421915691d1578f46247f2803e57d87e73f1861de9ff
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Pluma - Break You Off [Pop/EDM] - OFFICIAL -Visualization by GhostWave
 

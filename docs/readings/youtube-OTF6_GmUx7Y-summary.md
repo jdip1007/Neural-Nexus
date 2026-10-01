@@ -33,7 +33,7 @@ This video discusses Why Billionaires Are Refusing To Retire
 - **Persons**: Investment Portfolio, Bill Gates, Reed Smith
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > easy to get your domain and launch your

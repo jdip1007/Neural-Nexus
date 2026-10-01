@@ -29,7 +29,7 @@ This video discusses 5.3.7 How IBM Built a Jeopardy Champion - Video 4: How Wats
 - **Persons**: Lexical Answer, New Guinea, When Watson
 
 ## Related Concepts
-- [[database]]
+- 
 
 ## Transcript Highlights
 

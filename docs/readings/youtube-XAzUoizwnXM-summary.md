@@ -38,10 +38,10 @@ This video discusses fopen is Magic! - Find Out What You've Been Missing All The
 - **Persons**: On Unix, Shop Talk, On Windows
 
 ## Related Concepts
-- [[cloud]]
-- [[architecture]]
-- [[api]]
-- [[ai]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > of the most important ideas in computing

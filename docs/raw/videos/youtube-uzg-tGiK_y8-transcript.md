@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=uzg-tGiK_y8
+title: YouTube Transcript: Why Marines aren't just a different kind of 'soldier' || The Infographics Show react
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=uzg-tGiK_y8-transcript
 source_type: video
-ingested: 2026-08-13
-published: 2026-08-13
-duration_minutes: 17
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 730671b985a539675a1e3dc8ed150119ccbb5f1b0e07310e1fbf919ad86be8c2
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Marines aren't just a different kind of 'soldier' || The Infographics Show react
 

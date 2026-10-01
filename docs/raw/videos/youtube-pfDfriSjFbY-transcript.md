@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=pfDfriSjFbY
+title: YouTube Transcript: 1. Introduction (CMS.611J Creating Video Games)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=pfDfriSjFbY-transcript
 source_type: video
-ingested: 2026-08-29
-published: 2026-08-29
-duration_minutes: 137
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: d0871e3e676f405e3a5b06059cc423cdc6c7ac4aa5b38c39971e954bdd8f5fc9
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 1. Introduction (CMS.611J Creating Video Games)
 

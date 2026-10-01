@@ -33,8 +33,8 @@ arrows on your keyboard
 - **Persons**: Help Page
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > by using the up and down

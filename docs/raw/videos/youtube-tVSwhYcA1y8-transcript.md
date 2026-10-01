@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=tVSwhYcA1y8
+title: YouTube Transcript: Jack Doherty’s Life Is Falling Apart
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=tVSwhYcA1y8-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 26
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 0a1cd9f194935a4c46f1ec6d6cd5d729efbc0f04becf60d4c1ce8d1233f37bfb
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Jack Doherty’s Life Is Falling Apart
 

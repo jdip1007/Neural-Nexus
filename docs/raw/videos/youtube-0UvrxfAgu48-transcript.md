@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=0UvrxfAgu48
+title: YouTube Transcript: The Pentagon Just Declassified 50 UFO Encounters
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=0UvrxfAgu48-transcript
 source_type: video
-ingested: 2026-08-09
-published: 2026-08-09
-duration_minutes: 41
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 03fb706bb19c736d137159919cce616f7bb9af4b1a872b27003ccab67e0955f0
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Pentagon Just Declassified 50 UFO Encounters
 

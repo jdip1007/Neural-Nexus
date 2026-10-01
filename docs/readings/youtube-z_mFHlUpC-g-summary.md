@@ -37,7 +37,7 @@ This video discusses Why Your Computer Is Slow — Task Manager Can't Tell You
 - **Persons**: Civil War, Microsoft Azure, Mobile Pro
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > having. The important part is that we've

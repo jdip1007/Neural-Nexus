@@ -45,7 +45,7 @@ a kind of mystery to one’s own friends and loved ones
 - **Persons**: Computer Science, Edgar Hoover, The Bureau
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > doubt you haven’t spent a significant amount

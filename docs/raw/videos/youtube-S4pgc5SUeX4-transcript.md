@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=S4pgc5SUeX4
+title: YouTube Transcript: What Happened To Kwebbelkop AI...
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=S4pgc5SUeX4-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 987f3419a5091e6174891d4028de1641d38c835da507d6c7ca14387af3f9c49e
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Happened To Kwebbelkop AI...
 

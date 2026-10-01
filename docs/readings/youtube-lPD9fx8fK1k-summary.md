@@ -51,9 +51,9 @@ all the time, can exchange it for goods and services
 - **Persons**: Media Lab, United Kingdom, The Congress
 
 ## Related Concepts
-- [[database]]
-- [[api]]
-- [[ai]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > But the key

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=2uJhjqBz5Tk
+title: YouTube Transcript: Chernobyl Nuclear Explosion Disaster Explained (Hour by Hour)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=2uJhjqBz5Tk-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 29
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 787c45839f30e40625f6b9b658749adcf28ff4d9d02b68079f41f84d5c4551f9
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Chernobyl Nuclear Explosion Disaster Explained (Hour by Hour)
 

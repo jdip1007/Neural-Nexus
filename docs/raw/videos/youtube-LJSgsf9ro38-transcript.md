@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=LJSgsf9ro38
+title: YouTube Transcript: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=LJSgsf9ro38-transcript
 source_type: video
-ingested: 2026-09-15
-published: 2026-09-15
-duration_minutes: 22
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 29c6d2c0dfe6644dcb5faffb8cf6af12c8537875c00638cd266c85ac0f7f9769
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 

@@ -28,7 +28,7 @@ explicitly say otherwise
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > Now for the remainder

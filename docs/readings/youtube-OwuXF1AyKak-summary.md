@@ -31,8 +31,8 @@ This video discusses No One is Buying it
 - **Persons**: Spotify Netflix, Ice Scanner, Economic Behavior
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > was just really important that they

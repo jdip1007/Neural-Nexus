@@ -29,7 +29,7 @@ This video discusses Pool Testing Video 2 (No Audio)
 - **Persons**: No Audio, Pool Testing
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

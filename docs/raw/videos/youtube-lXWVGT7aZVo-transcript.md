@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=lXWVGT7aZVo
+title: YouTube Transcript: Inside the $14 Billion Contract Crippling Modern Computers
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=lXWVGT7aZVo-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 12ea9869f4fc90330a120cb9807b070056442b14682ae19fc7633757099db2a9
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Inside the $14 Billion Contract Crippling Modern Computers
 

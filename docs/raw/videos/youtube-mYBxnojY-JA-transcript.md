@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=mYBxnojY-JA
+title: YouTube Transcript: Malloc is NOT Magic: Let's Build it to Learn What's Inside!
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=mYBxnojY-JA-transcript
 source_type: video
-ingested: 2026-09-19
-published: 2026-09-19
-duration_minutes: 16
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3fd351c6fc97dbfc4fd724468f5ee6aa6f52bcc7ca81a49efb3ec4d68bee47c4
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Malloc is NOT Magic: Let's Build it to Learn What's Inside!
 

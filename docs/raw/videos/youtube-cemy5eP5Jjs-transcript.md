@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=cemy5eP5Jjs
+title: YouTube Transcript: Most Insane The Infographics Show Videos of All Time (Compilation)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=cemy5eP5Jjs-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 231
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: c8144346c105bb3f416da4cc4ee423f6943f2bf1da74c5a82fddd31b02dcc6e4
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Most Insane The Infographics Show Videos of All Time (Compilation)
 

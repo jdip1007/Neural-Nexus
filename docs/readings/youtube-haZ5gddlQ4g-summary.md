@@ -59,7 +59,7 @@ something important or make a mistake that ends
 
 ## See also
 
-- [[algorithm]]
+- 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-haZ5gddlQ4g-clifford-chance]]
 - [[youtube-haZ5gddlQ4g-legal-engineer]]

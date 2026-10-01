@@ -46,9 +46,9 @@ of this class but still very, very important
 - **Persons**: Music Information
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
-- [[database]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > which is the main topic

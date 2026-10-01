@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=_L315IjxyUM
+title: YouTube Transcript: 5.3.7 How IBM Built a Jeopardy Champion - Video 4: How Watson Works - Steps 1 and 2
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=_L315IjxyUM-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 3
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: a1229e7209478f9b485fffb1e85bb712cc1de486c93ab0af26bf076ad87e0a07
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 5.3.7 How IBM Built a Jeopardy Champion - Video 4: How Watson Works - Steps 1 and 2
 

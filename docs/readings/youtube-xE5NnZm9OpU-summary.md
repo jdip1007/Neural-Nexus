@@ -29,9 +29,9 @@ This video discusses The Car REPOSSESSION Epidemic
 - **Persons**: New York, Toyota Tacoma, The Consumer
 
 ## Related Concepts
-- [[database]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > the variety of car financing options has grown 

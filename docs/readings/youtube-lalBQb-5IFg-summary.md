@@ -25,7 +25,7 @@ This video discusses UNIX Cold Boot: Sights and Sounds of a PDP-11/83 from 1983 
 - **Persons**: Cold Boot
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

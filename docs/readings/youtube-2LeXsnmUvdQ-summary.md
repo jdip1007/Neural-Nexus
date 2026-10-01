@@ -33,7 +33,7 @@ hotspots
 - **Persons**: Drug Abuse, Fentanyl Is, Body If
 
 ## Related Concepts
-- [[artificial_intelligence]]
+- 
 
 ## Transcript Highlights
 > in your nose, which is a longer route to get all 

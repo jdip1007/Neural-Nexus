@@ -35,8 +35,8 @@ going to be important for later
 - **Persons**: Thrive Capital, Golf League, The Los
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > institutionalized assets that are the investing 

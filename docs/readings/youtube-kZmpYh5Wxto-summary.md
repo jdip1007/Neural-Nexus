@@ -44,9 +44,9 @@ decreases
 - **Organizations**: Thiokol Inc
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > 10. 9. 8. 7. 6. We have main engine 

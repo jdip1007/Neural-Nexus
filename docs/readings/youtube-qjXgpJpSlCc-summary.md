@@ -37,7 +37,7 @@ on the policy
 - **Persons**: Passive Income, Premium Membership, The Infographics
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > will be the main man to agree to any claims

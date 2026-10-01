@@ -25,9 +25,8 @@ This video provides an in-depth analysis of the secret rgb led features i hid in
 - **Rgb-Led**: [[youtube-bcd890efg123-rgb-led]]
 
 ## Related Concepts
-- [[technology]]
-- [[computer-science]]
-- [[networking]]
+- 
+- 
 
 ## Transcript Highlights
 

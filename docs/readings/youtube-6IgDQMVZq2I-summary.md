@@ -34,7 +34,7 @@ This video discusses Shark Tank is Worse Than You Thought
 - **Persons**: Patrick Schwarzenegger, Best Buy, Britney Baker
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > his pitch on the show. More importantly,

@@ -33,7 +33,7 @@ can understand
 - **Persons**: Professor Cuthbert
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > So it's always going

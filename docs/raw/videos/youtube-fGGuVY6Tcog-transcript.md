@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=fGGuVY6Tcog
+title: YouTube Transcript: The AI bubble is about to burst
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=fGGuVY6Tcog-transcript
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
-duration_minutes: 207
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 7ed1c4458ce0a7ad2ff7db321f08b1763e1db2b3979decb82a9afa3f60d697d4
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The AI bubble is about to burst
 

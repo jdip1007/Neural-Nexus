@@ -38,8 +38,8 @@ graphical domain and which one to be on the logical
 - **Persons**: David Huron, Stanley Kubrick, Ninth Symphony
 
 ## Related Concepts
-- [[ai]]
-- [[framework]]
+- 
+- 
 
 ## Transcript Highlights
 > And who thinks it's more

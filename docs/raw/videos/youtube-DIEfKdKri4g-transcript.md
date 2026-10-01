@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=DIEfKdKri4g
+title: YouTube Transcript: How Airrack Has Been Faking Videos | Internet Anarchist Reaction
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=DIEfKdKri4g-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 0054495c63b72a22445000ec4714e285abd932a20f1249e5a4e7e64b4410dab2
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Airrack Has Been Faking Videos | Internet Anarchist Reaction
 

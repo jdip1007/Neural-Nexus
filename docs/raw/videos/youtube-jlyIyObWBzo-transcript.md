@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=jlyIyObWBzo
+title: YouTube Transcript: Modern Cyber Security Is DEAD. The $3300 BILLION Quantum COLLAPSE.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=jlyIyObWBzo-transcript
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
-duration_minutes: 19
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: bd0833cf729a53a4e3d321f27ccda579ffe739e8d6eacdfb42fae40dba9ccf10
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Modern Cyber Security Is DEAD. The $3300 BILLION Quantum COLLAPSE.
 

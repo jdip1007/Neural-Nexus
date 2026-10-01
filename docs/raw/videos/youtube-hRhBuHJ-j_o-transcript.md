@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=hRhBuHJ-j_o
+title: YouTube Transcript: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=hRhBuHJ-j_o-transcript
 source_type: video
-ingested: 2026-09-15
-published: 2026-09-15
-duration_minutes: 22
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 60220122f0dcf5b6c29373c86a28e4ba1918ec70c0e37d9a6b516ae1bccd38c8
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 

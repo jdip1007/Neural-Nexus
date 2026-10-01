@@ -42,9 +42,9 @@ This video discusses The AI bubble is about to burst
 ## Related Concepts
 - artificial-intelligence
 - large-language-model
-- [[database]]
+- 
 - framework
-- [[llm]]
+- 
 
 ## Transcript Highlights
 > essentially don't look at us. Tribunal

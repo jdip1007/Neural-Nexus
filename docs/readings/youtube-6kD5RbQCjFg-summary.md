@@ -53,8 +53,8 @@ This video discusses What Everyone Gets Wrong About ADHD
 
 ## See also
 
-- [[executive-function]]
-- [[what-everyone-gets-wrong-about-adhd]]
+- 
+- 
 - [[youtube-6kD5RbQCjFg-about-doing]]
 - [[youtube-6kD5RbQCjFg-doing-stuff]]
 - [[youtube-BT4gsZBpL0E-monster-hunter]]

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=g2nXwiNl9tg
+title: YouTube Transcript: Siren Head - EXPLAINED
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=g2nXwiNl9tg-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 10
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 0a785bb4a22c172b21d510b167fe6e8bc59f84c95f6c0982056f903ebe8e9abc
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Siren Head - EXPLAINED
 

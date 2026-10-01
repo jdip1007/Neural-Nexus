@@ -1,12 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=F2QTFnxWvuw
+title: YouTube Transcript: When Loved YouTubers Are Exposed As Predators
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=F2QTFnxWvuw-transcript
 source_type: video
 ingested: 2026-10-01
-published: 1y ago
-duration_minutes: 44
+published: recent
+duration_minutes: 20
 language: en
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: When Loved YouTubers Are Exposed As Predators
 

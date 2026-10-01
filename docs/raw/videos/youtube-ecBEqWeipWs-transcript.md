@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ecBEqWeipWs
+title: YouTube Transcript: Worst Punishments In The History of Mankind (Even Worse Than Before)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ecBEqWeipWs-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 9
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6befeb1a07916f8fd55ccc802ab2df33e4ccc6459befe52dfbb2bd9b57384898
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Worst Punishments In The History of Mankind (Even Worse Than Before)
 

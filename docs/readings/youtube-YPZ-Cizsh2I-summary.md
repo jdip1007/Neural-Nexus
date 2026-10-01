@@ -39,7 +39,7 @@ all metaphors fall apart at some point
 - **Persons**: No Small
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > to make critical

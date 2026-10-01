@@ -31,11 +31,11 @@ This video discusses NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano 
 - **Persons**: Mac Go, Niche Edge, Edge Computing
 
 ## Related Concepts
-- [[architecture]]
-- [[natural-language-processing]]
-- [[neural-network]]
-- [[large-language-model]]
-- [[ai]]
+- 
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > effective out here in the shop the key

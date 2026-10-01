@@ -59,8 +59,8 @@ We have to literally make a
 
 ## See also
 
-- [[algorithm]]
-- [[architecture]]
+- 
+- 
 - [[youtube-GCkAsesSzw4-comet-interceptor]]
 - [[youtube-GCkAsesSzw4-professor-merav]]
 - [[youtube-GCkAsesSzw4-vera-rubin]]

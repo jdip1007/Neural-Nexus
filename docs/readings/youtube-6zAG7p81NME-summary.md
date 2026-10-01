@@ -37,7 +37,7 @@ This video discusses How Bad Is YouTuber Airrack? (Doxxing/Fake Videos)
 - **Persons**: Mickey Mace, In April, Dominic Larigio
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > claimed the pilot wanted to remain

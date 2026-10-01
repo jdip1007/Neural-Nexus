@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=A6wNEUmLA8w
+title: YouTube Transcript: This Video Will Make You Touhou Fumo
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=A6wNEUmLA8w-transcript
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1f564584c75cc0d6bad4f03962c138cd81fef2c8d8765974bb7354a703419aad
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: This Video Will Make You Touhou Fumo
 

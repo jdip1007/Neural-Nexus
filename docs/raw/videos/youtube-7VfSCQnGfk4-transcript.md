@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=7VfSCQnGfk4
+title: YouTube Transcript: If You're Feeling Overwhelmed Watch This
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=7VfSCQnGfk4-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 9
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 894b84cce4964e9b9dd085f8937c2774b7ed5d23360630e27483d5867a3d4d31
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: If You're Feeling Overwhelmed Watch This
 

@@ -40,8 +40,8 @@ firm and its executives
 - **Persons**: The Gussle, Body Works, Ivy League
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > country. The massive escalation coming after a 

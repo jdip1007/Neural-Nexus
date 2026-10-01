@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=xrdzzpl3lfA
+title: YouTube Transcript: Mysterious Objects in Space We Can't Explain & Other Space Videos (Space Compilation)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=xrdzzpl3lfA-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 96
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 269d2382a79b17f5e42f0b72b0df556f8fde3590ffa256deb8e7fe1068ee4c38
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Mysterious Objects in Space We Can't Explain & Other Space Videos (Space Compilation)
 

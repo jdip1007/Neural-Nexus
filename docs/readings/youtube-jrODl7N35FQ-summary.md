@@ -25,9 +25,9 @@ This video provides an in-depth analysis of elliot page's life is falling apart.
 - **General**: Video content analysis
 
 ## Related Concepts
-- [[media]]
-- [[internet-culture]]
-- [[youtube]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 

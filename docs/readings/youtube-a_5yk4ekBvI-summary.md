@@ -31,7 +31,7 @@ This video discusses The Worst Content Thieves on YouTube
 - **Persons**: The Shining, Brent Rivera, The Stokes
 
 ## Related Concepts
-- [[artificial_intelligence]]
+- 
 
 ## Transcript Highlights
 > mainly focused on Call of Duty gameplay

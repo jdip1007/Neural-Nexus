@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=rT5PN7IhyPc
+title: YouTube Transcript: If You Date Someone With Borderline Personality Disorder (BPD)...Watch This Video
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=rT5PN7IhyPc-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 33
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: c283cd1972af973434e8710a7c37dff5d4f9af7064b97b4edf3ae07cf875c362
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: If You Date Someone With Borderline Personality Disorder (BPD)...Watch This Video
 

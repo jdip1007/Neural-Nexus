@@ -70,7 +70,7 @@ it becomes literally blind to
 
 ## See also
 
-- [[psychology]]
+- 
 - [[youtube-2fbrl6WoIyo-arnold-schwarzenegger]]
 - [[youtube-2fbrl6WoIyo-roger-shepard]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

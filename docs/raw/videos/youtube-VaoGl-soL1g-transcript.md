@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=VaoGl-soL1g
+title: YouTube Transcript: The Epstein Story You Haven’t Heard - Eric Weinstein
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=VaoGl-soL1g-transcript
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 0aefbdb7393aa70f779cc09eb29144293137387abf432497ad64ae7cb3354202
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Epstein Story You Haven’t Heard - Eric Weinstein
 

@@ -36,7 +36,7 @@ This video discusses What Made The Black Death So Deadly & Who Were The Plague D
 - **Persons**: Jews Friars, Europe Africa, Roman Empire
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > remained where they had died as there

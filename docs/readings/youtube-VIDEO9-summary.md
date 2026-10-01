@@ -31,14 +31,14 @@ A comprehensive discussion about maintaining mental health while gaming and find
 - **Mental Health**: How gaming impacts mental wellbeing and strategies for improvement
 
 ## Entities Mentioned
-- [[dr-k]] (Host of HealthyGamerGG channel)
+-  (Host of HealthyGamerGG channel)
 - gaming addiction (Concept discussed)
-- [[mental-health]] (Core topic)
+-  (Core topic)
 
 ## Related Concepts
 - healthy gaming habits
 - gaming balance
-- [[mental-health-awareness]]
+- 
 
 ## Transcript Highlights
 > "Finding the right balance between gaming and other aspects of life is crucial for mental health."

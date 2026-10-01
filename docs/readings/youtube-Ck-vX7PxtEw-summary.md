@@ -33,7 +33,7 @@ This video discusses Jail vs Prison - What's ACTUALLY The Difference?
 - **Persons**: Orange Is, The New
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

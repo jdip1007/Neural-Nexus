@@ -34,7 +34,7 @@ This video discusses AI DEBATE: “Most People Have No Idea What’s Coming”
 - [api](concepts/api.md)
 - transformer
 - [cloud](concepts/cloud.md)
-- [[llm]]
+- 
 - [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
@@ -50,6 +50,6 @@ This video discusses AI DEBATE: “Most People Have No Idea What’s Coming”
 
 ## See also
 
-- [[algorithm]]
-- [[cloud]]
-- [[finance]]
+- 
+- 
+- 

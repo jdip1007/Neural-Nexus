@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=VNMPkbMM288
+title: YouTube Transcript: What Did The Mysterious Secret Society Of Freemasons Actually Do
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=VNMPkbMM288-transcript
 source_type: video
-ingested: 2026-08-26
-published: 2026-08-26
-duration_minutes: 10
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 422c536a518da2ab6e5baf34eb78f53cb93b3aa488be152cb55368dcc278d9fe
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Did The Mysterious Secret Society Of Freemasons Actually Do
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=avzdqL0-FsY
+title: YouTube Transcript: Pool Testing Video 2 (No Audio)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=avzdqL0-FsY-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: b5f493fc005669d1d98650d982df89cc5add450c3c4b2462be083fc2044c27ae
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Pool Testing Video 2 (No Audio)
 

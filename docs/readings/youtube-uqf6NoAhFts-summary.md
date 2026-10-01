@@ -39,8 +39,8 @@ trend
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[ai]]
-- [[llm]]
+- 
+- 
 
 ## Transcript Highlights
 > concerning trend, but there are two important 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=CzapeCu_jDE
+title: YouTube Transcript: State Prison vs Federal Prison - What’s The Actual Difference?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=CzapeCu_jDE-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 12
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: dfb7d3429cea0ede090dc3a2d1d28f532c0c9ffd0f536652fdbdfae620cd26f0
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: State Prison vs Federal Prison - What’s The Actual Difference?
 

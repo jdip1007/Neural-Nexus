@@ -56,9 +56,9 @@ This video discusses Desktop AI Compared - From 2GB to 1024GB, Deepseek R1, Gemm
 
 ## See also
 
-- [[algorithm]]
-- [[architecture]]
-- [[cloud]]
+- 
+- 
+- 
 - [[youtube-QHBr8hekCzg-raspberry-pi]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WNSZ6xouNv4-and-that]]

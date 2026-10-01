@@ -34,7 +34,7 @@ This video discusses The Satisfying Downfall of OnlyJayus
 - **Persons**: Victory Alex, Best Buy, Blind Boom
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > main categories the first of which is

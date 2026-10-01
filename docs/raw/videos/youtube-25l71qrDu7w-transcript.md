@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=25l71qrDu7w
+title: YouTube Transcript: What Nicotine Pouches and Vapes Actually Do to Your Body
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=25l71qrDu7w-transcript
 source_type: video
-ingested: 2026-09-27
-published: 2026-09-27
-duration_minutes: 13
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: e2d5cf4fc95ba7b9c3dceaa61e31f605f6f2392cdb50640ddac02465b497e5af
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Nicotine Pouches and Vapes Actually Do to Your Body
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=chuEIMgxnpg
+title: YouTube Transcript: What Dr. K Struggles with...
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=chuEIMgxnpg-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 81271b71a4b271aaf0ed64f6267e30c7c21f1a93b806e76237bf1f3d2e2d5723
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Dr. K Struggles with...
 

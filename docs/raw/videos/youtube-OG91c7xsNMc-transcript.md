@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=OG91c7xsNMc
+title: YouTube Transcript: The Challenge:  Can we build Notepad in 3K in assembly language?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=OG91c7xsNMc-transcript
 source_type: video
-ingested: 2026-09-15
-published: 2026-09-15
+ingested: 2026-10-01
+published: recent
 duration_minutes: 20
 language: en
-sha256: ad43ba62709387361693ab2ea27735210a4a29ba06e408be445efb01d9afe319
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Challenge:  Can we build Notepad in 3K in assembly language?
 

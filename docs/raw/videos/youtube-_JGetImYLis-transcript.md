@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=_JGetImYLis
+title: YouTube Transcript: 5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=_JGetImYLis-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: f6f6eb7be871b8417f459542482991430d01f3e45222043bc62039085139f9f9
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today
 

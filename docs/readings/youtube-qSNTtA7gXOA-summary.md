@@ -33,7 +33,7 @@ This video discusses Inside a Massive 1980s Hard Drive: 14 Inches of Fury!
 - **Persons**: Beagle Bone, The Unibone
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > Now, this is your main CPU case. This is

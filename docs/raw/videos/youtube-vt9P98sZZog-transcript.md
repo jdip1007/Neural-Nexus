@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=vt9P98sZZog
+title: YouTube Transcript: Psychology behind Gamer Rage | Dr.K Explains
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=vt9P98sZZog-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 2
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 373b61f8a75f59dc141e66c970f6f157b348443bd6804aad671e242f145ed2c5
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Psychology behind Gamer Rage | Dr.K Explains
 

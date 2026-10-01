@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=4HF4Phgafdw
+title: YouTube Transcript: The Why and How of the Megalodon Extinction (What Killed the Giant Shark)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=4HF4Phgafdw-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 10
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 10e6fa69385a0d1ce5f586624a9d47425a0a9415cf772212dc339089c24cc21b
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Why and How of the Megalodon Extinction (What Killed the Giant Shark)
 

@@ -66,7 +66,7 @@ higher than the national average of 5.1%.
 
 ## See also
 
-- [[architecture]]
+- 
 - [[youtube-7HF6UuVdihA-big-three]]
 - [[youtube-7HF6UuVdihA-european-new]]
 - [[youtube-7HF6UuVdihA-the-big]]

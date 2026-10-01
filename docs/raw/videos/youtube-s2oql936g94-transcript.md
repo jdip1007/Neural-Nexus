@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=s2oql936g94
+title: YouTube Transcript: Being In The Board Of Directors Is Literally FREE Money
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=s2oql936g94-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 13
+published: recent
+duration_minutes: 20
 language: en
-sha256: 495b97cf7fc319f3b1bb092ed7c32e0634b72306a40137624dec92d125fbec5e
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Being In The Board Of Directors Is Literally FREE Money
 

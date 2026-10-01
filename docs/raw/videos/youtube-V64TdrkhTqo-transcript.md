@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=V64TdrkhTqo
+title: YouTube Transcript: Oracle is Genuinely Far Scarier Than Blackrock
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=V64TdrkhTqo-transcript
 source_type: video
-ingested: 2026-08-29
-published: 2026-08-29
-duration_minutes: 11
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: c4fc4522be6e1e37f1ad28f25c286cbc2d291683aafc5952c8a49badd21e5c10
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Oracle is Genuinely Far Scarier Than Blackrock
 

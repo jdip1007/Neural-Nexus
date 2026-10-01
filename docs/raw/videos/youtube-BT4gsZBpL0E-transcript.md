@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=BT4gsZBpL0E
+title: YouTube Transcript: Stop Letting Video Game Addiction Hijack Your Life
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=BT4gsZBpL0E-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 23
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5a51d5b6d62acdc1a11ea0681c24cde26b11d08ee1d8a3c7a4ebe36cb1a18b4c
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Stop Letting Video Game Addiction Hijack Your Life
 

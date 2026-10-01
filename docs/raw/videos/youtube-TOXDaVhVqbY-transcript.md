@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=TOXDaVhVqbY
+title: YouTube Transcript: The Rise, Fall and Return of YouTube’s Most Hated Troll
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=TOXDaVhVqbY-transcript
 source_type: video
-ingested: 2026-09-01
-published: 2026-09-01
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1efd699ba91b05ff8270277888ab53e191207c60aaef553caa0fc3c0adc5eabb
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Rise, Fall and Return of YouTube’s Most Hated Troll
 

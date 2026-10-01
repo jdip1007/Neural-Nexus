@@ -43,7 +43,7 @@ important, also
 - **Persons**: Hello World, Michael Good
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > We can also see that

@@ -38,8 +38,8 @@ This video discusses CANBUS – Networking so simple, even YOU can understand it
 - **Persons**: Task Manager, Modern Ethernet, So Ken
 
 ## Related Concepts
-- [[ai]]
-- [[database]]
+- 
+- 
 
 ## Transcript Highlights
 > Singapore. And the most important design

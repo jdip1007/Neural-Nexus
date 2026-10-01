@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=xHkcIRZa6lo
+title: YouTube Transcript: Why You Should NEVER Confess Your Love
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=xHkcIRZa6lo-transcript
 source_type: video
-ingested: 2026-08-19
-published: 2026-08-19
-duration_minutes: 35
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: d0d7bbf93c1ed9e2d5dfbbf5b3f4cfd14f84918f512f37e5defc0049358dabb3
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why You Should NEVER Confess Your Love
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=lhtcLe9QbMQ
+title: YouTube Transcript: Why I Specialize In Video Game Addiction
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=lhtcLe9QbMQ-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 4
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1948957704593d08220da65f488aae8d1d64df679d039f1da0352826107fdebd
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why I Specialize In Video Game Addiction
 

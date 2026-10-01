@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=XJ_DP8SJfa0
+title: YouTube Transcript: The Dark Side of Fitness: “I Starved Myself Until I Fainted" - Will Tennyson (4K)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=XJ_DP8SJfa0-transcript
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
-duration_minutes: 85
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 0d22efa31596e08d854a88d2ca3b480f7ac35dde022ceff8065b8b9fb9e1c3b6
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Dark Side of Fitness: “I Starved Myself Until I Fainted" - Will Tennyson (4K)
 

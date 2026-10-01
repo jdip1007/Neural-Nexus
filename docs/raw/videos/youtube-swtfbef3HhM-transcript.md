@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=swtfbef3HhM
+title: YouTube Transcript: Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=swtfbef3HhM-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 22
+published: recent
+duration_minutes: 20
 language: en
-sha256: de2a1cdf3154a61d81a05dcbb57554d8882c9867e9ff72c6f85049c58b5591d8
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Big Tech Cut 950,000 Jobs... And Then Hired Them All Back
 

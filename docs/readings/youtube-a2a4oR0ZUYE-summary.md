@@ -40,7 +40,7 @@ it would have eventually imploded anyways
 - **Persons**: King Porus, Alexander The, When Philip
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > most important centers of cultural and scientific

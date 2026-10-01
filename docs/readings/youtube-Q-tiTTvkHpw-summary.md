@@ -52,7 +52,7 @@ This video discusses Why Restricting Video Games As A Parent Is Actually Damagin
 
 ## See also
 
-- [[mental-health]]
+- 
 - [[youtube-17rJSSzto4U-how-to]]
 - [[youtube-5rFIcsi9EVc-to-your]]
 - [[youtube-5rFIcsi9EVc-what-does]]

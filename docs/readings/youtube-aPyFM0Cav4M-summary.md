@@ -41,9 +41,9 @@ to be treated as less important
 - **Organizations**: Intergenerational Foundation
 
 ## Related Concepts
-- [[database]]
+- 
 - [api](concepts/api.md)
-- [[llm]]
+- 
 - [ai](concepts/ai.md)
 
 ## Transcript Highlights

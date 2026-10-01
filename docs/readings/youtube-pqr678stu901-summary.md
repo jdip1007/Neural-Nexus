@@ -25,9 +25,9 @@ This video provides an in-depth analysis of the controversial flock cameras trac
 - **Flock-Cameras**: [[youtube-pqr678stu901-flock-cameras]]
 
 ## Related Concepts
-- [[technology]]
-- [[computer-science]]
-- [[networking]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 

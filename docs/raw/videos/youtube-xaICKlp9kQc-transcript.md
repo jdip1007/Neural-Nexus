@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=xaICKlp9kQc
+title: YouTube Transcript: How Years Of Gaming Affects Your Brain
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=xaICKlp9kQc-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 24
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: a560345b524718bc7c4c0151225377478600d242f261a74ded71f0c908ac3c74
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Years Of Gaming Affects Your Brain
 

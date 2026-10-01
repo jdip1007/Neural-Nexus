@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Hq32ZIz1EBE
+title: YouTube Transcript: How Intelligence Leads To Avoidance | Episode 003 Video Game Addiction
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Hq32ZIz1EBE-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 7
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: ae0f15b6334756cbe3e5d7cc153a7975c6040a3c875886dc79b93039d96af588
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Intelligence Leads To Avoidance | Episode 003 Video Game Addiction
 

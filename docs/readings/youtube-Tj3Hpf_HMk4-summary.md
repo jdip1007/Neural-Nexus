@@ -36,7 +36,7 @@ X-ray diffraction
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > In material science,

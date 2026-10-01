@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=BBPwM1Takwg
+title: YouTube Transcript: Why Did Korea Split in to North and South?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=BBPwM1Takwg-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 9
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3688c6356de773e1d6d50f0f8cbc7877578c48c7ebeed1f8df26481d5e2770cd
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Did Korea Split in to North and South?
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=CKo5aB6i2x4
+title: YouTube Transcript: Toxicity in Video Games | Dr.K Explains
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=CKo5aB6i2x4-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 4
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 284680e66b1df0671009d430bba4b6409d65e19ee001fc8981995f87b81a7fed
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Toxicity in Video Games | Dr.K Explains
 

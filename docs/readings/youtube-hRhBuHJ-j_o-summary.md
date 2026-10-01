@@ -39,9 +39,9 @@ This video discusses The Secret RGB LED Features I Hid in this 1970 Lincoln Cont
 - **Persons**: Shop Talk, The Lincoln, Lincoln Continental
 
 ## Related Concepts
-- [[api]]
-- [[cloud]]
-- [[ai]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > remains active until both lamps are no

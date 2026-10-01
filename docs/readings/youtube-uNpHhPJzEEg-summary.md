@@ -43,7 +43,7 @@ home and had never entered the store or even knew of its existence
 - **Persons**: Alice Russell, Both Mr, Hiram Harrington
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > Andrew managed to enter the house, took the key 

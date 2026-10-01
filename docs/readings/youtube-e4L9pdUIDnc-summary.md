@@ -42,11 +42,11 @@ identify a key change
 - **Persons**: Wolfgang Mozart, The Beatles, When Chopin
 
 ## Related Concepts
-- [[api]]
-- [[cloud]]
-- [[algorithm]]
-- [[ai]]
-- [[deep-learning]]
+- 
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > And most importantly, it

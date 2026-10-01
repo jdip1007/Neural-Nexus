@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=bVM76YxNPjQ
+title: YouTube Transcript: How The Wolf of Wall Street Scam Actually Worked
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=bVM76YxNPjQ-transcript
 source_type: video
-ingested: 2026-08-29
-published: 2026-08-29
-duration_minutes: 9
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 500948b39a9f9ecad5ddcafc082d763192a30783121ee811f94b1c3caafa0337
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How The Wolf of Wall Street Scam Actually Worked
 

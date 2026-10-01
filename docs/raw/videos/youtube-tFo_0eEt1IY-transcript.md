@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=tFo_0eEt1IY
+title: YouTube Transcript: What Caused the Catastrophic Nuclear Accident in Chernobyl?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=tFo_0eEt1IY-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 7
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 05bf2aa131afec71004b12d62e21103285d39d8749c6e9f2ea61e477349687bf
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Caused the Catastrophic Nuclear Accident in Chernobyl?
 

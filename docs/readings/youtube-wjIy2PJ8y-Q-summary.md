@@ -43,7 +43,7 @@ This video discusses Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet P
 
 ## See also
 
-- [[programming]]
+- 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-RhelaTtcmEo-it-it]]
 - [[youtube-WNSZ6xouNv4-and-that]]

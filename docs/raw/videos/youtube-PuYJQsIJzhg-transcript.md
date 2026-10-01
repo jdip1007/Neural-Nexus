@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=PuYJQsIJzhg
+title: YouTube Transcript: FBI Interrogation Techniques You Can ACTUALLY Use
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=PuYJQsIJzhg-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 11
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6fdd5bc81e0b74b25c615d1db9c84bb7411bc9e6dc68ee3d8a325f62ff41808e
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: FBI Interrogation Techniques You Can ACTUALLY Use
 

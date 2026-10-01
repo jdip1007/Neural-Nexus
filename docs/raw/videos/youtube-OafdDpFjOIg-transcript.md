@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=OafdDpFjOIg
+title: YouTube Transcript: Can Men & Women Be Friends?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=OafdDpFjOIg-transcript
 source_type: video
-ingested: 2026-08-16
-published: 2026-08-16
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: c22635d25522b682cbeb78c94c391d6979dd3683b583ba3c35b32f93f4d2bd2f
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Can Men & Women Be Friends?
 

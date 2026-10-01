@@ -1,12 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=def456ghi789
+title: YouTube Transcript: Ethernet Explained so well that even YOU can Understand it!
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=def456ghi789-transcript
 source_type: video
 ingested: 2026-10-01
-published: 1mo ago
-duration_minutes: 23
+published: recent
+duration_minutes: 20
 language: en
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Ethernet Explained so well that even YOU can Understand it!
 

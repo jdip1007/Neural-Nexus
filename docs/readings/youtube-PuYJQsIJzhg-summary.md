@@ -39,7 +39,7 @@ Kelly as the main character
 - **Persons**: States Inspector, Perhaps Kelly, The United
 
 ## Related Concepts
-- [[artificial_intelligence]]
+- 
 
 ## Transcript Highlights
 > First though, it's important to note that

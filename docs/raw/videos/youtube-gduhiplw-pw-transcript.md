@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=gduhiplw-pw
+title: YouTube Transcript: Chciałem przebiec MARATON W 30 DNI (BEZ WCZEŚNIEJSZEGO DOŚWIADCZENIA)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=gduhiplw-pw-transcript
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 720b592decf9d26dd49e01c2f1eeebf36dd8872a6a13518c854c82a766b4819d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Chciałem przebiec MARATON W 30 DNI (BEZ WCZEŚNIEJSZEGO DOŚWIADCZENIA)
 

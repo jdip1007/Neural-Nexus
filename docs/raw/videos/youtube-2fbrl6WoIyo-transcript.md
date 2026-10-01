@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=2fbrl6WoIyo
+title: YouTube Transcript: Lec 1 | MIT 9.00SC Introduction to Psychology, Spring 2011
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=2fbrl6WoIyo-transcript
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
-duration_minutes: 49
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 7f2b72819ebb4c7773c569178eb7d4cbb8a913fb7dea8a7c6ab2c95a7995248a
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Lec 1 | MIT 9.00SC Introduction to Psychology, Spring 2011
 

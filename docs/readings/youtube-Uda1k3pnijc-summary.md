@@ -40,8 +40,8 @@ cognition is something I think is really, really important
 - **Persons**: Audio Research, Claire Arthur, Cognitive Foundations
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > And so that's pretty

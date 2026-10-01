@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=WEP5ubPMGDU
+title: YouTube Transcript: How to Find the Meaning You’ve Been Looking For - Jordan Peterson (4K)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=WEP5ubPMGDU-transcript
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
-duration_minutes: 203
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 72cea3e914b4e3e3cd31abaf81cb6d12435a429c830bd81745d8e526d25ce56e
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How to Find the Meaning You’ve Been Looking For - Jordan Peterson (4K)
 

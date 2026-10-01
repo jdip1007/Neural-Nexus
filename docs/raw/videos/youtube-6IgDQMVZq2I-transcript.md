@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=6IgDQMVZq2I
+title: YouTube Transcript: Shark Tank is Worse Than You Thought
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=6IgDQMVZq2I-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 36d90b6fd3791ec6f2be8d196bd4f1f59f7ebd5c747fb4012f6f9b85fe24a0f7
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Shark Tank is Worse Than You Thought
 

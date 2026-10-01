@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=F-KsvLCM-Ns
+title: YouTube Transcript: Class 8 Video: Hierarchies (II): Streams and Recursions
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=F-KsvLCM-Ns-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 44
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: a5dbbfc573a5f09fec24ead1e8e97d0f7e7d5a324c2d9489bc2a414f085894b0
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Class 8 Video: Hierarchies (II): Streams and Recursions
 

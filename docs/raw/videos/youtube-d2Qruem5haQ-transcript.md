@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=d2Qruem5haQ
+title: YouTube Transcript: Why YouTube NEEDS To Get Worse
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=d2Qruem5haQ-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 13
+published: recent
+duration_minutes: 20
 language: en
-sha256: 8230c5741822afeea09d4f9fbc0873fc3abf023568eb4619f0c404fe25261879
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why YouTube NEEDS To Get Worse
 

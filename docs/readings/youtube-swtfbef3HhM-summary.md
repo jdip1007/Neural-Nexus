@@ -40,9 +40,9 @@ catalysts for the unwinding of the dot bubble
 - **Persons**: In May, Nicol Maro, Jeffrey Feffer
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
-- [[artificial-intelligence]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > an AI system overseen by a much smaller team of 

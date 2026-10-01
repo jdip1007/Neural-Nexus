@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=yHrGN243JNA
+title: YouTube Transcript: Desktop AI Compared - From 2GB to 1024GB, Deepseek R1, Gemma3, and More!
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=yHrGN243JNA-transcript
 source_type: video
-ingested: 2026-08-24
-published: 2026-08-24
-duration_minutes: 13
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: eec7422259751db8bd5dc84abc1f5cf75e481473a60584aa5aaea8aee0a01824
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Desktop AI Compared - From 2GB to 1024GB, Deepseek R1, Gemma3, and More!
 

@@ -42,8 +42,8 @@ have the key to the problem but you can figure it out
 - **Persons**: The Feynman, South Africa, Learn Anything
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > Although social class is way more important

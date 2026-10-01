@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=a_5yk4ekBvI
+title: YouTube Transcript: The Worst Content Thieves on YouTube
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=a_5yk4ekBvI-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 28
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6394e94e2e0dd450c7c74852b3717e985c02481da5cd1446c5235535bd48f59e
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Worst Content Thieves on YouTube
 

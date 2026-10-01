@@ -65,8 +65,8 @@ Korean K2 Black Panther main battle tanks,
 
 ## See also
 
-- [[architecture]]
-- [[hardware]]
+- 
+- 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-f47Qi11cfs8-iron-curtain]]
 - [[youtube-f47Qi11cfs8-western-europe]]

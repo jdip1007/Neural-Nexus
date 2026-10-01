@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=R5wd8k5DcJo
+title: YouTube Transcript: Daniel Sloss On Falling In Love
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=R5wd8k5DcJo-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 1
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3910ce3c54a3e90d3e1c6fb5e9d08c617530c14e21143d19adc6db955dbe4efe
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Daniel Sloss On Falling In Love
 

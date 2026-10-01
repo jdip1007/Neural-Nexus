@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=9mfJ-G2LPhE
+title: YouTube Transcript: What Caused the Rise of Nazi Germany
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=9mfJ-G2LPhE-transcript
 source_type: video
-ingested: 2026-09-16
-published: 2026-09-16
-duration_minutes: 26
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 65eed528eca1e7974b05ce6f53c7abfe00b882567d2aeda73da3d8874fde6d38
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Caused the Rise of Nazi Germany
 

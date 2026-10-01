@@ -39,7 +39,7 @@ and made sure to strike key targets to slow the Allied advance
 - **Persons**: The Emperor, The Soviets, What Was
 
 ## Related Concepts
-- [[artificial_intelligence]]
+- 
 
 ## Transcript Highlights
 > The Japanese frantically searched the waters

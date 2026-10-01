@@ -29,7 +29,7 @@ This video discusses Video 7a: Unlocking Duration and Note Objects in music21
 - **Persons**: Double Dotted, Jupyter Notebook, Half Note
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

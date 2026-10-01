@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=qWQMyeRrabA
+title: YouTube Transcript: THIS is Coming to Your Phone NEXT... I Warned You
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=qWQMyeRrabA-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 17
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5401c392dcd8c205126330011347fb6cd24dcdcc395f6f960e9f69c202118ead
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: THIS is Coming to Your Phone NEXT... I Warned You
 

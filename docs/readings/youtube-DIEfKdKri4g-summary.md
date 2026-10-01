@@ -35,7 +35,7 @@ This video discusses How Airrack Has Been Faking Videos | Internet Anarchist Rea
 - **Persons**: Minor Details, Logan Paul, Challenge Series
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > reminding viewers of the main claims

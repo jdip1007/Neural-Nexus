@@ -1,12 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=KMlyrE_1vJo
+title: YouTube Transcript: What they don't tell you about YouTube success...
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=KMlyrE_1vJo-transcript
 source_type: video
 ingested: 2026-10-01
-published: Unknown
-duration_minutes: 9
+published: recent
+duration_minutes: 20
 language: en
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What they don't tell you about YouTube success...
 

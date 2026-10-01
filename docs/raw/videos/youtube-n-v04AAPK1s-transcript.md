@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=n-v04AAPK1s
+title: YouTube Transcript: Are you an Addict? | Episode 002 Video Game Addiction
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=n-v04AAPK1s-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 5
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 0d234881a531a77b5a521aaee9d34c0697997f92b5c4dc55cc3a7f5b987ed04b
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Are you an Addict? | Episode 002 Video Game Addiction
 

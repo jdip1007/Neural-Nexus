@@ -39,7 +39,7 @@ This video discusses How to Find the Meaning You’ve Been Looking For - Jordan 
 ## Related Concepts
 - [api](concepts/api.md)
 - artificial-intelligence
-- [[llm]]
+- 
 - [algorithm](concepts/algorithm.md)
 - [ai](concepts/ai.md)
 
@@ -56,9 +56,9 @@ This video discusses How to Find the Meaning You’ve Been Looking For - Jordan 
 
 ## See also
 
-- [[algorithm]]
-- [[anxiety]]
-- [[business]]
-- [[depression]]
-- [[executive-function]]
-- [[investment]]
+- 
+- 
+- 
+- 
+- 
+- 

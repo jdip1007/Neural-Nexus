@@ -30,8 +30,8 @@ This video discusses How Long Can The Stock Market Ignore Reality?
 - **Persons**: John Hussman, Morgan Stanley, Warren Buffett
 
 ## Related Concepts
-- [[ai]]
-- [[cloud]]
+- 
+- 
 
 ## Transcript Highlights
 > 2000s. Both saw a significant market

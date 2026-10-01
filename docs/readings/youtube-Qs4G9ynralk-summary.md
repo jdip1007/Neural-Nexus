@@ -50,9 +50,9 @@ by Ana Huang at Google and other new developments
 - **Persons**: David Huron, Johann Sebastian, Ana Huang
 
 ## Related Concepts
-- [[algorithm]]
-- [[transformer]]
-- [[ai]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > The most important

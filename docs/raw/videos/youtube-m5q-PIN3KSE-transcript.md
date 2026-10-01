@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=m5q-PIN3KSE
+title: YouTube Transcript: What Made The Black Death (The Plague) so Deadly?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=m5q-PIN3KSE-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 10
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: f9aaa74d2a0faebcc7b7fc5bcce8d17ed434ff64f1c12680a4588cc61cbf1f9d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Made The Black Death (The Plague) so Deadly?
 

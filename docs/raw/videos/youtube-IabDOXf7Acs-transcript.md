@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=IabDOXf7Acs
+title: YouTube Transcript: Video IabDOXf7Acs
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=IabDOXf7Acs-transcript
 source_type: video
-ingested: 2026-09-06
-published: 2026-09-06
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: c73932ec58daf27751304719b4cff2ca637b0462619191166e284d526aba5bf2
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video IabDOXf7Acs
 

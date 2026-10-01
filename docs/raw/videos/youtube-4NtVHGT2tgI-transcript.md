@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=4NtVHGT2tgI
+title: YouTube Transcript: 7 Nations Just EXPOSED The Pentagon's Alien Lie & Other UFO Stories
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=4NtVHGT2tgI-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 171
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: a0c07830268312e17b4c32be20d78d59b61a20c4b85c0f06b0120a2aca5a24a1
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 7 Nations Just EXPOSED The Pentagon's Alien Lie & Other UFO Stories
 

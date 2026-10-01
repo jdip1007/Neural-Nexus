@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=l7BaFufR23E
+title: YouTube Transcript: The Lie of "Positive Thinking"
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=l7BaFufR23E-transcript
 source_type: video
-ingested: 2026-08-16
-published: 2026-08-16
-duration_minutes: 23
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6405f19ac56f050516ad67d04f8c2843e078d9e963735c0ba5ff49bc96330375
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Lie of "Positive Thinking"
 

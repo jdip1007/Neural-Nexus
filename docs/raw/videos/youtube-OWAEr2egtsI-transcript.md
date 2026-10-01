@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=OWAEr2egtsI
+title: YouTube Transcript: Video 20: Cover Submissions
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=OWAEr2egtsI-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 8
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 920b9deb9b1a2468ac1b09430af7a6e486adecca7a50048bc780b77b7631a2da
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 20: Cover Submissions
 

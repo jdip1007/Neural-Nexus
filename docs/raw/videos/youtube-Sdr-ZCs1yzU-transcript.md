@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Sdr-ZCs1yzU
+title: YouTube Transcript: New Evidence Reveals New Important Details About COVID-19 Origins
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Sdr-ZCs1yzU-transcript
 source_type: video
-ingested: 2026-08-07
-published: 2026-08-07
-duration_minutes: 19
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: fec621262cbd9ead4de9bd67f96252b69fbf38b43a41da26b7c4157335fc9958
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: New Evidence Reveals New Important Details About COVID-19 Origins
 

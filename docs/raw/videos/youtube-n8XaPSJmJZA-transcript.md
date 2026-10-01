@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=n8XaPSJmJZA
+title: YouTube Transcript: INSANE WILD ANIMAL STORIES (Compilation)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=n8XaPSJmJZA-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 225
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6a146c83a765ba1f70788d2f83391fd83c3c245cb50257ed924d4c8afef159d7
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: INSANE WILD ANIMAL STORIES (Compilation)
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=WlZmY4fLzhI
+title: YouTube Transcript: If Economy is Failing... How Are Stocks at ALL TIME HIGH
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=WlZmY4fLzhI-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3eacd1379955baec223784259efd9a93cfa1703540face567619afa93aa02856
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: If Economy is Failing... How Are Stocks at ALL TIME HIGH
 

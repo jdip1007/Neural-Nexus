@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=3cN7bSffVm4
+title: YouTube Transcript: 4.2.5 An Introduction to Trees - Video 3: Splitting and Predictions
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=3cN7bSffVm4-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 2
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: d2f9b1bc9b83e63ee64486178a687c9871f781046e5f3a91881a5408ede53510
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 4.2.5 An Introduction to Trees - Video 3: Splitting and Predictions
 

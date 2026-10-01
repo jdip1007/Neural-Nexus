@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=qjXgpJpSlCc
+title: YouTube Transcript: Insurance Explained - How Do Insurance Companies Make Money and How Do They Work
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=qjXgpJpSlCc-transcript
 source_type: video
-ingested: 2026-09-16
-published: 2026-09-16
-duration_minutes: 6
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5ae3dc94d38bc91c5c9c79d4e97f0d4a7836645ec6f3c6b3e966084fbd36e4b4
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Insurance Explained - How Do Insurance Companies Make Money and How Do They Work
 

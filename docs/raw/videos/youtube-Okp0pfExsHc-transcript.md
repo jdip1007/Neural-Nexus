@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Okp0pfExsHc
+title: YouTube Transcript: Daily Life of a North Korean
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Okp0pfExsHc-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 25
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3586ef0baa216605f4e7fe09257c809ae07d317de50c3fd144f79cc4868d2221
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Daily Life of a North Korean
 

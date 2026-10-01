@@ -30,8 +30,8 @@ This video discusses How Restoration Videos Are Faked
 - **Persons**: New England, Turtle Man, Happy Endings
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > mainly due to the fact that they are

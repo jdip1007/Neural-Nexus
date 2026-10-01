@@ -36,8 +36,8 @@ to match your image's format with the journal's format
 - **Persons**: No Small
 
 ## Related Concepts
-- [[container]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > The first thing

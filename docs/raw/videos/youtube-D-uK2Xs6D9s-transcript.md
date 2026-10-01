@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=D-uK2Xs6D9s
+title: YouTube Transcript: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=D-uK2Xs6D9s-transcript
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: c43a61fc72ed1654a9b5aba24685510e15530848888a20539c75bfc1af1194ea
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
 

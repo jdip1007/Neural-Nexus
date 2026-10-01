@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=8PYhEWK2wVA
+title: YouTube Transcript: How I Conquered My Video Game Addiction
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=8PYhEWK2wVA-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
+ingested: 2026-10-01
+published: recent
 duration_minutes: 20
 language: en
-sha256: 95a48cdc099da405e542f95203b996135c003feddea4a9eb98af79db4ff04b96
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How I Conquered My Video Game Addiction
 

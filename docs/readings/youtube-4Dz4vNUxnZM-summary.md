@@ -24,7 +24,7 @@ This video discusses 3.5.1 The Pigeonhole Principle: Video
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

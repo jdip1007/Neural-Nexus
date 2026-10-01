@@ -25,7 +25,7 @@ This video discusses How Much Money I Made on YouTube After Gaining 100,000 Subs
 - **Persons**: Subscribers In, After Gaining, How Money
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

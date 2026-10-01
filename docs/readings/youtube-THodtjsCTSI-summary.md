@@ -38,9 +38,9 @@ their life
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[llm]]
-- [[api]]
-- [[ai]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > the everyday essentials you're already spending 

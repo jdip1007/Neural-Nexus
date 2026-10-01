@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=SR8ESCmUYLY
+title: YouTube Transcript: Hidden Code: How Slot Machines Actually Work - The Computer Inside
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=SR8ESCmUYLY-transcript
 source_type: video
-ingested: 2026-08-24
-published: 2026-08-24
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 16c41807bfd6c36f251ddb2b4af7e7226c8d4705edcdbcdb338cfcafe6eb1a35
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Hidden Code: How Slot Machines Actually Work - The Computer Inside
 

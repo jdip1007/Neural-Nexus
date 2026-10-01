@@ -36,8 +36,8 @@ is in the land of internet spaceships
 - **Persons**: How Money, Ship Replacement, Casino Wars
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > will then fund a military program to maintain or 

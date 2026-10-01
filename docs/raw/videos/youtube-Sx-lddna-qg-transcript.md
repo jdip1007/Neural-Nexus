@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Sx-lddna-qg
+title: YouTube Transcript: WTF Is Happening To The Video Game Industry?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Sx-lddna-qg-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 19
+published: recent
+duration_minutes: 20
 language: en
-sha256: 434a3d38c74f45a48384db2bff7eac445100768d67452cf58caf95810a3dd874
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: WTF Is Happening To The Video Game Industry?
 

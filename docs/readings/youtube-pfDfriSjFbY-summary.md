@@ -47,10 +47,10 @@ that we'd really like them to enjoy being here
 - **Organizations**: Rockefeller Foundation
 
 ## Related Concepts
-- [[llm]]
+- 
 - [api](concepts/api.md)
 - [ai](concepts/ai.md)
-- [[database]]
+- 
 
 ## Transcript Highlights
 > But important team meetings,

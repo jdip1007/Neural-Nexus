@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=WlInICQUHeo
+title: YouTube Transcript: Video WlInICQUHeo
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=WlInICQUHeo-transcript
 source_type: video
-ingested: 2026-09-06
-published: 2026-09-06
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: fa971572d020dbac3027b92b99dcdfa22756e2d698fdb60ea3a3c8bf6fceaaf6
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video WlInICQUHeo
 

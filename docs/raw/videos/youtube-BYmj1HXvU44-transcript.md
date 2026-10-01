@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=BYmj1HXvU44
+title: YouTube Transcript: How Did World War 1 Start?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=BYmj1HXvU44-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 12
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 848113924df4173dbb958c234e74a9cdb7cf008eb188f751366ef10197cca870
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Did World War 1 Start?
 

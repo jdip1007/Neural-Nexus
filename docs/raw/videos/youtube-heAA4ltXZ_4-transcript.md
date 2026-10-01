@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=heAA4ltXZ_4
+title: YouTube Transcript: YouTubers Who Destroyed Their Career With 1 Video
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=heAA4ltXZ_4-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 9ebb216407c191859a1c4a6a8a478c8c186d31960c144ca7191d3c50977622d3
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: YouTubers Who Destroyed Their Career With 1 Video
 

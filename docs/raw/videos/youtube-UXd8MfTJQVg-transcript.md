@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=UXd8MfTJQVg
+title: YouTube Transcript: What do CPUs do when there's nothing to do?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=UXd8MfTJQVg-transcript
 source_type: video
-ingested: 2026-09-19
-published: 2026-09-19
-duration_minutes: 12
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 4fa98cac7fe2b595ef1626cb376627c44302f84c2fbdf4bae90361859e946eb5
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What do CPUs do when there's nothing to do?
 

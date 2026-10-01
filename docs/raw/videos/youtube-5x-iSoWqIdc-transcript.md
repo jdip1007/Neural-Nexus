@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=5x-iSoWqIdc
+title: YouTube Transcript: How North Korea Became the World’s Most Isolated Country
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=5x-iSoWqIdc-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 47
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 007dae3b8e0dba4a88c124bee130c0a064ddf5daadb17442833863d2465f42a6
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How North Korea Became the World’s Most Isolated Country
 

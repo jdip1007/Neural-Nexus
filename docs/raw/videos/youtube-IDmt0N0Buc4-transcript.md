@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=IDmt0N0Buc4
+title: YouTube Transcript: Fake Restoration Videos Are Ruining YouTube
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=IDmt0N0Buc4-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3b001ec4ff2f39d95d24f5245de30dae3a8b3b24700d7e0229b2f3b813c68529
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Fake Restoration Videos Are Ruining YouTube
 

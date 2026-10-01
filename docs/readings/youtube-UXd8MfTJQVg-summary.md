@@ -38,8 +38,8 @@ This video discusses What do CPUs do when there's nothing to do?
 - **Persons**: Gives Windows, When Task, So Windows
 
 ## Related Concepts
-- [[ai]]
-- [[container]]
+- 
+- 
 
 ## Transcript Highlights
 > important parts of any operating system.

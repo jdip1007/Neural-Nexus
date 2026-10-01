@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=knjliFs3gR8
+title: YouTube Transcript: How SEAL Team Took Down Osama bin Laden (Minute by Minute)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=knjliFs3gR8-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 17
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 2a911a2d09f84d43e8f9b36996946c7ee5830a419f8cc95995c51a02f7db3eab
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How SEAL Team Took Down Osama bin Laden (Minute by Minute)
 

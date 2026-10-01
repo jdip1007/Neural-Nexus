@@ -36,8 +36,8 @@ children get the same DNA from their parents unless they are twins
 - **Persons**: Los Angeles, To Live, King Chulalongkorn
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > Importantly, though, as you know, not all 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=gsDGDCnntEk
+title: YouTube Transcript: INSANE Conspiracy Theories That Turned Out to be TRUE
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=gsDGDCnntEk-transcript
 source_type: video
-ingested: 2026-08-13
-published: 2026-08-13
-duration_minutes: 27
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: c8f550f658543d5c4efdda677348c2621500444d8f65d2faad3bb86bcc28b282
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: INSANE Conspiracy Theories That Turned Out to be TRUE
 

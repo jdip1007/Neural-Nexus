@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=cq36YXrfyJE
+title: YouTube Transcript: Ads You See Online Are Now Police Surveillance
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=cq36YXrfyJE-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 23
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 05906f70df3bfe5a031469d48a1e2ae366bf32a647b05c4b9d7f336a6a665137
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Ads You See Online Are Now Police Surveillance
 

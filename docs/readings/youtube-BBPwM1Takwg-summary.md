@@ -26,8 +26,8 @@ This video discusses Why Did Korea Split in to North and South?
 - **Persons**: Soviet Empire, Noble Lie, South Korea
 
 ## Related Concepts
-- [[application_programming_interface]]
-- [[artificial_intelligence]]
+- 
+- 
 
 ## Transcript Highlights
 > and they remained united up until 1945.

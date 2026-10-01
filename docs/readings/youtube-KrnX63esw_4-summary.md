@@ -36,11 +36,11 @@ This video discusses Tech billionaires are panicking...
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[architecture]]
-- [[large-language-model]]
-- [[database]]
-- [[llm]]
-- [[artificial-intelligence]]
+- 
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > only be opened and operated via keypads.

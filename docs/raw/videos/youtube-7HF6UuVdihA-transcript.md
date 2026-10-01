@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=7HF6UuVdihA
+title: YouTube Transcript: It's a $12,000 EV. The American Car Industry Is DOOMED.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=7HF6UuVdihA-transcript
 source_type: video
-ingested: 2026-08-07
-published: 2026-08-07
-duration_minutes: 28
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: d449f3d0fcd2da9e749bda12787bcd72e9a348377dc808cab98b8b327e2d27d1
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: It's a $12,000 EV. The American Car Industry Is DOOMED.
 

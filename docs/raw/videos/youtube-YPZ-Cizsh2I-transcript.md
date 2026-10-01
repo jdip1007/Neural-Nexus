@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=YPZ-Cizsh2I
+title: YouTube Transcript: Video 22: Speaking to the Public
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=YPZ-Cizsh2I-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 5
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 9eec4f49ead7ecbde70cdaf376f6eaefc54f257d815d440394aea08a93de310d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 22: Speaking to the Public
 

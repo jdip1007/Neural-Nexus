@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=h1GtR8xJraw
+title: YouTube Transcript: Video 14: Using a Smartphone
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=h1GtR8xJraw-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 4
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: bc5a23bf8241d08f15e2d598faddfc9df75346228061e3f60098d77b60383728
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 14: Using a Smartphone
 

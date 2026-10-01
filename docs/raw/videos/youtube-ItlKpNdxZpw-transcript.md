@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ItlKpNdxZpw
+title: YouTube Transcript: The Shortest Useful Tech Support Video on YouTube
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ItlKpNdxZpw-transcript
 source_type: video
-ingested: 2026-08-24
-published: 2026-08-24
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 95b985504ab6570749b2d363b701851ab48a1887c2d0ee4196b3346904925213
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Shortest Useful Tech Support Video on YouTube
 

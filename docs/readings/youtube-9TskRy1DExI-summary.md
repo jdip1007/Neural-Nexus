@@ -25,9 +25,9 @@ This video provides an in-depth analysis of why i haven't been uploading....
 - **General**: Video content analysis
 
 ## Related Concepts
-- [[media]]
-- [[internet-culture]]
-- [[youtube]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=4_tngSkFXes
+title: YouTube Transcript: Video 7: Aperture
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=4_tngSkFXes-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 4
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1896d1ab93fe07f4bdf28a2ba0e61649f75c97025bc89bceac9811f87b6e63ab
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 7: Aperture
 

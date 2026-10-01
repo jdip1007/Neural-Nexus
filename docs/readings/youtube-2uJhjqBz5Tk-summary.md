@@ -45,10 +45,10 @@ important, including all their personal documents
 - **Organizations**: Kurchatov Institute
 
 ## Related Concepts
-- [[container]]
-- [[cloud]]
-- [[api]]
-- [[ai]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > The realtor has already been slowed down to run at 

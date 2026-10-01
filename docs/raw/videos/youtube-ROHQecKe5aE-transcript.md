@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ROHQecKe5aE
+title: YouTube Transcript: Why the United States DIDN'T Target Tokyo With Atomic Bombs
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ROHQecKe5aE-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
+ingested: 2026-10-01
+published: recent
 duration_minutes: 20
 language: en
-sha256: d2812ea6c5c39235a6a461348af67c5e148b3ad364de43d017a308c3e938f52c
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why the United States DIDN'T Target Tokyo With Atomic Bombs
 

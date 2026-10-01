@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Qs4G9ynralk
+title: YouTube Transcript: Classes 18-21 Video: Brief Synopsis of Guest Sessions on Music Cognition
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Qs4G9ynralk-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 9
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5f7b63c38c3096dd583146189554ca9c4566312bd198d5133a720d001cd99e8d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Classes 18-21 Video: Brief Synopsis of Guest Sessions on Music Cognition
 

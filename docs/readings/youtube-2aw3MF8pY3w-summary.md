@@ -39,8 +39,8 @@ This video discusses As a Microsoft Engineer, This Is the AI Agent Story That Sc
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[ai]]
-- [[algorithm]]
+- 
+- 
 
 ## Transcript Highlights
 > important thing in the world. Then, one

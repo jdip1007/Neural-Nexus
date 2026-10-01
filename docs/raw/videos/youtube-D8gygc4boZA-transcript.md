@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=D8gygc4boZA
+title: YouTube Transcript: This Is What Happens To Your Body When You Stop Smoking Tobacco
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=D8gygc4boZA-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 6
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 2642ec4d5c4bfcd19ac5c0bf8edc8fb733b5c06690801b68e613927b96fcc2d0
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: This Is What Happens To Your Body When You Stop Smoking Tobacco
 

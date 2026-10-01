@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=LDoo19hJ170
+title: YouTube Transcript: It's Not Feminism. The American Family is DEAD.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=LDoo19hJ170-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 19
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 41e576b29b9e3f2b5ba41a5797dc430dfd4ecb0a25f3d2bdf6bc965fe32e617a
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: It's Not Feminism. The American Family is DEAD.
 

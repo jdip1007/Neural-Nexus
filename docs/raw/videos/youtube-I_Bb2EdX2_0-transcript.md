@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=I_Bb2EdX2_0
+title: YouTube Transcript: The "Skills Gap" Myth
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=I_Bb2EdX2_0-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 10
+published: recent
+duration_minutes: 20
 language: en
-sha256: 9c592067253e0eea45fde81caac09edb8f8868b406d32c564d4dc17eb7239438
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The "Skills Gap" Myth
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=pB6nlxuytLU
+title: YouTube Transcript: Dumb YouTube Videos That Got People Fired #2
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=pB6nlxuytLU-transcript
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
-duration_minutes: 22
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 67f531f25161baa9d5a1bdfbf8d80e17d1a85b8513caedcc24baf49eb38d5377
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Dumb YouTube Videos That Got People Fired #2
 

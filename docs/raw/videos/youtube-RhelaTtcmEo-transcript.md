@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=RhelaTtcmEo
+title: YouTube Transcript: Why Smart People Are Bad At Dating
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=RhelaTtcmEo-transcript
 source_type: video
-ingested: 2026-08-19
-published: 2026-08-19
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6def04de2b290a9510a30f00465a3537d16c0560b1ca43d535de45e174236bb2
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Smart People Are Bad At Dating
 

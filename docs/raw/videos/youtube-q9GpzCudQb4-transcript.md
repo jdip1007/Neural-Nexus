@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=q9GpzCudQb4
+title: YouTube Transcript: $2.45 BILLION Debt. Ubisoft is DOOMED.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=q9GpzCudQb4-transcript
 source_type: video
-ingested: 2026-08-09
-published: 2026-08-09
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 893702df6a772c9b798495b9094332b01af7c715582f8c88f67c8822d075a8cd
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: $2.45 BILLION Debt. Ubisoft is DOOMED.
 

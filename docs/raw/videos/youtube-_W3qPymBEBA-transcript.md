@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=_W3qPymBEBA
+title: YouTube Transcript: WTF Does Peter Thiel Actually Want?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=_W3qPymBEBA-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
+published: recent
 duration_minutes: 20
 language: en
-sha256: bb3b102b551315f073cb5aefd53b625d8c873f60db0a6407506f88bbe5394f2a
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: WTF Does Peter Thiel Actually Want?
 

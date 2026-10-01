@@ -41,8 +41,8 @@ across the sea, enriching the colonial power while many ordinary Koreans remaine
 - **Persons**: The Joseon, Zhu Yuanzhang, Thae Yong
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > family. It wasn't a perfect meritocracy, but 

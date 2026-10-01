@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=clMl_NZp4vI
+title: YouTube Transcript: Video clMl_NZp4vI
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=clMl_NZp4vI-transcript
 source_type: video
-ingested: 2026-09-06
-published: 2026-09-06
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: dc9c23bbb84186be0f486029dd8691b94b552db5873064ca4a3eccc2454d1e7b
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video clMl_NZp4vI
 

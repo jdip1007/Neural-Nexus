@@ -43,7 +43,7 @@ hand, and the message would only be decoded when in this person’s possession
 - [algorithm](concepts/algorithm.md)
 - [cloud](concepts/cloud.md)
 - [ai](concepts/ai.md)
-- [[database]]
+- 
 - framework
 
 ## Transcript Highlights
@@ -62,6 +62,6 @@ hand, and the message would only be decoded when
 
 ## See also
 
-- [[algorithm]]
-- [[business]]
-- [[cloud]]
+- 
+- 
+- 

@@ -25,7 +25,7 @@ This video discusses Video 7: Aperture
 - **Persons**: Live View
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > So you really see a

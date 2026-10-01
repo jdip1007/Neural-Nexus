@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=6kD5RbQCjFg
+title: YouTube Transcript: What Everyone Gets Wrong About ADHD
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=6kD5RbQCjFg-transcript
 source_type: video
-ingested: 2026-08-19
-published: 2026-08-19
-duration_minutes: 27
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 021b3f7714d55864e9439c2d2f1e45e64b31a0242d23dcef67ec737fc427b172
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Everyone Gets Wrong About ADHD
 

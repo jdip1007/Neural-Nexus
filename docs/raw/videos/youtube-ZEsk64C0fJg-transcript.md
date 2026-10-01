@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ZEsk64C0fJg
+title: YouTube Transcript: 2.10.1 Árboles: Vídeo
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ZEsk64C0fJg-transcript
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
-duration_minutes: 8
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3f7e33d8f646f9932da097d395a2294b67f600dcb9d307f9f3bdc5239a7b6003
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: 2.10.1 Árboles: Vídeo
 

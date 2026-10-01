@@ -25,7 +25,7 @@ This video discusses ESP32 Spectrum Analyzer
 - **Persons**: Spectrum Analyzer
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

@@ -45,10 +45,10 @@ most important part
 - **Persons**: Charlie Parker, East Asian, European Union
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
-- [[database]]
-- [[api]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > the important musical

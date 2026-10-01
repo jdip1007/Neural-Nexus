@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=kZmpYh5Wxto
+title: YouTube Transcript: The Challenger Space Shuttle Disaster - Explained (Minute by Minute)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=kZmpYh5Wxto-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 27
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: fb9550910cdf19c210933e612acfb161d15955e36b8efcf9a6d5a03c886331c9
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Challenger Space Shuttle Disaster - Explained (Minute by Minute)
 

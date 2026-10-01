@@ -32,9 +32,9 @@ private, doing most of his business in ideological work behind the scenes
 - **Persons**: Elon Musk, Enhanced Games, San Francisco
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > importantly, what is it exactly that he wants? A 

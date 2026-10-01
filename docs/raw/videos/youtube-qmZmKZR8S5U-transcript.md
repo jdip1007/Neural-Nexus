@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=qmZmKZR8S5U
+title: YouTube Transcript: How Long Can The Stock Market Ignore Reality?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=qmZmKZR8S5U-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 17
+published: recent
+duration_minutes: 20
 language: en
-sha256: eba99a8c7fee4dc816e26848f96425d698b51b826d6e3fa2be68bb1acd9883fd
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Long Can The Stock Market Ignore Reality?
 

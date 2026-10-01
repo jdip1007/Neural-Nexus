@@ -48,7 +48,7 @@ issues, with the internet being key in increasing their awareness
 - **Persons**: The Infographics, The Greatest, Spanish Flu
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > the roaring twenties took off and brought Jazz and 

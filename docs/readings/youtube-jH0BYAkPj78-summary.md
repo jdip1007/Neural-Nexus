@@ -35,10 +35,10 @@ This video discusses Microsoft's Secret 90s Weapon That Made Windows Fast
 - **Persons**: Visual Studio, Shop Talk, But Microsoft
 
 ## Related Concepts
-- [[ai]]
-- [[cloud]]
-- [[architecture]]
-- [[algorithm]]
+- 
+- 
+- 
+- 
 - framework
 
 ## Transcript Highlights

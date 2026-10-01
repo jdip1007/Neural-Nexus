@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=I_17-FIqadU
+title: YouTube Transcript: ስሙ ነው ካሮል ፈቃዱ SIMU NEW  መዝሙር CAROL FEKADU Mezmur 2023
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=I_17-FIqadU-transcript
 source_type: video
-ingested: 2026-08-07
-published: 2026-08-07
-duration_minutes: 30
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 4584a3bda644a1e0baa95cd3f06c160f87b9133ae167d31923d2b3d0fe3f27c4
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: ስሙ ነው ካሮል ፈቃዱ SIMU NEW  መዝሙር CAROL FEKADU Mezmur 2023
 

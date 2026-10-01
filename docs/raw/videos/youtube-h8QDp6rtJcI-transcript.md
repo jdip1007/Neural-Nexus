@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=h8QDp6rtJcI
+title: YouTube Transcript: What Happened To Nikocado Avocado?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=h8QDp6rtJcI-transcript
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
+ingested: 2026-10-01
+published: recent
 duration_minutes: 20
 language: en
-sha256: 8053c152959d1fe73298acad4def2e833bc6b64cd47268d28dc393ad46cce2ee
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Happened To Nikocado Avocado?
 

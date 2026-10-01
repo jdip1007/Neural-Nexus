@@ -1,11 +1,17 @@
 ---
-author: Internet Anarchist
-ingested_date: '2026-09-02T21:57:05.644487'
-publication_date: '2026-09-02T21:57:05.644485'
+title: Transcript: https://www.youtube.com/watch?v=cdefg12345
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=cdefg12345-transcript
 source_type: video
-source_url: https://www.youtube.com/watch?v=cdefg12345
-transcript_available: true
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
+language: en
+time_sensitive: True
 ---
+
 
 # Transcript: https://www.youtube.com/watch?v=cdefg12345
 

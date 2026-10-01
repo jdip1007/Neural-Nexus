@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=XAzUoizwnXM
+title: YouTube Transcript: fopen is Magic! - Find Out What You've Been Missing All These Years!
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=XAzUoizwnXM-transcript
 source_type: video
-ingested: 2026-09-15
-published: 2026-09-15
-duration_minutes: 16
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: af25763401886abc754315a19702c7c00203429629113db420dc6616d430d428
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: fopen is Magic! - Find Out What You've Been Missing All These Years!
 

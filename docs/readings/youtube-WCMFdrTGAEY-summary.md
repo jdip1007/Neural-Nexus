@@ -54,7 +54,7 @@ challenges in domains
 
 ## See also
 
-- [[algorithm]]
+- 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WCMFdrTGAEY-cognitive-sciences]]
 - [[youtube-WCMFdrTGAEY-financial-systems]]

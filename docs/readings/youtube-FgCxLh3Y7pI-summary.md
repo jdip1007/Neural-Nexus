@@ -24,8 +24,8 @@ This video discusses Video 7b: Streams as Hierarchies: Types of Containers in mu
 ## Entities Mentioned
 
 ## Related Concepts
-- [[container]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 

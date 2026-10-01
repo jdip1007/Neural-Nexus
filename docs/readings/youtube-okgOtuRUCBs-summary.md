@@ -52,11 +52,11 @@ so some kinds of other means
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
-- [[framework]]
-- [[transformer]]
-- [[architecture]]
+- 
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > focused on maintaining and

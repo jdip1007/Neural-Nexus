@@ -39,7 +39,7 @@ This video discusses 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K
 
 ## Related Concepts
 - [cloud](concepts/cloud.md)
-- [[llm]]
+- 
 - [api](concepts/api.md)
 - [ai](concepts/ai.md)
 
@@ -56,7 +56,7 @@ This video discusses 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K
 
 ## See also
 
-- [[cloud]]
+- 
 - [[youtube-KyfUysrNaco-and-whimo]]
 - [[youtube-KyfUysrNaco-tim-tim]]
 - [[youtube-KyfUysrNaco-tony-robbins]]

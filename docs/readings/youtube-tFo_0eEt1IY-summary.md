@@ -29,8 +29,8 @@ This video discusses What Caused the Catastrophic Nuclear Accident in Chernobyl?
 - **Persons**: Reactor No, Chernobyl Exclusion, Upper Biological
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 

@@ -34,9 +34,9 @@ This video discusses How Exposing Wendigoon Ended His Career
 - **Persons**: Written House, In Praise, Turkey Tom
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > important to note that the issue people

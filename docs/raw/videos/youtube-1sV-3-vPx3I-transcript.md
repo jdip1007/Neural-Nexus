@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=1sV-3-vPx3I
+title: YouTube Transcript: The Dark History of Zip Files
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=1sV-3-vPx3I-transcript
 source_type: video
-ingested: 2026-08-29
-published: 2026-08-29
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 14b20f83395fee7da004521129160eb23f97639fd75ba8dee31f71b4554365cd
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Dark History of Zip Files
 

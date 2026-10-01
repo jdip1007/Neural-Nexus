@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=14Uc2WCSPiw
+title: YouTube Transcript: Americans Have Turned Against AI
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=14Uc2WCSPiw-transcript
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1483f8b84452483cf6ea54ed8ff9f5eb31548a1247c935c8ab1620393d03b4fb
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Americans Have Turned Against AI
 

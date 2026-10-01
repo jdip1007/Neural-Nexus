@@ -38,7 +38,7 @@ and its occupants Orville and Mickey Wagner were not so fortunate
 - **Persons**: Alaska Panhandle, Man Lost, God Almighty
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > Swanson named Badger, and a boat named Sumore

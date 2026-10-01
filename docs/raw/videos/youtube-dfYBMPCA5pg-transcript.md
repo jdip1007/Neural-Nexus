@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=dfYBMPCA5pg
+title: YouTube Transcript: 18 Rules for Lifting Like a Pro - Dr Mike Israetel (4K)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=dfYBMPCA5pg-transcript
 source_type: video
-ingested: 2026-09-03
-published: 2026-09-03
-duration_minutes: 119
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1a007f6d6514917bc03d3daed0d7cc825c2f751209acdf5539e2ba9fbd13ba15
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 18 Rules for Lifting Like a Pro - Dr Mike Israetel (4K)
 

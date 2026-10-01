@@ -38,7 +38,7 @@ This video discusses Jack Doherty’s Life Is Falling Apart
 - **Persons**: Jack Doerty, But Peach, Soul Jakey
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > quintessential nuisance streamer who

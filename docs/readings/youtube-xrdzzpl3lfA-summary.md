@@ -38,10 +38,10 @@ This video discusses Mysterious Objects in Space We Can't Explain & Other Space 
 ## Entities Mentioned
 
 ## Related Concepts
-- [[cloud]]
-- [[framework]]
-- [[api]]
-- [[ai]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > and more importantly would breaking it

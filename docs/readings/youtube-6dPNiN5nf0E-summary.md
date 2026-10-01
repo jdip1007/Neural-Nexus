@@ -46,8 +46,8 @@ relative to the major axis of the main mass
 - **Persons**: Southern United, Military Can, Resolution Office
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > It was submitted to the All-domain Anomaly 

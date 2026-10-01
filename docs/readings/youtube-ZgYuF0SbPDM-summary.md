@@ -24,7 +24,7 @@ This video discusses Video 3: Lift
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

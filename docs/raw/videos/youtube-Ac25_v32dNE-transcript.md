@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Ac25_v32dNE
+title: YouTube Transcript: How Much Longer Can We "Hide" The Inflation?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Ac25_v32dNE-transcript
 source_type: video
-ingested: 2026-08-24
-published: 2026-08-24
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: dfa770bfbe735d35679eeee56f9cdc061b3efc12d2fdf1026f1f8e25e4e40a70
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Much Longer Can We "Hide" The Inflation?
 

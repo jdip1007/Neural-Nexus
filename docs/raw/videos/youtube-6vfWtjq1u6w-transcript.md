@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=6vfWtjq1u6w
+title: YouTube Transcript: It's NOT Just Chernobyl. The REAL Disaster Is 10,000 Blocks Deep.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=6vfWtjq1u6w-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: e43b59aa1f02e32438d8a96244cd51bda9e4b94420305fee28ec20d5e2e9ead9
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: It's NOT Just Chernobyl. The REAL Disaster Is 10,000 Blocks Deep.
 

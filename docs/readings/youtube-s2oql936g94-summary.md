@@ -153,8 +153,8 @@ subscribe to keep on learning how money works
 - **Persons**: Get Cozy, New Year, Ultimate Fighting
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > privy to company information that isn't shared 

@@ -29,7 +29,7 @@ This video discusses 4.2.5 An Introduction to Trees - Video 3: Splitting and Pre
 - **Persons**: Justice Stevens, Supreme Court
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

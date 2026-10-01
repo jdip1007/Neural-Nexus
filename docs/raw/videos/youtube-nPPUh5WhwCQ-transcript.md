@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=nPPUh5WhwCQ
+title: YouTube Transcript: The Betrayal of JCS - Criminal Psychology
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=nPPUh5WhwCQ-transcript
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
-duration_minutes: 1
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 4156c66fa4c09634ad84ddc162a9c3681bf245ce0fe1b47fe59cd2b5757431cf
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Betrayal of JCS - Criminal Psychology
 

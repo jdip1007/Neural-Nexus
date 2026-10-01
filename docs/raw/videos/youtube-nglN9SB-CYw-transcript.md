@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=nglN9SB-CYw
+title: YouTube Transcript: NASA’s 100-Mile Moon Base: The Insane Plan to Colonize the Lunar South Pole by 2032
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=nglN9SB-CYw-transcript
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
-duration_minutes: 16
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6a639bccce661ee6d5d44d3922ee773494f1533c5005b82d0c73e51fcf011043
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: NASA’s 100-Mile Moon Base: The Insane Plan to Colonize the Lunar South Pole by 2032
 

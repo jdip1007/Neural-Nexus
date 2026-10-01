@@ -39,7 +39,7 @@ This video discusses The Most Brutal 6 Minutes in Prison History
 
 ## Related Concepts
 - [api](concepts/api.md)
-- [[llm]]
+- 
 - [ai](concepts/ai.md)
 - [container](concepts/container.md)
 
@@ -56,8 +56,8 @@ This video discusses The Most Brutal 6 Minutes in Prison History
 
 ## See also
 
-- [[container]]
-- [[serial-killers]]
+- 
+- 
 - youtube-1-OKHUNAR8c-the-british
 - [[youtube-5rFIcsi9EVc-to-your]]
 - [[youtube-5rFIcsi9EVc-what-does]]

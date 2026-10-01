@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=antfXKFH_88
+title: YouTube Transcript: D4VD Is Facing The Death Penalty...
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=antfXKFH_88-transcript
 source_type: video
-ingested: 2026-09-01
-published: 2026-09-01
+ingested: 2026-10-01
+published: recent
 duration_minutes: 20
 language: en
-sha256: 708473673652c9e7f01d44c22465ea851415b16798dd2fb42357c124789e7588
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: D4VD Is Facing The Death Penalty...
 

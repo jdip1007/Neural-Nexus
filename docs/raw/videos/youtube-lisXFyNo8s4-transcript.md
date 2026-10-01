@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=lisXFyNo8s4
+title: YouTube Transcript: What Happens To Your Body When You Start Drinking Alcohol (Minute by Minute)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=lisXFyNo8s4-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 54a3166f885db7491726db5d7f63f1b8e0050513b4bf40fe6396e8367ccd2543
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Happens To Your Body When You Start Drinking Alcohol (Minute by Minute)
 

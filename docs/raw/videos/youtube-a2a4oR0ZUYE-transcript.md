@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=a2a4oR0ZUYE
+title: YouTube Transcript: Why Alexander The Great Is The Single Most Important Man In History
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=a2a4oR0ZUYE-transcript
 source_type: video
-ingested: 2026-09-27
-published: 2026-09-27
-duration_minutes: 10
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 8256a9201e8671a307893f46cff2566287988b60b02d6ae51b0832d4814beee7
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Alexander The Great Is The Single Most Important Man In History
 

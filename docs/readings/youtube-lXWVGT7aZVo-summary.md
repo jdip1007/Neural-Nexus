@@ -43,7 +43,7 @@ right up until somebody steals the key
 - **Persons**: Wall Street, In April, Project Zero
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > It’s essentially turning free trials 

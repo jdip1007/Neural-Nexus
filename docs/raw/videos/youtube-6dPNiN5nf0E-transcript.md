@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=6dPNiN5nf0E
+title: YouTube Transcript: 16 Most Disturbing Videos From Pentagon UFO Release
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=6dPNiN5nf0E-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 212b28282c93f5501a775f9d18e27bfa9c5b4927a48032370fb3431c502e3f00
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 16 Most Disturbing Videos From Pentagon UFO Release
 

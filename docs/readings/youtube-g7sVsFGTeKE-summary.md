@@ -184,7 +184,7 @@ this negotiation completely economics we've
 
 ## See also
 
-- [[technology]]
+- 
 - [[youtube-FVZDXz3Iibw-the-american]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WNSZ6xouNv4-and-that]]

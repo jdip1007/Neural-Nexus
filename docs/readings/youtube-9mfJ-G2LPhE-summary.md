@@ -44,8 +44,8 @@ hand him the keys to the chancellorship
 - **Persons**: West Prussia, By March, The Enabling
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > about knowing how to cultivate powerful allies. 

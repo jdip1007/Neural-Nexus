@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=6BOxK_JrghY
+title: YouTube Transcript: "Dude I'm Broke" Why Is My Data Worth Harvesting?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=6BOxK_JrghY-transcript
 source_type: video
-ingested: 2026-08-26
-published: 2026-08-26
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3291df16875cd6bfe6f36a017a404fc917f0de1953c52693f9acf1efd1525e43
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: "Dude I'm Broke" Why Is My Data Worth Harvesting?
 

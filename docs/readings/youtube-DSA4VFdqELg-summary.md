@@ -34,9 +34,9 @@ This video discusses Reliable Isn’t Always Better: TCP vs UDP
 - **Persons**: In Wireshark
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
-- [[database]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > More importantly, each UDP datagram is

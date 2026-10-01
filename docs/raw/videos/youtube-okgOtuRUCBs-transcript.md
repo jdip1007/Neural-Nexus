@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=okgOtuRUCBs
+title: YouTube Transcript: Video okgOtuRUCBs
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=okgOtuRUCBs-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 29
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: a2ebcba2b0cc2214f0e2b465dff657900a01e5847c21250dcfe034693f54dcac
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video okgOtuRUCBs
 

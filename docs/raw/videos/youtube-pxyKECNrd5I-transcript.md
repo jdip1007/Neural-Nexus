@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=pxyKECNrd5I
+title: YouTube Transcript: John Conway's game of Life on ESP32
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=pxyKECNrd5I-transcript
 source_type: video
-ingested: 2026-09-30
-published: 2026-09-30
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 996f7ab4598246d0e7096de6768408d6795556592dca122a183d4bd684b07698
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: John Conway's game of Life on ESP32
 

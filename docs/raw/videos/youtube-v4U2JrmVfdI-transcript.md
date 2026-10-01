@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=v4U2JrmVfdI
+title: YouTube Transcript: Discurso de la Flota Estelar de la Almirante Isabel II
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=v4U2JrmVfdI-transcript
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5745b96e85469e2ed4c86e4436495938c48561251e33801a2d75bc338fe1853e
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Discurso de la Flota Estelar de la Almirante Isabel II
 

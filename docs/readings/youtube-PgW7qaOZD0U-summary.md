@@ -25,7 +25,7 @@ This video discusses Optics: Fraunhofer diffraction - adjustable slit | MIT Vide
 - **Persons**: Creative Commons
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

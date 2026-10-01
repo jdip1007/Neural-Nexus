@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=OTF6_GmUx7Y
+title: YouTube Transcript: Why Billionaires Are Refusing To Retire
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=OTF6_GmUx7Y-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 10
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6eb0d8b4a02c4ed255370c7c7472db39a8ea66ae49b22083574d08caf7306a2d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Billionaires Are Refusing To Retire
 

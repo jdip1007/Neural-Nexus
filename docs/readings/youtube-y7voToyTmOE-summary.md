@@ -38,9 +38,9 @@ essentially becoming self-replicating
 - **Persons**: Murder Hornets, Zombie Attack, While Toxoplasma
 
 ## Related Concepts
-- [[cloud_computing]]
-- [[application_programming_interface]]
-- [[artificial_intelligence]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > they’re a case of kidnapping and enslavement. 

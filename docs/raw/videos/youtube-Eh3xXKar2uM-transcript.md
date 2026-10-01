@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Eh3xXKar2uM
+title: YouTube Transcript: The Collapse of Chernobyl's $2.5 Billion Containment Arch
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Eh3xXKar2uM-transcript
 source_type: video
-ingested: 2026-09-27
-published: 2026-09-27
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5dd723146b7c739ef8ef790682264c44a10713086666957e42e066745adc8f99
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Collapse of Chernobyl's $2.5 Billion Containment Arch
 

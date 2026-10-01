@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=y7voToyTmOE
+title: YouTube Transcript: Scientists Reveal How a Zombie Apocalypse Could Actually Happen
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=y7voToyTmOE-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 0f2201e9c7a88e1fdf1ae29256e27869b7ad2f0903a0bf322d7dd6d28f360da7
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Scientists Reveal How a Zombie Apocalypse Could Actually Happen
 

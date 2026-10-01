@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=kLcpCqLwNU8
+title: YouTube Transcript: Autism Works - Neurodiversity in the Workplace
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=kLcpCqLwNU8-transcript
 source_type: video
-ingested: 2026-09-15
-published: 2026-09-15
-duration_minutes: 22
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: ffc58386e7b2a0433af41cee28be7e15f26816c1c382d7468eefb0ef4e4febde
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Autism Works - Neurodiversity in the Workplace
 

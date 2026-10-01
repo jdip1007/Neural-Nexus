@@ -43,11 +43,11 @@ or better sing them out
 - **Persons**: Nicholas Cook, Arnold Schoenberg, The Essen
 
 ## Related Concepts
-- [[large-language-model]]
-- [[database]]
-- [[algorithm]]
-- [[api]]
-- [[ai]]
+- 
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > First, why are authors

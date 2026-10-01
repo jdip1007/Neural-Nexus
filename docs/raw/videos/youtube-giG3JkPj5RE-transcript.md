@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=giG3JkPj5RE
+title: YouTube Transcript: Why Jack Doherty Is The Worst YouTuber…
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=giG3JkPj5RE-transcript
 source_type: video
-ingested: 2026-09-01
-published: 2026-09-01
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 9daaddaa9cb15deefc082ae8ddd61ab85b50d765427e556886000740e388b27c
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Jack Doherty Is The Worst YouTuber…
 

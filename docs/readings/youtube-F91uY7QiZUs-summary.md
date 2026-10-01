@@ -43,10 +43,10 @@ in delivering shippable code usually took place at the code generation phase
 - **Persons**: Way Out, International Settlements, Junior Death
 
 ## Related Concepts
-- [[llm]]
-- [[ai]]
-- [[api]]
-- [[architecture]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > down-the-line maintenance.

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=IMdDtCuFZsc
+title: YouTube Transcript: Jonah Hill's Life Is Falling Apart
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=IMdDtCuFZsc-transcript
 source_type: video
-ingested: 2026-09-01
-published: 2026-09-01
-duration_minutes: 27
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6deba09352cac9508b4879a8aca2b930ce95bf3fe04b56c78a1e6ba72b30626f
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Jonah Hill's Life Is Falling Apart
 

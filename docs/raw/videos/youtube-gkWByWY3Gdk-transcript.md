@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=gkWByWY3Gdk
+title: YouTube Transcript: What Happens To Your Body When You Stop Drinking Alcohol
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=gkWByWY3Gdk-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 8
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 78141644edc56bd1e84815cbc8d2024ffae2f99da240ff559f81c0abf69935da
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Happens To Your Body When You Stop Drinking Alcohol
 

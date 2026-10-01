@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=vUYR5zv6gqU
+title: YouTube Transcript: If YOU Are 'Saving' Money, You NEED To Stop!
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=vUYR5zv6gqU-transcript
 source_type: video
-ingested: 2026-09-02
-published: 2026-09-02
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5060c1ca697e126a2d93758084ac8f061e5aeb32aab62ca4b74ebabe79cb757c
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: If YOU Are 'Saving' Money, You NEED To Stop!
 

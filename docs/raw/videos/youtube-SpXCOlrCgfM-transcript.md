@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=SpXCOlrCgfM
+title: YouTube Transcript: What Happens When a Shipping Container Falls Off a Ship
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=SpXCOlrCgfM-transcript
 source_type: video
-ingested: 2026-08-26
-published: 2026-08-26
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 018e21231ae7192488db4fff278dd3c5f0476eb4078be2f43e174a6a1f640bc8
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Happens When a Shipping Container Falls Off a Ship
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=4rmkiGMknpg
+title: YouTube Transcript: Can Meta Actually Survive This?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=4rmkiGMknpg-transcript
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
-duration_minutes: 19
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: d74da53cb9876e16cedac5c761e5a1db6fb159542a75b37a2d362f274dccc56b
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Can Meta Actually Survive This?
 

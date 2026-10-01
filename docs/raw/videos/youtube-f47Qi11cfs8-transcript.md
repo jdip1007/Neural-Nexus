@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=f47Qi11cfs8
+title: YouTube Transcript: Germany has hit rock bottom...
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=f47Qi11cfs8-transcript
 source_type: video
-ingested: 2026-08-20
-published: 2026-08-20
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: be0ca143c69f1689d512d79f698395671dce1b5347378e81373f6d52bbe7c807
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Germany has hit rock bottom...
 

@@ -25,9 +25,9 @@ This video provides an in-depth analysis of the satisfying downfall of nas daily
 - **Nas-Daily**: [[youtube-gcx2jMbBGY4-nas-daily]]
 
 ## Related Concepts
-- [[media]]
-- [[internet-culture]]
-- [[youtube]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 

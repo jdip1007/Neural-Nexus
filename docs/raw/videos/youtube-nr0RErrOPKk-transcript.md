@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=nr0RErrOPKk
+title: YouTube Transcript: Video 7a: Unlocking Duration and Note Objects in music21
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=nr0RErrOPKk-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: dc2a871bcdbf4fd9c989c9ce2d00eb004c3cebb04b53857c201e3ffb6c7f3020
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 7a: Unlocking Duration and Note Objects in music21
 

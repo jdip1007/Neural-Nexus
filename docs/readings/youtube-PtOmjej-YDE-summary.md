@@ -67,8 +67,8 @@ mainly keep it just to keep up with relatives.
 
 ## See also
 
-- [[algorithm]]
-- [[architecture]]
+- 
+- 
 - [[youtube-PtOmjej-YDE-cambridge-analytica]]
 - [[youtube-PtOmjej-YDE-dead-internet]]
 - [[youtube-PtOmjej-YDE-if-facebook]]

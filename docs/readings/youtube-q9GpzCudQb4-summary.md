@@ -45,7 +45,7 @@ have to figure out a new way to do business
 ## Related Concepts
 - [api](concepts/api.md)
 - [ai](concepts/ai.md)
-- [[llm]]
+- 
 - [algorithm](concepts/algorithm.md)
 
 ## Transcript Highlights
@@ -63,7 +63,7 @@ wanting to maintain a hands off approach.
 
 ## See also
 
-- [[algorithm]]
+- 
 - [[youtube-q9GpzCudQb4-brothers-ltd]]
 - [[youtube-q9GpzCudQb4-even-assassin]]
 - [[youtube-q9GpzCudQb4-the-assassin]]

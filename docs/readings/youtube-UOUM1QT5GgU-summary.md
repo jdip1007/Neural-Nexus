@@ -44,9 +44,9 @@ which essentially made it look bigger than it was
 - **Persons**: Surprising Facts, Small Dark, Great Dark
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > Scientists believe these giant magnetic bubbles 

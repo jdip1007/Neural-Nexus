@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ibxThoss0fg
+title: YouTube Transcript: ignorance is bliss
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ibxThoss0fg-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 4dd14148089d3307194c2a5172bc4b58082973fb25b5b841bb5952ff927fa6de
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: ignorance is bliss
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=JneQrFoLq18
+title: YouTube Transcript: Class 2 Video: Representation of Notes, Pitches, and Durations
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=JneQrFoLq18-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 62
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: e198e52a30ea0079ae9035a8e77598a62aa51c22f9a8074de0fc910811be2cf8
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Class 2 Video: Representation of Notes, Pitches, and Durations
 

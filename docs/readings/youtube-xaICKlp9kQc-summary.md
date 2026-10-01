@@ -51,7 +51,7 @@ This video discusses How Years Of Gaming Affects Your Brain
 
 ## See also
 
-- [[mental-health]]
+- 
 - [[youtube-17rJSSzto4U-how-to]]
 - [[youtube-5rFIcsi9EVc-to-your]]
 - [[youtube-5rFIcsi9EVc-what-does]]

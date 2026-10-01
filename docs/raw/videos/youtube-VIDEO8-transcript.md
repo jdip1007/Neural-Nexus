@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=VIDEO8
+title: Video Transcript
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=VIDEO8-transcript
 source_type: video
-ingested: 2026-09-19
-published: 2024-01-15
-duration_minutes: 10
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: mock_hash
-time_sensitive: false
+time_sensitive: True
 ---
+
 
 # Video Transcript
 

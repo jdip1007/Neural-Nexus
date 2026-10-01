@@ -25,9 +25,9 @@ This video provides an in-depth analysis of reliable isn't always better: tcp vs
 - **Tcp-Udp**: [[youtube-XyZ123abc456-tcp-udp]]
 
 ## Related Concepts
-- [[technology]]
-- [[computer-science]]
-- [[networking]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 

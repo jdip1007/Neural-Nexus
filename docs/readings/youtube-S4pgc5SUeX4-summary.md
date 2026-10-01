@@ -25,7 +25,7 @@ This video discusses What Happened To Kwebbelkop AI...
 - **Persons**: What Happened, To Kwebbelkop
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

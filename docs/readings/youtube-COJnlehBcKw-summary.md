@@ -42,7 +42,7 @@ This video discusses Ultimate LED Effects: New Software and Hardware!
 
 ## See also
 
-- [[hardware]]
+- 
 - youtube-6BOxK-JrghY-the-work
 - [[youtube-7HF6UuVdihA-the-big]]
 - [[youtube-COJnlehBcKw-audio-level]]

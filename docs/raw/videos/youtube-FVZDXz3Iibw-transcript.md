@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=FVZDXz3Iibw
+title: YouTube Transcript: How Much Of Our Economy Is Just Keeping Boomers Alive?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=FVZDXz3Iibw-transcript
 source_type: video
-ingested: 2026-08-26
-published: 2026-08-26
-duration_minutes: 16
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: de02e15970eb0948ad14d4a92226d11047ebee55d4ba85fd303b76191fd9a80a
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Much Of Our Economy Is Just Keeping Boomers Alive?
 

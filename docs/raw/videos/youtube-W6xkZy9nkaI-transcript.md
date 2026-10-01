@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=W6xkZy9nkaI
+title: YouTube Transcript: Canada Is Joining The EU... But WTF Does That Even Mean?!
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=W6xkZy9nkaI-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 16
+published: recent
+duration_minutes: 20
 language: en
-sha256: fd2f9e8fd64eb393798b94d98d4c0a09abb22ce6ed5371d672ed93e28b760a4c
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Canada Is Joining The EU... But WTF Does That Even Mean?!
 

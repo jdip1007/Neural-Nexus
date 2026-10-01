@@ -95,8 +95,8 @@ so you can keep on learning how money works
 - **Persons**: Slips Away, Apprentice Tradesmen, Federal Reserve
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > much until they are fully qualified and even then 

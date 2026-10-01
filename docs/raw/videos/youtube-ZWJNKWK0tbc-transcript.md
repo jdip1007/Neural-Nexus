@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ZWJNKWK0tbc
+title: YouTube Transcript: Every Generation Explained in 10 minutes
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ZWJNKWK0tbc-transcript
 source_type: video
-ingested: 2026-09-16
-published: 2026-09-16
-duration_minutes: 10
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 41d62c723f20660995b33acce364afe9c7d767d3aa24a5957b85a8f31b54b263
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Every Generation Explained in 10 minutes
 

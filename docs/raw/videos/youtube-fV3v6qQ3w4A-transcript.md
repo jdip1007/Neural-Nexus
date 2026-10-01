@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=fV3v6qQ3w4A
+title: YouTube Transcript: 1.3.1 Well Ordering Principle 1: Video
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=fV3v6qQ3w4A-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 5
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: d45d41dfc04df62fd90b013d5559c0c308a90f15bec61e2d7c23c7688b3affa6
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: 1.3.1 Well Ordering Principle 1: Video
 

@@ -29,7 +29,7 @@ This video discusses Video 10: Point of View
 - **Persons**: Isamu Noguchi
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=y_woFP79F0Q
+title: YouTube Transcript: Living with Confidence & Going All In - Matthew McConaughey (4K)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=y_woFP79F0Q-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 117
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: e06786fabc8ddf7b3fede104dae7f25e427347a50a22b64f0749d2276a3d1afd
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Living with Confidence & Going All In - Matthew McConaughey (4K)
 

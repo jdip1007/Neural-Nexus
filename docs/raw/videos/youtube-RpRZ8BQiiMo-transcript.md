@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=RpRZ8BQiiMo
+title: YouTube Transcript: Windows Longhorn Explained by Dave Plummer - Retired Microsoft Engineer
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=RpRZ8BQiiMo-transcript
 source_type: video
-ingested: 2026-08-16
-published: 2026-08-16
-duration_minutes: 23
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1c81051147be06c710a3889a48048da2ea805ecd0d78084328fb9cac8401876d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Windows Longhorn Explained by Dave Plummer - Retired Microsoft Engineer
 

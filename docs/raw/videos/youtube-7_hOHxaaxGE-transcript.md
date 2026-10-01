@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=7_hOHxaaxGE
+title: YouTube Transcript: Video 13: Use Your Imagination
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=7_hOHxaaxGE-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 3
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 579cc14027164d5e96ed1afb67f48d15f5de4b5d522c59679dd2b841327f223c
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 13: Use Your Imagination
 

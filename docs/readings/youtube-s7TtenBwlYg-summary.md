@@ -47,11 +47,11 @@ our work a little bit wrong
 - **Persons**: David Huron, Von Hippel, New England
 
 ## Related Concepts
-- [[machine-learning]]
-- [[api]]
-- [[ai]]
-- [[deep-learning]]
-- [[artificial-intelligence]]
+- 
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > by Giovanni Palestrina, one of

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=01-QTmyvEI8
+title: YouTube Transcript: The Satisfying Downfall of OnlyJayus
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=01-QTmyvEI8-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 25
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 349b18c4a1d309191ef516d07e843e11a627ab9d07b3b897d0c200214883f360
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Satisfying Downfall of OnlyJayus
 

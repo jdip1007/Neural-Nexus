@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=DSA4VFdqELg
+title: YouTube Transcript: Reliable Isn’t Always Better: TCP vs UDP
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=DSA4VFdqELg-transcript
 source_type: video
-ingested: 2026-09-15
-published: 2026-09-15
-duration_minutes: 11
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 2f1c977f6dd1239e9a0c388c0aebba89a397c13025a722850e6848e969dc026d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Reliable Isn’t Always Better: TCP vs UDP
 

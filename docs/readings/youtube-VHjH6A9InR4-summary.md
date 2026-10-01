@@ -43,7 +43,7 @@ looks like rather than what it might encode
 - **Persons**: Craig Sapp, Rosetta Stone, Craig Stewart
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > It has key signature,

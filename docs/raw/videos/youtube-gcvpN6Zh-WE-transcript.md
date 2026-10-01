@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=gcvpN6Zh-WE
+title: YouTube Transcript: Have Sports Became A Big Dumb Investment Bubble?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=gcvpN6Zh-WE-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 19
+published: recent
+duration_minutes: 20
 language: en
-sha256: b3df11b21609ff1551f0eaf166f2dcde8dafab7d01a0aba087b6b64185c157fd
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Have Sports Became A Big Dumb Investment Bubble?
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=DhNcClbtcRg
+title: YouTube Transcript: 19kills with chikan dinar..🔥🔥' pubg mobile.. bangladesh/// noobsadi gaming
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=DhNcClbtcRg-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5ad8a8cb238e25e57e9ba62e96d191102d38de9e8e14fbf175feb058e5f196a1
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: 19kills with chikan dinar..🔥🔥' pubg mobile.. bangladesh/// noobsadi gaming
 

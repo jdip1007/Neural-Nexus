@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=F91uY7QiZUs
+title: YouTube Transcript: The Collapse of AI Software Engineering
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=F91uY7QiZUs-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 19
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: fcea381e2397858e48b5931fea83e03fe0cb9a18d0a4030504bde9e385ee8e88
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Collapse of AI Software Engineering
 

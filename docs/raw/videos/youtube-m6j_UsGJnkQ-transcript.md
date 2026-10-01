@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=m6j_UsGJnkQ
+title: YouTube Transcript: How EVE Online's Massive Virtual Wars Are Financed
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=m6j_UsGJnkQ-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 9
+published: recent
+duration_minutes: 20
 language: en
-sha256: e974fdaeff4111ace0a83735d9cce0e554c6f5dfbc98b0279308163935bac824
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How EVE Online's Massive Virtual Wars Are Financed
 

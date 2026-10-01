@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=uHiwUL8l5bM
+title: YouTube Transcript: How Much Money I Made on YouTube After Gaining 100,000 Subscribers In A Month - How Money Works
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=uHiwUL8l5bM-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 0
+published: recent
+duration_minutes: 20
 language: en
-sha256: df185111857676c5939549a7f3ba84a0fdbf6b5c5722d9b20a7a62a6e123f4b1
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Much Money I Made on YouTube After Gaining 100,000 Subscribers In A Month - How Money Works
 

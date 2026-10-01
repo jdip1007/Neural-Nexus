@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=s7TtenBwlYg
+title: YouTube Transcript: Class 31 Video: Music Visualization and Optical Music Recognition
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=s7TtenBwlYg-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 54
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3430abaae59aec4cba201106fef90e366a39d300bafa9d2ee1d29f4c991f23b4
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Class 31 Video: Music Visualization and Optical Music Recognition
 

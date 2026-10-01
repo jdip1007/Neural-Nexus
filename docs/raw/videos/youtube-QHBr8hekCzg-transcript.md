@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=QHBr8hekCzg
+title: YouTube Transcript: NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway Monitor
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=QHBr8hekCzg-transcript
 source_type: video
-ingested: 2026-09-30
-published: 2026-09-30
-duration_minutes: 13
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6f4e2bff4e919bb47629ba2d74f4686cef5917a8d5401487e722336fc06b75e6
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway Monitor
 

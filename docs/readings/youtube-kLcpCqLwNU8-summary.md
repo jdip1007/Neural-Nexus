@@ -38,8 +38,8 @@ This video discusses Autism Works - Neurodiversity in the Workplace
 - **Persons**: Captain Bob, Bill Gates, Autistic Millionaire
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > important transition. Fuel calculations

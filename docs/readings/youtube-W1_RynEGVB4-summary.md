@@ -42,9 +42,9 @@ of tips but Fisher has remained elusive
 - **Persons**: Terrify Even, Trident Aquatic, New York
 
 ## Related Concepts
-- [[ai]]
-- [[database]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > Benson of North Carolina had almost killed one of 

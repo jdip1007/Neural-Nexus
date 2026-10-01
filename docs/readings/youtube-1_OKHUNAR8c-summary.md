@@ -37,7 +37,7 @@ This video discusses Andrew Tate's Life Is Falling Apart
 - **Persons**: The Matrix, British American, Elon Musk
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > >> One of my main chicks is 200,000

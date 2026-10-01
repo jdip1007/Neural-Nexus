@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=6uTZWbGLtjw
+title: YouTube Transcript: Video 6uTZWbGLtjw
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=6uTZWbGLtjw-transcript
 source_type: video
-ingested: 2026-09-06
-published: 2026-09-06
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5004f69770e5f9d239944640291e87032c16864ee190612836615e481ca14e5a
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 6uTZWbGLtjw
 

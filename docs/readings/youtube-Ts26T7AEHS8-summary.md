@@ -42,9 +42,9 @@ said, "We'll figure that out later
 - **Persons**: The American, United States, Development Fund
 
 ## Related Concepts
-- [[framework]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > it's important to actually read the words of this 

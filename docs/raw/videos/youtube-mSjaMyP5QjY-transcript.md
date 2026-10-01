@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=mSjaMyP5QjY
+title: YouTube Transcript: AI DEBATE: “Most People Have No Idea What’s Coming”
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=mSjaMyP5QjY-transcript
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
-duration_minutes: 162
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: f33136126d17fa2aa8a213d47ae8ea3fe18f7ea43d024042b4064bfd32fbe8ce
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: AI DEBATE: “Most People Have No Idea What’s Coming”
 

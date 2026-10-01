@@ -41,7 +41,7 @@ at the time determined that only 0
 - **Persons**: Black Death, World War, The Black
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > Sometimes, bodies of the deceased remained

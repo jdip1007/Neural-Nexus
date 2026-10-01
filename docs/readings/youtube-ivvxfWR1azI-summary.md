@@ -45,11 +45,11 @@ essential one, I think
 - **Persons**: English Folk, On Friday, Maple Leaf
 
 ## Related Concepts
-- [[machine-learning]]
-- [[api]]
-- [[algorithm]]
-- [[cloud]]
-- [[ai]]
+- 
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > a very useful way to

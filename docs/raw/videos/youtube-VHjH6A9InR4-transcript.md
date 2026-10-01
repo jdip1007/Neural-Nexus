@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=VHjH6A9InR4
+title: YouTube Transcript: Video 6b: Representations of Ontologies: Craig Sapp’s Rosetta Stone
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=VHjH6A9InR4-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 16
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5431ca7d3562358a2d856fdf453eb876bfa28e646479fb41c7c6a95131399059
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 6b: Representations of Ontologies: Craig Sapp’s Rosetta Stone
 

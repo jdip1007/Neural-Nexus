@@ -60,7 +60,7 @@ become one of the most valuable technological
 
 ## See also
 
-- [[cloud]]
+- 
 - [[youtube-BPnIYS35Fhk-big-tech]]
 - [[youtube-BPnIYS35Fhk-billion-burn]]
 - [[youtube-BPnIYS35Fhk-bubble-just]]

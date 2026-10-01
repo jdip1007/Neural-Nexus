@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=WNSZ6xouNv4
+title: YouTube Transcript: Get Addicted to Improving Your Life - David Goggins
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=WNSZ6xouNv4-transcript
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
-duration_minutes: 9
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 060915eb006f7bbdf19c9bc9d7f3bb4fc84f7782bb670b31b415e8d9269f18b2
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Get Addicted to Improving Your Life - David Goggins
 

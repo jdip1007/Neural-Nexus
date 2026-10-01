@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=uWYKdkwNVYE
+title: YouTube Transcript: It's Not the Economy You Should Be Watching. It's the POPULATION
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=uWYKdkwNVYE-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 13
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 013c1829e9977a5b3a49d0271219ecd546e845a45bf7223117db15603e3fea8d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: It's Not the Economy You Should Be Watching. It's the POPULATION
 

@@ -40,9 +40,9 @@ infranchisement remains as was one person, one vote
 - **Persons**: United States, Google Slides, Big Short
 
 ## Related Concepts
-- [[database]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > tariffs took effect so they could remain cost 

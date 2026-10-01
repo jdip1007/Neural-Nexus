@@ -29,8 +29,8 @@ This video discusses WTF Is Happening To The Video Game Industry?
 - **Persons**: Among Us, Works Media, Smoothie King
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > wider selection of independent new releases at 

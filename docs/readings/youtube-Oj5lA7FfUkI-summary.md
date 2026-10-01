@@ -33,7 +33,7 @@ This video discusses I Watch Your Videos But Never Change My Life
 ## Entities Mentioned
 
 ## Related Concepts
-- [[llm]]
+- 
 - [ai](concepts/ai.md)
 - [api](concepts/api.md)
 

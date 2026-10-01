@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=qSNTtA7gXOA
+title: YouTube Transcript: Inside a Massive 1980s Hard Drive: 14 Inches of Fury!
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=qSNTtA7gXOA-transcript
 source_type: video
-ingested: 2026-09-19
-published: 2026-09-19
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 2fb5a77f9618fd4eeae0f6021e79200ec6d3d477e1754bf0a45c085ed48c9076
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Inside a Massive 1980s Hard Drive: 14 Inches of Fury!
 

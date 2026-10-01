@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Das4psjipJo
+title: YouTube Transcript: What if the World Wars Never Happened And Other Insane Scenarios (Compilation)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Das4psjipJo-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 225
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 73c9cd4a90ccdfb4e2b4f075a2945ce010b78abba07fc610b3fa3e0958b95e35
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What if the World Wars Never Happened And Other Insane Scenarios (Compilation)
 

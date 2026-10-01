@@ -49,7 +49,7 @@ This video discusses How To Get On Love Island | The Application Guide
 
 ## See also
 
-- [[mental-health]]
+- 
 - [[youtube-17rJSSzto4U-how-to]]
 - [[youtube-7HF6UuVdihA-the-big]]
 - [[youtube-D4nPxik59oE-the-cold]]

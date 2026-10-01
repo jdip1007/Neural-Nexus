@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ePwo3P1iZO4
+title: YouTube Transcript: The "Do Anything" Chip: FPGA
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ePwo3P1iZO4-transcript
 source_type: video
-ingested: 2026-08-29
-published: 2026-08-29
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 66dc0a64fd5fea66e7d5eecc5e916b514bbb8bfd84d1c5ad0942733ea1ccd87d
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The "Do Anything" Chip: FPGA
 

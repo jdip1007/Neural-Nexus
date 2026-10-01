@@ -33,8 +33,8 @@ This video discusses Siren Head - EXPLAINED
 - **Persons**: Elon Musk, Russian Sleep, When Sirenhead
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=aPyFM0Cav4M
+title: YouTube Transcript: Why Gen Z DON'T WANT Kids
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=aPyFM0Cav4M-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 18
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: e5a5df76c613730a4c292e9bee90ba52a100dd27b1e9d63dfbe71dc4614f0a74
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Gen Z DON'T WANT Kids
 

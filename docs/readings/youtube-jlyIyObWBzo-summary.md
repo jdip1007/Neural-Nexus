@@ -63,8 +63,8 @@ remained locked behind security walls.
 
 ## See also
 
-- [[algorithm]]
-- [[cloud]]
+- 
+- 
 - [[youtube-Das4psjipJo-national-institute]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-jlyIyObWBzo-in-august]]

@@ -1,12 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=gcx2jMbBGY4
+title: YouTube Transcript: The Satisfying Downfall of Nas Daily
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=gcx2jMbBGY4-transcript
 source_type: video
 ingested: 2026-10-01
-published: Unknown
+published: recent
 duration_minutes: 20
 language: en
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Satisfying Downfall of Nas Daily
 

@@ -145,8 +145,8 @@ money works
 - **Persons**: Billy Billy, Mr Beast, Legacy Media
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > split ad Revenue but it remains very

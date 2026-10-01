@@ -36,7 +36,7 @@ only way to ensure Germany's spot of power was through war
 - **Persons**: World War, Kaiser Wilhelm, Gavrilo Princip
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > The two main sides of the war were the Central

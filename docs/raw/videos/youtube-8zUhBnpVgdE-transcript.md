@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=8zUhBnpVgdE
+title: YouTube Transcript: Most Viewed The Infographics Show Videos (Compilation)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=8zUhBnpVgdE-transcript
 source_type: video
-ingested: 2026-08-13
-published: 2026-08-13
-duration_minutes: 181
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: f36bcbe280f7b85208c3b6c4e0ee30d5d40ab1a38dff4fb5483ae0817d01bdbc
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Most Viewed The Infographics Show Videos (Compilation)
 

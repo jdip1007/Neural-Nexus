@@ -32,8 +32,8 @@ This video discusses Why Most People Are Actually "Too Good" For Their Job
 - **Persons**: Tesla Model, Census Bureau, Groundhog Day
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > sprung up to maintain this dream has

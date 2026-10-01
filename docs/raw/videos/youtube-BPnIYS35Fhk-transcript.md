@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=BPnIYS35Fhk
+title: YouTube Transcript: Smartphone makers are panicking...
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=BPnIYS35Fhk-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 870e71f1c6a1573e41e27f8feab46a2fc12b06711910793a46d9ba3db0024405
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Smartphone makers are panicking...
 

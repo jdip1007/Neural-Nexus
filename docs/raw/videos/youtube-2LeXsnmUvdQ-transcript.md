@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=2LeXsnmUvdQ
+title: YouTube Transcript: What Happens To Your Body When Smoking Crack
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=2LeXsnmUvdQ-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 9
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 77828a3ac004801156271f5d3f82144dfe7a795921e917e3f859e421e7abeef1
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Happens To Your Body When Smoking Crack
 

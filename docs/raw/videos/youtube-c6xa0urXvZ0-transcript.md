@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=c6xa0urXvZ0
+title: YouTube Transcript: ESP32 Spectrum Analyzer
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=c6xa0urXvZ0-transcript
 source_type: video
-ingested: 2026-09-30
-published: 2026-09-30
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: b3b892ebaa8cd6c88e152351f1a2145e3359427ef43af3418ceaf1726750655b
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: ESP32 Spectrum Analyzer
 

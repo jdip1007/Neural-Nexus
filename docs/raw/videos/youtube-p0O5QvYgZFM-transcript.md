@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=p0O5QvYgZFM
+title: YouTube Transcript: The 7 Levels of YouTube Downfall
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=p0O5QvYgZFM-transcript
 source_type: video
-ingested: 2026-08-24
-published: 2026-08-24
+ingested: 2026-10-01
+published: recent
 duration_minutes: 20
 language: en
-sha256: ac0a303fc5184f47ff2a7f1b1eb86b6c500729c21cf80748c1e3c6b594642a10
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The 7 Levels of YouTube Downfall
 

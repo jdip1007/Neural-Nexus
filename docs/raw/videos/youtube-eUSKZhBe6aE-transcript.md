@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=eUSKZhBe6aE
+title: YouTube Transcript: How To Get On Love Island | The Application Guide
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=eUSKZhBe6aE-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 16
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 8d25d38a5ad3f5128b90837a101cb74c8b561d5cc15ca69cea61108b9d51a009
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How To Get On Love Island | The Application Guide
 

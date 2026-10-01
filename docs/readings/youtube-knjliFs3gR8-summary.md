@@ -42,7 +42,7 @@ piece of intelligence or evidence had been secured
 - **Persons**: Seal Team, Black Hawk, Barack Obama
 
 ## Related Concepts
-- [[artificial_intelligence]]
+- 
 
 ## Transcript Highlights
 > wrong, top US troops would either be killed

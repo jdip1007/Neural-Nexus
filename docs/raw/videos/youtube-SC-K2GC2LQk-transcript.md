@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=SC-K2GC2LQk
+title: YouTube Transcript: Class 28 Video: Feature Extraction and Machine Learning (II)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=SC-K2GC2LQk-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 51
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 404f2669ea95474ad409fc3b2df96f036f9b516ca07f57f5adfbd8fec5dcf5ba
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Class 28 Video: Feature Extraction and Machine Learning (II)
 

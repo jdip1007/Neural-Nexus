@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=QTTCqGtT6I4
+title: YouTube Transcript: CANBUS – Networking so simple, even YOU can understand it!
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=QTTCqGtT6I4-transcript
 source_type: video
-ingested: 2026-09-15
-published: 2026-09-15
-duration_minutes: 23
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 2231a95157e28b6f3297b197e2c4f11c8327513af7bc9444162c504a3a37b4fa
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: CANBUS – Networking so simple, even YOU can understand it!
 

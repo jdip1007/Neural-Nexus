@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=PtOmjej-YDE
+title: YouTube Transcript: You NEED to STOP Using Meta Right NOW. The Collapse JUST Began.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=PtOmjej-YDE-transcript
 source_type: video
-ingested: 2026-08-20
-published: 2026-08-20
-duration_minutes: 21
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 4b2771042bda8f979d51ab44fccf22828672767a53ecf85d9d362dbfb900082a
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: You NEED to STOP Using Meta Right NOW. The Collapse JUST Began.
 

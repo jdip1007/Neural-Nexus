@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Unzc731iCUY
+title: YouTube Transcript: How to Speak
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Unzc731iCUY-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 63
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1cc474c1bf5348e04e0607f1bca36ca463ec0f40cd834b133f5240510edb4021
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How to Speak
 

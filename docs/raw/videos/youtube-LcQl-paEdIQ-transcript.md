@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=LcQl-paEdIQ
+title: YouTube Transcript: SaltEMike Reacts - PREDATORY MONETIZATION OF GAMES
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=LcQl-paEdIQ-transcript
 source_type: video
-ingested: 2026-08-26
-published: 2026-08-26
-duration_minutes: 13
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: efb315fd8414f3445b8cb91e37a7904c6014af2191286cc10561216e1e972e1a
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: SaltEMike Reacts - PREDATORY MONETIZATION OF GAMES
 

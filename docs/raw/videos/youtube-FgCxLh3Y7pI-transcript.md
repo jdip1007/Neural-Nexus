@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=FgCxLh3Y7pI
+title: YouTube Transcript: Video 7b: Streams as Hierarchies: Types of Containers in music21
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=FgCxLh3Y7pI-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 1
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: ceea588efcd6fed65934ffe34e3de671cbc90653fc945e1e8e541122622398e3
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 7b: Streams as Hierarchies: Types of Containers in music21
 

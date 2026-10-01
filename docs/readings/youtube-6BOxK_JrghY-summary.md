@@ -31,7 +31,7 @@ This video discusses "Dude I'm Broke" Why Is My Data Worth Harvesting?
 ## Related Concepts
 - [ai](concepts/ai.md)
 - [algorithm](concepts/algorithm.md)
-- [[database]]
+- 
 - [api](concepts/api.md)
 
 ## Transcript Highlights
@@ -47,7 +47,7 @@ This video discusses "Dude I'm Broke" Why Is My Data Worth Harvesting?
 
 ## See also
 
-- [[algorithm]]
+- 
 - youtube-6BOxK-JrghY-my-radar
 - youtube-6BOxK-JrghY-sam-altman
 - youtube--W3qPymBEBA-wall-street

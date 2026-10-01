@@ -25,9 +25,9 @@ This video provides an in-depth analysis of ethernet explained so well that even
 - **Ethernet**: [[youtube-def456ghi789-ethernet]]
 
 ## Related Concepts
-- [[technology]]
-- [[computer-science]]
-- [[networking]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 

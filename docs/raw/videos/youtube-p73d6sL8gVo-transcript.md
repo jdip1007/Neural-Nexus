@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=p73d6sL8gVo
+title: YouTube Transcript: Why Are We Doing This To Canada?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=p73d6sL8gVo-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 16
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3c43f7bb67ac260d0a7705d269b9b6c5850d25d49c17abbf2f64a221a0d81407
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Are We Doing This To Canada?
 

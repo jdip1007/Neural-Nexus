@@ -44,8 +44,8 @@ make when treating a pathogen is to identify if it is a virus or a bacteria
 - **Persons**: Deadliest Plague, Why Would, Why Spanish
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > the environment, it can pass on genetic information,

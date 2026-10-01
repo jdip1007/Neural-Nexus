@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=D4nPxik59oE
+title: YouTube Transcript: The Horrors of Unit 731
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=D4nPxik59oE-transcript
 source_type: video
-ingested: 2026-08-08
-published: 2026-08-08
-duration_minutes: 8
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: d8a2a74e206a8182ddb05e237f40fa2600deb48cfc657ceb7df6c5deabc150e8
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Horrors of Unit 731
 

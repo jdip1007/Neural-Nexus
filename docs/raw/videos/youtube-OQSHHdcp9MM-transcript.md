@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=OQSHHdcp9MM
+title: YouTube Transcript: Why Did Hitler Hate Jews
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=OQSHHdcp9MM-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 43
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: ba6dd1c44ca68d45e8013ba26a5ab81c176377ca1407c6df7626f73ad781f637
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Did Hitler Hate Jews
 

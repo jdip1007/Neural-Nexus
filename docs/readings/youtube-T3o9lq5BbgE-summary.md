@@ -32,9 +32,9 @@ This video discusses How Clara Dao Lost Her Entire Audience In 3 Days…
 - **Persons**: The Surprising, In June, In October
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
-- [[algorithm]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > importantly, the message of this video

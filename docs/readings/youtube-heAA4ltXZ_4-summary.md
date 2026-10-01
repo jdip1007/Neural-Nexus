@@ -36,8 +36,8 @@ This video discusses YouTubers Who Destroyed Their Career With 1 Video
 - **Organizations**: Hand Foundation
 
 ## Related Concepts
-- [[api]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > his main Channel however his luck would

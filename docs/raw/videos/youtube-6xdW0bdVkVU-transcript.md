@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=6xdW0bdVkVU
+title: YouTube Transcript: Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=6xdW0bdVkVU-transcript
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
-duration_minutes: 116
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 16e3800befe26b766505c720eccc04038556d66b8b6dd62b451de16880f40195
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlman
 

@@ -36,7 +36,7 @@ This video discusses Jonah Hill's Life Is Falling Apart
 - **Persons**: Richard Feldstein, Michael Sarah, David Mkin
 
 ## Related Concepts
-- [[llm]]
+- 
 - [api](concepts/api.md)
 - [ai](concepts/ai.md)
 - transformer

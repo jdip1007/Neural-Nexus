@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=5XyslxsPLQ4
+title: YouTube Transcript: We (Still) Don't Know How Epstein Got So Rich...
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=5XyslxsPLQ4-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 22
+published: recent
+duration_minutes: 20
 language: en
-sha256: a5fd5b4cbeb6c678fb323dd1be8562045d75eba75bc8d2c6271a147d5c3b697f
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: We (Still) Don't Know How Epstein Got So Rich...
 

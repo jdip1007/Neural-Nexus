@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=haZ5gddlQ4g
+title: YouTube Transcript: How a $20 AI is Replacing $235,000 Lawyers
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=haZ5gddlQ4g-transcript
 source_type: video
-ingested: 2026-08-23
-published: 2026-08-23
-duration_minutes: 13
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 1c9af14663470187d7f347c38f35514384b508aae874db8fbde5bc584b3e0b51
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How a $20 AI is Replacing $235,000 Lawyers
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=NqtYZJSGeEY
+title: YouTube Transcript: The Problem With Weed…
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=NqtYZJSGeEY-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 8
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 75c11753006a8571b3282072e6cbd3156319be736fe87a20f9b34ec1dc15c895
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Problem With Weed…
 

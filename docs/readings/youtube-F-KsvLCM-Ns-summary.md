@@ -41,8 +41,8 @@ the same key signature
 - **Persons**: Professor Cuthbert, Does Bach, In Bach
 
 ## Related Concepts
-- [[container]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > And then what's inside

@@ -40,6 +40,6 @@ This video discusses The Betrayal of JCS - Criminal Psychology
 
 ## See also
 
-- [[criminal-psychology]]
-- [[psychology]]
+- 
+- 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

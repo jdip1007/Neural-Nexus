@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=FONevEIeDxE
+title: YouTube Transcript: Why Kai Cenat Is Becoming So Hated
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=FONevEIeDxE-transcript
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
-duration_minutes: 25
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: a5ab24b985cfd36db0069ee4fcf80b7ebdf0616233f43cd69cb6d2a584675bd0
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Kai Cenat Is Becoming So Hated
 

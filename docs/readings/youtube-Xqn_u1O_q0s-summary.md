@@ -36,7 +36,7 @@ probably important people
 - **Persons**: New Roman, Selfridge Field
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > what the main conclusions

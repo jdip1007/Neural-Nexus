@@ -50,8 +50,8 @@ This video discusses The Dark History of Zip Files
 
 ## See also
 
-- [[algorithm]]
-- [[programming]]
+- 
+- 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-YQQMF8ibxVw-when-you]]

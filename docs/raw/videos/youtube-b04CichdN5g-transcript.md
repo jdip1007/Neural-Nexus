@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=b04CichdN5g
+title: YouTube Transcript: Video 1: Expectations
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=b04CichdN5g-transcript
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
-duration_minutes: 5
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 98f92c3d1aa575510db3e6b2ab38792eac8b4a6da9371f3b1188c92250648970
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 1: Expectations
 

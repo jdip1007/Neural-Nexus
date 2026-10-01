@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=sC1qyauA5Jk
+title: YouTube Transcript: Insane Declassified CIA Secrets You Aren't Supposed to Know
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=sC1qyauA5Jk-transcript
 source_type: video
-ingested: 2026-08-25
-published: 2026-08-25
-duration_minutes: 57
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 31fe1b73b2ed6196aa9d9216ca0afd8824164b4abf9983be7aad36b887ba1455
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Insane Declassified CIA Secrets You Aren't Supposed to Know
 

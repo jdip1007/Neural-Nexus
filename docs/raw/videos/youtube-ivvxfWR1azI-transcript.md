@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ivvxfWR1azI
+title: YouTube Transcript: Class 27 Video: Feature Extraction and Machine Learning
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ivvxfWR1azI-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 70
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 49721cb0275fc516d39afb190c5d1208068c40b6292f9df51017711b3db317d6
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Class 27 Video: Feature Extraction and Machine Learning
 

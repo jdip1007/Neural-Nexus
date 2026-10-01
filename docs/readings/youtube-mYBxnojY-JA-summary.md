@@ -33,9 +33,9 @@ This video discusses Malloc is NOT Magic: Let's Build it to Learn What's Inside!
 - **Persons**: When Malo, But Malo, Mi Malik
 
 ## Related Concepts
-- [[ai]]
-- [[database]]
-- [[architecture]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > important pieces of plumbing in the

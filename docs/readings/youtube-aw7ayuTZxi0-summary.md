@@ -32,9 +32,9 @@ This video discusses How America Got So Good At Buying Sh*t
 - **Organizations**: National Institute
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
-- [[cloud]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > consume anymore and more importantly

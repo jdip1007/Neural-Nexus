@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ZwYrXkPJA1s
+title: YouTube Transcript: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ZwYrXkPJA1s-transcript
 source_type: video
-ingested: 2026-08-16
-published: 2026-08-16
-duration_minutes: 114
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 5b27252918482984f15b151634cb4f5294db63630bd957c33f0d8dc0429e4a1c
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr.
 

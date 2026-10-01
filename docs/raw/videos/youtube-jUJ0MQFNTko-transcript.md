@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=jUJ0MQFNTko
+title: YouTube Transcript: Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=jUJ0MQFNTko-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 214
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: cffb06d2dcd6bc4c565c6e1476968a5d14a0eb234b2a28b232063277ec5a7a55
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation)
 

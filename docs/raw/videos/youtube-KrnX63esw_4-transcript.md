@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=KrnX63esw_4
+title: YouTube Transcript: Tech billionaires are panicking...
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=KrnX63esw_4-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 96610fa3bd815360308b4e5daef9ad0ac62c39a013754b7b14a065179da5f522
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Tech billionaires are panicking...
 

@@ -27,7 +27,7 @@ This video discusses From Core Memory to the Internet: Amazing History of the PD
 
 ## Related Concepts
 - [api](concepts/api.md)
-- [[llm]]
+- 
 - [algorithm](concepts/algorithm.md)
 - [ai](concepts/ai.md)
 - [architecture](concepts/architecture.md)
@@ -45,11 +45,11 @@ This video discusses From Core Memory to the Internet: Amazing History of the PD
 
 ## See also
 
-- [[algorithm]]
-- [[architecture]]
-- [[engineering]]
-- [[hardware]]
-- [[networking]]
-- [[technology]]
+- 
+- 
+- 
+- 
+- 
+- 
 - [[youtube-17rJSSzto4U-steve-jobs]]
 - [[youtube-FVZDXz3Iibw-the-american]]

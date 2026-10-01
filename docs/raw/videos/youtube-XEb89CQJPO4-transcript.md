@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=XEb89CQJPO4
+title: YouTube Transcript: Why You Should Stop Watching YouTube (Yes, Even This Video)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=XEb89CQJPO4-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 10
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: a6d6c17f1ce15e770abd0bc0df01f2342f490bec9b9e05cec4ce543c5634556f
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why You Should Stop Watching YouTube (Yes, Even This Video)
 

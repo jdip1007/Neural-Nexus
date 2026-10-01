@@ -46,9 +46,9 @@ This video discusses The "Do Anything" Chip: FPGA
 
 ## See also
 
-- [[algorithm]]
-- [[cloud]]
-- [[hardware]]
-- [[market]]
-- [[programming]]
-- [[technology]]
+- 
+- 
+- 
+- 
+- 
+- 

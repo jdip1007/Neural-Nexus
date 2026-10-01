@@ -38,7 +38,7 @@ This video discusses The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Ri
 
 ## Related Concepts
 - [ai](concepts/ai.md)
-- [[database]]
+- 
 - [cloud](concepts/cloud.md)
 - [api](concepts/api.md)
 - large-language-model
@@ -56,4 +56,4 @@ This video discusses The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Ri
 
 ## See also
 
-- [[cloud]]
+- 

@@ -38,11 +38,11 @@ This video discusses The Controversial Flock Cameras Tracking Every Car — Full
 - **Persons**: Every Windows, Mission Impossible, Illinois Secretary
 
 ## Related Concepts
-- [[cloud]]
+- 
 - computer-vision
-- [[database]]
-- [[ai]]
-- [[algorithm]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > It's essentially an internet of things

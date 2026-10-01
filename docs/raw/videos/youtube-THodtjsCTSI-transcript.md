@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=THodtjsCTSI
+title: YouTube Transcript: Is America Chasing Away All Of Its Smart People?
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=THodtjsCTSI-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 21
+published: recent
+duration_minutes: 20
 language: en
-sha256: 284b9ddb90f989e68c693a75e671b25e5e29b546fd630050e8dcaafcd894e46a
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Is America Chasing Away All Of Its Smart People?
 

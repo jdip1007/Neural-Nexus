@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=W9mF-NOHatI
+title: YouTube Transcript: How Restoration Videos Are Faked
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=W9mF-NOHatI-transcript
 source_type: video
-ingested: 2026-09-29
-published: 2026-09-29
-duration_minutes: 6
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 7f7282afa709f1d44015cfa0f3cb4f5324edfaabc07e3530901e6abf7a934976
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: How Restoration Videos Are Faked
 

@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=CooJi1I6V1E
+title: YouTube Transcript: Video Game Addiction Overview | Episode 001
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=CooJi1I6V1E-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 9
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: f5d3e8383d7c58c8ba079276cef8862841cd092fbae2e272824ffcf088b69448
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video Game Addiction Overview | Episode 001
 

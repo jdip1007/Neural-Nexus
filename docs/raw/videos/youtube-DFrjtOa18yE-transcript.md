@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=DFrjtOa18yE
+title: YouTube Transcript: Hades: The Solution to Analysis Paralysis in Esports
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=DFrjtOa18yE-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 86491f07812596a311b4aa20804ad831531bbfdda8101f740a299822d09106f5
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Hades: The Solution to Analysis Paralysis in Esports
 

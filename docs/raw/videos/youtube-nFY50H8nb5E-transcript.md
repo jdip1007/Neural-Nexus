@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=nFY50H8nb5E
+title: YouTube Transcript: Flirting Kinda Sucks, Actually.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=nFY50H8nb5E-transcript
 source_type: video
-ingested: 2026-08-16
-published: 2026-08-16
-duration_minutes: 38
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 7495a43bd3471fd5f9db7b28950d74d3f895ce06bb1cac9e6995ba49cd056025
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Flirting Kinda Sucks, Actually.
 

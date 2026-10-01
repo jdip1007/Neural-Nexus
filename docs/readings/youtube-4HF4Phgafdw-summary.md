@@ -43,7 +43,7 @@ reasons we have the ocean conveyor belt of today
 - **Persons**: South America, The Meg, Shark Movie
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > been found. However, from the remains we do have, 

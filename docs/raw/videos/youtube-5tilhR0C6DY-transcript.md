@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=5tilhR0C6DY
+title: YouTube Transcript: What Caused the Roman Empire to Collapse
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=5tilhR0C6DY-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 17
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 6da26408817b80510ebbc250fc21d5168415fe1cd64f6f8c7330815903524c54
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: What Caused the Roman Empire to Collapse
 

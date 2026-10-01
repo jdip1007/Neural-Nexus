@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=1_OKHUNAR8c
+title: YouTube Transcript: Andrew Tate's Life Is Falling Apart
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=1_OKHUNAR8c-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 3b04ac2439e6671dd3b4492a509171b52ceed293167a9b288c9ec379dbe2187c
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Andrew Tate's Life Is Falling Apart
 

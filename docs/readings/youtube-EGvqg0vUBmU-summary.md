@@ -37,7 +37,7 @@ going to productivity in the recitations is important
 ## Entities Mentioned
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > ADRIAN: That is important that

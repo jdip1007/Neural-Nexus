@@ -52,8 +52,8 @@ This video discusses Bare Metal Programming - Booting From the Switches
 
 ## See also
 
-- [[algorithm]]
-- [[programming]]
+- 
+- 
 - [[youtube-17rJSSzto4U-how-to]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WNSZ6xouNv4-and-that]]

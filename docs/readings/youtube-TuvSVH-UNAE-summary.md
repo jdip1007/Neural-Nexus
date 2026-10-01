@@ -44,7 +44,7 @@ found themselves dealing with a rash of animal mutilations, mainly cattle
 - **Persons**: Lucille Ball, What Happened, Space Shuttle
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 > It’s rare for someone to play a key role in the 

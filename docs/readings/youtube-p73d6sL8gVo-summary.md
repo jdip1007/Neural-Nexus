@@ -40,8 +40,8 @@ the fact that they ship a lot of crude oil from their sands into America through
 - **Persons**: Trans Mountain, Gulf Coast, Street Journal
 
 ## Related Concepts
-- [[ai]]
-- [[container]]
+- 
+- 
 
 ## Transcript Highlights
 > private jet manufacturers because, well, you know, 

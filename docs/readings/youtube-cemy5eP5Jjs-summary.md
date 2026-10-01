@@ -38,11 +38,11 @@ This video discusses Most Insane The Infographics Show Videos of All Time (Compi
 - **Persons**: The Great, Number Four, Arthur Zimmerman
 
 ## Related Concepts
-- [[database]]
-- [[cloud]]
-- [[artificial-intelligence]]
-- [[api]]
-- [[ai]]
+- 
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > overhead 30 ft below the prison's main

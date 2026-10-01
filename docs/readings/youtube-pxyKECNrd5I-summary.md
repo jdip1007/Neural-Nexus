@@ -25,7 +25,7 @@ This video discusses John Conway's game of Life on ESP32
 - **Persons**: John Conway
 
 ## Related Concepts
-- [[ai]]
+- 
 
 ## Transcript Highlights
 

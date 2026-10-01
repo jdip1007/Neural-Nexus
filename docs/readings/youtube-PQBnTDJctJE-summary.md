@@ -44,9 +44,9 @@ structures of Hiroshima
 - **Persons**: Philippine Jungle, White Bluffs, Chicago Pile
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > at Los Alamos. The atomic bomb must 

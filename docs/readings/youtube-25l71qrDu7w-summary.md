@@ -40,9 +40,9 @@ systems are unknown
 - **Persons**: When Big, And Scandinavia, Phillip Morris
 
 ## Related Concepts
-- [[ai]]
-- [[cloud]]
-- [[api]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > hit, it's a psychological ritual. People find 

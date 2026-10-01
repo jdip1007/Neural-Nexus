@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=YiAqJs1KSCg
+title: YouTube Transcript: Video 9b: Introduction to MusicXML
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=YiAqJs1KSCg-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 11
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: c570d6f839dd4572515ff503f45699c57f0657e435f52d172779ec84e1912747
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 9b: Introduction to MusicXML
 

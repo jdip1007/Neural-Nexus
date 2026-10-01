@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=MTWXXupe2Ok
+title: YouTube Transcript: Man Receives Highest Dose of Nuclear Radiation And More Nuclear Videos (Compilation)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=MTWXXupe2Ok-transcript
 source_type: video
-ingested: 2026-09-28
-published: 2026-09-28
-duration_minutes: 182
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: ec4a3783402b72aefefefa5c3c7c08a67df6f5a6955b16d96b8f11377e84d612
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Man Receives Highest Dose of Nuclear Radiation And More Nuclear Videos (Compilation)
 

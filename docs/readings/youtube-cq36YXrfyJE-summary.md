@@ -45,7 +45,7 @@ infrastructure being used to track you
 - **Organizations**: Frontier Foundation
 
 ## Related Concepts
-- [[database]]
+- 
 - framework
 - data-science
 - [ai](concepts/ai.md)

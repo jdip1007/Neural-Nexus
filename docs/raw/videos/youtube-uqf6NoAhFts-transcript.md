@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=uqf6NoAhFts
+title: YouTube Transcript: The Job Market Has Changed... Again.
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=uqf6NoAhFts-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 13
+published: recent
+duration_minutes: 20
 language: en
-sha256: 47f7f7661e3df14f28e7d23bc58450127ac210dc5bd40781f57dd002a3139566
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Job Market Has Changed... Again.
 

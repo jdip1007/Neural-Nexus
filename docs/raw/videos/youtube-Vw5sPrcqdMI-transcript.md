@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Vw5sPrcqdMI
+title: YouTube Transcript: The Deserved Downfall of Jake Doolittle
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Vw5sPrcqdMI-transcript
 source_type: video
-ingested: 2026-09-01
-published: 2026-09-01
+ingested: 2026-10-01
+published: recent
 duration_minutes: 20
 language: en
-sha256: 9a0232c35c7fec90d034acb002d6a5385d33afcaebe9a6349a3b9ae42ebd7d66
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The Deserved Downfall of Jake Doolittle
 

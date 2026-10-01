@@ -43,10 +43,10 @@ what a membership does or does not mean on paper
 - **Persons**: Could Canada, United States, European Union
 
 ## Related Concepts
-- [[api]]
-- [[architecture]]
-- [[framework]]
-- [[ai]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > would have been if the country had remained 

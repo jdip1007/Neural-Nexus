@@ -44,10 +44,10 @@ that the type of the object is actually really important
 - **Persons**: Code Editor, Python Tutor, Alan Turing
 
 ## Related Concepts
-- [[cloud]]
-- [[api]]
-- [[ai]]
-- [[algorithm]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > to actually do some coding. And that's important-- I call them "you try it" breaks. That's important to make

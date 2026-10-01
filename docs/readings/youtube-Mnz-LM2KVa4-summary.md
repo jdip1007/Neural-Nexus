@@ -49,9 +49,9 @@ key-- putting in something a lot of times
 - **Persons**: Evan Ziporyn, Eran Egozy, Can All
 
 ## Related Concepts
-- [[ai]]
-- [[deep-learning]]
-- [[algorithm]]
+- 
+- 
+- 
 
 ## Transcript Highlights
 > going to do two really

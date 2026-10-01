@@ -40,10 +40,10 @@ This video discusses Insane Ways People Are Preparing for Doomsday And More Insa
 - **Organizations**: Odeco Inc, Extension Foundation
 
 ## Related Concepts
-- [[cloud]]
-- [[container]]
-- [[ai]]
-- [[api]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > maintain a vault that could contain

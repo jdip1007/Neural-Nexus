@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=k0ksj42YJaM
+title: YouTube Transcript: 9/11 Secrets They DON'T Want You to Know
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=k0ksj42YJaM-transcript
 source_type: video
-ingested: 2026-08-09
-published: 2026-08-09
-duration_minutes: 17
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 346e761a60043ed1225fb1f6488d31f321e7809e110323261b247723d1c53041
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: 9/11 Secrets They DON'T Want You to Know
 

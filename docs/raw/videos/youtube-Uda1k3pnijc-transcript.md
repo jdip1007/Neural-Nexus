@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Uda1k3pnijc
+title: YouTube Transcript: Class 17 Video: Introduction to Music Cognition
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Uda1k3pnijc-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 15
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: ed3d7f5835312d4de9135cbf7419eaca536763bbc795fa3dba07e7d7f621065e
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Class 17 Video: Introduction to Music Cognition
 

@@ -35,7 +35,7 @@ balances
 - **Persons**: Bar Alone, Most Expensive, This Is
 
 ## Related Concepts
-- [[artificial_intelligence]]
+- 
 
 ## Transcript Highlights
 > Again it is important to remember that the

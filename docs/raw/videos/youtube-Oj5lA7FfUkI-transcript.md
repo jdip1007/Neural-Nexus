@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=Oj5lA7FfUkI
+title: YouTube Transcript: I Watch Your Videos But Never Change My Life
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=Oj5lA7FfUkI-transcript
 source_type: video
-ingested: 2026-08-30
-published: 2026-08-30
-duration_minutes: 26
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 833c7de835e463c3dfc87245cafd587ee1a26d03f986212303e01a9694f1d9fc
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: I Watch Your Videos But Never Change My Life
 

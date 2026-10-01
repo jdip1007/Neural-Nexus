@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=XK95YfKnV-M
+title: YouTube Transcript: Pool Testing Video 5 (No Audio)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=XK95YfKnV-M-transcript
 source_type: video
-ingested: 2026-09-25
-published: 2026-09-25
-duration_minutes: 0
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: f63faa8df09876dd6bd40dbd4db5c3a9b315d5423b0e4b106ef155ae27b9a566
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Pool Testing Video 5 (No Audio)
 

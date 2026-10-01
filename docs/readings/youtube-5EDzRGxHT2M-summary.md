@@ -38,7 +38,7 @@ challenge at this point
 
 ## Related Concepts
 - [ai](concepts/ai.md)
-- [[database]]
+- 
 
 ## Transcript Highlights
 > It must also remain fairly stable in pricing.

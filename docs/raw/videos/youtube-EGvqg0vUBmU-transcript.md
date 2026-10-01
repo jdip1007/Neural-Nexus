@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=EGvqg0vUBmU
+title: YouTube Transcript: Video 4: The First Day
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=EGvqg0vUBmU-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 7
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: bab992c6835079c867593de39123e94e1536a7bc4df1d81c3a5c54aa9739cd70
-time_sensitive: False
+time_sensitive: True
 ---
+
 
 # YouTube Transcript: Video 4: The First Day
 

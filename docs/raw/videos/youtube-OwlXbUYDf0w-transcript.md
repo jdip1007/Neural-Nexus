@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=OwlXbUYDf0w
+title: YouTube Transcript: Why You Can’t Stop Scrolling (End-Stage Screen Addiction)
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=OwlXbUYDf0w-transcript
 source_type: video
-ingested: 2026-09-26
-published: 2026-09-26
-duration_minutes: 45
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 47d9d6d238e5babffb5d70e43b0a523edcf644e193d610aa69169a3641785807
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why You Can’t Stop Scrolling (End-Stage Screen Addiction)
 

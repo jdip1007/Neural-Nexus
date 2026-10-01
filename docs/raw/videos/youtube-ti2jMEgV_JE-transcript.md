@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=ti2jMEgV_JE
+title: YouTube Transcript: Why Most People Are Actually "Too Good" For Their Job
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=ti2jMEgV_JE-transcript
 source_type: video
 ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 12
+published: recent
+duration_minutes: 20
 language: en
-sha256: 55ffb32385377b6e95d528e46d7908e747469a3686016e3dd7e0fea2f29bfc35
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: Why Most People Are Actually "Too Good" For Their Job
 

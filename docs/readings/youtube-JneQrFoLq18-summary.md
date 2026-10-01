@@ -42,8 +42,8 @@ notation like the remainder when divided by 3 equals 0
 - **Persons**: Two Pitches, So Jonathan, So Karima
 
 ## Related Concepts
-- [[algorithm]]
-- [[ai]]
+- 
+- 
 
 ## Transcript Highlights
 > accuracy and fraction can

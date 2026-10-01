@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=WCMFdrTGAEY
+title: YouTube Transcript: The OCW Update
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=WCMFdrTGAEY-transcript
 source_type: video
-ingested: 2026-09-03
-published: 2026-09-03
-duration_minutes: 1
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: b28185c3e39d3400471c9b7ae270a7f9d135f24776256115a555f07593cc0eeb
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: The OCW Update
 

@@ -34,8 +34,8 @@ This video discusses Fake Restoration Videos Are Ruining YouTube
 - **Persons**: New England, Backyard Ballistics, One Clip
 
 ## Related Concepts
-- [[ai]]
-- [[api]]
+- 
+- 
 
 ## Transcript Highlights
 > decayed essentially it's all for show

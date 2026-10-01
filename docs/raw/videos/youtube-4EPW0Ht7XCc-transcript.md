@@ -1,13 +1,17 @@
 ---
-source_url: https://www.youtube.com/watch?v=4EPW0Ht7XCc
+title: YouTube Transcript: WTF is Happening with South Korean Economy
+created: 2026-10-01
+updated: 2026-10-01
+type: video
+source_url: https://www.youtube.com/watch?v=4EPW0Ht7XCc-transcript
 source_type: video
-ingested: 2026-08-21
-published: 2026-08-21
-duration_minutes: 14
+ingested: 2026-10-01
+published: recent
+duration_minutes: 20
 language: en
-sha256: 83baab071080b7618c36ca4f936c0a225f4787342b64cd478d41d65882ce4969
 time_sensitive: True
 ---
+
 
 # YouTube Transcript: WTF is Happening with South Korean Economy
 

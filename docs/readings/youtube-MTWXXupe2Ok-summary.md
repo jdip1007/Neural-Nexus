@@ -40,10 +40,10 @@ This video discusses Man Receives Highest Dose of Nuclear Radiation And More Nuc
 - **Organizations**: Cancer Institute, Stevens Institute
 
 ## Related Concepts
-- [[cloud]]
-- [[ai]]
-- [[container]]
-- [[api]]
+- 
+- 
+- 
+- 
 
 ## Transcript Highlights
 > lives Uchi is in critical condition and
