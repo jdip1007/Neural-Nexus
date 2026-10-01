@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=5XyslxsPLQ4
 source_type: video
-ingested: 2026-08-29
-published: 2026-08-29
+ingested: 2026-10-01
+published: 2026-10-01
 duration_minutes: 22
 language: en
 sha256: a5fd5b4cbeb6c678fb323dd1be8562045d75eba75bc8d2c6271a147d5c3b697f

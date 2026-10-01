@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-29
-domain: ai
-published: 2026-08-29
-reviewed: 2026-08-29
-sources:
-- raw/videos/youtube-5XyslxsPLQ4-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: We (Still) Don't Know How Epstein Got So Rich... - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-29
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, 5XyslxsPLQ4]
+sources: [raw/videos/youtube-5XyslxsPLQ4-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # We (Still) Don't Know How Epstein Got So Rich... - Summary
 
@@ -41,11 +37,11 @@ firm and its executives
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Steven Hoffenberg, Beer Sterns, Was Epste
+- **Persons**: The Gussle, Body Works, Ivy League
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [api](concepts/api.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > country. The massive escalation coming after a 
@@ -59,12 +55,3 @@ The key word is redaction. A lot of pages,
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-5XyslxsPLQ4-beer-sterns]]
-- [[youtube-5XyslxsPLQ4-steven-hoffenberg]]
-- [[youtube-5XyslxsPLQ4-was-epste]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 

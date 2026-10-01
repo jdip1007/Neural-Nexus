@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-08-26
-domain: ai
-reviewed: 2026-08-26
-sources:
-- raw/videos/youtube-THodtjsCTSI-transcript.md
-status: active
-tags:
-- tools
 title: OpenAI
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
-updated: 2026-08-26
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, tools, THodtjsCTSI]
+sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # OpenAI
 
@@ -25,16 +21,7 @@ OpenAI is mentioned in the YouTube video "Is America Chasing Away All Of Its Sma
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-THodtjsCTSI-summary.md)
+- [[youtube-THodtjsCTSI-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-THodtjsCTSI-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-OunJtLnyPT4-openai]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
-- [[youtube-haZ5gddlQ4g-openai]]

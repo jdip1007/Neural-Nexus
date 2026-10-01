@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-29
-domain: ai
-published: 2026-08-29
-reviewed: 2026-08-29
-sources:
-- raw/videos/youtube-r5xxTIPKY8s-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: America's Latest Farming Crisis - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-29
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, r5xxTIPKY8s]
+sources: [raw/videos/youtube-r5xxTIPKY8s-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # America's Latest Farming Crisis - Summary
 
@@ -43,13 +39,13 @@ their own agriculture, but more importantly their own people
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Sarah Taber, Economic Policy, Acre Trader
+- **Persons**: Farm Together, Sarah Taber, Government Accountability
 - **Organizations**: Policy Institute
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [algorithm](concepts/algorithm.md)
-- [api](concepts/api.md)
+- [[algorithm]]
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > need a bailout to keep their essential industry 
@@ -63,13 +59,3 @@ to remember when seeing news about town halls
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[algorithm]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-r5xxTIPKY8s-acre-trader]]
-- [[youtube-r5xxTIPKY8s-economic-policy]]
-- [[youtube-r5xxTIPKY8s-policy-institute]]
-- [[youtube-r5xxTIPKY8s-sarah-taber]]

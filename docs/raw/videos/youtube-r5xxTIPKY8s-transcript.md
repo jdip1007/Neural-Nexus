@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=r5xxTIPKY8s
 source_type: video
-ingested: 2026-08-29
-published: 2026-08-29
+ingested: 2026-10-01
+published: 2026-10-01
 duration_minutes: 14
 language: en
 sha256: 4cc59b0869d7d61c99a78dbb0818534769b0ddd4dedaf7afe7b9f8cf41238cdc

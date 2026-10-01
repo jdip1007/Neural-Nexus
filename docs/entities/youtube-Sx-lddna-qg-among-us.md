@@ -1,5 +1,5 @@
 ---
-title: Works Media
+title: Among Us
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-10-01
 ---
 
-# Works Media
+# Among Us
 
 ## Overview
-Works Media is mentioned in the YouTube video "WTF Is Happening To The Video Game Industry?".
+Among Us is mentioned in the YouTube video "WTF Is Happening To The Video Game Industry?".
 
 ## Context
 Mentioned in the context of research and development.

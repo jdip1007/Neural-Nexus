@@ -1,18 +1,18 @@
 ---
 source_url: https://www.youtube.com/watch?v=OwuXF1AyKak
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
+ingested: 2026-10-01
+published: 2026-10-01
 duration_minutes: 13
 language: en
 sha256: efea671c88f6e96e6c960832563a5617821f1259cb9f64b32b249daf3475c184
 time_sensitive: True
 ---
 
-# YouTube Transcript: Online Piracy's Great Comeback
+# YouTube Transcript: No One is Buying it
 
 ## Video Information
-- **Title**: Online Piracy's Great Comeback
+- **Title**: No One is Buying it
 - **Video ID**: OwuXF1AyKak
 - **Published**: Unknown
 - **Views**: Unknown

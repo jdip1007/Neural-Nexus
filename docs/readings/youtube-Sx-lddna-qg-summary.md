@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-26
-domain: ai
-published: 2026-08-26
-reviewed: 2026-08-26
-sources:
-- raw/videos/youtube-Sx-lddna-qg-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: WTF Is Happening To The Video Game Industry? - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-26
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, Sx-lddna-qg]
+sources: [raw/videos/youtube-Sx-lddna-qg-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # WTF Is Happening To The Video Game Industry? - Summary
 
@@ -30,11 +26,11 @@ This video discusses WTF Is Happening To The Video Game Industry?
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Works Media, Warner Brothers, Silicon Valley
+- **Persons**: Among Us, Works Media, Smoothie King
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [api](concepts/api.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > wider selection of independent new releases at 
@@ -48,12 +44,3 @@ be possible for smaller teams to put together.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[wtf-is-happening-to-the-video-game-industry-]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-Sx-lddna-qg-warner-brothers]]
-- [[youtube-Sx-lddna-qg-works-media]]
-- [[youtube-THodtjsCTSI-silicon-valley]]

@@ -1,5 +1,5 @@
 ---
-title: Sarah Taber
+title: Government Accountability
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-10-01
 ---
 
-# Sarah Taber
+# Government Accountability
 
 ## Overview
-Sarah Taber is mentioned in the YouTube video "America's Latest Farming Crisis".
+Government Accountability is mentioned in the YouTube video "America's Latest Farming Crisis".
 
 ## Context
 Mentioned in the context of research and development.

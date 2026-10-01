@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-08-26
-domain: ai
-reviewed: 2026-08-26
-sources:
-- raw/videos/youtube-THodtjsCTSI-transcript.md
-status: active
-tags:
-- general
 title: Science Foundation
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
-updated: 2026-08-26
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, organizations, THodtjsCTSI]
+sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # Science Foundation
 
@@ -25,15 +21,7 @@ Science Foundation is mentioned in the YouTube video "Is America Chasing Away Al
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-THodtjsCTSI-summary.md)
+- [[youtube-THodtjsCTSI-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-THodtjsCTSI-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
-- [[youtube-heaa4ltxz-4-hand-foundation]]

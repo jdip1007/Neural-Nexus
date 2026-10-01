@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-26
-domain: ai
-published: 2026-08-26
-reviewed: 2026-08-26
-sources:
-- raw/videos/youtube-THodtjsCTSI-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: Is America Chasing Away All Of Its Smart People? - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-26
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, THodtjsCTSI]
+sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # Is America Chasing Away All Of Its Smart People? - Summary
 
@@ -37,14 +33,14 @@ their life
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Safe Place, Wall Street, From China
+- **Persons**: National Institute, White House, National Ocean
 - **Organizations**: National Institute, Science Foundation, American Institute
 - **Tools**: OpenAI
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [api](concepts/api.md)
 - [[llm]]
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > the everyday essentials you're already spending 
@@ -58,15 +54,3 @@ the middle. If we don't maintain it, this can also
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-Das4psjipJo-national-institute]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-THodtjsCTSI-american-institute]]
-- [[youtube-THodtjsCTSI-from-china]]
-- [[youtube-THodtjsCTSI-safe-place]]
-- [[youtube-THodtjsCTSI-science-foundation]]
-- youtube--W3qPymBEBA-wall-street
-- [[youtube-haZ5gddlQ4g-openai]]

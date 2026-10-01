@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=Sx-lddna-qg
 source_type: video
-ingested: 2026-08-26
-published: 2026-08-26
+ingested: 2026-10-01
+published: 2026-10-01
 duration_minutes: 19
 language: en
 sha256: 434a3d38c74f45a48384db2bff7eac445100768d67452cf58caf95810a3dd874

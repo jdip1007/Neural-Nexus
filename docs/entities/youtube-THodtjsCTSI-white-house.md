@@ -1,21 +1,21 @@
 ---
-title: American Institute
+title: White House
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, organizations, THodtjsCTSI]
+tags: [youtube, video-derived, persons, THodtjsCTSI]
 sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
 confidence: medium
 status: active
 reviewed: 2026-10-01
 ---
 
-# American Institute
+# White House
 
 ## Overview
-American Institute is mentioned in the YouTube video "Is America Chasing Away All Of Its Smart People?".
+White House is mentioned in the YouTube video "Is America Chasing Away All Of Its Smart People?".
 
 ## Context
 Mentioned in the context of research and development.

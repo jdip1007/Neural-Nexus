@@ -1,27 +1,23 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-27
-domain: ai
-published: 2026-08-27
-reviewed: 2026-08-27
-sources:
-- raw/videos/youtube-OwuXF1AyKak-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
-title: Online Piracy's Great Comeback - Summary
+title: No One is Buying it - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-27
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, OwuXF1AyKak]
+sources: [raw/videos/youtube-OwuXF1AyKak-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
 
-
-
-# Online Piracy's Great Comeback - Summary
+# No One is Buying it - Summary
 
 ## TL;DR
-This video discusses Online Piracy's Great Comeback
+This video discusses No One is Buying it
 
 ## Key Points
 - **The**: the 2010s were the golden age of piracy bit Torrent accounted for a third of all internet traffic lime wire had more monthly users than Facebook and the Pirate Bay was the only video store in town where you were sure to find what you were looking for hypothetically of course the world was slowly switching from physical to digital media and even people who weren't particularly techsavvy realized that digital goods could be replaced endlessly with practically zero marginal cost at its peak 95% of all music downloads were pirated because it had become cheaper and above all else an easier way to fill up large digital libraries that were being made possible by cheap digital storage but then it just stopped since 2012 the internet has gotten faster storage has gotten cheaper and people have become more comfortable with computers which should have just accelerated a growth trend but it didn't since 2015 peer-to-peer file sharing has collapsed in popularity and you might think you already know why streaming services like Spotify Netflix were just a better easier and safer way to access content and now as these services have become marketkedly worse and simultaneously more expensive piracy is making a comeback it seems pretty simple right the only problem is that's not the whole story realistically these companies knew this day would come it was just really important that they could pretend it wouldn't uh for a lot of people they've decided it's time to cut back but legitimately it might be time to cancel some subscriptions and I'm probably going to have to cancel some some of them I'm not using and it's just wasting money there's so many of these it's hard to keep track at that point that's an adversarial relationship i don't want to pay people to enter adversarial relationships we aim as I said for this business to be a growth business for the company with margins that our shareholders will feel good about so what really made piracy go away and what's really bringing it back might sound simple but there's actually a bit more going on first and foremost the majority of people actually would like to acquire their media legally as long as it was easy and not ridiculously expensive most reasonable people understand that it costs time and money to produce a song film a movie or develop a video game and the people involved in these projects do need to be compensated or else they are just not going to make them even people who frequent the high seas so to speak know this better than anybody else a survey coming out of Australia at the peak of online piracy found that people who pirated content were actually more likely to pay for it if it was available in a finding that really ages the study online pirates were far more likely to pay for movies and music through iTunes or QuickFix this was because people who pirated content were just more likely to consume content overall and most of them would only make the trip to the bay if they couldn't find what they were looking for more legitimately so there were two things that changed after 2013 sure there were a few high-profile crackdowns on some of these sites but even the regulators themselves knew they were just playing a game of whack-a-ole one of the most downloaded files on the pirate bay was the Pirate Bay a complete copy of the site with all of the addresses that could be set up by basically anybody with some basic server hardware in the event that the authorities took down the original site but then came along the streaming sites that thanks to faster internet speeds could let users watch content on demand without granting them direct access to digital files which could then be copied and shared illegally the big thing was that these options were just so easy compared to piracy and so cheap compared to buying songs or movies one by one that it just didn't really make sense to bother with anything else nowadays that's clearly changed there are dozens of streaming services that are each getting more and more expensive every year the movies and shows that you watch are being split up over different providers the services themselves are getting worse by introducing ads and pushing less relevant content and on top of all of that it's just not that easy anymore even individual TV shows have certain seasons split up over different streaming services and the first step in sitting down to watch a movie these days is to Google what streaming service has the 1984 release of Gremlins and if you're unlucky what streaming service plus what VPN combo will get you the movie you want to watch if you're already going through all that effort it gets really tempting to just replace streaming services with your port of choice because in most cases it will just be easier so yeah streaming services were cheap and easy which killed the need for piracy but then they slowly became expensive and terrible which brought it back pretty straightforward right wrong it's easy to write this whole thing off as just dumb companies being needlessly greedy to their own peril and while that's definitely part of the problem there is a lot more to it than that music streaming by comparison is decent there are multiple services but almost all of them have almost all of the music that you would possibly be looking for as a result nobody really bothers to pirate songs anymore which is particularly impressive when you remember that just 15 years ago 95% of music was being downloaded illegally artists have not been thrilled about the lower revenue they have got from streaming versus physical album sales but most of them still go along with it because even a small share of something is better than most of their music being accessed for free this raises a potentially unpopular idea that it might not be streaming that's broken it might be the movie industry that's broken the golden age of streaming was never going to last because it was never meant to last so it's time to learn how money works to find out why piracy is really making a comeback this video was made possible by Ice Scanner i was sorting through some old receipts for tax season trying to remember which ones I still needed to file and of course one of the important ones had coffee stains all over it the text was barely readable classic me that's why I started using Ice Scanner i just scanned the receipt and it used AI to clean everything up it straightened the page fixed the lighting and even removed the worst of the stains i could finally read the numbers again and dropped the PDF straight into my records since then it's kind of become my go-to whenever I'm scanning documents notes receipts or even something my dog got his teeth on Ice Scanner makes it super easy to salvage whatever's left and turn it into something useful it's fast it works across all my devices and the free version actually does what I need including editing signatures and storing everything in one place check it out with the link below and make your paperwork just a little less painful netflix is the most dominant movie and TV streaming service in the world it has over 300 million paying subscribers and unlike a lot of its competitors it's actually profitable but from its very first days of online streaming they knew they would eventually lose people back to piracy they just really didn't care and to see why I'm sorry but you are going to have to look at some financials last year it made 8
@@ -32,11 +28,11 @@ This video discusses Online Piracy's Great Comeback
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Economic Behavior, Spotify Netflix, Mission Impossible
+- **Persons**: Spotify Netflix, Ice Scanner, Economic Behavior
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > was just really important that they
@@ -47,15 +43,3 @@ This video discusses Online Piracy's Great Comeback
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[hardware]]
-- [[relationships]]
-- [[technology]]
-- [[youtube-5EDzRGxHT2M-how-money]]
-- [[youtube-7HF6UuVdihA-the-big]]
-- [[youtube-OwuXF1AyKak-economic-behavior]]
-- [[youtube-OwuXF1AyKak-mission-impossible]]
-- [[youtube-OwuXF1AyKak-pirate-bay]]

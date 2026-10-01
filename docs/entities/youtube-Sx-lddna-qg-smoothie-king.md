@@ -1,5 +1,5 @@
 ---
-title: Works Media
+title: Smoothie King
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-10-01
 ---
 
-# Works Media
+# Smoothie King
 
 ## Overview
-Works Media is mentioned in the YouTube video "WTF Is Happening To The Video Game Industry?".
+Smoothie King is mentioned in the YouTube video "WTF Is Happening To The Video Game Industry?".
 
 ## Context
 Mentioned in the context of research and development.

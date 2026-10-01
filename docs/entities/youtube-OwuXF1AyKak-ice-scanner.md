@@ -1,5 +1,5 @@
 ---
-title: Spotify Netflix
+title: Ice Scanner
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-10-01
 ---
 
-# Spotify Netflix
+# Ice Scanner
 
 ## Overview
-Spotify Netflix is mentioned in the YouTube video "No One is Buying it".
+Ice Scanner is mentioned in the YouTube video "No One is Buying it".
 
 ## Context
 Mentioned in the context of research and development.
