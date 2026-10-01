@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-10-01T06:12:23.346081",
+  "channel": "Internet Anarchist",
+  "videos_found": 8,
+  "videos_processed": 4,
+  "videos_failed": 0,
+  "total_processed": 20,
+  "errors": [],
+  "quality_issues": [
+    "Missing frontmatter in /home/hermes/Neural-Nexus/docs/raw/videos/youtube-dave_garage_003-transcript.md",
+    "Missing frontmatter in /home/hermes/Neural-Nexus/docs/raw/videos/youtube-dave_garage_005-transcript.md",
+    "Missing frontmatter in /home/hermes/Neural-Nexus/docs/raw/videos/youtube-dave_garage_006-transcript.md",
+    "Missing frontmatter in /home/hermes/Neural-Nexus/docs/raw/videos/youtube-dave_garage_002-transcript.md",
+    "Missing frontmatter in /home/hermes/Neural-Nexus/docs/raw/videos/youtube-dave_garage_001-transcript.md"
+  ]
+}
