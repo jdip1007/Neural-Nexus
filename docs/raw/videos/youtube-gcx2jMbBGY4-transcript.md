@@ -1,7 +1,7 @@
 ---
 source_url: https://www.youtube.com/watch?v=gcx2jMbBGY4
 source_type: video
-ingested: 2026-09-30
+ingested: 2026-10-01
 published: Unknown
 duration_minutes: 20
 language: en

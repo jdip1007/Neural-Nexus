@@ -1,7 +1,7 @@
 ---
 title: Predatory Behavior
-created: 2026-09-30
-updated: 2026-09-30
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
 domain: media
 classification: concept
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, concept, F2QTFnxWvuw]
 sources: [youtube-F2QTFnxWvuw-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-09-30
+reviewed: 2026-10-01
 ---
 
 # Predatory Behavior

@@ -1,7 +1,7 @@
 ---
 title: Nas Daily
-created: 2026-09-30
-updated: 2026-09-30
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
 domain: media
 classification: person
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, person, gcx2jMbBGY4]
 sources: [youtube-gcx2jMbBGY4-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-09-30
+reviewed: 2026-10-01
 ---
 
 # Nas Daily

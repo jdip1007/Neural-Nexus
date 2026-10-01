@@ -1,17 +1,17 @@
 ---
 title: Elliot Page's Life Is Falling Apart - Summary
-created: 2026-09-30
-updated: 2026-09-30
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
 tags: [youtube, video-summary, transcript, jrODl7N35FQ]
 sources: [youtube-jrODl7N35FQ-transcript.md]
-published: 2026-09-30
+published: 2026-10-01
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-09-30
+reviewed: 2026-10-01
 ---
 
 # Elliot Page's Life Is Falling Apart - Summary
