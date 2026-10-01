@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=_W3qPymBEBA
 source_type: video
-ingested: 2026-08-22
-published: 2026-08-22
+ingested: 2026-10-01
+published: 2026-10-01
 duration_minutes: 20
 language: en
 sha256: bb3b102b551315f073cb5aefd53b625d8c873f60db0a6407506f88bbe5394f2a

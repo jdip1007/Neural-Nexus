@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-22
-domain: ai
-published: 2026-08-22
-reviewed: 2026-08-22
-sources:
-- raw/videos/youtube-_W3qPymBEBA-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: WTF Does Peter Thiel Actually Want? - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-22
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, _W3qPymBEBA]
+sources: [raw/videos/youtube-_W3qPymBEBA-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # WTF Does Peter Thiel Actually Want? - Summary
 
@@ -33,12 +29,12 @@ private, doing most of his business in ideological work behind the scenes
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Wall Street, Field Link, Stanford Review
+- **Persons**: Elon Musk, Enhanced Games, San Francisco
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
-- [algorithm](concepts/algorithm.md)
+- [[algorithm]]
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > importantly, what is it exactly that he wants? A 
@@ -52,12 +48,3 @@ private, doing most of his business in ideological
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[algorithm]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube--W3qPymBEBA-field-link
-- youtube--W3qPymBEBA-stanford-review
-- youtube--W3qPymBEBA-wall-street
