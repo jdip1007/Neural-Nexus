@@ -1,17 +1,17 @@
 ---
 title: Video 17: Looking at Videos - Summary
-created: 2026-09-26
-updated: 2026-09-26
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, plCuZVzK6kk]
 sources: [raw/videos/youtube-plCuZVzK6kk-transcript.md]
-published: 2026-09-26
+published: 2026-10-01
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-01
 ---
 
 # Video 17: Looking at Videos - Summary
@@ -28,7 +28,7 @@ This video discusses Video 17: Looking at Videos
 ## Entities Mentioned
 
 ## Related Concepts
-- 
+- [[ai]]
 
 ## Transcript Highlights
 

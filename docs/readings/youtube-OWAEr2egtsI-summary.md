@@ -1,23 +1,23 @@
 ---
-title: Video 20: Cover Submissions - Summary
-created: 2026-09-26
-updated: 2026-09-26
+title: Video OWAEr2egtsI - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, OWAEr2egtsI]
 sources: [raw/videos/youtube-OWAEr2egtsI-transcript.md]
-published: 2026-09-26
+published: 2026-10-01
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-01
 ---
 
-# Video 20: Cover Submissions - Summary
+# Video OWAEr2egtsI - Summary
 
 ## TL;DR
-This video discusses Video 20: Cover Submissions
+This video discusses Video OWAEr2egtsI
 
 ## Key Points
 - **The**: The first thing
@@ -29,15 +29,15 @@ a particular cover format
 to match your image's format with the journal's format
 
 ## Time-Sensitive Information
-- **Content Date**: Unknown
+- **Content Date**: 2026-10-01
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
 - **Persons**: No Small
 
 ## Related Concepts
-- 
-- 
+- [[container]]
+- [[ai]]
 
 ## Transcript Highlights
 > The first thing

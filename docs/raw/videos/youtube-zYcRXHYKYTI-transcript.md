@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: Video 10: Point of View
-created: 2026-10-01
-updated: 2026-10-01
-type: video
-source_url: https://www.youtube.com/watch?v=zYcRXHYKYTI-transcript
+source_url: https://www.youtube.com/watch?v=zYcRXHYKYTI
 source_type: video
 ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+published: 2026-10-01
+duration_minutes: 8
 language: en
+sha256: 6e7956fc3734cf002175439b85c660f78efe78744805e6de075ce26a863694a5
 time_sensitive: True
 ---
-
 
 # YouTube Transcript: Video 10: Point of View
 

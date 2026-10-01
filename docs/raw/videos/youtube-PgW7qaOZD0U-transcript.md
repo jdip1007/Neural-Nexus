@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: Optics: Fraunhofer diffraction - adjustable slit | MIT Video Demonstrations in Lasers and Optics
-created: 2026-10-01
-updated: 2026-10-01
-type: video
-source_url: https://www.youtube.com/watch?v=PgW7qaOZD0U-transcript
+source_url: https://www.youtube.com/watch?v=PgW7qaOZD0U
 source_type: video
 ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+published: 2026-10-01
+duration_minutes: 4
 language: en
-time_sensitive: True
+sha256: 7bfa78f87014f5abd24a6128a5f725a8f985ee69c8c9b94113dfb794bafc67a8
+time_sensitive: False
 ---
-
 
 # YouTube Transcript: Optics: Fraunhofer diffraction - adjustable slit | MIT Video Demonstrations in Lasers and Optics
 

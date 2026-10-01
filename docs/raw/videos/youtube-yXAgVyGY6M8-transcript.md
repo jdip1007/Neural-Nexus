@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: Color Organ Video 2
-created: 2026-10-01
-updated: 2026-10-01
-type: video
-source_url: https://www.youtube.com/watch?v=yXAgVyGY6M8-transcript
+source_url: https://www.youtube.com/watch?v=yXAgVyGY6M8
 source_type: video
 ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+published: 2026-10-01
+duration_minutes: 0
 language: en
-time_sensitive: True
+sha256: 26d828d85d26854aa2f53fa1163e597ed36a10b057db1ed4ec92b8d58c233247
+time_sensitive: False
 ---
-
 
 # YouTube Transcript: Color Organ Video 2
 

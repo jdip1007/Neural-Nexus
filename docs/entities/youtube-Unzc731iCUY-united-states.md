@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-08-25
-domain: ai
-reviewed: 2026-08-25
-sources:
-- raw/videos/youtube-Unzc731iCUY-transcript.md
-status: active
-tags:
-- general
 title: United States
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
-updated: 2026-08-25
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, Unzc731iCUY]
+sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # United States
 
@@ -25,17 +21,7 @@ United States is mentioned in the YouTube video "How to Speak".
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-Unzc731iCUY-summary.md)
+- [[youtube-Unzc731iCUY-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-Unzc731iCUY-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
-- [[youtube-xaICKlp9kQc-united-states]]

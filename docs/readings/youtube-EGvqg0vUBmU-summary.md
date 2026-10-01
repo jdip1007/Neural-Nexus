@@ -1,17 +1,17 @@
 ---
 title: Video 4: The First Day - Summary
-created: 2026-09-26
-updated: 2026-09-26
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, EGvqg0vUBmU]
 sources: [raw/videos/youtube-EGvqg0vUBmU-transcript.md]
-published: 2026-09-26
+published: 2026-10-01
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-01
 ---
 
 # Video 4: The First Day - Summary
@@ -37,7 +37,7 @@ going to productivity in the recitations is important
 ## Entities Mentioned
 
 ## Related Concepts
-- 
+- [[ai]]
 
 ## Transcript Highlights
 > ADRIAN: That is important that

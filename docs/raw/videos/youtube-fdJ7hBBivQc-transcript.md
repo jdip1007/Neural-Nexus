@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: Video 11: An Introduction
-created: 2026-10-01
-updated: 2026-10-01
-type: video
-source_url: https://www.youtube.com/watch?v=fdJ7hBBivQc-transcript
+source_url: https://www.youtube.com/watch?v=fdJ7hBBivQc
 source_type: video
 ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+published: 2026-10-01
+duration_minutes: 9
 language: en
-time_sensitive: True
+sha256: 76fd3b1f2f2517b5c40f9de574e2dbee4383ff8f91d050a74f547cbab1ce150b
+time_sensitive: False
 ---
-
 
 # YouTube Transcript: Video 11: An Introduction
 

@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-09-26
-domain: ai
-reviewed: 2026-09-26
-sources:
-- raw/videos/youtube-Unzc731iCUY-transcript.md
-status: active
-tags:
-- youtube
-- persons
 title: Celebrity Weekend
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
-updated: 2026-09-26
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, Unzc731iCUY]
+sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-01
 ---
-
 
 # Celebrity Weekend
 

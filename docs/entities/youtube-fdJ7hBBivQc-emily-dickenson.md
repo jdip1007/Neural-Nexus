@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-09-26
-domain: ai
-reviewed: 2026-09-26
-sources:
-- raw/videos/youtube-fdJ7hBBivQc-transcript.md
-status: active
-tags:
-- youtube
-- persons
 title: Emily Dickenson
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
-updated: 2026-09-26
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, fdJ7hBBivQc]
+sources: [raw/videos/youtube-fdJ7hBBivQc-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-01
 ---
-
 
 # Emily Dickenson
 

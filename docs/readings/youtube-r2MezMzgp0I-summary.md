@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-09-25
-domain: ai
-published: 2026-09-25
-reviewed: 2026-09-25
-sources:
-- raw/videos/youtube-r2MezMzgp0I-transcript.md
-status: active
-tags:
-- youtube
-- transcript
-time_sensitive: false
 title: Sunflower Video 3 - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-09-25
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, r2MezMzgp0I]
+sources: [raw/videos/youtube-r2MezMzgp0I-transcript.md]
+published: 2026-10-01
+time_sensitive: False
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
 
 # Sunflower Video 3 - Summary
 

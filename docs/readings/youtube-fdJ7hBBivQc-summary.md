@@ -1,17 +1,17 @@
 ---
 title: Video 11: An Introduction - Summary
-created: 2026-09-26
-updated: 2026-09-26
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, fdJ7hBBivQc]
 sources: [raw/videos/youtube-fdJ7hBBivQc-transcript.md]
-published: 2026-09-26
+published: 2026-10-01
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-01
 ---
 
 # Video 11: An Introduction - Summary
@@ -33,8 +33,8 @@ really is important
 - **Persons**: No Small, Emily Dickenson
 
 ## Related Concepts
-- 
-- 
+- [[container]]
+- [[ai]]
 
 ## Transcript Highlights
 > of the most important aspects

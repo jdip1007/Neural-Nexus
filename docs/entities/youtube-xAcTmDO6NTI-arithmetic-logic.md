@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-09-03
-domain: ai
-reviewed: 2026-09-03
-sources:
-- raw/videos/youtube-xAcTmDO6NTI-transcript.md
-status: active
-tags:
-- general
 title: Arithmetic Logic
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
-updated: 2026-09-03
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, xAcTmDO6NTI]
+sources: [raw/videos/youtube-xAcTmDO6NTI-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # Arithmetic Logic
 
@@ -25,16 +21,7 @@ Arithmetic Logic is mentioned in the YouTube video "Lecture 1: Introduction to C
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-xAcTmDO6NTI-summary.md)
+- [[youtube-xAcTmDO6NTI-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-xAcTmDO6NTI-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[programming]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

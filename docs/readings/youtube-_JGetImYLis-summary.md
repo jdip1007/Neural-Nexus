@@ -1,17 +1,17 @@
 ---
 title: 5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today - Summary
-created: 2026-09-26
-updated: 2026-09-26
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, _JGetImYLis]
 sources: [raw/videos/youtube-_JGetImYLis-transcript.md]
-published: 2026-09-26
+published: 2026-10-01
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-01
 ---
 
 # 5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today - Summary

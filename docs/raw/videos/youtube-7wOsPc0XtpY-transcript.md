@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: Video 6: Setting the Exposure
-created: 2026-10-01
-updated: 2026-10-01
-type: video
-source_url: https://www.youtube.com/watch?v=7wOsPc0XtpY-transcript
+source_url: https://www.youtube.com/watch?v=7wOsPc0XtpY
 source_type: video
 ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+published: 2026-10-01
+duration_minutes: 3
 language: en
+sha256: a0cdbecec0e1e29a91eab3dfb8cb0b24093614bef28e74abd88671e4ec1673bc
 time_sensitive: True
 ---
-
 
 # YouTube Transcript: Video 6: Setting the Exposure
 

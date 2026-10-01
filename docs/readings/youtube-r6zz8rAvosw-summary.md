@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-30
-domain: ai
-published: 2026-08-30
-reviewed: 2026-08-30
-sources:
-- raw/videos/youtube-r6zz8rAvosw-transcript.md
-status: active
-tags:
-- general
-time_sensitive: false
 title: Most Painful Parasites That Infect Humans - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-30
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, r6zz8rAvosw]
+sources: [raw/videos/youtube-r6zz8rAvosw-transcript.md]
+published: 2026-10-01
+time_sensitive: False
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # Most Painful Parasites That Infect Humans - Summary
 
@@ -31,10 +27,10 @@ tweezers because they stay on the outside of the body, their main threat is as a
 for deadly diseases - including the potentially lethal Lyme Disease
 
 ## Entities Mentioned
-- **Persons**: Pinworms Roundworms, Eating Amoeba, Guinea Worm
+- **Persons**: Tapeworms One, Flu Killed, River Country
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > They can live for decades, and can remain
@@ -46,11 +42,3 @@ for deadly diseases - including the potentially
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-r6zz8rAvosw-eating-amoeba]]
-- [[youtube-r6zz8rAvosw-guinea-worm]]
-- [[youtube-r6zz8rAvosw-pinworms-roundworms]]

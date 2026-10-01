@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-09-26
-domain: ai
-published: 2026-09-26
-reviewed: 2026-09-26
-sources:
-- raw/videos/youtube-Unzc731iCUY-transcript.md
-status: active
-tags:
-- youtube
-- transcript
-time_sensitive: true
 title: How to Speak - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-09-26
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, Unzc731iCUY]
+sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
 
 # How to Speak - Summary
 
@@ -45,14 +41,14 @@ it's important to talk about your research in context
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Media Lab, Bartos Theater, Celebrity Weekend
+- **Persons**: United States, Celebrity Weekend, Media Lab
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
-- 
-- 
-- 
-- 
+- [[framework]]
+- [[artificial-intelligence]]
+- [[algorithm]]
+- [[ai]]
 
 ## Transcript Highlights
 > about the place? And the most important

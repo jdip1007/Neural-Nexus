@@ -1,17 +1,17 @@
 ---
 title: Video 10: Point of View - Summary
-created: 2026-09-26
-updated: 2026-09-26
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, zYcRXHYKYTI]
 sources: [raw/videos/youtube-zYcRXHYKYTI-transcript.md]
-published: 2026-09-26
+published: 2026-10-01
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-01
 ---
 
 # Video 10: Point of View - Summary
@@ -29,7 +29,7 @@ This video discusses Video 10: Point of View
 - **Persons**: Isamu Noguchi
 
 ## Related Concepts
-- 
+- [[ai]]
 
 ## Transcript Highlights
 
