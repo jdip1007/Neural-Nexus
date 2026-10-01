@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-27
-domain: ai
-published: 2026-08-27
-reviewed: 2026-08-27
-sources:
-- raw/videos/youtube-uqf6NoAhFts-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: The Job Market Has Changed... Again. - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-27
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, uqf6NoAhFts]
+sources: [raw/videos/youtube-uqf6NoAhFts-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # The Job Market Has Changed... Again. - Summary
 
@@ -39,12 +35,12 @@ trend
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Labor Statistics, Graduate Management, Ivy League
+- **Persons**: Ivy League, Admissions Council, Graduate Management
 - **Tools**: OpenAI
 
 ## Related Concepts
+- [[ai]]
 - [[llm]]
-- [ai](concepts/ai.md)
 
 ## Transcript Highlights
 > concerning trend, but there are two important 
@@ -58,14 +54,3 @@ applies to men. The unemployment gap for graduate
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 
-- [[youtube-haZ5gddlQ4g-openai]]
-- [[youtube-uqf6NoAhFts-graduate-management]]
-- [[youtube-uqf6NoAhFts-ivy-league]]
-- [[youtube-uqf6NoAhFts-labor-statistics]]
-- [[youtube-xaICKlp9kQc-no-one]]

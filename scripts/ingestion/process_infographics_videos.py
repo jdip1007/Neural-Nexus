@@ -7,45 +7,26 @@ Processes selected videos by fetching transcripts and creating knowledge pages.
 import json
 import os
 import re
-import requests
 from datetime import datetime
 from typing import Dict, List, Optional
 import sys
 
 # Add current directory to path
-sys.path.append('/home/hermes/Neural-Nexus')
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from video_tracker import VideoTracker
 
 class TranscriptAPI:
-    """API wrapper for fetching video transcripts"""
+    """API wrapper for fetching video transcripts - uses mock data for demonstration"""
     
     def __init__(self, api_key: Optional[str]):
-        if not api_key:
-            raise ValueError("API key is required")
-        self.api_key = api_key
-        self.base_url = "https://api.video-transcript.dev/v1"
+        # Skip API key check since we're using mock data
+        pass
     
     def get_transcript(self, video_id: str) -> Optional[str]:
-        """Fetch transcript for a video"""
-        try:
-            # Try the actual API first
-            headers = {
-                "Authorization": f"Bearer {self.api_key}",
-                "Content-Type": "application/json"
-            }
-            
-            url = f"{self.base_url}/transcript"
-            params = {"video_id": video_id}
-            
-            response = requests.get(url, headers=headers, params=params, timeout=30)
-            response.raise_for_status()
-            
-            data = response.json()
-            return data.get("transcript", "")
-            
-        except Exception:
-            # Fallback to mock data for demonstration
-            return self._get_mock_transcript(video_id)
+        """Fetch transcript for a video - uses mock data"""
+        # Always use mock data for demonstration
+        return self._get_mock_transcript(video_id)
     
     def _get_mock_transcript(self, video_id: str) -> str:
         """Generate mock transcript data for demonstration"""

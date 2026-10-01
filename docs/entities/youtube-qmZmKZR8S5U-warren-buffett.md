@@ -1,5 +1,5 @@
 ---
-title: John Hussman
+title: Warren Buffett
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-10-01
 ---
 
-# John Hussman
+# Warren Buffett
 
 ## Overview
-John Hussman is mentioned in the YouTube video "How Long Can The Stock Market Ignore Reality?".
+Warren Buffett is mentioned in the YouTube video "How Long Can The Stock Market Ignore Reality?".
 
 ## Context
 Mentioned in the context of research and development.

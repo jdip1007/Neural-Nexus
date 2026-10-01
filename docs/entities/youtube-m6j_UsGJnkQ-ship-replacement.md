@@ -1,5 +1,5 @@
 ---
-title: Casino Wars
+title: Ship Replacement
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-10-01
 ---
 
-# Casino Wars
+# Ship Replacement
 
 ## Overview
-Casino Wars is mentioned in the YouTube video "How EVE Online's Massive Virtual Wars Are Financed".
+Ship Replacement is mentioned in the YouTube video "How EVE Online's Massive Virtual Wars Are Financed".
 
 ## Context
 Mentioned in the context of research and development.

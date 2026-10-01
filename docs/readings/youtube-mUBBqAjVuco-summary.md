@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-27
-domain: ai
-published: 2026-08-27
-reviewed: 2026-08-27
-sources:
-- raw/videos/youtube-mUBBqAjVuco-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: WTF Is Happening To The Car Market? - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-27
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, mUBBqAjVuco]
+sources: [raw/videos/youtube-mUBBqAjVuco-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # WTF Is Happening To The Car Market? - Summary
 
@@ -45,11 +41,11 @@ with the status of the European luxury brands
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Tesla Model, Lending Tree, Rodeium Group
+- **Persons**: Modern Corvettes, North America, In America
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > it's important to understand what is actually 
@@ -63,12 +59,3 @@ paying union jobs. It helps a country maintain
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[technology]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-mUBBqAjVuco-lending-tree]]
-- [[youtube-mUBBqAjVuco-rodeium-group]]
-- [[youtube-mUBBqAjVuco-tesla-model]]

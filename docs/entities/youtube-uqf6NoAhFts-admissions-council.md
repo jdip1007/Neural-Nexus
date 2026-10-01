@@ -1,21 +1,21 @@
 ---
-title: OpenAI
+title: Admissions Council
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, tools, uqf6NoAhFts]
+tags: [youtube, video-derived, persons, uqf6NoAhFts]
 sources: [raw/videos/youtube-uqf6NoAhFts-transcript.md]
 confidence: medium
 status: active
 reviewed: 2026-10-01
 ---
 
-# OpenAI
+# Admissions Council
 
 ## Overview
-OpenAI is mentioned in the YouTube video "The Job Market Has Changed... Again.".
+Admissions Council is mentioned in the YouTube video "The Job Market Has Changed... Again.".
 
 ## Context
 Mentioned in the context of research and development.

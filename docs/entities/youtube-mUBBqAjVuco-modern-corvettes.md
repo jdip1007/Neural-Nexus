@@ -1,5 +1,5 @@
 ---
-title: In America
+title: Modern Corvettes
 created: 2026-10-01
 updated: 2026-10-01
 type: entity
@@ -12,10 +12,10 @@ status: active
 reviewed: 2026-10-01
 ---
 
-# In America
+# Modern Corvettes
 
 ## Overview
-In America is mentioned in the YouTube video "WTF Is Happening To The Car Market?".
+Modern Corvettes is mentioned in the YouTube video "WTF Is Happening To The Car Market?".
 
 ## Context
 Mentioned in the context of research and development.

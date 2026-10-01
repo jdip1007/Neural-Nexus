@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-26
-domain: ai
-published: 2026-08-26
-reviewed: 2026-08-26
-sources:
-- raw/videos/youtube-qmZmKZR8S5U-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: How Long Can The Stock Market Ignore Reality? - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-26
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, qmZmKZR8S5U]
+sources: [raw/videos/youtube-qmZmKZR8S5U-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # How Long Can The Stock Market Ignore Reality? - Summary
 
@@ -31,11 +27,11 @@ This video discusses How Long Can The Stock Market Ignore Reality?
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: John Hussman, Only Nvidia, Patrick Boyle
+- **Persons**: John Hussman, Morgan Stanley, Warren Buffett
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [cloud](concepts/cloud.md)
+- [[ai]]
+- [[cloud]]
 
 ## Transcript Highlights
 > 2000s. Both saw a significant market
@@ -46,13 +42,3 @@ This video discusses How Long Can The Stock Market Ignore Reality?
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- How Long Can The Stock Market Ignore Reality-
-- [[cloud]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-qmZmKZR8S5U-john-hussman]]
-- [[youtube-qmZmKZR8S5U-only-nvidia]]
-- [[youtube-qmZmKZR8S5U-patrick-boyle]]

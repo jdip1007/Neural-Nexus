@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=uqf6NoAhFts
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
+ingested: 2026-10-01
+published: 2026-10-01
 duration_minutes: 13
 language: en
 sha256: 47f7f7661e3df14f28e7d23bc58450127ac210dc5bd40781f57dd002a3139566

@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-08-27
-domain: ai
-reviewed: 2026-08-27
-sources:
-- raw/videos/youtube-m6j_UsGJnkQ-transcript.md
-status: active
-tags:
-- general
 title: How Money
+created: 2026-10-01
+updated: 2026-10-01
 type: entity
-updated: 2026-08-27
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, m6j_UsGJnkQ]
+sources: [raw/videos/youtube-m6j_UsGJnkQ-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # How Money
 
@@ -25,16 +21,7 @@ How Money is mentioned in the YouTube video "How EVE Online's Massive Virtual Wa
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-m6j_UsGJnkQ-summary.md)
+- [[youtube-m6j_UsGJnkQ-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-m6j_UsGJnkQ-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-5EDzRGxHT2M-how-money]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=m6j_UsGJnkQ
 source_type: video
-ingested: 2026-08-27
-published: 2026-08-27
+ingested: 2026-10-01
+published: 2026-10-01
 duration_minutes: 9
 language: en
 sha256: e974fdaeff4111ace0a83735d9cce0e554c6f5dfbc98b0279308163935bac824

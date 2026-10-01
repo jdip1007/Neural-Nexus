@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-27
-domain: ai
-published: 2026-08-27
-reviewed: 2026-08-27
-sources:
-- raw/videos/youtube-m6j_UsGJnkQ-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: How EVE Online's Massive Virtual Wars Are Financed - Summary
+created: 2026-10-01
+updated: 2026-10-01
 type: reading
-updated: 2026-08-27
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, m6j_UsGJnkQ]
+sources: [raw/videos/youtube-m6j_UsGJnkQ-transcript.md]
+published: 2026-10-01
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-01
 ---
-
-
 
 # How EVE Online's Massive Virtual Wars Are Financed - Summary
 
@@ -37,11 +33,11 @@ is in the land of internet spaceships
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Casino Wars, How Money, Online Casino
+- **Persons**: How Money, Ship Replacement, Casino Wars
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [ai](concepts/ai.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > will then fund a military program to maintain or 
@@ -55,12 +51,3 @@ is in the land of internet spaceships.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-5EDzRGxHT2M-how-money]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- 
-- youtube-m6j-UsGJnkQ-casino-wars
-- youtube-m6j-UsGJnkQ-online-casino
