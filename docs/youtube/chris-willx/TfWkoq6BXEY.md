@@ -10,7 +10,7 @@ tags:
 - psychology
 title: 'Chris Willx: "This Will Be The Most Violent Election Of Our Lifetime" - Robert
   Pape'
-type: youtube
+type: reading
 updated: '2026-09-26T22:55:46.136073'
 youtube_id: TfWkoq6BXEY
 ---

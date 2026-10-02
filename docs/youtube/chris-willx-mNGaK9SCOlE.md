@@ -30,12 +30,12 @@ James Sexton, Matt McCusker & Rick Glassman - Mostly Wise #4 - Relationship advi
 
 ## Key Topics
 
-- [[Conflict]]
-- [[Relationships]]
-- [[Psychology]]
-- [[Geopolitics]]
-- [[International relations]]
-- [[Dating]]
+- Conflict
+- [[relationships]]
+- [[psychology]]
+- Geopolitics
+- International relations
+- Dating
 
 ## Transcript
 
@@ -43,8 +43,8 @@ James Sexton, Matt McCusker & Rick Glassman - Mostly Wise #4 - Relationship advi
 
 ## Related Videos
 
-- [[Chris Willx]] channel
-- [[YouTube]] content
+- [[chris-willx]] channel
+- [[youtube]] content
 
 ## Notes
 

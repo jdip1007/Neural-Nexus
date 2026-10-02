@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: technology
 classification: general.technology
-tags: [youtube, video-summary, transcript, bcd890efg123]
+tags: [youtube, video-summary]
 sources: [youtube-bcd890efg123-transcript.md]
 published: 2026-10-01
 time_sensitive: False

@@ -4,7 +4,7 @@ ingested: 2026-09-20
 video_id: MrXO4Y6YpGA
 title: The Never-Ending Downfall of KSI
 series: 
-tags: [youtube, internet-anarchist, documentary]
+tags: [youtube, internet-anarchist]
 ---
 
 [00:00] This

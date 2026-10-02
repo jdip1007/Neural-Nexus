@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: WTF Is Happening To The Video Game Industry?
-type: video
+type: reading
 updated: 2026-09-13 23:21:29.375009
 video_id: Sx-lddna-qg
 views: Unknown

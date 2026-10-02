@@ -10,7 +10,7 @@ tags:
 - psychology
 title: The 4 Things You Can Do Now For A Truly Great Life - Dr Andrew Huberman
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-25'
 video_id: The_4_Things_You_Can_Do_Now_For_A_Truly_Great_Life
 ---

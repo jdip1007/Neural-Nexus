@@ -13,7 +13,7 @@ tags: [youtube, how-money-works, finance, investing]
 **Video URL:** https://www.youtube.com/watch?v=Ts26T7AEHS8
 **Video ID:** `Ts26T7AEHS8`
 **Ingested:** 2026-09-04
-**Transcript:** [[raw/transcripts/how-money-works/Why We (Probably) Shouldn't Give Iran $300 Billion Dollars.md]]
+**Transcript:** [[raw/transcripts/how-money-works/Why We (Probably) Shouldn't Give Iran $300 Billion Dollars]]
 
 ## Transcript
 [00:00] Welcome back to How Money Works, where today we're discussing the controversial $300 billion Iran deal.

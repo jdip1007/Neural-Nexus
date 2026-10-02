@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: entity
 domain: technology
 classification: technology
-tags: [youtube, video-derived, technology, def456ghi789]
+tags: [youtube, video-derived]
 sources: [youtube-def456ghi789-transcript.md]
 confidence: medium
 status: active

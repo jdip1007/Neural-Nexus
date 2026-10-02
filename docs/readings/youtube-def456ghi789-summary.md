@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: technology
 classification: general.technology
-tags: [youtube, video-summary, transcript, def456ghi789]
+tags: [youtube, video-summary]
 sources: [youtube-def456ghi789-transcript.md]
 published: 2026-10-01
 time_sensitive: False

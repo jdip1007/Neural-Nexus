@@ -69,5 +69,5 @@ remained locked behind security walls.
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-jlyIyObWBzo-in-august]]
 - [[youtube-jlyIyObWBzo-risk-institute]]
-- [[youtube-jlyIyObWBzo-south-africa]]
-- [[youtube-jlyIyObWBzo-while-western]]
+- youtube-jlyIyObWBzo-south-africa
+- youtube-jlyIyObWBzo-while-western

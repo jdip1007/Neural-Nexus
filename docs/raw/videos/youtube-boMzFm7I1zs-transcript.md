@@ -2,7 +2,7 @@
 title: YouTube Transcript: What Made The Black Death So Deadly & Who Were The Plague Doctors
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=boMzFm7I1zs-transcript
 source_type: video
 ingested: 2026-10-01

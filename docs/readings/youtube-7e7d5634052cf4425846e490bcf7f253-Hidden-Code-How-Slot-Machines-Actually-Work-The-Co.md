@@ -21,7 +21,7 @@ tags:
 - youtube
 - daves-garage
 title: 'Hidden Code: How Slot Machines Actually Work - The Computer Inside'
-type: video
+type: reading
 updated: '2026-09-29T03:56:45.317497'
 video_id: 3c5f7WzQzY
 views: 428K

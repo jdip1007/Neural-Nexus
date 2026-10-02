@@ -2,7 +2,7 @@
 title: YouTube Transcript: How Much Longer Can We "Hide" The Inflation?
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=Ac25_v32dNE-transcript
 source_type: video
 ingested: 2026-10-01

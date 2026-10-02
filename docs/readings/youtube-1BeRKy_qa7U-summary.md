@@ -55,9 +55,9 @@ This video discusses Why You Can't Stop Consuming Video Games & Anime
 
 - 
 - 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
-- [[youtube-6kD5RbQCjFg-about-doing]]
-- [[youtube-7HF6UuVdihA-the-big]]
-- [[youtube-BT4gsZBpL0E-hey-dad]]
+- youtube-5rFIcsi9EVc-what-does
+- youtube-6kD5RbQCjFg-about-doing
+- youtube-7HF6UuVdihA-the-big
+- youtube-BT4gsZBpL0E-hey-dad

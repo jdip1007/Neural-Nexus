@@ -2,7 +2,7 @@
 title: YouTube Transcript: WTF Is Happening To The Car Market?
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=mUBBqAjVuco-transcript
 source_type: video
 ingested: 2026-10-01

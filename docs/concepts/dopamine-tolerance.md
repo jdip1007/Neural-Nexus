@@ -253,5 +253,5 @@ Both matter:
 - youtube-6BOxK-JrghY-the-work
 - [[youtube-WNSZ6xouNv4-used-to]]
 - [[youtube-xj-dp8sjfa0-social-media]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-when-you
 - 

@@ -10,7 +10,7 @@ tags:
 - dating
 - relationships
 title: The Cost Of Attention
-type: video
+type: reading
 updated: '2026-09-27T05:24:58.205139'
 video_id: i0j1k2l3m4N5
 ---

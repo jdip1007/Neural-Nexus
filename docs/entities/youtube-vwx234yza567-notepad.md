@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: entity
 domain: technology
 classification: software
-tags: [youtube, video-derived, software, vwx234yza567]
+tags: [youtube, video-derived, software]
 sources: [youtube-vwx234yza567-transcript.md]
 confidence: medium
 status: active

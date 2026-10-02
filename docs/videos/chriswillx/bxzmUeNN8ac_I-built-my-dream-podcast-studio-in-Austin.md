@@ -9,7 +9,7 @@ tags:
 - media
 title: I built my dream podcast studio in Austin.
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-14'
 video_id: bxzmUeNN8ac
 ---

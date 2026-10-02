@@ -2,7 +2,7 @@
 title: YouTube Transcript: FBI vs CIA - How Do They Compare?
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=vebNxWGotC8-transcript
 source_type: video
 ingested: 2026-10-01

@@ -9,7 +9,7 @@ tags:
 - media
 title: '"Women Are The Problem" - Why A Female Psychopath Can''t Relate To Her Audience'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-14'
 video_id: 6pF6UuxSoT0
 ---

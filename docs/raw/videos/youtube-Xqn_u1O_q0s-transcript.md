@@ -2,7 +2,7 @@
 title: YouTube Transcript: Video 4a: How to Read an Academic Article
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=Xqn_u1O_q0s-transcript
 source_type: video
 ingested: 2026-10-01

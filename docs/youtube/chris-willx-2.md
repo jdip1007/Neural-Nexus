@@ -9,7 +9,7 @@ tags:
 - general
 - discussion
 title: 'Chris Willx: "The Wars in Iran & Ukraine Will Merge Very Soon"'
-type: youtube
+type: reading
 updated: '2026-09-26T22:53:32.216825'
 youtube_id: '2'
 ---

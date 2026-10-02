@@ -10,7 +10,7 @@ tags:
 - dating
 - relationships
 title: Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr. K
-type: video
+type: reading
 updated: '2026-09-27T05:24:55.823828'
 video_id: k2l3m4n5o6P7
 ---

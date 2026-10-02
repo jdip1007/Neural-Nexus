@@ -10,7 +10,7 @@ tags:
 - psychology
 title: Why Men Are Gambling Away Their Futures On Polymarket - Dr K
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-25'
 video_id: Why_Men_Are_Gambling_Away_Their_Futures_On_Polymarket
 ---

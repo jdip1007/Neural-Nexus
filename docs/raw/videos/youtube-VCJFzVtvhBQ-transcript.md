@@ -2,7 +2,7 @@
 title: YouTube Transcript: The Alibaba AI Incident Should Terrify Us - Tristan Harris
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=VCJFzVtvhBQ-transcript
 source_type: video
 ingested: 2026-10-01

@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: How Long Can The Stock Market Ignore Reality?
-type: video
+type: reading
 updated: 2026-09-13 23:21:30.376167
 video_id: qmZmKZR8S5U
 views: Unknown

@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why You Wouldn't Survive 1 Day in CECOT... World's Largest Mega Prison in El Salvador
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=mNlKWWgmpus-transcript
 source_type: video
 ingested: 2026-10-01

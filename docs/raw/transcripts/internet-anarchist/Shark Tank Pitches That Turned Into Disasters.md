@@ -4,7 +4,7 @@ ingested: 2026-09-20
 video_id: oyPes09tpbM
 title: Shark Tank Pitches That Turned Into Disasters
 series: 
-tags: [youtube, internet-anarchist, documentary]
+tags: [youtube, internet-anarchist]
 ---
 
 [00:00] Over 17 seasons since its first aired in

@@ -62,8 +62,8 @@ This video discusses What if the World Wars Never Happened And Other Insane Scen
 - 
 - 
 - 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - 
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
+- youtube-5rFIcsi9EVc-what-does
 - 

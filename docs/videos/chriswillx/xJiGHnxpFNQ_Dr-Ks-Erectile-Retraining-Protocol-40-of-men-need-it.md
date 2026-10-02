@@ -9,7 +9,7 @@ tags:
 - general
 title: Dr K's Erectile Retraining Protocol (40% of men need it)
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-21'
 video_id: xJiGHnxpFNQ
 ---

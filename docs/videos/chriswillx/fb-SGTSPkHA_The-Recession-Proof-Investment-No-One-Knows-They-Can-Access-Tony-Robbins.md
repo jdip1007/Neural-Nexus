@@ -9,7 +9,7 @@ tags:
 - general
 title: The Recession-Proof Investment No One Knows They Can Access - Tony Robbins
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-21'
 video_id: fb-SGTSPkHA
 ---

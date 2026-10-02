@@ -11,7 +11,7 @@ tags:
 - diy
 - led
 title: 'The Future of Automotive Technology: Electric Vehicles and Beyond'
-type: video
+type: reading
 updated: '2026-09-23T02:58:27.133303'
 video_id: 5c5f7WzQzY
 views: 89K

@@ -2,7 +2,7 @@
 title: YouTube Transcript: What If You Don't Eat (Day by Day)
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=5rFIcsi9EVc-transcript
 source_type: video
 ingested: 2026-10-01

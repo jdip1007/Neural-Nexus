@@ -2,7 +2,7 @@
 title: YouTube Transcript: Unknown
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=Ethernet_Explained_so_well_that_even_YOU_can_Understand_it-transcript
 source_type: video
 ingested: 2026-10-01

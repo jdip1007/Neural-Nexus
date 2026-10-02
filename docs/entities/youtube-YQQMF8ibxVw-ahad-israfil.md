@@ -33,7 +33,7 @@ Mentioned in the context of research and development.
 
 ## See also
 
-- [[youtube-5rFIcsi9EVc-what-does]]
+- youtube-5rFIcsi9EVc-what-does
 - [[youtube-ZwYrXkPJA1s-ivy-league]]
 - 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

@@ -2,7 +2,7 @@
 title: YouTube Transcript: How America Got So Good At Buying Sh*t
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=aw7ayuTZxi0-transcript
 source_type: video
 ingested: 2026-10-01

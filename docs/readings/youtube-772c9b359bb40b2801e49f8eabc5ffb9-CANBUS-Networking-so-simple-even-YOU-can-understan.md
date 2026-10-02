@@ -11,7 +11,7 @@ tags:
 - code
 - led
 title: CANBUS – Networking so simple, even YOU can understand it!
-type: video
+type: reading
 updated: '2026-09-18T01:35:05.406052'
 video_id: QTTCqGtT6I4
 views: 496K

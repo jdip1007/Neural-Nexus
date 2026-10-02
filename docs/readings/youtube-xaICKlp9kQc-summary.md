@@ -52,9 +52,9 @@ This video discusses How Years Of Gaming Affects Your Brain
 ## See also
 
 - 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
+- youtube-5rFIcsi9EVc-what-does
 - youtube-6BOxK-JrghY-the-work
 - youtube-K1QDYuHGa-I-four-walls
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

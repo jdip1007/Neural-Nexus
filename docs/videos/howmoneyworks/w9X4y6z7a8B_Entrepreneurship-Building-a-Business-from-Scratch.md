@@ -9,7 +9,7 @@ tags:
 - entrepreneurship
 title: 'Entrepreneurship: Building a Business from Scratch'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: w9X4y6z7a8B
 ---

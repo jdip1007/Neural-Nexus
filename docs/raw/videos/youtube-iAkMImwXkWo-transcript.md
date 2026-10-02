@@ -2,7 +2,7 @@
 title: YouTube Transcript: From Core Memory to the Internet: Amazing History of the PDP-11
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=iAkMImwXkWo-transcript
 source_type: video
 ingested: 2026-10-01

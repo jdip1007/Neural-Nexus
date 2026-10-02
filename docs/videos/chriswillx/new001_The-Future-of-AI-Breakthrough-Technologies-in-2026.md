@@ -9,7 +9,7 @@ tags:
 - general
 title: 'The Future of AI: Breakthrough Technologies in 2026'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: new001
 ---

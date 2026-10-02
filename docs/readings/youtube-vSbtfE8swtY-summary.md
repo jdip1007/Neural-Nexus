@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, vSbtfE8swtY]
+tags: [youtube, video-summary]
 sources: [youtube-vSbtfE8swtY-transcript.md]
 published: 2026-10-01
 time_sensitive: False
@@ -25,7 +25,7 @@ This video provides an in-depth analysis of the deserved downfall of tom segura.
 - **Tom-Segura**: [[youtube-vSbtfE8swtY-tom-segura]]
 
 ## Related Concepts
-- [[media]]
+- media
 - [[internet-culture]]
 - [[youtube]]
 

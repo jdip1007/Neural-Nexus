@@ -9,7 +9,7 @@ tags:
 - general
 title: The Hidden Psychology Of Highly Sensitive People - Dr Sasha Hamdani
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: e81
 ---

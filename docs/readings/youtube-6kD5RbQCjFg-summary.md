@@ -55,7 +55,7 @@ This video discusses What Everyone Gets Wrong About ADHD
 
 - 
 - 
-- [[youtube-6kD5RbQCjFg-about-doing]]
-- [[youtube-6kD5RbQCjFg-doing-stuff]]
+- youtube-6kD5RbQCjFg-about-doing
+- youtube-6kD5RbQCjFg-doing-stuff
 - [[youtube-BT4gsZBpL0E-monster-hunter]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

@@ -2,7 +2,7 @@
 title: YouTube Transcript: Microsoft's Secret 90s Weapon That Made Windows Fast
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=jH0BYAkPj78-transcript
 source_type: video
 ingested: 2026-10-01

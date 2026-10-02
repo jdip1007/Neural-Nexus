@@ -2,7 +2,7 @@
 title: YouTube Transcript: Video Game Addiction Overview | Episode 001
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=CooJi1I6V1E-transcript
 source_type: video
 ingested: 2026-10-01

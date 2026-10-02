@@ -6,7 +6,7 @@ sources:
 tags:
 - general
 title: Why You Need Constant Reassurance
-type: video
+type: reading
 updated: '2026-09-13T00:47:36.501755'
 video_id: e101
 video_length: 18 minutes

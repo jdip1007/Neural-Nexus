@@ -55,8 +55,8 @@ This video discusses Why You Should NEVER Confess Your Love
 
 - [[youtube-5rFIcsi9EVc-to-your]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-when-you
 - [[youtube-6kD5RbQCjFg-why-you-should-never-confess-your-love]]
-- [[youtube-xHkcIRZa6lo-does-alice]]
+- youtube-xHkcIRZa6lo-does-alice
 - [[youtube-xHkcIRZa6lo-is-alice]]
-- [[youtube-xHkcIRZa6lo-what-robin]]
+- youtube-xHkcIRZa6lo-what-robin

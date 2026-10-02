@@ -54,7 +54,7 @@ This video discusses The Lie of "Positive Thinking"
 
 ## See also
 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - 
 - [[youtube-l7BaFufR23E-bud-light]]
 - [[youtube-l7BaFufR23E-discovery-channel]]

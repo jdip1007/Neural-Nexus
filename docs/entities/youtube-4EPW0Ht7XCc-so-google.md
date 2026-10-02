@@ -33,7 +33,7 @@ Mentioned in the context of research and development.
 
 ## See also
 
-- [[youtube-4EPW0Ht7XCc-south-korean]]
+- youtube-4EPW0Ht7XCc-south-korean
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WEP5ubPMGDU-big-bang]]
 - 

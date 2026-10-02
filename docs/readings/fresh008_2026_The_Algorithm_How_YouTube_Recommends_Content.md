@@ -2,7 +2,7 @@
 title: The Algorithm: How YouTube Recommends Content
 created: 2026-09-14T00:22:07
 updated: 2026-09-14T00:22:07
-type: video
+type: reading
 classification: hermes.internet-culture.youtube-creator
 domain: hermes
 tags: ["youtube", "youtube-creator", "educational-content", "internet-anarchist", "content-creation", "youtube-algorithm", "internet-culture", "mental-health", "business-strategy"]

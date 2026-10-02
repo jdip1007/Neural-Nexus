@@ -204,5 +204,5 @@ Neuroinflammation represents a critical therapeutic target in AD:
 - [[amyloid-beta]]
 - [[clinical-utility]]
 - [[inflammation]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - 

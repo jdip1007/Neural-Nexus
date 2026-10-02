@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: Why 40% Of Young Men Need Erectile Retraining
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

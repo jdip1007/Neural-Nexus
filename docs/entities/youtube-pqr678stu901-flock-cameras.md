@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: entity
 domain: technology
 classification: technology
-tags: [youtube, video-derived, technology, pqr678stu901]
+tags: [youtube, video-derived]
 sources: [youtube-pqr678stu901-transcript.md]
 confidence: medium
 status: active

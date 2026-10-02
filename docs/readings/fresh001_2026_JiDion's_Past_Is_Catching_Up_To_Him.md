@@ -12,7 +12,7 @@ status: active
 tags:
 - general
 title: JiDion's Past Is Catching Up To Him
-type: video
+type: reading
 updated: 2026-09-14 00:22:01
 video_id: fresh001_2026
 ---

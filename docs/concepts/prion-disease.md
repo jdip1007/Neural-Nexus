@@ -246,5 +246,5 @@ This concept page is based on limited video content (title, description, referen
 - [[neuroinflammation]]
 - [[quality-control]]
 - 
-- [[youtube-lhtcLe9QbMQ-north-america]]
+- youtube-lhtcLe9QbMQ-north-america
 - [[youtube-y7voToyTmOE-jakob-disease]]

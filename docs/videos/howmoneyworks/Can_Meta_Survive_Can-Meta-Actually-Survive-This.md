@@ -9,7 +9,7 @@ tags:
 - investing
 title: Can Meta Actually Survive This?
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-26'
 video_id: Can_Meta_Survive
 ---

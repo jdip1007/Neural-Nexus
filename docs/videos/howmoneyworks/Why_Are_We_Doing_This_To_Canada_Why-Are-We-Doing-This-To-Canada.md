@@ -9,7 +9,7 @@ tags:
 - investing
 title: Why Are We Doing This To Canada?
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-26'
 video_id: Why_Are_We_Doing_This_To_Canada
 ---

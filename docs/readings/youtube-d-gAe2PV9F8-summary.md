@@ -60,7 +60,7 @@ This video discusses The Most Brutal 6 Minutes in Prison History
 - 
 - youtube-1-OKHUNAR8c-the-british
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
+- youtube-5rFIcsi9EVc-what-does
 - youtube-6BOxK-JrghY-the-work
-- [[youtube-7HF6UuVdihA-the-big]]
-- [[youtube-8PYhEWK2wVA-let-it]]
+- youtube-7HF6UuVdihA-the-big
+- youtube-8PYhEWK2wVA-let-it

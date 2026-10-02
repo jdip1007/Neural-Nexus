@@ -12,7 +12,7 @@ status: active
 tags:
 - general
 title: PewDiePie's Journey
-type: video
+type: reading
 updated: 2026-09-14 00:22:05
 video_id: fresh005_2026
 ---

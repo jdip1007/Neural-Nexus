@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: Storage Wars Is Worse Than You Thought
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

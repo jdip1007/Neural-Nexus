@@ -2,7 +2,7 @@
 title: YouTube Transcript: Virus vs Bacteria, What's Actually the Difference?
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=ldejTR04iKg-transcript
 source_type: video
 ingested: 2026-10-01

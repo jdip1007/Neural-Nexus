@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: How To ACTUALLY Break An Addiction
-type: video
+type: reading
 updated: '2026-09-15T01:39:56.733355'
 ---
 

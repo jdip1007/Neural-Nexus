@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, test_video_123]
+tags: [youtube, video-summary]
 sources: [test_transcript.md]
 published: 2026-10-01
 time_sensitive: False
@@ -25,7 +25,7 @@ This video provides an in-depth analysis of test video.
 - **General**: Video content analysis
 
 ## Related Concepts
-- [[media]]
+- media
 - [[internet-culture]]
 - [[youtube]]
 

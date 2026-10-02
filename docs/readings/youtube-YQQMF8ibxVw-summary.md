@@ -61,8 +61,8 @@ trajectory went through any of the key blood
 
 ## See also
 
-- [[youtube-5rFIcsi9EVc-what-does]]
+- youtube-5rFIcsi9EVc-what-does
 - [[youtube-YQQMF8ibxVw-ahad-israfil]]
-- [[youtube-YQQMF8ibxVw-what-happens]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-what-happens
+- youtube-YQQMF8ibxVw-when-you
 - 

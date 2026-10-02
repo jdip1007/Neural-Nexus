@@ -2,7 +2,7 @@
 title: YouTube Transcript: Unknown
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=The_Challenge_Can_we_build_Notepad_in_3K_in_assembly_language-transcript
 source_type: video
 ingested: 2026-10-01

@@ -9,7 +9,7 @@ tags:
 - general
 title: 'WAR DEBATE: "This Is The Worst Crisis Since WW2"'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: e95
 ---

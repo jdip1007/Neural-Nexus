@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)
-type: video
+type: reading
 updated: '2026-09-15T20:13:03.159239'
 video_id: KyfUysrNaco
 views: 5,912,909

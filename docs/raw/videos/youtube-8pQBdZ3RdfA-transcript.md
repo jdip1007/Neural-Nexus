@@ -2,7 +2,7 @@
 title: YouTube Transcript: How Your Feelings Are Disappearing (Alexithymia 101)
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=8pQBdZ3RdfA-transcript
 source_type: video
 ingested: 2026-10-01

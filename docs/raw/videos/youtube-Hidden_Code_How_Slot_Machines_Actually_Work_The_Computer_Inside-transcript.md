@@ -2,7 +2,7 @@
 title: YouTube Transcript: Unknown
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=Hidden_Code_How_Slot_Machines_Actually_Work_The_Computer_Inside-transcript
 source_type: video
 ingested: 2026-10-01

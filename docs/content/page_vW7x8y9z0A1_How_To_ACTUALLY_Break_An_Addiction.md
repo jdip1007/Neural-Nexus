@@ -11,7 +11,7 @@ tags:
 - therapy
 - counseling
 title: How To ACTUALLY Break An Addiction
-type: video
+type: reading
 updated: '2026-09-27T05:24:51.059378'
 video_id: vW7x8y9z0A1
 ---

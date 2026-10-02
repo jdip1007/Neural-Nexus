@@ -2,7 +2,7 @@
 title: YouTube Transcript: How Exposing Wendigoon Ended His Career
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=n8Q_y1sG_t0-transcript
 source_type: video
 ingested: 2026-10-01

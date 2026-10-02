@@ -2,7 +2,7 @@
 title: YouTube Transcript: Unknown
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=The_Secret_RGB_LED_Features_I_Hid_in_this_1970_Lincoln_Continental_Mark_III-transcript
 source_type: video
 ingested: 2026-10-01

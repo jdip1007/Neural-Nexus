@@ -2,7 +2,7 @@
 title: YouTube Transcript: The Story of Lizzie Borden And How She Got Away With Murder
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=uNpHhPJzEEg-transcript
 source_type: video
 ingested: 2026-10-01

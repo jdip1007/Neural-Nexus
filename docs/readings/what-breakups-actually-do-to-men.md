@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: What Breakups ACTUALLY Do To Men
-type: video
+type: reading
 updated: '2026-09-15T01:35:49.964786'
 ---
 

@@ -9,7 +9,7 @@ tags:
 - general
 title: 'Jimmy Carr vs Victorian Slang: Can He Get It Right?'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: e93
 ---

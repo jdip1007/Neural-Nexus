@@ -9,7 +9,7 @@ tags:
 - general
 title: 'Digital Minimalism: Reclaiming Your Life in the Age of Distraction'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-12'
 video_id: new005
 ---

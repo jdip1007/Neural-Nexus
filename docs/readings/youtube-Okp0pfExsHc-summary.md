@@ -63,5 +63,5 @@ gifts people exchanged was methamphetamine. It had
 
 - [[youtube-Okp0pfExsHc-holy-bible]]
 - [[youtube-Okp0pfExsHc-korean-war]]
-- [[youtube-Okp0pfExsHc-north-korea]]
+- youtube-Okp0pfExsHc-north-korea
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

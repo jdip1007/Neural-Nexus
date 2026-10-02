@@ -4,7 +4,7 @@ ingested: 2026-09-20
 video_id: JyNB44JepZc
 title: Ryan's World Is Finally Ending
 series: 
-tags: [youtube, internet-anarchist, documentary]
+tags: [youtube, internet-anarchist]
 ---
 
 [00:00] In an age that has been dominated by

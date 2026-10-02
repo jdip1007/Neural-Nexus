@@ -9,7 +9,7 @@ tags:
 - general
 title: 'Economic Trends: Understanding Market Cycles and Indicators'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: a6b7c8d9e0F
 ---

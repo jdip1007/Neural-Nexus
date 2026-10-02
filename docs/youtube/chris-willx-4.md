@@ -9,7 +9,7 @@ tags:
 - general
 - discussion
 title: 'Chris Willx: Psychiatrist: "Everyone Is Wrong About The Lindsay Clancy Case"'
-type: youtube
+type: reading
 updated: '2026-09-26T22:53:32.215002'
 youtube_id: '4'
 ---

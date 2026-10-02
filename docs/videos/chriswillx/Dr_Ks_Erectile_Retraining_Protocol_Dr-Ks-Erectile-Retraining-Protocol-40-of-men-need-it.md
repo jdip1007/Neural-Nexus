@@ -10,7 +10,7 @@ tags:
 - psychology
 title: Dr K's Erectile Retraining Protocol (40% of men need it)
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-25'
 video_id: Dr_Ks_Erectile_Retraining_Protocol
 ---

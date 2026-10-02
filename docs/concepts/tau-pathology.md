@@ -213,4 +213,4 @@ Tau pathology is the strongest correlate of cognitive impairment in AD. Unlike [
 
 - [[amyloid-beta]]
 - [[neuroinflammation]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to

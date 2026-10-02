@@ -9,7 +9,7 @@ tags:
 - general
 title: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-20'
 video_id: D-uK2Xs6D9s
 ---

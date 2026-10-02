@@ -2,7 +2,7 @@
 title: YouTube Transcript: How Years of Gaming Weakens Brain's Ability to Problem Solve | Executive Dysfunction
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=LojDvrwBcUU-transcript
 source_type: video
 ingested: 2026-10-01

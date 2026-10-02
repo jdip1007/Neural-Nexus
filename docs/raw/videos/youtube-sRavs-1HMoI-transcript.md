@@ -2,7 +2,7 @@
 title: YouTube Transcript: Cicada 3301: The Internet's Greatest Mystery!
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=sRavs-1HMoI-transcript
 source_type: video
 ingested: 2026-10-01

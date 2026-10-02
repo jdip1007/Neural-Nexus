@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: The Lie of "Positive Thinking"
-type: video
+type: reading
 updated: '2026-09-20T04:23:05.438090'
 video_id: vr-EwLQCOIk
 ---

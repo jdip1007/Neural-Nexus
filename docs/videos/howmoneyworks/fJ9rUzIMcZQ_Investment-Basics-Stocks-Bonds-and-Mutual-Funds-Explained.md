@@ -10,7 +10,7 @@ tags:
 - bonds
 title: 'Investment Basics: Stocks, Bonds, and Mutual Funds Explained'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: fJ9rUzIMcZQ
 ---

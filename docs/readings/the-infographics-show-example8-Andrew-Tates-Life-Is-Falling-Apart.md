@@ -8,7 +8,7 @@ sources:
 tags:
 - youtube
 title: Andrew Tate's Life Is Falling Apart
-type: video
+type: reading
 updated: '2026-09-26T05:35:06.511458'
 ---
 

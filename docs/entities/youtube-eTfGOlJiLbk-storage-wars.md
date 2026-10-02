@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: entity
 domain: media
 classification: show
-tags: [youtube, video-derived, show, eTfGOlJiLbk]
+tags: [youtube, video-derived, show]
 sources: [youtube-eTfGOlJiLbk-transcript.md]
 confidence: medium
 status: active

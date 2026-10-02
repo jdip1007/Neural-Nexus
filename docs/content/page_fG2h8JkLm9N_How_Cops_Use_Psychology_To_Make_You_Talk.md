@@ -8,7 +8,7 @@ tags:
 - healthygamergg
 - psychology
 title: How Cops Use Psychology To Make You Talk
-type: video
+type: reading
 updated: '2026-09-27T05:24:53.443040'
 video_id: fG2h8JkLm9N
 ---

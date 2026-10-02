@@ -36,8 +36,8 @@ Mentioned in the context of research and development.
 - [[youtube-5rFIcsi9EVc-to-your]]
 - [[youtube-D8gygc4boZA-body-when]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-YQQMF8ibxVw-what-happens]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-what-happens
+- youtube-YQQMF8ibxVw-when-you
 - 
 - youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
 - [[youtube-heaa4ltxz-4-hand-foundation]]

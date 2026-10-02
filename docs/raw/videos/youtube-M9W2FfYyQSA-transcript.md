@@ -2,7 +2,7 @@
 title: YouTube Transcript: How This Psycho YouTuber Ruined His Life in 7 Minutes...
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=M9W2FfYyQSA-transcript
 source_type: video
 ingested: 2026-10-01

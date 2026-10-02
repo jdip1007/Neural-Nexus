@@ -48,11 +48,11 @@ This video discusses What Dr. K Struggles with...
 
 ## See also
 
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-6kD5RbQCjFg-doing-stuff]]
-- [[youtube-D8gygc4boZA-what-if]]
+- youtube-17rJSSzto4U-how-to
+- youtube-6kD5RbQCjFg-doing-stuff
+- youtube-D8gygc4boZA-what-if
 - [[youtube-Jf19D1HaRjo-is-right]]
 - [[youtube-Q-tiTTvkHpw-fall-apart]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-RhelaTtcmEo-it-it]]
+- youtube-RhelaTtcmEo-it-it
 - [[youtube-WNSZ6xouNv4-and-that]]

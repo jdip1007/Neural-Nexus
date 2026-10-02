@@ -2,7 +2,7 @@
 title: YouTube Transcript: Inside the $14 Billion Contract Crippling Modern Computers
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=lXWVGT7aZVo-transcript
 source_type: video
 ingested: 2026-10-01

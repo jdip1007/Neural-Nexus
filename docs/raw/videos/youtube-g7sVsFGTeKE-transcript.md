@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why UPS Drivers Make $170,000 Per Year And You DON'T
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=g7sVsFGTeKE-transcript
 source_type: video
 ingested: 2026-10-01

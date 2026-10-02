@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: So... Is Private Equity Collapsing Yet?
-type: video
+type: reading
 updated: '2026-09-15T23:45:57.512173'
 video_id: 5aBW_VGT130
 ---

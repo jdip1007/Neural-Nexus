@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: 81% Of Women Said Yes. Only 58% Of Men Did.
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

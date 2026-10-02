@@ -180,7 +180,7 @@ a slight in-game advantage humans are both social
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-WNSZ6xouNv4-used-to]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-when-you
 - 
 - [[youtube-ecBEqWeipWs-the-world]]
 - [[youtube-qWQMyeRrabA-watching-you]]

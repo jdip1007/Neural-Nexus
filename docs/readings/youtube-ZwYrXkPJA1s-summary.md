@@ -53,6 +53,6 @@ This video discusses Why Modern Dating Feels Like Parenting | Lovemaxxing w/ Dr.
 
 ## See also
 
-- [[youtube-ZwYrXkPJA1s-what-what]]
-- [[youtube-nFY50H8nb5E-so-so]]
+- youtube-ZwYrXkPJA1s-what-what
+- youtube-nFY50H8nb5E-so-so
 - [[youtube-uqf6NoAhFts-ivy-league]]

@@ -169,4 +169,4 @@ Into a coherent, navigable web of scientific knowledge
 - [[quality-control]]
 - [[relationships]]
 - [[reproducibility-crisis]]
-- [[youtube-k0ksj42YJaM-that-don]]
+- youtube-k0ksj42YJaM-that-don

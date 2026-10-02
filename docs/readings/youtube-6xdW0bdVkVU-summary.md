@@ -49,7 +49,7 @@ This video discusses Mentalist Secrets Revealed: How To Read Anyone - Oz Pearlma
 ## See also
 
 - 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-6xdW0bdVkVU-and-jimmy]]
 - [[youtube-6xdW0bdVkVU-avengers-endgame]]
 - [[youtube-6xdW0bdVkVU-casey-neistat]]

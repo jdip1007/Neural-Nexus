@@ -51,9 +51,9 @@ This video discusses How I Conquered My Video Game Addiction
 ## See also
 
 - youtube-6BOxK-JrghY-the-work
-- [[youtube-6kD5RbQCjFg-doing-stuff]]
+- youtube-6kD5RbQCjFg-doing-stuff
 - [[youtube-8PYhEWK2wVA-doctor-who]]
-- [[youtube-8PYhEWK2wVA-let-it]]
+- youtube-8PYhEWK2wVA-let-it
 - [[youtube-8PYhEWK2wVA-psychiatric-hospital]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WNSZ6xouNv4-and-that]]

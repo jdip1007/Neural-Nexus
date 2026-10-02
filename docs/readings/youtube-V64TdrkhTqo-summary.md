@@ -74,5 +74,5 @@ government. But like all good philanthropy, the
 - [[youtube-V64TdrkhTqo-mark-zuckerberg]]
 - [[youtube-V64TdrkhTqo-paramount-sky]]
 - [[youtube-V64TdrkhTqo-plaid-note]]
-- [[youtube-XEb89CQJPO4-tik-tok]]
+- youtube-XEb89CQJPO4-tik-tok
 - 

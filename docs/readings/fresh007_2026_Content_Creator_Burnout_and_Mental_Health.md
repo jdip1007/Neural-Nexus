@@ -12,7 +12,7 @@ status: active
 tags:
 - general
 title: Content Creator Burnout and Mental Health
-type: video
+type: reading
 updated: 2026-09-14 00:22:03
 video_id: fresh007_2026
 ---

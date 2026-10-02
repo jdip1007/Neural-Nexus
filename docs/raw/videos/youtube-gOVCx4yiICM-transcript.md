@@ -2,7 +2,7 @@
 title: YouTube Transcript: The Truth About Why America Dropped Atomic Bombs on Japan
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=gOVCx4yiICM-transcript
 source_type: video
 ingested: 2026-10-01

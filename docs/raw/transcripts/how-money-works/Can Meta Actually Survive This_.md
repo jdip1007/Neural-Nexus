@@ -13,7 +13,7 @@ tags: [youtube, how-money-works, finance, investing]
 **Video URL:** https://www.youtube.com/watch?v=4rmkiGMknpg
 **Video ID:** `4rmkiGMknpg`
 **Ingested:** 2026-09-04
-**Transcript:** [[raw/transcripts/how-money-works/Can Meta Actually Survive This_.md]]
+**Transcript:** [[raw/transcripts/how-money-works/Can Meta Actually Survive This_]]
 
 ## Transcript
 [00:00] Today on How Money Works, we're asking the tough question: Can Meta actually survive this challenging market?

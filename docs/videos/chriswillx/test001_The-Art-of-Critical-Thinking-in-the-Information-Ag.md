@@ -9,7 +9,7 @@ tags:
 - general
 title: The Art of Critical Thinking in the Information Age
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: test001
 ---

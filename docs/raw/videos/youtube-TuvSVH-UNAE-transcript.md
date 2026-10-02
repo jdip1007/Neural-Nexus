@@ -2,7 +2,7 @@
 title: YouTube Transcript: Declassified FBI Secrets You’re Not Supposed To Know
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=TuvSVH-UNAE-transcript
 source_type: video
 ingested: 2026-10-01

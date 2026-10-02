@@ -9,7 +9,7 @@ tags:
 - investing
 title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-26'
 video_id: Data_Worth_Harvesting
 ---

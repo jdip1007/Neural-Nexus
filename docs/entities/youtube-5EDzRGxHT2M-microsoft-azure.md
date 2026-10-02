@@ -33,7 +33,7 @@ Mentioned in the context of research and development.
 
 ## See also
 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-5EDzRGxHT2M-how-money]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-WEP5ubPMGDU-big-bang]]

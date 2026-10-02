@@ -9,7 +9,7 @@ tags:
 - media
 title: The Wars in Iran & Ukraine Will Merge Very Soon
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-14'
 video_id: d1BAL1623v4
 ---

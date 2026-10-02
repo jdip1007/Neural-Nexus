@@ -142,4 +142,4 @@ Modern nanopore sequencing has evolved significantly:
 - [[quality-control]]
 - [[sample-preparation]]
 - [[technology]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to

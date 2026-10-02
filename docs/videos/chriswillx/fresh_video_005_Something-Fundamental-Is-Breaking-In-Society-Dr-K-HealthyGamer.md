@@ -9,7 +9,7 @@ tags:
 - general
 title: Something Fundamental Is Breaking In Society - Dr K HealthyGamer
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-21'
 video_id: fresh_video_005
 ---

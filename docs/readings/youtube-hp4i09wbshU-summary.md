@@ -58,7 +58,7 @@ This video discusses The Truth Behind Video Games & Their Psychological Impact -
 - 
 - 
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
-- [[youtube-7HF6UuVdihA-the-big]]
+- youtube-5rFIcsi9EVc-what-does
+- youtube-7HF6UuVdihA-the-big
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-RhelaTtcmEo-it-it]]
+- youtube-RhelaTtcmEo-it-it

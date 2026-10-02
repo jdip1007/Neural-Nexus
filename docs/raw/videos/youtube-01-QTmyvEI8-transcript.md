@@ -2,7 +2,7 @@
 title: YouTube Transcript: The Satisfying Downfall of OnlyJayus
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=01-QTmyvEI8-transcript
 source_type: video
 ingested: 2026-10-01

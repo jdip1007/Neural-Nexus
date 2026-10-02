@@ -195,4 +195,4 @@ Modern tissue-specific extraction has evolved significantly:
 - [[molecular-diagnostics]]
 - [[quality-control]]
 - [[sample-preparation]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to

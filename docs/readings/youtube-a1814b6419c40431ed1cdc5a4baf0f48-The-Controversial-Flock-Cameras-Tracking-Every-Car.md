@@ -11,7 +11,7 @@ tags:
 - diy
 - code
 title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
-type: video
+type: reading
 updated: '2026-09-18T01:39:43.427290'
 video_id: LJSgsf9ro38
 views: 258K

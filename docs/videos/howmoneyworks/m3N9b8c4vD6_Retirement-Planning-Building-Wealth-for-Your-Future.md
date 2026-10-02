@@ -9,7 +9,7 @@ tags:
 - retirement
 title: 'Retirement Planning: Building Wealth for Your Future'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: m3N9b8c4vD6
 ---

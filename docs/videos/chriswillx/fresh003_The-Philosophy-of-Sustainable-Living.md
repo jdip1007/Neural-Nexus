@@ -9,7 +9,7 @@ tags:
 - general
 title: The Philosophy of Sustainable Living
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-12'
 video_id: fresh003
 ---

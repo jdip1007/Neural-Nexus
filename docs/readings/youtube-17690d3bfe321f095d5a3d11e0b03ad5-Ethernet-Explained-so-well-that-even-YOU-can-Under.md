@@ -21,7 +21,7 @@ tags:
 - youtube
 - daves-garage
 title: Ethernet Explained so well that even YOU can Understand it!
-type: video
+type: reading
 updated: '2026-09-29T03:56:45.700823'
 video_id: 7vzjIv2l6wY
 views: 170K

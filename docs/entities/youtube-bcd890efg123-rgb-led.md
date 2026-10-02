@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: entity
 domain: technology
 classification: technology
-tags: [youtube, video-derived, technology, bcd890efg123]
+tags: [youtube, video-derived]
 sources: [youtube-bcd890efg123-transcript.md]
 confidence: medium
 status: active

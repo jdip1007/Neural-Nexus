@@ -9,7 +9,7 @@ tags:
 - general
 title: 'Debt Management: Strategies to Become Debt-Free'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: s2t3u4v5w6G
 ---

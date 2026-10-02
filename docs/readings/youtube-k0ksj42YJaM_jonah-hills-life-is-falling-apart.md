@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: Jonah Hill's Life Is Falling Apart
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

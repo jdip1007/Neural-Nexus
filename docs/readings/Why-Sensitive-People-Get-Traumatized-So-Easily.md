@@ -6,7 +6,7 @@ sources:
 tags:
 - general
 title: Why Sensitive People Get Traumatized So Easily
-type: video
+type: reading
 updated: '2026-09-13T00:47:34.884879'
 video_id: e91
 video_length: 22 minutes

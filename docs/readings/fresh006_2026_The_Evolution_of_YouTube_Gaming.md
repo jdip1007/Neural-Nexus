@@ -12,7 +12,7 @@ status: active
 tags:
 - general
 title: The Evolution of YouTube Gaming
-type: video
+type: reading
 updated: 2026-09-14 00:21:59
 video_id: fresh006_2026
 ---

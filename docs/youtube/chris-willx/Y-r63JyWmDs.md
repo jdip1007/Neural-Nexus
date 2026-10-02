@@ -9,7 +9,7 @@ tags:
 - media
 - culture
 title: 'Chris Willx: Why Women Hate Sydney Sweeney & Love Sabrina Carpenter'
-type: youtube
+type: reading
 updated: '2026-09-26T22:55:46.136249'
 youtube_id: Y-r63JyWmDs
 ---

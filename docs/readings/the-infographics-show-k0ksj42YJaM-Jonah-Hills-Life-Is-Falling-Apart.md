@@ -12,7 +12,7 @@ tags:
 - society
 - psychology
 title: Jonah Hill's Life Is Falling Apart
-type: video
+type: reading
 updated: '2026-09-26T05:35:05.914370'
 ---
 

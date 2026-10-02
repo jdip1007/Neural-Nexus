@@ -10,7 +10,7 @@ tags:
 - psychology
 title: Microsoft's Secret 90s Weapon That Made Windows Fast
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-25'
 video_id: Microsofts_Secret_90s_Weapon_That_Made_Windows_Fast
 ---

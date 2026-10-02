@@ -2,7 +2,7 @@
 title: YouTube Transcript: Astros vs. Athletics Highlights (9/26/26) | MLB Highlights
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=-p-fGg_pA8w-transcript
 source_type: video
 ingested: 2026-10-01

@@ -47,11 +47,11 @@ This video discusses The Dark Side of Fitness: “I Starved Myself Until I Faint
 
 ## See also
 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
-- [[youtube-6kD5RbQCjFg-about-doing]]
-- [[youtube-D8gygc4boZA-what-if]]
-- [[youtube-RhelaTtcmEo-it-it]]
+- youtube-5rFIcsi9EVc-what-does
+- youtube-6kD5RbQCjFg-about-doing
+- youtube-D8gygc4boZA-what-if
+- youtube-RhelaTtcmEo-it-it
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-WNSZ6xouNv4-used-to]]

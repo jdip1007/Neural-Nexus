@@ -2,7 +2,7 @@
 title: The Recession-Proof Investment No One Knows They Can Access - Tony Robbins
 created: 2026-09-28
 updated: 2026-09-28
-type: video
+type: reading
 classification: technology.youtube-channel.chriswillx
 domain: philosophy.psychology
 tags: ["economics"]

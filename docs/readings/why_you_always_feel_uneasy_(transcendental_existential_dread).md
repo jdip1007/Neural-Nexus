@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: Why You Always Feel Uneasy (Transcendental Existential Dread)
-type: video
+type: reading
 updated: '2026-09-20T04:23:06.439021'
 video_id: xHkcIRZa6lo
 ---

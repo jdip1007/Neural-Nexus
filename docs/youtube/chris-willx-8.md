@@ -9,7 +9,7 @@ tags:
 - general
 - discussion
 title: 'Chris Willx: "Trump Might Actually Do the Unthinkable"'
-type: youtube
+type: reading
 updated: '2026-09-26T22:53:32.213104'
 youtube_id: '8'
 ---

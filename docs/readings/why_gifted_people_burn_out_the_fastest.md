@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: Why Gifted People Burn Out The Fastest
-type: video
+type: reading
 updated: '2026-09-20T04:23:03.436082'
 video_id: _N6qPEA_dGc
 ---

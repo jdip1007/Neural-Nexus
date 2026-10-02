@@ -9,7 +9,7 @@ tags:
 - general
 title: The 4 Things You Can Do Now For A Truly Great Life - Dr Andrew Huberman
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-21'
 video_id: fresh_video_004
 ---

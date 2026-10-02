@@ -10,7 +10,7 @@ tags:
 - psychology
 title: Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-25'
 video_id: Why_Sydney_Sweeney_Has_Two_Big_Targets_On_Her_Chest
 ---

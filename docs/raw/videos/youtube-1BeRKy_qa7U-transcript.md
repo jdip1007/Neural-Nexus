@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why You Can't Stop Consuming Video Games & Anime
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=1BeRKy_qa7U-transcript
 source_type: video
 ingested: 2026-10-01

@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: The Deserved Downfall of Tom Segura
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

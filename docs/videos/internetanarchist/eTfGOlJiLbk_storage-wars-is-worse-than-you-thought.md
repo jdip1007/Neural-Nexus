@@ -2,7 +2,7 @@
 title: Storage Wars Is Worse Than You Thought
 created: 2026-09-27
 updated: 2026-09-27
-type: video
+type: reading
 classification: media.youtube-channel.internetanarchist
 domain: media
 tags: ["internet", "media", "culture"]

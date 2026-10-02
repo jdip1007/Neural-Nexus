@@ -149,4 +149,4 @@ Modern cell line culture has evolved significantly:
 - [[genomics]]
 - [[quality-control]]
 - [[technology]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to

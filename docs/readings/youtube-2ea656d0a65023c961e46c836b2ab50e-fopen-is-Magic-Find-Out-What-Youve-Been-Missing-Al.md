@@ -11,7 +11,7 @@ tags:
 - diy
 - led
 title: fopen is Magic! - Find Out What You've Been Missing All These Years!
-type: video
+type: reading
 updated: '2026-09-23T02:58:27.446989'
 video_id: 2c4Yf7WzQzY
 views: 129K

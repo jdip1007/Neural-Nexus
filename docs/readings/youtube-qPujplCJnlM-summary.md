@@ -67,4 +67,4 @@ was just a few years ago. That means the margin of
 - [[youtube-FVZDXz3Iibw-the-american]]
 - [[youtube-qPujplCJnlM-latin-america]]
 - [[youtube-qPujplCJnlM-new-mexico]]
-- [[youtube-qPujplCJnlM-not-oil]]
+- youtube-qPujplCJnlM-not-oil

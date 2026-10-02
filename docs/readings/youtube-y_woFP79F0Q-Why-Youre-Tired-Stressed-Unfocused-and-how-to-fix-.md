@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: Why You're Tired, Stressed & Unfocused (and how to fix it)
-type: video
+type: reading
 updated: '2026-09-15T20:13:07.165967'
 video_id: y_woFP79F0Q
 views: 295K

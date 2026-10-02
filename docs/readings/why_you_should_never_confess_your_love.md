@@ -7,7 +7,7 @@ sources:
 tags:
 - love
 title: Why You Should NEVER Confess Your Love
-type: video
+type: reading
 updated: '2026-09-20T04:23:02.435169'
 video_id: xWz2oqOqPHw
 ---

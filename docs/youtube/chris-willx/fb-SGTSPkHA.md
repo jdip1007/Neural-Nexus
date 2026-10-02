@@ -11,7 +11,7 @@ tags:
 - wealth
 title: 'Chris Willx: The Recession-Proof Investment No One Knows They Can Access -
   Tony Robbins'
-type: youtube
+type: reading
 updated: '2026-09-26T22:55:46.136169'
 youtube_id: fb-SGTSPkHA
 ---
@@ -26,7 +26,7 @@ Financial analysis and investment strategies for uncertain economic times. We ex
 
 ## Key Topics
 
-- [[Finance]]
+- [[finance]]
 - Economics
 - Wealth
 

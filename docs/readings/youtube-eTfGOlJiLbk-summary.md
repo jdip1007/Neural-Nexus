@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, eTfGOlJiLbk]
+tags: [youtube, video-summary]
 sources: [youtube-eTfGOlJiLbk-transcript.md]
 published: 2026-10-01
 time_sensitive: False
@@ -25,7 +25,7 @@ This video provides an in-depth analysis of storage wars is worse than you thoug
 - **Storage-Wars**: [[youtube-eTfGOlJiLbk-storage-wars]]
 
 ## Related Concepts
-- [[media]]
+- media
 - [[internet-culture]]
 - [[youtube]]
 

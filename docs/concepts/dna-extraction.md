@@ -134,4 +134,4 @@ Modern DNA extraction has evolved significantly:
 - [[molecular-biology]]
 - [[quality-control]]
 - [[sample-preparation]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to

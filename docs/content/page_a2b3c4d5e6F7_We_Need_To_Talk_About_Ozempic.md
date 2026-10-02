@@ -11,7 +11,7 @@ tags:
 - relationships
 - counseling
 title: We Need To Talk About Ozempic
-type: video
+type: reading
 updated: '2026-09-27T05:24:10.028008'
 video_id: a2b3c4d5e6F7
 ---

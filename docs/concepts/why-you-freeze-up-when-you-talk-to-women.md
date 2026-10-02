@@ -58,5 +58,5 @@ This content from HealthyGamerGG explores why you freeze up when you talk to wom
 
 - [[psychology]]
 - [[relationships]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-when-you
 - 

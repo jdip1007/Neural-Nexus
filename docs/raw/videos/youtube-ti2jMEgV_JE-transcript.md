@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why Most People Are Actually "Too Good" For Their Job
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=ti2jMEgV_JE-transcript
 source_type: video
 ingested: 2026-10-01

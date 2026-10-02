@@ -27,9 +27,9 @@ A very slow training session with Zac Efron - Fitness and workout insights featu
 
 ## Key Topics
 
-- [[Fitness]]
-- [[Health]]
-- [[Wellness]]
+- Fitness
+- Health
+- [[wellness]]
 
 ## Transcript
 
@@ -37,8 +37,8 @@ A very slow training session with Zac Efron - Fitness and workout insights featu
 
 ## Related Videos
 
-- [[Chris Willx]] channel
-- [[YouTube]] content
+- [[chris-willx]] channel
+- [[youtube]] content
 
 ## Notes
 

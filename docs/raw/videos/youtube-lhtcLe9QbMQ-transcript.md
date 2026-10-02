@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why I Specialize In Video Game Addiction
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=lhtcLe9QbMQ-transcript
 source_type: video
 ingested: 2026-10-01

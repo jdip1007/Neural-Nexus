@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why Your Computer Is Slow — Task Manager Can't Tell You
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=z_mFHlUpC-g-transcript
 source_type: video
 ingested: 2026-10-01

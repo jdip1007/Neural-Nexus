@@ -61,7 +61,7 @@ maintenance of weight distribution is key.
 - 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-SpXCOlrCgfM-los-angeles]]
-- [[youtube-SpXCOlrCgfM-north-carolina]]
+- youtube-SpXCOlrCgfM-north-carolina
 - [[youtube-SpXCOlrCgfM-southern-california]]
-- [[youtube-YQQMF8ibxVw-what-happens]]
+- youtube-YQQMF8ibxVw-what-happens
 - [[youtube-ecBEqWeipWs-the-world]]

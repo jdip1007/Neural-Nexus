@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: Why Normal Life Feels So Boring
-type: video
+type: reading
 updated: '2026-09-21T04:29:12.564072'
 ---
 

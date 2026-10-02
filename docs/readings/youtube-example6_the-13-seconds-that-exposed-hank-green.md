@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: The 13 Seconds That Exposed Hank Green
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

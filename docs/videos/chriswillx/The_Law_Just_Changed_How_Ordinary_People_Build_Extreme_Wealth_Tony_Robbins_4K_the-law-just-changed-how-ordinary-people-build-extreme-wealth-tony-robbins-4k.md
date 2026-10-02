@@ -2,7 +2,7 @@
 title: The Law Just Changed. How Ordinary People Build Extreme Wealth - Tony Robbins (4K)
 created: 2026-09-28
 updated: 2026-09-28
-type: video
+type: reading
 classification: technology.youtube-channel.chriswillx
 domain: philosophy.psychology
 tags: ["success", "economics"]
@@ -47,7 +47,7 @@ Hello everyone, and welcome to the Chris Willx channel! Today we're going to exp
 
 ## Related Resources
 
-- [[success]]
+- success
 - [[economics]]
 
 ---

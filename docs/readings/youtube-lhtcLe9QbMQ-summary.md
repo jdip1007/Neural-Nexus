@@ -48,5 +48,5 @@ This video discusses Why I Specialize In Video Game Addiction
 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-lhtcLe9QbMQ-harvard-medical]]
-- [[youtube-lhtcLe9QbMQ-massachusetts-general]]
-- [[youtube-lhtcLe9QbMQ-north-america]]
+- youtube-lhtcLe9QbMQ-massachusetts-general
+- youtube-lhtcLe9QbMQ-north-america

@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: 'Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy'
-type: video
+type: reading
 updated: '2026-09-15T20:13:05.162762'
 video_id: VCJFzVtvhBQ
 views: Unknown

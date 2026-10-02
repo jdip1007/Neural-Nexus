@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, jrODl7N35FQ]
+tags: [youtube, video-summary]
 sources: [youtube-jrODl7N35FQ-transcript.md]
 published: 2026-10-01
 time_sensitive: False

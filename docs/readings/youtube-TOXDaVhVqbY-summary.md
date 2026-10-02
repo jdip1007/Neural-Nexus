@@ -50,10 +50,10 @@ This video discusses The Rise, Fall and Return of YouTube’s Most Hated Troll
 
 ## See also
 
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-D8gygc4boZA-what-if]]
+- youtube-17rJSSzto4U-how-to
+- youtube-D8gygc4boZA-what-if
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-ROHQecKe5aE-on-may]]
+- youtube-ROHQecKe5aE-on-may
 - [[youtube-TOXDaVhVqbY-blitz-chong]]
 - [[youtube-TOXDaVhVqbY-friday-evan]]
 - [[youtube-Unzc731iCUY-bill-clinton]]

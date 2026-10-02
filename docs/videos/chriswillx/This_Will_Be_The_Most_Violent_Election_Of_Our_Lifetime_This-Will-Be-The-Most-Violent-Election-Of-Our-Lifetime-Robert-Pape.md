@@ -10,7 +10,7 @@ tags:
 - psychology
 title: This Will Be The Most Violent Election Of Our Lifetime - Robert Pape
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-25'
 video_id: This_Will_Be_The_Most_Violent_Election_Of_Our_Lifetime
 ---

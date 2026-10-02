@@ -9,7 +9,7 @@ tags:
 - budgeting
 title: 'Understanding Personal Finance: Budgeting and Saving Strategies'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: dQw4w9WgXcQ
 ---

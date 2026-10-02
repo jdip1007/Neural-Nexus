@@ -49,4 +49,4 @@ This video discusses Why You Should Stop Watching YouTube (Yes, Even This Video)
 - 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-XEb89CQJPO4-american-psychiatric]]
-- [[youtube-XEb89CQJPO4-tik-tok]]
+- youtube-XEb89CQJPO4-tik-tok

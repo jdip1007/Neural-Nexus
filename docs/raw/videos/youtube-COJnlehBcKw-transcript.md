@@ -2,7 +2,7 @@
 title: YouTube Transcript: Ultimate LED Effects: New Software and Hardware!
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=COJnlehBcKw-transcript
 source_type: video
 ingested: 2026-10-01

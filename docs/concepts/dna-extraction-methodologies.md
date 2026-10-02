@@ -161,4 +161,4 @@ Modern DNA extraction methodologies have evolved significantly:
 - [[quality-control]]
 - [[regulatory-compliance]]
 - [[sample-preparation]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to

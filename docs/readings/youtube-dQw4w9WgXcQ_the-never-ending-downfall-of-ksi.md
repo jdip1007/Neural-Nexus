@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: The Never-Ending Downfall of KSI
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

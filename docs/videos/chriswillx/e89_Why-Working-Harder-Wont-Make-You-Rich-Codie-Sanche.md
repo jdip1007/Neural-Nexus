@@ -9,7 +9,7 @@ tags:
 - general
 title: Why Working Harder Won't Make You Rich - Codie Sanchez
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: e89
 ---

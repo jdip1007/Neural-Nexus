@@ -31,6 +31,6 @@ This video discusses Hades: The Solution to Analysis Paralysis in Esports
 
 ## See also
 
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-when-you
 - 
 - [[youtube-ecBEqWeipWs-the-world]]

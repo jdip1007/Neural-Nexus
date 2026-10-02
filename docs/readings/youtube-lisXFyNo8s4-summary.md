@@ -67,5 +67,5 @@ her confident buzz and relaxed demeanor,
 - [[youtube-5rFIcsi9EVc-to-your]]
 - [[youtube-D8gygc4boZA-body-when]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-YQQMF8ibxVw-what-happens]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-what-happens
+- youtube-YQQMF8ibxVw-when-you

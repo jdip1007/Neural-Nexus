@@ -44,7 +44,7 @@ This video discusses The Problem With Weed…
 
 - [[youtube-5rFIcsi9EVc-to-your]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-RhelaTtcmEo-it-it]]
+- youtube-RhelaTtcmEo-it-it
 - [[youtube-WNSZ6xouNv4-and-that]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-when-you
 - 

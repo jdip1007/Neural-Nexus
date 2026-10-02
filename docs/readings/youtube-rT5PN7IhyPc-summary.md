@@ -52,10 +52,10 @@ This video discusses If You Date Someone With Borderline Personality Disorder (B
 ## See also
 
 - 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
+- youtube-5rFIcsi9EVc-what-does
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-RhelaTtcmEo-it-it]]
+- youtube-RhelaTtcmEo-it-it
 - [[youtube-WNSZ6xouNv4-and-that]]
-- [[youtube-YQQMF8ibxVw-what-happens]]
+- youtube-YQQMF8ibxVw-what-happens

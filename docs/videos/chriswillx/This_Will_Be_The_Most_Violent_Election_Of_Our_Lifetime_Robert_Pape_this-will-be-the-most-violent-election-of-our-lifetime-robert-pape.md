@@ -2,10 +2,10 @@
 title: This Will Be The Most Violent Election Of Our Lifetime - Robert Pape
 created: 2026-09-28
 updated: 2026-09-28
-type: video
+type: reading
 classification: technology.youtube-channel.chriswillx
 domain: philosophy.psychology
-tags: ["philosophy", "politics"]
+tags: [politics]
 sources: [raw/videos/chriswillx/This_Will_Be_The_Most_Violent_Election_Of_Our_Lifetime_Robert_Pape_this-will-be-the-most-violent-election-of-our-lifetime-robert-pape.md]
 confidence: high
 status: active
@@ -48,7 +48,7 @@ Hello everyone, and welcome to the Chris Willx channel! Today we're going to exp
 ## Related Resources
 
 - [[philosophy]]
-- [[politics]]
+- politics
 
 ---
 

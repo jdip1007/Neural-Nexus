@@ -8,7 +8,7 @@ sources:
 tags:
 - youtube
 title: Why Sensitive People Get Traumatized So Easily
-type: video
+type: reading
 updated: '2026-09-26T05:35:07.045058'
 ---
 

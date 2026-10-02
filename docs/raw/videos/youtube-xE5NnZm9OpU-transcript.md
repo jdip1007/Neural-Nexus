@@ -2,7 +2,7 @@
 title: YouTube Transcript: The Car REPOSSESSION Epidemic
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=xE5NnZm9OpU-transcript
 source_type: video
 ingested: 2026-10-01

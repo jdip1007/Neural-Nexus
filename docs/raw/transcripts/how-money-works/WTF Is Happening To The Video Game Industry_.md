@@ -13,7 +13,7 @@ tags: [youtube, how-money-works, finance, investing]
 **Video URL:** https://www.youtube.com/watch?v=Sx-lddna-qg
 **Video ID:** `Sx-lddna-qg`
 **Ingested:** 2026-09-04
-**Transcript:** [[raw/transcripts/how-money-works/WTF Is Happening To The Video Game Industry_.md]]
+**Transcript:** [[raw/transcripts/how-money-works/WTF Is Happening To The Video Game Industry_]]
 
 ## Transcript
 [00:00] Welcome to How Money Works, where we break down the financial side of the video game industry.

@@ -11,7 +11,7 @@ tags:
 - relationships
 title: 'Chris Willx: How To Win The Algorithm, Even If You Hate It - Dylan Gossett
   (Live Performance)'
-type: youtube
+type: reading
 updated: '2026-09-26T22:55:46.135683'
 youtube_id: HC6-yqH_axA
 ---

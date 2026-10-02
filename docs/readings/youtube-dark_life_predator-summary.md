@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, dark_life_predator]
+tags: [youtube, video-summary]
 sources: [youtube-dark_life_predator-transcript.md]
 published: 2026-10-01
 time_sensitive: False
@@ -22,10 +22,10 @@ This video provides an in-depth analysis of the dark life after to catch a preda
 ## Key Points
 
 ## Entities Mentioned
-- **Predatory-Behavior**: [[youtube-dark_life_predator-predatory-behavior]]
+- **Predatory-Behavior**: youtube-dark_life_predator-predatory-behavior
 
 ## Related Concepts
-- [[media]]
+- media
 - [[internet-culture]]
 - [[youtube]]
 

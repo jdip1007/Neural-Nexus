@@ -69,4 +69,4 @@ in sex overall. American adults are
 - 
 - [[youtube-uWYKdkwNVYE-honda-pilot]]
 - [[youtube-uWYKdkwNVYE-manhattan-institute]]
-- [[youtube-uWYKdkwNVYE-were-born]]
+- youtube-uWYKdkwNVYE-were-born

@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: Why You Can't Just "Rewire" Your Brain
-type: video
+type: reading
 updated: '2026-09-21T04:29:12.562684'
 ---
 

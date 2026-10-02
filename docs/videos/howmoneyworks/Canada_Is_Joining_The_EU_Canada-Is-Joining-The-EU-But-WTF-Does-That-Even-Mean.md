@@ -9,7 +9,7 @@ tags:
 - investing
 title: Canada Is Joining The EU... But WTF Does That Even Mean?!
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-26'
 video_id: Canada_Is_Joining_The_EU
 ---

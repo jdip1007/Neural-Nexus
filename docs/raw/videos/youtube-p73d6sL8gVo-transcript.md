@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why Are We Doing This To Canada?
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=p73d6sL8gVo-transcript
 source_type: video
 ingested: 2026-10-01

@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: entity
 domain: media
 classification: person
-tags: [youtube, video-derived, person, gcx2jMbBGY4]
+tags: [youtube, video-derived, entity]
 sources: [youtube-gcx2jMbBGY4-transcript.md]
 confidence: medium
 status: active

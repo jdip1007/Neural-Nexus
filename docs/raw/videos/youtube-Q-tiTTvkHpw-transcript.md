@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why Restricting Video Games As A Parent Is Actually Damaging
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=Q-tiTTvkHpw-transcript
 source_type: video
 ingested: 2026-10-01

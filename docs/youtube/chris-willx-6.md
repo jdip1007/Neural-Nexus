@@ -9,7 +9,7 @@ tags:
 - general
 - discussion
 title: 'Chris Willx: Why Women Never Choose The Nice Guy'
-type: youtube
+type: reading
 updated: '2026-09-26T22:53:32.218651'
 youtube_id: '6'
 ---

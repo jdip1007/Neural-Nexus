@@ -9,7 +9,7 @@ tags:
 - general
 title: Insane Biohack Devices That Actually Work
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-16'
 video_id: 8son5OkbC90
 ---

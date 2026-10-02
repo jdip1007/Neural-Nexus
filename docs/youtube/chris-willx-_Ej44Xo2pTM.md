@@ -26,8 +26,8 @@ The Harsh Truth About Peptides - Andrew Huberman explains the science behind pep
 
 ## Key Topics
 
-- [[General]]
-- [[Discussion]]
+- General
+- Discussion
 
 ## Transcript
 
@@ -35,8 +35,8 @@ The Harsh Truth About Peptides - Andrew Huberman explains the science behind pep
 
 ## Related Videos
 
-- [[Chris Willx]] channel
-- [[YouTube]] content
+- [[chris-willx]] channel
+- [[youtube]] content
 
 ## Notes
 

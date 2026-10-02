@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: Raccoon Wars, Lindsay Clancy, NFL Scammers & More
-type: video
+type: reading
 updated: '2026-09-15T20:13:04.161266'
 video_id: VaoGl-soL1g
 views: 279K

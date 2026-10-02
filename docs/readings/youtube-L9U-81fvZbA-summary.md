@@ -64,4 +64,4 @@ This video discusses Declassified FBI Secrets You’re Not Supposed To Know
 - 
 - 
 - [[the-infographics-show]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to

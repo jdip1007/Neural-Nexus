@@ -5,7 +5,7 @@ updated: 2026-09-17
 type: reading
 domain: mental-health
 classification: mental-health.gaming
-tags: [video-summary, transcript, healthygamer-gg, gaming, mental-health]
+tags: [video-summary, healthygamer-gg, gaming, mental-health]
 sources: [raw/videos/youtube-VIDEO5-transcript.md]
 published: 2024-01-15
 time_sensitive: false

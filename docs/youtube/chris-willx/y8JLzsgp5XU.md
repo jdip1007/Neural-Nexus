@@ -9,7 +9,7 @@ tags:
 - geopolitics
 - conflict
 title: 'Chris Willx: Why Men Are Gambling Away Their Futures On Polymarket - Dr K'
-type: youtube
+type: reading
 updated: '2026-09-26T22:55:46.135958'
 youtube_id: y8JLzsgp5XU
 ---

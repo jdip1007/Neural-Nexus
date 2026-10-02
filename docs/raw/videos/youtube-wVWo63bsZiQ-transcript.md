@@ -2,7 +2,7 @@
 title: YouTube Transcript: Dumb YouTube Videos That Got People Fired
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=wVWo63bsZiQ-transcript
 source_type: video
 ingested: 2026-10-01

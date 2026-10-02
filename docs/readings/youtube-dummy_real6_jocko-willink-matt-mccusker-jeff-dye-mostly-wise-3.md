@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: 'Jocko Willink, Matt McCusker & Jeff Dye - Mostly Wise #3'
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

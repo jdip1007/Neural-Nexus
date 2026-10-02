@@ -33,8 +33,8 @@ The finding suggests important implications for understanding the topic.
 - [[economic-inequality]]
 - [[lifespan]]
 - [[psychology]]
-- [[youtube-RpRZ8BQiiMo-next-generation]]
+- youtube-RpRZ8BQiiMo-next-generation
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-WNSZ6xouNv4-used-to]]
-- [[youtube-YQQMF8ibxVw-when-you]]
-- [[youtube-ZwYrXkPJA1s-what-what]]
+- youtube-YQQMF8ibxVw-when-you
+- youtube-ZwYrXkPJA1s-what-what

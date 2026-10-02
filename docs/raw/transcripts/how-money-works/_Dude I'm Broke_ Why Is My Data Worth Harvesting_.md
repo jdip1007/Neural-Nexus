@@ -13,7 +13,7 @@ tags: [youtube, how-money-works, finance, investing]
 **Video URL:** https://www.youtube.com/watch?v=6BOxK_JrghY
 **Video ID:** `6BOxK_JrghY`
 **Ingested:** 2026-09-04
-**Transcript:** [[raw/transcripts/how-money-works/_Dude I'm Broke_ Why Is My Data Worth Harvesting_.md]]
+**Transcript:** [[raw/transcripts/how-money-works/_Dude I'm Broke_ Why Is My Data Worth Harvesting_]]
 
 ## Transcript
 [00:00] Welcome to How Money Works, where today we're exploring why your data might be worth harvesting even when you're broke.

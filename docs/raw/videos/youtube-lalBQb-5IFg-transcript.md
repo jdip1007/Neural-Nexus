@@ -2,7 +2,7 @@
 title: YouTube Transcript: UNIX Cold Boot: Sights and Sounds of a PDP-11/83 from 1983 Booting!
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=lalBQb-5IFg-transcript
 source_type: video
 ingested: 2026-10-01

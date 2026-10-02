@@ -33,8 +33,8 @@ The finding suggests important implications for understanding the topic.
 - [[mental-health]]
 - [[psychology]]
 - [[relationships]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
+- youtube-5rFIcsi9EVc-what-does
 - youtube-6BOxK-JrghY-the-work
 - [[youtube-WNSZ6xouNv4-and-that]]

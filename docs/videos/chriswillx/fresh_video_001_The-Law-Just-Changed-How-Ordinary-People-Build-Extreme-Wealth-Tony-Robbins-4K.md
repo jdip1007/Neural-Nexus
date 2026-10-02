@@ -10,7 +10,7 @@ tags:
 title: The Law Just Changed. How Ordinary People Build Extreme Wealth - Tony Robbins
   (4K)
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-21'
 video_id: fresh_video_001
 ---

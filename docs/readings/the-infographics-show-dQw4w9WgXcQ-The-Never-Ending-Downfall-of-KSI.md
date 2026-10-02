@@ -8,7 +8,7 @@ sources:
 tags:
 - youtube
 title: The Never-Ending Downfall of KSI
-type: video
+type: reading
 updated: '2026-09-26T05:35:07.556810'
 ---
 

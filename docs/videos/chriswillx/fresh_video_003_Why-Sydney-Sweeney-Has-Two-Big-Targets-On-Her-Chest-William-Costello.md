@@ -9,7 +9,7 @@ tags:
 - general
 title: Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-21'
 video_id: fresh_video_003
 ---

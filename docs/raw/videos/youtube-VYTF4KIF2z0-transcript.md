@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why I Deleted printf() from Windows COM in 1994!
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=VYTF4KIF2z0-transcript
 source_type: video
 ingested: 2026-10-01

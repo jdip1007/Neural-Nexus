@@ -2,7 +2,7 @@
 title: YouTube Transcript: Could 2 People Actually Repopulate Earth
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=Z83I2tz5UzM-transcript
 source_type: video
 ingested: 2026-10-01

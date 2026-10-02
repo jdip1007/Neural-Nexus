@@ -27,9 +27,9 @@ How To Lock-In For Winter - Sam Sulek discusses strategies for winter preparatio
 
 ## Key Topics
 
-- [[Fitness]]
-- [[Health]]
-- [[Wellness]]
+- Fitness
+- Health
+- [[wellness]]
 
 ## Transcript
 
@@ -37,8 +37,8 @@ How To Lock-In For Winter - Sam Sulek discusses strategies for winter preparatio
 
 ## Related Videos
 
-- [[Chris Willx]] channel
-- [[YouTube]] content
+- [[chris-willx]] channel
+- [[youtube]] content
 
 ## Notes
 

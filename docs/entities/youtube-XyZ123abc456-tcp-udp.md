@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: entity
 domain: technology
 classification: protocol
-tags: [youtube, video-derived, protocol, XyZ123abc456]
+tags: [youtube, video-derived, protocol]
 sources: [youtube-XyZ123abc456-transcript.md]
 confidence: medium
 status: active

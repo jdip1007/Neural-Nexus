@@ -246,5 +246,5 @@ The question is: Do you want convenience, or control?
 - [[executive-function-rust]]
 - [[technology]]
 - [[terminal-boredom]]
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-XEb89CQJPO4-tik-tok]]
+- youtube-17rJSSzto4U-how-to
+- youtube-XEb89CQJPO4-tik-tok

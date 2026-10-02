@@ -6,7 +6,7 @@ sources:
 tags:
 - general
 title: Analyzing The Lindsay Clancy Case
-type: video
+type: reading
 updated: '2026-09-13T00:47:37.345505'
 video_id: e93
 video_length: 29 minutes

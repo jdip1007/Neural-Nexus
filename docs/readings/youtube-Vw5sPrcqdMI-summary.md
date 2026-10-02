@@ -50,10 +50,10 @@ This video discusses The Deserved Downfall of Jake Doolittle
 ## See also
 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-RhelaTtcmEo-it-it]]
+- youtube-RhelaTtcmEo-it-it
 - [[youtube-Vw5sPrcqdMI-my-views]]
 - [[youtube-Vw5sPrcqdMI-sniper-wolf]]
 - [[youtube-Vw5sPrcqdMI-total-annihilation]]
 - [[youtube-WNSZ6xouNv4-and-that]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-when-you
 - 

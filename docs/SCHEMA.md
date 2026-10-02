@@ -20,7 +20,7 @@ Multi-domain knowledge base: AI/ML, biotechnology, finance, psychology, devops, 
 - **Frontmatter**: Every page must have YAML frontmatter (see below)
 - **Wikilinks**: Use `[[page-name]]` for internal links (Obsidian-style)
   - Internal page: `[[page-name]]`
-  - Link to header: `[[page-name#Header]]`
+  - Link to header: `page-name#Header`
   - Custom text: `[[page-name|display text]]`
   - External URL: `[text](https://example.com/)`
   - Minimum 2 outbound `[[wikilinks]]` per page
@@ -953,6 +953,9 @@ design
 5. **Findings**: Novel insight from processing
 6. **Comparisons**: When analyzing 2+ items
 
+- politics
+- protocol
+- show
 ## Update Policy
 
 When new information conflicts with existing content:

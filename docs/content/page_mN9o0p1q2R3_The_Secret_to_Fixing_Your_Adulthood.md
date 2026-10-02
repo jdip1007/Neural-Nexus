@@ -10,7 +10,7 @@ tags:
 - communication
 - relationships
 title: The Secret to Fixing Your Adulthood
-type: video
+type: reading
 updated: '2026-09-27T05:25:00.585141'
 video_id: mN9o0p1q2R3
 ---

@@ -58,8 +58,8 @@ this rivalry in part contributed to the rift
 
 ## See also
 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-VNMPkbMM288-kanye-west]]
 - [[youtube-VNMPkbMM288-master-mason]]
-- [[youtube-VNMPkbMM288-run-the]]
+- youtube-VNMPkbMM288-run-the

@@ -9,7 +9,7 @@ tags:
 - investing
 title: 'Real Estate Investing: A Beginner''s Guide to Property Investment'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: jNQXAC9IVRw
 ---

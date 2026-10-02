@@ -9,7 +9,7 @@ tags:
 - general
 title: Understanding Mental Health in the Digital Era
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-12'
 video_id: fresh002
 ---

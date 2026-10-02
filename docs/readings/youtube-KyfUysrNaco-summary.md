@@ -58,6 +58,6 @@ This video discusses 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K
 
 - 
 - [[youtube-KyfUysrNaco-and-whimo]]
-- [[youtube-KyfUysrNaco-tim-tim]]
+- youtube-KyfUysrNaco-tim-tim
 - [[youtube-KyfUysrNaco-tony-robbins]]
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K
-type: video
+type: reading
 updated: '2026-09-15T01:35:49.964384'
 ---
 

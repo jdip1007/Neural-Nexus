@@ -21,7 +21,7 @@ tags:
 - youtube
 - daves-garage
 title: 'The NEW Kind of LED You Should Know About: Dave Plummer'
-type: video
+type: reading
 updated: '2026-09-29T03:56:44.926704'
 video_id: 4c5f7WzQzY
 views: 1.1M

@@ -9,7 +9,7 @@ tags:
 - general
 title: Canada Is Winning The Trade War
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-20'
 video_id: p73d6sL8gVo
 ---

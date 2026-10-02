@@ -7,7 +7,7 @@ sources:
 tags:
 - tech
 title: '"Dude I''m Broke" Why Is My Data Worth Harvesting?'
-type: video
+type: reading
 updated: '2026-09-15T23:45:59.828688'
 video_id: 6BOxK_JrghY
 ---

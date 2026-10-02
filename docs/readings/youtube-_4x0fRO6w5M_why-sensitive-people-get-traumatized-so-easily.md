@@ -2,7 +2,7 @@
 title: Why Sensitive People Get Traumatized So Easily
 created: 2026-09-15
 updated: 2026-09-15
-type: video
+type: reading
 classification: internet_culture.youtube-channel.internet-anarchist
 domain: internet_culture
 tags: ["]

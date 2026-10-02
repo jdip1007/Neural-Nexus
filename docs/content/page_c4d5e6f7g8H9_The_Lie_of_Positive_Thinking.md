@@ -9,7 +9,7 @@ tags:
 - psychology
 - relationships
 title: The Lie of "Positive Thinking"
-type: video
+type: reading
 updated: '2026-09-27T05:24:08.885371'
 video_id: c4d5e6f7g8H9
 ---

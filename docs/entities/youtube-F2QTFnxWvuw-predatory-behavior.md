@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: entity
 domain: media
 classification: concept
-tags: [youtube, video-derived, concept, F2QTFnxWvuw]
+tags: [youtube, video-derived, concept]
 sources: [youtube-F2QTFnxWvuw-transcript.md]
 confidence: medium
 status: active

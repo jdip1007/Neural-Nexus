@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, james_corden_123]
+tags: [youtube, video-summary]
 sources: [youtube-james_corden_123-transcript.md]
 published: 2026-10-01
 time_sensitive: False
@@ -22,10 +22,10 @@ This video provides an in-depth analysis of james corden's life is falling apart
 ## Key Points
 
 ## Entities Mentioned
-- **James-Corden**: [[youtube-james_corden_123-james-corden]]
+- **James-Corden**: youtube-james_corden_123-james-corden
 
 ## Related Concepts
-- [[media]]
+- media
 - [[internet-culture]]
 - [[youtube]]
 

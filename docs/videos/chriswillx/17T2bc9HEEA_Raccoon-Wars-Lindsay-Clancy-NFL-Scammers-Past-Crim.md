@@ -9,7 +9,7 @@ tags:
 - media
 title: Raccoon Wars, Lindsay Clancy, NFL Scammers & Past Crimes - Matt McCusker
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-14'
 video_id: 17T2bc9HEEA
 ---

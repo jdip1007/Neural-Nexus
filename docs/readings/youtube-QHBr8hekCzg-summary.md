@@ -5,7 +5,7 @@ updated: 2026-09-30
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, QHBr8hekCzg]
+tags: [youtube, video-summary]
 sources: [raw/videos/youtube-QHBr8hekCzg-transcript.md]
 published: 2026-09-30
 time_sensitive: True

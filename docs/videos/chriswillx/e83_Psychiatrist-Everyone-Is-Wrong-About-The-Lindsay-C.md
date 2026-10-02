@@ -9,7 +9,7 @@ tags:
 - general
 title: 'Psychiatrist: "Everyone Is Wrong About The Lindsay Clancy Case"'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: e83
 ---

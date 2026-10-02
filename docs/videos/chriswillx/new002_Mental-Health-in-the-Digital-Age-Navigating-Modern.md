@@ -9,7 +9,7 @@ tags:
 - general
 title: 'Mental Health in the Digital Age: Navigating Modern Challenges'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: new002
 ---

@@ -2,7 +2,7 @@
 title: YouTube Transcript: 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=KyfUysrNaco-transcript
 source_type: video
 ingested: 2026-10-01

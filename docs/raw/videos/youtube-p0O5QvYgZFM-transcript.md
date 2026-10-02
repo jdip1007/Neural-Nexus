@@ -2,7 +2,7 @@
 title: YouTube Transcript: The 7 Levels of YouTube Downfall
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=p0O5QvYgZFM-transcript
 source_type: video
 ingested: 2026-10-01

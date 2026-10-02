@@ -2,7 +2,7 @@
 title: YouTube Transcript: Why We (Probably) Shouldn't Give Iran $300 Billion Dollars
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=Ts26T7AEHS8-transcript
 source_type: video
 ingested: 2026-10-01

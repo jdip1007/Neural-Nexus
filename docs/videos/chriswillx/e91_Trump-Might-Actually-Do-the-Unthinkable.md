@@ -9,7 +9,7 @@ tags:
 - general
 title: '"Trump Might Actually Do the Unthinkable"'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-13'
 video_id: e91
 ---

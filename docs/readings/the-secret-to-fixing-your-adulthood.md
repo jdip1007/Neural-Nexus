@@ -9,7 +9,7 @@ tags:
 - youtube
 - healthygamergg
 title: The Secret to Fixing Your Adulthood
-type: video
+type: reading
 updated: '2026-09-28T05:36:04.231458'
 ---
 

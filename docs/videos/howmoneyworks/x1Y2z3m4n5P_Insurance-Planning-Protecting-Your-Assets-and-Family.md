@@ -9,7 +9,7 @@ tags:
 - insurance
 title: 'Insurance Planning: Protecting Your Assets and Family'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: x1Y2z3m4n5P
 ---

@@ -9,7 +9,7 @@ tags:
 - general
 title: Why Women Hate Sydney Sweeney & Love Sabrina Carpenter
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-21'
 video_id: Y-r63JyWmDs
 ---

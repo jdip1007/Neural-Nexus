@@ -4,7 +4,7 @@ ingested: 2026-09-20
 video_id: W82TeO-XXWU
 title: The 13 Seconds That Exposed Hank Green
 series: 
-tags: [youtube, internet-anarchist, documentary]
+tags: [youtube, internet-anarchist]
 ---
 
 [00:00] There's a thing in there that matters

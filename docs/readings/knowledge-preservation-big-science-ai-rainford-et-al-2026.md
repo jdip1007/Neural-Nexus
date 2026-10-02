@@ -152,4 +152,4 @@ Modern scientific research is losing knowledge through unpublished negative resu
 - [[quality-control]]
 - [[reproducibility-crisis]]
 - [[technology]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to

@@ -220,5 +220,5 @@ The "rust" metaphor is key — just as a flabby muscle can strengthen with exerc
 - [[impulse-control-atrophy]]
 - [[inflammation]]
 - [[technology]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

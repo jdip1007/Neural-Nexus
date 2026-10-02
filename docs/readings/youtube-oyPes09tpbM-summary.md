@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, oyPes09tpbM]
+tags: [youtube, video-summary]
 sources: [youtube-oyPes09tpbM-transcript.md]
 published: 2026-10-01
 time_sensitive: False
@@ -25,7 +25,7 @@ This video provides an in-depth analysis of shark tank pitches that turned into 
 - **Shark-Tank**: [[youtube-oyPes09tpbM-shark-tank]]
 
 ## Related Concepts
-- [[media]]
+- media
 - [[internet-culture]]
 - [[youtube]]
 

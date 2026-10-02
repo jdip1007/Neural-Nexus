@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, diQ9CBUkQeI]
+tags: [youtube, video-summary]
 sources: [youtube-diQ9CBUkQeI-transcript.md]
 published: 2026-10-01
 time_sensitive: False
@@ -25,7 +25,7 @@ This video provides an in-depth analysis of jonah hill's life is falling apart.
 - **Jonah-Hill**: [[youtube-diQ9CBUkQeI-jonah-hill]]
 
 ## Related Concepts
-- [[media]]
+- media
 - [[internet-culture]]
 - [[youtube]]
 

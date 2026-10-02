@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: Airrack Never Stopped Faking Videos
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

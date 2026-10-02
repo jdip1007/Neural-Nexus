@@ -57,6 +57,6 @@ This content from HealthyGamerGG explores how to actually have an elite mindset 
 
 - [[psychology]]
 - [[relationships]]
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-healthy-gamer-how-to-actually-have-an-elite-mindset]]
 - 

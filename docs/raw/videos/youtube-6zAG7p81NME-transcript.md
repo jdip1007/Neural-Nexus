@@ -2,7 +2,7 @@
 title: YouTube Transcript: How Bad Is YouTuber Airrack? (Doxxing/Fake Videos)
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=6zAG7p81NME-transcript
 source_type: video
 ingested: 2026-10-01

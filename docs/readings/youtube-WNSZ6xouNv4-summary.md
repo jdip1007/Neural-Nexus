@@ -48,10 +48,10 @@ This video discusses Get Addicted to Improving Your Life - David Goggins
 ## See also
 
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-RhelaTtcmEo-it-it]]
+- youtube-RhelaTtcmEo-it-it
 - [[youtube-WNSZ6xouNv4-and-that]]
 - [[youtube-WNSZ6xouNv4-hurt-me]]
 - [[youtube-WNSZ6xouNv4-used-to]]
-- [[youtube-YQQMF8ibxVw-what-happens]]
-- [[youtube-YQQMF8ibxVw-when-you]]
+- youtube-YQQMF8ibxVw-what-happens
+- youtube-YQQMF8ibxVw-when-you
 - 

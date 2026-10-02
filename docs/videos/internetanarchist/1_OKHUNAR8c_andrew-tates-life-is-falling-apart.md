@@ -2,7 +2,7 @@
 title: Andrew Tate's Life Is Falling Apart
 created: 2026-09-27
 updated: 2026-09-27
-type: video
+type: reading
 classification: media.youtube-channel.internetanarchist
 domain: media
 tags: ["fame", "internet", "media", "legal", "culture"]

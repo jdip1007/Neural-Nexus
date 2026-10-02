@@ -60,7 +60,7 @@ tech stack and adopt Watson’s, essentially
 
 - [[youtube-4EPW0Ht7XCc-sejong-institute]]
 - [[youtube-4EPW0Ht7XCc-so-google]]
-- [[youtube-4EPW0Ht7XCc-south-korean]]
+- youtube-4EPW0Ht7XCc-south-korean
 - [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
 - [[youtube-haZ5gddlQ4g-openai]]
 - [[youtube-jlyIyObWBzo-in-august]]

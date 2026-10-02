@@ -2,7 +2,7 @@
 title: YouTube Transcript: Class 1 Video: How Do Computers "Hear" Music?
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=e4L9pdUIDnc-transcript
 source_type: video
 ingested: 2026-10-01

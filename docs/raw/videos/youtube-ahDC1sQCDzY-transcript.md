@@ -2,7 +2,7 @@
 title: YouTube Transcript: Surviving Most Extreme Mega Tsunami in Modern History - True Story
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=ahDC1sQCDzY-transcript
 source_type: video
 ingested: 2026-10-01

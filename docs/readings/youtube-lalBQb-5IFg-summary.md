@@ -5,7 +5,7 @@ updated: 2026-09-30
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, lalBQb-5IFg]
+tags: [youtube, video-summary]
 sources: [raw/videos/youtube-lalBQb-5IFg-transcript.md]
 published: 2026-09-30
 time_sensitive: False

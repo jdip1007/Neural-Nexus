@@ -53,10 +53,10 @@ This video discusses Why Restricting Video Games As A Parent Is Actually Damagin
 ## See also
 
 - 
-- [[youtube-17rJSSzto4U-how-to]]
+- youtube-17rJSSzto4U-how-to
 - [[youtube-5rFIcsi9EVc-to-your]]
-- [[youtube-5rFIcsi9EVc-what-does]]
-- [[youtube-7HF6UuVdihA-the-big]]
-- [[youtube-8PYhEWK2wVA-let-it]]
+- youtube-5rFIcsi9EVc-what-does
+- youtube-7HF6UuVdihA-the-big
+- youtube-8PYhEWK2wVA-let-it
 - [[youtube-Q-tiTTvkHpw-fall-apart]]
 - [[youtube-Q-tiTTvkHpw-game-boy]]

@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: Analyzing The Lindsay Clancy Case
-type: video
+type: reading
 updated: '2026-09-21T04:29:12.563113'
 ---
 

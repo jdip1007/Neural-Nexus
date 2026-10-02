@@ -58,7 +58,7 @@ This video discusses Stop Letting Video Game Addiction Hijack Your Life
 - 
 - 
 - 
-- [[youtube-17rJSSzto4U-how-to]]
-- [[youtube-5rFIcsi9EVc-what-does]]
-- [[youtube-BT4gsZBpL0E-hey-dad]]
+- youtube-17rJSSzto4U-how-to
+- youtube-5rFIcsi9EVc-what-does
+- youtube-BT4gsZBpL0E-hey-dad
 - [[youtube-BT4gsZBpL0E-monster-hunter]]

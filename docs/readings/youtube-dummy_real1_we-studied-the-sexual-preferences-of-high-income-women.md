@@ -2,7 +2,7 @@
 title: "We Studied The Sexual Preferences Of High Income Women"
 created: 2026-09-15
 updated: 2026-09-15
-type: video
+type: reading
 classification: internet_culture.youtube-channel.internet-anarchist
 domain: internet_culture
 tags: ["]

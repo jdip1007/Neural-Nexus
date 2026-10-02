@@ -11,7 +11,7 @@ status: active
 tags:
 - general
 title: The Worst Red Flags I've Seen As A Therapist
-type: video
+type: reading
 updated: 2026-09-15
 ---
 

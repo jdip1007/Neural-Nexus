@@ -8,7 +8,7 @@ sources:
 tags:
 - general
 title: We Need To Talk About Ozempic
-type: video
+type: reading
 updated: '2026-09-16T02:21:19.090263'
 ---
 

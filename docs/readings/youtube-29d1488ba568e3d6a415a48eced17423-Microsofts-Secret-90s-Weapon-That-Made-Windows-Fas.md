@@ -11,7 +11,7 @@ tags:
 - diy
 - led
 title: Microsoft's Secret 90s Weapon That Made Windows Fast
-type: video
+type: reading
 updated: '2026-09-23T02:58:26.811055'
 video_id: 8c4Yf7WzQzY
 views: 130K

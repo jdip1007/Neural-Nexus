@@ -9,7 +9,7 @@ tags:
 - investing
 title: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-26'
 video_id: National_Debt_Default_Possible
 ---

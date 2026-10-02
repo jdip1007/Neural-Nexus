@@ -8,7 +8,7 @@ sources:
 tags:
 - youtube
 title: Most Insane The Infographics Show Videos of All Time (Compilation)
-type: video
+type: reading
 updated: '2026-09-26T05:35:08.581849'
 ---
 

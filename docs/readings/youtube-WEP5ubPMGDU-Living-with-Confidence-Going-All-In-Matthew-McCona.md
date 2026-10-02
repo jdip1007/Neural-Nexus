@@ -7,7 +7,7 @@ sources:
 tags:
 - general
 title: Living with Confidence & Going All In - Matthew McConaughey
-type: video
+type: reading
 updated: '2026-09-15T20:13:06.164525'
 video_id: WEP5ubPMGDU
 views: 2.6M

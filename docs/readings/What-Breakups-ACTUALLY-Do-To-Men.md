@@ -6,7 +6,7 @@ sources:
 tags:
 - general
 title: What Breakups ACTUALLY Do To Men
-type: video
+type: reading
 updated: '2026-09-13T00:47:38.163162'
 video_id: e83
 video_length: 16 minutes

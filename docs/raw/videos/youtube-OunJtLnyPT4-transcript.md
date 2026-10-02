@@ -2,7 +2,7 @@
 title: YouTube Transcript: The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Right NOW.
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=OunJtLnyPT4-transcript
 source_type: video
 ingested: 2026-10-01

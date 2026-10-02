@@ -2,7 +2,7 @@
 title: James Sexton, Matt McCusker & Rick Glassman - Mostly Wise #4
 created: 2026-09-28
 updated: 2026-09-28
-type: video
+type: reading
 classification: technology.youtube-channel.chriswillx
 domain: philosophy.psychology
 tags: []

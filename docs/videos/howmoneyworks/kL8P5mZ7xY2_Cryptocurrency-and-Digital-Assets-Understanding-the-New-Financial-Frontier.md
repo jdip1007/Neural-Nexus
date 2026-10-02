@@ -9,7 +9,7 @@ tags:
 - cryptocurrency
 title: 'Cryptocurrency and Digital Assets: Understanding the New Financial Frontier'
 transcript_api: transcriptapi.com
-type: video
+type: reading
 updated: '2026-09-18'
 video_id: kL8P5mZ7xY2
 ---

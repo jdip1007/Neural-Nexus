@@ -5,7 +5,7 @@ updated: 2026-10-01
 type: reading
 domain: media
 classification: general.media
-tags: [youtube, video-summary, transcript, never_ending_ksi]
+tags: [youtube, video-summary]
 sources: [youtube-never_ending_ksi-transcript.md]
 published: 2026-10-01
 time_sensitive: False
@@ -22,10 +22,10 @@ This video provides an in-depth analysis of the never-ending downfall of ksi.
 ## Key Points
 
 ## Entities Mentioned
-- **Ksi**: [[youtube-never_ending_ksi-ksi]]
+- **Ksi**: youtube-never_ending_ksi-ksi
 
 ## Related Concepts
-- [[media]]
+- media
 - [[internet-culture]]
 - [[youtube]]
 

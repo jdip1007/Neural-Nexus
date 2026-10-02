@@ -29,11 +29,11 @@ Reacting To A Female Tech Exec's Dating 'Non-Negotiables' - Analysis of modern d
 
 ## Key Topics
 
-- [[Neuroscience]]
-- [[Relationships]]
-- [[Psychology]]
-- [[Mental health]]
-- [[Dating]]
+- Neuroscience
+- [[relationships]]
+- [[psychology]]
+- [[mental-health]]
+- Dating
 
 ## Transcript
 
@@ -41,8 +41,8 @@ Reacting To A Female Tech Exec's Dating 'Non-Negotiables' - Analysis of modern d
 
 ## Related Videos
 
-- [[Chris Willx]] channel
-- [[YouTube]] content
+- [[chris-willx]] channel
+- [[youtube]] content
 
 ## Notes
 

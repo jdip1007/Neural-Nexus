@@ -2,7 +2,7 @@
 title: YouTube Transcript: Class 7 Video: Music Representation (IV) & Hierarchies (I)
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=2UpHyGPVdgg-transcript
 source_type: video
 ingested: 2026-10-01

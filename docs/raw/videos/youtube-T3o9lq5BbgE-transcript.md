@@ -2,7 +2,7 @@
 title: YouTube Transcript: How Clara Dao Lost Her Entire Audience In 3 Days…
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=T3o9lq5BbgE-transcript
 source_type: video
 ingested: 2026-10-01

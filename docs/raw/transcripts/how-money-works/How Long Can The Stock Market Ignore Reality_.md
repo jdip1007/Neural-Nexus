@@ -13,7 +13,7 @@ tags: [youtube, how-money-works, finance, investing]
 **Video URL:** https://www.youtube.com/watch?v=qmZmKZR8S5U
 **Video ID:** `qmZmKZR8S5U`
 **Ingested:** 2026-09-04
-**Transcript:** [[raw/transcripts/how-money-works/How Long Can The Stock Market Ignore Reality_.md]]
+**Transcript:** [[raw/transcripts/how-money-works/How Long Can The Stock Market Ignore Reality_]]
 
 ## Transcript
 [00:00] Today on How Money Works, we're examining whether the stock market can continue ignoring economic reality.

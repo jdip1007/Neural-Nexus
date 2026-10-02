@@ -2,7 +2,7 @@
 title: YouTube Transcript: Class 23 Video: Algorithmic Composition
 created: 2026-10-01
 updated: 2026-10-01
-type: video
+type: reading
 source_url: https://www.youtube.com/watch?v=Mnz-LM2KVa4-transcript
 source_type: video
 ingested: 2026-10-01

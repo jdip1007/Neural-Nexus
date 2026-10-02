@@ -4,7 +4,7 @@ ingested: 2026-09-20
 video_id: wBGF1M4e3l8
 title: The Dark Life After To Catch a Predator
 series: 
-tags: [youtube, internet-anarchist, documentary]
+tags: [youtube, internet-anarchist]
 ---
 
 [00:00] In 2006, to catch a predator became a
