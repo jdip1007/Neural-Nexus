@@ -188,4 +188,8 @@ to enter the camera
 [00:00] and to be read by the
 sensor, compensating
 [00:00] for the small aperture setting.
-[00:00] 
+[00:00]
+
+## See also
+- [[youtube]]
+- [[the-13-seconds-that-exposed-hank-green]]

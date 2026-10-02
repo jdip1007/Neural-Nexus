@@ -17,3 +17,6 @@ updated: 2026-09-25
 # Clinical Psychology
 
 *Stub page — expand with content from relevant readings.*
+
+## See also
+- [[psychology]]

@@ -33,3 +33,10 @@ tags: [youtube, how-money-works, finance, investing]
 [00:48] Thanks for watching! Don't forget to like and subscribe for more financial insights.
 
 [00:55] [END TRANSCRIPT]
+
+## See also
+- [[market]]
+- [[how-money-works]]
+- [[youtube]]
+- [[gaming]]
+- [[wtf-is-happening-to-the-video-game-industry-]]

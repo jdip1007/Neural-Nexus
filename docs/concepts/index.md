@@ -89,3 +89,13 @@ To add a new concept, create a markdown file in the `concepts/` directory follow
 
 *Last updated: 2026-07-19*
 *Source: DangerousPerson2.0 YouTube Channel Research Project*
+
+## See also
+- [[dna-evidence-hong-kong-legal-system]]
+- [[environmental-monitoring]]
+- [[forensic-science]]
+- [[environmental-dna-analysis]]
+- [[dna-extraction]]
+- [[dangerous-person-2-0-research-project]]
+- [[ecology]]
+- [[sample-preparation]]

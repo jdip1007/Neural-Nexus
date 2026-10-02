@@ -13,3 +13,6 @@ classification: artificial-intelligence.transformer
 Self-attention based neural network architecture.
 
 > Stub page — needs expansion with sources and detailed content.
+
+## See also
+- [[architecture]]

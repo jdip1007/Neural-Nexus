@@ -782,3 +782,9 @@ series:
 [28:20] things that we're not able to do and
 [28:22] they focus on the one thing that they
 [28:24] can do.
+
+## See also
+- [[market]]
+- [[investing]]
+- [[programming]]
+- [[anxiety]]

@@ -24,3 +24,7 @@
 - How To Stay Real & Succeed In A Fake World - Dylan Gossett (Live Performance)
 - James Sexton, Matt McCusker & Rick Glassman - Mostly Wise #4
 - A very slow training session with Zac Efron.
+
+## See also
+- [[chris-willx]]
+- [[youtube]]

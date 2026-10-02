@@ -41,3 +41,9 @@ Deep dive into the psychology of highly sensitive individuals and their unique c
 ## Notes
 
 This page was automatically generated from the Chris Willx YouTube channel ingestion process.
+
+## See also
+- [[chris-willx]]
+- [[psychology]]
+- [[youtube]]
+- [[mental-health]]

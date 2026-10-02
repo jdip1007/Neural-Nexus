@@ -13,3 +13,6 @@ classification: finance.retirement
 Financial planning for post-employment income.
 
 > Stub page — needs expansion with sources and detailed content.
+
+## See also
+- [[financial-planning]]

@@ -105,6 +105,13 @@ For specific investment strategies, market analysis, and portfolio management te
 *Last updated: 2026-08-25*
 
 ## See also
+- [[index]]
+- [[real-estate]]
+- [[finance]]
+- [[investment]]
+- [[cryptocurrency]]
+- [[market]]
+- [[investing]]
 
 - [[investment-vehicles]]
 - 

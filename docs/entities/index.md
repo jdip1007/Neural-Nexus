@@ -100,3 +100,13 @@ To add a new entity, create a markdown file in the `entities/` directory followi
 
 *Last updated: 2026-07-19*
 *Source: DangerousPerson2.0 YouTube Channel Research Project*
+
+## See also
+- [[relationships]]
+- [[scaling-laws]]
+- [[insurance]]
+- [[kleibers-law]]
+- [[psychology]]
+- [[youtube]]
+- [[molecular-biology]]
+- [[diagnostics]]

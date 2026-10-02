@@ -41,3 +41,10 @@ This transcript explores "Why Your Brain Can't Handle Modern Life" from The Info
 
 ---
 *Generated: 2026-09-26 05:35:05*
+
+## See also
+- [[psychology]]
+- [[youtube]]
+- [[neural-nexus]]
+- [[the-infographics-show]]
+- [[jonah-hills-life-is-falling-apart]]

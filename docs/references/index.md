@@ -44,3 +44,6 @@ To add a new reference, create a markdown file in the `references/` directory fo
 ---
 
 *Last updated: {{ now }}*
+
+## See also
+- [[youtube]]

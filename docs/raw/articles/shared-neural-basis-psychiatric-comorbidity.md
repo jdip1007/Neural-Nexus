@@ -134,3 +134,11 @@ The IMAGEN data are available from the IMAGEN consortium (https://imagen-project
 Code availability
 
 The code used in this study is available at https://github.com/tianyejia/NP_factor.
+
+## See also
+- [[psychiatric-comorbidity]]
+- [[depression]]
+- [[executive-function]]
+- [[anxiety]]
+- [[mental-health]]
+- [[index]]

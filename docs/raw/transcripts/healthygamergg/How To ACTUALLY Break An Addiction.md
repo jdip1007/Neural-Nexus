@@ -542,3 +542,11 @@ series:
 [18:18] this subconscious processing, we have a
 [18:21] 2hour deep dive into decision-making
 [18:24] over on the membership
+
+## See also
+- [[therapy]]
+- [[investing]]
+- [[youtube]]
+- [[emotional-regulation]]
+- [[gaming]]
+- [[business]]

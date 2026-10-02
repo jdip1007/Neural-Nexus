@@ -385,5 +385,9 @@ To subscribe to
 Cold Spring Harbor Laboratory Press
  at University of Hong Kong Libraries on July 26, 2026 - Published by 
 http://cshprotocols.cshlp.org/
-Downloaded from 
+Downloaded from
 
+## See also
+- [[molecular-biology]]
+- [[michael-r-green]]
+- [[joseph-sambrook]]

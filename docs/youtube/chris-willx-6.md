@@ -39,3 +39,7 @@ Mock transcript content for this video. This would contain the actual transcript
 ## Notes
 
 This page was automatically generated from the Chris Willx YouTube channel ingestion process.
+
+## See also
+- [[chris-willx]]
+- [[youtube]]

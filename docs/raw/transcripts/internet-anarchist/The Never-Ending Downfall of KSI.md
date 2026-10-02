@@ -700,3 +700,8 @@ tags: [youtube, internet-anarchist]
 [25:05] from the Sidemen the moment he sold out
 [25:07] feels pretty meaningless when he's been
 [25:10] morally bankrupt for Is
+
+## See also
+- [[youtube]]
+- [[gaming]]
+- [[anxiety]]

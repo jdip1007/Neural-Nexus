@@ -23,3 +23,11 @@ This video is part of Internet Anarchist's documentary series investigating vari
 ## Transcript
 
 [00:00] Transcript content for video AltzlEgXO_M - technical tutorial content covering engineering concepts, practical applications, and technical specifications relevant to automotive, programming, and technology topics.
+
+## See also
+- [[automotive]]
+- [[programming]]
+- [[youtube]]
+- [[engineering]]
+- [[technology]]
+- [[how-penguinz0-destroyed-youtubes-worst-content-thief]]

@@ -472,3 +472,11 @@ series:
 [15:40] don't realize. And I that's what's
 [15:42] really hard about psychiatry is like we
 [15:44] don't always know.
+
+## See also
+- [[relationships]]
+- [[therapy]]
+- [[psychology]]
+- [[algorithm]]
+- [[anxiety]]
+- [[mental-health]]

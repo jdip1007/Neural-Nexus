@@ -40,3 +40,7 @@ Cultural analysis and media commentary on contemporary social trends. We examine
 ## Notes
 
 This page was automatically generated from the Chris Willx YouTube channel ingestion process.
+
+## See also
+- [[chris-willx]]
+- [[youtube]]

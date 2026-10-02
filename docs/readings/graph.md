@@ -47,3 +47,8 @@ Graph data is auto-generated on every push via GitHub Actions. To rebuild locall
 ```bash
 node scripts/build-graph.js
 ```
+
+## See also
+- [[finance]]
+- [[psychology]]
+- [[wikilinks]]

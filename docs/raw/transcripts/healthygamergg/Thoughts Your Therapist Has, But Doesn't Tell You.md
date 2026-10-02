@@ -1066,3 +1066,12 @@ series:
 [36:55] right? Imagine what their life is like.
 [36:57] And fixing that is way more than just
 [37:01] talking about your feelings.
+
+## See also
+- [[therapy]]
+- [[insurance]]
+- [[cloud]]
+- [[depression]]
+- [[business]]
+- [[anxiety]]
+- [[mental-health]]

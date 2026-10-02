@@ -93,3 +93,5 @@ Figure 2. Output analysis of the extracted gDNA from human blood samples.
 OXFORD NANOPORE TECHNOLOGIES | Automated gDNA extraction from dry blood spots (FTA cards)
 PAGE 4
 
+## See also
+- [[technology]]

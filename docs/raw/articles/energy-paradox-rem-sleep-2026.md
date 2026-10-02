@@ -3529,4 +3529,12 @@ Article
 Communications Biology | (2026) 9:979 
 21
 
-
+## See also
+- [[index]]
+- [[relationships]]
+- [[brain-energy-metabolism]]
+- [[nrem-sleep]]
+- [[machine-learning]]
+- [[theta-band-activity]]
+- [[neurovascular-unit]]
+- [[rem-sleep]]

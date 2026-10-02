@@ -97,3 +97,6 @@ sequencing performance.
 OXFORD NANOPORE TECHNOLOGIES | Cell free DNA (cfDNA) information repository
 PAGE 8
 
+## See also
+- [[nanopore-sequencing]]
+- [[technology]]

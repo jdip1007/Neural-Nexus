@@ -182,5 +182,6 @@ While this concept focuses on Hong Kong law, similar advance directive systems e
 **Accessed:** 2026-08-04
 
 ## See also
+- [[framework]]
 
 - [[youtube]]

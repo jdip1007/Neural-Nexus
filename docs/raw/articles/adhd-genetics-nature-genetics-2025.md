@@ -177,3 +177,13 @@ This large-scale meta-analysis significantly advances our understanding of ADHD 
 - Supporting the continuum model of ADHD as a quantitative trait
 
 The findings highlight the polygenic nature of ADHD and provide new targets for understanding the biological mechanisms underlying this common neurodevelopmental disorder.
+
+## See also
+- [[heterogeneity]]
+- [[architecture]]
+- [[autism-spectrum-disorder]]
+- [[adhd-risk-genes-effect-sizes]]
+- [[obesity]]
+- [[quality-control]]
+- [[heritability]]
+- [[camiel-m-van-der-laan]]

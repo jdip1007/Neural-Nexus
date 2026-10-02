@@ -416,3 +416,13 @@ series:
 [15:13] manage your own emotions even at low IQ,
 [15:16] that will improve job performance.
 [15:36] You
+
+## See also
+- [[relationships]]
+- [[finance]]
+- [[metabolic-rate]]
+- [[hardware]]
+- [[depression]]
+- [[economy]]
+- [[anxiety]]
+- [[mental-health]]

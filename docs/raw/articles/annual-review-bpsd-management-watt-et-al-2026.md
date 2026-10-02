@@ -208,3 +208,13 @@ Emerging areas of research include digital health interventions, personalized me
 SUMMARY
 
 BPSD are common in dementia and have significant impacts on people with dementia and their caregivers. There is growing evidence supporting the efficacy of nonpharmacologic interventions, which should be considered first-line treatment. Pharmacologic interventions, particularly antipsychotics, have limited efficacy and significant risks. Person-centered care approaches that understand the meaning behind behaviors and address contributing factors are essential for effective BPSD management. Future research should focus on improving the evidence base for specific interventions, understanding how to implement nonpharmacologic interventions in routine practice, and developing new approaches that are safe and effective.
+
+## See also
+- [[therapy]]
+- [[clinical-psychology]]
+- [[psychology]]
+- [[depression]]
+- [[algorithm]]
+- [[anxiety]]
+- [[mental-health]]
+- [[zahinoor-ismail]]

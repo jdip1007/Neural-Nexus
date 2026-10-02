@@ -318,3 +318,13 @@ tems for extraction of nucleic acids from DNA/RNA respiratory pathogens. J Virol
 15. Rossmanith P, Wagner M (2011) A novel poisson distribution-based approach for testing boundaries of
 real-time PCR assays for food pathogen quantification. J Food Prot 74: 1404–1412. https://doi.org/10.
 4315/0362-028X.JFP-10-458 PMID: 21902908
+
+## See also
+- [[relationships]]
+- [[epidemiology]]
+- [[stocks]]
+- [[technology]]
+- [[orna-mor]]
+- [[musa-hindiyeh]]
+- [[michel-mandelboim]]
+- [[roche]]

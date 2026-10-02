@@ -132,3 +132,13 @@ Ongoing controversies about whether scaling exponents are truly universal or var
 Full transcript was not available due to YouTube bot protection. This raw source file contains all accessible information from the video page including chapters, credits, and description. The actual video content contains detailed mathematical derivations, examples, and animations that cannot be captured without the transcript.
 
 For complete information, viewers should watch the full video on YouTube and consult the references provided.
+
+## See also
+- [[metabolic-scaling]]
+- [[urban-scaling]]
+- [[scaling-laws]]
+- [[metabolic-rate]]
+- [[kleibers-law]]
+- [[youtube]]
+- [[surface-law]]
+- [[technology]]

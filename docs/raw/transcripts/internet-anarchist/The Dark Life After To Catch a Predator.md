@@ -532,3 +532,8 @@ tags: [youtube, internet-anarchist]
 [20:23] see what Prime Time actually does with
 [20:24] it once the film comes out later in
 [20:27] 2026.
+
+## See also
+- [[philosophy]]
+- [[therapy]]
+- [[youtube]]

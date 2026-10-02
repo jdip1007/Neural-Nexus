@@ -18,5 +18,6 @@ updated: 2026-09-25
 *Stub page — expand with content from relevant readings.*
 
 ## See also
+- [[coffee]]
 
 - [[verroest-2026-coffee-testosterone-nfbc1966]]

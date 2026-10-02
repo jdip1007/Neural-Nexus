@@ -632,3 +632,13 @@ series:
 [23:15] even spike in suicidality. So
 [23:17] potentially amazing drug, but to be used
 [23:19] with caution.
+
+## See also
+- [[therapy]]
+- [[glucose-metabolism]]
+- [[obesity]]
+- [[emotional-regulation]]
+- [[insulin-resistance]]
+- [[depression]]
+- [[inflammation]]
+- [[testosterone]]

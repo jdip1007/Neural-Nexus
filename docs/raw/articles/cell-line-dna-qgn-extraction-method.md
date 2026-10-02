@@ -59,3 +59,5 @@ Updated materials required and updated QIAGEN protocol name
 OXFORD NANOPORE TECHNOLOGIES | Human cell line DNA – QIAGEN Genomic-tip
 PAGE 5
 
+## See also
+- [[nanopore-sequencing]]

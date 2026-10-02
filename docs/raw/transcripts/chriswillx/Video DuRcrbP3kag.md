@@ -2849,3 +2849,13 @@ series:
 [90:11] is certain that you're going to enjoy
 [90:13] this one as well.
 [90:15] Come on, give it a
+
+## See also
+- [[index]]
+- [[philosophy]]
+- [[real-estate]]
+- [[finance]]
+- [[investment]]
+- [[insurance]]
+- [[coffee]]
+- [[psychology]]

@@ -39,3 +39,7 @@ tags: [youtube, how-money-works, finance, investing]
 [01:10] Thanks for watching How Money Works!
 
 [01:15] [END TRANSCRIPT]
+
+## See also
+- [[how-money-works]]
+- [[youtube]]

@@ -471,3 +471,8 @@ This video is part of Internet Anarchist's documentary series investigating vari
 [16:54] reached out to me asking me to lie to my
 [16:56] audience, but I exposed them instead.
 [16:58] Click the video on screen to learn more.
+
+## See also
+- [[youtube]]
+- [[business]]
+- [[the-13-seconds-that-exposed-hank-green]]

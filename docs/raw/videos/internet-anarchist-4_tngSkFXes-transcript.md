@@ -184,3 +184,7 @@ to enter the camera
 [04:51] and to be read by the
 sensor, compensating
 [04:54] for the small aperture setting.
+
+## See also
+- [[youtube]]
+- [[the-13-seconds-that-exposed-hank-green]]

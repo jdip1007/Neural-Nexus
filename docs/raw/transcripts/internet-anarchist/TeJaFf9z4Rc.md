@@ -31,3 +31,9 @@ This video is part of Internet Anarchist's documentary series investigating vari
 [01:30] The community has been divided over this issue, with strong opinions on both sides.
 [01:45] Our findings suggest that this is part of a larger pattern in the YouTube ecosystem.
 [02:00] Thanks for watching this Internet Anarchist investigation.
+
+## See also
+- [[youtube]]
+- [[algorithm]]
+- [[how-penguinz0-ended-kwebbelkops-career]]
+- [[index]]

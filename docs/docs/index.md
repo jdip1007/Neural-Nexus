@@ -20,3 +20,10 @@ updated: 2026-09-25
 - [how-to-actually-have-an-elite-mindset](raw/videos/healthygamergg/how-to-actually-have-an-elite-mindset.md) - Mindset development and peak performance
 - flirting kinda sucks actually - Dating dynamics and social interaction challenges
 
+## See also
+- [[relationships]]
+- [[psychology]]
+- [[youtube]]
+- [[healthygamergg]]
+- [[relationship-psychology]]
+- [[mental-health]]

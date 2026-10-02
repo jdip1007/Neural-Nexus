@@ -674,3 +674,7 @@ series:
 [24:28] are. So the universe is sending you you
 [24:30] hate signals because it wants you to
 [24:32] grow up.
+
+## See also
+- [[psychology]]
+- [[obesity]]

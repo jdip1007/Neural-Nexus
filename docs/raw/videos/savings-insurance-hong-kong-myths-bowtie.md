@@ -44,3 +44,13 @@ The video compares complex savings products against simpler options like pure te
 
 # Channel Background
 Bowtie Insurance 保泰人壽 is a Hong Kong-based insurance company that produces educational content about insurance and personal finance.
+
+## See also
+- [[opportunity-cost]]
+- [[term-life-insurance]]
+- [[personal-finance]]
+- [[finance]]
+- [[investment]]
+- [[insurance]]
+- [[investment-vehicles]]
+- [[bowtie-insurance]]

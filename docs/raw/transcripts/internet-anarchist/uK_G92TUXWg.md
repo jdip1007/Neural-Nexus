@@ -722,3 +722,7 @@ This video is part of Internet Anarchist's documentary series investigating vari
 [00:00] court, he didn't just injure his body.
 [00:00] The worst thing he broke was his funny
 [00:00] bone.
+
+## See also
+- [[insurance]]
+- [[youtube]]

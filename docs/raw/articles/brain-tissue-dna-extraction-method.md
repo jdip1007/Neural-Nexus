@@ -139,3 +139,6 @@ Initial publication
 OXFORD NANOPORE TECHNOLOGIES | Extracting and preparing DNA from brain tissue for Oxford Nanopore Sequencing
 PAGE 5
 
+## See also
+- [[dna-extraction]]
+- [[nanopore-sequencing]]

@@ -16,3 +16,6 @@ Key technical details:
 - Diffusion: water↔acid 90% 8-neighbor inlined
 - Dynamic grid resize 150-1000 (bottom-center anchored)
 - GPU: setGraphical(false) + putImageData Y-flip
+
+## See also
+- [[architecture]]

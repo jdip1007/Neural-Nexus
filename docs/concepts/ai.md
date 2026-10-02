@@ -51,5 +51,8 @@ Artificial Intelligence (AI) refers to the simulation of human intelligence in m
 - computer-vision
 
 ## See also
+- [[machine-learning]]
+- [[deep-learning]]
+- [[artificial-intelligence]]
 
 - [[content-creation]]
