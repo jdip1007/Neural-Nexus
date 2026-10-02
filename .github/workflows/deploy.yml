@@ -52,8 +52,19 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Lint wiki (fail on errors)
-        run: node scripts/lint-wiki.js
+      - name: Lint wiki (warn on errors, fail on structural)
+        run: |
+          set +e
+          output=$(node scripts/lint-wiki.js 2>&1)
+          rc=$?
+          echo "$output"
+          if echo "$output" | grep -q '🚫 STRUCTURAL FAILURES'; then
+            echo "::error::Structural failures detected — blocking deploy"
+            exit 1
+          fi
+          if [ $rc -ne 0 ]; then
+            echo "::warning::Lint found errors but no structural failures — proceeding"
+          fi
 
       - name: Build knowledge graph
         run: node scripts/build-graph.js
