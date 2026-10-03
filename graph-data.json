@@ -1,0 +1,205 @@
+{
+  "nodes": [
+    {
+      "id": "daves_garage_1",
+      "title": "Ethernet Explained So Well That Even You Can Understand It",
+      "type": "video",
+      "source": "youtube",
+      "channel": "Dave's Garage",
+      "file": "ethernet-explained-so-well-that-even-you-can-understand-it.md",
+      "created": "2026-10-03T04:52:18.866446"
+    },
+    {
+      "id": "daves_garage_2",
+      "title": "Hidden Code How Slot Machines Actually Work The Computer Inside",
+      "type": "video",
+      "source": "youtube",
+      "channel": "Dave's Garage",
+      "file": "hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "created": "2026-10-03T04:52:18.866450"
+    },
+    {
+      "id": "daves_garage_3",
+      "title": "The Controversial Flock Cameras Tracking Every Car Full Breakdown",
+      "type": "video",
+      "source": "youtube",
+      "channel": "Dave's Garage",
+      "file": "the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
+      "created": "2026-10-03T04:52:18.866452"
+    },
+    {
+      "id": "daves_garage_4",
+      "title": "Microsofts Secret 90S Weapon That Made Windows Fast",
+      "type": "video",
+      "source": "youtube",
+      "channel": "Dave's Garage",
+      "file": "microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "created": "2026-10-03T04:52:18.866455"
+    },
+    {
+      "id": "daves_garage_5",
+      "title": "Canbus Networking So Simple Even You Can Understand It",
+      "type": "video",
+      "source": "youtube",
+      "channel": "Dave's Garage",
+      "file": "canbus-networking-so-simple-even-you-can-understand-it.md",
+      "created": "2026-10-03T04:52:18.866457"
+    }
+  ],
+  "edges": [
+    {
+      "source": "daves_garage_1",
+      "target": "technology",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_1",
+      "target": "networking",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_1",
+      "target": "programming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_1",
+      "target": "hardware",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_1",
+      "target": "automotive",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_1",
+      "target": "gaming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_2",
+      "target": "technology",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_2",
+      "target": "networking",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_2",
+      "target": "programming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_2",
+      "target": "hardware",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_2",
+      "target": "automotive",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_2",
+      "target": "gaming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_3",
+      "target": "technology",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_3",
+      "target": "networking",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_3",
+      "target": "programming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_3",
+      "target": "hardware",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_3",
+      "target": "automotive",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_3",
+      "target": "gaming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_4",
+      "target": "technology",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_4",
+      "target": "networking",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_4",
+      "target": "programming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_4",
+      "target": "hardware",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_4",
+      "target": "automotive",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_4",
+      "target": "gaming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_5",
+      "target": "technology",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_5",
+      "target": "networking",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_5",
+      "target": "programming",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_5",
+      "target": "hardware",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_5",
+      "target": "automotive",
+      "type": "related"
+    },
+    {
+      "source": "daves_garage_5",
+      "target": "gaming",
+      "type": "related"
+    }
+  ],
+  "metadata": {
+    "generated": "2026-10-03T04:52:18.866425",
+    "type": "youtube-ingestion-graph"
+  }
+}

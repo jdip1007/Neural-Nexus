@@ -1,1 +1,32 @@
-{}
+{
+  "generated": "2026-10-03T04:53:06.928098",
+  "total_pages": 5,
+  "daves_garage_pages": 5,
+  "recent_pages": [
+    {
+      "title": "The Controversial Flock Cameras Tracking Every Car Full Breakdown",
+      "file": "the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
+      "type": "video"
+    },
+    {
+      "title": "Hidden Code How Slot Machines Actually Work The Computer Inside",
+      "file": "hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "type": "video"
+    },
+    {
+      "title": "Ethernet Explained So Well That Even You Can Understand It",
+      "file": "ethernet-explained-so-well-that-even-you-can-understand-it.md",
+      "type": "video"
+    },
+    {
+      "title": "Microsofts Secret 90S Weapon That Made Windows Fast",
+      "file": "microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "type": "video"
+    },
+    {
+      "title": "Canbus Networking So Simple Even You Can Understand It",
+      "file": "canbus-networking-so-simple-even-you-can-understand-it.md",
+      "type": "video"
+    }
+  ]
+}
