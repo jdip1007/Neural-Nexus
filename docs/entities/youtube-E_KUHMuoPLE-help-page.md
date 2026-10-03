@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-09-26
-domain: ai
-reviewed: 2026-09-26
-sources:
-- raw/videos/youtube-E_KUHMuoPLE-transcript.md
-status: active
-tags:
-- youtube
-- persons
 title: Help Page
+created: 2026-10-02
+updated: 2026-10-02
 type: entity
-updated: 2026-09-26
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, E_KUHMuoPLE]
+sources: [raw/videos/youtube-E_KUHMuoPLE-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-02
 ---
-
 
 # Help Page
 

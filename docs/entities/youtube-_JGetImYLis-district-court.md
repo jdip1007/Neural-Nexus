@@ -1,15 +1,15 @@
 ---
 title: District Court
-created: 2026-10-01
-updated: 2026-10-01
+created: 2026-10-02
+updated: 2026-10-02
 type: entity
 domain: ai
 classification: person.researcher
-tags: [youtube, video-derived, entity]
+tags: [youtube, video-derived, persons, _JGetImYLis]
 sources: [raw/videos/youtube-_JGetImYLis-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-01
+reviewed: 2026-10-02
 ---
 
 # District Court

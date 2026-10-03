@@ -1,17 +1,17 @@
 ---
 title: Class 17 Video: Introduction to Music Cognition - Summary
-created: 2026-09-25
-updated: 2026-09-25
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, Uda1k3pnijc]
 sources: [raw/videos/youtube-Uda1k3pnijc-transcript.md]
-published: 2026-09-25
+published: 2026-10-02
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-25
+reviewed: 2026-10-02
 ---
 
 # Class 17 Video: Introduction to Music Cognition - Summary
@@ -37,11 +37,11 @@ cognition is something I think is really, really important
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Audio Research, Claire Arthur, Cognitive Foundations
+- **Persons**: Claire Arthur, Sweet Anticipation, Claire Pelofi
 
 ## Related Concepts
-- 
-- 
+- [[ai]]
+- [[algorithm]]
 
 ## Transcript Highlights
 > And so that's pretty

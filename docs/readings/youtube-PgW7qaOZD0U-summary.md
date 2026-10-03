@@ -1,17 +1,17 @@
 ---
 title: Optics: Fraunhofer diffraction - adjustable slit | MIT Video Demonstrations in Lasers and Optics - Summary
-created: 2026-10-01
-updated: 2026-10-01
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, PgW7qaOZD0U]
 sources: [raw/videos/youtube-PgW7qaOZD0U-transcript.md]
-published: 2026-10-01
+published: 2026-10-02
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-01
+reviewed: 2026-10-02
 ---
 
 # Optics: Fraunhofer diffraction - adjustable slit | MIT Video Demonstrations in Lasers and Optics - Summary

@@ -1,18 +1,18 @@
 ---
 source_url: https://www.youtube.com/watch?v=EGvqg0vUBmU
 source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
+ingested: 2026-10-02
+published: 2026-10-02
 duration_minutes: 7
 language: en
 sha256: bab992c6835079c867593de39123e94e1536a7bc4df1d81c3a5c54aa9739cd70
 time_sensitive: False
 ---
 
-# YouTube Transcript: Video 4: The First Day
+# YouTube Transcript: Video 4: Hari Pertama
 
 ## Video Information
-- **Title**: Video 4: The First Day
+- **Title**: Video 4: Hari Pertama
 - **Video ID**: EGvqg0vUBmU
 - **Published**: Unknown
 - **Views**: Unknown

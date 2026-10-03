@@ -1,17 +1,17 @@
 ---
 title: How to Speak - Summary
-created: 2026-10-01
-updated: 2026-10-01
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, Unzc731iCUY]
 sources: [raw/videos/youtube-Unzc731iCUY-transcript.md]
-published: 2026-10-01
+published: 2026-10-02
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-01
+reviewed: 2026-10-02
 ---
 
 # How to Speak - Summary
@@ -41,14 +41,14 @@ it's important to talk about your research in context
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: United States, Celebrity Weekend, Media Lab
+- **Persons**: San Diego, Democratic Convention, Sun Valley
 - **Organizations**: Massachusetts Institute
 
 ## Related Concepts
 - [[framework]]
 - [[artificial-intelligence]]
-- [[algorithm]]
 - [[ai]]
+- [[algorithm]]
 
 ## Transcript Highlights
 > about the place? And the most important

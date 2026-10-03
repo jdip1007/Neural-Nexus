@@ -1,17 +1,17 @@
 ---
 title: 1.3.4 Working with Data - Video 2: Getting Started in R - Summary
-created: 2026-09-26
-updated: 2026-09-26
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, E_KUHMuoPLE]
 sources: [raw/videos/youtube-E_KUHMuoPLE-transcript.md]
-published: 2026-09-26
+published: 2026-10-02
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-02
 ---
 
 # 1.3.4 Working with Data - Video 2: Getting Started in R - Summary
@@ -33,8 +33,8 @@ arrows on your keyboard
 - **Persons**: Help Page
 
 ## Related Concepts
-- 
-- 
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > by using the up and down

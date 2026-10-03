@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=PgW7qaOZD0U
 source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
+ingested: 2026-10-02
+published: 2026-10-02
 duration_minutes: 4
 language: en
 sha256: 7bfa78f87014f5abd24a6128a5f725a8f985ee69c8c9b94113dfb794bafc67a8

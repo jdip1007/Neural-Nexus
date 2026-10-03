@@ -1,14 +1,18 @@
 ---
-created: '2026-09-12'
-domain: general
-tags:
-- general
-title: 'Lecture 2: Airplane Aerodynamics - Summary'
+title: Lecture 2: Airplane Aerodynamics - Summary
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
-updated: '2026-09-12'
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, edLnZgF9mUg]
+sources: [raw/videos/youtube-edLnZgF9mUg-transcript.md]
+published: 2026-10-02
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-02
 ---
-
-
 
 # Lecture 2: Airplane Aerodynamics - Summary
 
@@ -36,10 +40,10 @@ fly a plane or become a pilot
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Aeronautical Knowledge, And Phillip, And Mark
+- **Persons**: Pilot Handbook, American Airlines, And Professor
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > It's a very critical question. I think everybody should
@@ -56,10 +60,3 @@ main four forces
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-edLnZgF9mUg-aeronautical-knowledge]]
-- [[youtube-edLnZgF9mUg-and-mark]]
-- [[youtube-edLnZgF9mUg-and-phillip]]

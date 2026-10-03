@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-24
-domain: ai
-published: 2026-08-24
-reviewed: 2026-08-24
-sources:
-- raw/videos/youtube-DM4rZZBqXVM-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: Bare Metal Programming - Booting From the Switches - Summary
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
-updated: 2026-08-24
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, DM4rZZBqXVM]
+sources: [raw/videos/youtube-DM4rZZBqXVM-transcript.md]
+published: 2026-10-02
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-02
 ---
-
-
 
 # Bare Metal Programming - Booting From the Switches - Summary
 
@@ -36,8 +32,8 @@ This video discusses Bare Metal Programming - Booting From the Switches
 ## Entities Mentioned
 
 ## Related Concepts
-- [algorithm](concepts/algorithm.md)
-- [ai](concepts/ai.md)
+- [[ai]]
+- [[algorithm]]
 
 ## Transcript Highlights
 > we'll cover all the important steps
@@ -48,15 +44,3 @@ This video discusses Bare Metal Programming - Booting From the Switches
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- 
-- 
-- youtube-17rJSSzto4U-how-to
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WNSZ6xouNv4-and-that]]
-- [[youtube-WNSZ6xouNv4-used-to]]
-- youtube-YQQMF8ibxVw-when-you
-- 

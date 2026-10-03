@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-22
-domain: ai
-published: 2026-08-22
-reviewed: 2026-08-22
-sources:
-- raw/videos/youtube-2fbrl6WoIyo-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: Lec 1 | MIT 9.00SC Introduction to Psychology, Spring 2011 - Summary
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
-updated: 2026-08-22
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, 2fbrl6WoIyo]
+sources: [raw/videos/youtube-2fbrl6WoIyo-transcript.md]
+published: 2026-10-02
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-02
 ---
-
-
 
 # Lec 1 | MIT 9.00SC Introduction to Psychology, Spring 2011 - Summary
 
@@ -49,10 +45,10 @@ but do they line up, do they not line up
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: North America, Arnold Schwarzenegger, Roger Shepard
+- **Persons**: Now Group, San Diego, North America
 
 ## Related Concepts
-- [ai](concepts/ai.md)
+- [[ai]]
 
 ## Transcript Highlights
 > domains of human experience,
@@ -66,12 +62,3 @@ it becomes literally blind to
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- 
-- [[youtube-2fbrl6WoIyo-arnold-schwarzenegger]]
-- [[youtube-2fbrl6WoIyo-roger-shepard]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- youtube-lhtcLe9QbMQ-north-america

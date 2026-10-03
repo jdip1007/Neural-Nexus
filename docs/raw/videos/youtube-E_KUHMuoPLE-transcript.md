@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: 1.3.4 Working with Data - Video 2: Getting Started in R
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=E_KUHMuoPLE-transcript
+source_url: https://www.youtube.com/watch?v=E_KUHMuoPLE
 source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+ingested: 2026-10-02
+published: 2026-10-02
+duration_minutes: 8
 language: en
+sha256: 1c33011400c4945e293373303e4fa033766c909b9af3f62dab60a4e3f4edb6e6
 time_sensitive: True
 ---
-
 
 # YouTube Transcript: 1.3.4 Working with Data - Video 2: Getting Started in R
 

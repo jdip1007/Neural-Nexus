@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=_JGetImYLis
 source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
+ingested: 2026-10-02
+published: 2026-10-02
 duration_minutes: 0
 language: en
 sha256: f6f6eb7be871b8417f459542482991430d01f3e45222043bc62039085139f9f9

@@ -1,17 +1,17 @@
 ---
 title: Video 13: Use Your Imagination - Summary
-created: 2026-10-01
-updated: 2026-10-01
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, 7_hOHxaaxGE]
 sources: [raw/videos/youtube-7_hOHxaaxGE-transcript.md]
-published: 2026-10-01
+published: 2026-10-02
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-01
+reviewed: 2026-10-02
 ---
 
 # Video 13: Use Your Imagination - Summary

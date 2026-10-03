@@ -1,17 +1,17 @@
 ---
 title: 3.5.1 The Pigeonhole Principle: Video - Summary
-created: 2026-09-26
-updated: 2026-09-26
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, 4Dz4vNUxnZM]
 sources: [raw/videos/youtube-4Dz4vNUxnZM-transcript.md]
-published: 2026-09-26
+published: 2026-10-02
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-02
 ---
 
 # 3.5.1 The Pigeonhole Principle: Video - Summary
@@ -24,7 +24,7 @@ This video discusses 3.5.1 The Pigeonhole Principle: Video
 ## Entities Mentioned
 
 ## Related Concepts
-- 
+- [[ai]]
 
 ## Transcript Highlights
 

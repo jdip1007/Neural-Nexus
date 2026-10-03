@@ -1,17 +1,17 @@
 ---
 title: Video 3: Lift - Summary
-created: 2026-09-26
-updated: 2026-09-26
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, ZgYuF0SbPDM]
 sources: [raw/videos/youtube-ZgYuF0SbPDM-transcript.md]
-published: 2026-09-26
+published: 2026-10-02
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-09-26
+reviewed: 2026-10-02
 ---
 
 # Video 3: Lift - Summary
@@ -24,7 +24,7 @@ This video discusses Video 3: Lift
 ## Entities Mentioned
 
 ## Related Concepts
-- 
+- [[ai]]
 
 ## Transcript Highlights
 

@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=Tj3Hpf_HMk4
 source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
+ingested: 2026-10-02
+published: 2026-10-02
 duration_minutes: 7
 language: en
 sha256: dc33d0e4f0a309024b4d961b76b897787d257daf5fb3abac157bd0c2cd60d98c

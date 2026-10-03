@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: Lecture 2: Airplane Aerodynamics
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=edLnZgF9mUg-transcript
+source_url: https://www.youtube.com/watch?v=edLnZgF9mUg
 source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+ingested: 2026-10-02
+published: 2026-10-02
+duration_minutes: 71
 language: en
+sha256: c989086b53b6cf023ee29e2b01abed661b14bf55693e65d9fe73d7d296ccf6b1
 time_sensitive: True
 ---
-
 
 # YouTube Transcript: Lecture 2: Airplane Aerodynamics
 

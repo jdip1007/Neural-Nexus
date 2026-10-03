@@ -1,0 +1,44 @@
+{
+  "nodes": [
+    {
+      "id": "SCHEMA",
+      "title": "Schema",
+      "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "tags",
+      "title": "Tags",
+      "file": "/home/hermes/Neural-Nexus/docs/tags.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "index",
+      "title": "Index",
+      "file": "/home/hermes/Neural-Nexus/docs/index.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "log",
+      "title": "Log",
+      "file": "/home/hermes/Neural-Nexus/docs/log.md",
+      "tags": [],
+      "type": "page"
+    }
+  ],
+  "edges": [
+    {
+      "source": "tags",
+      "target": "index",
+      "type": "wikilink"
+    }
+  ],
+  "metadata": {
+    "generated": "2026-10-02T23:59:36.994634",
+    "total_nodes": 4,
+    "total_edges": 1
+  }
+}

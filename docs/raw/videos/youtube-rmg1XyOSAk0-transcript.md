@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=rmg1XyOSAk0
 source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
+ingested: 2026-10-02
+published: 2026-10-02
 duration_minutes: 4
 language: en
 sha256: 57ed818b3421e8bd62fd39dfe426f3f09db29e2fcb742fb797bc74f55211e509

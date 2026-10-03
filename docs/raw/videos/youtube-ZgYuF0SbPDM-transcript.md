@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: Video 3: Lift
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=ZgYuF0SbPDM-transcript
+source_url: https://www.youtube.com/watch?v=ZgYuF0SbPDM
 source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+ingested: 2026-10-02
+published: 2026-10-02
+duration_minutes: 4
 language: en
-time_sensitive: True
+sha256: 46c2df09ea337675467cb45cfbed94c85156ea8bb5ef6a2883a7c3317aa0710e
+time_sensitive: False
 ---
-
 
 # YouTube Transcript: Video 3: Lift
 

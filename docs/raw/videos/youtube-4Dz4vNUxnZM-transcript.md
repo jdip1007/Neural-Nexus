@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: 3.5.1 The Pigeonhole Principle: Video
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=4Dz4vNUxnZM-transcript
+source_url: https://www.youtube.com/watch?v=4Dz4vNUxnZM
 source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+ingested: 2026-10-02
+published: 2026-10-02
+duration_minutes: 4
 language: en
-time_sensitive: True
+sha256: 28b59183e24db3c27dae9cbe119df70c348360aec853f7f64845b0e8812863a8
+time_sensitive: False
 ---
-
 
 # YouTube Transcript: 3.5.1 The Pigeonhole Principle: Video
 

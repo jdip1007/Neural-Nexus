@@ -1,23 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-09-26
-domain: ai
-published: 2026-09-26
-reviewed: 2026-09-26
-sources:
-- raw/videos/youtube-lPD9fx8fK1k-transcript.md
-status: active
-tags:
-- youtube
-- transcript
-time_sensitive: true
-title: CENTRAL BANK DIGITAL CURRENCY R3 CORDA, HYPERLEDGER & QUORUM XDC XINFIN ETHEREUM
-  PROJECT UBIN - Summary
+title: CENTRAL BANK DIGITAL CURRENCY R3 CORDA, HYPERLEDGER & QUORUM XDC XINFIN ETHEREUM PROJECT UBIN - Summary
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
-updated: 2026-09-26
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, lPD9fx8fK1k]
+sources: [raw/videos/youtube-lPD9fx8fK1k-transcript.md]
+published: 2026-10-02
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-02
 ---
-
 
 # CENTRAL BANK DIGITAL CURRENCY R3 CORDA, HYPERLEDGER & QUORUM XDC XINFIN ETHEREUM PROJECT UBIN - Summary
 
@@ -48,12 +43,12 @@ all the time, can exchange it for goods and services
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Media Lab, United Kingdom, The Congress
+- **Persons**: So Professor, Project Jasper, Richard Nixon
 
 ## Related Concepts
-- 
-- 
-- 
+- [[database]]
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > But the key

@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=r2MezMzgp0I
 source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
+ingested: 2026-10-02
+published: 2026-10-02
 duration_minutes: 0
 language: en
 sha256: d81aed5ae70dd66ec4d30713745d1a0778e6da9b87c4966f56fdaa58e97a2fbf

@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-29
-domain: ai
-published: 2026-08-29
-reviewed: 2026-08-29
-sources:
-- raw/videos/youtube-1sV-3-vPx3I-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: The Dark History of Zip Files - Summary
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
-updated: 2026-08-29
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, 1sV-3-vPx3I]
+sources: [raw/videos/youtube-1sV-3-vPx3I-transcript.md]
+published: 2026-10-02
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-02
 ---
-
-
 
 # The Dark History of Zip Files - Summary
 
@@ -33,9 +29,9 @@ This video discusses The Dark History of Zip Files
 ## Entities Mentioned
 
 ## Related Concepts
-- [api](concepts/api.md)
-- [algorithm](concepts/algorithm.md)
-- [ai](concepts/ai.md)
+- [[ai]]
+- [[algorithm]]
+- [[api]]
 
 ## Transcript Highlights
 > however zip files were essential i came
@@ -46,15 +42,3 @@ This video discusses The Dark History of Zip Files
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- 
-- 
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WNSZ6xouNv4-and-that]]
-- youtube-YQQMF8ibxVw-when-you
-- 
-- [[youtube-ecBEqWeipWs-the-world]]
-- [[youtube-mUBBqAjVuco-in-america]]

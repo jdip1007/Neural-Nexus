@@ -1,23 +1,23 @@
 ---
-title: Video 4: The First Day - Summary
-created: 2026-10-01
-updated: 2026-10-01
+title: Video 4: Hari Pertama - Summary
+created: 2026-10-02
+updated: 2026-10-02
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, EGvqg0vUBmU]
 sources: [raw/videos/youtube-EGvqg0vUBmU-transcript.md]
-published: 2026-10-01
+published: 2026-10-02
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-01
+reviewed: 2026-10-02
 ---
 
-# Video 4: The First Day - Summary
+# Video 4: Hari Pertama - Summary
 
 ## TL;DR
-This video discusses Video 4: The First Day
+This video discusses Video 4: Hari Pertama
 
 ## Key Points
 - **Adrian:**: ADRIAN: That is important that
