@@ -1,6 +1,20 @@
 {
   "nodes": [
     {
+      "id": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "file": "/home/hermes/Neural-Nexus/docs/the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "SCHEMA",
       "title": "Schema",
       "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
@@ -12,6 +26,20 @@
       "title": "Tags",
       "file": "/home/hermes/Neural-Nexus/docs/tags.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "file": "/home/hermes/Neural-Nexus/docs/hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "tags": [
+        "programming",
+        "technology",
+        "gaming",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
       "type": "page"
     },
     {
@@ -27,18 +55,82 @@
       "file": "/home/hermes/Neural-Nexus/docs/log.md",
       "tags": [],
       "type": "page"
+    },
+    {
+      "id": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "canbus-networking-so-simple-even-you-can-understand-it",
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "file": "/home/hermes/Neural-Nexus/docs/canbus-networking-so-simple-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "hardware",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
     }
   ],
   "edges": [
     {
+      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "tags",
       "target": "index",
+      "type": "wikilink"
+    },
+    {
+      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
+      "target": "canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     }
   ],
   "metadata": {
-    "generated": "2026-10-02T23:59:36.994634",
-    "total_nodes": 4,
-    "total_edges": 1
+    "generated": "2026-10-03T06:53:47.625864",
+    "total_nodes": 9,
+    "total_edges": 6
   }
 }
