@@ -5,7 +5,7 @@ domain: general
 published: '2026-09-15'
 reviewed: '2026-09-15'
 sources:
-- raw/videos/youtube-k0ksj42YJaM-transcript.md
+- docs/raw/videos/youtube-k0ksj42YJaM-transcript.md
 status: active
 tags:
 - media

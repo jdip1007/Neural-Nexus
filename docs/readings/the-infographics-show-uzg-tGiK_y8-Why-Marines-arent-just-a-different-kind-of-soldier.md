@@ -5,7 +5,7 @@ domain: general
 published: '2026-09-15'
 reviewed: '2026-09-15'
 sources:
-- raw/videos/youtube-uzg-tGiK_y8-transcript.md
+- docs/raw/videos/youtube-uzg-tGiK_y8-transcript.md
 status: active
 tags:
 - media

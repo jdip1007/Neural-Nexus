@@ -6,7 +6,7 @@ created: 2026-08-19
 domain: psychology
 reviewed: 2026-08-19
 sources:
-- raw/videos/youtube-uzg-tGiK_y8-transcript.md
+- docs/raw/videos/youtube-uzg-tGiK_y8-transcript.md
 status: active
 tags:
 - general
