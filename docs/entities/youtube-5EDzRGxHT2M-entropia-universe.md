@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-08-29
-domain: ai
-reviewed: 2026-08-29
-sources:
-- raw/videos/youtube-5EDzRGxHT2M-transcript.md
-status: active
-tags:
-- general
 title: Entropia Universe
+created: 2026-10-03
+updated: 2026-10-03
 type: entity
-updated: 2026-08-29
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, 5EDzRGxHT2M]
+sources: [raw/videos/youtube-5EDzRGxHT2M-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-03
 ---
-
-
 
 # Entropia Universe
 
@@ -25,17 +21,7 @@ Entropia Universe is mentioned in the YouTube video "How To Make Your Own Curren
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-5EDzRGxHT2M-summary.md)
+- [[youtube-5EDzRGxHT2M-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-5EDzRGxHT2M-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- youtube-17rJSSzto4U-how-to
-- [[youtube-5EDzRGxHT2M-how-money]]
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

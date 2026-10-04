@@ -3,7 +3,7 @@ title: The Worst YouTubers Destroyed by CoffeeZilla
 video_id: hZART9r8rqs
 source: https://www.youtube.com/watch?v=hZART9r8rqs
 channel: @InternetAnarchist
-fetched: 2026-09-16T01:21:23.551627
+fetched: 2026-10-03T06:47:03.642167
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/hZART9r8rqs.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/hZART9r8rqs.md]
 **Video ID:** hZART9r8rqs  
 **Source:** https://www.youtube.com/watch?v=hZART9r8rqs  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-16 01:21:23
+**Fetched:** 2026-10-03 06:47:03
 
 ## Overview
 
@@ -5375,13 +5375,3 @@ This video is part of Internet Anarchist's documentary series investigating vari
 [179:55] built around them. If you enjoyed this
 [179:57] video, YouTube recommends you click the
 [179:59] video on screen now.
-
-## See also
-- [[internet-anarchist]]
-- [[personal-finance]]
-- [[finance]]
-- [[investment]]
-- [[insurance]]
-- [[cryptocurrency]]
-- [[cloud]]
-- [[budgeting]]

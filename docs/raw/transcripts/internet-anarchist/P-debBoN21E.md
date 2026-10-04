@@ -3,7 +3,7 @@ title: The Deserved Downfall of Yo Mama
 video_id: P-debBoN21E
 source: https://www.youtube.com/watch?v=P-debBoN21E
 channel: @InternetAnarchist
-fetched: 2026-09-16T01:21:25.448632
+fetched: 2026-10-03T06:46:23.414644
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/P-debBoN21E.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/P-debBoN21E.md]
 **Video ID:** P-debBoN21E  
 **Source:** https://www.youtube.com/watch?v=P-debBoN21E  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-16 01:21:25
+**Fetched:** 2026-10-03 06:46:23
 
 ## Overview
 
@@ -722,10 +722,3 @@ This video is part of Internet Anarchist's documentary series investigating vari
 [27:38] against him, the bridge between him and
 [27:40] his once loving audience has been burned
 [27:43] to a crisp.
-
-## See also
-- [[market]]
-- [[youtube]]
-- [[gaming]]
-- [[business]]
-- [[the-deserved-downfall-of-yo-mama]]

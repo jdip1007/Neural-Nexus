@@ -1,22 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-26
-domain: ai
-published: 2026-08-26
-reviewed: 2026-08-26
-sources:
-- raw/videos/youtube-pATAV2Fehw8-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: Can We Afford For Everybody To Be Financially Responsible? - Summary
+created: 2026-10-03
+updated: 2026-10-03
 type: reading
-updated: 2026-08-26
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, pATAV2Fehw8]
+sources: [raw/videos/youtube-pATAV2Fehw8-transcript.md]
+published: 2026-10-03
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-03
 ---
-
-
 
 # Can We Afford For Everybody To Be Financially Responsible? - Summary
 
@@ -33,11 +29,11 @@ This video discusses Can We Afford For Everybody To Be Financially Responsible?
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Edward Jones, Compounded Daily, Trader Joe
+- **Persons**: But Buffett, Warren Buffett, Berkshire Hathaway
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- [api](concepts/api.md)
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > 18,000 a year on non-essentials. There's
@@ -48,11 +44,3 @@ This video discusses Can We Afford For Everybody To Be Financially Responsible?
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-pATAV2Fehw8-compounded-daily]]
-- [[youtube-pATAV2Fehw8-edward-jones]]
-- [[youtube-pATAV2Fehw8-trader-joe]]

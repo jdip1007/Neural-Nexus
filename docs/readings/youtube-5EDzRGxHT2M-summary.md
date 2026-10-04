@@ -1,23 +1,18 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-08-29
-domain: ai
-published: 2026-08-29
-reviewed: 2026-08-29
-sources:
-- raw/videos/youtube-5EDzRGxHT2M-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
-title: How To Make Your Own Currency & The Companies That Already Have - How Money
-  Works - Summary
+title: How To Make Your Own Currency & The Companies That Already Have - How Money Works - Summary
+created: 2026-10-03
+updated: 2026-10-03
 type: reading
-updated: 2026-08-29
+domain: ai
+classification: general.media
+tags: [youtube, video-summary, transcript, 5EDzRGxHT2M]
+sources: [raw/videos/youtube-5EDzRGxHT2M-transcript.md]
+published: 2026-10-03
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-03
 ---
-
-
 
 # How To Make Your Own Currency & The Companies That Already Have - How Money Works - Summary
 
@@ -34,11 +29,11 @@ challenge at this point
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Microsoft Azure, Entropia Universe, How Money
+- **Persons**: Entropia Universe, How Money, Microsoft Azure
 
 ## Related Concepts
-- [ai](concepts/ai.md)
-- 
+- [[database]]
+- [[ai]]
 
 ## Transcript Highlights
 > It must also remain fairly stable in pricing.
@@ -49,13 +44,3 @@ challenge at this point.
 - Video provides insights into the topic
 - Contains technical explanations and examples
 - Discusses current developments and trends
-
-
-## See also
-
-- youtube-17rJSSzto4U-how-to
-- [[youtube-5EDzRGxHT2M-entropia-universe]]
-- [[youtube-5EDzRGxHT2M-how-money]]
-- [[youtube-5EDzRGxHT2M-microsoft-azure]]
-- youtube-7HF6UuVdihA-the-big
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]

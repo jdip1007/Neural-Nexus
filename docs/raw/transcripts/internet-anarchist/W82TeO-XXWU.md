@@ -3,7 +3,7 @@ title: The 13 Seconds That Exposed Hank Green
 video_id: W82TeO-XXWU
 source: https://www.youtube.com/watch?v=W82TeO-XXWU
 channel: @InternetAnarchist
-fetched: 2026-09-16T01:21:21.140827
+fetched: 2026-10-03T06:46:28.125007
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/W82TeO-XXWU.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/W82TeO-XXWU.md]
 **Video ID:** W82TeO-XXWU  
 **Source:** https://www.youtube.com/watch?v=W82TeO-XXWU  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-16 01:21:21
+**Fetched:** 2026-10-03 06:46:28
 
 ## Overview
 
@@ -471,8 +471,3 @@ This video is part of Internet Anarchist's documentary series investigating vari
 [16:54] reached out to me asking me to lie to my
 [16:56] audience, but I exposed them instead.
 [16:58] Click the video on screen to learn more.
-
-## See also
-- [[youtube]]
-- [[business]]
-- [[the-13-seconds-that-exposed-hank-green]]

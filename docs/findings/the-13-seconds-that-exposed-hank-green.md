@@ -1,17 +1,11 @@
 ---
-created: 2026-09-16
-domain: general
-sources:
-- raw/transcripts/internet-anarchist/W82TeO-XXWU.md
-tags:
-- general
 title: The 13 Seconds That Exposed Hank Green
+created: 2026-10-03
+updated: 2026-10-03
 type: finding
-updated: 2026-09-16
+tags: ['internet-anarchist', 'youtube-documentary', 'content-creator', 'investigation']
+sources: [raw/transcripts/internet-anarchist/W82TeO-XXWU.md]
 ---
-
-
-
 
 # The 13 Seconds That Exposed Hank Green
 
@@ -31,7 +25,7 @@ Key points analysis in progress...
 
 ## Full Transcript
 
-See raw/transcripts/internet anarchist/W82TeO XXWU for the complete transcript.
+See [[raw/transcripts/internet-anarchist/W82TeO-XXWU.md]] for the complete transcript.
 
 ## Related Topics
 

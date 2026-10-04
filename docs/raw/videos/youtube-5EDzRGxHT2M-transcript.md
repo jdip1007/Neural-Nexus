@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: How To Make Your Own Currency & The Companies That Already Have - How Money Works
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=5EDzRGxHT2M-transcript
+source_url: https://www.youtube.com/watch?v=5EDzRGxHT2M
 source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+ingested: 2026-10-03
+published: 2026-10-03
+duration_minutes: 11
 language: en
+sha256: d01753dfd51096dc55bfcb0011f14d20c6341ff0c0ab3b528cfac17563902ba9
 time_sensitive: True
 ---
-
 
 # YouTube Transcript: How To Make Your Own Currency & The Companies That Already Have - How Money Works
 

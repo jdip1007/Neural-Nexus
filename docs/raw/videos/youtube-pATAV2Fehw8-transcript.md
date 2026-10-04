@@ -1,17 +1,13 @@
 ---
-title: YouTube Transcript: Can We Afford For Everybody To Be Financially Responsible?
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=pATAV2Fehw8-transcript
+source_url: https://www.youtube.com/watch?v=pATAV2Fehw8
 source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+ingested: 2026-10-03
+published: 2026-10-03
+duration_minutes: 10
 language: en
+sha256: 33978127ca4326cfb241a1f03f6c293358b51ec6bcdd3d888853da5d07f847ad
 time_sensitive: True
 ---
-
 
 # YouTube Transcript: Can We Afford For Everybody To Be Financially Responsible?
 

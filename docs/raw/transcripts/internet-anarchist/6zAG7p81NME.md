@@ -3,7 +3,7 @@ title: Airrack Never Stopped Faking Videos
 video_id: 6zAG7p81NME
 source: https://www.youtube.com/watch?v=6zAG7p81NME
 channel: @InternetAnarchist
-fetched: 2026-09-16T01:21:24.491484
+fetched: 2026-10-03T06:47:01.096707
 type: finding
 tags: [internet-anarchist, youtube-documentary, content-creator, investigation]
 sources: [raw/transcripts/internet-anarchist/6zAG7p81NME.md]
@@ -14,7 +14,7 @@ sources: [raw/transcripts/internet-anarchist/6zAG7p81NME.md]
 **Video ID:** 6zAG7p81NME  
 **Source:** https://www.youtube.com/watch?v=6zAG7p81NME  
 **Channel:** @InternetAnarchist  
-**Fetched:** 2026-09-16 01:21:24
+**Fetched:** 2026-10-03 06:47:01
 
 ## Overview
 
@@ -592,8 +592,3 @@ This video is part of Internet Anarchist's documentary series investigating vari
 [21:36] recently unbanned and is making a
 [21:38] comeback. Click the video on screen to
 [21:40] learn
-
-## See also
-- [[youtube]]
-- [[business]]
-- [[airrack-never-stopped-faking-videos]]
