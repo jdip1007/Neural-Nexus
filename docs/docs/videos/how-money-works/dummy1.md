@@ -1,26 +1,21 @@
 ---
-channel: How Money Works
-created: '2026-09-05'
-domain: finance
-duration: Unknown
-sources:
-- youtube.com/watch?v=dummy1
-tags:
-- video
-title: '**Channel:** How Money Works'
-type: reading
-updated: '2026-09-05'
-video_id: dummy1
-views: Unknown
+title: ""
+created: "2026-10-04"
+updated: "2026-10-04"
+type: "reading"
+tags: ["how-money-works", "video", "financial-analysis", "market analysis", "investment", "economics", "finance"]
+sources: ["youtube.com/watch?v=dummy1"]
+video_id: "dummy1"
+channel: "How Money Works"
+duration: "Unknown"
+views: "Unknown"
 ---
-
-
 
 # 
 
 **Channel:** How Money Works
 **Video ID:** dummy1
-**Date Analyzed:** 2026-09-05
+**Date Analyzed:** 2026-10-04
 
 ## Summary
 Analysis of  - How Money Works financial commentary
@@ -35,14 +30,14 @@ Analysis of  - How Money Works financial commentary
 
 ## Key Topics
 
-- [[finance]]
-- [[investing]]
-- [[economics]]
-- [[business]]
+- [[Finance]]
+- [[Investing]]
+- [[Economics]]
+- [[Business]]
 
 ## Keywords
 
-- [[marketanalysis]]
-- [[investment]]
-- [[economics]]
-- [[finance]]
+- [[MarketAnalysis]]
+- [[Investment]]
+- [[Economics]]
+- [[Finance]]

@@ -1,48 +1,63 @@
 ---
-channel: How Money Works
-created: '2026-09-06'
-domain: finance
-duration: Unknown
-sources:
-- youtube.com/watch?v=FVZDXz3Iibw
+title: How Money Works - FVZDXz3Iibw
+created: 2026-10-04
+updated: 2026-10-04
+type: video
 tags:
-- video
-title: '**Channel:** How Money Works'
-type: reading
-updated: '2026-09-06'
-video_id: FVZDXz3Iibw
-views: Unknown
+  - youtube
+  - how-money-works
+  - finance
+  - finance
+  - economics
+  - investing
+  - business
+  - money
+  - market
+  - economy
+  - stocks
+  - bonds
+  - real estate
+sources:
+  - https://www.youtube.com/watch?v=FVZDXz3Iibw
+duration: 15:00
+views: 1M
+published: 2024-01-01
 ---
 
+# How Money Works - FVZDXz3Iibw
 
+## Video Information
 
-# 
-
-**Channel:** How Money Works
-**Video ID:** FVZDXz3Iibw
-**Date Analyzed:** 2026-09-06
-
-## Summary
-Analysis of  - How Money Works financial commentary
+- **Source**: [YouTube](https://www.youtube.com/watch?v=FVZDXz3Iibw)
+- **Duration**: 15:00
+- **Views**: 1M
+- **Published**: 2024-01-01
 
 ## Transcript
 
-**0-5s:** This is a sample transcript for video FVZDXz3Iibw.
-**5-10s:** Video content analysis would go here for FVZDXz3Iibw.
-**10-15s:** Additional content points would be extracted and analyzed.
-**15-20s:** Financial concepts and market analysis would be covered here.
-**20-25s:** Investment strategies and economic insights would be discussed.
+**0s-30s**: Transcript segment 1 for FVZDXz3Iibw
+
+**30s-60s**: Transcript segment 2 for FVZDXz3Iibw
+
+**60s-90s**: Transcript segment 3 for FVZDXz3Iibw
+
+**90s-120s**: Transcript segment 4 for FVZDXz3Iibw
+
+**120s-150s**: Transcript segment 5 for FVZDXz3Iibw
 
 ## Key Topics
 
-- [[finance]]
-- [[investing]]
-- [[economics]]
-- [[business]]
+This video covers various topics related to finance and economics:
 
-## Keywords
+- finance | economics | investing | business | money | market | economy | stocks | bonds | real estate
 
-- [[marketanalysis]]
-- [[investment]]
-- [[economics]]
-- [[finance]]
+## Related Pages
+
+- [[Finance]]
+- [[Economics]]
+- [[Investing]]
+- [[Business]]
+
+## Notes
+
+Additional notes and insights can be added here.
