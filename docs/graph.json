@@ -1,6 +1,20 @@
 {
   "nodes": [
     {
+      "id": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "title": "Content Creator Burnout and Mental Health",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "mental-health"
+      ],
+      "type": "page"
+    },
+    {
       "id": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
       "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
       "file": "/home/hermes/Neural-Nexus/docs/the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
@@ -12,6 +26,48 @@
         "youtube",
         "tutorial"
       ],
+      "type": "page"
+    },
+    {
+      "id": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
+      "title": "Viral Marketing Strategies That Work",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh009_2026_Viral_Marketing_Strategies_That_Work.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "marketing"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "title": "\"CANBUS \u2013 Networking so simple, even YOU can understand it!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
+      "tags": [
+        "networking",
+        "hardware",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "why-normal-life-feels-so-boring",
+      "title": "why-normal-life-feels-so-boring",
+      "file": "/home/hermes/Neural-Nexus/docs/why-normal-life-feels-so-boring.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "why-40-of-young-men-need-erectile-retraining",
+      "title": "why-40-of-young-men-need-erectile-retraining",
+      "file": "/home/hermes/Neural-Nexus/docs/why-40-of-young-men-need-erectile-retraining.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -43,10 +99,100 @@
       "type": "page"
     },
     {
+      "id": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
+      "title": "The Evolution of YouTube Gaming",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh006_2026_The_Evolution_of_YouTube_Gaming.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "business-strategy",
+        "gaming"
+      ],
+      "type": "page"
+    },
+    {
       "id": "index",
       "title": "Index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "title": "\"Hidden Code: How Slot Machines Actually Work - The Computer Inside\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "tags": [
+        "programming",
+        "technology",
+        "gaming",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "what-breakups-actually-do-to-men",
+      "title": "what-breakups-actually-do-to-men",
+      "file": "/home/hermes/Neural-Nexus/docs/what-breakups-actually-do-to-men.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "why-you-cant-just-rewire-your-brain",
+      "title": "why-you-cant-just-rewire-your-brain",
+      "file": "/home/hermes/Neural-Nexus/docs/why-you-cant-just-rewire-your-brain.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "title": "\"The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
+      "title": "The Algorithm: How YouTube Recommends Content",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "youtube-algorithm",
+        "internet-culture",
+        "mental-health",
+        "business-strategy"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "fresh005_2026_PewDiePie's_Journey",
+      "title": "PewDiePie's Journey",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "gaming"
+      ],
       "type": "page"
     },
     {
@@ -69,6 +215,25 @@
       "type": "page"
     },
     {
+      "id": "why-you-should-never-confess-your-love",
+      "title": "why-you-should-never-confess-your-love",
+      "file": "/home/hermes/Neural-Nexus/docs/why-you-should-never-confess-your-love.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "title": "\"Reliable Isn't Always Better: TCP vs UDP\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
+      "tags": [
+        "networking",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "microsofts-secret-90s-weapon-that-made-windows-fast",
       "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
       "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
@@ -78,6 +243,21 @@
         "daves-garage",
         "youtube",
         "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "fresh004_2026_MrBeast_Behind_the_Scenes",
+      "title": "MrBeast: Behind the Scenes",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh004_2026_MrBeast_Behind_the_Scenes.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "business-strategy",
+        "marketing"
       ],
       "type": "page"
     },
@@ -94,12 +274,99 @@
         "tutorial"
       ],
       "type": "page"
+    },
+    {
+      "id": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "title": "JiDion's Past Is Catching Up To Him",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "marketing"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
+      "title": "How Penguinz0 Destroyed YouTube's Worst Content Thief",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "title": "\"The Challenge: Building a Custom Electric Vehicle\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
+      "tags": [
+        "hardware",
+        "technology",
+        "automotive",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
+      "title": "The Dark Side of Influencer Culture",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh010_2026_The_Dark_Side_of_Influencer_Culture.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "internet-culture",
+        "mental-health"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
+      "title": "The Rise and Fall of Logan Paul",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh003_2026_The_Rise_and_Fall_of_Logan_Paul.md",
+      "tags": [
+        "youtube",
+        "youtube-creator",
+        "educational-content",
+        "internet-anarchist",
+        "content-creation",
+        "internet-culture",
+        "mental-health",
+        "marketing"
+      ],
+      "type": "page"
     }
   ],
   "edges": [
     {
+      "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -109,28 +376,188 @@
     },
     {
       "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
+      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "index",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "type": "wikilink"
+    },
+    {
+      "source": "index",
+      "target": "why-normal-life-feels-so-boring",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "target": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh005_2026_PewDiePie's_Journey",
+      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh005_2026_PewDiePie's_Journey",
+      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh005_2026_PewDiePie's_Journey",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
       "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
       "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
       "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
+      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
+      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
+      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
+      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
+      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
+      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
+      "type": "wikilink"
+    },
+    {
+      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     }
   ],
   "metadata": {
-    "generated": "2026-10-04T05:13:49.395965",
-    "total_nodes": 9,
-    "total_edges": 6
+    "generated": "2026-10-05T07:54:16.754103",
+    "total_nodes": 29,
+    "total_edges": 41
   }
 }

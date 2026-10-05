@@ -122,8 +122,16 @@ class VideoTracker:
         # Convert dict to list for sorting
         videos_list = []
         for video_id, video_data in self.processed_videos.get("processed_videos", {}).items():
-            video_data["video_id"] = video_id
-            videos_list.append(video_data)
+            if isinstance(video_data, dict):
+                video_data["video_id"] = video_id
+                videos_list.append(video_data)
+            else:
+                # Handle case where video_data is a string (old format)
+                videos_list.append({
+                    "video_id": video_id,
+                    "title": str(video_data),
+                    "processed_date": "Unknown"
+                })
         
         sorted_videos = sorted(
             videos_list,
@@ -142,23 +150,23 @@ class VideoTracker:
         }
 
 
-def generate_summary_report(tracker: VideoTracker, processed_videos: List[Dict], 
-                          selected_videos: List[Dict]) -> str:
+def generate_summary_report(tracker: VideoTracker, all_videos: List[Dict], 
+                          processed_videos: List[Dict]) -> str:
     """Generate a summary report of the ingestion process."""
     report = f"""
 === YouTube Ingestion Pipeline Report ===
 Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 
 === Statistics ===
-Total videos in channel: {len(processed_videos)}
+Total videos in channel: {len(all_videos)}
 Already processed: {tracker.get_processed_count()}
-New videos processed: {len(selected_videos)}
-Unprocessed remaining: {len(processed_videos) - tracker.get_processed_count()}
+New videos processed: {len(processed_videos)}
+Unprocessed remaining: {len(all_videos) - tracker.get_processed_count()}
 
 === Processed Videos ===
 """
     
-    for video in selected_videos:
+    for video in processed_videos:
         report += f"- {video['title']}\n"
         report += f"  ID: {video['id']}\n"
         report += f"  URL: {video['url']}\n"
