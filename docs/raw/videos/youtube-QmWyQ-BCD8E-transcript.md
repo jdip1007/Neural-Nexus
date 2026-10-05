@@ -1,11 +1,11 @@
 ---
-title: bUt ThAt"s mY NeSt eGG! - Transcript
+title: Why A National Debt Default Now Looks Genuinely Possible... (sort of) - Transcript
 created: 2026-10-05
 updated: 2026-10-05
 type: raw
 domain: media
 classification: general.media
-tags: [youtube, transcript, how-money-works, economics, humor]
+tags: [youtube, transcript, how-money-works, debt, economy, politics]
 sources: []
 published: 2026-10-05
 time_sensitive: False
@@ -14,23 +14,24 @@ status: active
 reviewed: 2026-10-05
 ---
 
-# bUt ThAt"s mY NeSt eGG! - Transcript
+# Why A National Debt Default Now Looks Genuinely Possible... (sort of) - Transcript
 
 ## Video Information
-- **Title**: bUt ThAt"s mY NeSt eGG!
-- **Video ID**: QGjXQwUmGTI
+- **Title**: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
+- **Video ID**: QmWyQ-BCD8E
 - **Published**: 2026-10-05
 - **Views**: Unknown
 - **Language**: en
 - **Channel**: How Money Works
 
 ## Content Summary
-This video appears to discuss economic concepts with humor, examining various financial topics in an entertaining format.
+This video examines the possibility of national debt default, analyzing economic indicators and political factors that could contribute to such a scenario.
 
 ## Key Topics
-- Economic concepts
-- Financial education
-- Humor in economics
+- National debt
+- Economic default
+- Political economy
+- Financial markets
 
 ## Transcript Data
 *Note: Full transcript not available via APIs. This page contains video metadata and basic content analysis.*

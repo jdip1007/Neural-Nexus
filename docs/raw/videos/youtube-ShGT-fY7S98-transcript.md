@@ -1,11 +1,11 @@
 ---
-title: bUt ThAt"s mY NeSt eGG! - Transcript
+title: Silicon Valley's Strange New Obsession - Transcript
 created: 2026-10-05
 updated: 2026-10-05
 type: raw
 domain: media
 classification: general.media
-tags: [youtube, transcript, how-money-works, economics, humor]
+tags: [youtube, transcript, how-money-works, silicon-valley, technology, trends]
 sources: []
 published: 2026-10-05
 time_sensitive: False
@@ -14,23 +14,24 @@ status: active
 reviewed: 2026-10-05
 ---
 
-# bUt ThAt"s mY NeSt eGG! - Transcript
+# Silicon Valley's Strange New Obsession - Transcript
 
 ## Video Information
-- **Title**: bUt ThAt"s mY NeSt eGG!
-- **Video ID**: QGjXQwUmGTI
+- **Title**: Silicon Valley's Strange New Obsession
+- **Video ID**: ShGT-fY7S98
 - **Published**: 2026-10-05
 - **Views**: Unknown
 - **Language**: en
 - **Channel**: How Money Works
 
 ## Content Summary
-This video appears to discuss economic concepts with humor, examining various financial topics in an entertaining format.
+This video examines current trends and obsessions within Silicon Valley, analyzing emerging technologies and investment patterns.
 
 ## Key Topics
-- Economic concepts
-- Financial education
-- Humor in economics
+- Silicon Valley trends
+- Technology investments
+- Emerging markets
+- Venture capital
 
 ## Transcript Data
 *Note: Full transcript not available via APIs. This page contains video metadata and basic content analysis.*
