@@ -2,562 +2,1192 @@
   "nodes": [
     {
       "id": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "title": "Content Creator Burnout and Mental Health",
+      "title": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
       "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "mental-health"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "title": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
       "file": "/home/hermes/Neural-Nexus/docs/the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "title": "Viral Marketing Strategies That Work",
+      "title": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
       "file": "/home/hermes/Neural-Nexus/docs/fresh009_2026_Viral_Marketing_Strategies_That_Work.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "marketing"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "title": "\"CANBUS \u2013 Networking so simple, even YOU can understand it!\"",
+      "title": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "hardware",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "why-normal-life-feels-so-boring",
-      "title": "why-normal-life-feels-so-boring",
+      "title": "Why Normal Life Feels So Boring",
       "file": "/home/hermes/Neural-Nexus/docs/why-normal-life-feels-so-boring.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "mental_health",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
+    },
+    {
+      "id": "youtube-ZIjBj63W8KU",
+      "title": "HealthyGamerGG: Why Being the Most Reliable Person Is Ruining You",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-ZIjBj63W8KU.md",
+      "tags": [
+        "youtube",
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
+      ],
+      "type": "video"
     },
     {
       "id": "why-40-of-young-men-need-erectile-retraining",
-      "title": "why-40-of-young-men-need-erectile-retraining",
+      "title": "Why 40% Of Young Men Need Erectile Retraining",
       "file": "/home/hermes/Neural-Nexus/docs/why-40-of-young-men-need-erectile-retraining.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "anxiety",
+        "men_health",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "SCHEMA",
-      "title": "Schema",
+      "title": "SCHEMA",
       "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
       "tags": [],
       "type": "page"
     },
     {
       "id": "tags",
-      "title": "Tags",
+      "title": "tags",
       "file": "/home/hermes/Neural-Nexus/docs/tags.md",
       "tags": [],
       "type": "page"
     },
     {
-      "id": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-      "file": "/home/hermes/Neural-Nexus/docs/hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "id": "daves_garage_execution_summary",
+      "title": "daves_garage_execution_summary",
+      "file": "/home/hermes/Neural-Nexus/docs/daves_garage_execution_summary.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-Hll90rHfdhM",
+      "title": "HealthyGamerGG: Why Planning Better Habits Fails ADHD",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-Hll90rHfdhM.md",
       "tags": [
-        "programming",
-        "technology",
-        "gaming",
-        "daves-garage",
         "youtube",
-        "tutorial"
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
       ],
+      "type": "video"
+    },
+    {
+      "id": "youtube-27PP-xp3SsA",
+      "title": "HealthyGamerGG: Why You Can't Just \"Rewire\" Your Brain",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-27PP-xp3SsA.md",
+      "tags": [
+        "youtube",
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
+      ],
+      "type": "video"
+    },
+    {
+      "id": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "title": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "file": "/home/hermes/Neural-Nexus/docs/hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "title": "The Evolution of YouTube Gaming",
+      "title": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
       "file": "/home/hermes/Neural-Nexus/docs/fresh006_2026_The_Evolution_of_YouTube_Gaming.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "business-strategy",
-        "gaming"
-      ],
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "healthygamer_daily_ingestion_final_report",
+      "title": "healthygamer_daily_ingestion_final_report",
+      "file": "/home/hermes/Neural-Nexus/docs/healthygamer_daily_ingestion_final_report.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "index",
-      "title": "Index",
+      "title": "index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
       "tags": [],
       "type": "page"
     },
     {
       "id": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "title": "\"Hidden Code: How Slot Machines Actually Work - The Computer Inside\"",
+      "title": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
-      "tags": [
-        "programming",
-        "technology",
-        "gaming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "what-breakups-actually-do-to-men",
-      "title": "what-breakups-actually-do-to-men",
+      "title": "What Breakups ACTUALLY Do To Men",
       "file": "/home/hermes/Neural-Nexus/docs/what-breakups-actually-do-to-men.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "breakup",
+        "mental_health",
+        "addiction",
+        "men_health",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "why-you-cant-just-rewire-your-brain",
-      "title": "why-you-cant-just-rewire-your-brain",
+      "title": "Why You Can't Just \"Rewire\" Your Brain",
       "file": "/home/hermes/Neural-Nexus/docs/why-you-cant-just-rewire-your-brain.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "personal_growth",
+        "men_health",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "title": "\"The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown\"",
+      "title": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
-      "title": "The Algorithm: How YouTube Recommends Content",
+      "title": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
       "file": "/home/hermes/Neural-Nexus/docs/fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "youtube-algorithm",
-        "internet-culture",
-        "mental-health",
-        "business-strategy"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
-      "id": "fresh005_2026_PewDiePie's_Journey",
-      "title": "PewDiePie's Journey",
-      "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
+      "id": "youtube-x-9Nr7GigbE",
+      "title": "HealthyGamerGG: How Cops Use Psychology To Make You Talk",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-x-9Nr7GigbE.md",
       "tags": [
         "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "gaming"
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
       ],
+      "type": "video"
+    },
+    {
+      "id": "fresh005_2026_PewDiePie's_Journey",
+      "title": "fresh005_2026_PewDiePie's_Journey",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "log",
-      "title": "Log",
+      "title": "log",
       "file": "/home/hermes/Neural-Nexus/docs/log.md",
       "tags": [],
       "type": "page"
     },
     {
       "id": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "title": "ethernet-explained-so-well-that-even-you-can-understand-it",
       "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "why-you-should-never-confess-your-love",
-      "title": "why-you-should-never-confess-your-love",
-      "file": "/home/hermes/Neural-Nexus/docs/why-you-should-never-confess-your-love.md",
       "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "title": "\"Reliable Isn't Always Better: TCP vs UDP\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
+      "id": "why-you-should-never-confess-your-love",
+      "title": "Why You Should NEVER Confess Your Love",
+      "file": "/home/hermes/Neural-Nexus/docs/why-you-should-never-confess-your-love.md",
       "tags": [
-        "networking",
-        "daves-garage",
+        "breakup",
         "youtube",
-        "tutorial"
+        "healthygamergg"
       ],
+      "type": "video"
+    },
+    {
+      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "title": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "title": "microsofts-secret-90s-weapon-that-made-windows-fast",
       "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
-      "tags": [
-        "programming",
-        "technology",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh004_2026_MrBeast_Behind_the_Scenes",
-      "title": "MrBeast: Behind the Scenes",
+      "title": "fresh004_2026_MrBeast_Behind_the_Scenes",
       "file": "/home/hermes/Neural-Nexus/docs/fresh004_2026_MrBeast_Behind_the_Scenes.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "business-strategy",
-        "marketing"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "canbus-networking-so-simple-even-you-can-understand-it",
-      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "title": "canbus-networking-so-simple-even-you-can-understand-it",
       "file": "/home/hermes/Neural-Nexus/docs/canbus-networking-so-simple-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "hardware",
-        "technology",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "title": "JiDion's Past Is Catching Up To Him",
+      "title": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
       "file": "/home/hermes/Neural-Nexus/docs/fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "marketing"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
-      "title": "How Penguinz0 Destroyed YouTube's Worst Content Thief",
+      "title": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
       "file": "/home/hermes/Neural-Nexus/docs/fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "title": "\"The Challenge: Building a Custom Electric Vehicle\"",
+      "title": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "index-catalog",
+      "title": "index-catalog",
+      "file": "/home/hermes/Neural-Nexus/docs/index-catalog.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "title": "The Dark Side of Influencer Culture",
+      "title": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
       "file": "/home/hermes/Neural-Nexus/docs/fresh010_2026_The_Dark_Side_of_Influencer_Culture.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "internet-culture",
-        "mental-health"
-      ],
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "daves_garage_daily_ingestion_report_20261005_051717",
+      "title": "daves_garage_daily_ingestion_report_20261005_051717",
+      "file": "/home/hermes/Neural-Nexus/docs/daves_garage_daily_ingestion_report_20261005_051717.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "title": "The Rise and Fall of Logan Paul",
+      "title": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
       "file": "/home/hermes/Neural-Nexus/docs/fresh003_2026_The_Rise_and_Fall_of_Logan_Paul.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-TNdNVXYwK7A",
+      "title": "HealthyGamerGG: What Comedians Get Right About Mental Health Trauma",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-TNdNVXYwK7A.md",
       "tags": [
         "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
+        "healthygamer",
         "mental-health",
-        "marketing"
+        "relationships",
+        "personal-development",
+        "anxiety"
       ],
-      "type": "page"
+      "type": "video"
     }
   ],
-  "edges": [
+  "links": [
     {
-      "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "tags",
-      "target": "index",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "mental_health",
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
-    },
-    {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "index",
+      "source": "why-normal-life-feels-so-boring",
       "target": "why-you-cant-just-rewire-your-brain",
-      "type": "wikilink"
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "index",
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-normal-life-feels-so-boring",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
       "target": "why-normal-life-feels-so-boring",
-      "type": "wikilink"
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "type": "wikilink"
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
     },
     {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "type": "wikilink"
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "type": "wikilink"
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "type": "wikilink"
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
     },
     {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
     },
     {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
     },
     {
-      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "youtube",
+        "men_health"
+      ]
     },
     {
-      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "youtube",
+        "men_health"
+      ]
     },
     {
-      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
     },
     {
-      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
     },
     {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
     },
     {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "type": "wikilink"
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
     },
     {
-      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 3,
+      "tags": [
+        "mental_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "youtube",
+        "men_health"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "youtube",
+        "men_health"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "youtube",
+        "breakup"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "youtube",
+        "men_health"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "youtube",
+        "men_health"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "youtube",
+        "breakup"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "relationships",
+        "mental-health",
+        "healthygamer",
+        "personal-development",
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     }
   ],
-  "metadata": {
-    "generated": "2026-10-05T07:54:16.754103",
-    "total_nodes": 29,
-    "total_edges": 41
-  }
+  "generated": "2026-10-06T08:10:15.758641"
 }
