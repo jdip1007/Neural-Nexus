@@ -1,40 +1,25 @@
 ---
-title: Why Are We Doing This To Canada? - Transcript
-created: 2026-10-05
-updated: 2026-10-05
-type: raw
-domain: media
-classification: general.media
-tags: [youtube, transcript, how-money-works, canada, politics]
-sources: []
-published: 2026-10-05
+source_url: https://www.youtube.com/watch?v=p73d6sL8gVo
+source_type: video
+ingested: 2026-10-06
+published: 2026-10-06
+duration_minutes: 0
+language: en
+sha256: affbabcbae581053bd61cbe1765b5c53ed7c5b3e12155dd3c6f3e2cb46d869bb
 time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-05
 ---
 
-# Why Are We Doing This To Canada? - Transcript
+# YouTube Transcript: Video p73d6sL8gVo
 
 ## Video Information
-- **Title**: Why Are We Doing This To Canada?
+- **Title**: Video p73d6sL8gVo
 - **Video ID**: p73d6sL8gVo
-- **Published**: 2026-10-05
+- **Published**: 2026-10-06
 - **Views**: Unknown
 - **Language**: en
-- **Channel**: How Money Works
 
-## Content Summary
-This video discusses the political and economic situation in Canada, examining current policies and their implications.
+## Transcript
+00:00 Video: Video p73d6sL8gVo
+Channel: Unknown
+Description: No description available
 
-## Key Topics
-- Canadian politics
-- Economic policies
-- International relations
-
-## Transcript Data
-*Note: Full transcript not available via APIs. This page contains video metadata and basic content analysis.*
-
----
-
-*This page was automatically generated from YouTube video metadata and basic content analysis.*
