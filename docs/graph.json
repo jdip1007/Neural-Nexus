@@ -40,6 +40,20 @@
       "type": "video"
     },
     {
+      "id": "youtube-TEST123",
+      "title": "HealthyGamerGG: HealthyGamerGG Video TEST123",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-TEST123.md",
+      "tags": [
+        "youtube",
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
+      ],
+      "type": "video"
+    },
+    {
       "id": "youtube-ZIjBj63W8KU",
       "title": "HealthyGamerGG: Why Being the Most Reliable Person Is Ruining You",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-ZIjBj63W8KU.md",
@@ -330,6 +344,14 @@
   "links": [
     {
       "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-normal-life-feels-so-boring",
       "target": "youtube-ZIjBj63W8KU",
       "weight": 1,
       "tags": [
@@ -341,8 +363,8 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 2,
       "tags": [
-        "healthygamergg",
-        "youtube"
+        "youtube",
+        "healthygamergg"
       ]
     },
     {
@@ -366,9 +388,9 @@
       "target": "what-breakups-actually-do-to-men",
       "weight": 3,
       "tags": [
-        "mental_health",
+        "youtube",
         "healthygamergg",
-        "youtube"
+        "mental_health"
       ]
     },
     {
@@ -376,8 +398,8 @@
       "target": "why-you-cant-just-rewire-your-brain",
       "weight": 2,
       "tags": [
-        "healthygamergg",
-        "youtube"
+        "youtube",
+        "healthygamergg"
       ]
     },
     {
@@ -393,8 +415,8 @@
       "target": "why-you-should-never-confess-your-love",
       "weight": 2,
       "tags": [
-        "healthygamergg",
-        "youtube"
+        "youtube",
+        "healthygamergg"
       ]
     },
     {
@@ -406,11 +428,130 @@
       ]
     },
     {
+      "source": "youtube-TEST123",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
       "source": "youtube-ZIjBj63W8KU",
       "target": "why-normal-life-feels-so-boring",
       "weight": 1,
       "tags": [
         "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -427,12 +568,12 @@
       "target": "youtube-Hll90rHfdhM",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -440,12 +581,12 @@
       "target": "youtube-27PP-xp3SsA",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -469,12 +610,12 @@
       "target": "youtube-x-9Nr7GigbE",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -490,12 +631,12 @@
       "target": "youtube-TNdNVXYwK7A",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -503,8 +644,17 @@
       "target": "why-normal-life-feels-so-boring",
       "weight": 2,
       "tags": [
-        "healthygamergg",
-        "youtube"
+        "youtube",
+        "healthygamergg"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-TEST123",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "anxiety"
       ]
     },
     {
@@ -539,9 +689,9 @@
       "target": "what-breakups-actually-do-to-men",
       "weight": 3,
       "tags": [
-        "healthygamergg",
         "youtube",
-        "men_health"
+        "men_health",
+        "healthygamergg"
       ]
     },
     {
@@ -549,9 +699,9 @@
       "target": "why-you-cant-just-rewire-your-brain",
       "weight": 3,
       "tags": [
-        "healthygamergg",
         "youtube",
-        "men_health"
+        "men_health",
+        "healthygamergg"
       ]
     },
     {
@@ -568,8 +718,8 @@
       "target": "why-you-should-never-confess-your-love",
       "weight": 2,
       "tags": [
-        "healthygamergg",
-        "youtube"
+        "youtube",
+        "healthygamergg"
       ]
     },
     {
@@ -591,15 +741,28 @@
     },
     {
       "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
       "target": "youtube-ZIjBj63W8KU",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -616,12 +779,12 @@
       "target": "youtube-27PP-xp3SsA",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -645,12 +808,12 @@
       "target": "youtube-x-9Nr7GigbE",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -666,12 +829,12 @@
       "target": "youtube-TNdNVXYwK7A",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -684,15 +847,28 @@
     },
     {
       "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
       "target": "youtube-ZIjBj63W8KU",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -709,12 +885,12 @@
       "target": "youtube-Hll90rHfdhM",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -738,12 +914,12 @@
       "target": "youtube-x-9Nr7GigbE",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -759,12 +935,12 @@
       "target": "youtube-TNdNVXYwK7A",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -772,8 +948,16 @@
       "target": "why-normal-life-feels-so-boring",
       "weight": 3,
       "tags": [
-        "mental_health",
+        "youtube",
         "healthygamergg",
+        "mental_health"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
         "youtube"
       ]
     },
@@ -790,9 +974,9 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 3,
       "tags": [
-        "healthygamergg",
         "youtube",
-        "men_health"
+        "men_health",
+        "healthygamergg"
       ]
     },
     {
@@ -816,9 +1000,9 @@
       "target": "why-you-cant-just-rewire-your-brain",
       "weight": 3,
       "tags": [
-        "healthygamergg",
         "youtube",
-        "men_health"
+        "men_health",
+        "healthygamergg"
       ]
     },
     {
@@ -834,9 +1018,9 @@
       "target": "why-you-should-never-confess-your-love",
       "weight": 3,
       "tags": [
-        "healthygamergg",
+        "breakup",
         "youtube",
-        "breakup"
+        "healthygamergg"
       ]
     },
     {
@@ -852,7 +1036,15 @@
       "target": "why-normal-life-feels-so-boring",
       "weight": 2,
       "tags": [
-        "healthygamergg",
+        "youtube",
+        "healthygamergg"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
         "youtube"
       ]
     },
@@ -869,9 +1061,9 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 3,
       "tags": [
-        "healthygamergg",
         "youtube",
-        "men_health"
+        "men_health",
+        "healthygamergg"
       ]
     },
     {
@@ -895,9 +1087,9 @@
       "target": "what-breakups-actually-do-to-men",
       "weight": 3,
       "tags": [
-        "healthygamergg",
         "youtube",
-        "men_health"
+        "men_health",
+        "healthygamergg"
       ]
     },
     {
@@ -913,8 +1105,8 @@
       "target": "why-you-should-never-confess-your-love",
       "weight": 2,
       "tags": [
-        "healthygamergg",
-        "youtube"
+        "youtube",
+        "healthygamergg"
       ]
     },
     {
@@ -935,15 +1127,28 @@
     },
     {
       "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
       "target": "youtube-ZIjBj63W8KU",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -960,12 +1165,12 @@
       "target": "youtube-Hll90rHfdhM",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -973,12 +1178,12 @@
       "target": "youtube-27PP-xp3SsA",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -1010,12 +1215,12 @@
       "target": "youtube-TNdNVXYwK7A",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -1023,7 +1228,15 @@
       "target": "why-normal-life-feels-so-boring",
       "weight": 2,
       "tags": [
-        "healthygamergg",
+        "youtube",
+        "healthygamergg"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
         "youtube"
       ]
     },
@@ -1040,8 +1253,8 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 2,
       "tags": [
-        "healthygamergg",
-        "youtube"
+        "youtube",
+        "healthygamergg"
       ]
     },
     {
@@ -1065,9 +1278,9 @@
       "target": "what-breakups-actually-do-to-men",
       "weight": 3,
       "tags": [
-        "healthygamergg",
+        "breakup",
         "youtube",
-        "breakup"
+        "healthygamergg"
       ]
     },
     {
@@ -1075,8 +1288,8 @@
       "target": "why-you-cant-just-rewire-your-brain",
       "weight": 2,
       "tags": [
-        "healthygamergg",
-        "youtube"
+        "youtube",
+        "healthygamergg"
       ]
     },
     {
@@ -1105,15 +1318,28 @@
     },
     {
       "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "youtube",
+        "anxiety",
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
       "target": "youtube-ZIjBj63W8KU",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -1130,12 +1356,12 @@
       "target": "youtube-Hll90rHfdhM",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -1143,12 +1369,12 @@
       "target": "youtube-27PP-xp3SsA",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -1172,12 +1398,12 @@
       "target": "youtube-x-9Nr7GigbE",
       "weight": 6,
       "tags": [
-        "relationships",
-        "mental-health",
-        "healthygamer",
-        "personal-development",
+        "youtube",
         "anxiety",
-        "youtube"
+        "personal-development",
+        "healthygamer",
+        "relationships",
+        "mental-health"
       ]
     },
     {
@@ -1189,5 +1415,5 @@
       ]
     }
   ],
-  "generated": "2026-10-06T08:10:15.758641"
+  "generated": "2026-10-06T08:19:30.198152"
 }
