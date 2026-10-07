@@ -1,25 +1,25 @@
 ---
-source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+source_url: https://www.youtube.com/watch?v=tgbNymZ7vqY
 source_type: video
 ingested: 2026-10-07
 published: 2026-10-07
 duration_minutes: 0
 language: en
-sha256: 7718741d29a2cfd9419fc77cb73e60633a77712d97efa8501d526c058a5ab2a1
+sha256: 0d5e8bcf24f3266ca15d5e7f9b5132db95d3a86f645a723318ad0369f9c38440
 time_sensitive: False
 ---
 
-# YouTube Transcript: Video dQw4w9WgXcQ
+# YouTube Transcript: Video tgbNymZ7vqY
 
 ## Video Information
-- **Title**: Video dQw4w9WgXcQ
-- **Video ID**: dQw4w9WgXcQ
+- **Title**: Video tgbNymZ7vqY
+- **Video ID**: tgbNymZ7vqY
 - **Published**: 2026-10-07
 - **Views**: Unknown
 - **Language**: en
 
 ## Transcript
-00:00 Video: Video dQw4w9WgXcQ
+00:00 Video: Video tgbNymZ7vqY
 Channel: Unknown
 Description: No description available
 

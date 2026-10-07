@@ -2,30 +2,24 @@
 source_url: https://www.youtube.com/watch?v=jNQXAC9IVRw
 source_type: video
 ingested: 2026-10-07
-published: 2024-02-20
-duration_minutes: 5
+published: 2026-10-07
+duration_minutes: 0
 language: en
-sha256: mock_hash_12345
+sha256: 9de32845ec53cc22c674ff7f5a849a2ac20e678ba33062fe0162c126cff14177
 time_sensitive: False
 ---
 
-# YouTube Transcript: Anarchist History: From Proudhon to Modern Movements
+# YouTube Transcript: Video jNQXAC9IVRw
 
 ## Video Information
-- **Title**: Anarchist History: From Proudhon to Modern Movements
+- **Title**: Video jNQXAC9IVRw
 - **Video ID**: jNQXAC9IVRw
-- **Published**: 2024-02-20
-- **Views**: 23000
+- **Published**: 2026-10-07
+- **Views**: Unknown
 - **Language**: en
 
 ## Transcript
-00:00 Welcome to this video on anarchist philosophy. Today we explore the key concepts that define anarchist thought.
-
-00:15 Anarchism is not chaos, but rather a philosophy that seeks to eliminate hierarchical authority and promote voluntary cooperation.
-
-00:30 The core principles include mutual aid, direct action, and solidarity among individuals and communities.
-
-00:45 We believe that people can organize themselves without the need for centralized control or coercion.
-
-01:00 This approach has been applied in various contexts, from community organizing to alternative economic systems.
+00:00 Video: Video jNQXAC9IVRw
+Channel: Unknown
+Description: No description available
 

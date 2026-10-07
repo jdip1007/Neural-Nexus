@@ -1,12 +1,12 @@
 ---
-title: Video jNQXAC9IVRw - Summary
+title: Video tgbNymZ7vqY - Summary
 created: 2026-10-07
 updated: 2026-10-07
 type: reading
 domain: ai
 classification: general.media
-tags: [youtube, video-summary, transcript, jNQXAC9IVRw]
-sources: [raw/videos/youtube-jNQXAC9IVRw-transcript.md]
+tags: [youtube, video-summary, transcript, tgbNymZ7vqY]
+sources: [raw/videos/youtube-tgbNymZ7vqY-transcript.md]
 published: 2026-10-07
 time_sensitive: False
 confidence: high
@@ -14,10 +14,10 @@ status: active
 reviewed: 2026-10-07
 ---
 
-# Video jNQXAC9IVRw - Summary
+# Video tgbNymZ7vqY - Summary
 
 ## TL;DR
-This video discusses Video jNQXAC9IVRw
+This video discusses Video tgbNymZ7vqY
 
 ## Key Points
 
