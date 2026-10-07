@@ -1,21 +1,21 @@
 ---
-source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+source_url: https://www.youtube.com/watch?v=bCg7n8sH3ZP
 source_type: video
 ingested: 2026-10-07
-published: 2024-01-15
+published: 2024-06-18
 duration_minutes: 5
 language: en
 sha256: mock_hash_12345
 time_sensitive: False
 ---
 
-# YouTube Transcript: Understanding Anarchist Philosophy: Key Concepts
+# YouTube Transcript: Anarchist Technology: Tools for Liberation
 
 ## Video Information
-- **Title**: Understanding Anarchist Philosophy: Key Concepts
-- **Video ID**: dQw4w9WgXcQ
-- **Published**: 2024-01-15
-- **Views**: 15000
+- **Title**: Anarchist Technology: Tools for Liberation
+- **Video ID**: bCg7n8sH3ZP
+- **Published**: 2024-06-18
+- **Views**: 16000
 - **Language**: en
 
 ## Transcript

@@ -1,21 +1,21 @@
 ---
-source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+source_url: https://www.youtube.com/watch?v=fJ9rUzIMcZQ
 source_type: video
 ingested: 2026-10-07
-published: 2024-01-15
+published: 2024-04-05
 duration_minutes: 5
 language: en
 sha256: mock_hash_12345
 time_sensitive: False
 ---
 
-# YouTube Transcript: Understanding Anarchist Philosophy: Key Concepts
+# YouTube Transcript: Anarchist Economics: Mutual Aid and Cooperation
 
 ## Video Information
-- **Title**: Understanding Anarchist Philosophy: Key Concepts
-- **Video ID**: dQw4w9WgXcQ
-- **Published**: 2024-01-15
-- **Views**: 15000
+- **Title**: Anarchist Economics: Mutual Aid and Cooperation
+- **Video ID**: fJ9rUzIMcZQ
+- **Published**: 2024-04-05
+- **Views**: 12000
 - **Language**: en
 
 ## Transcript

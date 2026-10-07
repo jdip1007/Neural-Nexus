@@ -1,21 +1,21 @@
 ---
-source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+source_url: https://www.youtube.com/watch?v=vJQvzQzXW2Y
 source_type: video
 ingested: 2026-10-07
-published: 2024-01-15
+published: 2024-05-12
 duration_minutes: 5
 language: en
 sha256: mock_hash_12345
 time_sensitive: False
 ---
 
-# YouTube Transcript: Understanding Anarchist Philosophy: Key Concepts
+# YouTube Transcript: Anarchist Education: Learning Without Authority
 
 ## Video Information
-- **Title**: Understanding Anarchist Philosophy: Key Concepts
-- **Video ID**: dQw4w9WgXcQ
-- **Published**: 2024-01-15
-- **Views**: 15000
+- **Title**: Anarchist Education: Learning Without Authority
+- **Video ID**: vJQvzQzXW2Y
+- **Published**: 2024-05-12
+- **Views**: 20000
 - **Language**: en
 
 ## Transcript

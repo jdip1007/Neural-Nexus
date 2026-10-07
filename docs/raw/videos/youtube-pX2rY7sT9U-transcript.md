@@ -1,21 +1,21 @@
 ---
-source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+source_url: https://www.youtube.com/watch?v=pX2rY7sT9U
 source_type: video
 ingested: 2026-10-07
-published: 2024-01-15
+published: 2024-08-30
 duration_minutes: 5
 language: en
 sha256: mock_hash_12345
 time_sensitive: False
 ---
 
-# YouTube Transcript: Understanding Anarchist Philosophy: Key Concepts
+# YouTube Transcript: Anarchist Law: Justice Without the State
 
 ## Video Information
-- **Title**: Understanding Anarchist Philosophy: Key Concepts
-- **Video ID**: dQw4w9WgXcQ
-- **Published**: 2024-01-15
-- **Views**: 15000
+- **Title**: Anarchist Law: Justice Without the State
+- **Video ID**: pX2rY7sT9U
+- **Published**: 2024-08-30
+- **Views**: 19000
 - **Language**: en
 
 ## Transcript

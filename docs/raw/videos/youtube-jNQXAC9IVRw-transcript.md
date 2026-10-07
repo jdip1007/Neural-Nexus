@@ -1,21 +1,21 @@
 ---
-source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+source_url: https://www.youtube.com/watch?v=jNQXAC9IVRw
 source_type: video
 ingested: 2026-10-07
-published: 2024-01-15
+published: 2024-02-20
 duration_minutes: 5
 language: en
 sha256: mock_hash_12345
 time_sensitive: False
 ---
 
-# YouTube Transcript: Understanding Anarchist Philosophy: Key Concepts
+# YouTube Transcript: Anarchist History: From Proudhon to Modern Movements
 
 ## Video Information
-- **Title**: Understanding Anarchist Philosophy: Key Concepts
-- **Video ID**: dQw4w9WgXcQ
-- **Published**: 2024-01-15
-- **Views**: 15000
+- **Title**: Anarchist History: From Proudhon to Modern Movements
+- **Video ID**: jNQXAC9IVRw
+- **Published**: 2024-02-20
+- **Views**: 23000
 - **Language**: en
 
 ## Transcript
