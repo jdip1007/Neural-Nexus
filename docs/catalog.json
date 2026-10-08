@@ -1,35 +1,56 @@
 {
+  "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?": {
+    "title": "AI DEBATE: What Will the World Actually Look Like in 2040?",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "chris-willx",
+      "podcast",
+      "video-summary",
+      "transcript",
+      "ai",
+      "artificial-intelligence",
+      "discussion",
+      "debate"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/youtube-mSjaMyP5QjY-transcript.json"
+    ]
+  },
   "fresh007_2026_Content_Creator_Burnout_and_Mental_Health": {
     "title": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
     "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.668717",
-    "updated": "2026-10-07T06:03:23.668735"
+    "created": "2026-10-08T00:48:10.155230",
+    "updated": "2026-10-08T00:48:10.155240"
   },
   "the-controversial-flock-cameras-tracking-every-car-full-breakdown": {
     "title": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
     "file": "/home/hermes/Neural-Nexus/docs/the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.668764",
-    "updated": "2026-10-07T06:03:23.668765"
+    "created": "2026-10-08T00:48:10.155261",
+    "updated": "2026-10-08T00:48:10.155262"
   },
   "fresh009_2026_Viral_Marketing_Strategies_That_Work": {
     "title": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
     "file": "/home/hermes/Neural-Nexus/docs/fresh009_2026_Viral_Marketing_Strategies_That_Work.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.668788",
-    "updated": "2026-10-07T06:03:23.668789"
+    "created": "2026-10-08T00:48:10.155282",
+    "updated": "2026-10-08T00:48:10.155283"
   },
   "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it": {
     "title": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.668806",
-    "updated": "2026-10-07T06:03:23.668807"
+    "created": "2026-10-08T00:48:10.155301",
+    "updated": "2026-10-08T00:48:10.155301"
   },
   "why-normal-life-feels-so-boring": {
     "title": "Why Normal Life Feels So Boring",
@@ -64,6 +85,22 @@
       "https://test.url"
     ]
   },
+  "why-you-need-constant-reassurance": {
+    "title": "Why You Need Constant Reassurance",
+    "file": "/home/hermes/Neural-Nexus/docs/why-you-need-constant-reassurance.md",
+    "type": "video",
+    "tags": [
+      "breakup",
+      "relationships",
+      "youtube",
+      "healthygamergg"
+    ],
+    "created": "2026-10-07T08:22:32.884268",
+    "updated": "2026-10-07T08:22:32.884269",
+    "sources": [
+      "https://www.youtube.com/watch?v=example7"
+    ]
+  },
   "youtube-ZIjBj63W8KU": {
     "title": "HealthyGamerGG: Why Being the Most Reliable Person Is Ruining You",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-ZIjBj63W8KU.md",
@@ -92,8 +129,8 @@
       "youtube",
       "healthygamergg"
     ],
-    "created": "2026-10-05T07:53:25.619685",
-    "updated": "2026-10-05T07:53:25.619686",
+    "created": "2026-10-07T08:22:32.884596",
+    "updated": "2026-10-07T08:22:32.884598",
     "sources": [
       "https://www.youtube.com/watch?v=example4"
     ]
@@ -103,24 +140,41 @@
     "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.668917",
-    "updated": "2026-10-07T06:03:23.668919"
+    "created": "2026-10-08T00:48:10.155427",
+    "updated": "2026-10-08T00:48:10.155429"
   },
   "tags": {
     "title": "tags",
     "file": "/home/hermes/Neural-Nexus/docs/tags.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.668940",
-    "updated": "2026-10-07T06:03:23.668941"
+    "created": "2026-10-08T00:48:10.155445",
+    "updated": "2026-10-08T00:48:10.155446"
+  },
+  "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye": {
+    "title": "I Have A Problem With Love On The Spectrum - Jeff Dye",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "chris-willx",
+      "podcast",
+      "video-summary",
+      "transcript"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/youtube-SNrw-C_RBck-transcript.json"
+    ]
   },
   "daves_garage_execution_summary": {
     "title": "daves_garage_execution_summary",
     "file": "/home/hermes/Neural-Nexus/docs/daves_garage_execution_summary.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.668956",
-    "updated": "2026-10-07T06:03:23.668957"
+    "created": "2026-10-08T00:48:10.155476",
+    "updated": "2026-10-08T00:48:10.155477"
   },
   "youtube-Hll90rHfdhM": {
     "title": "HealthyGamerGG: Why Planning Better Habits Fails ADHD",
@@ -158,45 +212,80 @@
       "https://www.youtube.com/watch?v=27PP-xp3SsA"
     ]
   },
+  "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k": {
+    "title": "I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K",
+    "file": "/home/hermes/Neural-Nexus/docs/i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k.md",
+    "type": "video",
+    "tags": [
+      "breakup",
+      "relationships",
+      "youtube",
+      "healthygamergg"
+    ],
+    "created": "2026-10-07T08:22:32.883699",
+    "updated": "2026-10-07T08:22:32.883702",
+    "sources": [
+      "https://www.youtube.com/watch?v=example9"
+    ]
+  },
   "hidden-code-how-slot-machines-actually-work-the-computer-inside": {
     "title": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
     "file": "/home/hermes/Neural-Nexus/docs/hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669005",
-    "updated": "2026-10-07T06:03:23.669006"
+    "created": "2026-10-08T00:48:10.155542",
+    "updated": "2026-10-08T00:48:10.155543"
   },
   "fresh006_2026_The_Evolution_of_YouTube_Gaming": {
     "title": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
     "file": "/home/hermes/Neural-Nexus/docs/fresh006_2026_The_Evolution_of_YouTube_Gaming.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669022",
-    "updated": "2026-10-07T06:03:23.669023"
+    "created": "2026-10-08T00:48:10.155559",
+    "updated": "2026-10-08T00:48:10.155561"
   },
   "healthygamer_daily_ingestion_final_report": {
     "title": "healthygamer_daily_ingestion_final_report",
     "file": "/home/hermes/Neural-Nexus/docs/healthygamer_daily_ingestion_final_report.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669044",
-    "updated": "2026-10-07T06:03:23.669045"
+    "created": "2026-10-08T00:48:10.155573",
+    "updated": "2026-10-08T00:48:10.155574"
+  },
+  "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman": {
+    "title": "Harvard Professor: I Tried Every Diet - Daniel Lieberman",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "chris-willx",
+      "podcast",
+      "video-summary",
+      "transcript",
+      "health",
+      "nutrition"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/youtube-f2p1YH0-BaI-transcript.json"
+    ]
   },
   "index": {
     "title": "index",
     "file": "/home/hermes/Neural-Nexus/docs/index.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669068",
-    "updated": "2026-10-07T06:03:23.669070"
+    "created": "2026-10-08T00:48:10.155604",
+    "updated": "2026-10-08T00:48:10.155605"
   },
   "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside": {
     "title": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669087",
-    "updated": "2026-10-07T06:03:23.669088"
+    "created": "2026-10-08T00:48:10.155620",
+    "updated": "2026-10-08T00:48:10.155621"
   },
   "what-breakups-actually-do-to-men": {
     "title": "What Breakups ACTUALLY Do To Men",
@@ -237,16 +326,16 @@
     "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669152",
-    "updated": "2026-10-07T06:03:23.669154"
+    "created": "2026-10-08T00:48:10.155690",
+    "updated": "2026-10-08T00:48:10.155691"
   },
   "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content": {
     "title": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
     "file": "/home/hermes/Neural-Nexus/docs/fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669175",
-    "updated": "2026-10-07T06:03:23.669177"
+    "created": "2026-10-08T00:48:10.155711",
+    "updated": "2026-10-08T00:48:10.155712"
   },
   "youtube-x-9Nr7GigbE": {
     "title": "HealthyGamerGG: How Cops Use Psychology To Make You Talk",
@@ -271,24 +360,24 @@
     "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669218",
-    "updated": "2026-10-07T06:03:23.669219"
+    "created": "2026-10-08T00:48:10.155768",
+    "updated": "2026-10-08T00:48:10.155769"
   },
   "log": {
     "title": "log",
     "file": "/home/hermes/Neural-Nexus/docs/log.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669378",
-    "updated": "2026-10-07T06:03:23.669380"
+    "created": "2026-10-08T00:48:10.155915",
+    "updated": "2026-10-08T00:48:10.155916"
   },
   "ethernet-explained-so-well-that-even-you-can-understand-it": {
     "title": "ethernet-explained-so-well-that-even-you-can-understand-it",
     "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669397",
-    "updated": "2026-10-07T06:03:23.669398"
+    "created": "2026-10-08T00:48:10.155935",
+    "updated": "2026-10-08T00:48:10.155936"
   },
   "why-you-should-never-confess-your-love": {
     "title": "Why You Should NEVER Confess Your Love",
@@ -299,8 +388,8 @@
       "youtube",
       "healthygamergg"
     ],
-    "created": "2026-10-05T07:53:25.619335",
-    "updated": "2026-10-05T07:53:25.619342",
+    "created": "2026-10-07T08:22:32.884818",
+    "updated": "2026-10-07T08:22:32.884820",
     "sources": [
       "https://www.youtube.com/watch?v=example8"
     ]
@@ -310,88 +399,106 @@
     "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669427",
-    "updated": "2026-10-07T06:03:23.669428"
+    "created": "2026-10-08T00:48:10.155968",
+    "updated": "2026-10-08T00:48:10.155969"
   },
   "microsofts-secret-90s-weapon-that-made-windows-fast": {
     "title": "microsofts-secret-90s-weapon-that-made-windows-fast",
     "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669443",
-    "updated": "2026-10-07T06:03:23.669444"
+    "created": "2026-10-08T00:48:10.155984",
+    "updated": "2026-10-08T00:48:10.155985"
   },
   "fresh004_2026_MrBeast_Behind_the_Scenes": {
     "title": "fresh004_2026_MrBeast_Behind_the_Scenes",
     "file": "/home/hermes/Neural-Nexus/docs/fresh004_2026_MrBeast_Behind_the_Scenes.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669458",
-    "updated": "2026-10-07T06:03:23.669459"
+    "created": "2026-10-08T00:48:10.155999",
+    "updated": "2026-10-08T00:48:10.156000"
   },
   "canbus-networking-so-simple-even-you-can-understand-it": {
     "title": "canbus-networking-so-simple-even-you-can-understand-it",
     "file": "/home/hermes/Neural-Nexus/docs/canbus-networking-so-simple-even-you-can-understand-it.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669479",
-    "updated": "2026-10-07T06:03:23.669479"
+    "created": "2026-10-08T00:48:10.156017",
+    "updated": "2026-10-08T00:48:10.156017"
   },
   "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him": {
     "title": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
     "file": "/home/hermes/Neural-Nexus/docs/fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669495",
-    "updated": "2026-10-07T06:03:23.669496"
+    "created": "2026-10-08T00:48:10.156032",
+    "updated": "2026-10-08T00:48:10.156033"
   },
   "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief": {
     "title": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
     "file": "/home/hermes/Neural-Nexus/docs/fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669510",
-    "updated": "2026-10-07T06:03:23.669511"
+    "created": "2026-10-08T00:48:10.156047",
+    "updated": "2026-10-08T00:48:10.156048"
   },
   "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle": {
     "title": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.669527",
-    "updated": "2026-10-07T06:03:23.669528"
+    "created": "2026-10-08T00:48:10.156061",
+    "updated": "2026-10-08T00:48:10.156062"
   },
   "index-catalog": {
     "title": "index-catalog",
     "file": "/home/hermes/Neural-Nexus/docs/index-catalog.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.670057",
-    "updated": "2026-10-07T06:03:23.670060"
+    "created": "2026-10-08T00:48:10.156583",
+    "updated": "2026-10-08T00:48:10.156586"
   },
   "fresh010_2026_The_Dark_Side_of_Influencer_Culture": {
     "title": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
     "file": "/home/hermes/Neural-Nexus/docs/fresh010_2026_The_Dark_Side_of_Influencer_Culture.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.670102",
-    "updated": "2026-10-07T06:03:23.670103"
+    "created": "2026-10-08T00:48:10.156643",
+    "updated": "2026-10-08T00:48:10.156645"
+  },
+  "the-secret-to-fixing-your-adulthood": {
+    "title": "The Secret to Fixing Your Adulthood",
+    "file": "/home/hermes/Neural-Nexus/docs/the-secret-to-fixing-your-adulthood.md",
+    "type": "video",
+    "tags": [
+      "personal_growth",
+      "men_health",
+      "life_skills",
+      "emotional_intelligence",
+      "youtube",
+      "healthygamergg"
+    ],
+    "created": "2026-10-07T08:22:32.883953",
+    "updated": "2026-10-07T08:22:32.883955",
+    "sources": [
+      "https://www.youtube.com/watch?v=919XuYNqyjw"
+    ]
   },
   "daves_garage_daily_ingestion_report_20261005_051717": {
     "title": "daves_garage_daily_ingestion_report_20261005_051717",
     "file": "/home/hermes/Neural-Nexus/docs/daves_garage_daily_ingestion_report_20261005_051717.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.670117",
-    "updated": "2026-10-07T06:03:23.670118"
+    "created": "2026-10-08T00:48:10.156685",
+    "updated": "2026-10-08T00:48:10.156687"
   },
   "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul": {
     "title": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
     "file": "/home/hermes/Neural-Nexus/docs/fresh003_2026_The_Rise_and_Fall_of_Logan_Paul.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-07T06:03:23.670135",
-    "updated": "2026-10-07T06:03:23.670136"
+    "created": "2026-10-08T00:48:10.156707",
+    "updated": "2026-10-08T00:48:10.156708"
   },
   "youtube-TNdNVXYwK7A": {
     "title": "HealthyGamerGG: What Comedians Get Right About Mental Health Trauma",

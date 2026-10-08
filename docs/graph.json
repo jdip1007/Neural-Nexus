@@ -1,631 +1,2902 @@
 {
   "nodes": [
     {
-      "id": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "title": "Content Creator Burnout and Mental Health",
-      "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
+      "id": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "title": "AI DEBATE: What Will the World Actually Look Like in 2040?",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?.md",
       "tags": [
         "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "mental-health"
+        "chris-willx",
+        "podcast",
+        "video-summary",
+        "transcript",
+        "ai",
+        "artificial-intelligence",
+        "discussion",
+        "debate"
       ],
+      "type": "reading"
+    },
+    {
+      "id": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "title": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "title": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
       "file": "/home/hermes/Neural-Nexus/docs/the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "title": "Viral Marketing Strategies That Work",
+      "title": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
       "file": "/home/hermes/Neural-Nexus/docs/fresh009_2026_Viral_Marketing_Strategies_That_Work.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "marketing"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "title": "\"CANBUS \u2013 Networking so simple, even YOU can understand it!\"",
+      "title": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "hardware",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "why-normal-life-feels-so-boring",
-      "title": "why-normal-life-feels-so-boring",
+      "title": "Why Normal Life Feels So Boring",
       "file": "/home/hermes/Neural-Nexus/docs/why-normal-life-feels-so-boring.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "mental_health",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "youtube-TEST123",
-      "title": "youtube-TEST123",
+      "title": "HealthyGamerGG: HealthyGamerGG Video TEST123",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-TEST123.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "youtube",
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
+      ],
+      "type": "video"
     },
     {
       "id": "why-you-need-constant-reassurance",
-      "title": "why-you-need-constant-reassurance",
+      "title": "Why You Need Constant Reassurance",
       "file": "/home/hermes/Neural-Nexus/docs/why-you-need-constant-reassurance.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "breakup",
+        "relationships",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "youtube-ZIjBj63W8KU",
-      "title": "youtube-ZIjBj63W8KU",
+      "title": "HealthyGamerGG: Why Being the Most Reliable Person Is Ruining You",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-ZIjBj63W8KU.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "youtube",
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
+      ],
+      "type": "video"
     },
     {
       "id": "why-40-of-young-men-need-erectile-retraining",
-      "title": "why-40-of-young-men-need-erectile-retraining",
+      "title": "Why 40% Of Young Men Need Erectile Retraining",
       "file": "/home/hermes/Neural-Nexus/docs/why-40-of-young-men-need-erectile-retraining.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "anxiety",
+        "men_health",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "SCHEMA",
-      "title": "Schema",
+      "title": "SCHEMA",
       "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
       "tags": [],
       "type": "page"
     },
     {
       "id": "tags",
-      "title": "Tags",
+      "title": "tags",
       "file": "/home/hermes/Neural-Nexus/docs/tags.md",
       "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-Hll90rHfdhM",
-      "title": "youtube-Hll90rHfdhM",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-Hll90rHfdhM.md",
+      "id": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "title": "I Have A Problem With Love On The Spectrum - Jeff Dye",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye.md",
+      "tags": [
+        "youtube",
+        "chris-willx",
+        "podcast",
+        "video-summary",
+        "transcript"
+      ],
+      "type": "reading"
+    },
+    {
+      "id": "daves_garage_execution_summary",
+      "title": "daves_garage_execution_summary",
+      "file": "/home/hermes/Neural-Nexus/docs/daves_garage_execution_summary.md",
       "tags": [],
       "type": "page"
+    },
+    {
+      "id": "youtube-Hll90rHfdhM",
+      "title": "HealthyGamerGG: Why Planning Better Habits Fails ADHD",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-Hll90rHfdhM.md",
+      "tags": [
+        "youtube",
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
+      ],
+      "type": "video"
     },
     {
       "id": "youtube-27PP-xp3SsA",
-      "title": "youtube-27PP-xp3SsA",
+      "title": "HealthyGamerGG: Why You Can't Just \"Rewire\" Your Brain",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-27PP-xp3SsA.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "youtube",
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
+      ],
+      "type": "video"
     },
     {
       "id": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
-      "title": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "title": "I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K",
       "file": "/home/hermes/Neural-Nexus/docs/i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "breakup",
+        "relationships",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "title": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
       "file": "/home/hermes/Neural-Nexus/docs/hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
-      "tags": [
-        "programming",
-        "technology",
-        "gaming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "title": "The Evolution of YouTube Gaming",
+      "title": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
       "file": "/home/hermes/Neural-Nexus/docs/fresh006_2026_The_Evolution_of_YouTube_Gaming.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "business-strategy",
-        "gaming"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
+      "id": "healthygamer_daily_ingestion_final_report",
+      "title": "healthygamer_daily_ingestion_final_report",
+      "file": "/home/hermes/Neural-Nexus/docs/healthygamer_daily_ingestion_final_report.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "title": "Harvard Professor: I Tried Every Diet - Daniel Lieberman",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman.md",
+      "tags": [
+        "youtube",
+        "chris-willx",
+        "podcast",
+        "video-summary",
+        "transcript",
+        "health",
+        "nutrition"
+      ],
+      "type": "reading"
+    },
+    {
       "id": "index",
-      "title": "Index",
+      "title": "index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
       "tags": [],
       "type": "page"
     },
     {
       "id": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "title": "\"Hidden Code: How Slot Machines Actually Work - The Computer Inside\"",
+      "title": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
-      "tags": [
-        "programming",
-        "technology",
-        "gaming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "what-breakups-actually-do-to-men",
-      "title": "what-breakups-actually-do-to-men",
+      "title": "What Breakups ACTUALLY Do To Men",
       "file": "/home/hermes/Neural-Nexus/docs/what-breakups-actually-do-to-men.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "breakup",
+        "mental_health",
+        "addiction",
+        "men_health",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "why-you-cant-just-rewire-your-brain",
-      "title": "why-you-cant-just-rewire-your-brain",
+      "title": "Why You Can't Just \"Rewire\" Your Brain",
       "file": "/home/hermes/Neural-Nexus/docs/why-you-cant-just-rewire-your-brain.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "personal_growth",
+        "men_health",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
     },
     {
       "id": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "title": "\"The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown\"",
+      "title": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
-      "title": "The Algorithm: How YouTube Recommends Content",
+      "title": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
       "file": "/home/hermes/Neural-Nexus/docs/fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "youtube-algorithm",
-        "internet-culture",
-        "mental-health",
-        "business-strategy"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "youtube-x-9Nr7GigbE",
-      "title": "youtube-x-9Nr7GigbE",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-x-9Nr7GigbE.md",
       "tags": [],
       "type": "page"
     },
     {
-      "id": "fresh005_2026_PewDiePie's_Journey",
-      "title": "PewDiePie's Journey",
-      "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
+      "id": "youtube-x-9Nr7GigbE",
+      "title": "HealthyGamerGG: How Cops Use Psychology To Make You Talk",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-x-9Nr7GigbE.md",
       "tags": [
         "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "gaming"
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
       ],
+      "type": "video"
+    },
+    {
+      "id": "fresh005_2026_PewDiePie's_Journey",
+      "title": "fresh005_2026_PewDiePie's_Journey",
+      "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "log",
-      "title": "Log",
+      "title": "log",
       "file": "/home/hermes/Neural-Nexus/docs/log.md",
       "tags": [],
       "type": "page"
     },
     {
       "id": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "title": "ethernet-explained-so-well-that-even-you-can-understand-it",
       "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
-      "type": "page"
-    },
-    {
-      "id": "why-you-should-never-confess-your-love",
-      "title": "why-you-should-never-confess-your-love",
-      "file": "/home/hermes/Neural-Nexus/docs/why-you-should-never-confess-your-love.md",
       "tags": [],
       "type": "page"
     },
     {
-      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "title": "\"Reliable Isn't Always Better: TCP vs UDP\"",
-      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
+      "id": "why-you-should-never-confess-your-love",
+      "title": "Why You Should NEVER Confess Your Love",
+      "file": "/home/hermes/Neural-Nexus/docs/why-you-should-never-confess-your-love.md",
       "tags": [
-        "networking",
-        "daves-garage",
+        "breakup",
         "youtube",
-        "tutorial"
+        "healthygamergg"
       ],
+      "type": "video"
+    },
+    {
+      "id": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "title": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "title": "microsofts-secret-90s-weapon-that-made-windows-fast",
       "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
-      "tags": [
-        "programming",
-        "technology",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh004_2026_MrBeast_Behind_the_Scenes",
-      "title": "MrBeast: Behind the Scenes",
+      "title": "fresh004_2026_MrBeast_Behind_the_Scenes",
       "file": "/home/hermes/Neural-Nexus/docs/fresh004_2026_MrBeast_Behind_the_Scenes.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "business-strategy",
-        "marketing"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "canbus-networking-so-simple-even-you-can-understand-it",
-      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "title": "canbus-networking-so-simple-even-you-can-understand-it",
       "file": "/home/hermes/Neural-Nexus/docs/canbus-networking-so-simple-even-you-can-understand-it.md",
-      "tags": [
-        "networking",
-        "hardware",
-        "technology",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "title": "JiDion's Past Is Catching Up To Him",
+      "title": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
       "file": "/home/hermes/Neural-Nexus/docs/fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "marketing"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
-      "title": "How Penguinz0 Destroyed YouTube's Worst Content Thief",
+      "title": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
       "file": "/home/hermes/Neural-Nexus/docs/fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "title": "\"The Challenge: Building a Custom Electric Vehicle\"",
+      "title": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
-      "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
-      ],
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "index-catalog",
+      "title": "index-catalog",
+      "file": "/home/hermes/Neural-Nexus/docs/index-catalog.md",
+      "tags": [],
       "type": "page"
     },
     {
       "id": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "title": "The Dark Side of Influencer Culture",
+      "title": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
       "file": "/home/hermes/Neural-Nexus/docs/fresh010_2026_The_Dark_Side_of_Influencer_Culture.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "internet-culture",
-        "mental-health"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "the-secret-to-fixing-your-adulthood",
-      "title": "the-secret-to-fixing-your-adulthood",
+      "title": "The Secret to Fixing Your Adulthood",
       "file": "/home/hermes/Neural-Nexus/docs/the-secret-to-fixing-your-adulthood.md",
+      "tags": [
+        "personal_growth",
+        "men_health",
+        "life_skills",
+        "emotional_intelligence",
+        "youtube",
+        "healthygamergg"
+      ],
+      "type": "video"
+    },
+    {
+      "id": "daves_garage_daily_ingestion_report_20261005_051717",
+      "title": "daves_garage_daily_ingestion_report_20261005_051717",
+      "file": "/home/hermes/Neural-Nexus/docs/daves_garage_daily_ingestion_report_20261005_051717.md",
       "tags": [],
       "type": "page"
     },
     {
       "id": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "title": "The Rise and Fall of Logan Paul",
+      "title": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
       "file": "/home/hermes/Neural-Nexus/docs/fresh003_2026_The_Rise_and_Fall_of_Logan_Paul.md",
-      "tags": [
-        "youtube",
-        "youtube-creator",
-        "educational-content",
-        "internet-anarchist",
-        "content-creation",
-        "internet-culture",
-        "mental-health",
-        "marketing"
-      ],
+      "tags": [],
       "type": "page"
     },
     {
       "id": "youtube-TNdNVXYwK7A",
-      "title": "youtube-TNdNVXYwK7A",
+      "title": "HealthyGamerGG: What Comedians Get Right About Mental Health Trauma",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-TNdNVXYwK7A.md",
-      "tags": [],
-      "type": "page"
+      "tags": [
+        "youtube",
+        "healthygamer",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "anxiety"
+      ],
+      "type": "video"
     }
   ],
-  "edges": [
+  "links": [
     {
-      "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "tags",
-      "target": "index",
-      "type": "wikilink"
-    },
-    {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
-    },
-    {
-      "source": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "type": "wikilink"
-    },
-    {
-      "source": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "index",
-      "target": "why-you-need-constant-reassurance",
-      "type": "wikilink"
-    },
-    {
-      "source": "index",
-      "target": "why-you-cant-just-rewire-your-brain",
-      "type": "wikilink"
-    },
-    {
-      "source": "index",
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "target": "why-normal-life-feels-so-boring",
-      "type": "wikilink"
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "target": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 5,
+      "tags": [
+        "video-summary",
+        "podcast",
+        "chris-willx",
+        "transcript",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh005_2026_PewDiePie's_Journey",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 5,
+      "tags": [
+        "video-summary",
+        "podcast",
+        "chris-willx",
+        "transcript",
+        "youtube"
+      ]
     },
     {
-      "source": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
-      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "microsofts-secret-90s-weapon-that-made-windows-fast",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh004_2026_MrBeast_Behind_the_Scenes",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "mental_health",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     },
     {
-      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
     },
     {
-      "source": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
-      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
-      "type": "wikilink"
+      "source": "why-normal-life-feels-so-boring",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-normal-life-feels-so-boring",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TEST123",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-TEST123",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 4,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-need-constant-reassurance",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-ZIjBj63W8KU",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-TEST123",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-40-of-young-men-need-erectile-retraining",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 5,
+      "tags": [
+        "video-summary",
+        "podcast",
+        "chris-willx",
+        "transcript",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 5,
+      "tags": [
+        "video-summary",
+        "podcast",
+        "chris-willx",
+        "transcript",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-Hll90rHfdhM",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-27PP-xp3SsA",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-TEST123",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 4,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 5,
+      "tags": [
+        "video-summary",
+        "podcast",
+        "chris-willx",
+        "transcript",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 5,
+      "tags": [
+        "video-summary",
+        "podcast",
+        "chris-willx",
+        "transcript",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 3,
+      "tags": [
+        "healthygamergg",
+        "mental_health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "what-breakups-actually-do-to-men",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 4,
+      "tags": [
+        "personal_growth",
+        "healthygamergg",
+        "men_health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-cant-just-rewire-your-brain",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-x-9Nr7GigbE",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "breakup",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "why-you-should-never-confess-your-love",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-TEST123",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 3,
+      "tags": [
+        "men_health",
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 4,
+      "tags": [
+        "personal_growth",
+        "healthygamergg",
+        "men_health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 2,
+      "tags": [
+        "healthygamergg",
+        "youtube"
+      ]
+    },
+    {
+      "source": "the-secret-to-fixing-your-adulthood",
+      "target": "youtube-TNdNVXYwK7A",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-normal-life-feels-so-boring",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-TEST123",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-you-need-constant-reassurance",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-ZIjBj63W8KU",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-40-of-young-men-need-erectile-retraining",
+      "weight": 2,
+      "tags": [
+        "anxiety",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-Hll90rHfdhM",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-27PP-xp3SsA",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
+      "weight": 2,
+      "tags": [
+        "youtube",
+        "relationships"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "what-breakups-actually-do-to-men",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-you-cant-just-rewire-your-brain",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "youtube-x-9Nr7GigbE",
+      "weight": 6,
+      "tags": [
+        "personal-development",
+        "anxiety",
+        "healthygamer",
+        "relationships",
+        "mental-health",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "why-you-should-never-confess-your-love",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-TNdNVXYwK7A",
+      "target": "the-secret-to-fixing-your-adulthood",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
     }
   ],
-  "metadata": {
-    "generated": "2026-10-07T17:04:28.614274",
-    "total_nodes": 38,
-    "total_edges": 42
-  }
+  "generated": "2026-10-08T00:48:10.158112"
 }

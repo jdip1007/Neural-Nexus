@@ -1,0 +1,37 @@
+{
+  "videos": [
+    {
+      "id": "SNrw-C_RBck",
+      "title": ""I Have A Problem With Love On The Spectrum" - Jeff Dye",
+      "url": "https://www.youtube.com/watch?v=SNrw-C_RBck",
+      "duration": "10:05"
+    },
+    {
+      "id": "mSjaMyP5QjY",
+      "title": "AI DEBATE: What Will the World Actually Look Like in 2040?",
+      "url": "https://www.youtube.com/watch?v=mSjaMyP5QjY",
+      "duration": "2:42:33"
+    },
+    {
+      "id": "-5epM9WG95g",
+      "title": "Why Do Female Teachers Sleep With Students?",
+      "url": "https://www.youtube.com/watch?v=-5epM9WG95g",
+      "duration": "9:39"
+    },
+    {
+      "id": "f2p1YH0-BaI",
+      "title": "Harvard Professor: \"I Tried Every Diet. This Is By Far The Worst.\" - Daniel Lieberman",
+      "url": "https://www.youtube.com/watch?v=f2p1YH0-BaI",
+      "duration": "2:08:14"
+    },
+    {
+      "id": "4dIgq-efQpY",
+      "title": "The Hugging Face AI Attack Should Terrify Us",
+      "url": "https://www.youtube.com/watch?v=4dIgq-efQpY",
+      "duration": "9:01"
+    }
+  ],
+  "channel": "ChrisWillx",
+  "extracted_at": "2026-10-08",
+  "note": "Manual video list for testing since YouTube Transcript API is blocked"
+}
