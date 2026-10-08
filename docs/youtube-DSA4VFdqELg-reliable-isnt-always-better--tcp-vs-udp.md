@@ -33,7 +33,7 @@
 - **Video ID**: DSA4VFdqELg
 - **Views**: 134K
 - **Published**: 1mo ago
-- **Processed**: 2026-10-08 06:24:24
+- **Processed**: 2026-10-08 06:17:06
 
 ## Summary
 
@@ -41,11 +41,20 @@ This video is part of Dave's Garage channel featuring technical discussions, com
 
 ## Key Topics and Concepts
 
-- **Networking**: Discussion of networking related concepts and insights\n- **Ai**: Discussion of ai related concepts and insights\n- **Programming**: Discussion of programming related concepts and insights
+- **Networking**: Discussion of networking related concepts and insights
+- **Ai**: Discussion of ai related concepts and insights
+- **Programming**: Discussion of programming related concepts and insights
 
 ## Transcript Analysis
 
 The transcript has been analyzed to identify main themes, technical concepts, and actionable insights from the discussion.
+
+## Related Pages
+
+- [[daves-garage|Dave's Garage Overview]]
+- [[technology-computer-science|Computer Science Technology]]
+- [[technology-networking|Networking Technology]]
+- [[youtube-video-analysis|YouTube Video Analysis]]
 
 ## Sources
 

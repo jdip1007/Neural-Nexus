@@ -25,32 +25,60 @@
     "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155230",
-    "updated": "2026-10-08T00:48:10.155240"
+    "created": "2026-10-08T08:11:39.341555",
+    "updated": "2026-10-08T08:11:39.341569"
   },
   "the-controversial-flock-cameras-tracking-every-car-full-breakdown": {
     "title": "the-controversial-flock-cameras-tracking-every-car-full-breakdown",
     "file": "/home/hermes/Neural-Nexus/docs/the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155261",
-    "updated": "2026-10-08T00:48:10.155262"
+    "created": "2026-10-08T08:11:39.341593",
+    "updated": "2026-10-08T08:11:39.341594"
   },
   "fresh009_2026_Viral_Marketing_Strategies_That_Work": {
     "title": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
     "file": "/home/hermes/Neural-Nexus/docs/fresh009_2026_Viral_Marketing_Strategies_That_Work.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155282",
-    "updated": "2026-10-08T00:48:10.155283"
+    "created": "2026-10-08T08:11:39.341613",
+    "updated": "2026-10-08T08:11:39.341614"
+  },
+  "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me": {
+    "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript",
+      "ai",
+      "artificial-intelligence",
+      "machine-learning"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-2aw3MF8pY3w-transcript.json"
+    ]
   },
   "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it": {
     "title": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155301",
-    "updated": "2026-10-08T00:48:10.155301"
+    "created": "2026-10-08T08:11:39.341651",
+    "updated": "2026-10-08T08:11:39.341652"
+  },
+  "J6I6lYUj1Uc": {
+    "title": "J6I6lYUj1Uc",
+    "file": "/home/hermes/Neural-Nexus/docs/J6I6lYUj1Uc.md",
+    "type": "page",
+    "tags": [],
+    "created": "2026-10-08T08:11:39.341690",
+    "updated": "2026-10-08T08:11:39.341691"
   },
   "why-normal-life-feels-so-boring": {
     "title": "Why Normal Life Feels So Boring",
@@ -85,6 +113,49 @@
       "https://test.url"
     ]
   },
+  "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...": {
+    "title": "My Computer is now 4\u00d7 Faster! That's Why It Won't Boot...",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot....md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript",
+      "computer",
+      "hardware",
+      "performance"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-EzfHqE9-rbY-transcript.json"
+    ]
+  },
+  "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it": {
+    "title": "Ethernet Explained so well that even YOU can Understand it!",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript",
+      "ai",
+      "artificial-intelligence",
+      "machine-learning",
+      "networking",
+      "protocols",
+      "infrastructure"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-7vzjIv2l6wY-transcript.json"
+    ]
+  },
   "why-you-need-constant-reassurance": {
     "title": "Why You Need Constant Reassurance",
     "file": "/home/hermes/Neural-Nexus/docs/why-you-need-constant-reassurance.md",
@@ -100,6 +171,14 @@
     "sources": [
       "https://www.youtube.com/watch?v=example7"
     ]
+  },
+  "wBGF1M4e3l8": {
+    "title": "wBGF1M4e3l8",
+    "file": "/home/hermes/Neural-Nexus/docs/wBGF1M4e3l8.md",
+    "type": "page",
+    "tags": [],
+    "created": "2026-10-08T08:11:39.341827",
+    "updated": "2026-10-08T08:11:39.341828"
   },
   "youtube-ZIjBj63W8KU": {
     "title": "HealthyGamerGG: Why Being the Most Reliable Person Is Ruining You",
@@ -140,16 +219,36 @@
     "file": "/home/hermes/Neural-Nexus/docs/SCHEMA.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155427",
-    "updated": "2026-10-08T00:48:10.155429"
+    "created": "2026-10-08T08:11:39.341898",
+    "updated": "2026-10-08T08:11:39.341900"
   },
   "tags": {
     "title": "tags",
     "file": "/home/hermes/Neural-Nexus/docs/tags.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155445",
-    "updated": "2026-10-08T00:48:10.155446"
+    "created": "2026-10-08T08:11:39.341917",
+    "updated": "2026-10-08T08:11:39.341918"
+  },
+  "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot": {
+    "title": "My Computer is now 4x Faster! That's Why It Won't Boot...",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript",
+      "computer",
+      "hardware",
+      "performance"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-EzfHqE9-rbY-transcript.json"
+    ]
   },
   "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye": {
     "title": "I Have A Problem With Love On The Spectrum - Jeff Dye",
@@ -173,8 +272,8 @@
     "file": "/home/hermes/Neural-Nexus/docs/daves_garage_execution_summary.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155476",
-    "updated": "2026-10-08T00:48:10.155477"
+    "created": "2026-10-08T08:11:39.342423",
+    "updated": "2026-10-08T08:11:39.342425"
   },
   "youtube-Hll90rHfdhM": {
     "title": "HealthyGamerGG: Why Planning Better Habits Fails ADHD",
@@ -233,24 +332,43 @@
     "file": "/home/hermes/Neural-Nexus/docs/hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155542",
-    "updated": "2026-10-08T00:48:10.155543"
+    "created": "2026-10-08T08:11:39.342516",
+    "updated": "2026-10-08T08:11:39.342517"
   },
   "fresh006_2026_The_Evolution_of_YouTube_Gaming": {
     "title": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
     "file": "/home/hermes/Neural-Nexus/docs/fresh006_2026_The_Evolution_of_YouTube_Gaming.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155559",
-    "updated": "2026-10-08T00:48:10.155561"
+    "created": "2026-10-08T08:11:39.342753",
+    "updated": "2026-10-08T08:11:39.342756"
   },
   "healthygamer_daily_ingestion_final_report": {
     "title": "healthygamer_daily_ingestion_final_report",
     "file": "/home/hermes/Neural-Nexus/docs/healthygamer_daily_ingestion_final_report.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155573",
-    "updated": "2026-10-08T00:48:10.155574"
+    "created": "2026-10-08T08:11:39.342788",
+    "updated": "2026-10-08T08:11:39.342789"
+  },
+  "how-money-works-wtf-does-peter-thiel-actually-want": {
+    "title": "WTF Does Peter Thiel Actually Want?",
+    "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-does-peter-thiel-actually-want.md",
+    "type": "video",
+    "tags": [
+      "youtube",
+      "how-money-works",
+      "economics",
+      "business",
+      "invest",
+      "peter thiel",
+      "silicon valley"
+    ],
+    "created": "2026-10-08T04:17:55.746384",
+    "updated": "2026-10-08T04:17:55.746394",
+    "sources": [
+      "https://www.youtube.com/watch?v=_W3qPymBEBA"
+    ]
   },
   "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman": {
     "title": "Harvard Professor: I Tried Every Diet - Daniel Lieberman",
@@ -276,16 +394,64 @@
     "file": "/home/hermes/Neural-Nexus/docs/index.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155604",
-    "updated": "2026-10-08T00:48:10.155605"
+    "created": "2026-10-08T08:11:39.342882",
+    "updated": "2026-10-08T08:11:39.342884"
   },
   "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside": {
     "title": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155620",
-    "updated": "2026-10-08T00:48:10.155621"
+    "created": "2026-10-08T08:11:39.342907",
+    "updated": "2026-10-08T08:11:39.342908"
+  },
+  "Mh9lkEl8ZWU": {
+    "title": "Mh9lkEl8ZWU",
+    "file": "/home/hermes/Neural-Nexus/docs/Mh9lkEl8ZWU.md",
+    "type": "page",
+    "tags": [],
+    "created": "2026-10-08T08:11:39.342933",
+    "updated": "2026-10-08T08:11:39.342934"
+  },
+  "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me": {
+    "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript",
+      "ai",
+      "artificial-intelligence",
+      "machine-learning"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-2aw3MF8pY3w-transcript.json"
+    ]
+  },
+  "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can": {
+    "title": "Why Your Computer Is Slow \u2014 Task Manager Can't Tell You, but TMOG can!",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript",
+      "computer",
+      "hardware",
+      "performance"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-z_mFHlUpC-g-transcript.json"
+    ]
   },
   "what-breakups-actually-do-to-men": {
     "title": "What Breakups ACTUALLY Do To Men",
@@ -305,6 +471,23 @@
       "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     ]
   },
+  "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp": {
+    "title": "Reliable Isn't Always Better: TCP vs UDP",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-DSA4VFdqELg-transcript.json"
+    ]
+  },
   "why-you-cant-just-rewire-your-brain": {
     "title": "Why You Can't Just \"Rewire\" Your Brain",
     "file": "/home/hermes/Neural-Nexus/docs/why-you-cant-just-rewire-your-brain.md",
@@ -321,21 +504,37 @@
       "https://www.youtube.com/watch?v=example1"
     ]
   },
+  "how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars": {
+    "title": "Why We (Probably) Shouldn't Give Iran $300 Billion Dollars",
+    "file": "/home/hermes/Neural-Nexus/docs/how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars.md",
+    "type": "video",
+    "tags": [
+      "youtube",
+      "how-money-works",
+      "economics",
+      "business"
+    ],
+    "created": "2026-10-08T04:17:51.107375",
+    "updated": "2026-10-08T04:17:51.107389",
+    "sources": [
+      "https://www.youtube.com/watch?v=Ts26T7AEHS8"
+    ]
+  },
   "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown": {
     "title": "youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-LJSgsf9ro38-the-controversial-flock-cameras-tracking-every-car-full-breakdown.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155690",
-    "updated": "2026-10-08T00:48:10.155691"
+    "created": "2026-10-08T08:11:39.343090",
+    "updated": "2026-10-08T08:11:39.343091"
   },
   "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content": {
     "title": "fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content",
     "file": "/home/hermes/Neural-Nexus/docs/fresh008_2026_The_Algorithm_How_YouTube_Recommends_Content.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155711",
-    "updated": "2026-10-08T00:48:10.155712"
+    "created": "2026-10-08T08:11:39.343113",
+    "updated": "2026-10-08T08:11:39.343114"
   },
   "youtube-x-9Nr7GigbE": {
     "title": "HealthyGamerGG: How Cops Use Psychology To Make You Talk",
@@ -360,24 +559,32 @@
     "file": "/home/hermes/Neural-Nexus/docs/fresh005_2026_PewDiePie's_Journey.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155768",
-    "updated": "2026-10-08T00:48:10.155769"
+    "created": "2026-10-08T08:11:39.343154",
+    "updated": "2026-10-08T08:11:39.343155"
   },
   "log": {
     "title": "log",
     "file": "/home/hermes/Neural-Nexus/docs/log.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155915",
-    "updated": "2026-10-08T00:48:10.155916"
+    "created": "2026-10-08T08:11:39.343365",
+    "updated": "2026-10-08T08:11:39.343367"
   },
   "ethernet-explained-so-well-that-even-you-can-understand-it": {
     "title": "ethernet-explained-so-well-that-even-you-can-understand-it",
     "file": "/home/hermes/Neural-Nexus/docs/ethernet-explained-so-well-that-even-you-can-understand-it.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155935",
-    "updated": "2026-10-08T00:48:10.155936"
+    "created": "2026-10-08T08:11:39.343438",
+    "updated": "2026-10-08T08:11:39.343439"
+  },
+  "IMdDtCuFZsc": {
+    "title": "IMdDtCuFZsc",
+    "file": "/home/hermes/Neural-Nexus/docs/IMdDtCuFZsc.md",
+    "type": "page",
+    "tags": [],
+    "created": "2026-10-08T08:11:39.343473",
+    "updated": "2026-10-08T08:11:39.343474"
   },
   "why-you-should-never-confess-your-love": {
     "title": "Why You Should NEVER Confess Your Love",
@@ -395,76 +602,169 @@
     ]
   },
   "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp": {
-    "title": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
+    "title": "Reliable Isn't Always Better: TCP vs UDP",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp.md",
-    "type": "page",
-    "tags": [],
-    "created": "2026-10-08T00:48:10.155968",
-    "updated": "2026-10-08T00:48:10.155969"
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-DSA4VFdqELg-transcript.json"
+    ]
   },
   "microsofts-secret-90s-weapon-that-made-windows-fast": {
     "title": "microsofts-secret-90s-weapon-that-made-windows-fast",
     "file": "/home/hermes/Neural-Nexus/docs/microsofts-secret-90s-weapon-that-made-windows-fast.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155984",
-    "updated": "2026-10-08T00:48:10.155985"
+    "created": "2026-10-08T08:11:39.343544",
+    "updated": "2026-10-08T08:11:39.343546"
   },
   "fresh004_2026_MrBeast_Behind_the_Scenes": {
     "title": "fresh004_2026_MrBeast_Behind_the_Scenes",
     "file": "/home/hermes/Neural-Nexus/docs/fresh004_2026_MrBeast_Behind_the_Scenes.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.155999",
-    "updated": "2026-10-08T00:48:10.156000"
+    "created": "2026-10-08T08:11:39.343573",
+    "updated": "2026-10-08T08:11:39.343574"
   },
   "canbus-networking-so-simple-even-you-can-understand-it": {
     "title": "canbus-networking-so-simple-even-you-can-understand-it",
     "file": "/home/hermes/Neural-Nexus/docs/canbus-networking-so-simple-even-you-can-understand-it.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.156017",
-    "updated": "2026-10-08T00:48:10.156017"
+    "created": "2026-10-08T08:11:39.343595",
+    "updated": "2026-10-08T08:11:39.343595"
+  },
+  "how-money-works-wtf-is-happening-to-the-car-market": {
+    "title": "WTF Is Happening To The Car Market?",
+    "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-is-happening-to-the-car-market.md",
+    "type": "video",
+    "tags": [
+      "youtube",
+      "how-money-works",
+      "economics",
+      "business",
+      "market",
+      "car market",
+      "automotive"
+    ],
+    "created": "2026-10-08T04:17:48.785674",
+    "updated": "2026-10-08T04:17:48.785687",
+    "sources": [
+      "https://www.youtube.com/watch?v=mUBBqAjVuco"
+    ]
   },
   "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him": {
     "title": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
     "file": "/home/hermes/Neural-Nexus/docs/fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.156032",
-    "updated": "2026-10-08T00:48:10.156033"
+    "created": "2026-10-08T08:11:39.343634",
+    "updated": "2026-10-08T08:11:39.343635"
+  },
+  "A-SGv0fCUsw": {
+    "title": "A-SGv0fCUsw",
+    "file": "/home/hermes/Neural-Nexus/docs/A-SGv0fCUsw.md",
+    "type": "page",
+    "tags": [],
+    "created": "2026-10-08T08:11:39.343665",
+    "updated": "2026-10-08T08:11:39.343666"
   },
   "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief": {
     "title": "fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief",
     "file": "/home/hermes/Neural-Nexus/docs/fresh002_2026_How_Penguinz0_Destroyed_YouTube's_Worst_Content_Thief.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.156047",
-    "updated": "2026-10-08T00:48:10.156048"
+    "created": "2026-10-08T08:11:39.343688",
+    "updated": "2026-10-08T08:11:39.343689"
   },
   "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle": {
     "title": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
     "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.156061",
-    "updated": "2026-10-08T00:48:10.156062"
+    "created": "2026-10-08T08:11:39.343710",
+    "updated": "2026-10-08T08:11:39.343711"
   },
   "index-catalog": {
     "title": "index-catalog",
     "file": "/home/hermes/Neural-Nexus/docs/index-catalog.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.156583",
-    "updated": "2026-10-08T00:48:10.156586"
+    "created": "2026-10-08T08:11:39.344335",
+    "updated": "2026-10-08T08:11:39.344340"
+  },
+  "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!": {
+    "title": "Why Your Computer Is Slow \u2014 Task Manager Can't Tell You, but TMOG can!",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript",
+      "computer",
+      "hardware",
+      "performance"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-z_mFHlUpC-g-transcript.json"
+    ]
   },
   "fresh010_2026_The_Dark_Side_of_Influencer_Culture": {
     "title": "fresh010_2026_The_Dark_Side_of_Influencer_Culture",
     "file": "/home/hermes/Neural-Nexus/docs/fresh010_2026_The_Dark_Side_of_Influencer_Culture.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.156643",
-    "updated": "2026-10-08T00:48:10.156645"
+    "created": "2026-10-08T08:11:39.344461",
+    "updated": "2026-10-08T08:11:39.344463"
+  },
+  "how-money-works-can-meta-actually-survive-this": {
+    "title": "Can Meta Actually Survive This?",
+    "file": "/home/hermes/Neural-Nexus/docs/how-money-works-can-meta-actually-survive-this.md",
+    "type": "video",
+    "tags": [
+      "youtube",
+      "how-money-works",
+      "economics",
+      "business",
+      "meta",
+      "market",
+      "tech industry"
+    ],
+    "created": "2026-10-08T04:17:53.430665",
+    "updated": "2026-10-08T04:17:53.430684",
+    "sources": [
+      "https://www.youtube.com/watch?v=4rmkiGMknpg"
+    ]
+  },
+  "how-money-works-how-much-longer-can-we-hide-the-inflation": {
+    "title": "How Much Longer Can We \"Hide\" The Inflation?",
+    "file": "/home/hermes/Neural-Nexus/docs/how-money-works-how-much-longer-can-we-hide-the-inflation.md",
+    "type": "video",
+    "tags": [
+      "youtube",
+      "how-money-works",
+      "economics",
+      "business",
+      "inflation",
+      "data"
+    ],
+    "created": "2026-10-08T04:17:58.070001",
+    "updated": "2026-10-08T04:17:58.070012",
+    "sources": [
+      "https://www.youtube.com/watch?v=Ac25_v32dNE"
+    ]
   },
   "the-secret-to-fixing-your-adulthood": {
     "title": "The Secret to Fixing Your Adulthood",
@@ -489,16 +789,16 @@
     "file": "/home/hermes/Neural-Nexus/docs/daves_garage_daily_ingestion_report_20261005_051717.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.156685",
-    "updated": "2026-10-08T00:48:10.156687"
+    "created": "2026-10-08T08:11:39.344547",
+    "updated": "2026-10-08T08:11:39.344549"
   },
   "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul": {
     "title": "fresh003_2026_The_Rise_and_Fall_of_Logan_Paul",
     "file": "/home/hermes/Neural-Nexus/docs/fresh003_2026_The_Rise_and_Fall_of_Logan_Paul.md",
     "type": "page",
     "tags": [],
-    "created": "2026-10-08T00:48:10.156707",
-    "updated": "2026-10-08T00:48:10.156708"
+    "created": "2026-10-08T08:11:39.344570",
+    "updated": "2026-10-08T08:11:39.344572"
   },
   "youtube-TNdNVXYwK7A": {
     "title": "HealthyGamerGG: What Comedians Get Right About Mental Health Trauma",
@@ -516,6 +816,29 @@
     "updated": "2026-10-06T08:16:25.992309",
     "sources": [
       "https://www.youtube.com/watch?v=TNdNVXYwK7A"
+    ]
+  },
+  "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!": {
+    "title": "Ethernet Explained so well that even YOU can Understand it!",
+    "file": "/home/hermes/Neural-Nexus/docs/youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!.md",
+    "type": "reading",
+    "tags": [
+      "youtube",
+      "daves-garage",
+      "technology",
+      "video-summary",
+      "transcript",
+      "ai",
+      "artificial-intelligence",
+      "machine-learning",
+      "networking",
+      "protocols",
+      "infrastructure"
+    ],
+    "created": "2026-10-08",
+    "updated": "2026-10-08",
+    "sources": [
+      "raw/videos/youtube-7vzjIv2l6wY-transcript.json"
     ]
   }
 }

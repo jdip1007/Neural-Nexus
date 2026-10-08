@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Reliable Isn't Always Better: TCP vs UDP",
+  "title": "Ethernet Explained so well that even YOU can Understand it!",
   "created": "2026-10-08",
   "updated": "2026-10-08",
   "type": "reading",
@@ -11,10 +11,16 @@
     "daves-garage",
     "technology",
     "video-summary",
-    "transcript"
+    "transcript",
+    "ai",
+    "artificial-intelligence",
+    "machine-learning",
+    "networking",
+    "protocols",
+    "infrastructure"
   ],
   "sources": [
-    "raw/videos/youtube-DSA4VFdqELg-transcript.json"
+    "raw/videos/youtube-7vzjIv2l6wY-transcript.json"
   ],
   "confidence": "medium",
   "status": "active",
@@ -23,17 +29,17 @@
 }
 ---
 
-# Reliable Isn't Always Better: TCP vs UDP
+# Ethernet Explained so well that even YOU can Understand it!
 
 ## Video Information
 
 - **Channel**: Dave's Garage (@DavesGarage)
-- **Duration**: 11 minutes, 27 seconds
-- **URL**: [https://www.youtube.com/watch?v=DSA4VFdqELg](https://www.youtube.com/watch?v=DSA4VFdqELg)
-- **Video ID**: DSA4VFdqELg
-- **Views**: 134K
-- **Published**: 1mo ago
-- **Processed**: 2026-10-08 06:24:24
+- **Duration**: 23 minutes
+- **URL**: [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY)
+- **Video ID**: 7vzjIv2l6wY
+- **Views**: 180K
+- **Published**: 2mo ago
+- **Processed**: 2026-10-08 06:24:25
 
 ## Summary
 
@@ -49,4 +55,4 @@ The transcript has been analyzed to identify main themes, technical concepts, an
 
 ## Sources
 
-^raw/videos/youtube-DSA4VFdqELg-transcript.json
+^raw/videos/youtube-7vzjIv2l6wY-transcript.json
