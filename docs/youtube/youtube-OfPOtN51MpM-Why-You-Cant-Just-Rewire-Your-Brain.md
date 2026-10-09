@@ -1,4 +1,46 @@
 ---
+created: '2026-10-09T08:58:57.795870'
+sources:
+- https://www.youtube.com/watch?v=OfPOtN51MpM
+tags:
+- youtube
+- healthy-gamer
+- online_communities
+- mental_health
+- psychology
+- growth
+- self_improvement
+- gaming
+- personal_development
+- therapy
+- digital_life
+title: Why You Can't Just "Rewire" Your Brain
+type: reading
+updated: '2026-10-09T08:58:57.795873'
+
+---
+
+# Why You Can't Just "Rewire" Your Brain
+
+## Video Summary
+
+This page contains a transcript and analysis of a HealthyGamerGG video featuring Dr. K's insights on mental health, relationships, and personal growth.
+
+## Key Topics Covered
+
+- Online Communities
+- Mental Health
+- Psychology
+- Growth
+- Self Improvement
+- Gaming
+- Personal Development
+- Therapy
+- Digital Life
+
+## Full Transcript
+
+---
 title: Why You Can't Just "Rewire" Your Brain
 video_id: OfPOtN51MpM
 generated_at: 2026-10-09T08:58:57.795475
@@ -44,6 +86,19 @@ The video provides actionable strategies that viewers can implement in their dai
 
 ### Community Impact
 HealthyGamerGG creates a supportive community for individuals seeking to improve their mental health and relationships.
+
+## Related Topics
+
+[[online_communities]]
+[[mental_health]]
+[[psychology]]
+[[growth]]
+[[self_improvement]]
+[[gaming]]
+[[personal_development]]
+[[therapy]]
+[[digital_life]]
+
 
 ## Related Topics
 

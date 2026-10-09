@@ -1,8 +1,8 @@
 ---
 title: How To ACTUALLY Break An Addiction
 video_id: bG2sW8xYQzA
-generated_at: 2026-09-11T00:09:38.190548
-topics: ['digital_life', 'gaming', 'online_communities', 'mental_health', 'psychology', 'self_improvement', 'growth', 'personal_development']
+generated_at: 2026-10-09T08:59:19.565587
+topics: ['digital_life', 'gaming', 'self_improvement', 'mental_health', 'online_communities', 'growth', 'personal_development', 'psychology']
 ---
 
 # How To ACTUALLY Break An Addiction
@@ -15,12 +15,12 @@ This HealthyGamerGG video explores important topics related to mental health, pe
 
 - digital_life
 - gaming
-- online_communities
-- mental_health
-- psychology
 - self_improvement
+- mental_health
+- online_communities
 - growth
 - personal_development
+- psychology
 
 ## Transcript
 
@@ -46,11 +46,11 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital-life]]
+[[digital_life]]
 [[gaming]]
-[[online-communities]]
-[[mental-health]]
-[psychology](concepts/psychology.md)
-[[self-improvement]]
-growth
-[[personal-development]]
+[[self_improvement]]
+[[mental_health]]
+[[online_communities]]
+[[growth]]
+[[personal_development]]
+[[psychology]]

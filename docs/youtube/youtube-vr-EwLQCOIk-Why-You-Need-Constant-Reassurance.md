@@ -1,11 +1,47 @@
 ---
-title: Why You Should NEVER Confess Your Love
-video_id: 919XuYNqyjw
-generated_at: 2026-10-09T08:58:55.792840
-topics: ['partnership', 'online_communities', 'mental_health', 'gaming', 'love', 'psychology', 'dating', 'personal_development', 'relationships', 'digital_life']
+created: '2026-10-09T08:58:56.794657'
+sources:
+- https://www.youtube.com/watch?v=vr-EwLQCOIk
+tags:
+- youtube
+- healthy-gamer
+- online_communities
+- mental_health
+- gaming
+- psychology
+- personal_development
+- digital_life
+title: Why You Need Constant Reassurance
+type: reading
+updated: '2026-10-09T08:58:56.794661'
+
 ---
 
-# Why You Should NEVER Confess Your Love
+# Why You Need Constant Reassurance
+
+## Video Summary
+
+This page contains a transcript and analysis of a HealthyGamerGG video featuring Dr. K's insights on mental health, relationships, and personal growth.
+
+## Key Topics Covered
+
+- Online Communities
+- Mental Health
+- Gaming
+- Psychology
+- Personal Development
+- Digital Life
+
+## Full Transcript
+
+---
+title: Why You Need Constant Reassurance
+video_id: vr-EwLQCOIk
+generated_at: 2026-10-09T08:58:56.794251
+topics: ['online_communities', 'mental_health', 'gaming', 'psychology', 'personal_development', 'digital_life']
+---
+
+# Why You Need Constant Reassurance
 
 ## Video Overview
 
@@ -13,15 +49,11 @@ This HealthyGamerGG video explores important topics related to mental health, pe
 
 ## Key Topics
 
-- partnership
 - online_communities
 - mental_health
 - gaming
-- love
 - psychology
-- dating
 - personal_development
-- relationships
 - digital_life
 
 ## Transcript
@@ -48,13 +80,19 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[partnership]]
 [[online_communities]]
 [[mental_health]]
 [[gaming]]
-[[love]]
 [[psychology]]
-[[dating]]
 [[personal_development]]
-[[relationships]]
+[[digital_life]]
+
+
+## Related Topics
+
+[[online_communities]]
+[[mental_health]]
+[[gaming]]
+[[psychology]]
+[[personal_development]]
 [[digital_life]]

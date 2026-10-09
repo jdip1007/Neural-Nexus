@@ -1,8 +1,8 @@
 ---
 title: Why Sensitive People Get Traumatized So Easily
 video_id: _4x0fRO6w5M
-generated_at: 2026-09-11T00:09:39.191681
-topics: ['digital_life', 'personal_development', 'emotional_regulation', 'gaming', 'mental_health', 'psychology', 'anxiety', 'stress', 'online_communities']
+generated_at: 2026-10-09T08:59:18.564087
+topics: ['digital_life', 'gaming', 'anxiety', 'mental_health', 'online_communities', 'personal_development', 'psychology', 'stress', 'emotional_regulation']
 ---
 
 # Why Sensitive People Get Traumatized So Easily
@@ -14,14 +14,14 @@ This HealthyGamerGG video explores important topics related to mental health, pe
 ## Key Topics
 
 - digital_life
-- personal_development
-- emotional_regulation
 - gaming
-- mental_health
-- psychology
 - anxiety
-- stress
+- mental_health
 - online_communities
+- personal_development
+- psychology
+- stress
+- emotional_regulation
 
 ## Transcript
 
@@ -47,12 +47,12 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital-life]]
-[[personal-development]]
-[[emotional-regulation]]
+[[digital_life]]
 [[gaming]]
-[[mental-health]]
-[psychology](concepts/psychology.md)
 [[anxiety]]
-stress
-[[online-communities]]
+[[mental_health]]
+[[online_communities]]
+[[personal_development]]
+[[psychology]]
+[[stress]]
+[[emotional_regulation]]

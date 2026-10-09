@@ -1,4 +1,46 @@
 ---
+created: '2026-10-09T08:58:53.790517'
+sources:
+- https://www.youtube.com/watch?v=RdmYUULKf7s
+tags:
+- youtube
+- healthy-gamer
+- stress
+- online_communities
+- mental_health
+- gaming
+- psychology
+- anxiety
+- personal_development
+- emotional_regulation
+- digital_life
+title: Why Normal Life Feels So Boring
+type: reading
+updated: '2026-10-09T08:58:53.790519'
+
+---
+
+# Why Normal Life Feels So Boring
+
+## Video Summary
+
+This page contains a transcript and analysis of a HealthyGamerGG video featuring Dr. K's insights on mental health, relationships, and personal growth.
+
+## Key Topics Covered
+
+- Stress
+- Online Communities
+- Mental Health
+- Gaming
+- Psychology
+- Anxiety
+- Personal Development
+- Emotional Regulation
+- Digital Life
+
+## Full Transcript
+
+---
 title: Why Normal Life Feels So Boring
 video_id: RdmYUULKf7s
 generated_at: 2026-10-09T08:58:53.790211
@@ -44,6 +86,19 @@ The video provides actionable strategies that viewers can implement in their dai
 
 ### Community Impact
 HealthyGamerGG creates a supportive community for individuals seeking to improve their mental health and relationships.
+
+## Related Topics
+
+[[stress]]
+[[online_communities]]
+[[mental_health]]
+[[gaming]]
+[[psychology]]
+[[anxiety]]
+[[personal_development]]
+[[emotional_regulation]]
+[[digital_life]]
+
 
 ## Related Topics
 

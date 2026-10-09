@@ -1,17 +1,17 @@
 ---
 title: Video tgbNymZ7vqY - Summary
-created: 2026-10-08
-updated: 2026-10-08
+created: 2026-10-09
+updated: 2026-10-09
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, tgbNymZ7vqY]
 sources: [raw/videos/youtube-tgbNymZ7vqY-transcript.md]
-published: 2026-10-08
+published: 2026-10-09
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-08
+reviewed: 2026-10-09
 ---
 
 # Video tgbNymZ7vqY - Summary

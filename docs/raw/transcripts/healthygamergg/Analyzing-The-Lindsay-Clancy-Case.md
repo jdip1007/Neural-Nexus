@@ -1,8 +1,8 @@
 ---
 title: Analyzing The Lindsay Clancy Case
 video_id: 7MykFJ7TByM
-generated_at: 2026-09-11T00:09:40.192879
-topics: ['digital_life', 'gaming', 'online_communities', 'mental_health', 'psychology', 'personal_development']
+generated_at: 2026-10-09T08:58:54.791610
+topics: ['online_communities', 'mental_health', 'gaming', 'psychology', 'personal_development', 'digital_life']
 ---
 
 # Analyzing The Lindsay Clancy Case
@@ -13,12 +13,12 @@ This HealthyGamerGG video explores important topics related to mental health, pe
 
 ## Key Topics
 
-- digital_life
-- gaming
 - online_communities
 - mental_health
+- gaming
 - psychology
 - personal_development
+- digital_life
 
 ## Transcript
 
@@ -44,9 +44,9 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital-life]]
+[[online_communities]]
+[[mental_health]]
 [[gaming]]
-[[online-communities]]
-[[mental-health]]
-[psychology](concepts/psychology.md)
-[[personal-development]]
+[[psychology]]
+[[personal_development]]
+[[digital_life]]

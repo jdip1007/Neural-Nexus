@@ -1,4 +1,46 @@
 ---
+created: '2026-10-09T08:59:20.567270'
+sources:
+- https://www.youtube.com/watch?v=oCB-sCIKnkU
+tags:
+- youtube
+- healthy-gamer
+- digital_life
+- gaming
+- anxiety
+- mental_health
+- online_communities
+- personal_development
+- psychology
+- stress
+- emotional_regulation
+title: Why You Always Feel Uneasy (Transcendental Existential Dread)
+type: reading
+updated: '2026-10-09T08:59:20.567275'
+
+---
+
+# Why You Always Feel Uneasy (Transcendental Existential Dread)
+
+## Video Summary
+
+This page contains a transcript and analysis of a HealthyGamerGG video featuring Dr. K's insights on mental health, relationships, and personal growth.
+
+## Key Topics Covered
+
+- Digital Life
+- Gaming
+- Anxiety
+- Mental Health
+- Online Communities
+- Personal Development
+- Psychology
+- Stress
+- Emotional Regulation
+
+## Full Transcript
+
+---
 title: Why You Always Feel Uneasy (Transcendental Existential Dread)
 video_id: oCB-sCIKnkU
 generated_at: 2026-10-09T08:59:20.566877
@@ -44,6 +86,19 @@ The video provides actionable strategies that viewers can implement in their dai
 
 ### Community Impact
 HealthyGamerGG creates a supportive community for individuals seeking to improve their mental health and relationships.
+
+## Related Topics
+
+[[digital_life]]
+[[gaming]]
+[[anxiety]]
+[[mental_health]]
+[[online_communities]]
+[[personal_development]]
+[[psychology]]
+[[stress]]
+[[emotional_regulation]]
+
 
 ## Related Topics
 

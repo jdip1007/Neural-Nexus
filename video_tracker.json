@@ -129,5 +129,52 @@
       "status": "completed"
     }
   },
-  "last_updated": "2026-10-08T08:53:11.719055"
+  "last_updated": "2026-10-09T09:01:55.988621",
+  "video_metadata": {
+    "iCdfSRc2QNg": {
+      "id": "iCdfSRc2QNg",
+      "title": "The Secret to Fixing Your Adulthood",
+      "url": "https://www.youtube.com/watch?v=iCdfSRc2QNg",
+      "page_filename": "youtube-iCdfSRc2QNg-The-Secret-to-Fixing-Your-Adulthood.md",
+      "transcript_path": "raw/transcripts/healthygamergg/The-Secret-to-Fixing-Your-Adulthood.md",
+      "processed_at": "2026-10-09T09:01:55.988594",
+      "status": "processed"
+    },
+    "2MwTDoT8XjY": {
+      "id": "2MwTDoT8XjY",
+      "title": "Why 40% Of Young Men Need Erectile Retraining",
+      "url": "https://www.youtube.com/watch?v=2MwTDoT8XjY",
+      "page_filename": "youtube-2MwTDoT8XjY-Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
+      "transcript_path": "raw/transcripts/healthygamergg/Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
+      "processed_at": "2026-10-09T09:01:55.988610",
+      "status": "processed"
+    },
+    "_4x0fRO6w5M": {
+      "id": "_4x0fRO6w5M",
+      "title": "Why Sensitive People Get Traumatized So Easily",
+      "url": "https://www.youtube.com/watch?v=_4x0fRO6w5M",
+      "page_filename": "youtube-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "transcript_path": "raw/transcripts/healthygamergg/Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "processed_at": "2026-10-09T09:01:55.988612",
+      "status": "processed"
+    },
+    "bG2sW8xYQzA": {
+      "id": "bG2sW8xYQzA",
+      "title": "How To ACTUALLY Break An Addiction",
+      "url": "https://www.youtube.com/watch?v=bG2sW8xYQzA",
+      "page_filename": "youtube-bG2sW8xYQzA-How-To-ACTUALLY-Break-An-Addiction.md",
+      "transcript_path": "raw/transcripts/healthygamergg/How-To-ACTUALLY-Break-An-Addiction.md",
+      "processed_at": "2026-10-09T09:01:55.988614",
+      "status": "processed"
+    },
+    "oCB-sCIKnkU": {
+      "id": "oCB-sCIKnkU",
+      "title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
+      "url": "https://www.youtube.com/watch?v=oCB-sCIKnkU",
+      "page_filename": "youtube-oCB-sCIKnkU-Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
+      "transcript_path": "raw/transcripts/healthygamergg/Why-You-Always-Feel-Uneasy-Transcendental-Existential-Dread.md",
+      "processed_at": "2026-10-09T09:01:55.988616",
+      "status": "processed"
+    }
+  }
 }

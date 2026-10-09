@@ -81,8 +81,26 @@ def load_video_tracker():
     """Load video tracking data"""
     if VIDEO_TRACKER_PATH.exists():
         with open(VIDEO_TRACKER_PATH, 'r') as f:
-            return json.load(f)
-    return {"processed_videos": [], "video_metadata": {}}
+            data = json.load(f)
+            # Handle both old and new formats
+            if "processed_videos" in data and isinstance(data["processed_videos"], list):
+                # Old format - convert to new format
+                new_format = {"processed_videos": {}, "video_metadata": {}}
+                for video in data["processed_videos"]:
+                    if isinstance(video, dict):
+                        video_id = video.get("id")
+                        if video_id:
+                            new_format["processed_videos"][video_id] = {
+                                "title": video.get("title", ""),
+                                "processed_date": video.get("processed_date", ""),
+                                "status": "completed"
+                            }
+                            if "page_filename" in video:
+                                new_format["video_metadata"][video_id] = video
+                return new_format
+            else:
+                return data
+    return {"processed_videos": {}, "video_metadata": {}}
 
 def save_video_tracker(tracker_data):
     """Save video tracking data"""
@@ -92,7 +110,7 @@ def save_video_tracker(tracker_data):
 def get_processed_videos():
     """Get list of already processed video IDs"""
     tracker = load_video_tracker()
-    return set(tracker["processed_videos"])
+    return set(tracker.get("processed_videos", {}).keys())
 
 def generate_mock_transcript(title, video_id):
     """Generate mock transcript for demonstration purposes"""
@@ -255,7 +273,14 @@ def process_video(video_data, tracker_data):
             f.write(page_content)
         
         # Update tracker
-        tracker_data["processed_videos"].append(video_id)
+        if "video_metadata" not in tracker_data:
+            tracker_data["video_metadata"] = {}
+        
+        tracker_data["processed_videos"][video_id] = {
+            "title": title,
+            "processed_date": datetime.now().isoformat(),
+            "status": "completed"
+        }
         tracker_data["video_metadata"][video_id] = {
             "id": video_id,
             "title": title,
@@ -422,7 +447,7 @@ def main():
         for i, video in enumerate(selected_videos, 1):
             safe_title = re.sub(r'[^\w\s-]', '', video['title']).strip()
             safe_title = re.sub(r'[-\s]+', '-', safe_title)
-            status = "✅ Successfully processed" if video["id"] in tracker_data["video_metadata"] else "❌ Failed"
+            status = "✅ Successfully processed" if video["id"] in tracker_data.get("video_metadata", {}) else "❌ Failed"
             f.write(f"""### {i}. {video['title']}
 - **Video ID:** {video['id']}
 - **Title:** {video['title']}

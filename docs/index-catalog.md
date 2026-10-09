@@ -2176,11 +2176,11 @@
 - [[youtube-OWAEr2egtsI-summary]] — ai · `youtube`, `video-summary` · ✓ 2026-10-01
 - [[youtube-p73d6sL8gVo-summary]] — ai · `youtube`, `video-summary`, `transcript`, `p73d6sL8gVo` · ✓ 2026-10-06
 - [[youtube-QmWyQ-BCD8E-summary]] — ai · `youtube`, `video-summary`, `transcript`, `QmWyQ-BCD8E` · ✓ 2026-10-06
-- [[youtube-tgbNymZ7vqY-summary]] — ai · `youtube`, `video-summary`, `transcript`, `tgbNymZ7vqY` · ✓ 2026-10-08
+- [[youtube-tgbNymZ7vqY-summary]] — ai · `youtube`, `video-summary`, `transcript`, `tgbNymZ7vqY` · ✓ 2026-10-09
 - [[youtube-W6xkZy9nkaI-summary]] — ai · `youtube`, `video-summary`, `transcript`, `W6xkZy9nkaI` · ✓ 2026-10-06
 - [[youtube-WlInICQUHeo-summary]] — ai · `general` · ✓ 2026-09-06
 - [[youtube-WyLzAbp3nuw-summary]] — ai · `general` · ✓ 2026-09-06
-- [[youtube-YQHsXMglC9A-summary]] — ai · `youtube`, `video-summary`, `transcript`, `YQHsXMglC9A` · ✓ 2026-10-08
+- [[youtube-YQHsXMglC9A-summary]] — ai · `youtube`, `video-summary`, `transcript`, `YQHsXMglC9A` · ✓ 2026-10-09
 - [[w3x4y5z6a_Viral_Marketing_Strategies_That_Work]] — hermes · `general` · ✓ 2026-08-31
 - [[youtube-ldejTR04iKg-summary]] — ai · `youtube`, `transcript` · ✓ 2026-09-28
 - [[youtube-UOUM1QT5GgU-summary]] — ai · `general` · ✓ 2026-09-25

@@ -1,11 +1,47 @@
 ---
-title: Why You Always Feel Uneasy (Transcendental Existential Dread)
-video_id: oCB-sCIKnkU
-generated_at: 2026-10-09T08:59:20.566877
-topics: ['digital_life', 'gaming', 'anxiety', 'mental_health', 'online_communities', 'personal_development', 'psychology', 'stress', 'emotional_regulation']
+created: '2026-10-09T08:59:17.563114'
+sources:
+- https://www.youtube.com/watch?v=2MwTDoT8XjY
+tags:
+- youtube
+- healthy-gamer
+- digital_life
+- gaming
+- mental_health
+- online_communities
+- personal_development
+- psychology
+title: Why 40% Of Young Men Need Erectile Retraining
+type: reading
+updated: '2026-10-09T08:59:17.563118'
+
 ---
 
-# Why You Always Feel Uneasy (Transcendental Existential Dread)
+# Why 40% Of Young Men Need Erectile Retraining
+
+## Video Summary
+
+This page contains a transcript and analysis of a HealthyGamerGG video featuring Dr. K's insights on mental health, relationships, and personal growth.
+
+## Key Topics Covered
+
+- Digital Life
+- Gaming
+- Mental Health
+- Online Communities
+- Personal Development
+- Psychology
+
+## Full Transcript
+
+---
+title: Why 40% Of Young Men Need Erectile Retraining
+video_id: 2MwTDoT8XjY
+generated_at: 2026-10-09T08:59:17.562758
+topics: ['digital_life', 'gaming', 'mental_health', 'online_communities', 'personal_development', 'psychology']
+---
+
+# Why 40% Of Young Men Need Erectile Retraining
 
 ## Video Overview
 
@@ -15,13 +51,10 @@ This HealthyGamerGG video explores important topics related to mental health, pe
 
 - digital_life
 - gaming
-- anxiety
 - mental_health
 - online_communities
 - personal_development
 - psychology
-- stress
-- emotional_regulation
 
 ## Transcript
 
@@ -49,10 +82,17 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 [[digital_life]]
 [[gaming]]
-[[anxiety]]
 [[mental_health]]
 [[online_communities]]
 [[personal_development]]
 [[psychology]]
-[[stress]]
-[[emotional_regulation]]
+
+
+## Related Topics
+
+[[digital_life]]
+[[gaming]]
+[[mental_health]]
+[[online_communities]]
+[[personal_development]]
+[[psychology]]

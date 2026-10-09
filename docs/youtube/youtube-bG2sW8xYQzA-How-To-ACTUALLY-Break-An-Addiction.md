@@ -1,11 +1,51 @@
 ---
-title: The Secret to Fixing Your Adulthood
-video_id: iCdfSRc2QNg
-generated_at: 2026-10-09T08:59:16.561433
+created: '2026-10-09T08:59:19.565973'
+sources:
+- https://www.youtube.com/watch?v=bG2sW8xYQzA
+tags:
+- youtube
+- healthy-gamer
+- digital_life
+- gaming
+- self_improvement
+- mental_health
+- online_communities
+- growth
+- personal_development
+- psychology
+title: How To ACTUALLY Break An Addiction
+type: reading
+updated: '2026-10-09T08:59:19.565977'
+
+---
+
+# How To ACTUALLY Break An Addiction
+
+## Video Summary
+
+This page contains a transcript and analysis of a HealthyGamerGG video featuring Dr. K's insights on mental health, relationships, and personal growth.
+
+## Key Topics Covered
+
+- Digital Life
+- Gaming
+- Self Improvement
+- Mental Health
+- Online Communities
+- Growth
+- Personal Development
+- Psychology
+
+## Full Transcript
+
+---
+title: How To ACTUALLY Break An Addiction
+video_id: bG2sW8xYQzA
+generated_at: 2026-10-09T08:59:19.565587
 topics: ['digital_life', 'gaming', 'self_improvement', 'mental_health', 'online_communities', 'growth', 'personal_development', 'psychology']
 ---
 
-# The Secret to Fixing Your Adulthood
+# How To ACTUALLY Break An Addiction
 
 ## Video Overview
 
@@ -43,6 +83,18 @@ The video provides actionable strategies that viewers can implement in their dai
 
 ### Community Impact
 HealthyGamerGG creates a supportive community for individuals seeking to improve their mental health and relationships.
+
+## Related Topics
+
+[[digital_life]]
+[[gaming]]
+[[self_improvement]]
+[[mental_health]]
+[[online_communities]]
+[[growth]]
+[[personal_development]]
+[[psychology]]
+
 
 ## Related Topics
 
