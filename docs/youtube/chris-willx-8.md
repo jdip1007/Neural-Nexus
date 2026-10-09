@@ -1,20 +1,22 @@
 ---
-channel: Chris Willx
-created: '2026-09-26T22:53:32.213102'
-domain: general
-sources:
-- https://www.youtube.com/watch?v=VIDEO_8
-tags:
-- youtube
-- general
-- discussion
-title: 'Chris Willx: "Trump Might Actually Do the Unthinkable"'
-type: reading
-updated: '2026-09-26T22:53:32.213104'
-youtube_id: '8'
+{
+  "title": "Chris Willx: \"Trump Might Actually Do the Unthinkable\"",
+  "created": "2026-10-09T00:54:29.754530",
+  "updated": "2026-10-09T00:54:29.754531",
+  "type": "youtube",
+  "tags": [
+    "youtube",
+    "chris-willx",
+    "general",
+    "discussion"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=VIDEO_8"
+  ],
+  "youtube_id": "8",
+  "channel": "Chris Willx"
+}
 ---
-
-
 
 # Chris Willx: "Trump Might Actually Do the Unthinkable"
 
@@ -24,8 +26,8 @@ Mock transcript content for this video. This would contain the actual transcript
 
 ## Key Topics
 
-- General
-- Discussion
+- [[concepts/internet-anarchist-documentary-series]]
+- [[readings/YouTube-Tutorials]]
 
 ## Transcript
 
@@ -33,13 +35,9 @@ Mock transcript content for this video. This would contain the actual transcript
 
 ## Related Videos
 
-- Chris Willx channel
-- YouTube content
+- [[concepts/internet-anarchist-documentary-series]]
+- [[readings/YouTube-Tutorials]]
 
 ## Notes
 
 This page was automatically generated from the Chris Willx YouTube channel ingestion process.
-
-## See also
-- [[chris-willx]]
-- [[youtube]]

@@ -1,13 +1,13 @@
 ---
 {
   "title": "Malloc is NOT Magic: Let's Build it to Learn What's Inside!",
-  "created": "2026-10-07T06:02:38.770716",
-  "updated": "2026-10-07T06:02:38.770738",
+  "created": "2026-10-09T06:37:58.305207",
+  "updated": "2026-10-09T06:37:58.305208",
   "type": "video",
   "tags": [
-    "technology",
+    "programming",
     "engineering",
-    "programming"
+    "technology"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=mYBxnojY-JA"
@@ -30,7 +30,7 @@ Analysis of "Malloc is NOT Magic: Let's Build it to Learn What's Inside!" focusi
 ## Video Details
 - **Duration**: Various lengths (typically 10-25 minutes)
 - **Source**: Dave's Garage YouTube Channel
-- **Processed**: 2026-10-07 06:02:38
+- **Processed**: 2026-10-09 06:37:58
 
 ## Related Topics
 

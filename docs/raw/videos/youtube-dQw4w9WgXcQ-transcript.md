@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 source_type: video
-ingested: 2026-10-07
-published: 2026-10-07
+ingested: 2026-10-08
+published: 2026-10-08
 duration_minutes: 0
 language: en
 sha256: 7718741d29a2cfd9419fc77cb73e60633a77712d97efa8501d526c058a5ab2a1
@@ -14,7 +14,7 @@ time_sensitive: False
 ## Video Information
 - **Title**: Video dQw4w9WgXcQ
 - **Video ID**: dQw4w9WgXcQ
-- **Published**: 2026-10-07
+- **Published**: 2026-10-08
 - **Views**: Unknown
 - **Language**: en
 

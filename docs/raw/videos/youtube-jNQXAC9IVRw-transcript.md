@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=jNQXAC9IVRw
 source_type: video
-ingested: 2026-10-07
-published: 2026-10-07
+ingested: 2026-10-08
+published: 2026-10-08
 duration_minutes: 0
 language: en
 sha256: 9de32845ec53cc22c674ff7f5a849a2ac20e678ba33062fe0162c126cff14177
@@ -14,7 +14,7 @@ time_sensitive: False
 ## Video Information
 - **Title**: Video jNQXAC9IVRw
 - **Video ID**: jNQXAC9IVRw
-- **Published**: 2026-10-07
+- **Published**: 2026-10-08
 - **Views**: Unknown
 - **Language**: en
 

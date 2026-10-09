@@ -1,20 +1,22 @@
 ---
-channel: Chris Willx
-created: '2026-09-26T22:53:32.215000'
-domain: general
-sources:
-- https://www.youtube.com/watch?v=VIDEO_4
-tags:
-- youtube
-- general
-- discussion
-title: 'Chris Willx: Psychiatrist: "Everyone Is Wrong About The Lindsay Clancy Case"'
-type: reading
-updated: '2026-09-26T22:53:32.215002'
-youtube_id: '4'
+{
+  "title": "Chris Willx: Psychiatrist: \"Everyone Is Wrong About The Lindsay Clancy Case\"",
+  "created": "2026-10-09T00:54:29.758886",
+  "updated": "2026-10-09T00:54:29.758887",
+  "type": "youtube",
+  "tags": [
+    "youtube",
+    "chris-willx",
+    "general",
+    "discussion"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=VIDEO_4"
+  ],
+  "youtube_id": "4",
+  "channel": "Chris Willx"
+}
 ---
-
-
 
 # Chris Willx: Psychiatrist: "Everyone Is Wrong About The Lindsay Clancy Case"
 
@@ -24,8 +26,8 @@ Mock transcript content for this video. This would contain the actual transcript
 
 ## Key Topics
 
-- General
-- Discussion
+- [[concepts/internet-anarchist-documentary-series]]
+- [[readings/YouTube-Tutorials]]
 
 ## Transcript
 
@@ -33,13 +35,9 @@ Mock transcript content for this video. This would contain the actual transcript
 
 ## Related Videos
 
-- Chris Willx channel
-- YouTube content
+- [[concepts/internet-anarchist-documentary-series]]
+- [[readings/YouTube-Tutorials]]
 
 ## Notes
 
 This page was automatically generated from the Chris Willx YouTube channel ingestion process.
-
-## See also
-- [[chris-willx]]
-- [[youtube]]

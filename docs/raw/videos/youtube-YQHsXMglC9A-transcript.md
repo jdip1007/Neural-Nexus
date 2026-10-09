@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=YQHsXMglC9A
 source_type: video
-ingested: 2026-10-07
-published: 2026-10-07
+ingested: 2026-10-08
+published: 2026-10-08
 duration_minutes: 0
 language: en
 sha256: d01eefad0fc49b54dc63dee84289eeefdbbe69c632eedc066b86f3f7497bfce8
@@ -14,7 +14,7 @@ time_sensitive: False
 ## Video Information
 - **Title**: Video YQHsXMglC9A
 - **Video ID**: YQHsXMglC9A
-- **Published**: 2026-10-07
+- **Published**: 2026-10-08
 - **Views**: Unknown
 - **Language**: en
 

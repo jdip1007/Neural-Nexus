@@ -1,13 +1,13 @@
 ---
 {
   "title": "1980s: Learning To Code Back in the '80s!",
-  "created": "2026-10-07T06:02:38.771146",
-  "updated": "2026-10-07T06:02:38.771148",
+  "created": "2026-10-09T06:37:58.304642",
+  "updated": "2026-10-09T06:37:58.304655",
   "type": "video",
   "tags": [
-    "technology",
+    "programming",
     "engineering",
-    "programming"
+    "technology"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=vEAjtOI-Oaw"
@@ -30,7 +30,7 @@ Analysis of "1980s: Learning To Code Back in the '80s!" focusing on Dave's Garag
 ## Video Details
 - **Duration**: Various lengths (typically 10-25 minutes)
 - **Source**: Dave's Garage YouTube Channel
-- **Processed**: 2026-10-07 06:02:38
+- **Processed**: 2026-10-09 06:37:58
 
 ## Related Topics
 

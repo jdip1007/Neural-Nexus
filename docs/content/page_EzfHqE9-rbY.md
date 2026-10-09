@@ -1,12 +1,18 @@
 ---
-title: "My Computer is now 4× Faster! That's Why It Won't Boot..."
-created: "2026-10-07T05:58:33.428044"
-updated: "2026-10-07T05:58:33.428045"
-type: "video"
-tags: ["programming", "technology", "engineering"]
-sources: ["https://www.youtube.com/watch?v=EzfHqE9-rbY"]
----
-
+{
+  "title": "My Computer is now 4\u00d7 Faster! That's Why It Won't Boot...",
+  "created": "2026-10-09T06:37:58.305338",
+  "updated": "2026-10-09T06:37:58.305339",
+  "type": "video",
+  "tags": [
+    "programming",
+    "engineering",
+    "technology"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=EzfHqE9-rbY"
+  ]
+}
 # My Computer is now 4× Faster! That's Why It Won't Boot...
 
 ## Video Summary
@@ -24,7 +30,7 @@ Analysis of "My Computer is now 4× Faster! That's Why It Won't Boot..." focusin
 ## Video Details
 - **Duration**: Various lengths (typically 10-25 minutes)
 - **Source**: Dave's Garage YouTube Channel
-- **Processed**: 2026-10-07 05:58:33
+- **Processed**: 2026-10-09 06:37:58
 
 ## Related Topics
 
