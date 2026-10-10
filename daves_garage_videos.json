@@ -1,0 +1,55 @@
+{
+  "channel": "Dave's Garage",
+  "channel_url": "https://www.youtube.com/@davesgarage",
+  "extracted_at": "2026-10-10T00:00:00.000000",
+  "videos": [
+    {
+      "id": "EzfHqE9-rbY",
+      "title": "My Computer is now 4× Faster! That's Why It Won't Boot...",
+      "url": "https://www.youtube.com/watch?v=EzfHqE9-rbY",
+      "duration": "20 minutes",
+      "views": "131K",
+      "published": "5d ago"
+    },
+    {
+      "id": "z_mFHlUpC-g",
+      "title": "Why Your Computer Is Slow — Task Manager Can't Tell You, but TMOG can!",
+      "url": "https://www.youtube.com/watch?v=z_mFHlUpC-g",
+      "duration": "15 minutes",
+      "views": "749K",
+      "published": "2w ago"
+    },
+    {
+      "id": "2aw3MF8pY3w",
+      "title": "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me",
+      "url": "https://www.youtube.com/watch?v=2aw3MF8pY3w",
+      "duration": "18 minutes",
+      "views": "1M",
+      "published": "3w ago"
+    },
+    {
+      "id": "DSA4VFdqELg",
+      "title": "Reliable Isn't Always Better: TCP vs UDP",
+      "url": "https://www.youtube.com/watch?v=DSA4VFdqELg",
+      "duration": "11 minutes, 27 seconds",
+      "views": "135K",
+      "published": "1mo ago"
+    },
+    {
+      "id": "7vzjIv2l6wY",
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "duration": "23 minutes",
+      "views": "181K",
+      "published": "2mo ago"
+    },
+    {
+      "id": "qM5Zz6d8JX0",
+      "title": "CANBUS – Networking so simple, even YOU can understand it!",
+      "url": "https://www.youtube.com/watch?v=qM5Zz6d8JX0",
+      "duration": "23 minutes",
+      "views": "558K",
+      "published": "2mo ago"
+    }
+  ]
+}

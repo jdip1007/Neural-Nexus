@@ -1,8 +1,8 @@
 ---
 source_url: https://www.youtube.com/watch?v=fJ9rUzIMcZQ
 source_type: video
-ingested: 2026-10-08
-published: 2026-10-08
+ingested: 2026-10-10
+published: 2026-10-10
 duration_minutes: 0
 language: en
 sha256: 8afbe6a53cf8e8542b1f2a3c1f00af6a44feb783863918bc8ebc2bc36cfd7bfa
@@ -14,7 +14,7 @@ time_sensitive: False
 ## Video Information
 - **Title**: Video fJ9rUzIMcZQ
 - **Video ID**: fJ9rUzIMcZQ
-- **Published**: 2026-10-08
+- **Published**: 2026-10-10
 - **Views**: Unknown
 - **Language**: en
 

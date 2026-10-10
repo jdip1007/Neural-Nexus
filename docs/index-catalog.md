@@ -2163,15 +2163,15 @@
 - [[youtube-YiAqJs1KSCg-summary]] — ai · `youtube`, `video-summary` · ✓ 2026-09-25
 - [[youtube-clMl_NZp4vI-summary]] — ai · `general` · ✓ 2026-09-06
 - [[youtube-piV5agw5p1s-summary]] — ai · `youtube`, `video-summary`, `transcript`, `piV5agw5p1s` · ✓ 2026-10-02
-- [[youtube-dQw4w9WgXcQ-summary]] — ai · `youtube`, `video-summary`, `transcript`, `dQw4w9WgXcQ` · ✓ 2026-10-08
-- [[youtube-fJ9rUzIMcZQ-summary]] — ai · `youtube`, `video-summary`, `transcript`, `fJ9rUzIMcZQ` · ✓ 2026-10-08
+- [[youtube-dQw4w9WgXcQ-summary]] — ai · `youtube`, `video-summary`, `transcript`, `dQw4w9WgXcQ` · ✓ 2026-10-09
+- [[youtube-fJ9rUzIMcZQ-summary]] — ai · `youtube`, `video-summary`, `transcript`, `fJ9rUzIMcZQ` · ✓ 2026-10-09
 - [[youtube-CooJi1I6V1E-summary]] — ai · `general` · ✓ 2026-08-30
 - [[youtube-gcvpN6Zh-WE-summary]] — ai · `youtube`, `video-summary`, `transcript`, `gcvpN6Zh-WE` · ✓ 2026-10-06
 - [[youtube-gu_ANFKBeWw-summary]] — ai · `youtube`, `video-summary` · ✓ 2026-09-29
 - [[youtube-H6vMTSMZmzc-summary]] — ai · `general` · ✓ 2026-09-06
 - [[youtube-IabDOXf7Acs-summary]] — ai · `general` · ✓ 2026-09-06
 - [[youtube-Ijst4g5KFN0-summary]] — ai · `youtube`, `video-summary`, `transcript`, `Ijst4g5KFN0` · ✓ 2026-10-02
-- [[youtube-jNQXAC9IVRw-summary]] — ai · `youtube`, `video-summary`, `transcript`, `jNQXAC9IVRw` · ✓ 2026-10-08
+- [[youtube-jNQXAC9IVRw-summary]] — ai · `youtube`, `video-summary`, `transcript`, `jNQXAC9IVRw` · ✓ 2026-10-09
 - [[youtube-okgOtuRUCBs-summary]] — ai · `youtube`, `transcript` · ✓ 2026-09-25
 - [[youtube-OWAEr2egtsI-summary]] — ai · `youtube`, `video-summary` · ✓ 2026-10-01
 - [[youtube-p73d6sL8gVo-summary]] — ai · `youtube`, `video-summary`, `transcript`, `p73d6sL8gVo` · ✓ 2026-10-06

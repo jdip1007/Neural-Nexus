@@ -1,41 +1,25 @@
 ---
-title: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce - Transcript
-created: 2026-10-05
-updated: 2026-10-05
-type: raw
-domain: media
-classification: general.media
-tags: [youtube, transcript, how-money-works, gender, workforce, society]
-sources: []
-published: 2026-10-05
+source_url: https://www.youtube.com/watch?v=D-uK2Xs6D9s
+source_type: video
+ingested: 2026-10-10
+published: 2026-10-10
+duration_minutes: 0
+language: en
+sha256: 84f63f81d3f2b980f9741761d382b39a502a511e5e08c45fea968b0aaa00535a
 time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-05
 ---
 
-# The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce - Transcript
+# YouTube Transcript: Video D-uK2Xs6D9s
 
 ## Video Information
-- **Title**: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
+- **Title**: Video D-uK2Xs6D9s
 - **Video ID**: D-uK2Xs6D9s
-- **Published**: 2026-10-05
+- **Published**: 2026-10-10
 - **Views**: Unknown
 - **Language**: en
-- **Channel**: How Money Works
 
-## Content Summary
-This video explores societal trends related to gender dynamics in the workforce, examining changing employment patterns and their economic implications.
+## Transcript
+00:00 Video: Video D-uK2Xs6D9s
+Channel: Unknown
+Description: No description available
 
-## Key Topics
-- Gender workforce dynamics
-- Employment trends
-- Societal changes
-- Economic impact
-
-## Transcript Data
-*Note: Full transcript not available via APIs. This page contains video metadata and basic content analysis.*
-
----
-
-*This page was automatically generated from YouTube video metadata and basic content analysis.*
