@@ -27,3 +27,6 @@ updated: 2026-09-25
 - [[healthygamergg]]
 - [[relationship-psychology]]
 - [[mental-health]]
+
+## How Money Works YouTube Videos
+- [[youtube-W6xkZy9nkaI-Canada Is Joining The EU... But WTF Does That Even Mean_!]] - Canada Is Joining The EU... But WTF Does That Even Mean?!

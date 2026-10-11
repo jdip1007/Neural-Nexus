@@ -1,7 +1,7 @@
 {
   "processed_videos": {
     "QTTCqGtT6I4": {
-      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "title": "CANBUS – Networking so simple, even YOU can understand it!",
       "processed_date": "2026-10-05T05:17:12.833246",
       "status": "completed"
     },
@@ -11,7 +11,7 @@
       "status": "completed"
     },
     "LJSgsf9ro38": {
-      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
       "processed_date": "2026-10-05T05:17:14.834425",
       "status": "completed"
     },
@@ -74,8 +74,48 @@
       "title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
       "processed_date": "2026-10-09T08:59:20.568037",
       "status": "completed"
+    },
+    "W6xkZy9nkaI": {
+      "title": "Canada Is Joining The EU... But WTF Does That Even Mean?!",
+      "processed_at": "2026-10-11T05:01:36.928758",
+      "page_filename": "youtube-W6xkZy9nkaI-Canada Is Joining The EU... But WTF Does That Even Mean_!.md",
+      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
+      "status": "placeholder",
+      "notes": "API restrictions encountered - placeholder created"
+    },
+    "QmWyQ-BCD8E": {
+      "title": "Why A National Debt Default Now Looks Genuinely Possible... (sort of)",
+      "processed_at": "2026-10-11T05:01:36.929137",
+      "page_filename": "youtube-QmWyQ-BCD8E-Why A National Debt Default Now Looks Genuinely Possible... (sort of).md",
+      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
+      "status": "placeholder",
+      "notes": "API restrictions encountered - placeholder created"
+    },
+    "gcvpN6Zh-WE": {
+      "title": "Have Sports Became A Big Dumb Investment Bubble?",
+      "processed_at": "2026-10-11T05:01:36.929343",
+      "page_filename": "youtube-gcvpN6Zh-WE-Have Sports Became A Big Dumb Investment Bubble_.md",
+      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
+      "status": "placeholder",
+      "notes": "API restrictions encountered - placeholder created"
+    },
+    "6BOxK_JrghY": {
+      "title": "\"Dude I'm Broke\" Why Is My Data Worth Harvesting?",
+      "processed_at": "2026-10-11T05:01:36.929619",
+      "page_filename": "youtube-6BOxK_JrghY-_Dude I'm Broke_ Why Is My Data Worth Harvesting_.md",
+      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
+      "status": "placeholder",
+      "notes": "API restrictions encountered - placeholder created"
+    },
+    "swtfbef3HhM": {
+      "title": "Big Tech Cut 950,000 Jobs... And Then Hired Them All Back",
+      "processed_at": "2026-10-11T05:01:36.929794",
+      "page_filename": "youtube-swtfbef3HhM-Big Tech Cut 950,000 Jobs... And Then Hired Them All Back.md",
+      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
+      "status": "placeholder",
+      "notes": "API restrictions encountered - placeholder created"
     }
   },
-  "last_updated": "2026-10-05T05:17:16.835758",
+  "last_updated": "2026-10-11T05:01:36.929797",
   "video_metadata": {}
 }

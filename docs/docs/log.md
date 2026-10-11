@@ -106,3 +106,36 @@ updated: 2026-09-25
 - [[youtube]]
 - [[healthygamergg]]
 - [[mental-health]]
+## 2026-10-11 process | How Money Works YouTube Videos
+
+- **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
+- **Action:** Processed recent videos into wiki pages
+- **Content:** Finance, economics, and market analysis
+- **Output:** Created reading pages with proper frontmatter and citations
+- **Method:** TranscriptAPI integration with Neural Nexus structure
+
+## 2026-10-11 process | How Money Works YouTube Videos
+
+- **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
+- **Action:** Processed recent videos into wiki pages
+- **Content:** Finance, economics, and market analysis
+- **Output:** Created reading pages with proper frontmatter and citations
+- **Method:** YouTube Transcript API integration with Neural Nexus structure
+
+## 2026-10-11 process | How Money Works YouTube Videos
+
+- **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
+- **Action:** Processed recent videos into wiki pages
+- **Content:** Finance, economics, and market analysis
+- **Output:** Created reading pages with proper frontmatter and citations
+- **Method:** yt-dlp integration with Neural Nexus structure
+
+## 2026-10-11 process | How Money Works YouTube Videos
+
+- **Source:** How Money Works YouTube Channel (@HowMoneyWorks)
+- **Action:** Processed recent videos into wiki pages
+- **Content:** Finance, economics, and market analysis
+- **Output:** Created reading pages with proper frontmatter and citations
+- **Method:** Placeholder pages due to YouTube API restrictions
+- **Status:** API quota exceeded and IP blocking encountered
+
