@@ -1,0 +1,130 @@
+{
+  "processing_date": "2026-10-11T07:00:07.681516",
+  "selected_videos": {
+    "channel": "Dave's Garage",
+    "channel_url": "https://www.youtube.com/@DavesGarage",
+    "extraction_date": "2026-10-11",
+    "selected_videos": [
+      {
+        "id": "SR8ESCmUYLY",
+        "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+        "url": "https://www.youtube.com/watch?v=SR8ESCmUYLY",
+        "duration": "22:00",
+        "views": "298K",
+        "published": "6mo ago"
+      },
+      {
+        "id": "kLcpCqLwNU8",
+        "title": "Autism Works - Neurodiversity in the Workplace",
+        "url": "https://www.youtube.com/watch?v=kLcpCqLwNU8",
+        "duration": "19:00",
+        "views": "223K",
+        "published": "8mo ago"
+      },
+      {
+        "id": "LJSgsf9ro38",
+        "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+        "url": "https://www.youtube.com/watch?v=LJSgsf9ro38",
+        "duration": "22:00",
+        "views": "267K",
+        "published": "2mo ago"
+      },
+      {
+        "id": "kdnN0kk7MS0",
+        "title": "printf is Actually a Secret Virtual Machine - And a Giant Security Hole!",
+        "url": "https://www.youtube.com/watch?v=kdnN0kk7MS0",
+        "duration": "17:00",
+        "views": "89K",
+        "published": "10mo ago"
+      },
+      {
+        "id": "QTTCqGtT6I4",
+        "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+        "url": "https://www.youtube.com/watch?v=QTTCqGtT6I4",
+        "duration": "23:00",
+        "views": "559K",
+        "published": "2mo ago"
+      }
+    ],
+    "total_unprocessed": 10,
+    "selected_count": 5
+  },
+  "transcript_results": [
+    {
+      "video_id": "SR8ESCmUYLY",
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "transcript_path": "raw/transcripts/daves-garage/Hidden-Code:-How-Slot-Machines-Actually-Work---The-Computer-Inside.md",
+      "status": "placeholder",
+      "transcript_length": 1710,
+      "topic": "Slot machines, gambling, computer programming, gaming algorithms",
+      "key_concepts": [
+        "Random Number Generation",
+        "Pseudorandom Algorithms",
+        "Probability Theory",
+        "Gaming Mathematics",
+        "Computer Security"
+      ]
+    },
+    {
+      "video_id": "kLcpCqLwNU8",
+      "title": "Autism Works - Neurodiversity in the Workplace",
+      "transcript_path": "raw/transcripts/daves-garage/Autism-Works---Neurodiversity-in-the-Workplace.md",
+      "status": "placeholder",
+      "transcript_length": 1654,
+      "topic": "Neurodiversity, workplace inclusion, autism, employment",
+      "key_concepts": [
+        "Neurodiversity",
+        "Inclusive Workplace",
+        "Autism Employment",
+        "Accommodations",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "video_id": "LJSgsf9ro38",
+      "title": "The Controversial Flock Cameras Tracking Every Car \u2014 Full Breakdown",
+      "transcript_path": "raw/transcripts/daves-garage/The-Controversial-Flock-Cameras-Tracking-Every-Car---Full-Breakdown.md",
+      "status": "placeholder",
+      "transcript_length": 1725,
+      "topic": "Surveillance technology, privacy, tracking systems, automotive technology",
+      "key_concepts": [
+        "Vehicle Tracking",
+        "Surveillance Technology",
+        "Privacy Concerns",
+        "Automotive Security",
+        "Data Collection"
+      ]
+    },
+    {
+      "video_id": "kdnN0kk7MS0",
+      "title": "printf is Actually a Secret Virtual Machine - And a Giant Security Hole!",
+      "transcript_path": "raw/transcripts/daves-garage/printf-is-Actually-a-Secret-Virtual-Machine---And-a-Giant-Security-Hole.md",
+      "status": "placeholder",
+      "transcript_length": 1699,
+      "topic": "C programming, system programming, security vulnerabilities, virtual machines",
+      "key_concepts": [
+        "C Programming",
+        "System Calls",
+        "Buffer Overflow",
+        "Security Vulnerabilities",
+        "Virtual Machines"
+      ]
+    },
+    {
+      "video_id": "QTTCqGtT6I4",
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "transcript_path": "raw/transcripts/daves-garage/CANBUS-\u2013-Networking-so-simple-even-YOU-can-understand-it.md",
+      "status": "placeholder",
+      "transcript_length": 1679,
+      "topic": "Networking protocols, automotive networking, CAN bus, vehicle communication",
+      "key_concepts": [
+        "CAN Protocol",
+        "Vehicle Networking",
+        "Communication Standards",
+        "Automotive Electronics",
+        "Network Topology"
+      ]
+    }
+  ],
+  "note": "All transcripts are placeholders due to TranscriptAPI connectivity issues"
+}

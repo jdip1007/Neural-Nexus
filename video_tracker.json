@@ -168,9 +168,18 @@
       "processed_at": "2026-10-10T06:46:34.266382",
       "page_filename": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it.md",
       "content_hash": "98af11d7b30b495fa4daaa611a0d2c8b5fa0cbb38edbd2d000015de7e76d91bf"
+    },
+    "QTTCqGtT6I4": {
+      "video_id": "QTTCqGtT6I4",
+      "title": "CANBUS \u2013 Networking so simple, even YOU can understand it!",
+      "page_filename": "youtube-QTTCqGtT6I4-CANBUS-\u2013-Networking-so-simple-even-YOU-can-understand-it.md",
+      "transcript_path": "raw/transcripts/daves-garage/CANBUS-\u2013-Networking-so-simple-even-YOU-can-understand-it.md",
+      "processed_at": "2026-10-11T07:04:29.189088",
+      "content_hash": "22b9e18ba402afc984aae1e8a636737b",
+      "status": "processed"
     }
   },
-  "last_updated": "2026-10-10T06:46:34.267152",
+  "last_updated": "2026-10-11T07:04:29.189182",
   "video_metadata": {
     "iCdfSRc2QNg": {
       "id": "iCdfSRc2QNg",
