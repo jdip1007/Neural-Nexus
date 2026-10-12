@@ -1,15 +1,15 @@
 ---
 {
   "title": "Why You Freeze Up When You Talk to Women | Lovemaxxing w/ Dr. K",
-  "created": "2026-10-03T06:55:54.002096",
-  "updated": "2026-10-03T06:55:54.002098",
+  "created": "2026-10-11T09:41:10.652891",
+  "updated": "2026-10-11T09:41:10.652892",
   "type": "video",
   "tags": [
     "healthygamergg",
-    "psychology",
+    "anxiety",
+    "depression",
     "mental health",
-    "relationships",
-    "dating"
+    "psychology"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=m4n5o6p7q8R9"
@@ -25,24 +25,25 @@
 - **Channel**: HealthyGamerGG
 - **Video ID**: m4n5o6p7q8R9
 - **URL**: https://www.youtube.com/watch?v=m4n5o6p7q8R9
-- **Date Processed**: 2026-10-03 06:55:54
+- **Date Processed**: 2026-10-11 09:41:10
 
 ## Key Topics
-- relationships
-- dating
+- depression
+- mental health
+- anxiety
 
 ## Transcript Content
-This video offers valuable perspectives on modern dating, relationships, and navigating social dynamics.
+This video provides practical advice for dealing with anxiety, depression, and other mental health challenges.
 
 ## Related Concepts
-- love
-- connection
-- partnership
-- intimacy
-- relationships
-- romance
-- courtship
-- partnership
+- mood
+- sadness
+- hope
+- energy
+- stress management
+- worry
+- panic
+- calm
 
 ## Analysis
 This video explores important concepts in mental health, psychology, and personal development from Dr. K's perspective on HealthyGamerGG.

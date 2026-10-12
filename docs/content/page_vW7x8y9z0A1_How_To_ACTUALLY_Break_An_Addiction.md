@@ -1,12 +1,13 @@
 ---
 {
   "title": "How To ACTUALLY Break An Addiction",
-  "created": "2026-10-02T06:45:08.074085",
-  "updated": "2026-10-02T06:45:08.074086",
+  "created": "2026-10-11T09:35:15.310149",
+  "updated": "2026-10-11T09:35:15.310151",
   "type": "video",
   "tags": [
     "healthygamergg",
     "psychology",
+    "mental health",
     "mental health"
   ],
   "sources": [
@@ -23,13 +24,13 @@
 - **Channel**: HealthyGamerGG
 - **Video ID**: vW7x8y9z0A1
 - **URL**: https://www.youtube.com/watch?v=vW7x8y9z0A1
-- **Date Processed**: 2026-10-02 06:45:08
+- **Date Processed**: 2026-10-11 09:35:15
 
 ## Key Topics
-
+- mental health
 
 ## Transcript Content
-Dr. K provides actionable strategies for overcoming personal obstacles and achieving mental wellness.
+This video explores important concepts in mental health and psychology from Dr. K's perspective on HealthyGamerGG.
 
 ## Related Concepts
 

@@ -1,14 +1,14 @@
 ---
 {
   "title": "Thoughts Your Therapist Has, But Doesn't Tell You",
-  "created": "2026-10-02T06:45:05.690046",
-  "updated": "2026-10-02T06:45:05.690047",
+  "created": "2026-10-11T09:41:15.286121",
+  "updated": "2026-10-11T09:41:15.286122",
   "type": "video",
   "tags": [
     "healthygamergg",
-    "psychology",
-    "mental health",
     "relationships",
+    "mental health",
+    "psychology",
     "personal development"
   ],
   "sources": [
@@ -25,7 +25,7 @@
 - **Channel**: HealthyGamerGG
 - **Video ID**: e6f7g8h9i0J1
 - **URL**: https://www.youtube.com/watch?v=e6f7g8h9i0J1
-- **Date Processed**: 2026-10-02 06:45:05
+- **Date Processed**: 2026-10-11 09:41:15
 
 ## Key Topics
 - relationships

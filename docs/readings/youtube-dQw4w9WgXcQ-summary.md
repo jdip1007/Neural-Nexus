@@ -1,17 +1,17 @@
 ---
 title: Video dQw4w9WgXcQ - Summary
-created: 2026-10-10
-updated: 2026-10-10
+created: 2026-10-11
+updated: 2026-10-11
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, dQw4w9WgXcQ]
 sources: [raw/videos/youtube-dQw4w9WgXcQ-transcript.md]
-published: 2026-10-10
+published: 2026-10-11
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-10
+reviewed: 2026-10-11
 ---
 
 # Video dQw4w9WgXcQ - Summary

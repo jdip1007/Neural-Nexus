@@ -1,16 +1,13 @@
 ---
 {
   "title": "What Divorce Does To A Child",
-  "created": "2026-10-03T06:55:56.350750",
-  "updated": "2026-10-03T06:55:56.350752",
+  "created": "2026-10-11T09:35:22.268076",
+  "updated": "2026-10-11T09:35:22.268078",
   "type": "video",
   "tags": [
     "healthygamergg",
     "psychology",
-    "mental health",
-    "relationships",
-    "therapy",
-    "counseling"
+    "mental health"
   ],
   "sources": [
     "https://www.youtube.com/watch?v=jK5l6m7n8P9"
@@ -26,25 +23,16 @@
 - **Channel**: HealthyGamerGG
 - **Video ID**: jK5l6m7n8P9
 - **URL**: https://www.youtube.com/watch?v=jK5l6m7n8P9
-- **Date Processed**: 2026-10-03 06:55:56
+- **Date Processed**: 2026-10-11 09:35:22
 
 ## Key Topics
-- relationships
-- therapy
-- counseling
+
 
 ## Transcript Content
-Dr. K shares his expertise on therapy, counseling, and the psychology behind human behavior and relationships.
+Viewers will gain valuable insights into understanding themselves better and improving their mental wellbeing.
 
 ## Related Concepts
-- love
-- connection
-- partnership
-- intimacy
-- counseling
-- treatment
-- healing
-- growth
+
 
 ## Analysis
 This video explores important concepts in mental health, psychology, and personal development from Dr. K's perspective on HealthyGamerGG.
