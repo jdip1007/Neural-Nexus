@@ -1,20 +1,22 @@
 ---
-channel: Chris Willx
-created: '2026-09-26T22:53:32.218650'
-domain: general
-sources:
-- https://www.youtube.com/watch?v=VIDEO_6
-tags:
-- youtube
-- general
-- discussion
-title: 'Chris Willx: Why Women Never Choose The Nice Guy'
-type: reading
-updated: '2026-09-26T22:53:32.218651'
-youtube_id: '6'
+{
+  "title": "Chris Willx: Why Women Never Choose The Nice Guy",
+  "created": "2026-10-13T02:39:08.406676",
+  "updated": "2026-10-13T02:39:08.406678",
+  "type": "youtube",
+  "tags": [
+    "youtube",
+    "chris-willx",
+    "general",
+    "discussion"
+  ],
+  "sources": [
+    "https://www.youtube.com/watch?v=VIDEO_6"
+  ],
+  "youtube_id": "6",
+  "channel": "Chris Willx"
+}
 ---
-
-
 
 # Chris Willx: Why Women Never Choose The Nice Guy
 
@@ -24,8 +26,8 @@ Mock transcript content for this video. This would contain the actual transcript
 
 ## Key Topics
 
-- General
-- Discussion
+- [[General]]
+- [[Discussion]]
 
 ## Transcript
 
@@ -33,13 +35,9 @@ Mock transcript content for this video. This would contain the actual transcript
 
 ## Related Videos
 
-- Chris Willx channel
-- YouTube content
+- [[Chris Willx]] channel
+- [[YouTube]] content
 
 ## Notes
 
 This page was automatically generated from the Chris Willx YouTube channel ingestion process.
-
-## See also
-- [[chris-willx]]
-- [[youtube]]
