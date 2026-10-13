@@ -1,21 +1,21 @@
 ---
 title: "Hidden Code: How Slot Machines Actually Work - The Computer Inside"
-created: "2026-10-05"
-updated: "2026-10-05"
+created: "2026-10-13"
+updated: "2026-10-13"
 type: reading
 classification: video.daves-garage
 domain: technology
-tags: ['programming', 'technology', 'gaming', 'daves-garage', 'youtube', 'tutorial']
+tags: ['tech', 'tutorials']
 sources: ["https://www.youtube.com/watch?v=SR8ESCmUYLY"]
 confidence: medium
 status: active
-reviewed: "2026-10-05"
+reviewed: "2026-10-13"
 backlinks: []
 ---
 
 # Hidden Code: How Slot Machines Actually Work - The Computer Inside
 
-> **Source**: [https://www.youtube.com/watch?v=SR8ESCmUYLY](https://www.youtube.com/watch?v=SR8ESCmUYLY) | **Duration**: 18 minutes | **Views**: 457K
+> **Source**: [https://www.youtube.com/watch?v=SR8ESCmUYLY](https://www.youtube.com/watch?v=SR8ESCmUYLY) | **Duration**: 18 minutes | **Views**: 446K
 
 ## Overview
 
@@ -23,7 +23,9 @@ This video from Dave's Garage covers programming, technology, gaming with a focu
 
 ## Key Topics
 
-- [[hidden-code-how-slot-machines-actually-work-the-computer-inside]] - Gaming technology and algorithms
+- [[Programming]]
+- [[Technology]]
+- [[Gaming]]
 
 ## Technical Concepts
 
@@ -37,11 +39,14 @@ Inside look at slot machine programming and random number generation. Technical 
 
 ## Related Pages
 
-- [[hidden-code-how-slot-machines-actually-work-the-computer-inside]] - Gaming technology and algorithms
+- [[Dave's Garage]] - Main channel page
+- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[Networking]] - Related networking content
+- [[Programming]] - Related programming tutorials
 
 ## Citations
 
 Source: [https://www.youtube.com/watch?v=SR8ESCmUYLY](https://www.youtube.com/watch?v=SR8ESCmUYLY)
 
 ---
-*Created: 2026-10-05 05:17:15*
+*Created: 2026-10-13 07:47:41*

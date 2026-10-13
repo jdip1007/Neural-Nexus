@@ -1,15 +1,15 @@
 ---
 title: "The Challenge: Building a Custom Electric Vehicle"
-created: "2026-10-05"
-updated: "2026-10-05"
+created: "2026-10-13"
+updated: "2026-10-13"
 type: reading
 classification: video.daves-garage
 domain: technology
-tags: ['hardware', 'technology', 'automotive', 'daves-garage', 'youtube', 'tutorial']
+tags: ['tech', 'tutorials']
 sources: ["https://www.youtube.com/watch?v=kLcpCqLwNU8"]
 confidence: medium
 status: active
-reviewed: "2026-10-05"
+reviewed: "2026-10-13"
 backlinks: []
 ---
 
@@ -23,7 +23,9 @@ This video from Dave's Garage covers hardware, technology, automotive with a foc
 
 ## Key Topics
 
-- [[ethernet-explained-so-well-that-even-you-can-understand-it]] - Ethernet networking technology
+- [[Hardware]]
+- [[Technology]]
+- [[Automotive]]
 
 ## Technical Concepts
 
@@ -37,11 +39,14 @@ Documenting the process of building a custom electric vehicle from scratch. This
 
 ## Related Pages
 
-- [[ethernet-explained-so-well-that-even-you-can-understand-it]] - Related networking content
+- [[Dave's Garage]] - Main channel page
+- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[Networking]] - Related networking content
+- [[Programming]] - Related programming tutorials
 
 ## Citations
 
 Source: [https://www.youtube.com/watch?v=kLcpCqLwNU8](https://www.youtube.com/watch?v=kLcpCqLwNU8)
 
 ---
-*Created: 2026-10-05 05:17:13*
+*Created: 2026-10-13 07:47:45*

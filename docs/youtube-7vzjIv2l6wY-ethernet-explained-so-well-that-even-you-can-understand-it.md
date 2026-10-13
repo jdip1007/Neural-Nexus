@@ -1,58 +1,50 @@
 ---
-{
-  "title": "Ethernet Explained so well that even YOU can Understand it!",
-  "created": "2026-10-08",
-  "updated": "2026-10-08",
-  "type": "reading",
-  "classification": "technology.networking",
-  "domain": "technology",
-  "tags": [
-    "youtube",
-    "daves-garage",
-    "technology",
-    "video-summary",
-    "transcript",
-    "ai",
-    "artificial-intelligence",
-    "machine-learning",
-    "networking",
-    "protocols",
-    "infrastructure"
-  ],
-  "sources": [
-    "raw/videos/youtube-7vzjIv2l6wY-transcript.json"
-  ],
-  "confidence": "medium",
-  "status": "active",
-  "reviewed": "2026-10-08",
-  "backlinks": []
-}
+title: "Ethernet Explained so well that even YOU can Understand it!"
+created: "2026-10-13"
+updated: "2026-10-13"
+type: reading
+classification: video.daves-garage
+domain: technology
+tags: ['tech', 'tutorials', 'network']
+sources: ["https://www.youtube.com/watch?v=7vzjIv2l6wY"]
+confidence: medium
+status: active
+reviewed: "2026-10-13"
+backlinks: []
 ---
 
 # Ethernet Explained so well that even YOU can Understand it!
 
-## Video Information
+> **Source**: [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY) | **Duration**: 23 minutes | **Views**: 158K
 
-- **Channel**: Dave's Garage (@DavesGarage)
-- **Duration**: 23 minutes
-- **URL**: [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY)
-- **Video ID**: 7vzjIv2l6wY
-- **Views**: 180K
-- **Published**: 2mo ago
-- **Processed**: 2026-10-08 06:24:25
+## Overview
 
-## Summary
+This video from Dave's Garage covers networking, hardware with a focus on technical_tutorial content at intermediate level.
 
-This video is part of Dave's Garage channel featuring technical discussions, computer science concepts, networking protocols, and technology tutorials. The transcript has been processed and analyzed for key insights and concepts.
+## Key Topics
 
-## Key Topics and Concepts
+- [[Networking]]
+- [[Hardware]]
 
-- **Networking**: Discussion of networking related concepts and insights\n- **Ai**: Discussion of ai related concepts and insights\n- **Programming**: Discussion of programming related concepts and insights
+## Technical Concepts
 
-## Transcript Analysis
+- ethernet
+- led
 
-The transcript has been analyzed to identify main themes, technical concepts, and actionable insights from the discussion.
+## Transcript
 
-## Sources
+Ethernet technology explained from basic principles to advanced networking concepts. This comprehensive video covers the fundamentals of Ethernet networking, including how data is transmitted, network protocols, cabling standards, and practical implementation tips for both beginners and advanced users. Dave provides detailed explanations of Ethernet frames, collision detection, and modern Ethernet implementations.
 
-^raw/videos/youtube-7vzjIv2l6wY-transcript.json
+## Related Pages
+
+- [[Dave's Garage]] - Main channel page
+- [[YouTube Tutorials]] - Collection of technical tutorials
+- [[Networking]] - Related networking content
+- [[Programming]] - Related programming tutorials
+
+## Citations
+
+Source: [https://www.youtube.com/watch?v=7vzjIv2l6wY](https://www.youtube.com/watch?v=7vzjIv2l6wY)
+
+---
+*Created: 2026-10-13 07:47:43*

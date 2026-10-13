@@ -1,121 +1,35 @@
 {
   "processed_videos": {
-    "QTTCqGtT6I4": {
-      "title": "CANBUS – Networking so simple, even YOU can understand it!",
-      "processed_date": "2026-10-05T05:17:12.833246",
-      "status": "completed"
+    "SR8ESCmUYLY": {
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "url": "https://www.youtube.com/watch?v=SR8ESCmUYLY",
+      "processed_at": "2026-10-13T07:47:41.613543Z",
+      "status": "processed"
+    },
+    "OG91c7xsNMc": {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "processed_at": "2026-10-13T07:47:42.614460Z",
+      "status": "processed"
+    },
+    "7vzjIv2l6wY": {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "processed_at": "2026-10-13T07:47:43.615474Z",
+      "status": "processed"
+    },
+    "hRhBuHJ-j_o": {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "processed_at": "2026-10-13T07:47:44.616232Z",
+      "status": "processed"
     },
     "kLcpCqLwNU8": {
       "title": "The Challenge: Building a Custom Electric Vehicle",
-      "processed_date": "2026-10-05T05:17:13.833813",
-      "status": "completed"
-    },
-    "LJSgsf9ro38": {
-      "title": "The Controversial Flock Cameras Tracking Every Car — Full Breakdown",
-      "processed_date": "2026-10-05T05:17:14.834425",
-      "status": "completed"
-    },
-    "SR8ESCmUYLY": {
-      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-      "processed_date": "2026-10-05T05:17:15.835083",
-      "status": "completed"
-    },
-    "DSA4VFdqELg": {
-      "title": "Reliable Isn't Always Better: TCP vs UDP",
-      "processed_date": "2026-10-05T05:17:16.835749",
-      "status": "completed"
-    },
-    "RdmYUULKf7s": {
-      "title": "Why Normal Life Feels So Boring",
-      "processed_date": "2026-10-09T08:58:53.791429",
-      "status": "completed"
-    },
-    "7MykFJ7TByM": {
-      "title": "Analyzing The Lindsay Clancy Case",
-      "processed_date": "2026-10-09T08:58:54.792643",
-      "status": "completed"
-    },
-    "919XuYNqyjw": {
-      "title": "Why You Should NEVER Confess Your Love",
-      "processed_date": "2026-10-09T08:58:55.794058",
-      "status": "completed"
-    },
-    "vr-EwLQCOIk": {
-      "title": "Why You Need Constant Reassurance",
-      "processed_date": "2026-10-09T08:58:56.795284",
-      "status": "completed"
-    },
-    "OfPOtN51MpM": {
-      "title": "Why You Can't Just \"Rewire\" Your Brain",
-      "processed_date": "2026-10-09T08:58:57.796497",
-      "status": "completed"
-    },
-    "iCdfSRc2QNg": {
-      "title": "The Secret to Fixing Your Adulthood",
-      "processed_date": "2026-10-09T08:59:16.562478",
-      "status": "completed"
-    },
-    "2MwTDoT8XjY": {
-      "title": "Why 40% Of Young Men Need Erectile Retraining",
-      "processed_date": "2026-10-09T08:59:17.563881",
-      "status": "completed"
-    },
-    "_4x0fRO6w5M": {
-      "title": "Why Sensitive People Get Traumatized So Easily",
-      "processed_date": "2026-10-09T08:59:18.565366",
-      "status": "completed"
-    },
-    "bG2sW8xYQzA": {
-      "title": "How To ACTUALLY Break An Addiction",
-      "processed_date": "2026-10-09T08:59:19.566571",
-      "status": "completed"
-    },
-    "oCB-sCIKnkU": {
-      "title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
-      "processed_date": "2026-10-09T08:59:20.568037",
-      "status": "completed"
-    },
-    "W6xkZy9nkaI": {
-      "title": "Canada Is Joining The EU... But WTF Does That Even Mean?!",
-      "processed_at": "2026-10-11T05:01:36.928758",
-      "page_filename": "youtube-W6xkZy9nkaI-Canada Is Joining The EU... But WTF Does That Even Mean_!.md",
-      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
-      "status": "placeholder",
-      "notes": "API restrictions encountered - placeholder created"
-    },
-    "QmWyQ-BCD8E": {
-      "title": "Why A National Debt Default Now Looks Genuinely Possible... (sort of)",
-      "processed_at": "2026-10-11T05:01:36.929137",
-      "page_filename": "youtube-QmWyQ-BCD8E-Why A National Debt Default Now Looks Genuinely Possible... (sort of).md",
-      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
-      "status": "placeholder",
-      "notes": "API restrictions encountered - placeholder created"
-    },
-    "gcvpN6Zh-WE": {
-      "title": "Have Sports Became A Big Dumb Investment Bubble?",
-      "processed_at": "2026-10-11T05:01:36.929343",
-      "page_filename": "youtube-gcvpN6Zh-WE-Have Sports Became A Big Dumb Investment Bubble_.md",
-      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
-      "status": "placeholder",
-      "notes": "API restrictions encountered - placeholder created"
-    },
-    "6BOxK_JrghY": {
-      "title": "\"Dude I'm Broke\" Why Is My Data Worth Harvesting?",
-      "processed_at": "2026-10-11T05:01:36.929619",
-      "page_filename": "youtube-6BOxK_JrghY-_Dude I'm Broke_ Why Is My Data Worth Harvesting_.md",
-      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
-      "status": "placeholder",
-      "notes": "API restrictions encountered - placeholder created"
-    },
-    "swtfbef3HhM": {
-      "title": "Big Tech Cut 950,000 Jobs... And Then Hired Them All Back",
-      "processed_at": "2026-10-11T05:01:36.929794",
-      "page_filename": "youtube-swtfbef3HhM-Big Tech Cut 950,000 Jobs... And Then Hired Them All Back.md",
-      "content_hash": "6a99c575ab87f8c7d1ed1e52e7e349ce",
-      "status": "placeholder",
-      "notes": "API restrictions encountered - placeholder created"
+      "url": "https://www.youtube.com/watch?v=kLcpCqLwNU8",
+      "processed_at": "2026-10-13T07:47:45.617159Z",
+      "status": "processed"
     }
   },
-  "last_updated": "2026-10-11T05:01:36.929797",
-  "video_metadata": {}
+  "last_updated": "2026-10-13T07:47:45.617174Z"
 }

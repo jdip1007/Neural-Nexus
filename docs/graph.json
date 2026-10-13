@@ -146,9 +146,13 @@
     },
     {
       "id": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "title": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "title": "\"Ethernet Explained so well that even YOU can Understand it!\"",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it.md",
-      "tags": [],
+      "tags": [
+        "tech",
+        "tutorials",
+        "network"
+      ],
       "type": "page"
     },
     {
@@ -334,6 +338,16 @@
       "type": "page"
     },
     {
+      "id": "youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "title": "\"The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii.md",
+      "tags": [
+        "tech",
+        "tutorials"
+      ],
+      "type": "page"
+    },
+    {
       "id": "index",
       "title": "Index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
@@ -359,12 +373,8 @@
       "title": "\"Hidden Code: How Slot Machines Actually Work - The Computer Inside\"",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside.md",
       "tags": [
-        "programming",
-        "technology",
-        "gaming",
-        "daves-garage",
-        "youtube",
-        "tutorial"
+        "tech",
+        "tutorials"
       ],
       "type": "page"
     },
@@ -376,6 +386,16 @@
         "internet-anarchist",
         "youtube",
         "documentary"
+      ],
+      "type": "page"
+    },
+    {
+      "id": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "title": "\"fopen is Magic! - Find Out What You've Been Missing All These Years!\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years.md",
+      "tags": [
+        "tech",
+        "tutorials"
       ],
       "type": "page"
     },
@@ -447,6 +467,19 @@
       "title": "how-money-works-why-a-national-debt-default-now-looks-genuinely-possible-sort-of",
       "file": "/home/hermes/Neural-Nexus/docs/how-money-works-why-a-national-debt-default-now-looks-genuinely-possible-sort-of.md",
       "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "title": "\"The Challenge: Can we build Notepad in 3K in assembly language?\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language.md",
+      "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
       "type": "page"
     },
     {
@@ -667,6 +700,19 @@
       "type": "page"
     },
     {
+      "id": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
+      "title": "\"Microsoft's Secret 90s Weapon That Made Windows Fast\"",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "tags": [
+        "programming",
+        "technology",
+        "daves-garage",
+        "youtube",
+        "tutorial"
+      ],
+      "type": "page"
+    },
+    {
       "id": "how-money-works-wtf-is-happening-to-the-car-market",
       "title": "how-money-works-wtf-is-happening-to-the-car-market",
       "file": "/home/hermes/Neural-Nexus/docs/how-money-works-wtf-is-happening-to-the-car-market.md",
@@ -731,12 +777,8 @@
       "title": "\"The Challenge: Building a Custom Electric Vehicle\"",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle.md",
       "tags": [
-        "hardware",
-        "technology",
-        "automotive",
-        "daves-garage",
-        "youtube",
-        "tutorial"
+        "tech",
+        "tutorials"
       ],
       "type": "page"
     },
@@ -912,6 +954,16 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "tags",
       "target": "index",
       "type": "wikilink"
@@ -937,6 +989,11 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-hRhBuHJ-j_o-the-secret-rgb-led-features-i-hid-in-this-1970-lincoln-continental-mark-iii",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "index",
       "target": "why-you-need-constant-reassurance",
       "type": "wikilink"
@@ -953,12 +1010,22 @@
     },
     {
       "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "fresh006_2026_The_Evolution_of_YouTube_Gaming",
       "type": "wikilink"
     },
     {
       "source": "youtube-SR8ESCmUYLY-hidden-code-how-slot-machines-actually-work-the-computer-inside",
-      "target": "hidden-code-how-slot-machines-actually-work-the-computer-inside",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-XAzUoizwnXM-fopen-is-magic-find-out-what-youve-been-missing-all-these-years",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
+      "source": "youtube-OG91c7xsNMc-the-challenge-can-we-build-notepad-in-3k-in-assembly-language",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -1032,6 +1099,11 @@
       "type": "wikilink"
     },
     {
+      "source": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
+      "type": "wikilink"
+    },
+    {
       "source": "fresh001_2026_JiDion's_Past_Is_Catching_Up_To_Him",
       "target": "fresh009_2026_Viral_Marketing_Strategies_That_Work",
       "type": "wikilink"
@@ -1058,12 +1130,7 @@
     },
     {
       "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
-      "type": "wikilink"
-    },
-    {
-      "source": "youtube-kLcpCqLwNU8-the-challenge-building-a-custom-electric-vehicle",
-      "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it",
+      "target": "youtube-QTTCqGtT6I4-canbus-networking-so-simple-even-you-can-understand-it",
       "type": "wikilink"
     },
     {
@@ -1093,8 +1160,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-13T02:40:28.467344",
-    "total_nodes": 104,
-    "total_edges": 40
+    "generated": "2026-10-13T08:02:55.057397",
+    "total_nodes": 108,
+    "total_edges": 45
   }
 }
