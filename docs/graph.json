@@ -867,6 +867,13 @@
       "type": "page"
     },
     {
+      "id": "new004",
+      "title": "Digital Privacy in the Age of Social Media",
+      "file": "/home/hermes/Neural-Nexus/docs/new004.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "anar010",
       "title": "Decentralized Systems - The Future of Organization",
       "file": "/home/hermes/Neural-Nexus/docs/anar010.md",
@@ -1160,8 +1167,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-13T08:02:55.057397",
-    "total_nodes": 108,
+    "generated": "2026-10-13T17:37:04.941486",
+    "total_nodes": 109,
     "total_edges": 45
   }
 }
