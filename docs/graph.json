@@ -22,6 +22,13 @@
       "type": "page"
     },
     {
+      "id": "adam002",
+      "title": "Adam22's Life Is Falling Apart",
+      "file": "/home/hermes/Neural-Nexus/docs/adam002.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "fresh007_2026_Content_Creator_Burnout_and_Mental_Health",
       "title": "Content Creator Burnout and Mental Health",
       "file": "/home/hermes/Neural-Nexus/docs/fresh007_2026_Content_Creator_Burnout_and_Mental_Health.md",
@@ -39,6 +46,13 @@
       "id": "def456",
       "title": "Sam Sulek Reacts To Evidence-Based Lifting",
       "file": "/home/hermes/Neural-Nexus/docs/def456.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "jack001",
+      "title": "Jack Doherty's Life Is Falling Apart",
+      "file": "/home/hermes/Neural-Nexus/docs/jack001.md",
       "tags": [],
       "type": "page"
     },
@@ -138,6 +152,13 @@
       "type": "page"
     },
     {
+      "id": "storage007",
+      "title": "Storage Wars Is Worse Than You Thought",
+      "file": "/home/hermes/Neural-Nexus/docs/storage007.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "why-you-need-constant-reassurance",
       "title": "why-you-need-constant-reassurance",
       "file": "/home/hermes/Neural-Nexus/docs/why-you-need-constant-reassurance.md",
@@ -160,6 +181,13 @@
       "id": "youtube-ZIjBj63W8KU",
       "title": "youtube-ZIjBj63W8KU",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-ZIjBj63W8KU.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "james004",
+      "title": "James Corden's Life Is Falling Apart",
+      "file": "/home/hermes/Neural-Nexus/docs/james004.md",
       "tags": [],
       "type": "page"
     },
@@ -195,6 +223,20 @@
       "id": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "title": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "ozempic_mental_health",
+      "title": "We Need To Talk About Ozempic",
+      "file": "/home/hermes/Neural-Nexus/docs/ozempic_mental_health.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "predator005",
+      "title": "The Dark Life After To Catch a Predator",
+      "file": "/home/hermes/Neural-Nexus/docs/predator005.md",
       "tags": [],
       "type": "page"
     },
@@ -285,6 +327,13 @@
       "type": "page"
     },
     {
+      "id": "ksi008",
+      "title": "The Never-Ending Downfall of KSI",
+      "file": "/home/hermes/Neural-Nexus/docs/ksi008.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "index",
       "title": "Index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
@@ -331,6 +380,13 @@
       "type": "page"
     },
     {
+      "id": "shark006",
+      "title": "Shark Tank Pitches That Turned Into Disasters",
+      "file": "/home/hermes/Neural-Nexus/docs/shark006.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "abc123",
       "title": "\"I Read 500 Self-Help Books So You Don't Have To\" - Spencer Greenberg",
       "file": "/home/hermes/Neural-Nexus/docs/abc123.md",
@@ -341,6 +397,13 @@
       "id": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "title": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "positive_thinking_lie",
+      "title": "The Lie of \"Positive Thinking\"",
+      "file": "/home/hermes/Neural-Nexus/docs/positive_thinking_lie.md",
       "tags": [],
       "type": "page"
     },
@@ -362,6 +425,13 @@
       "id": "anar005",
       "title": "Anarchist Economics: Mutual Aid vs Competition",
       "file": "/home/hermes/Neural-Nexus/docs/anar005.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "everything_right_love",
+      "title": "I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K",
+      "file": "/home/hermes/Neural-Nexus/docs/everything_right_love.md",
       "tags": [],
       "type": "page"
     },
@@ -513,6 +583,13 @@
       "type": "page"
     },
     {
+      "id": "worst_red_flags_therapist",
+      "title": "The Worst Red Flags I've Seen As A Therapist",
+      "file": "/home/hermes/Neural-Nexus/docs/worst_red_flags_therapist.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "why-you-should-never-confess-your-love",
       "title": "why-you-should-never-confess-your-love",
       "file": "/home/hermes/Neural-Nexus/docs/why-you-should-never-confess-your-love.md",
@@ -566,6 +643,13 @@
         "business-strategy",
         "marketing"
       ],
+      "type": "page"
+    },
+    {
+      "id": "elliot003",
+      "title": "Elliot Page's Life Is Falling Apart",
+      "file": "/home/hermes/Neural-Nexus/docs/elliot003.md",
+      "tags": [],
       "type": "page"
     },
     {
@@ -660,6 +744,13 @@
       "id": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "title": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "elite_mindset",
+      "title": "How To Actually Have An Elite Mindset",
+      "file": "/home/hermes/Neural-Nexus/docs/elite_mindset.md",
       "tags": [],
       "type": "page"
     },
@@ -1002,8 +1093,8 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-12T07:41:44.755647",
-    "total_nodes": 91,
+    "generated": "2026-10-13T02:40:28.467344",
+    "total_nodes": 104,
     "total_edges": 40
   }
 }
