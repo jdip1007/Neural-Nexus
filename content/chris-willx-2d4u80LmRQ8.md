@@ -1,21 +1,21 @@
 ---
 title: Why Working Harder Won’t Make You Rich - Codie Sanchez
-created: 2026-09-19T21:31:55.997339
-updated: 2026-09-19T21:31:55.997355
+created: 2026-10-14T02:54:57.252138
+updated: 2026-10-14T02:54:57.252172
 type: video
 tags: ["youtube", "content-creation", "discussion", "youtube", "chris-willx", "video-derived"]
 sources: ["https://www.youtube.com/watch?v=2d4u80LmRQ8"]
 video_id: 2d4u80LmRQ8
 channel: Chris Willx
 duration: Unknown
-views: Unknown
+views: 239,832
 ---
 
 # Why Working Harder Won’t Make You Rich - Codie Sanchez
 
 ## Overview
 
-This video from Chris Willx explores various topics related to modern life, relationships, and personal development. With Unknown views and a duration of approximately Unknown seconds, this content offers insights and perspectives on contemporary issues.
+This video from Chris Willx explores various topics related to modern life, relationships, and personal development. With 239,832 views and a duration of approximately Unknown seconds, this content offers insights and perspectives on contemporary issues.
 
 ## Content Analysis
 

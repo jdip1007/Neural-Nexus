@@ -1,21 +1,21 @@
 ---
 title: Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello
-created: 2026-09-19T21:31:59.061689
-updated: 2026-09-19T21:31:59.061700
+created: 2026-10-14T02:54:59.346078
+updated: 2026-10-14T02:54:59.346095
 type: video
 tags: ["youtube", "content-creation", "discussion", "youtube", "chris-willx", "video-derived"]
 sources: ["https://www.youtube.com/watch?v=6qxPjHV0UDA"]
 video_id: 6qxPjHV0UDA
 channel: Chris Willx
 duration: Unknown
-views: Unknown
+views: 368,636
 ---
 
 # Why Sydney Sweeney Has Two Big Targets On Her Chest - William Costello
 
 ## Overview
 
-This video from Chris Willx explores various topics related to modern life, relationships, and personal development. With Unknown views and a duration of approximately Unknown seconds, this content offers insights and perspectives on contemporary issues.
+This video from Chris Willx explores various topics related to modern life, relationships, and personal development. With 368,636 views and a duration of approximately Unknown seconds, this content offers insights and perspectives on contemporary issues.
 
 ## Content Analysis
 

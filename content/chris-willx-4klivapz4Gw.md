@@ -1,21 +1,21 @@
 ---
 title: WW3 DEBATE: “We’re On the Brink of Global Collapse”
-created: 2026-09-19T21:31:57.510827
-updated: 2026-09-19T21:31:57.510844
+created: 2026-10-14T02:54:58.423251
+updated: 2026-10-14T02:54:58.423262
 type: video
 tags: ["youtube", "content-creation", "discussion", "youtube", "chris-willx", "video-derived"]
 sources: ["https://www.youtube.com/watch?v=4klivapz4Gw"]
 video_id: 4klivapz4Gw
 channel: Chris Willx
 duration: Unknown
-views: Unknown
+views: 1,610,039
 ---
 
 # WW3 DEBATE: “We’re On the Brink of Global Collapse”
 
 ## Overview
 
-This video from Chris Willx explores various topics related to modern life, relationships, and personal development. With Unknown views and a duration of approximately Unknown seconds, this content offers insights and perspectives on contemporary issues.
+This video from Chris Willx explores various topics related to modern life, relationships, and personal development. With 1,610,039 views and a duration of approximately Unknown seconds, this content offers insights and perspectives on contemporary issues.
 
 ## Content Analysis
 

@@ -1,21 +1,21 @@
 ---
-title: 4 Steps To Radically Transform Your Life - Dr Andrew Huberman
-created: 2026-09-19T21:37:44.104463
-updated: 2026-09-19T21:37:44.104474
+title: 4 Things You Must Do To Fix Your Life - Dr Andrew Huberman
+created: 2026-10-14T02:54:55.293535
+updated: 2026-10-14T02:54:55.293547
 type: video
 tags: ["youtube", "content-creation", "discussion", "youtube", "chris-willx", "video-derived"]
 sources: ["https://www.youtube.com/watch?v=fYyzlv1byOM"]
 video_id: fYyzlv1byOM
 channel: Chris Willx
 duration: Unknown
-views: Unknown
+views: 311,269
 ---
 
-# 4 Steps To Radically Transform Your Life - Dr Andrew Huberman
+# 4 Things You Must Do To Fix Your Life - Dr Andrew Huberman
 
 ## Overview
 
-This video from Chris Willx explores various topics related to modern life, relationships, and personal development. With Unknown views and a duration of approximately Unknown seconds, this content offers insights and perspectives on contemporary issues.
+This video from Chris Willx explores various topics related to modern life, relationships, and personal development. With 311,269 views and a duration of approximately Unknown seconds, this content offers insights and perspectives on contemporary issues.
 
 ## Content Analysis
 
