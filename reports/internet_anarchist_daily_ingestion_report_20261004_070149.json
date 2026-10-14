@@ -1,0 +1,54 @@
+{
+  "pipeline_execution": {
+    "channel_name": "Internet Anarchist",
+    "execution_time": "2026-10-04T07:01:49.747813",
+    "total_videos_available": 31,
+    "total_processed_videos": 5,
+    "total_unprocessed_videos": 31,
+    "videos_selected_for_processing": 5,
+    "successfully_processed": 5,
+    "failed_processing": 0
+  },
+  "processing_results": {
+    "success_rate": "100.0%",
+    "processed_videos": [
+      {
+        "video_id": "hEbd7mYCXBc",
+        "title": "Why Your Brain Is Strongest After You Nut",
+        "processed_at": "2026-10-04T07:01:47.744881"
+      },
+      {
+        "video_id": "nFY50H8nb5E",
+        "title": "Understanding Your Attachment Style",
+        "processed_at": "2026-10-04T07:01:48.245509"
+      },
+      {
+        "video_id": "L-gJ_Fo72-k",
+        "title": "Why You Need Constant Reassurance",
+        "processed_at": "2026-10-04T07:01:48.746347"
+      },
+      {
+        "video_id": "rjYnQL3PVYA",
+        "title": "The Science Behind Procrastination",
+        "processed_at": "2026-10-04T07:01:49.247087"
+      },
+      {
+        "video_id": "Mg9Tr3qLXks",
+        "title": "How to Build Confidence in Social Situations",
+        "processed_at": "2026-10-04T07:01:49.747806"
+      }
+    ],
+    "errors": []
+  },
+  "tracker_statistics": {
+    "total_processed": 5,
+    "channel_name": "Internet Anarchist",
+    "last_updated": "2026-10-04T07:01:49.747628"
+  },
+  "channel_overview": {
+    "channel_name": "Internet Anarchist",
+    "channel_id": "UC8yJ3v7l9eZ6w7p5x4o3k2g",
+    "total_channel_videos": "280",
+    "subscriber_count": "1.86M"
+  }
+}

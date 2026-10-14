@@ -1,0 +1,766 @@
+PERSPECTIVE
+published: 18 April 2022
+doi: 10.3389/fpsyt.2022.856084
+Edited by:
+Anders Nordahl-Hansen,
+Østfold University College, Norway
+Reviewed by:
+Marc Woodbury-Smith,
+Newcastle University, United Kingdom
+*Correspondence:
+Nicole Wolff
+nicole.wolff@uniklinikum-dresden.de
+Specialty section:
+This article was submitted to
+Child and Adolescent Psychiatry,
+a section of the journal
+Frontiers in Psychiatry
+Received: 16 January 2022
+Accepted: 02 March 2022
+Published: 18 April 2022
+Citation:
+Wolff N, Stroth S, Kamp-Becker I,
+Roepke S and Roessner V (2022)
+Autism Spectrum Disorder and IQ –
+A Complex Interplay.
+Front. Psychiatry 13:856084.
+doi: 10.3389/fpsyt.2022.856084
+Autism Spectrum Disorder and IQ – A
+Complex Interplay
+Nicole Wolff1*, Sanna Stroth2, Inge Kamp-Becker2, Stefan Roepke3 and Veit Roessner1
+1 Department of Child and Adolescent Psychiatry, Medical Faculty of the Technische Universität (TU) Dresden, Dresden,
+Germany, 2 Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, Philipps University
+of Marburg, Marburg, Germany, 3 Department of Psychiatry, Charité – Universitätsmedizin Berlin, Berlin, Germany
+Autism spectrum disorder (ASD) is characterized as a very heterogeneous child-onset
+disorder, whose heterogeneity is partly determined by differences in intelligence quotient
+(IQ). Older epidemiological studies suggested that the IQ-related spectrum tends to be
+skewed to the left, i.e., a larger proportion of individuals with ASD have below average
+intelligence, while only few individuals with ASD may have an IQ above average. This
+picture changed over time with broadening the spectrum view. Within the present
+perspective article, we discuss discrepancies in IQ proﬁles between epidemiological
+and clinical studies and identify potential underlying aspects, for example, the inﬂuence
+of external factors such as sample biases or differences in availability of autism
+health services. Additionally, we discuss the validity and reciprocal inﬂuences of ASD
+diagnostics and IQ measurement. We put the impact of these factors for diagnostic as
+well as care and support situations of patients into perspective and want to encourage
+further research to contribute to the conceptualization of “autism” more comprehensively
+including the IQ as well as to examine broader (life) circumstances, interacting factors
+and diagnostic requirements of given diagnoses in childhood as compared to adulthood.
+Keywords: autism spectrum disorder (ASD), ADOS, IQ, diagnostics, heterogeneity
+INTRODUCTION
+Autism spectrum disorder (ASD) is characterized as a very heterogeneous child-onset disorder.
+The clinical picture including the severity of the core deﬁcits of ASD varies signiﬁcantly among
+individuals leading to individually diﬀerent degrees of functional qualities in ASD as well as to
+diﬃculties in correctly recognizing and diagnosing ASD (1).
+One key aspect of the heterogeneity of ASD symptomatology appears to be the heterogeneity
+in intelligence quotient (IQ) (2). For example, Fombone (3) reported of 20 epidemiological
+studies of ASD, published from 1966 to 2001 and deduced that the median percentage of
+individuals with ASD and cognitive impairment (IQ < 70) ranged from 40 to 100% (mean
+70%). This indication is also in line with statements in the current German and British ASD
+diagnostic guidelines (4, 5). In the early 2000s another large epidemiological study reported
+that an IQ < 70 was observed in only 50% of children with ASD (6), while a more recent
+epidemiological study (7) reported a further decline toward an amount of 31% of children
+with ASD, that were classiﬁed in the range of cognitive impairment (IQ < 70). The latter
+study further reported that 25% of children with ASD were in the borderline range (IQ 71–
+85), and 44% had IQ scores in the average to above average range (IQ ≥85). Unfortunately,
+epidemiological studies report about their individuals with ASD with above average IQ less
+Frontiers in Psychiatry | www.frontiersin.org
+1
+April 2022 | Volume 13 | Article 856084
+Wolff et al.
+Diagnosing Autism – Challenges and Capabilities
+accurately or rather insuﬃciently, i.e., either oﬀer no information
+(8) or summarize the percentages of the group with mean and the
+group with above average IQ (7, 9). Compared to the accuracy
+of the presentation of IQ data in epidemiological samples, data
+in clinical studies are often even less precise. Nevertheless, one
+clinical study with slightly more precise information on IQ in
+ASD reported that 23% of the participants had an IQ < 85,
+while 45% had an average IQ, and 32% had an IQ above average
+(10). Another clinical study divided the children with ASD in a
+group with an IQ < 80 (32%, mean composite IQ of 66 ± 11)
+and IQ > 80 (68%, mean composite IQ of 99 ± 13) (11).
+These numbers deviate from those in epidemiological studies, as
+they report of substantially more individuals with above average
+IQ and fewer individuals with below average IQ including ID.
+Finally, we recently observed in a larger sample of patients, who
+presented in specialized outpatient clinics for ASD, a bimodal
+IQ distribution within ASD individuals [38.2% below average
+intelligence (i.e., IQ < 85), 40% with above average intelligence
+(IQ > 115) and 21.8% with an average intelligence (IQ between
+85 and 115), see Figure 1]. In addition, we could show that only
+a third of ASD individuals, included in these analyses, are on
+average under the age of ten when receiving their ASD diagnosis,
+while another third of ASD individuals are on average older than
+20 years when they received an ASD diagnosis. However, these
+cross-sectional clinical ﬁndings are observations, which require
+further clariﬁcation.
+To sum up this ﬁrst paragraph as one aspect of our perspective
+article, both, epidemiological and clinical data on the IQ
+distribution in ASD draw a picture in which the number of
+autistic individuals with intellectual disability seemed to have
+decreased from 70 to 50% down to 30% during the past 50 years.
+Why are we observing such a decline of individuals with ASD
+with intellectual disability across time?
+HETEROGENEITY AS EFFIGY OF AN
+ALTERED AUTISM SPECTRUM
+DISORDER TAXONOMY
+At ﬁrst, two diﬀerent conceptualizations of autism [see also
+descriptions of Kanner (12) and Asperger (13)] with diﬀerent
+prototypic functional qualities and cognitive abilities were
+described. Both contributed to our understanding of the autism
+spectrum today. Since then, several further descriptions and
+deﬁnitions of the disorder developed: The term “infantile autism”
+ﬁrst appeared as a diagnostic label in the Diagnostic and
+Statistical Manual of Mental Disorders, Third Edition (DSM-III,
+published in 1990). Diagnostic criteria for the Asperger syndrome
+and other subtypes [autistic disorder, Rett disorder, childhood
+disintegrative disorder, and pervasive developmental disorder
+not otherwise speciﬁed (PDD-NOS)] ﬁrst appeared in the DSM-
+IV (published in 1994). Based on the DSM-IV and years of
+research, the DSM-5 (published in 2013) now describes a shift
+away in taxonomy from the categorical approach with speciﬁc
+subtypes to the conceptualization of autism as a spectrum (ASD).
+This shift away from clearly separable speciﬁc subtypes occurred
+as the consequence of failure to describe the heterogeneity of
+autism in empirically deﬁned subcategories (14–16). Broadening
+of the autism concept was associated with a signiﬁcant increase
+in research of “high functioning autism” [a term used for ASD
+individuals with an IQ of ≥70, i.e., not IQ above average (17)],
+reﬂected by substantially more publications with this keyword
+compared to those on “low functioning autism” (18). With the
+assumption that ASD is a dimensional disorder, a continuum of
+ASD symptoms was conceptualized and “autistic traits” can be
+found and examined in any psychiatric or neurodevelopmental
+disorder as well as in individuals without any disorder (19).
+Altogether, this contributes to a steady increase in heterogeneity
+of ASD and may thus explain a potentially increase of reported
+autistic individuals with an average or above average IQ. In
+addition, since older compared to more recent epidemiological
+studies did not include individuals with Asperger syndrome, the
+mentioned discrepancies in IQ data for individuals with ASD
+may also be attributed to developments in taxonomy.
+A VARIEGATED PICTURE AS A
+CONSEQUENCE OF HETEROGENEITY
+IN AUTISM SPECTRUM DISORDER
+STUDIES (E.G., IN METHODS OR AIMS)
+AND CHANGES IN CARE SITUATION
+Interpreting and summarizing data on IQ distribution in ASD
+from epidemiological and clinical studies together appears
+diﬃcult due to several reasons. At ﬁrst, heterogeneous and
+sometimes insuﬃcient depth of detail of information limits
+interpretation and comparability. Further, diﬀerences in sex,
+ethnicity (7, 20), and age (21, 22) in epidemiological and clinical
+studies on ASD limit interpretation and comparability because
+IQ distribution varies by these factors. Also, the discrepancies of
+reported IQ distributions between epidemiological and clinical
+studies on ASD could be the consequence of referral biases
+resulting from a systematic selection of individuals, particularly
+those presenting themselves in tertiary-care centers for ASD due
+to higher severity of core symptoms, refractoriness to regular
+treatment, etc. (23–25). Similarly, the Berksonian bias as the
+higher mathematical chance to be referred (referral rate for
+disorder A+ referral rate for disorder B) further increases the
+diﬀerences between epidemiological and clinical samples (26).
+For example, a study from a German tertiary center reported
+that on average, parents visited 3.4 diﬀerent professionals until
+their child received an ASD diagnosis (27), resulting in a
+speciﬁc sample of individuals with ASD in tertiary centers
+due to an overrepresentation of children of parents who take
+on this long-lasting diagnostic process because their child is
+particularly severely impaired in daily functioning or suﬀers
+from very burdensome social interaction diﬃculties. In addition,
+in ASD a high persistence of symptoms (28) and only mild
+to moderate treatment eﬀects with partial symptom reduction
+(29) are common and this increases the search for help in
+tertiary centers. For the sake of completeness, it has to be
+generally stated that many clinical and/or experimental studies
+on ASD – as on other disorders – excluded individuals with an
+IQ < 70 due to compliance problems with the consequence of
+underrepresentation of this “ASD subgroup” [e.g., (30–32)].
+Frontiers in Psychiatry | www.frontiersin.org
+2
+April 2022 | Volume 13 | Article 856084
+Wolff et al.
+Diagnosing Autism – Challenges and Capabilities
+FIGURE 1 | Upper part: The IQ level distribution of the sample described in Wolff et al. (2022) as well as an exemplary norm sample. The y-axis shows percentages,
+and the x-axis shows the IQ values, summarized from IQ level 7 – 1 (left to right) according to the multiaxial system (20, 21). Lower part: N = number of included
+individuals per ADOS module and sub-cohort, a = Mean age of the included individuals in years. The IQ level distribution shows the categorization according to the
+psychiatric multiaxial schema (20, 21). Within this scheme, individuals can be categorized with respect to axis 3, “intellectual level” according to the following
+classiﬁcation: IQ level 1 = IQ > 129, IQ level 2 = IQ = 115 – 129, IQ level 3 = IQ = 85 – 114, IQ level 4 = IQ = 70 – 84, IQ level 5 = IQ = 50 – 69, IQ level 6 = IQ = 25 –
+49, IQ level 7 = IQ = 20 – 34, IQ level 8 (not depicted here, since we had no participants which are labeled with IQ level 8) = IQ < 20. We also show the IQ level
+distribution in a norming sample.
+Curiously, in the last years case constellations emerged, in
+which parents press for the diagnosis although their child is
+not severely impaired. At ﬁrst, receiving an ASD diagnosis may
+be seen as a chance to get faster, more and/or higher-quality
+medical and social support. Particularly children with intellectual
+disability could thereby receive better support (e.g., inclusion
+aids, support systems, school assistance, parent training as well
+as disadvantage compensation) than without an ASD diagnosis.
+Thus, it has to be considered that individuals who receive an
+ASD diagnosis may receive it instead of or in addition to another
+diagnosis, against better knowledge of the diagnosing expert,
+but for family support purposes (32). At second, ASD may be
+perceived as less stigmatizing than other psychiatric diagnoses,
+like intellectual disability or ADHD (27, 32, 33).
+Therefore, the broadening of the diagnostic concept of ASD,
+diﬀerences (in sample composition etc.) between ASD studies
+as well as changes of the care situation may explain the
+heterogeneity including the shift in IQ distribution over years (3).
+DIFFICULTIES IN TERMS OF VALIDITY:
+IQ MEASUREMENT, AUTISM SPECTRUM
+DISORDER MEASUREMENT AND THEIR
+INTERPLAY
+If these mentioned aspects were not already diﬃcult enough,
+problems in terms of the validity of IQ measurement and/or
+Frontiers in Psychiatry | www.frontiersin.org
+3
+April 2022 | Volume 13 | Article 856084
+Wolff et al.
+Diagnosing Autism – Challenges and Capabilities
+ASD diagnostics as well as the interplay between both further
+complicates interpretation and summary of data.
+There is consensus that intelligence (e.g., IQ > 70) is
+associated with better outcomes in life and should be optimally
+measured for clinical and scientiﬁc reasons with a well-
+established, standardized IQ test that – following the Cattell–
+Horn–Carroll theory – includes several subtests to measure as
+many of the broad abilities as possible (34). In individuals with
+ASD, such diﬀerentiated and full-scale IQ tests often show a
+heterogeneous picture with high values in some subtests and low
+ones in others [e.g., individuals with ASD often show decreased
+processing speed (35) but increased ﬂuid reasoning or visual
+spatial processing (36)]. Importantly, it is relevant which IQ
+test is applied. For example, tests that measure a general level
+of the IQ, like the Multiple-Choice Vocabulary (MCV) Test,
+seem to be less valid as compared to full-scale IQ tests, like
+Wechsler tests, since MCV tests are not suited to estimate the
+premorbid IQ level (37). Although a high IQ is generally not
+considered to be problematic, it could possibly not represent the
+individual’s “real” intelligence, because the IQ test records solely
+a speciﬁc insular talent of the individual with ASD or the full
+scale IQ may be biased by the selection of subtasks coincidentally
+matching with the individual’s insular talent. On the other
+hand, the result of the IQ test could also be underestimating,
+considering the fact that individuals have to perform often in
+restricted time spans, and could indicate that processing speed
+might be impaired. In addition, there is a large gap between
+IQ and adaptive behaviors in real life, suggesting that estimates
+of IQ “alone are an imprecise proxy for functional abilities
+when diagnosing autism spectrum disorder, particularly for those
+without intellectual disability” [(10), p. 221). Finally, most IQ
+tests have limited precision in particular groups, especially if
+individuals are severely impaired (38).
+Thus, one may even wonder whether the IQ is a meaningful
+construct to measure in ASD at all. Possibly, other abilities like
+“the quality of social communication” might be an approach
+to stratify ASD [see also the approach of Bishop et al. who
+propose that measuring diﬀerent types of social-communication
+impairments might be relevant for diﬀerential diagnosis in ASD
+(39)] or to diﬀerentiate between ASD and non-ASD.
+Considering the validity of ASD diagnostic instruments it has
+to be taken into account that intelligence has an inﬂuence on
+(a) the quality or quantity of symptoms shown by the individual
+(40) and/or (b) on the extent to which the person is able to
+understand and answer the questions and/or (c) to anticipate
+which behavior might be the (socially) desired in the respective
+situation. This leads up to the assumption, that knowledge
+of the IQ distribution of respective population samples is a
+prerequisite for the conception, evaluation and implementation
+of speciﬁc and valid diagnostic tools, therapeutic interventions
+as well as (experimental) research. Based on a previous ﬁnding,
+we further think that the inﬂuence of intelligence on existing
+and well established ASD diagnostic tools should be considered
+more explicitly. In this vein, we observed recently, that with
+respect to the cut-oﬀexceedance of the Autism Diagnostic
+Observation Schedule-2 [ADOS-2 (41)], individuals with below
+average IQ are signiﬁcantly over classiﬁed (=false positives),
+while individuals with above average IQ are signiﬁcantly under
+classiﬁed or misclassiﬁed (=false negatives) in regard to an ASD
+diagnosis [Wolﬀet al. (42)]. The misclassiﬁcation of individuals
+with above average IQ leads to further questions. Frequently
+it is argued, that these false negatives may be a result of the
+development of compensation strategies (39) also in combination
+with masking, both together called camouﬂaging (38). However,
+one can also question, whether ASD symptoms might change
+during development.
+HETEROGNEITY BECAUSE OF
+DEVELOPMENTAL TRAJECTORIES
+Only
+few
+studies
+(25,
+35–37)
+examined
+developmental
+trajectories in ASD longitudinally and to the best of our
+knowledge only one, analyzed both expert- and parent-report
+data (43) to assess whether and how ASD symptoms might
+change
+during
+development.
+The
+authors
+observed
+that
+developmental trajectories of children with ASD are described by
+both, continuity (expert data) and change (parent data). Within
+another longitudinal study on the ADOS (expert data) it was
+reported that in 80% of the investigated children their ASD core
+features were relatively stable over a period of 8–12 years across
+diﬀerent ages and levels of functioning (28); only in a small
+number of individuals with ASD symptom severity increased
+or decreased over time. Age, gender, race, and non-verbal IQ
+did not predict changes in symptom severity. Nonetheless,
+developmental trajectories of symptom severity and adaptive
+functioning are quite heterogeneous in ASD (44). They seem
+to depend on (a) the type of symptom (b) the intellectual level
+as well as (c) the age of the individual at the time of the initial
+diagnosis. For example, social interactions appear to be more
+prone to developmental changes than repetitive behaviors (45),
+but see Lord et al. (46) who observed that repetitive sensory
+motor behaviors in an intellectually able young child with ASD
+may have a diﬀerent meaning than the same behavior that persists
+in an older child with or without signiﬁcant delays. Hence, even
+severely impaired children may improve substantially, so
+that they may enter adolescence with severity scores that are
+comparable to high functioning children (47). In line with these
+studies, a more recent longitudinal study (48) reported that
+verbal adults with ASD showed signiﬁcant reductions in the
+prevalence of several symptoms exhibited during childhood. The
+authors concluded that improvements suggest that symptoms
+indicative of ASD in young children may no longer be diagnostic
+markers in adolescents and adults. However, they only reported
+results from the Autism Diagnostic Interview – Revised [ADI-R
+(49), parent data] conducted several times, which is a parents or
+caregiver report and may possibly be biased and less objective as
+compared to observations of externals/experts. In line with this
+assumption, studies that investigated parental reports (ADI-R
+data) showed some improvements in ASD behaviors, especially
+if the individuals are high-functioning (48, 50). Others add
+to this ﬁnding, that continuity in the expression of symptoms
+is higher when individuals are low functioning and that the
+ability to change (i.e., to improve) is higher when individuals
+Frontiers in Psychiatry | www.frontiersin.org
+4
+April 2022 | Volume 13 | Article 856084
+Wolff et al.
+Diagnosing Autism – Challenges and Capabilities
+are high-functioning. Further, parents (documented via the
+ADI-R) tend to see more improvements over the years of
+development than experts (documented via the ADOS). These
+deviations were explained by the suggestions that parents may
+(a) tend to remember their children as more impaired earlier
+and consequently to see more improvements over the years
+or (b) habituate to their children’s behavior (43). However,
+most individuals with ASD would be re-diagnosed if they
+were diagnosed between the ages of 2 and 5 and retested in
+adolescence/adulthood (43).
+PROFOUND DEVELOPMENTAL
+DISORDER AND DIAGNOSIS IN
+ADULTHOOD
+It is still a matter of debate whether individuals, who were
+seen in a psychiatric practice or specialized outpatient clinic
+during childhood and adolescence, may have been diagnosed
+correctly with another disorder, for example ADHD, at that time
+and later, e.g., in adulthood, with ASD. In this context, also
+the sample characteristic with or without suspicion of having
+ASD seems to be of importance and increases heterogeneity
+of study ﬁndings. Although both diagnoses could not be given
+concomitant for a long time, studies showed that about 80% of
+the children with ASD report ADHD related problems and vice
+versa (45, 46). Of course, disorder speciﬁc diagnostic instruments
+are designed to be sensitive and to detect the particular disorder,
+but (per deﬁnition) not another one. In addition, overarching test
+instruments (e.g., the CBCL) have also been observed to not be
+suitable for the identiﬁcation of ASD (51).
+In addition to the mentioned longitudinal studies on the
+course of ASD symptoms there are only few studies that focused
+on adults ﬁrst diagnosed with ASD. Most of them did not
+investigate if and when other or co-existing psychiatric diagnoses
+were given, i.e., in childhood or relatively shortly before the ASD
+diagnosis in adulthood. This is important in order to diﬀerentiate
+between a late emergence of any noticeable symptoms on the
+one hand versus misdiagnosis (i.e., ASD symptoms have not or
+not suﬃciently been detected) or overshadowing (i.e., ADHD
+has been diagnosed instead of the correct diagnosis ASD) on the
+other hand. A recent study showed – similarly to some earlier
+studies – that a majority of those with an adult autism diagnosis
+had no records of having received a diagnosis in childhood (84%
+of males and 91% of females) or adolescence (69% of males
+and 61% of females) (52). The authors concluded that in the
+majority, i.e., cases with no psychiatric diagnosis in childhood,
+the late ﬁrst diagnosis of ASD is unlikely to be explained by either
+misdiagnosis or overshadowing. This leads to the often raised
+question whether individuals ﬁrst diagnosed with ASD and IQ
+above average as late as in adulthood diﬀer substantially from
+individuals with a “prototypical” ASD diagnosis as a child-onset
+condition and profound developmental disorder (53).
+To date, we do not know whether or not late diagnosed
+individuals with ASD are developmentally, phenomenologically,
+and biologically distinct from individuals diagnosed in childhood
+(52). From our perspective, two topics are worthy of further
+investigation in this context:
+1. It is relevant to foster the development of more valid and
+more appropriate ASD diagnostic tools as well as external
+assessments in adult individuals with suspected ASD (48)
+especially if they have an additional intellectual disability.
+For example, as the standard behavioral observation
+diagnostic instrument [ADOS-2, Lord et al. (41)] for ASD
+has no appropriate module for adolescents and adults
+with intellectual disability, there is a strong need to (a)
+develop further valid and sensitive diagnostic instruments
+like the Diagnostic Behavioral Assessment for Autism
+Spectrum disorders-Revised [DiBAS-R (54, 55)] and (b) to
+recommend the application of these tools in individuals
+with intellectual disability in diagnostic guidelines.
+2. Simultaneously, for adult individuals with an IQ above
+average and suspected ASD, better compensation strategies
+are assumed biasing the results of existing ASD diagnostic
+instruments. For example, they might be less prone to the
+situations created by the ADOS to detect ASD symptoms.
+Hence, more research is needed to (a) identify those
+symptoms which optimally discriminate between ASD and
+non-ASD cases and subsequently (b) to develop more
+sensitive diagnostic tools for this adult group. Hence,
+further research is needed whether adults with an above
+average IQ and symptoms of ASD should receive the
+diagnosis of ASD or rather another one, like for example,
+a personality disorder (as initially suggested by Asperger)?
+In summary, the assumed interactions between age, IQ and
+ASD diagnosis are doubtless very complex resulting in the
+heterogeneity of individuals with ASD. This has the consequence
+that both sample characterization in studies and individual
+diagnostics is very challenging, and this in turn limits the
+interpretability and replicability of study results. In this context,
+we question with this perspective article whether existing ASD
+gold standard diagnostic tools were designed and validated
+for use in all these heterogeneous groups (particularly due to
+IQ). Therefore, a lot of research should be initiated (56) to
+develop, evaluate and implement ASD- symptomatology-, age-
+and IQ-related subtypes. This might help to grasp heterogeneity
+in order to increase validity and sensitivity of diagnostic
+instruments. This will only be possible with more longitudinal
+studies following large enough numbers of individuals with
+(suspected) ASD without IQ related in- or exclusion criteria;
+use of advanced technologies like machine learning to identity
+subtypes of ASD; identiﬁcation of mechanisms of symptom
+change to develop personalized, evidence-based assessments
+and interventions.
+DATA AVAILABILITY STATEMENT
+The data analyzed in this study is subject to the following
+licenses/restrictions: Restrictions apply to the availability of
+the data (presented in Figure 1), which were used under
+license for the current study, and so are not publicly available.
+Requests to access these datasets should be directed to the NW,
+nicole.wolﬀ@uniklinikum-dresden.de.
+Frontiers in Psychiatry | www.frontiersin.org
+5
+April 2022 | Volume 13 | Article 856084
+Wolff et al.
+Diagnosing Autism – Challenges and Capabilities
+ETHICS STATEMENT
+The studies involving human participants were reviewed and
+approved by the local Ethics Committee (Az. 92/20). Written
+informed consent from the participants’ legal guardian/next of
+kin was not required to participate in this study in accordance
+with the National Legislation and the Institutional Requirements.
+AUTHOR CONTRIBUTIONS
+NW executed the study idea, prepared and analyzed the data,
+wrote the ﬁrst draft of the manuscript, and incorporated the
+comments and remarks from the coauthors. SS, IK-B, and SR
+reviewed the manuscript, added comments, and rewrote parts
+of the manuscript. VR collaborated in all stages of the editing
+process of the ﬁnal manuscript, added comments, and reviewed
+the manuscript from the ﬁrst to the ﬁnal draft. All authors
+contributed to the article and approved the submitted version.
+FUNDING
+This work was funded by the German Federal Ministry
+of Education and Research (BMBF, grant number: FKZ
+01EE1409B). Funding period: 2015–2021.
+REFERENCES
+1. Johnson CP, Myers SM, Council on Children With Disabilities. Identiﬁcation
+and evaluation of children with autism spectrum disorders. Pediatrics. (2007)
+120:1183–215.
+2. Munson J, Dawson G, Sterling L, Beauchaine T, Zhou A, Koehler E, et al.
+Evidence for latent classes of IQ in young children with autism spectrum
+disorder. Am J Ment Retard. (2008) 113:439–52. doi: 10.1352/2008.113:439-
+452
+3. Fombonne E. Epidemiological surveys of autism and other pervasive
+developmental disorders: an update. J Autism Dev Disord. (2003) 33:365–82.
+doi: 10.1023/a:1025054610557
+4. Arbeitsgemeinschaft
+der
+Wissenschaftlichen
+Medizinischen
+Fachgesellschaften
+[AWMF].
+Ständige
+Kommission
+Leitlinien.
+S3-
+Leitlinie:
+Autismus-Spektrum-Störungen
+im
+Kindes-,
+Jugend-
+und
+Erwachsenenalter – Teil 1: Diagnostik. (2016). Available Online at:
+https://www.awmf.org/leitlinien/detail/ll/028-018.html
+5. Crowe BH, Salt AT. Autism: the management and support of children and
+young people on the autism spectrum (NICE Clinical Guideline 170). Arch Dis
+Childh Educ Pract. (2015) 100:20–3. doi: 10.1136/archdischild-2013-305468
+6. Centers for Disease Control and Prevention [CDC]. Prevalence of autism
+spectrum
+disorders–autism
+and
+developmental
+disabilities
+monitoring
+network, 14 sites, United States, 2002. MMWR Surveill Summ. (2007) 56:12–
+28.
+7. Baio J, Wiggins L, Christensen DL, Maenner MJ, Daniels J, Warren Z, et al.
+Prevalence of autism spectrum disorder among children aged 8 years – autism
+and developmental disabilities monitoring network, 11 sites, United States,
+2014. MMWR Surveill Summ. (2018) 67:1. doi: 10.15585/mmwr.ss6706a1
+8. Baird G, SimonoﬀE, Pickles A, Chandler S, Loucas T, Meldrum D, et al.
+Prevalence of disorders of the autism spectrum in a population cohort of
+children in South Thames: the Special Needs and Autism Project (SNAP).
+Lancet. (2006) 368:210–5. doi: 10.1016/S0140-6736(06)69041-7
+9. Maenner MJ, Shaw KA, Baio J. Prevalence of autism spectrum disorder among
+children aged 8 years – autism and developmental disabilities monitoring
+network, 11 sites, United States, 2016. MMWR Surveill Summ. (2020) 69:1–12.
+doi: 10.15585/mmwr.ss6904a1
+10. Rommelse N, Langerak I, Van Der Meer J, De Bruijn Y, Staal W, Oerlemans
+A, et al. Intelligence may moderate the cognitive proﬁle of patients
+with ASD. PLoS One. (2015) 10:e0138698. doi: 10.1371/journal.pone.013
+8698
+11. Mayes SD, Calhoun SL. Analysis of WISC-III, Stanford-Binet:IV, and academic
+achievement test scores in children with autism. J Autism Dev Disord. (2003)
+33:329–41. doi: 10.1023/A:1024462719081
+12. Kanner L. Autistic disturbances of aﬀective contact. Nervous Child. (1943)
+2:217–50.
+13. Asperger H. Die “Autistischen psychopathen” im kindesalter [The “Autistic
+Psychopaths” in Childhood]. Arch Psychiatr Nervenkr. (1944) 117:76–136.
+doi: 10.1007/BF01837709
+14. Rosen NE, Lord C, Volkmar FR. The diagnosis of autism: from Kanner to
+DSM-III to DSM-5 and beyond. J Autism Dev Disord. (2021) 51:4253–70.
+doi: 10.1007/s10803-021-04904-1
+15. Charman T, Jones CR, Pickles A, SimonoﬀE, Baird G, Happé F. Deﬁning the
+cognitive phenotype of autism. Brain Res. (2011) 1380:10–21. doi: 10.1016/j.
+brainres.2010.10.075
+16. Georgiades S, Szatmari P, Boyle M, Hanna S, Duku E, Zwaigenbaum L,
+et al. Investigating phenotypic heterogeneity in children with autism spectrum
+disorder: a factor mixture modeling approach. J Child Psychol Psychiatry.
+(2013) 54:206–15. doi: 10.1111/j.1469-7610.2012.02588.x
+17. Duncan AW, Bishop SL. Understanding the gap between cognitive
+abilities and daily living skills in adolescents with autism spectrum
+disorders with average intelligence. Autism. (2015) 19:64–72. doi: 10.1177/
+1362361313510068
+18. Alvares GA, Bebbington K, Cleary D, Evans K, Glasson EJ, Maybery MT,
+et al. The misnomer of ‘high functioning autism’: intelligence is an imprecise
+predictor of functional abilities at diagnosis. Autism. (2020) 24:221–32. doi:
+10.1177/1362361319852831
+19. Mottron L, Bzdok D. Autism spectrum heterogeneity: fact or artifact? Mol
+Psychiatry. (2020) 25:3178–85. doi: 10.1038/s41380-020-0748-y
+20. McQuaid GA, Pelphrey KA, Bookheimer SY, Dapretto M, Webb SJ, Bernier
+RA, et al. The gap between IQ and adaptive functioning in autism
+spectrum disorder: disentangling diagnostic and sex diﬀerences. Autism.
+(2021) 25:1565–79. doi: 10.1177/1362361321995620
+21. Schatz J, Hamdan-Allen G. Eﬀects of age and IQ on adaptive behavior domains
+for children with autism. J Autism Dev Disord. (1995) 25:51–60. doi: 10.1007/
+BF02178167
+22. Dickerson
+Mayes
+S,
+Calhoun
+S.
+Ability
+proﬁles
+in
+children
+with
+autism:
+inﬂuence
+of
+age
+and
+IQ.
+Autism.
+(2003)
+6:65–80.
+doi:
+10.1177/1362361303007001006
+23. Begeer S, Bouk SE, Boussaid W, Terwogt MM, Koot HM. Underdiagnosis
+and referral bias of autism in ethnic minorities. J Autism Dev Disord. (2009)
+39:142–8. doi: 10.1007/s10803-008-0611-5
+24. Dababnah S, Shaia WE, Campion K, Nichols HM. “We had to keep pushing”:
+caregivers’ perspectives on autism screening and referral practices of black
+children in primary care. Intellect Dev Disabil. (2018) 56:321–36. doi: 10.1352/
+1934-9556-56.5.321
+25. Ming X, Hashim A, Fleishman S, West T, Kang N, Chen X, et al. Access to
+specialty care in autism spectrum disorders-a pilot study of referral source.
+BMC Health Serv Res. (2011) 11:99. doi: 10.1186/1472-6963-11-99
+26. Westreich D. Berkson’s bias, selection bias, and missing data. Epidemiology.
+(2012) 23:159–64. doi: 10.1097/EDE.0b013e31823b6296
+27. Höfer J, Hoﬀmann F, Kamp-Becker I, Poustka L, Roessner V, Stroth S, et al.
+Pathways to a diagnosis of autism spectrum disorder in Germany: a survey
+of parents. Child Adolesc Psychiatry Ment Health. (2019) 13:16. doi: 10.1186/
+s13034-019-0276-1
+28. Gotham K, Pickles A, Lord C. Trajectories of autism severity in children
+using standardized ADOS scores. Pediatrics. (2012) 130:e1278–84. doi: 10.
+1542/peds.2011-3668
+29. Sharma SR, Gonda X, Tarazi FI. Autism spectrum disorder: classiﬁcation,
+diagnosis and therapy. Pharmacol Ther. (2018) 190:91–104. doi: 10.1016/j.
+pharmthera.2018.05.007
+30. Carotenuto
+M,
+Ruberto
+M,
+Fontana
+ML,
+Catania
+A,
+Misuraca
+E,
+Precenzano F, et al. Executive functioning in autism spectrum disorders:
+Frontiers in Psychiatry | www.frontiersin.org
+6
+April 2022 | Volume 13 | Article 856084
+Wolff et al.
+Diagnosing Autism – Challenges and Capabilities
+a case-control study in preschool children. Curr Pediatric Res. (2019)
+23:112–6.
+31. Rutherford MD, Baron-Cohen S, Wheelwright S. Reading the mind in the
+voice: a study with normal adults and adults with Asperger syndrome and high
+functioning autism. J Autism Dev Disord. (2002) 32:189–94. doi: 10.1023/a:
+1015497629971
+32. Bachmann CJ, Gerste B, Hoﬀmann F. Diagnoses of autism spectrum disorders
+in Germany: time trends in administrative prevalence and diagnostic stability.
+Autism. (2018) 22:283–90. doi: 10.1177/1362361316673977
+33. Durand-Zaleski I, Scott J, Rouillon F, Leboyer M. A ﬁrst national survey of
+knowledge, attitudes and behaviours towards schizophrenia, bipolar disorders
+and autism in France. BMC Psychiatry. (2012) 12:128. doi: 10.1186/1471-
+244X-12-128
+34. Sternberg RJ. Intelligence. Wiley Interdiscip Rev Cogn Sci. (2012) 3:501–11.
+doi: 10.1002/wcs.1193
+35. Oliveras-Rentas RE, Kenworthy L, Roberson RB, Martin A, Wallace GL.
+WISC-IV proﬁle in high-functioning autism spectrum disorders: impaired
+processing speed is associated with increased autism communication
+symptoms and decreased adaptive communication abilities. J Autism Dev
+Disord. (2012) 42:655–64. doi: 10.1007/s10803-011-1289-7
+36. Muth A, Hönekopp J, Falter CM. Visuo-spatial performance in autism: a meta-
+analysis. J Autism Dev Disord. (2014) 44:3245–63. doi: 10.1007/s10803-014-
+2188-5
+37. Binkau S, Berwig M, Jänichen J, Gertz H-J. Is the MWT-A suitable for the
+estimation of premorbid intelligence level? testing on a consecutive sample
+from a specialized outpatient clinic for dementia. Geropsych. (2014) 27:33–9.
+doi: 10.1024/1662-9647/a000098
+38. Sansone SM, Schneider A, Bickel E, Berry-Kravis E, Prescott C, Hessl D.
+Improving IQ measurement in intellectual disabilities using true deviation
+from population norms. J Neurodev Disord. (2014) 6:1–15. doi: 10.1186/1866-
+1955-6-16
+39. Bishop SL, Havdahl KA, Huerta M, Lord C. Subdimensions of social-
+communication impairment in autism spectrum disorder. J Child Psychol
+Psychiatry. (2016) 57:909–16. doi: 10.1111/jcpp.12510
+40. Johnson CN, Ramphal B, Koe E, Raudales A, Goldsmith J, Margolis AE.
+Cognitive correlates of autism spectrum disorder symptoms. Autism Res.
+(2021) 14:2405–11. doi: 10.1002/aur.2577
+41. Lord C, Rutter M, DiLavore P, Risi S, Gotham K, Bishop S. Autism Diagnostic
+Observation Schedule. 2nd ed. Los Angeles, CA: Western Psychological
+Corporation (2012). p. 284.
+42. WolﬀN, Eberlein M, Stroth S, Poustka L, Roepke S, Kamp-Becker I, et al.
+Abilities and disabilities–applying machine learning to disentangle the role of
+intelligence in diagnosing autism spectrum disorders. Front Psychiatry. (2022)
+13:826043. doi: 10.3389/fpsyt.2022.826043
+43. McGovern CW, Sigman M. Continuity and change from early childhood to
+adolescence in autism. J Child Psychol Psychiatry. (2005) 46:401–8. doi: 10.
+1111/j.1469-7610.2004.00361.x
+44. Riglin L, Leppert B, Langley K, Thapar AK, O’Donovan MC, Davey Smith
+G, et al. Investigating attention-deﬁcit hyperactivity disorder and autism
+spectrum disorder traits in the general population: what happens in adult life?
+J Child Psychol Psychiatry. (2021) 62:449–57. doi: 10.1111/jcpp.13297
+45. Hofvander B, Delorme R, Chaste P, Nydén A, Wentz E, Ståhlberg O, et al.
+Psychiatric and psychosocial problems in adults with normal-intelligence
+autism spectrum disorders. BMC Psychiatry. (2009) 9:35. doi: 10.1186/1471-
+244X-9-35
+46. Ehlers S, Gillberg C. The epidemiology of Asperger syndrome: a total
+population study. J Child Psychol Psychiatry. (1993) 34:1327–50. doi: 10.1111/
+j.1469-7610.1993.tb02094.x
+47. Fountain C, Winter AS, Bearman PS. Six developmental trajectories
+characterize children with autism. Pediatrics. (2012) 129:e1112–20. doi: 10.
+1542/peds.2011-1601
+48. Bal VH, Kim S-H, Fok M, Lord C. Autism spectrum disorder symptoms from
+ages 2 to 19 years: implications for diagnosing adolescents and young adults.
+Autism Res. (2019) 12:89–99. doi: 10.1002/aur.2004
+49. Lord C, Rutter M, Le Couteur A. Autism diagnostic interview-revised: a
+revised version of a diagnostic interview for caregivers of individuals with
+possible pervasive developmental disorders. J Autism Dev Disord. (1994)
+24:659–85. doi: 10.1007/BF02172145
+50. Shattuck PT, Seltzer MM, Greenberg JS, Orsmond GI, Bolt D, Kring
+S,
+et
+al.
+Change
+in
+autism
+symptoms
+and
+maladaptive
+behaviors
+in
+adolescents
+and
+adults
+with
+an
+autism
+spectrum
+disorder.
+J
+Autism
+Dev
+Disord.
+(2007)
+37:1735–47.
+doi:
+10.1007/s10803-006-0
+307-7
+51. Hoﬀmann W, Weber L, König U, Becker K, Kamp-Becker I. The role of
+the CBCL in the assessment of autism spectrum disorders: an evaluation of
+symptom proﬁles and screening characteristics. Res Autism Spectr Disord.
+(2016) 27:44–53. doi: 10.1016/j.rasd.2016.04.002
+52. Rødgaard E-M, Jensen K, Miskowiak KW, Mottron L. Childhood diagnoses
+in individuals identiﬁed as autistics in adulthood. Mol Autism. (2021) 12:73.
+doi: 10.1186/s13229-021-00478-y
+53. Gotham K, Risi S, Pickles A, Lord C. The autism diagnostic observation
+schedule: revised algorithms for improved diagnostic validity. J Autism Dev
+Disord. (2007) 37:613–27. doi: 10.1007/s10803-006-0280-1
+54. Sappok T, Diefenbacher A, Budczies J, Schade C, Grubich C, Bergmann T, et al.
+Diagnosing autism in a clinical sample of adults with intellectual disabilities:
+how useful are the ADOS and the ADI-R? Res Dev Disabil. (2013) 34:1642–55.
+doi: 10.1016/j.ridd.2013.01.028
+55. Sappok T. DiBAS-R validation. In: Volkmar FR editor. Encyclopedia of Autism
+Spectrum Disorders. Heidelberg: Springer (2020). p. 1–3. doi: 10.1007/978-1-
+4614-6435-8_102495-1
+56. Fombonne E. Camouﬂage and autism. J Child Psychol Psychiatry. (2020)
+61:735–8. doi: 10.1111/jcpp.13296
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+Publisher’s Note: All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their aﬃliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated in
+this article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Copyright © 2022 Wolﬀ, Stroth, Kamp-Becker, Roepke and Roessner. This is an
+open-access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in other forums is permitted,
+provided the original author(s) and the copyright owner(s) are credited and that the
+original publication in this journal is cited, in accordance with accepted academic
+practice. No use, distribution or reproduction is permitted which does not comply
+with these terms.
+Frontiers in Psychiatry | www.frontiersin.org
+7
+April 2022 | Volume 13 | Article 856084

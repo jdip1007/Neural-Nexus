@@ -1,101 +1,35 @@
 {
-  "processed_videos": [
-    {
-      "id": "test1",
-      "title": "Test Video 1",
-      "url": "https://youtube.com/watch?v=test1",
-      "processed_at": "2026-08-18T16:39:00.949749"
+  "processed_videos": {
+    "SR8ESCmUYLY": {
+      "title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
+      "url": "https://www.youtube.com/watch?v=SR8ESCmUYLY",
+      "processed_at": "2026-10-13T07:47:41.613543Z",
+      "status": "processed"
     },
-    {
-      "id": "YV7xNa3QO0c",
-      "title": "2:06:15",
-      "url": "https://www.youtube.com/watch?v=YV7xNa3QO0c",
-      "processed_at": "2026-08-19T08:44:57.022949",
-      "page_filename": "youtube-YV7xNa3QO0c-2-06-15.md",
-      "content_hash": "9e38964873166a5d509650e1ab5703dc42edc173a24c2dcc552fd60f291d1ec0",
-      "status": "placeholder"
+    "OG91c7xsNMc": {
+      "title": "The Challenge: Can we build Notepad in 3K in assembly language?",
+      "url": "https://www.youtube.com/watch?v=OG91c7xsNMc",
+      "processed_at": "2026-10-13T07:47:42.614460Z",
+      "status": "processed"
     },
-    {
-      "id": "ka2GKBfviic",
-      "title": "Hunter Biden, Matt McCusker & Duncan Trussell - Mostly Wise #2",
-      "url": "https://www.youtube.com/watch?v=ka2GKBfviic",
-      "processed_at": "2026-08-19T08:44:57.023115",
-      "page_filename": "youtube-ka2GKBfviic-hunter-biden,-matt-mccusker-&-duncan-trussell-mostly-wise-#2.md",
-      "content_hash": "b7af50ead92c7ae07ce4747fa2769f34edac9f925e340db5e3f00fdbbe483492",
-      "status": "placeholder"
+    "7vzjIv2l6wY": {
+      "title": "Ethernet Explained so well that even YOU can Understand it!",
+      "url": "https://www.youtube.com/watch?v=7vzjIv2l6wY",
+      "processed_at": "2026-10-13T07:47:43.615474Z",
+      "status": "processed"
     },
-    {
-      "id": "gAxNYd01I6E",
-      "title": "“We're At The Beginning Of A Revolution” - Jimmy Carr",
-      "url": "https://www.youtube.com/watch?v=gAxNYd01I6E",
-      "processed_at": "2026-08-19T08:44:57.023314",
-      "page_filename": "youtube-gAxNYd01I6E-“were-at-the-beginning-of-a-revolution”-jimmy-carr.md",
-      "content_hash": "2fd94e63f087eb0e7e5d644d890a7bec9e7e1fb1cdd719c752684402f39897c2",
-      "status": "placeholder"
+    "hRhBuHJ-j_o": {
+      "title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
+      "url": "https://www.youtube.com/watch?v=hRhBuHJ-j_o",
+      "processed_at": "2026-10-13T07:47:44.616232Z",
+      "status": "processed"
     },
-    {
-      "id": "mSjaMyP5QjY",
-      "title": "AI DEBATE: What Will the World Actually Look Like in 2040?",
-      "url": "https://www.youtube.com/watch?v=mSjaMyP5QjY",
-      "processed_at": "2026-08-19T08:44:57.023469",
-      "page_filename": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?.md",
-      "content_hash": "67ce5a5352e47bacf5d1f7e7fbf2c63a898661cce9c75b336f2a128ec17904f8",
-      "status": "placeholder"
-    },
-    {
-      "id": "-5epM9WG95g",
-      "title": "Why Do Female Teachers Sleep With Students?",
-      "url": "https://www.youtube.com/watch?v=-5epM9WG95g",
-      "processed_at": "2026-08-19T08:44:57.023752",
-      "page_filename": "youtube--5epM9WG95g-why-do-female-teachers-sleep-with-students?.md",
-      "content_hash": "fd0af8df1110430dc86ee0c28c08e3017f73d372041e8bd6e4a92136c9f496d1",
-      "status": "placeholder"
-    },
-    {
-      "id": "dave_garage_002",
-      "title": "The Complete Guide to Home Automation Systems",
-      "url": "https://www.youtube.com/watch?v=dave_garage_002",
-      "page_filename": "youtube-dave_garage_002-the-complete-guide-to-home-automation-systems.md",
-      "content_hash": "caa932a725c195f64be11d5f2680a2487c29cff3acc9949a07e81a9a4a6374c1",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.518477"
-    },
-    {
-      "id": "dave_garage_003",
-      "title": "DIY Smart Mirror: Building Your Own Assistant",
-      "url": "https://www.youtube.com/watch?v=dave_garage_003",
-      "page_filename": "youtube-dave_garage_003-diy-smart-mirror-building-your-own-assistant.md",
-      "content_hash": "203595e82c2a0875b398677c264130b1cf0f6fce0170b71762a176283b630486",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.519591"
-    },
-    {
-      "id": "dave_garage_001",
-      "title": "Building a Custom Electric Vehicle from Scratch",
-      "url": "https://www.youtube.com/watch?v=dave_garage_001",
-      "page_filename": "youtube-dave_garage_001-building-a-custom-electric-vehicle-from-scratch.md",
-      "content_hash": "9850c0026720fdf60725878ead24aa5532de62654ba6c11b3fba9f3ba78c2ddd",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.520692"
-    },
-    {
-      "id": "dave_garage_006",
-      "title": "Arduino vs Raspberry Pi: Which is Better?",
-      "url": "https://www.youtube.com/watch?v=dave_garage_006",
-      "page_filename": "youtube-dave_garage_006-arduino-vs-raspberry-pi-which-is-better.md",
-      "content_hash": "ad9eb30911fa647f3109cfa53c3dfd6daefc91c1ccaf458d6181647a810c73e1",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.521769"
-    },
-    {
-      "id": "dave_garage_005",
-      "title": "Solar Power System for Your Workshop",
-      "url": "https://www.youtube.com/watch?v=dave_garage_005",
-      "page_filename": "youtube-dave_garage_005-solar-power-system-for-your-workshop.md",
-      "content_hash": "3ac198d3d5a6f97edb1588e9e57d71f80a78bc3a362bd6611f1bbd4b600ac50c",
-      "status": "processed",
-      "processed_at": "2026-08-25T17:28:39.522684"
+    "kLcpCqLwNU8": {
+      "title": "The Challenge: Building a Custom Electric Vehicle",
+      "url": "https://www.youtube.com/watch?v=kLcpCqLwNU8",
+      "processed_at": "2026-10-13T07:47:45.617159Z",
+      "status": "processed"
     }
-  ],
-  "last_updated": "2026-08-25T17:28:39.522688"
+  },
+  "last_updated": "2026-10-13T07:47:45.617174Z"
 }

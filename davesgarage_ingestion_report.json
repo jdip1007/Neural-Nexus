@@ -1,0 +1,18 @@
+{
+  "channel": "Dave's Garage",
+  "processed_date": "2026-10-04 04:59:57",
+  "videos_found": 15,
+  "videos_processed": 5,
+  "videos_already_processed": 5,
+  "success_count": 5,
+  "failure_count": 0,
+  "errors": [],
+  "processed_files": [
+    "/home/hermes/Neural-Nexus/docs/videos/davesgarage/RGB_LED_LINCOLN_CONTINENTAL_The-Secret-RGB-LED-Features-I-Hid-in-this-1970-Lincoln-Continental-Mark-III.md",
+    "/home/hermes/Neural-Nexus/docs/videos/davesgarage/WHY_COMPUTER_SLOW_TMOG_Why-Your-Computer-Is-Slow-Task-Manager-Cant-Tell-You-but-TMOG-can.md",
+    "/home/hermes/Neural-Nexus/docs/videos/davesgarage/TCP_VS_UDP_EXPLAINED_Reliable-Isnt-Always-Better-TCP-vs-UDP.md",
+    "/home/hermes/Neural-Nexus/docs/videos/davesgarage/FLOCK_CAMERAS_BREAKDOWN_The-Controversial-Flock-Cameras-Tracking-Every-Car-Full-Breakdown.md",
+    "/home/hermes/Neural-Nexus/docs/videos/davesgarage/AI_AGENT_SCARY_STORY_As-a-Microsoft-Engineer-This-Is-the-AI-Agent-Story-That-Scared-Me.md"
+  ],
+  "new_pages_created": 5
+}
