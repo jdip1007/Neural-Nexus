@@ -15,7 +15,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/ingestion")
-from video_tracker import VideoTracker, generate_summary_report
+from video_tracker import VideoTracker
 
 
 class DailyChannelIngestion:
@@ -68,15 +68,19 @@ class DailyChannelIngestion:
     
     def apply_duplicate_detection(self, all_videos: List[Dict]) -> List[Dict]:
         """Apply duplicate detection to avoid re-processing videos."""
-        unprocessed_videos = self.tracker.get_unprocessed_videos(all_videos)
+        video_urls = [video["url"] for video in all_videos]
+        unprocessed_urls = self.tracker.get_unprocessed_videos(video_urls)
+        unprocessed_videos = [video for video in all_videos if video["url"] in unprocessed_urls]
         print(f"After duplicate detection: {len(unprocessed_videos)} unprocessed videos")
         return unprocessed_videos
     
     def select_random_videos(self, unprocessed_videos: List[Dict], count: int = 3) -> List[Dict]:
         """Randomly select videos for processing."""
-        selected = self.tracker.select_random_videos(unprocessed_videos, count)
-        print(f"Selected {len(selected)} videos for processing")
-        return selected
+        video_urls = [video["url"] for video in unprocessed_videos]
+        selected_urls = self.tracker.select_random_unprocessed(video_urls, count)
+        selected_videos = [video for video in unprocessed_videos if video["url"] in selected_urls]
+        print(f"Selected {len(selected_videos)} videos for processing")
+        return selected_videos
     
     def process_video(self, video: Dict) -> bool:
         """Process a single video through the ingestion pipeline."""
@@ -84,18 +88,10 @@ class DailyChannelIngestion:
         
         try:
             # Add video to tracker
-            success = self.tracker.add_processed_video(
-                video["id"], 
-                video["title"], 
-                video["url"]
-            )
+            self.tracker.mark_processed(video["url"], {"title": video["title"], "id": video["id"]})
             
-            if success:
-                print(f"✓ Successfully processed: {video['title']}")
-                return True
-            else:
-                print(f"⚠ Video already processed: {video['title']}")
-                return False
+            print(f"✓ Successfully processed: {video['title']}")
+            return True
                 
         except Exception as e:
             print(f"✗ Error processing video {video['title']}: {str(e)}")
@@ -114,7 +110,28 @@ class DailyChannelIngestion:
     
     def generate_report(self, all_videos: List[Dict], selected_videos: List[Dict]) -> str:
         """Generate ingestion report."""
-        return generate_summary_report(self.tracker, all_videos, selected_videos)
+        stats = self.tracker.get_processing_stats()
+        
+        report = f"""
+=== Daily Channel Ingestion Report ===
+Channel: {self.channel_name}
+Date: {time.strftime('%Y-%m-%d %H:%M:%S')}
+
+Processing Statistics:
+- Total videos processed: {stats['total_processed']}
+- Last cleanup: {stats['last_cleanup']}
+
+Video Summary:
+- Total videos found: {len(all_videos)}
+- Videos processed today: {len(selected_videos)}
+
+Processed Videos:
+"""
+        
+        for video in selected_videos:
+            report += f"- {video['title']} ({video['url']})\n"
+        
+        return report
     
     def run_daily_ingestion(self, video_count: int = 3):
         """Run the daily ingestion process."""

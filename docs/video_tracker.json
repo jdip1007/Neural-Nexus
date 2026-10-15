@@ -29,7 +29,79 @@
       "url": "https://www.youtube.com/watch?v=kLcpCqLwNU8",
       "processed_at": "2026-10-13T07:47:45.617159Z",
       "status": "processed"
+    },
+    "RdmYUULKf7s": {
+      "title": "Why Normal Life Feels So Boring",
+      "processed_date": "2026-10-15T16:02:29.626603",
+      "status": "completed"
+    },
+    "_4x0fRO6w5M": {
+      "title": "Why Sensitive People Get Traumatized So Easily",
+      "processed_date": "2026-10-15T16:02:30.628000",
+      "status": "completed"
+    },
+    "2MwTDoT8XjY": {
+      "title": "Why 40% Of Young Men Need Erectile Retraining",
+      "processed_date": "2026-10-15T16:02:31.629308",
+      "status": "completed"
+    },
+    "7MykFJ7TByM": {
+      "title": "Analyzing The Lindsay Clancy Case",
+      "processed_date": "2026-10-15T16:02:32.630621",
+      "status": "completed"
+    },
+    "bG2sW8xYQzA": {
+      "title": "How To ACTUALLY Break An Addiction",
+      "processed_date": "2026-10-15T16:02:33.631997",
+      "status": "completed"
     }
   },
-  "last_updated": "2026-10-13T07:47:45.617174Z"
+  "last_updated": "2026-10-13T07:47:45.617174Z",
+  "video_metadata": {
+    "RdmYUULKf7s": {
+      "id": "RdmYUULKf7s",
+      "title": "Why Normal Life Feels So Boring",
+      "url": "https://www.youtube.com/watch?v=RdmYUULKf7s",
+      "page_filename": "youtube-RdmYUULKf7s-Why-Normal-Life-Feels-So-Boring.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-Normal-Life-Feels-So-Boring.md",
+      "processed_at": "2026-10-15T16:02:29.626611",
+      "status": "processed"
+    },
+    "_4x0fRO6w5M": {
+      "id": "_4x0fRO6w5M",
+      "title": "Why Sensitive People Get Traumatized So Easily",
+      "url": "https://www.youtube.com/watch?v=_4x0fRO6w5M",
+      "page_filename": "youtube-_4x0fRO6w5M-Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-Sensitive-People-Get-Traumatized-So-Easily.md",
+      "processed_at": "2026-10-15T16:02:30.628007",
+      "status": "processed"
+    },
+    "2MwTDoT8XjY": {
+      "id": "2MwTDoT8XjY",
+      "title": "Why 40% Of Young Men Need Erectile Retraining",
+      "url": "https://www.youtube.com/watch?v=2MwTDoT8XjY",
+      "page_filename": "youtube-2MwTDoT8XjY-Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Why-40-Of-Young-Men-Need-Erectile-Retraining.md",
+      "processed_at": "2026-10-15T16:02:31.629313",
+      "status": "processed"
+    },
+    "7MykFJ7TByM": {
+      "id": "7MykFJ7TByM",
+      "title": "Analyzing The Lindsay Clancy Case",
+      "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
+      "page_filename": "youtube-7MykFJ7TByM-Analyzing-The-Lindsay-Clancy-Case.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/Analyzing-The-Lindsay-Clancy-Case.md",
+      "processed_at": "2026-10-15T16:02:32.630628",
+      "status": "processed"
+    },
+    "bG2sW8xYQzA": {
+      "id": "bG2sW8xYQzA",
+      "title": "How To ACTUALLY Break An Addiction",
+      "url": "https://www.youtube.com/watch?v=bG2sW8xYQzA",
+      "page_filename": "youtube-bG2sW8xYQzA-How-To-ACTUALLY-Break-An-Addiction.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/transcripts/healthygamergg/How-To-ACTUALLY-Break-An-Addiction.md",
+      "processed_at": "2026-10-15T16:02:33.632002",
+      "status": "processed"
+    }
+  }
 }

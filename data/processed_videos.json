@@ -123,8 +123,61 @@
       "metadata": {
         "test": true
       }
+    },
+    "uzg-tGiK_y8": {
+      "url": "https://www.youtube.com/watch?v=uzg-tGiK_y8",
+      "video_id": "uzg-tGiK_y8",
+      "processed_at": "2026-10-15T11:11:05.576197",
+      "metadata": {
+        "title": "Why Marines aren't just a different kind of 'soldier' || The Infographics Show react",
+        "id": "uzg-tGiK_y8"
+      }
+    },
+    "D4nPxik59oE": {
+      "url": "https://www.youtube.com/watch?v=D4nPxik59oE",
+      "video_id": "D4nPxik59oE",
+      "processed_at": "2026-10-15T11:11:06.576788",
+      "metadata": {
+        "title": "The Horror of the Zodiac Killer || The Infographics Show",
+        "id": "D4nPxik59oE"
+      }
+    },
+    "k0ksj42YJaM": {
+      "url": "https://www.youtube.com/watch?v=k0ksj42YJaM",
+      "video_id": "k0ksj42YJaM",
+      "processed_at": "2026-10-15T11:11:07.577523",
+      "metadata": {
+        "title": "Why Your Brain Can't Handle Modern Life || The Infographics Show",
+        "id": "k0ksj42YJaM"
+      }
+    },
+    "test": {
+      "url": "https://youtube.com/watch?v=test",
+      "video_id": "test",
+      "processed_at": "2026-10-15T11:19:44.963421",
+      "metadata": {
+        "title": "Test"
+      }
+    },
+    "cemy5eP5Jjs": {
+      "url": "https://www.youtube.com/watch?v=cemy5eP5Jjs",
+      "video_id": "cemy5eP5Jjs",
+      "processed_at": "2026-10-15T11:19:44.967688",
+      "metadata": {
+        "title": "Most Insane The Infographics Show Videos of All Time (Compilation)",
+        "id": "cemy5eP5Jjs"
+      }
+    },
+    "8zUhBnpVgdE": {
+      "url": "https://www.youtube.com/watch?v=8zUhBnpVgdE",
+      "video_id": "8zUhBnpVgdE",
+      "processed_at": "2026-10-15T11:19:45.002829",
+      "metadata": {
+        "title": "Most Viewed The Infographics Show Videos (Compilation)",
+        "id": "8zUhBnpVgdE"
+      }
     }
   },
   "last_cleanup": "2026-10-14T05:38:36.155073",
-  "total_processed": 23
+  "total_processed": 29
 }

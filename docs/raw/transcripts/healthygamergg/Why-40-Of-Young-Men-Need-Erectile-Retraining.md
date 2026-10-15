@@ -1,8 +1,8 @@
 ---
 title: Why 40% Of Young Men Need Erectile Retraining
 video_id: 2MwTDoT8XjY
-generated_at: 2026-10-09T08:59:17.562758
-topics: ['digital_life', 'gaming', 'mental_health', 'online_communities', 'personal_development', 'psychology']
+generated_at: 2026-10-15T16:02:31.628209
+topics: ['personal_development', 'mental_health', 'gaming', 'digital_life', 'online_communities', 'psychology']
 ---
 
 # Why 40% Of Young Men Need Erectile Retraining
@@ -13,11 +13,11 @@ This HealthyGamerGG video explores important topics related to mental health, pe
 
 ## Key Topics
 
-- digital_life
-- gaming
-- mental_health
-- online_communities
 - personal_development
+- mental_health
+- gaming
+- digital_life
+- online_communities
 - psychology
 
 ## Transcript
@@ -44,9 +44,9 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital_life]]
-[[gaming]]
-[[mental_health]]
-[[online_communities]]
 [[personal_development]]
+[[mental_health]]
+[[gaming]]
+[[digital_life]]
+[[online_communities]]
 [[psychology]]

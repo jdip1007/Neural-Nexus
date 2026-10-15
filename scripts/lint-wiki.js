@@ -388,6 +388,9 @@ function checkMissingLinks(files) {
 // ── Run ──────────────────────────────────────────────────────
 
 function lint() {
+  const args = process.argv.slice(2);
+  const skipSuggestions = args.includes('--no-suggest');
+
   console.log('Running Neural Nexus lint...\n');
 
   const files = getAllPages();
@@ -404,7 +407,12 @@ function lint() {
   checkMinLinks(files);
   checkReviewStatus(files);
 
-  const linkSuggestions = checkMissingLinks(files);
+  let linkSuggestions = [];
+  if (!skipSuggestions) {
+    linkSuggestions = checkMissingLinks(files);
+  } else {
+    console.log('💡 Link suggestions skipped (--no-suggest)\n');
+  }
 
   // Report
   if (errors.length > 0) {

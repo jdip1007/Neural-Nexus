@@ -1,21 +1,21 @@
 ---
-created: '2026-10-09T08:59:19.565973'
+created: '2026-10-15T16:02:33.631276'
 sources:
 - https://www.youtube.com/watch?v=bG2sW8xYQzA
 tags:
 - youtube
 - healthy-gamer
-- digital_life
-- gaming
-- self_improvement
-- mental_health
-- online_communities
-- growth
 - personal_development
+- mental_health
+- gaming
+- online_communities
+- digital_life
+- growth
+- self_improvement
 - psychology
 title: How To ACTUALLY Break An Addiction
 type: reading
-updated: '2026-10-09T08:59:19.565977'
+updated: '2026-10-15T16:02:33.631282'
 
 ---
 
@@ -27,13 +27,13 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 
 ## Key Topics Covered
 
-- Digital Life
-- Gaming
-- Self Improvement
-- Mental Health
-- Online Communities
-- Growth
 - Personal Development
+- Mental Health
+- Gaming
+- Online Communities
+- Digital Life
+- Growth
+- Self Improvement
 - Psychology
 
 ## Full Transcript
@@ -41,8 +41,8 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 ---
 title: How To ACTUALLY Break An Addiction
 video_id: bG2sW8xYQzA
-generated_at: 2026-10-09T08:59:19.565587
-topics: ['digital_life', 'gaming', 'self_improvement', 'mental_health', 'online_communities', 'growth', 'personal_development', 'psychology']
+generated_at: 2026-10-15T16:02:33.630850
+topics: ['personal_development', 'mental_health', 'gaming', 'online_communities', 'digital_life', 'growth', 'self_improvement', 'psychology']
 ---
 
 # How To ACTUALLY Break An Addiction
@@ -53,13 +53,13 @@ This HealthyGamerGG video explores important topics related to mental health, pe
 
 ## Key Topics
 
-- digital_life
-- gaming
-- self_improvement
-- mental_health
-- online_communities
-- growth
 - personal_development
+- mental_health
+- gaming
+- online_communities
+- digital_life
+- growth
+- self_improvement
 - psychology
 
 ## Transcript
@@ -86,23 +86,23 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital_life]]
-[[gaming]]
-[[self_improvement]]
-[[mental_health]]
-[[online_communities]]
-[[growth]]
 [[personal_development]]
+[[mental_health]]
+[[gaming]]
+[[online_communities]]
+[[digital_life]]
+[[growth]]
+[[self_improvement]]
 [[psychology]]
 
 
 ## Related Topics
 
-[[digital_life]]
-[[gaming]]
-[[self_improvement]]
-[[mental_health]]
-[[online_communities]]
-[[growth]]
 [[personal_development]]
+[[mental_health]]
+[[gaming]]
+[[online_communities]]
+[[digital_life]]
+[[growth]]
+[[self_improvement]]
 [[psychology]]

@@ -1,19 +1,19 @@
 ---
-created: '2026-10-09T08:59:17.563114'
+created: '2026-10-15T16:02:31.628580'
 sources:
 - https://www.youtube.com/watch?v=2MwTDoT8XjY
 tags:
 - youtube
 - healthy-gamer
-- digital_life
-- gaming
-- mental_health
-- online_communities
 - personal_development
+- mental_health
+- gaming
+- digital_life
+- online_communities
 - psychology
 title: Why 40% Of Young Men Need Erectile Retraining
 type: reading
-updated: '2026-10-09T08:59:17.563118'
+updated: '2026-10-15T16:02:31.628583'
 
 ---
 
@@ -25,11 +25,11 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 
 ## Key Topics Covered
 
-- Digital Life
-- Gaming
-- Mental Health
-- Online Communities
 - Personal Development
+- Mental Health
+- Gaming
+- Digital Life
+- Online Communities
 - Psychology
 
 ## Full Transcript
@@ -37,8 +37,8 @@ This page contains a transcript and analysis of a HealthyGamerGG video featuring
 ---
 title: Why 40% Of Young Men Need Erectile Retraining
 video_id: 2MwTDoT8XjY
-generated_at: 2026-10-09T08:59:17.562758
-topics: ['digital_life', 'gaming', 'mental_health', 'online_communities', 'personal_development', 'psychology']
+generated_at: 2026-10-15T16:02:31.628209
+topics: ['personal_development', 'mental_health', 'gaming', 'digital_life', 'online_communities', 'psychology']
 ---
 
 # Why 40% Of Young Men Need Erectile Retraining
@@ -49,11 +49,11 @@ This HealthyGamerGG video explores important topics related to mental health, pe
 
 ## Key Topics
 
-- digital_life
-- gaming
-- mental_health
-- online_communities
 - personal_development
+- mental_health
+- gaming
+- digital_life
+- online_communities
 - psychology
 
 ## Transcript
@@ -80,19 +80,19 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital_life]]
-[[gaming]]
-[[mental_health]]
-[[online_communities]]
 [[personal_development]]
+[[mental_health]]
+[[gaming]]
+[[digital_life]]
+[[online_communities]]
 [[psychology]]
 
 
 ## Related Topics
 
-[[digital_life]]
-[[gaming]]
-[[mental_health]]
-[[online_communities]]
 [[personal_development]]
+[[mental_health]]
+[[gaming]]
+[[digital_life]]
+[[online_communities]]
 [[psychology]]
