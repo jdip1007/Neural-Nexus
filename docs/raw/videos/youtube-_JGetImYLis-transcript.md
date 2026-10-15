@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=_JGetImYLis
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 0
-language: en
-sha256: f6f6eb7be871b8417f459542482991430d01f3e45222043bc62039085139f9f9
-time_sensitive: True
+title: 5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, _JGetImYLis]
+sources: ["https://www.youtube.com/watch?v=_JGetImYLis"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: 5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today
 

@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=lPD9fx8fK1k
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 80
-language: en
-sha256: 6a09988ac401c44732dccbeaa92155ad855a34fbcdae83b9705ad60157d0edd6
-time_sensitive: True
+title: CENTRAL BANK DIGITAL CURRENCY R3 CORDA, HYPERLEDGER & QUORUM XDC XINFIN ETHEREUM PROJECT UBIN
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, lPD9fx8fK1k]
+sources: ["https://www.youtube.com/watch?v=lPD9fx8fK1k"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: CENTRAL BANK DIGITAL CURRENCY R3 CORDA, HYPERLEDGER & QUORUM XDC XINFIN ETHEREUM PROJECT UBIN
 

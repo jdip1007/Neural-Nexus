@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=4hiVQf9MPzg
-source_type: video
-ingested: 2026-10-03
-published: 2026-10-03
-duration_minutes: 10
-language: en
-sha256: f1ca82ef4288ce4ea900e22a460def5d333c5c69edcbfdc86737529c670b8436
-time_sensitive: True
+title: Here's Why You Want A Really Boring Job
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 4hiVQf9MPzg]
+sources: ["https://www.youtube.com/watch?v=4hiVQf9MPzg"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Here's Why You Want A Really Boring Job
 

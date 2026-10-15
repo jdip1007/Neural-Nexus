@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=tgbNymZ7vqY
-source_type: video
-ingested: 2026-10-12
-published: 2026-10-12
-duration_minutes: 0
-language: en
-sha256: 0d5e8bcf24f3266ca15d5e7f9b5132db95d3a86f645a723318ad0369f9c38440
+title: Video tgbNymZ7vqY
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, tgbNymZ7vqY]
+sources: ["https://www.youtube.com/watch?v=tgbNymZ7vqY"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video tgbNymZ7vqY
 

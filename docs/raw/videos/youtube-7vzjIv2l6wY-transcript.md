@@ -1,29 +1,34 @@
 ---
-title: YouTube Transcript: Video 7vzjIv2l6wY
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=7vzjIv2l6wY-transcript
+title: YouTube Transcript: Ethernet Explained so well that even YOU can Understand it!
+created: 2026-10-14
+updated: 2026-10-14
+type: source
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 7vzjIv2l6wY]
+sources: []
+published: 2026-10-14
+time_sensitive: False
+---
+source_url: https://www.youtube.com/watch?v=7vzjIv2l6wY
 source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
+ingested: 2026-10-14
+duration_minutes: 0
 language: en
-time_sensitive: True
+sha256: 9362f37e3c200b161c80d1a8bb0d7819dab1267bcb490616f35d66ec9404eefb
 ---
 
-
-# YouTube Transcript: Video 7vzjIv2l6wY
+# YouTube Transcript: Ethernet Explained so well that even YOU can Understand it!
 
 ## Video Information
-- **Title**: Video 7vzjIv2l6wY
+- **Title**: Ethernet Explained so well that even YOU can Understand it!
 - **Video ID**: 7vzjIv2l6wY
-- **Published**: 2026-09-06
+- **Published**: Unknown
 - **Views**: Unknown
 - **Language**: en
 
 ## Transcript
-00:00 Video: Video 7vzjIv2l6wY
+00:00 Video: Ethernet Explained so well that even YOU can Understand it!
 Channel: Unknown
 Description: No description available
 

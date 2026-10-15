@@ -1,16 +1,20 @@
 ---
-title: YouTube Transcript: What do CPUs do when there's nothing to do?
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=UXd8MfTJQVg-transcript
-source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
-language: en
-time_sensitive: True
+title: What do CPUs do when there's nothing to do?
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, UXd8MfTJQVg]
+sources: ["https://www.youtube.com/watch?v=UXd8MfTJQVg"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 
 # YouTube Transcript: What do CPUs do when there's nothing to do?

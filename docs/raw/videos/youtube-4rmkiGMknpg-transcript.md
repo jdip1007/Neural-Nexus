@@ -1,25 +1,32 @@
 ---
-source_url: https://www.youtube.com/watch?v=4rmkiGMknpg
-source_type: video
-ingested: 2026-10-06
-published: 2026-10-06
-duration_minutes: 0
-language: en
-sha256: ee979ac93c383f8114bbe30f6d2abbaf08b66d6b3ca23dac7f2319db8aca3ae6
+title: Can Meta Actually Survive This?
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 4rmkiGMknpg]
+sources: [raw/videos/youtube-4rmkiGMknpg-transcript.md]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
 
-# YouTube Transcript: Video 4rmkiGMknpg
+
+
+# YouTube Transcript: Can Meta Actually Survive This?
 
 ## Video Information
-- **Title**: Video 4rmkiGMknpg
+- **Title**: Can Meta Actually Survive This?
 - **Video ID**: 4rmkiGMknpg
-- **Published**: 2026-10-06
+- **Published**: Unknown
 - **Views**: Unknown
 - **Language**: en
 
 ## Transcript
-00:00 Video: Video 4rmkiGMknpg
+00:00 Video: Can Meta Actually Survive This?
 Channel: Unknown
 Description: No description available
 

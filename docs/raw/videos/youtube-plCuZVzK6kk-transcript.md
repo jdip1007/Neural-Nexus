@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=plCuZVzK6kk
-source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 4
-language: en
-sha256: 436f3491178861728548f89fe54647588ea53576a7ba16fcbf804c42bf9f340d
-time_sensitive: True
+title: Video 17: Looking at Videos
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, plCuZVzK6kk]
+sources: ["https://www.youtube.com/watch?v=plCuZVzK6kk"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video 17: Looking at Videos
 

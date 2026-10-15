@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=jNQXAC9IVRw
-source_type: video
-ingested: 2026-10-12
-published: 2026-10-12
-duration_minutes: 0
-language: en
-sha256: 9de32845ec53cc22c674ff7f5a849a2ac20e678ba33062fe0162c126cff14177
+title: Video jNQXAC9IVRw
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, jNQXAC9IVRw]
+sources: ["https://www.youtube.com/watch?v=jNQXAC9IVRw"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video jNQXAC9IVRw
 

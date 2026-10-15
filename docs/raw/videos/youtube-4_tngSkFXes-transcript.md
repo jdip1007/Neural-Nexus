@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=4_tngSkFXes
-source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 4
-language: en
-sha256: 1896d1ab93fe07f4bdf28a2ba0e61649f75c97025bc89bceac9811f87b6e63ab
+title: Video 7: Aperture
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 4_tngSkFXes]
+sources: ["https://www.youtube.com/watch?v=4_tngSkFXes"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video 7: Aperture
 

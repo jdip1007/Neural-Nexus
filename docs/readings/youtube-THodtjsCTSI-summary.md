@@ -1,27 +1,28 @@
 ---
-title: Video THodtjsCTSI - Summary
-created: 2026-10-10
-updated: 2026-10-10
+title: Is America Chasing Away All Of Its Smart People? - Summary
+created: 2026-10-14
+updated: 2026-10-14
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, THodtjsCTSI]
 sources: [raw/videos/youtube-THodtjsCTSI-transcript.md]
-published: 2026-10-10
+published: 2026-10-14
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-10
+reviewed: 2026-10-14
 ---
 
-# Video THodtjsCTSI - Summary
+# Is America Chasing Away All Of Its Smart People? - Summary
 
 ## TL;DR
-This video discusses Video THodtjsCTSI
+This video discusses Is America Chasing Away All Of Its Smart People?
 
 ## Key Points
 
 ## Entities Mentioned
+- **Persons**: Its Smart, Is America, Chasing Away
 
 ## Related Concepts
 - [[ai]]

@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=y_YtfHN7YpY
-source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 13
-language: en
-sha256: 8a97f23f939c4448f3af391a5459acdef1fccadfce2c37b33024a909b27e1eae
-time_sensitive: True
+title: The Demographic Collapse: When 21 Million Houses Hit the Market
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, y_YtfHN7YpY]
+sources: ["https://www.youtube.com/watch?v=y_YtfHN7YpY"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: The Demographic Collapse: When 21 Million Houses Hit the Market
 

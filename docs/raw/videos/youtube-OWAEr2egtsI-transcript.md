@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=OWAEr2egtsI
-source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 8
-language: en
-sha256: 920b9deb9b1a2468ac1b09430af7a6e486adecca7a50048bc780b77b7631a2da
-time_sensitive: True
+title: Video OWAEr2egtsI
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, OWAEr2egtsI]
+sources: ["https://www.youtube.com/watch?v=OWAEr2egtsI"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video OWAEr2egtsI
 

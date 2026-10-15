@@ -1,8 +1,8 @@
 ---
 {
   "title": "Why You Can't Just \"Rewire\" Your Brain",
-  "created": "2026-10-05T07:53:25.620218",
-  "updated": "2026-10-05T07:53:25.620220",
+  "created": "2026-10-15T10:40:25.006935",
+  "updated": "2026-10-15T10:40:25.006938",
   "type": "video",
   "tags": [
     "personal_growth",

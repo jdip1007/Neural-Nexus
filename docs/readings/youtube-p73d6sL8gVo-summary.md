@@ -1,27 +1,28 @@
 ---
-title: Video p73d6sL8gVo - Summary
-created: 2026-10-10
-updated: 2026-10-10
+title: Why Are We Doing This To Canada? - Summary
+created: 2026-10-14
+updated: 2026-10-14
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, p73d6sL8gVo]
 sources: [raw/videos/youtube-p73d6sL8gVo-transcript.md]
-published: 2026-10-10
+published: 2026-10-14
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-10
+reviewed: 2026-10-14
 ---
 
-# Video p73d6sL8gVo - Summary
+# Why Are We Doing This To Canada? - Summary
 
 ## TL;DR
-This video discusses Video p73d6sL8gVo
+This video discusses Why Are We Doing This To Canada?
 
 ## Key Points
 
 ## Entities Mentioned
+- **Persons**: We Doing, Why Are, This To
 
 ## Related Concepts
 - [[ai]]

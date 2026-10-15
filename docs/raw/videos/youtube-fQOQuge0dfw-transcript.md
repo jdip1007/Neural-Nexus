@@ -1,16 +1,20 @@
 ---
-title: YouTube Transcript: America's "Unsolvable" Problem
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=fQOQuge0dfw-transcript
-source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
-language: en
-time_sensitive: True
+title: America's "Unsolvable" Problem
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, fQOQuge0dfw]
+sources: ["https://www.youtube.com/watch?v=fQOQuge0dfw"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 
 # YouTube Transcript: America's "Unsolvable" Problem

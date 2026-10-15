@@ -1,16 +1,20 @@
 ---
-title: YouTube Transcript: Video 3c: How to Approach the Problem Sets
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=9Cxa0c8P9Qc-transcript
-source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
-language: en
-time_sensitive: True
+title: Video 3c: How to Approach the Problem Sets
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 9Cxa0c8P9Qc]
+sources: ["https://www.youtube.com/watch?v=9Cxa0c8P9Qc"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 
 # YouTube Transcript: Video 3c: How to Approach the Problem Sets

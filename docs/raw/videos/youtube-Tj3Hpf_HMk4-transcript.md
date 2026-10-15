@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=Tj3Hpf_HMk4
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 7
-language: en
-sha256: dc33d0e4f0a309024b4d961b76b897787d257daf5fb3abac157bd0c2cd60d98c
+title: Student Video: Real and Reciprocal Space in 2D and 3D
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, Tj3Hpf_HMk4]
+sources: ["https://www.youtube.com/watch?v=Tj3Hpf_HMk4"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Student Video: Real and Reciprocal Space in 2D and 3D
 

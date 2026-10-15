@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=pX2rY7sT9U
-source_type: video
-ingested: 2026-10-07
-published: 2024-08-30
-duration_minutes: 5
-language: en
-sha256: mock_hash_12345
+title: Anarchist Law: Justice Without the State
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, pX2rY7sT9U]
+sources: ["https://www.youtube.com/watch?v=pX2rY7sT9U"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Anarchist Law: Justice Without the State
 

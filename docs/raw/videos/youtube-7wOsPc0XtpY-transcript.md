@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=7wOsPc0XtpY
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 3
-language: en
-sha256: a0cdbecec0e1e29a91eab3dfb8cb0b24093614bef28e74abd88671e4ec1673bc
-time_sensitive: True
+title: Video 6: Setting the Exposure
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 7wOsPc0XtpY]
+sources: ["https://www.youtube.com/watch?v=7wOsPc0XtpY"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video 6: Setting the Exposure
 

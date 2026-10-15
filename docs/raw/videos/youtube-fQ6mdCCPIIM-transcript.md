@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=fQ6mdCCPIIM
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 1
-language: en
-sha256: 5ada7755cc749c3b9f3003cd07abb22012f98292b44df5888a01c59fe90344ff
-time_sensitive: True
+title: Week 3 Update Video
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, fQ6mdCCPIIM]
+sources: ["https://www.youtube.com/watch?v=fQ6mdCCPIIM"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Week 3 Update Video
 

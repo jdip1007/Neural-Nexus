@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=4Dz4vNUxnZM
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 4
-language: en
-sha256: 28b59183e24db3c27dae9cbe119df70c348360aec853f7f64845b0e8812863a8
+title: 3.5.1 The Pigeonhole Principle: Video
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 4Dz4vNUxnZM]
+sources: ["https://www.youtube.com/watch?v=4Dz4vNUxnZM"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: 3.5.1 The Pigeonhole Principle: Video
 

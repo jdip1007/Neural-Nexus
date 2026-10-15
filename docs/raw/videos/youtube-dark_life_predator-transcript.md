@@ -1,12 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=dark_life_predator
-source_type: video
-ingested: 2026-10-01
-published: 12d ago
-duration_minutes: 20
-language: en
-time_sensitive: True
+title: The Dark Life After To Catch a Predator
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, dark_life_predator]
+sources: ["https://www.youtube.com/watch?v=dark_life_predator"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: The Dark Life After To Catch a Predator
 

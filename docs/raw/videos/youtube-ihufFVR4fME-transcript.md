@@ -1,16 +1,20 @@
 ---
-title: YouTube Transcript: 50 Insane World War 2 Facts That Will Shock You!
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=ihufFVR4fME-transcript
-source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
-language: en
-time_sensitive: True
+title: 50 Insane World War 2 Facts That Will Shock You!
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, ihufFVR4fME]
+sources: ["https://www.youtube.com/watch?v=ihufFVR4fME"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 
 # YouTube Transcript: 50 Insane World War 2 Facts That Will Shock You!

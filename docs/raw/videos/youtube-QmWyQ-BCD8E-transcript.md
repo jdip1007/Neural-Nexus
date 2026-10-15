@@ -1,25 +1,32 @@
 ---
-source_url: https://www.youtube.com/watch?v=QmWyQ-BCD8E
-source_type: video
-ingested: 2026-10-06
-published: 2026-10-06
-duration_minutes: 0
-language: en
-sha256: 1a92bcce91df28062d888086797db6ef87490df4db1ca4b6e6cb2e3b1ffa38f9
+title: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, QmWyQ-BCD8E]
+sources: [raw/videos/youtube-QmWyQ-BCD8E-transcript.md]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
 
-# YouTube Transcript: Video QmWyQ-BCD8E
+
+
+# YouTube Transcript: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
 
 ## Video Information
-- **Title**: Video QmWyQ-BCD8E
+- **Title**: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
 - **Video ID**: QmWyQ-BCD8E
-- **Published**: 2026-10-06
+- **Published**: Unknown
 - **Views**: Unknown
 - **Language**: en
 
 ## Transcript
-00:00 Video: Video QmWyQ-BCD8E
+00:00 Video: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
 Channel: Unknown
 Description: No description available
 

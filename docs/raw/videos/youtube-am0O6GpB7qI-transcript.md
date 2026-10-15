@@ -1,16 +1,20 @@
 ---
-title: YouTube Transcript: Using Windows 10?  Do THIS Now Before It's Too Late!
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=am0O6GpB7qI-transcript
-source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
-language: en
-time_sensitive: True
+title: Using Windows 10?  Do THIS Now Before It's Too Late!
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, am0O6GpB7qI]
+sources: ["https://www.youtube.com/watch?v=am0O6GpB7qI"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 
 # YouTube Transcript: Using Windows 10?  Do THIS Now Before It's Too Late!

@@ -1,0 +1,27 @@
+---
+title: How Slot
+created: 2026-10-14
+updated: 2026-10-14
+type: entity
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, SR8ESCmUYLY]
+sources: [raw/videos/youtube-SR8ESCmUYLY-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-14
+---
+
+# How Slot
+
+## Overview
+How Slot is mentioned in the YouTube video "Hidden Code: How Slot Machines Actually Work - The Computer Inside".
+
+## Context
+Mentioned in the context of research and development.
+
+## In This Wiki
+- [[youtube-SR8ESCmUYLY-summary|Video Summary]]
+
+## Sources
+^[raw/videos/youtube-SR8ESCmUYLY-transcript.md] Video mention at timestamp

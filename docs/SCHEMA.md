@@ -196,14 +196,14 @@ ent
 - sampling-bias
 - test-validity
 - wechsler
-entity
-persons
-youtube
-youtube-creator
-educational-content
-content-creation
-internet-culture
-yo- bonds
+|- entity
+|- persons
+|- youtube
+|- youtube-creator
+|- educational-content
+|- content-creation
+|- internet-culture
+|yo- bonds
 - budgeting
 - cars
 - cryptocurrency

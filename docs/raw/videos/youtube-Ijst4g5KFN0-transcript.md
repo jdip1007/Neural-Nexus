@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=Ijst4g5KFN0
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 54
-language: en
-sha256: c5e681add1d96d1e05ef104e760f2e62a0f8c3f4e1b186bce58befad3595d742
-time_sensitive: True
+title: Video Ijst4g5KFN0
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, Ijst4g5KFN0]
+sources: ["https://www.youtube.com/watch?v=Ijst4g5KFN0"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video Ijst4g5KFN0
 

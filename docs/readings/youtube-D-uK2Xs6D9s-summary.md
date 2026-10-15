@@ -1,27 +1,28 @@
 ---
-title: Video D-uK2Xs6D9s - Summary
-created: 2026-10-10
-updated: 2026-10-10
+title: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce - Summary
+created: 2026-10-14
+updated: 2026-10-14
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, D-uK2Xs6D9s]
 sources: [raw/videos/youtube-D-uK2Xs6D9s-transcript.md]
-published: 2026-10-10
+published: 2026-10-14
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-10
+reviewed: 2026-10-14
 ---
 
-# Video D-uK2Xs6D9s - Summary
+# The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce - Summary
 
 ## TL;DR
-This video discusses Video D-uK2Xs6D9s
+This video discusses The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
 
 ## Key Points
 
 ## Entities Mentioned
+- **Persons**: Outnumber Men, Home Boyfriend, In The
 
 ## Related Concepts
 - [[ai]]

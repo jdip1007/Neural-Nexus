@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=piV5agw5p1s
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 0
-language: en
-sha256: b3dc74b185ac300cb3ef6a8ccce6d28c31fb5cfefeec03b2164a8b102e7e568b
+title: Video displayed on the ESP32 Wifi LED display
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, piV5agw5p1s]
+sources: ["https://www.youtube.com/watch?v=piV5agw5p1s"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video displayed on the ESP32 Wifi LED display
 

@@ -1,28 +1,28 @@
 ---
-title: Video Sx-lddna-qg - Summary
-created: 2026-10-10
-updated: 2026-10-10
+title: WTF Is Happening To The Video Game Industry? - Summary
+created: 2026-10-14
+updated: 2026-10-14
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, Sx-lddna-qg]
 sources: [raw/videos/youtube-Sx-lddna-qg-transcript.md]
-published: 2026-10-10
+published: 2026-10-14
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-10
+reviewed: 2026-10-14
 ---
 
-# Video Sx-lddna-qg - Summary
+# WTF Is Happening To The Video Game Industry? - Summary
 
 ## TL;DR
-This video discusses Video Sx-lddna-qg
+This video discusses WTF Is Happening To The Video Game Industry?
 
 ## Key Points
 
 ## Entities Mentioned
-- **Persons**: Video Sx
+- **Persons**: To The, Is Happening, Video Game
 
 ## Related Concepts
 - [[ai]]

@@ -1,27 +1,28 @@
 ---
-title: Video gcvpN6Zh-WE - Summary
-created: 2026-10-10
-updated: 2026-10-10
+title: How Sports Predicted "The Everything Bubble" - Summary
+created: 2026-10-14
+updated: 2026-10-14
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, gcvpN6Zh-WE]
 sources: [raw/videos/youtube-gcvpN6Zh-WE-transcript.md]
-published: 2026-10-10
+published: 2026-10-14
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-10
+reviewed: 2026-10-14
 ---
 
-# Video gcvpN6Zh-WE - Summary
+# How Sports Predicted "The Everything Bubble" - Summary
 
 ## TL;DR
-This video discusses Video gcvpN6Zh-WE
+This video discusses How Sports Predicted "The Everything Bubble"
 
 ## Key Points
 
 ## Entities Mentioned
+- **Persons**: The Everything, How Sports
 
 ## Related Concepts
 - [[ai]]

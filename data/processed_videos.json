@@ -1,0 +1,130 @@
+{
+  "videos": {
+    "gcvpN6Zh-WE": {
+      "url": "https://www.youtube.com/watch?v=gcvpN6Zh-WE",
+      "video_id": "gcvpN6Zh-WE",
+      "processed_at": "2026-10-14T05:38:39.379410",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:38:39.379387",
+        "content_type": "reading"
+      }
+    },
+    "THodtjsCTSI": {
+      "url": "https://www.youtube.com/watch?v=THodtjsCTSI",
+      "video_id": "THodtjsCTSI",
+      "processed_at": "2026-10-14T05:38:42.283355",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:38:42.283332",
+        "content_type": "reading"
+      }
+    },
+    "W6xkZy9nkaI": {
+      "url": "https://www.youtube.com/watch?v=W6xkZy9nkaI",
+      "video_id": "W6xkZy9nkaI",
+      "processed_at": "2026-10-14T05:38:44.643274",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:38:44.643257",
+        "content_type": "reading"
+      }
+    },
+    "6BOxK_JrghY": {
+      "url": "https://www.youtube.com/watch?v=6BOxK_JrghY",
+      "video_id": "6BOxK_JrghY",
+      "processed_at": "2026-10-14T05:38:46.846850",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:38:46.846818",
+        "content_type": "reading"
+      }
+    },
+    "Sx-lddna-qg": {
+      "url": "https://www.youtube.com/watch?v=Sx-lddna-qg",
+      "video_id": "Sx-lddna-qg",
+      "processed_at": "2026-10-14T05:38:49.165537",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:38:49.165523",
+        "content_type": "reading"
+      }
+    },
+    "4rmkiGMknpg": {
+      "url": "https://www.youtube.com/watch?v=4rmkiGMknpg",
+      "video_id": "4rmkiGMknpg",
+      "processed_at": "2026-10-14T05:40:02.258602",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:40:02.258576",
+        "content_type": "reading"
+      }
+    },
+    "D-uK2Xs6D9s": {
+      "url": "https://www.youtube.com/watch?v=D-uK2Xs6D9s",
+      "video_id": "D-uK2Xs6D9s",
+      "processed_at": "2026-10-14T05:40:04.692060",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:40:04.692037",
+        "content_type": "reading"
+      }
+    },
+    "QmWyQ-BCD8E": {
+      "url": "https://www.youtube.com/watch?v=QmWyQ-BCD8E",
+      "video_id": "QmWyQ-BCD8E",
+      "processed_at": "2026-10-14T05:40:06.895837",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:40:06.895810",
+        "content_type": "reading"
+      }
+    },
+    "qmZmKZR8S5U": {
+      "url": "https://www.youtube.com/watch?v=qmZmKZR8S5U",
+      "video_id": "qmZmKZR8S5U",
+      "processed_at": "2026-10-14T05:40:09.969142",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:40:09.969123",
+        "content_type": "reading"
+      }
+    },
+    "p73d6sL8gVo": {
+      "url": "https://www.youtube.com/watch?v=p73d6sL8gVo",
+      "video_id": "p73d6sL8gVo",
+      "processed_at": "2026-10-14T05:40:12.356862",
+      "metadata": {
+        "status": "completed",
+        "processed_at": "2026-10-14T05:40:12.356840",
+        "content_type": "reading"
+      }
+    },
+    "VIDEO123": {
+      "url": "https://www.youtube.com/watch?v=VIDEO123",
+      "video_id": "VIDEO123",
+      "processed_at": "2026-10-15T10:04:12.261684",
+      "metadata": {
+        "test": true
+      }
+    },
+    "VIDEO456": {
+      "url": "https://youtu.be/VIDEO456",
+      "video_id": "VIDEO456",
+      "processed_at": "2026-10-15T10:04:12.262098",
+      "metadata": {
+        "test": true
+      }
+    },
+    "VIDEO789": {
+      "url": "https://www.youtube.com/embed/VIDEO789",
+      "video_id": "VIDEO789",
+      "processed_at": "2026-10-15T10:04:12.262425",
+      "metadata": {
+        "test": true
+      }
+    }
+  },
+  "last_cleanup": "2026-10-14T05:38:36.155073",
+  "total_processed": 23
+}

@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=bCg7n8sH3ZP
-source_type: video
-ingested: 2026-10-07
-published: 2024-06-18
-duration_minutes: 5
-language: en
-sha256: mock_hash_12345
+title: Anarchist Technology: Tools for Liberation
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, bCg7n8sH3ZP]
+sources: ["https://www.youtube.com/watch?v=bCg7n8sH3ZP"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Anarchist Technology: Tools for Liberation
 

@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=ZgYuF0SbPDM
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 4
-language: en
-sha256: 46c2df09ea337675467cb45cfbed94c85156ea8bb5ef6a2883a7c3317aa0710e
+title: Video 3: Lift
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, ZgYuF0SbPDM]
+sources: ["https://www.youtube.com/watch?v=ZgYuF0SbPDM"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video 3: Lift
 

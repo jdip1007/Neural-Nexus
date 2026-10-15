@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=TEST12345
-source_type: video
-ingested: 2026-10-06
-published: 2023-10-01
-duration_minutes: 5
-language: en
-sha256: mock_hash_12345
+title: Test Video: Understanding Computer Performance
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, TEST12345]
+sources: ["https://www.youtube.com/watch?v=TEST12345"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Test Video: Understanding Computer Performance
 

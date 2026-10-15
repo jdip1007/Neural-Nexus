@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=kJQP7kiw5Fk
-source_type: video
-ingested: 2026-10-07
-published: 2024-03-10
-duration_minutes: 5
-language: en
-sha256: mock_hash_12345
+title: Practical Anarchism: Building Communities Without Hierarchies
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, kJQP7kiw5Fk]
+sources: ["https://www.youtube.com/watch?v=kJQP7kiw5Fk"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Practical Anarchism: Building Communities Without Hierarchies
 

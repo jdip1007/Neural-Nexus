@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=wvXDB9dMdEo
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 60
-language: en
-sha256: c62e5f14b21216a4314d37e2c92ddda3d054bbebe8ddc2f9be6216288954c57e
-time_sensitive: True
+title: 1. Introduction, Financial Terms and Concepts
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, wvXDB9dMdEo]
+sources: ["https://www.youtube.com/watch?v=wvXDB9dMdEo"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: 1. Introduction, Financial Terms and Concepts
 

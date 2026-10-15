@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=0qmvbFkGd9E
-source_type: video
-ingested: 2026-10-03
-published: 2026-10-03
-duration_minutes: 9
-language: en
-sha256: 06c39a4fc31438885b4a973f2fee7aa0adc66f1a4a005c3f5d8576aa6843a92b
-time_sensitive: True
+title: Why Do Squatters Rights Exist?
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 0qmvbFkGd9E]
+sources: ["https://www.youtube.com/watch?v=0qmvbFkGd9E"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Why Do Squatters Rights Exist?
 

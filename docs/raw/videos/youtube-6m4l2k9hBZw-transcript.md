@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=6m4l2k9hBZw
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 3
-language: en
-sha256: 50b962971f66c5d1f4bc558636928e0c28923b1cc3e3dd876150de5b4d951f71
+title: 8.2.4 An Introduction to Linear Optimization - Video 3: The Problem Formulation
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 6m4l2k9hBZw]
+sources: ["https://www.youtube.com/watch?v=6m4l2k9hBZw"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: 8.2.4 An Introduction to Linear Optimization - Video 3: The Problem Formulation
 

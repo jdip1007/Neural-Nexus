@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=CsoLouA44_0
-source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 7
-language: en
-sha256: dc0ad8480b58a812fc4f7522e2f5698556e5f8b2651af772563913bac638c196
-time_sensitive: True
+title: Why the Most Expensive Video Game Ever Will Never Be Released
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, CsoLouA44_0]
+sources: ["https://www.youtube.com/watch?v=CsoLouA44_0"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Why the Most Expensive Video Game Ever Will Never Be Released
 

@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=r6zz8rAvosw
-source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 13
-language: en
-sha256: de67d804b7eec571baa5ea138b3405db7d27866516a99df1280fba8d223f9687
+title: Most Painful Parasites That Infect Humans
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, r6zz8rAvosw]
+sources: ["https://www.youtube.com/watch?v=r6zz8rAvosw"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Most Painful Parasites That Infect Humans
 

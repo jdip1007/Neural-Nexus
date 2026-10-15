@@ -1,25 +1,32 @@
 ---
-source_url: https://www.youtube.com/watch?v=p73d6sL8gVo
-source_type: video
-ingested: 2026-10-10
-published: 2026-10-10
-duration_minutes: 0
-language: en
-sha256: affbabcbae581053bd61cbe1765b5c53ed7c5b3e12155dd3c6f3e2cb46d869bb
+title: Why Are We Doing This To Canada?
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, p73d6sL8gVo]
+sources: [raw/videos/youtube-p73d6sL8gVo-transcript.md]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
 
-# YouTube Transcript: Video p73d6sL8gVo
+
+
+# YouTube Transcript: Why Are We Doing This To Canada?
 
 ## Video Information
-- **Title**: Video p73d6sL8gVo
+- **Title**: Why Are We Doing This To Canada?
 - **Video ID**: p73d6sL8gVo
-- **Published**: 2026-10-10
+- **Published**: Unknown
 - **Views**: Unknown
 - **Language**: en
 
 ## Transcript
-00:00 Video: Video p73d6sL8gVo
+00:00 Video: Why Are We Doing This To Canada?
 Channel: Unknown
 Description: No description available
 

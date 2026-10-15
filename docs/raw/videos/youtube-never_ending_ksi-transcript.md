@@ -1,12 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=never_ending_ksi
-source_type: video
-ingested: 2026-10-01
-published: 3w ago
-duration_minutes: 25
-language: en
-time_sensitive: True
+title: The Never-Ending Downfall of KSI
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, never_ending_ksi]
+sources: ["https://www.youtube.com/watch?v=never_ending_ksi"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: The Never-Ending Downfall of KSI
 

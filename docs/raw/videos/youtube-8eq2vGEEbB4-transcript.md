@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=8eq2vGEEbB4
-source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 12
-language: en
-sha256: b415a32d5cc19f42657312086c2290efa4549df4d5f307081468dfb77ba7f595
-time_sensitive: True
+title: Russian Sleep Experiment - EXPLAINED
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 8eq2vGEEbB4]
+sources: ["https://www.youtube.com/watch?v=8eq2vGEEbB4"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Russian Sleep Experiment - EXPLAINED
 

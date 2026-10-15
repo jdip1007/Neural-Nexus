@@ -1,16 +1,20 @@
 ---
-title: YouTube Transcript: Real Way to ACTUALLY Increase Your IQ
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=17rJSSzto4U-transcript
-source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
-language: en
-time_sensitive: True
+title: Real Way to ACTUALLY Increase Your IQ
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 17rJSSzto4U]
+sources: ["https://www.youtube.com/watch?v=17rJSSzto4U"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 
 # YouTube Transcript: Real Way to ACTUALLY Increase Your IQ

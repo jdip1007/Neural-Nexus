@@ -1,0 +1,72 @@
+2026-10-14 05:39:59,973 - INFO - 🚀 Starting manual YouTube ingestion for How Money Works
+2026-10-14 05:39:59,973 - INFO - Channel: https://www.youtube.com/@HowMoneyWorks
+2026-10-14 05:39:59,973 - INFO - Start time: 2026-10-14 05:39:59.973270
+2026-10-14 05:39:59,973 - INFO - ✓ All required environment variables are set
+2026-10-14 05:39:59,974 - INFO - Found 5 unprocessed videos
+2026-10-14 05:39:59,974 - INFO - 🎲 Randomly selected 5 videos to process:
+2026-10-14 05:39:59,974 - INFO -   1. https://www.youtube.com/watch?v=4rmkiGMknpg
+2026-10-14 05:39:59,974 - INFO -   2. https://www.youtube.com/watch?v=D-uK2Xs6D9s
+2026-10-14 05:39:59,974 - INFO -   3. https://www.youtube.com/watch?v=QmWyQ-BCD8E
+2026-10-14 05:39:59,974 - INFO -   4. https://www.youtube.com/watch?v=qmZmKZR8S5U
+2026-10-14 05:39:59,974 - INFO -   5. https://www.youtube.com/watch?v=p73d6sL8gVo
+2026-10-14 05:39:59,974 - INFO - 📹 Processing video 1/5: https://www.youtube.com/watch?v=4rmkiGMknpg
+2026-10-14 05:40:00,091 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=4rmkiGMknpg
+2026-10-14 05:40:00,459 - INFO - ✓ Metadata fetched: Can Meta Actually Survive This?
+2026-10-14 05:40:02,255 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=4rmkiGMknpg
+2026-10-14 05:40:02,258 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=4rmkiGMknpg
+2026-10-14 05:40:02,258 - INFO - ✓ Successfully processed video 1
+2026-10-14 05:40:02,259 - INFO - 📹 Processing video 2/5: https://www.youtube.com/watch?v=D-uK2Xs6D9s
+2026-10-14 05:40:02,259 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=D-uK2Xs6D9s
+2026-10-14 05:40:02,625 - INFO - ✓ Metadata fetched: The "Stay-At-Home Boyfriend" Epidemic - Women Now Outnumber Men In The Workforce
+2026-10-14 05:40:04,689 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=D-uK2Xs6D9s
+2026-10-14 05:40:04,692 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=D-uK2Xs6D9s
+2026-10-14 05:40:04,692 - INFO - ✓ Successfully processed video 2
+2026-10-14 05:40:04,692 - INFO - 📹 Processing video 3/5: https://www.youtube.com/watch?v=QmWyQ-BCD8E
+2026-10-14 05:40:04,692 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=QmWyQ-BCD8E
+2026-10-14 05:40:05,068 - INFO - ✓ Metadata fetched: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
+2026-10-14 05:40:06,894 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=QmWyQ-BCD8E
+2026-10-14 05:40:06,896 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=QmWyQ-BCD8E
+2026-10-14 05:40:06,896 - INFO - ✓ Successfully processed video 3
+2026-10-14 05:40:06,896 - INFO - 📹 Processing video 4/5: https://www.youtube.com/watch?v=qmZmKZR8S5U
+2026-10-14 05:40:06,896 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=qmZmKZR8S5U
+2026-10-14 05:40:07,265 - INFO - ✓ Metadata fetched: How Long Can The Stock Market Ignore Reality?
+2026-10-14 05:40:09,967 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=qmZmKZR8S5U
+2026-10-14 05:40:09,969 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=qmZmKZR8S5U
+2026-10-14 05:40:09,969 - INFO - ✓ Successfully processed video 4
+2026-10-14 05:40:09,969 - INFO - 📹 Processing video 5/5: https://www.youtube.com/watch?v=p73d6sL8gVo
+2026-10-14 05:40:09,969 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=p73d6sL8gVo
+2026-10-14 05:40:10,347 - INFO - ✓ Metadata fetched: Why Are We Doing This To Canada?
+2026-10-14 05:40:12,355 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=p73d6sL8gVo
+2026-10-14 05:40:12,357 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=p73d6sL8gVo
+2026-10-14 05:40:12,357 - INFO - ✓ Successfully processed video 5
+2026-10-14 05:40:12,357 - INFO - 📊 Manual Ingestion Summary
+2026-10-14 05:40:12,357 - INFO - ==================================================
+2026-10-14 05:40:12,357 - INFO - Channel: How Money Works
+2026-10-14 05:40:12,357 - INFO - Total videos available: 10
+2026-10-14 05:40:12,357 - INFO - Unprocessed videos: 5
+2026-10-14 05:40:12,357 - INFO - Videos selected for processing: 5
+2026-10-14 05:40:12,357 - INFO - Videos processed: 5
+2026-10-14 05:40:12,357 - INFO - Errors encountered: 0
+2026-10-14 05:40:12,357 - INFO - Success rate: 100.0% (5/5)
+2026-10-14 05:40:12,357 - INFO - Duration: 0:00:12.384043
+2026-10-14 05:40:12,357 - INFO - Log file: logs/manual_how_money_works_ingestion_20261014_053959.log
+2026-10-14 05:40:12,357 - INFO - Total processed to date: 10
+2026-10-14 05:40:12,357 - INFO - 🔍 Running quality checks...
+2026-10-14 05:40:12,357 - INFO - Running quality checks...
+2026-10-14 05:40:12,357 - INFO - 🔍 Verifying page details before deployment...
+2026-10-14 05:40:12,370 - INFO - Verifying 398 changed markdown files...
+2026-10-14 05:40:12,401 - ERROR - ❌ Page verification failed:
+2026-10-14 05:40:12,401 - ERROR -   ❌ Source file not found: raw/videos/youtube--ozxK77lwZE-transcript.md (cited in docs/raw/videos/youtube--ozxK77lwZE-transcript.md)
+2026-10-14 05:40:12,401 - ERROR -   ❌ Source file not found: raw/videos/youtube--p-fGg_pA8w-transcript.md (cited in docs/raw/videos/youtube--p-fGg_pA8w-transcript.md)
+2026-10-14 05:40:12,401 - ERROR -   ❌ Source file not found: raw/videos/youtube-01-QTmyvEI8-transcript.md (cited in docs/raw/videos/youtube-01-QTmyvEI8-transcript.md)
+2026-10-14 05:40:12,402 - ERROR -   ❌ Source file not found: raw/videos/youtube-0UvrxfAgu48-transcript.md (cited in docs/raw/videos/youtube-0UvrxfAgu48-transcript.md)
+2026-10-14 05:40:12,402 - ERROR -   ❌ Source file not found: raw/videos/youtube-0qmvbFkGd9E-transcript.md (cited in docs/raw/videos/youtube-0qmvbFkGd9E-transcript.md)
+2026-10-14 05:40:12,402 - ERROR -   ❌ Source file not found: raw/videos/youtube-14Uc2WCSPiw-transcript.md (cited in docs/raw/videos/youtube-14Uc2WCSPiw-transcript.md)
+2026-10-14 05:40:12,402 - ERROR -   ❌ Source file not found: raw/videos/youtube-17rJSSzto4U-transcript.md (cited in docs/raw/videos/youtube-17rJSSzto4U-transcript.md)
+2026-10-14 05:40:12,402 - ERROR -   ❌ Source file not found: raw/videos/youtube-1BeRKy_qa7U-transcript.md (cited in docs/raw/videos/youtube-1BeRKy_qa7U-transcript.md)
+2026-10-14 05:40:12,402 - ERROR -   ❌ Source file not found: raw/videos/youtube-1U-x9bdnwx0-transcript.md (cited in docs/raw/videos/youtube-1U-x9bdnwx0-transcript.md)
+2026-10-14 05:40:12,402 - ERROR -   ❌ Source file not found: raw/videos/youtube-1XdKoZKHj5M-transcript.md (cited in docs/raw/videos/youtube-1XdKoZKHj5M-transcript.md)
+2026-10-14 05:40:12,402 - ERROR -   ... and 446 more issues
+2026-10-14 05:40:12,402 - ERROR - ❌ Page verification failed - aborting quality checks and deployment
+2026-10-14 05:40:12,402 - WARNING - ⚠️ Quality checks failed - skipping deployment
+2026-10-14 05:40:12,402 - INFO - 🎉 Manual ingestion completed

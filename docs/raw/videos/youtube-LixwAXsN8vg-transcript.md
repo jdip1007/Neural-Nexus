@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=LixwAXsN8vg
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 12
-language: en
-sha256: b9c49d3e90fcbee41fe92ab60145b8791cab362c93a02d794ed0f2e3516d3e23
+title: Optics: Coherence length and source spectrum | MIT Video Demonstrations in Lasers and Optics
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, LixwAXsN8vg]
+sources: ["https://www.youtube.com/watch?v=LixwAXsN8vg"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Optics: Coherence length and source spectrum | MIT Video Demonstrations in Lasers and Optics
 

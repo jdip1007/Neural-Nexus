@@ -1,25 +1,32 @@
 ---
-source_url: https://www.youtube.com/watch?v=THodtjsCTSI
-source_type: video
-ingested: 2026-10-10
-published: 2026-10-10
-duration_minutes: 0
-language: en
-sha256: e67e9948c38807b036ff69b5334d7b4226811746def0b37d327e1816ede97794
+title: Is America Chasing Away All Of Its Smart People?
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, THodtjsCTSI]
+sources: ["https://www.youtube.com/watch?v=THodtjsCTSI"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
 
-# YouTube Transcript: Video THodtjsCTSI
+
+
+# YouTube Transcript: Is America Chasing Away All Of Its Smart People?
 
 ## Video Information
-- **Title**: Video THodtjsCTSI
+- **Title**: Is America Chasing Away All Of Its Smart People?
 - **Video ID**: THodtjsCTSI
-- **Published**: 2026-10-10
+- **Published**: Unknown
 - **Views**: Unknown
 - **Language**: en
 
 ## Transcript
-00:00 Video: Video THodtjsCTSI
+00:00 Video: Is America Chasing Away All Of Its Smart People?
 Channel: Unknown
 Description: No description available
 

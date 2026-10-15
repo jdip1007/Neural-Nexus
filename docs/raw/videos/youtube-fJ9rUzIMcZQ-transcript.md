@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=fJ9rUzIMcZQ
-source_type: video
-ingested: 2026-10-12
-published: 2026-10-12
-duration_minutes: 0
-language: en
-sha256: 8afbe6a53cf8e8542b1f2a3c1f00af6a44feb783863918bc8ebc2bc36cfd7bfa
+title: Video fJ9rUzIMcZQ
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, fJ9rUzIMcZQ]
+sources: ["https://www.youtube.com/watch?v=fJ9rUzIMcZQ"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video fJ9rUzIMcZQ
 

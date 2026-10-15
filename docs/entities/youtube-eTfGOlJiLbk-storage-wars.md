@@ -1,15 +1,15 @@
 ---
 title: Storage Wars
-created: 2026-10-01
-updated: 2026-10-01
+created: 2026-10-14
+updated: 2026-10-14
 type: entity
-domain: media
-classification: show
-tags: [youtube, video-derived, show]
-sources: [youtube-eTfGOlJiLbk-transcript.md]
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, eTfGOlJiLbk]
+sources: [raw/videos/youtube-eTfGOlJiLbk-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-01
+reviewed: 2026-10-14
 ---
 
 # Storage Wars
@@ -18,10 +18,10 @@ reviewed: 2026-10-01
 Storage Wars is mentioned in the YouTube video "Storage Wars Is Worse Than You Thought".
 
 ## Context
-Mentioned in the context of storage wars is worse than you thought.
+Mentioned in the context of research and development.
 
 ## In This Wiki
 - [[youtube-eTfGOlJiLbk-summary|Video Summary]]
 
 ## Sources
-^[youtube-eTfGOlJiLbk-transcript.md] Video mention at timestamp
+^[raw/videos/youtube-eTfGOlJiLbk-transcript.md] Video mention at timestamp

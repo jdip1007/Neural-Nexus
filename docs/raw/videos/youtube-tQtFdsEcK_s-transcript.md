@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=tQtFdsEcK_s
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 22
-language: en
-sha256: 8cfbfda4434d735d647e675ee13ea39ccf715c919249ba096a5420f0366c376b
-time_sensitive: True
+title: E01: What is the FASTEST Computer Language?  45 Languages Tested!
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, tQtFdsEcK_s]
+sources: ["https://www.youtube.com/watch?v=tQtFdsEcK_s"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: E01: What is the FASTEST Computer Language?  45 Languages Tested!
 

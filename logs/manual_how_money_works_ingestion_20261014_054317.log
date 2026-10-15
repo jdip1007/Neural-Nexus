@@ -1,0 +1,6 @@
+2026-10-14 05:43:17,447 - INFO - 🚀 Starting manual YouTube ingestion for How Money Works
+2026-10-14 05:43:17,447 - INFO - Channel: https://www.youtube.com/@HowMoneyWorks
+2026-10-14 05:43:17,447 - INFO - Start time: 2026-10-14 05:43:17.446845
+2026-10-14 05:43:17,447 - INFO - ✓ All required environment variables are set
+2026-10-14 05:43:17,447 - INFO - Found 0 unprocessed videos
+2026-10-14 05:43:17,447 - INFO - ✅ All videos already processed. No new content to ingest.

@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=1vQ2x5O_xqk
-source_type: video
-ingested: 2026-10-01
-published: 2026-10-01
-duration_minutes: 3
-language: en
-sha256: a5bbac116076ff7ab2207abb2cd5bb384332740dce83040d628c1d0b5aab14ba
+title: 4.3.1 Independence: Video
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, 1vQ2x5O_xqk]
+sources: ["https://www.youtube.com/watch?v=1vQ2x5O_xqk"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: 4.3.1 Independence: Video
 

@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=EGvqg0vUBmU
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 7
-language: en
-sha256: bab992c6835079c867593de39123e94e1536a7bc4df1d81c3a5c54aa9739cd70
+title: Video 4: Hari Pertama
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, EGvqg0vUBmU]
+sources: ["https://www.youtube.com/watch?v=EGvqg0vUBmU"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video 4: Hari Pertama
 

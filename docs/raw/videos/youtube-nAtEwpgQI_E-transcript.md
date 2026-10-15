@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=nAtEwpgQI_E
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 2
-language: en
-sha256: ecd4651f8b88470b0baa271891556ae396908d087d17f5759df070b488a5d25b
-time_sensitive: True
+title: Bonus Video 2: The Spill | MIT ChemLab Boot Camp
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, nAtEwpgQI_E]
+sources: ["https://www.youtube.com/watch?v=nAtEwpgQI_E"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Bonus Video 2: The Spill | MIT ChemLab Boot Camp
 

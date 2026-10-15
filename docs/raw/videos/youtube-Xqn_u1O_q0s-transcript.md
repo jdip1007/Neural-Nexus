@@ -1,16 +1,20 @@
 ---
-title: YouTube Transcript: Video 4a: How to Read an Academic Article
-created: 2026-10-01
-updated: 2026-10-01
-type: reading
-source_url: https://www.youtube.com/watch?v=Xqn_u1O_q0s-transcript
-source_type: video
-ingested: 2026-10-01
-published: recent
-duration_minutes: 20
-language: en
-time_sensitive: True
+title: Video 4a: How to Read an Academic Article
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, Xqn_u1O_q0s]
+sources: ["https://www.youtube.com/watch?v=Xqn_u1O_q0s"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 
 # YouTube Transcript: Video 4a: How to Read an Academic Article

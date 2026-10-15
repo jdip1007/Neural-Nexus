@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=DM4rZZBqXVM
-source_type: video
-ingested: 2026-10-02
-published: 2026-10-02
-duration_minutes: 15
-language: en
-sha256: 204b12e4d22dc7793360d632ec0abe8319395987f0011c4336305e010d725e06
-time_sensitive: True
+title: Bare Metal Programming - Booting From the Switches
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, DM4rZZBqXVM]
+sources: ["https://www.youtube.com/watch?v=DM4rZZBqXVM"]
+published: 2026-10-14
+time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Bare Metal Programming - Booting From the Switches
 

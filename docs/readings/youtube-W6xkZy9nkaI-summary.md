@@ -1,27 +1,28 @@
 ---
-title: Video W6xkZy9nkaI - Summary
-created: 2026-10-06
-updated: 2026-10-06
+title: Canada Is Joining The EU... But WTF Does That Even Mean?! - Summary
+created: 2026-10-14
+updated: 2026-10-14
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, W6xkZy9nkaI]
 sources: [raw/videos/youtube-W6xkZy9nkaI-transcript.md]
-published: 2026-10-06
+published: 2026-10-14
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-06
+reviewed: 2026-10-14
 ---
 
-# Video W6xkZy9nkaI - Summary
+# Canada Is Joining The EU... But WTF Does That Even Mean?! - Summary
 
 ## TL;DR
-This video discusses Video W6xkZy9nkaI
+This video discusses Canada Is Joining The EU... But WTF Does That Even Mean?!
 
 ## Key Points
 
 ## Entities Mentioned
+- **Persons**: Joining The, Does That, Even Mean
 
 ## Related Concepts
 - [[ai]]

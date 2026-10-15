@@ -1,8 +1,8 @@
 ---
 {
   "title": "Why 40% Of Young Men Need Erectile Retraining",
-  "created": "2026-10-07T08:22:32.884596",
-  "updated": "2026-10-07T08:22:32.884598",
+  "created": "2026-10-15T10:40:25.007768",
+  "updated": "2026-10-15T10:40:25.007771",
   "type": "video",
   "tags": [
     "anxiety",

@@ -1,0 +1,72 @@
+2026-10-14 05:38:36,154 - INFO - 🚀 Starting manual YouTube ingestion for How Money Works
+2026-10-14 05:38:36,154 - INFO - Channel: https://www.youtube.com/@HowMoneyWorks
+2026-10-14 05:38:36,154 - INFO - Start time: 2026-10-14 05:38:36.154303
+2026-10-14 05:38:36,154 - INFO - ✓ All required environment variables are set
+2026-10-14 05:38:36,155 - INFO - Found 10 unprocessed videos
+2026-10-14 05:38:36,155 - INFO - 🎲 Randomly selected 5 videos to process:
+2026-10-14 05:38:36,155 - INFO -   1. https://www.youtube.com/watch?v=gcvpN6Zh-WE
+2026-10-14 05:38:36,155 - INFO -   2. https://www.youtube.com/watch?v=THodtjsCTSI
+2026-10-14 05:38:36,155 - INFO -   3. https://www.youtube.com/watch?v=W6xkZy9nkaI
+2026-10-14 05:38:36,155 - INFO -   4. https://www.youtube.com/watch?v=6BOxK_JrghY
+2026-10-14 05:38:36,155 - INFO -   5. https://www.youtube.com/watch?v=Sx-lddna-qg
+2026-10-14 05:38:36,155 - INFO - 📹 Processing video 1/5: https://www.youtube.com/watch?v=gcvpN6Zh-WE
+2026-10-14 05:38:36,256 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=gcvpN6Zh-WE
+2026-10-14 05:38:36,646 - INFO - ✓ Metadata fetched: How Sports Predicted "The Everything Bubble"
+2026-10-14 05:38:39,376 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=gcvpN6Zh-WE
+2026-10-14 05:38:39,379 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=gcvpN6Zh-WE
+2026-10-14 05:38:39,379 - INFO - ✓ Successfully processed video 1
+2026-10-14 05:38:39,379 - INFO - 📹 Processing video 2/5: https://www.youtube.com/watch?v=THodtjsCTSI
+2026-10-14 05:38:39,379 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=THodtjsCTSI
+2026-10-14 05:38:39,771 - INFO - ✓ Metadata fetched: Is America Chasing Away All Of Its Smart People?
+2026-10-14 05:38:42,280 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=THodtjsCTSI
+2026-10-14 05:38:42,283 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=THodtjsCTSI
+2026-10-14 05:38:42,283 - INFO - ✓ Successfully processed video 2
+2026-10-14 05:38:42,283 - INFO - 📹 Processing video 3/5: https://www.youtube.com/watch?v=W6xkZy9nkaI
+2026-10-14 05:38:42,283 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=W6xkZy9nkaI
+2026-10-14 05:38:42,673 - INFO - ✓ Metadata fetched: Canada Is Joining The EU... But WTF Does That Even Mean?!
+2026-10-14 05:38:44,641 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=W6xkZy9nkaI
+2026-10-14 05:38:44,643 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=W6xkZy9nkaI
+2026-10-14 05:38:44,643 - INFO - ✓ Successfully processed video 3
+2026-10-14 05:38:44,643 - INFO - 📹 Processing video 4/5: https://www.youtube.com/watch?v=6BOxK_JrghY
+2026-10-14 05:38:44,643 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=6BOxK_JrghY
+2026-10-14 05:38:45,010 - INFO - ✓ Metadata fetched: "Dude I'm Broke" Why Is My Data Worth Harvesting?
+2026-10-14 05:38:46,845 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=6BOxK_JrghY
+2026-10-14 05:38:46,847 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=6BOxK_JrghY
+2026-10-14 05:38:46,847 - INFO - ✓ Successfully processed video 4
+2026-10-14 05:38:46,847 - INFO - 📹 Processing video 5/5: https://www.youtube.com/watch?v=Sx-lddna-qg
+2026-10-14 05:38:46,847 - INFO - 📹 Processing video: https://www.youtube.com/watch?v=Sx-lddna-qg
+2026-10-14 05:38:47,236 - INFO - ✓ Metadata fetched: WTF Is Happening To The Video Game Industry?
+2026-10-14 05:38:49,164 - INFO - ✓ Transcript fetched for https://www.youtube.com/watch?v=Sx-lddna-qg
+2026-10-14 05:38:49,165 - INFO - ✓ Successfully processed video: https://www.youtube.com/watch?v=Sx-lddna-qg
+2026-10-14 05:38:49,168 - INFO - ✓ Successfully processed video 5
+2026-10-14 05:38:49,168 - INFO - 📊 Manual Ingestion Summary
+2026-10-14 05:38:49,169 - INFO - ==================================================
+2026-10-14 05:38:49,169 - INFO - Channel: How Money Works
+2026-10-14 05:38:49,169 - INFO - Total videos available: 10
+2026-10-14 05:38:49,169 - INFO - Unprocessed videos: 10
+2026-10-14 05:38:49,169 - INFO - Videos selected for processing: 5
+2026-10-14 05:38:49,169 - INFO - Videos processed: 5
+2026-10-14 05:38:49,169 - INFO - Errors encountered: 0
+2026-10-14 05:38:49,169 - INFO - Success rate: 100.0% (5/5)
+2026-10-14 05:38:49,169 - INFO - Duration: 0:00:13.014668
+2026-10-14 05:38:49,169 - INFO - Log file: logs/manual_how_money_works_ingestion_20261014_053836.log
+2026-10-14 05:38:49,169 - INFO - Total processed to date: 5
+2026-10-14 05:38:49,169 - INFO - 🔍 Running quality checks...
+2026-10-14 05:38:49,169 - INFO - Running quality checks...
+2026-10-14 05:38:49,169 - INFO - 🔍 Verifying page details before deployment...
+2026-10-14 05:38:49,191 - INFO - Verifying 24 changed markdown files...
+2026-10-14 05:38:49,195 - ERROR - ❌ Page verification failed:
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'title': docs/raw/videos/youtube-6BOxK_JrghY-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'created': docs/raw/videos/youtube-6BOxK_JrghY-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'updated': docs/raw/videos/youtube-6BOxK_JrghY-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'tags': docs/raw/videos/youtube-6BOxK_JrghY-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'sources': docs/raw/videos/youtube-6BOxK_JrghY-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'title': docs/raw/videos/youtube-Sx-lddna-qg-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'created': docs/raw/videos/youtube-Sx-lddna-qg-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'updated': docs/raw/videos/youtube-Sx-lddna-qg-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'tags': docs/raw/videos/youtube-Sx-lddna-qg-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ❌ Missing frontmatter field 'sources': docs/raw/videos/youtube-Sx-lddna-qg-transcript.md
+2026-10-14 05:38:49,195 - ERROR -   ... and 53 more issues
+2026-10-14 05:38:49,195 - ERROR - ❌ Page verification failed - aborting quality checks and deployment
+2026-10-14 05:38:49,195 - WARNING - ⚠️ Quality checks failed - skipping deployment
+2026-10-14 05:38:49,195 - INFO - 🎉 Manual ingestion completed

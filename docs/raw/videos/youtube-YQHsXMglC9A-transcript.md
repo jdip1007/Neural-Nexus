@@ -1,13 +1,20 @@
 ---
-source_url: https://www.youtube.com/watch?v=YQHsXMglC9A
-source_type: video
-ingested: 2026-10-12
-published: 2026-10-12
-duration_minutes: 0
-language: en
-sha256: d01eefad0fc49b54dc63dee84289eeefdbbe69c632eedc066b86f3f7497bfce8
+title: Video YQHsXMglC9A
+created: 2026-10-14
+updated: 2026-10-14
+type: raw
+domain: ai
+classification: general.media
+tags: [youtube, transcript, YQHsXMglC9A]
+sources: ["https://www.youtube.com/watch?v=YQHsXMglC9A"]
+published: 2026-10-14
 time_sensitive: False
+confidence: medium
+status: active
+reviewed: 2026-10-14
 ---
+
+
 
 # YouTube Transcript: Video YQHsXMglC9A
 

@@ -1,37 +1,35 @@
 ---
 title: Storage Wars Is Worse Than You Thought - Summary
-created: 2026-10-01
-updated: 2026-10-01
+created: 2026-10-14
+updated: 2026-10-14
 type: reading
-domain: media
+domain: ai
 classification: general.media
-tags: [youtube, video-summary]
-sources: [youtube-eTfGOlJiLbk-transcript.md]
-published: 2026-10-01
+tags: [youtube, video-summary, transcript, eTfGOlJiLbk]
+sources: [raw/videos/youtube-eTfGOlJiLbk-transcript.md]
+published: 2026-10-14
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-01
+reviewed: 2026-10-14
 ---
 
 # Storage Wars Is Worse Than You Thought - Summary
 
 ## TL;DR
-This video provides an in-depth analysis of storage wars is worse than you thought.
+This video discusses Storage Wars Is Worse Than You Thought
 
 ## Key Points
 
 ## Entities Mentioned
-- **Storage-Wars**: [[youtube-eTfGOlJiLbk-storage-wars]]
+- **Persons**: Storage Wars, Is Worse, Than You
 
 ## Related Concepts
-- media
-- [[internet-culture]]
-- [[youtube]]
+- [[ai]]
 
 ## Transcript Highlights
 
 ## Takeaways
 - Video provides insights into the topic
-- Contains detailed analysis and examples
-- Discusses current developments and trends in the digital media space
+- Contains technical explanations and examples
+- Discusses current developments and trends

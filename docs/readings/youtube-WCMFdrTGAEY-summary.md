@@ -1,17 +1,17 @@
 ---
 title: The OCW Update - September 2026 - Summary
-created: 2026-10-13
-updated: 2026-10-13
+created: 2026-10-14
+updated: 2026-10-14
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, WCMFdrTGAEY]
 sources: [raw/videos/youtube-WCMFdrTGAEY-transcript.md]
-published: 2026-10-13
+published: 2026-10-14
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-13
+reviewed: 2026-10-14
 ---
 
 # The OCW Update - September 2026 - Summary
