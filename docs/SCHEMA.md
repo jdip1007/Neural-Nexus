@@ -140,6 +140,7 @@ transcript_available: true
 - personal-growth
 - personal-life
 - physical-fitness
+- fitness
 - self
 - sensitivity
 - social
@@ -483,6 +484,7 @@ neurovascular-unit
 psychiatric-comorbidity
 psychiatric-genetics
 screen-addiction
+self-help
 self-improvement
 self-perception
 social-skills
@@ -508,6 +510,11 @@ attention
 focus
 problem-solving
 decision-making
+critical-thinking
+book-review
+voice-cloning
+conspiracy
+coercion
 mindset
 personal-development
 skill-development
@@ -887,6 +894,7 @@ content-creator
 content-creators
 entertainment-industry
 media-production
+youtube
 youtube-channel
 youtube-documentary
 youtube-educator
