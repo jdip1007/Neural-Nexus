@@ -743,3 +743,14 @@ updated: 2026-09-25
 - `concepts/sex-differences-in-coffee-metabolism.md` — full sex-specific comparison table
 
 **Tags added:** 43 new tags to SCHEMA.md (coffee, testosterone, shbg, bcaa, cardiometabolic, etc.)
+
+## 2026-10-16 - HealthyGamerGG Daily Ingestion
+
+- Created [[How-to-Stop-Overthinking-Everything]] from qW7LCL2f1HE
+- Created [[Why-Being-Too-Nice-Makes-People-Disrespect-You]] from f8cGF2Ld1Mg
+- Created [[The-Truth-About-Emotional-Manipulation]] from Mv9Qx2Rj4HK
+- Created [[The-Hidden-Connection-Between-Sleep-and-Anxiety]] from Dw2Lp6R8nUY
+- Created [[Why-Smart-People-Struggle-With-Loneliness]] from Yq8Wn3P2vRM
+
+- Videos processed: 5
+- Videos failed: 0
