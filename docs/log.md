@@ -754,3 +754,15 @@ updated: 2026-09-25
 
 - Videos processed: 5
 - Videos failed: 0
+
+## 2026-10-16 - How Money Works Daily Ingestion
+
+- Created [[youtube-AuXYXih0wVA-this-economy-sucks-why-is-the-stock-market-booming]] from AuXYXih0wVA
+- Created [[youtube-7aokdMZ4SFY-buy-now-default-later]] from 7aokdMZ4SFY
+- Created [[youtube-ePRKktu7B7c-why-private-equity-buyout-funds-have-high-investment-returns]] from ePRKktu7B7c
+- Created [[youtube-2I9ZMCA1N2w-the-surprisingly-solid-case-for-a-three-day-work-week-how-money-works]] from 2I9ZMCA1N2w
+- Created [[youtube-ZkA5WP7spQ8-how-to-make-279000000-by-being-a-little-snitch]] from ZkA5WP7spQ8
+
+- Videos processed: 5
+- Videos failed: 0
+- Source: How Money Works YouTube channel

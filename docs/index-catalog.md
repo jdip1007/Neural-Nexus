@@ -2453,3 +2453,16 @@
 - [[The-Truth-About-Emotional-Manipulation]] · `psychology.mental-health` · `psychology` · ✓ 2026-10-16
 - [[The-Hidden-Connection-Between-Sleep-and-Anxiety]] · `psychology.mental-health` · `psychology` · ✓ 2026-10-16
 - [[Why-Smart-People-Struggle-With-Loneliness]] · `psychology.mental-health` · `psychology` · ✓ 2026-10-16
+
+## How Money Works - 2026-10-16
+
+- [[youtube-AuXYXih0wVA-this-economy-sucks-why-is-the-stock-market-booming]] · `finance` · `2026-10-16`
+- [[howmoneyworks_AuXYXih0wVA_20261016]] · `finance` · `2026-10-16`
+- [[youtube-7aokdMZ4SFY-buy-now-default-later]] · `finance` · `2026-10-16`
+- [[howmoneyworks_7aokdMZ4SFY_20261016]] · `finance` · `2026-10-16`
+- [[youtube-ePRKktu7B7c-why-private-equity-buyout-funds-have-high-investment-returns]] · `finance` · `2026-10-16`
+- [[howmoneyworks_ePRKktu7B7c_20261016]] · `finance` · `2026-10-16`
+- [[youtube-2I9ZMCA1N2w-the-surprisingly-solid-case-for-a-three-day-work-week-how-money-works]] · `finance` · `2026-10-16`
+- [[howmoneyworks_2I9ZMCA1N2w_20261016]] · `finance` · `2026-10-16`
+- [[youtube-ZkA5WP7spQ8-how-to-make-279000000-by-being-a-little-snitch]] · `finance` · `2026-10-16`
+- [[howmoneyworks_ZkA5WP7spQ8_20261016]] · `finance` · `2026-10-16`
