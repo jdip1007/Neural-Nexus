@@ -1,8 +1,8 @@
 ---
-title: 44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)
+title: "44 Harsh Truths About The Game Of Life - Naval Ravikant (4K)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, KyfUysrNaco]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=KyfUysrNaco
+source_type: video---
 
 
 

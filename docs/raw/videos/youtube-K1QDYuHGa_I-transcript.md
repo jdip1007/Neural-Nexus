@@ -1,8 +1,8 @@
 ---
-title: How to Win Every Single Day - David Goggins
+title: "How to Win Every Single Day - David Goggins"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, K1QDYuHGa_I]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=K1QDYuHGa_I
+source_type: video---
 
 
 

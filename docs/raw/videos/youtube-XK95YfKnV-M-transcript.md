@@ -1,5 +1,5 @@
 ---
-title: Pool Testing Video 5 (No Audio)
+title: "Pool Testing Video 5 (No Audio)"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

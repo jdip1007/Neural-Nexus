@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: The Kai Cenat Files Are Disturbing
+title: "YouTube Transcript: The Kai Cenat Files Are Disturbing"
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, HPGndzOnr3g]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=HPGndzOnr3g
 source_type: video
 ingested: 2026-10-14

@@ -1,8 +1,8 @@
 ---
-title: Class 27 Video: Feature Extraction and Machine Learning
+title: "Class 27 Video: Feature Extraction and Machine Learning"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, ivvxfWR1azI]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=ivvxfWR1azI
+source_type: video---
 
 
 

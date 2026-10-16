@@ -3,7 +3,8 @@ title: The Secret to Fixing Your Adulthood
 video_id: iCdfSRc2QNg
 generated_at: 2026-10-09T08:59:16.561433
 topics: ['digital_life', 'gaming', 'self_improvement', 'mental_health', 'online_communities', 'growth', 'personal_development', 'psychology']
----
+source_url: https://www.youtube.com/watch?v=iCdfSRc2QNg
+source_type: video---
 
 # The Secret to Fixing Your Adulthood
 
@@ -46,11 +47,11 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital_life]]
-[[gaming]]
-[[self_improvement]]
-[[mental_health]]
-[[online_communities]]
-[[growth]]
-[[personal_development]]
-[[psychology]]
+digital_life
+gaming
+self_improvement
+mental_health
+online_communities
+growth
+personal_development
+psychology

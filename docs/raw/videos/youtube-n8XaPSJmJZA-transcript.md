@@ -1,8 +1,8 @@
 ---
-title: INSANE WILD ANIMAL STORIES (Compilation)
+title: "INSANE WILD ANIMAL STORIES (Compilation)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, n8XaPSJmJZA]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=n8XaPSJmJZA
+source_type: video---
 
 
 

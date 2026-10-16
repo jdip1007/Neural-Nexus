@@ -1,8 +1,8 @@
 ---
-title: How To Make Your Own Currency & The Companies That Already Have - How Money Works
+title: "How To Make Your Own Currency & The Companies That Already Have - How Money Works"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 5EDzRGxHT2M]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=5EDzRGxHT2M
+source_type: video---
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: What Happens To Your Body When You Stop Drinking Alcohol
+title: "What Happens To Your Body When You Stop Drinking Alcohol"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, gkWByWY3Gdk]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=gkWByWY3Gdk
+source_type: video---
 
 
 

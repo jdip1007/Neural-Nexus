@@ -1,8 +1,8 @@
 ---
-title: Smartphone makers are panicking...
+title: "Smartphone makers are panicking..."
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, BPnIYS35Fhk]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=BPnIYS35Fhk
+source_type: video---
 
 
 

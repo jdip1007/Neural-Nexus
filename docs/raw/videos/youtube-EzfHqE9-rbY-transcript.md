@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: My Computer is now 4× Faster! That’s Why It Won’t Boot...
+title: "YouTube Transcript: My Computer is now 4× Faster! That’s Why It Won’t Boot..."
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, EzfHqE9-rbY]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=EzfHqE9-rbY
 source_type: video
 ingested: 2026-10-14

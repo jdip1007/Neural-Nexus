@@ -1,5 +1,5 @@
 ---
-title: The Epstein Story You Haven’t Heard - Eric Weinstein
+title: "The Epstein Story You Haven’t Heard - Eric Weinstein"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

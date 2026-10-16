@@ -1,8 +1,8 @@
 ---
-title: Video 6b: Representations of Ontologies: Craig Sapp’s Rosetta Stone
+title: "Video 6b: Representations of Ontologies: Craig Sapp’s Rosetta Stone"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, VHjH6A9InR4]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=VHjH6A9InR4
+source_type: video---
 
 
 

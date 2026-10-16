@@ -1,8 +1,8 @@
 ---
-title: The AI bubble is about to burst
+title: "The AI bubble is about to burst"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, fGGuVY6Tcog]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=fGGuVY6Tcog
+source_type: video---
 
 
 

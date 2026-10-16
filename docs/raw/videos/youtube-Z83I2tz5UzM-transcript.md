@@ -1,8 +1,8 @@
 ---
-title: Could 2 People Actually Repopulate Earth
+title: "Could 2 People Actually Repopulate Earth"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Z83I2tz5UzM]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Z83I2tz5UzM
+source_type: video---
 
 
 

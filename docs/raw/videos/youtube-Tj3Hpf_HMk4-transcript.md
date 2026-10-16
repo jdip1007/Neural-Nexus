@@ -1,8 +1,8 @@
 ---
-title: Student Video: Real and Reciprocal Space in 2D and 3D
+title: "Student Video: Real and Reciprocal Space in 2D and 3D"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Tj3Hpf_HMk4]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Tj3Hpf_HMk4
+source_type: video---
 
 
 

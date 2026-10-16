@@ -1,8 +1,8 @@
 ---
-title: The Collapse of Chernobyl's $2.5 Billion Containment Arch
+title: "The Collapse of Chernobyl's $2.5 Billion Containment Arch"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Eh3xXKar2uM]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Eh3xXKar2uM
+source_type: video---
 
 
 

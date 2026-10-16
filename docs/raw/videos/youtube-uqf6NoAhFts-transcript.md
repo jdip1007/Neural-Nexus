@@ -1,8 +1,8 @@
 ---
-title: The Job Market Has Changed... Again.
+title: "The Job Market Has Changed... Again."
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, uqf6NoAhFts]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=uqf6NoAhFts
+source_type: video---
 
 
 

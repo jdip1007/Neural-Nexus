@@ -1,8 +1,8 @@
 ---
-title: Video WyLzAbp3nuw
+title: "Video WyLzAbp3nuw"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, WyLzAbp3nuw]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=WyLzAbp3nuw
+source_type: video---
 
 
 

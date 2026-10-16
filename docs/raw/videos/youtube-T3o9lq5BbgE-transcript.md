@@ -1,8 +1,8 @@
 ---
-title: How Clara Dao Lost Her Entire Audience In 3 Days…
+title: "How Clara Dao Lost Her Entire Audience In 3 Days…"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, T3o9lq5BbgE]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=T3o9lq5BbgE
+source_type: video---
 
 
 

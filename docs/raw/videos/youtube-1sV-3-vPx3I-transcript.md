@@ -1,5 +1,5 @@
 ---
-title: The Dark History of Zip Files
+title: "The Dark History of Zip Files"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

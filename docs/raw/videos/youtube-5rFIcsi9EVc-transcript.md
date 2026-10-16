@@ -1,8 +1,8 @@
 ---
-title: What If You Don't Eat (Day by Day)
+title: "What If You Don't Eat (Day by Day)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 5rFIcsi9EVc]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=5rFIcsi9EVc
+source_type: video---
 
 
 

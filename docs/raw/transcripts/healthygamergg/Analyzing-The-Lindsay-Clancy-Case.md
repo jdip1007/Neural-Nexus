@@ -1,6 +1,8 @@
 ---
 title: Analyzing The Lindsay Clancy Case
 video_id: 7MykFJ7TByM
+source_url: https://www.youtube.com/watch?v=7MykFJ7TByM
+source_type: video
 generated_at: 2026-10-15T16:02:32.629514
 topics: ['personal_development', 'mental_health', 'gaming', 'digital_life', 'online_communities', 'psychology']
 ---
@@ -44,9 +46,9 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[personal_development]]
-[[mental_health]]
-[[gaming]]
-[[digital_life]]
-[[online_communities]]
-[[psychology]]
+personal_development
+mental_health
+gaming
+digital_life
+online_communities
+psychology

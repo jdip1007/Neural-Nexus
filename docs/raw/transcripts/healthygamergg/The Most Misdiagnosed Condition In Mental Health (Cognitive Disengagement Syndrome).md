@@ -622,7 +622,7 @@ series:
 [22:20] >> [music]
 
 ## See also
-- [[relationships]]
-- [[depression]]
-- [[executive-function]]
-- [[anxiety]]
+- relationships
+- depression
+- executive-function
+- anxiety

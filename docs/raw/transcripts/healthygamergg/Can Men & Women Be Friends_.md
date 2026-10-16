@@ -621,10 +621,10 @@ series:
 [21:24] >> Mhm.
 
 ## See also
-- [[relationships]]
-- [[investment]]
-- [[psychology]]
-- [[investing]]
-- [[emotional-regulation]]
-- [[business]]
-- [[mental-health]]
+- relationships
+- investment
+- psychology
+- investing
+- emotional-regulation
+- business
+- mental-health

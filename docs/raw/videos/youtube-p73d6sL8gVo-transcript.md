@@ -1,8 +1,8 @@
 ---
-title: Why Are We Doing This To Canada?
+title: "Why Are We Doing This To Canada?"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, p73d6sL8gVo]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=p73d6sL8gVo
+source_type: video---
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: Autism Works - Neurodiversity in the Workplace
+title: "Autism Works - Neurodiversity in the Workplace"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, kLcpCqLwNU8]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=kLcpCqLwNU8
+source_type: video---
 
 
 

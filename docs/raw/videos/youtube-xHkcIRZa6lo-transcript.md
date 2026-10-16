@@ -1,8 +1,8 @@
 ---
-title: Why You Should NEVER Confess Your Love
+title: "Why You Should NEVER Confess Your Love"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, xHkcIRZa6lo]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=xHkcIRZa6lo
+source_type: video---
 
 
 

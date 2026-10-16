@@ -1,8 +1,8 @@
 ---
-title: Video 14: Using a Smartphone
+title: "Video 14: Using a Smartphone"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, h1GtR8xJraw]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=h1GtR8xJraw
+source_type: video---
 
 
 

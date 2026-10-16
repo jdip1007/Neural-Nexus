@@ -1,8 +1,8 @@
 ---
-title: How a $20 AI is Replacing $235,000 Lawyers
+title: "How a $20 AI is Replacing $235,000 Lawyers"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, haZ5gddlQ4g]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=haZ5gddlQ4g
+source_type: video---
 
 
 

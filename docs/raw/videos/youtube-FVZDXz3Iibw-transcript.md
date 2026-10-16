@@ -1,8 +1,8 @@
 ---
-title: How Much Of Our Economy Is Just Keeping Boomers Alive?
+title: "How Much Of Our Economy Is Just Keeping Boomers Alive?"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, FVZDXz3Iibw]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=FVZDXz3Iibw
+source_type: video---
 
 
 

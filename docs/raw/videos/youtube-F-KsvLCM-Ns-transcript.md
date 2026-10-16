@@ -1,5 +1,5 @@
 ---
-title: Class 8 Video: Hierarchies (II): Streams and Recursions
+title: "Class 8 Video: Hierarchies (II): Streams and Recursions"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

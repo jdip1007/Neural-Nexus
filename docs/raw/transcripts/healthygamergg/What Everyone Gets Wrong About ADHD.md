@@ -845,7 +845,7 @@ series:
 [27:52] [music]
 
 ## See also
-- [[relationships]]
-- [[mindfulness]]
-- [[depression]]
-- [[executive-function]]
+- relationships
+- mindfulness
+- depression
+- executive-function

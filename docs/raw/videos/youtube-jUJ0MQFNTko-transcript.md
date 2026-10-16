@@ -1,8 +1,8 @@
 ---
-title: Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation)
+title: "Insane Ways People Are Preparing for Doomsday And More Insane Videos (Compilation)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, jUJ0MQFNTko]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=jUJ0MQFNTko
+source_type: video---
 
 
 

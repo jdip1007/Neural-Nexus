@@ -784,7 +784,7 @@ series:
 [28:24] can do.
 
 ## See also
-- [[market]]
-- [[investing]]
-- [[programming]]
-- [[anxiety]]
+- market
+- investing
+- programming
+- anxiety

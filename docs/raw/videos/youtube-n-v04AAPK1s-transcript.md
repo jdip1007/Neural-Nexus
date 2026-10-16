@@ -1,5 +1,5 @@
 ---
-title: Are you an Addict? | Episode 002 Video Game Addiction
+title: "Are you an Addict? | Episode 002 Video Game Addiction"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

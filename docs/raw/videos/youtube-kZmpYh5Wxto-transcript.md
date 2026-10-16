@@ -1,8 +1,8 @@
 ---
-title: The Challenger Space Shuttle Disaster - Explained (Minute by Minute)
+title: "The Challenger Space Shuttle Disaster - Explained (Minute by Minute)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, kZmpYh5Wxto]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=kZmpYh5Wxto
+source_type: video---
 
 
 

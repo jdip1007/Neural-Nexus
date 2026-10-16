@@ -474,9 +474,9 @@ series:
 [15:44] don't always know.
 
 ## See also
-- [[relationships]]
-- [[therapy]]
-- [[psychology]]
-- [[algorithm]]
-- [[anxiety]]
-- [[mental-health]]
+- relationships
+- therapy
+- psychology
+- algorithm
+- anxiety
+- mental-health

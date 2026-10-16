@@ -493,6 +493,6 @@ series:
 [18:16] >> [music]
 
 ## See also
-- [[therapy]]
-- [[depression]]
-- [[mental-health]]
+- therapy
+- depression
+- mental-health

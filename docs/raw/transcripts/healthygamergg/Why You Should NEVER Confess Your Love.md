@@ -1015,7 +1015,7 @@ series:
 [35:35] >> [music]
 
 ## See also
-- [[relationships]]
-- [[psychology]]
-- [[market]]
-- [[bonds]]
+- relationships
+- psychology
+- market
+- bonds

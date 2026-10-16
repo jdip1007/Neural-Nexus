@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: The Dark Life After To Catch a Predator
+title: "YouTube Transcript: The Dark Life After To Catch a Predator"
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, wBGF1M4e3l8]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=wBGF1M4e3l8
 source_type: video
 ingested: 2026-10-14

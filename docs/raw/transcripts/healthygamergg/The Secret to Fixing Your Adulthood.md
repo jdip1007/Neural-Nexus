@@ -666,7 +666,7 @@ series:
 [22:02] trial.
 
 ## See also
-- [[relationships]]
-- [[therapy]]
-- [[psychology]]
-- [[anxiety]]
+- relationships
+- therapy
+- psychology
+- anxiety

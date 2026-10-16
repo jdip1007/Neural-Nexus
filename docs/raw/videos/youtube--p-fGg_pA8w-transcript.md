@@ -1,5 +1,5 @@
 ---
-title: Astros vs. Athletics Highlights (9/26/26) | MLB Highlights
+title: "Astros vs. Athletics Highlights (9/26/26) | MLB Highlights"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

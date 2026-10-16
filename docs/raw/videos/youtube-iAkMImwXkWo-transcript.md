@@ -1,8 +1,8 @@
 ---
-title: From Core Memory to the Internet: Amazing History of the PDP-11
+title: "From Core Memory to the Internet: Amazing History of the PDP-11"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, iAkMImwXkWo]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=iAkMImwXkWo
+source_type: video---
 
 
 

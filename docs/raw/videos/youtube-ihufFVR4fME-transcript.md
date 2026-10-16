@@ -1,8 +1,8 @@
 ---
-title: 50 Insane World War 2 Facts That Will Shock You!
+title: "50 Insane World War 2 Facts That Will Shock You!"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, ihufFVR4fME]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=ihufFVR4fME
+source_type: video---
 
 
 

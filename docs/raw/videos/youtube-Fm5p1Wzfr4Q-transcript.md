@@ -1,8 +1,8 @@
 ---
-title: The 60-Minute Collapse of the Xbox Empire
+title: "The 60-Minute Collapse of the Xbox Empire"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Fm5p1Wzfr4Q]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Fm5p1Wzfr4Q
+source_type: video---
 
 
 

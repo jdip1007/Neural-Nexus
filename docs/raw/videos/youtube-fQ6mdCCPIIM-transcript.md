@@ -1,8 +1,8 @@
 ---
-title: Week 3 Update Video
+title: "Week 3 Update Video"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, fQ6mdCCPIIM]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=fQ6mdCCPIIM
+source_type: video---
 
 
 

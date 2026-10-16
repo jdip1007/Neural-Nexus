@@ -1,8 +1,8 @@
 ---
-title: Anarchist Law: Justice Without the State
+title: "Anarchist Law: Justice Without the State"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, pX2rY7sT9U]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=pX2rY7sT9U
+source_type: video---
 
 
 

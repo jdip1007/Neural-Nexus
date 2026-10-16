@@ -1,5 +1,5 @@
 ---
-title: Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet Paper?
+title: "Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet Paper?"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

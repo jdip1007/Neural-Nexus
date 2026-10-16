@@ -1,8 +1,8 @@
 ---
-title: Class 7 Video: Music Representation (IV) & Hierarchies (I)
+title: "Class 7 Video: Music Representation (IV) & Hierarchies (I)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 2UpHyGPVdgg]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=2UpHyGPVdgg
+source_type: video---
 
 
 

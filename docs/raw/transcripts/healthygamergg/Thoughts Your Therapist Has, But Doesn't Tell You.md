@@ -1068,10 +1068,10 @@ series:
 [37:01] talking about your feelings.
 
 ## See also
-- [[therapy]]
-- [[insurance]]
-- [[cloud]]
-- [[depression]]
-- [[business]]
-- [[anxiety]]
-- [[mental-health]]
+- therapy
+- insurance
+- cloud
+- depression
+- business
+- anxiety
+- mental-health

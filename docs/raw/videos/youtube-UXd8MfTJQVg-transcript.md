@@ -1,8 +1,8 @@
 ---
-title: What do CPUs do when there's nothing to do?
+title: "What do CPUs do when there's nothing to do?"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, UXd8MfTJQVg]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=UXd8MfTJQVg
+source_type: video---
 
 
 

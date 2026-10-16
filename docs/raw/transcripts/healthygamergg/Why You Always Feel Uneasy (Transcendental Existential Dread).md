@@ -348,5 +348,5 @@ series:
 [11:57] here.
 
 ## See also
-- [[philosophy]]
-- [[anxiety]]
+- philosophy
+- anxiety

@@ -707,8 +707,8 @@ series:
 [23:34] penis day. Okay. I I don't know.
 
 ## See also
-- [[relationships]]
-- [[therapy]]
-- [[youtube]]
-- [[obesity]]
-- [[testosterone]]
+- relationships
+- therapy
+- youtube
+- obesity
+- testosterone

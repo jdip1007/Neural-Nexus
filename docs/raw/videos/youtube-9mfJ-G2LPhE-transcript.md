@@ -1,5 +1,5 @@
 ---
-title: What Caused the Rise of Nazi Germany
+title: "What Caused the Rise of Nazi Germany"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

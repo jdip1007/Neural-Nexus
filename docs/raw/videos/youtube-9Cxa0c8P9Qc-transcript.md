@@ -1,8 +1,8 @@
 ---
-title: Video 3c: How to Approach the Problem Sets
+title: "Video 3c: How to Approach the Problem Sets"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 9Cxa0c8P9Qc]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=9Cxa0c8P9Qc
+source_type: video---
 
 
 

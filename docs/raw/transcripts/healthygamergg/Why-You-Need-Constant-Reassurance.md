@@ -3,7 +3,8 @@ title: Why You Need Constant Reassurance
 video_id: vr-EwLQCOIk
 generated_at: 2026-10-09T08:58:56.794251
 topics: ['online_communities', 'mental_health', 'gaming', 'psychology', 'personal_development', 'digital_life']
----
+source_url: https://www.youtube.com/watch?v=vr-EwLQCOIk
+source_type: video---
 
 # Why You Need Constant Reassurance
 
@@ -44,9 +45,9 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[online_communities]]
-[[mental_health]]
-[[gaming]]
-[[psychology]]
-[[personal_development]]
-[[digital_life]]
+online_communities
+mental_health
+gaming
+psychology
+personal_development
+digital_life

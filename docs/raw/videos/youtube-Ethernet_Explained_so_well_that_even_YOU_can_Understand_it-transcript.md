@@ -1,8 +1,8 @@
 ---
-title: Unknown
+title: "Unknown"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Ethernet_Explained_so_well_that_even_YOU_can_Understand_it]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Ethernet_Explained_so_well_that_even_YOU_can_Understand_it
+source_type: video---
 
 
 

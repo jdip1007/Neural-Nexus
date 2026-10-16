@@ -1,8 +1,8 @@
 ---
-title: Jack Doherty’s Life Is Falling Apart
+title: "Jack Doherty’s Life Is Falling Apart"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, tVSwhYcA1y8]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=tVSwhYcA1y8
+source_type: video---
 
 
 

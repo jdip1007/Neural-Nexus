@@ -3039,8 +3039,8 @@ series:
 [98:22] and we'll see y'all in the next episode.
 
 ## See also
-- [[relationships]]
-- [[therapy]]
-- [[self-improvement]]
-- [[economy]]
-- [[anxiety]]
+- relationships
+- therapy
+- self-improvement
+- economy
+- anxiety

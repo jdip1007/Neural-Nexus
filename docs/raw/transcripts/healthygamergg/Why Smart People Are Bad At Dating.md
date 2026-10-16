@@ -495,4 +495,4 @@ series:
 [15:02] one.
 
 ## See also
-- [[relationships]]
+- relationships

@@ -1,8 +1,8 @@
 ---
-title: America's "Unsolvable" Problem
+title: "America's "Unsolvable" Problem"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, fQOQuge0dfw]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=fQOQuge0dfw
+source_type: video---
 
 
 

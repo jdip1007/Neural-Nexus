@@ -1,8 +1,8 @@
 ---
-title: Unknown
+title: "Unknown"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, The_Challenge_Can_we_build_Notepad_in_3K_in_assembly_language]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=The_Challenge_Can_we_build_Notepad_in_3K_in_assembly_language
+source_type: video---
 
 
 

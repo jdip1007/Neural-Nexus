@@ -1,5 +1,5 @@
 ---
-title: Video 22: Speaking to the Public
+title: "Video 22: Speaking to the Public"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

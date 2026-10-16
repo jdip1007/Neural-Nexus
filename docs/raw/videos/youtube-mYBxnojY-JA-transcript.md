@@ -1,5 +1,5 @@
 ---
-title: Malloc is NOT Magic: Let's Build it to Learn What's Inside!
+title: "Malloc is NOT Magic: Let's Build it to Learn What's Inside!"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

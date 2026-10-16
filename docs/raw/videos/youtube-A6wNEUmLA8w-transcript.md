@@ -1,8 +1,8 @@
 ---
-title: This Video Will Make You Touhou Fumo
+title: "This Video Will Make You Touhou Fumo"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, A6wNEUmLA8w]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=A6wNEUmLA8w
+source_type: video---
 
 
 

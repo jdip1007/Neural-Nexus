@@ -3,7 +3,8 @@ title: Why You Can't Just "Rewire" Your Brain
 video_id: OfPOtN51MpM
 generated_at: 2026-10-09T08:58:57.795475
 topics: ['online_communities', 'mental_health', 'psychology', 'growth', 'self_improvement', 'gaming', 'personal_development', 'therapy', 'digital_life']
----
+source_url: https://www.youtube.com/watch?v=OfPOtN51MpM
+source_type: video---
 
 # Why You Can't Just "Rewire" Your Brain
 
@@ -47,12 +48,12 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[online_communities]]
-[[mental_health]]
-[[psychology]]
-[[growth]]
-[[self_improvement]]
-[[gaming]]
-[[personal_development]]
-[[therapy]]
-[[digital_life]]
+online_communities
+mental_health
+psychology
+growth
+self_improvement
+gaming
+personal_development
+therapy
+digital_life

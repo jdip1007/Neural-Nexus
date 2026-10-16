@@ -1,8 +1,8 @@
 ---
-title: 8.2.4 An Introduction to Linear Optimization - Video 3: The Problem Formulation
+title: "8.2.4 An Introduction to Linear Optimization - Video 3: The Problem Formulation"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 6m4l2k9hBZw]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=6m4l2k9hBZw
+source_type: video---
 
 
 

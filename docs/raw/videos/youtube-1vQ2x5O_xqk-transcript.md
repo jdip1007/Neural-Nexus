@@ -1,8 +1,8 @@
 ---
-title: 4.3.1 Independence: Video
+title: "4.3.1 Independence: Video"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 1vQ2x5O_xqk]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=1vQ2x5O_xqk
+source_type: video---
 
 
 

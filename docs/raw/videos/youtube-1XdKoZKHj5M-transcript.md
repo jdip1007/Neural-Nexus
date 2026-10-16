@@ -1,8 +1,8 @@
 ---
-title: Optics: Fraunhofer diffraction - thin wires | MIT Video Demonstrations in Lasers and Optics
+title: "Optics: Fraunhofer diffraction - thin wires | MIT Video Demonstrations in Lasers and Optics"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 1XdKoZKHj5M]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=1XdKoZKHj5M
+source_type: video---
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Video Transcript
+title: "Video Transcript"
 created: 2026-10-01
 updated: 2026-10-01
 type: reading
@@ -9,7 +9,7 @@ ingested: 2026-10-01
 published: recent
 duration_minutes: 20
 language: en
-time_sensitive: True
+time_sensitive: true
 ---
 
 

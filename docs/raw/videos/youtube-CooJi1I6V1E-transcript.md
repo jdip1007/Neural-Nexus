@@ -1,8 +1,8 @@
 ---
-title: Video Game Addiction Overview | Episode 001
+title: "Video Game Addiction Overview | Episode 001"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, CooJi1I6V1E]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=CooJi1I6V1E
+source_type: video---
 
 
 

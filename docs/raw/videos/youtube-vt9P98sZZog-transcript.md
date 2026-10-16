@@ -1,8 +1,8 @@
 ---
-title: Psychology behind Gamer Rage | Dr.K Explains
+title: "Psychology behind Gamer Rage | Dr.K Explains"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, vt9P98sZZog]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=vt9P98sZZog
+source_type: video---
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Chciałem przebiec MARATON W 30 DNI (BEZ WCZEŚNIEJSZEGO DOŚWIADCZENIA)
+title: "Chciałem przebiec MARATON W 30 DNI (BEZ WCZEŚNIEJSZEGO DOŚWIADCZENIA)"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

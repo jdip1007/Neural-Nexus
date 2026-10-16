@@ -1,8 +1,8 @@
 ---
-title: It's NOT Just Chernobyl. The REAL Disaster Is 10,000 Blocks Deep.
+title: "It's NOT Just Chernobyl. The REAL Disaster Is 10,000 Blocks Deep."
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 6vfWtjq1u6w]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=6vfWtjq1u6w
+source_type: video---
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: It's a $12,000 EV. The American Car Industry Is DOOMED.
+title: "It's a $12,000 EV. The American Car Industry Is DOOMED."
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 7HF6UuVdihA]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=7HF6UuVdihA
+source_type: video---
 
 
 

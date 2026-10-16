@@ -1,5 +1,5 @@
 ---
-title: The Satisfying Downfall of OnlyJayus
+title: "The Satisfying Downfall of OnlyJayus"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

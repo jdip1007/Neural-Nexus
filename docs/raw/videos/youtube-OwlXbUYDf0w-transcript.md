@@ -1,8 +1,8 @@
 ---
-title: Why You Can’t Stop Scrolling (End-Stage Screen Addiction)
+title: "Why You Can’t Stop Scrolling (End-Stage Screen Addiction)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, OwlXbUYDf0w]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=OwlXbUYDf0w
+source_type: video---
 
 
 

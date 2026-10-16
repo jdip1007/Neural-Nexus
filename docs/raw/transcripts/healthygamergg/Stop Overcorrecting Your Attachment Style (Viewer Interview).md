@@ -1103,8 +1103,8 @@ series:
 [34:43] >> Okay. Take care.
 
 ## See also
-- [[index]]
-- [[relationships]]
-- [[therapy]]
-- [[youtube]]
-- [[framework]]
+- index
+- relationships
+- therapy
+- youtube
+- framework

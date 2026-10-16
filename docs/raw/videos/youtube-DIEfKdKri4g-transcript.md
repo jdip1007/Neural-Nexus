@@ -1,8 +1,8 @@
 ---
-title: How Airrack Has Been Faking Videos | Internet Anarchist Reaction
+title: "How Airrack Has Been Faking Videos | Internet Anarchist Reaction"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, DIEfKdKri4g]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=DIEfKdKri4g
+source_type: video---
 
 
 

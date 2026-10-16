@@ -1,8 +1,8 @@
 ---
-title: Insane Declassified CIA Secrets You Aren't Supposed to Know
+title: "Insane Declassified CIA Secrets You Aren't Supposed to Know"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, sC1qyauA5Jk]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=sC1qyauA5Jk
+source_type: video---
 
 
 

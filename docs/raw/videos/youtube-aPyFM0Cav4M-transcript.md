@@ -1,8 +1,8 @@
 ---
-title: Why Gen Z DON'T WANT Kids
+title: "Why Gen Z DON'T WANT Kids"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, aPyFM0Cav4M]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=aPyFM0Cav4M
+source_type: video---
 
 
 

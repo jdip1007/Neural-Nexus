@@ -691,6 +691,6 @@ series:
 [22:37] mechanism.
 
 ## See also
-- [[relationships]]
-- [[therapy]]
-- [[youtube]]
+- relationships
+- therapy
+- youtube

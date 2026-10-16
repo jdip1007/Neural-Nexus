@@ -1,8 +1,8 @@
 ---
-title: Hacking Task Manager on 1024+ Cores w/ Cool Video Demos!
+title: "Hacking Task Manager on 1024+ Cores w/ Cool Video Demos!"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, oKQ1X_4JCn0]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=oKQ1X_4JCn0
+source_type: video---
 
 
 

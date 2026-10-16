@@ -1,5 +1,5 @@
 ---
-title: Class 28 Video: Feature Extraction and Machine Learning (II)
+title: "Class 28 Video: Feature Extraction and Machine Learning (II)"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

@@ -1,5 +1,5 @@
 ---
-title: You NEED to STOP Using Meta Right NOW. The Collapse JUST Began.
+title: "You NEED to STOP Using Meta Right NOW. The Collapse JUST Began."
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

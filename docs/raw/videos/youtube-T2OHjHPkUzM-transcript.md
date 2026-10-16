@@ -1,8 +1,8 @@
 ---
-title: Why You Don't Matter Anymore ........... (Economically Speaking)
+title: "Why You Don't Matter Anymore ........... (Economically Speaking)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, T2OHjHPkUzM]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=T2OHjHPkUzM
+source_type: video---
 
 
 

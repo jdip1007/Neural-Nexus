@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: Storage Wars Is Worse Than You Thought
+title: "YouTube Transcript: Storage Wars Is Worse Than You Thought"
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, eTfGOlJiLbk]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=eTfGOlJiLbk
 source_type: video
 ingested: 2026-10-14

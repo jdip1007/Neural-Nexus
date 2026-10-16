@@ -1,8 +1,8 @@
 ---
-title: How to Speak
+title: "How to Speak"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Unzc731iCUY]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Unzc731iCUY
+source_type: video---
 
 
 

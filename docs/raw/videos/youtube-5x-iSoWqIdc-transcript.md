@@ -1,5 +1,5 @@
 ---
-title: How North Korea Became the World’s Most Isolated Country
+title: "How North Korea Became the World’s Most Isolated Country"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

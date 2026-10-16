@@ -1,8 +1,8 @@
 ---
-title: 7 Nations Just EXPOSED The Pentagon's Alien Lie & Other UFO Stories
+title: "7 Nations Just EXPOSED The Pentagon's Alien Lie & Other UFO Stories"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 4NtVHGT2tgI]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=4NtVHGT2tgI
+source_type: video---
 
 
 

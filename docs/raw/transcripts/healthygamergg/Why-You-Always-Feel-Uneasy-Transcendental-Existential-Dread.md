@@ -3,7 +3,8 @@ title: Why You Always Feel Uneasy (Transcendental Existential Dread)
 video_id: oCB-sCIKnkU
 generated_at: 2026-10-09T08:59:20.566877
 topics: ['digital_life', 'gaming', 'anxiety', 'mental_health', 'online_communities', 'personal_development', 'psychology', 'stress', 'emotional_regulation']
----
+source_url: https://www.youtube.com/watch?v=oCB-sCIKnkU
+source_type: video---
 
 # Why You Always Feel Uneasy (Transcendental Existential Dread)
 
@@ -47,12 +48,12 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[digital_life]]
-[[gaming]]
-[[anxiety]]
-[[mental_health]]
-[[online_communities]]
-[[personal_development]]
-[[psychology]]
-[[stress]]
-[[emotional_regulation]]
+digital_life
+gaming
+anxiety
+mental_health
+online_communities
+personal_development
+psychology
+stress
+emotional_regulation

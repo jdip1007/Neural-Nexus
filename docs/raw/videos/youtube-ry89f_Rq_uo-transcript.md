@@ -1,8 +1,8 @@
 ---
-title: Sunflower Video 1
+title: "Sunflower Video 1"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, ry89f_Rq_uo]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=ry89f_Rq_uo
+source_type: video---
 
 
 

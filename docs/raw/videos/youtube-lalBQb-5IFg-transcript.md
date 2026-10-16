@@ -1,5 +1,5 @@
 ---
-title: UNIX Cold Boot: Sights and Sounds of a PDP-11/83 from 1983 Booting!
+title: "UNIX Cold Boot: Sights and Sounds of a PDP-11/83 from 1983 Booting!"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

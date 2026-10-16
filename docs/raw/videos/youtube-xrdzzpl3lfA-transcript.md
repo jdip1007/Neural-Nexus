@@ -1,8 +1,8 @@
 ---
-title: Mysterious Objects in Space We Can't Explain & Other Space Videos (Space Compilation)
+title: "Mysterious Objects in Space We Can't Explain & Other Space Videos (Space Compilation)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, xrdzzpl3lfA]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=xrdzzpl3lfA
+source_type: video---
 
 
 

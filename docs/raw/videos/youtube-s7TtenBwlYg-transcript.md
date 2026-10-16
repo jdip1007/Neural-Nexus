@@ -1,8 +1,8 @@
 ---
-title: Class 31 Video: Music Visualization and Optical Music Recognition
+title: "Class 31 Video: Music Visualization and Optical Music Recognition"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, s7TtenBwlYg]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=s7TtenBwlYg
+source_type: video---
 
 
 

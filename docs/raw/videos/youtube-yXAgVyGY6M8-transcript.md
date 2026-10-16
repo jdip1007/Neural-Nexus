@@ -1,8 +1,8 @@
 ---
-title: Color Organ Video 2
+title: "Color Organ Video 2"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, yXAgVyGY6M8]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=yXAgVyGY6M8
+source_type: video---
 
 
 

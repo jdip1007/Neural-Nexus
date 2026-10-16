@@ -1,5 +1,5 @@
 ---
-title: Why Restricting Video Games As A Parent Is Actually Damaging
+title: "Why Restricting Video Games As A Parent Is Actually Damaging"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

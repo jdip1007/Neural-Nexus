@@ -650,7 +650,7 @@ series:
 [22:01] So, be sure to check it out.
 
 ## See also
-- [[therapy]]
-- [[insurance]]
-- [[depression]]
-- [[anxiety]]
+- therapy
+- insurance
+- depression
+- anxiety

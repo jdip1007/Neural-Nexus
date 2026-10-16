@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: I Tested AI Cloning… and It’s Way Worse Than You Think!
+title: "YouTube Transcript: I Tested AI Cloning… and It’s Way Worse Than You Think!"
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, KC31K-CUC5Y]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=KC31K-CUC5Y
 source_type: video
 ingested: 2026-10-14

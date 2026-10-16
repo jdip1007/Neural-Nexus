@@ -1,8 +1,8 @@
 ---
-title: The Rise, Fall and Return of YouTube’s Most Hated Troll
+title: "The Rise, Fall and Return of YouTube’s Most Hated Troll"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, TOXDaVhVqbY]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=TOXDaVhVqbY
+source_type: video---
 
 
 

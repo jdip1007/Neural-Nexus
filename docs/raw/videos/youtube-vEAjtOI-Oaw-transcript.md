@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: 1980s: Learning To Code Back in the '80s!
+title: "YouTube Transcript: 1980s: Learning To Code Back in the '80s!"
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, vEAjtOI-Oaw]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=vEAjtOI-Oaw
 source_type: video
 ingested: 2026-10-14

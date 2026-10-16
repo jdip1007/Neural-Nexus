@@ -418,11 +418,11 @@ series:
 [15:36] You
 
 ## See also
-- [[relationships]]
-- [[finance]]
-- [[metabolic-rate]]
-- [[hardware]]
-- [[depression]]
-- [[economy]]
-- [[anxiety]]
-- [[mental-health]]
+- relationships
+- finance
+- metabolic-rate
+- hardware
+- depression
+- economy
+- anxiety
+- mental-health

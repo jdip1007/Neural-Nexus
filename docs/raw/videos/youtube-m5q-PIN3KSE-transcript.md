@@ -1,5 +1,5 @@
 ---
-title: What Made The Black Death (The Plague) so Deadly?
+title: "What Made The Black Death (The Plague) so Deadly?"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

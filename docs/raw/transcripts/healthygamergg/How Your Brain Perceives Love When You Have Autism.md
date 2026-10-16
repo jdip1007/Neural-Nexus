@@ -491,6 +491,6 @@ series:
 [15:51] Do it.
 
 ## See also
-- [[relationships]]
-- [[depression]]
-- [[anxiety]]
+- relationships
+- depression
+- anxiety

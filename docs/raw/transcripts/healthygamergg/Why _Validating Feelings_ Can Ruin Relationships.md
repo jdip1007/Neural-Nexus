@@ -431,4 +431,4 @@ series:
 [14:16] [music]
 
 ## See also
-- [[therapy]]
+- therapy

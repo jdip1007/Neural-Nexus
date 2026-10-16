@@ -1,8 +1,8 @@
 ---
-title: The Dark Side of Fitness: “I Starved Myself Until I Fainted" - Will Tennyson (4K)
+title: "The Dark Side of Fitness: “I Starved Myself Until I Fainted" - Will Tennyson (4K)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, XJ_DP8SJfa0]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=XJ_DP8SJfa0
+source_type: video---
 
 
 

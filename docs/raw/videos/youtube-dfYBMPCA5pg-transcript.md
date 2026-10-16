@@ -1,8 +1,8 @@
 ---
-title: 18 Rules for Lifting Like a Pro - Dr Mike Israetel (4K)
+title: "18 Rules for Lifting Like a Pro - Dr Mike Israetel (4K)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, dfYBMPCA5pg]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=dfYBMPCA5pg
+source_type: video---
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: 16 Most Disturbing Videos From Pentagon UFO Release
+title: "16 Most Disturbing Videos From Pentagon UFO Release"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 6dPNiN5nf0E]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=6dPNiN5nf0E
+source_type: video---
 
 
 

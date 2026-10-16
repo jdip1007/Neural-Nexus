@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: Hidden Code: How Slot Machines Actually Work - The Computer Inside
+title: "YouTube Transcript: Hidden Code: How Slot Machines Actually Work - The Computer Inside"
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, SR8ESCmUYLY]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=SR8ESCmUYLY
 source_type: video
 ingested: 2026-10-14

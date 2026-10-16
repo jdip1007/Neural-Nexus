@@ -1,5 +1,5 @@
 ---
-title: How Restoration Videos Are Faked
+title: "How Restoration Videos Are Faked"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

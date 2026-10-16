@@ -1,8 +1,8 @@
 ---
-title: 9/11 Secrets They DON'T Want You to Know
+title: "9/11 Secrets They DON'T Want You to Know"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, k0ksj42YJaM]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=k0ksj42YJaM
+source_type: video---
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: Ethernet Explained so well that even YOU can Understand it!
+title: "YouTube Transcript: Ethernet Explained so well that even YOU can Understand it!"
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, 7vzjIv2l6wY]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=7vzjIv2l6wY
 source_type: video
 ingested: 2026-10-14

@@ -1,8 +1,8 @@
 ---
-title: If You're Feeling Overwhelmed Watch This
+title: "If You're Feeling Overwhelmed Watch This"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 7VfSCQnGfk4]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=7VfSCQnGfk4
+source_type: video---
 
 
 

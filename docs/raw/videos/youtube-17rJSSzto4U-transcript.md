@@ -1,8 +1,8 @@
 ---
-title: Real Way to ACTUALLY Increase Your IQ
+title: "Real Way to ACTUALLY Increase Your IQ"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 17rJSSzto4U]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=17rJSSzto4U
+source_type: video---
 
 
 

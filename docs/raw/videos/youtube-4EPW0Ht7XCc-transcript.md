@@ -1,8 +1,8 @@
 ---
-title: WTF is Happening with South Korean Economy
+title: "WTF is Happening with South Korean Economy"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 4EPW0Ht7XCc]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=4EPW0Ht7XCc
+source_type: video---
 
 
 

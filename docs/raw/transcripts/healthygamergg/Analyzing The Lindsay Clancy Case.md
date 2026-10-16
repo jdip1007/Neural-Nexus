@@ -826,7 +826,7 @@ series:
 [29:24] experience of having children was like.
 
 ## See also
-- [[insurance]]
-- [[depression]]
-- [[anxiety]]
-- [[mental-health]]
+- insurance
+- depression
+- anxiety
+- mental-health

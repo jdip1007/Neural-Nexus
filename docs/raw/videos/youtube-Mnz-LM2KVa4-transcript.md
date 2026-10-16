@@ -1,5 +1,5 @@
 ---
-title: Class 23 Video: Algorithmic Composition
+title: "Class 23 Video: Algorithmic Composition"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

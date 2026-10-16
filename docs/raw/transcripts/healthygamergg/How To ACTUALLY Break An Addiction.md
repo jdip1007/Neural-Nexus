@@ -544,9 +544,9 @@ series:
 [18:24] over on the membership
 
 ## See also
-- [[therapy]]
-- [[investing]]
-- [[youtube]]
-- [[emotional-regulation]]
-- [[gaming]]
-- [[business]]
+- therapy
+- investing
+- youtube
+- emotional-regulation
+- gaming
+- business

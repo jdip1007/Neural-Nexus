@@ -634,11 +634,11 @@ series:
 [23:19] with caution.
 
 ## See also
-- [[therapy]]
-- [[glucose-metabolism]]
-- [[obesity]]
-- [[emotional-regulation]]
-- [[insulin-resistance]]
-- [[depression]]
-- [[inflammation]]
-- [[testosterone]]
+- therapy
+- glucose-metabolism
+- obesity
+- emotional-regulation
+- insulin-resistance
+- depression
+- inflammation
+- testosterone

@@ -1,8 +1,8 @@
 ---
-title: 4.2.5 An Introduction to Trees - Video 3: Splitting and Predictions
+title: "4.2.5 An Introduction to Trees - Video 3: Splitting and Predictions"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 3cN7bSffVm4]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=3cN7bSffVm4
+source_type: video---
 
 
 

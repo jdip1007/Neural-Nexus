@@ -1,8 +1,8 @@
 ---
-title: The Story of Lizzie Borden And How She Got Away With Murder
+title: "The Story of Lizzie Borden And How She Got Away With Murder"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, uNpHhPJzEEg]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=uNpHhPJzEEg
+source_type: video---
 
 
 

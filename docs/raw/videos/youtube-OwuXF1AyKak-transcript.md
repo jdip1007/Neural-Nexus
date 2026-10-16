@@ -1,8 +1,8 @@
 ---
-title: No One is Buying it
+title: "No One is Buying it"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, OwuXF1AyKak]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=OwuXF1AyKak
+source_type: video---
 
 
 

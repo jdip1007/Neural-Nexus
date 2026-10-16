@@ -1,8 +1,8 @@
 ---
-title: 1.3.4 Working with Data - Video 2: Getting Started in R
+title: "1.3.4 Working with Data - Video 2: Getting Started in R"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, E_KUHMuoPLE]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=E_KUHMuoPLE
+source_type: video---
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: The Worst Red Flags I’ve Seen As A Therapist
+title: "The Worst Red Flags I’ve Seen As A Therapist"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, KBkkN12nVqs]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=KBkkN12nVqs
+source_type: video---
 
 
 

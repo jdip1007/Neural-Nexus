@@ -1,5 +1,5 @@
 ---
-title: WTF Is Happening To The Video Game Industry?
+title: "WTF Is Happening To The Video Game Industry?"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

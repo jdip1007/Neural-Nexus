@@ -1,5 +1,5 @@
 ---
-title: YouTube Transcript: The Deserved Downfall of Tom Segura
+title: "YouTube Transcript: The Deserved Downfall of Tom Segura"
 created: 2026-10-14
 updated: 2026-10-14
 type: source
@@ -9,7 +9,6 @@ tags: [youtube, transcript, uK_G92TUXWg]
 sources: []
 published: 2026-10-14
 time_sensitive: False
----
 source_url: https://www.youtube.com/watch?v=uK_G92TUXWg
 source_type: video
 ingested: 2026-10-14

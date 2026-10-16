@@ -1,8 +1,8 @@
 ---
-title: I Watch Your Videos But Never Change My Life
+title: "I Watch Your Videos But Never Change My Life"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Oj5lA7FfUkI]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Oj5lA7FfUkI
+source_type: video---
 
 
 

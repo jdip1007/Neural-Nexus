@@ -1,8 +1,8 @@
 ---
-title: Scientists Reveal How a Zombie Apocalypse Could Actually Happen
+title: "Scientists Reveal How a Zombie Apocalypse Could Actually Happen"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, y7voToyTmOE]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=y7voToyTmOE
+source_type: video---
 
 
 

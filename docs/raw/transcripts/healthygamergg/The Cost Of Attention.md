@@ -676,5 +676,5 @@ series:
 [24:32] grow up.
 
 ## See also
-- [[psychology]]
-- [[obesity]]
+- psychology
+- obesity

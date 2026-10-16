@@ -1,8 +1,8 @@
 ---
-title: What if the World Wars Never Happened And Other Insane Scenarios (Compilation)
+title: "What if the World Wars Never Happened And Other Insane Scenarios (Compilation)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Das4psjipJo]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Das4psjipJo
+source_type: video---
 
 
 

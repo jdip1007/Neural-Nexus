@@ -1,8 +1,8 @@
 ---
-title: The Betrayal of JCS - Criminal Psychology
+title: "The Betrayal of JCS - Criminal Psychology"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, nPPUh5WhwCQ]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=nPPUh5WhwCQ
+source_type: video---
 
 
 

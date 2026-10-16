@@ -1,8 +1,8 @@
 ---
-title: What Nicotine Pouches and Vapes Actually Do to Your Body
+title: "What Nicotine Pouches and Vapes Actually Do to Your Body"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, 25l71qrDu7w]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=25l71qrDu7w
+source_type: video---
 
 
 

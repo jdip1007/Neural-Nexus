@@ -1,8 +1,8 @@
 ---
-title: Toxicity in Video Games | Dr.K Explains
+title: "Toxicity in Video Games | Dr.K Explains"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, CKo5aB6i2x4]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=CKo5aB6i2x4
+source_type: video---
 
 
 

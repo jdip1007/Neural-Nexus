@@ -1,6 +1,8 @@
 ---
 title: Why Sensitive People Get Traumatized So Easily
 video_id: _4x0fRO6w5M
+source_url: https://www.youtube.com/watch?v=_4x0fRO6w5M
+source_type: video
 generated_at: 2026-10-15T16:02:30.626865
 topics: ['personal_development', 'anxiety', 'mental_health', 'stress', 'gaming', 'online_communities', 'digital_life', 'emotional_regulation', 'psychology']
 ---
@@ -47,12 +49,12 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[personal_development]]
-[[anxiety]]
-[[mental_health]]
-[[stress]]
-[[gaming]]
-[[online_communities]]
-[[digital_life]]
-[[emotional_regulation]]
-[[psychology]]
+personal_development
+anxiety
+mental_health
+stress
+gaming
+online_communities
+digital_life
+emotional_regulation
+psychology

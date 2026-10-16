@@ -3197,11 +3197,11 @@ series:
 [111:37] love maxing of your own, check out Dr.
 
 ## See also
-- [[relationships]]
-- [[therapy]]
-- [[cloud]]
-- [[coffee]]
-- [[psychology]]
-- [[youtube]]
-- [[depression]]
-- [[anxiety]]
+- relationships
+- therapy
+- cloud
+- coffee
+- psychology
+- youtube
+- depression
+- anxiety

@@ -1180,8 +1180,8 @@ series:
 [38:48] about.
 
 ## See also
-- [[relationships]]
-- [[therapy]]
-- [[rem-sleep]]
-- [[youtube]]
-- [[technology]]
+- relationships
+- therapy
+- rem-sleep
+- youtube
+- technology

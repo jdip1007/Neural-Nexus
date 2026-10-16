@@ -1,5 +1,5 @@
 ---
-title: New Evidence Reveals New Important Details About COVID-19 Origins
+title: "New Evidence Reveals New Important Details About COVID-19 Origins"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

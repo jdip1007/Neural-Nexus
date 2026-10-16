@@ -1,8 +1,8 @@
 ---
-title: How The Wolf of Wall Street Scam Actually Worked
+title: "How The Wolf of Wall Street Scam Actually Worked"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, bVM76YxNPjQ]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=bVM76YxNPjQ
+source_type: video---
 
 
 

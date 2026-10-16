@@ -1,8 +1,8 @@
 ---
-title: Jonah Hill's Life Is Falling Apart
+title: "Jonah Hill's Life Is Falling Apart"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, diQ9CBUkQeI]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=diQ9CBUkQeI
+source_type: video---
 
 
 

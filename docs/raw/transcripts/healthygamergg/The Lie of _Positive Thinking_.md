@@ -682,6 +682,6 @@ series:
 [23:06] Do you want
 
 ## See also
-- [[therapy]]
-- [[emotional-regulation]]
-- [[depression]]
+- therapy
+- emotional-regulation
+- depression

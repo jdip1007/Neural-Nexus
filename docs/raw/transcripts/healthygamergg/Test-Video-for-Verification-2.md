@@ -3,7 +3,8 @@ title: Test Video for Verification 2
 video_id: test_video_456
 generated_at: 2026-10-09T09:07:18.642318
 topics: ['mental_health', 'online_communities', 'gaming', 'digital_life', 'personal_development', 'psychology']
----
+source_url: https://www.youtube.com/watch?v=test_video_456
+source_type: video---
 
 # Test Video for Verification 2
 
@@ -44,9 +45,9 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[mental_health]]
-[[online_communities]]
-[[gaming]]
-[[digital_life]]
-[[personal_development]]
-[[psychology]]
+mental_health
+online_communities
+gaming
+digital_life
+personal_development
+psychology

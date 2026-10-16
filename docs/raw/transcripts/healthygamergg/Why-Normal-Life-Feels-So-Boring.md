@@ -1,6 +1,8 @@
 ---
 title: Why Normal Life Feels So Boring
 video_id: RdmYUULKf7s
+source_url: https://www.youtube.com/watch?v=RdmYUULKf7s
+source_type: video
 generated_at: 2026-10-15T16:02:29.624887
 topics: ['personal_development', 'anxiety', 'mental_health', 'stress', 'gaming', 'online_communities', 'digital_life', 'emotional_regulation', 'psychology']
 ---
@@ -47,12 +49,12 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[personal_development]]
-[[anxiety]]
-[[mental_health]]
-[[stress]]
-[[gaming]]
-[[online_communities]]
-[[digital_life]]
-[[emotional_regulation]]
-[[psychology]]
+personal_development
+anxiety
+mental_health
+stress
+gaming
+online_communities
+digital_life
+emotional_regulation
+psychology

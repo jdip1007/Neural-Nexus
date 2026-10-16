@@ -3422,9 +3422,9 @@ series:
 [114:12] and Relationships. Thanks for watching.
 
 ## See also
-- [[relationships]]
-- [[investment]]
-- [[coffee]]
-- [[investing]]
-- [[gaming]]
-- [[technology]]
+- relationships
+- investment
+- coffee
+- investing
+- gaming
+- technology

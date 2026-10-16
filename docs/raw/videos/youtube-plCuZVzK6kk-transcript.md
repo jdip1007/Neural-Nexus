@@ -1,8 +1,8 @@
 ---
-title: Video 17: Looking at Videos
+title: "Video 17: Looking at Videos"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, plCuZVzK6kk]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=plCuZVzK6kk
+source_type: video---
 
 
 

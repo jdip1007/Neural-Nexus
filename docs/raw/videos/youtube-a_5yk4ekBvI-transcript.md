@@ -1,8 +1,8 @@
 ---
-title: The Worst Content Thieves on YouTube
+title: "The Worst Content Thieves on YouTube"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, a_5yk4ekBvI]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=a_5yk4ekBvI
+source_type: video---
 
 
 

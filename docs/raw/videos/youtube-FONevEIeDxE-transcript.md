@@ -1,8 +1,8 @@
 ---
-title: Why Kai Cenat Is Becoming So Hated
+title: "Why Kai Cenat Is Becoming So Hated"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, FONevEIeDxE]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=FONevEIeDxE
+source_type: video---
 
 
 

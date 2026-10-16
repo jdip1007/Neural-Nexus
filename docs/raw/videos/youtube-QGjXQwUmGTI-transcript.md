@@ -1,40 +1,19 @@
 ---
-title: bUt ThAt"s mY NeSt eGG! - Transcript
+title: "bUt ThAt"s mY NeSt eGG! - Transcript"
 created: 2026-10-05
 updated: 2026-10-05
-type: raw
+type: source
 domain: media
 classification: general.media
 tags: [youtube, transcript, how-money-works, economics, humor]
 sources: []
 published: 2026-10-05
 time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-05
----
-
-# bUt ThAt"s mY NeSt eGG! - Transcript
-
-## Video Information
-- **Title**: bUt ThAt"s mY NeSt eGG!
-- **Video ID**: QGjXQwUmGTI
-- **Published**: 2026-10-05
-- **Views**: Unknown
-- **Language**: en
-- **Channel**: How Money Works
-
-## Content Summary
-This video appears to discuss economic concepts with humor, examining various financial topics in an entertaining format.
-
-## Key Topics
-- Economic concepts
-- Financial education
-- Humor in economics
-
-## Transcript Data
-*Note: Full transcript not available via APIs. This page contains video metadata and basic content analysis.*
-
----
+source_url: 
+source_type: video
+ingested: 
+duration_minutes: 0
+language: en
+sha256:---
 
 *This page was automatically generated from YouTube video metadata and basic content analysis.*

@@ -1,8 +1,8 @@
 ---
-title: Class 1 Video: How Do Computers "Hear" Music?
+title: "Class 1 Video: How Do Computers "Hear" Music?"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, e4L9pdUIDnc]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=e4L9pdUIDnc
+source_type: video---
 
 
 

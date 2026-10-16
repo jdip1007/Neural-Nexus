@@ -1,8 +1,8 @@
 ---
-title: What Made The Black Death So Deadly & Who Were The Plague Doctors
+title: "What Made The Black Death So Deadly & Who Were The Plague Doctors"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, boMzFm7I1zs]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=boMzFm7I1zs
+source_type: video---
 
 
 

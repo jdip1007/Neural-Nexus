@@ -1,8 +1,8 @@
 ---
-title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
+title: "The Controversial Flock Cameras Tracking Every Car — Full Breakdown"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, LJSgsf9ro38]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=LJSgsf9ro38
+source_type: video---
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: 1.3.1 Well Ordering Principle 1: Video
+title: "1.3.1 Well Ordering Principle 1: Video"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, fV3v6qQ3w4A]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=fV3v6qQ3w4A
+source_type: video---
 
 
 

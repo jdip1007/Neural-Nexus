@@ -1,8 +1,8 @@
 ---
-title: 5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today
+title: "5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, _JGetImYLis]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=_JGetImYLis
+source_type: video---
 
 
 

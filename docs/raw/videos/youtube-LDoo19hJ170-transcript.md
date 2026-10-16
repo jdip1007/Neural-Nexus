@@ -1,8 +1,8 @@
 ---
-title: It's Not Feminism. The American Family is DEAD.
+title: "It's Not Feminism. The American Family is DEAD."
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, LDoo19hJ170]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=LDoo19hJ170
+source_type: video---
 
 
 

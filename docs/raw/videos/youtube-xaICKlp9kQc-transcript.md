@@ -1,8 +1,8 @@
 ---
-title: How Years Of Gaming Affects Your Brain
+title: "How Years Of Gaming Affects Your Brain"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, xaICKlp9kQc]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=xaICKlp9kQc
+source_type: video---
 
 
 

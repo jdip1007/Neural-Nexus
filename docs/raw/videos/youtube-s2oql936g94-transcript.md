@@ -1,8 +1,8 @@
 ---
-title: Being In The Board Of Directors Is Literally FREE Money
+title: "Being In The Board Of Directors Is Literally FREE Money"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, s2oql936g94]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=s2oql936g94
+source_type: video---
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: The Car REPOSSESSION Epidemic
+title: "The Car REPOSSESSION Epidemic"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, xE5NnZm9OpU]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=xE5NnZm9OpU
+source_type: video---
 
 
 

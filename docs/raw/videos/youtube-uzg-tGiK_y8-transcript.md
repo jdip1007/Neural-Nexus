@@ -1,5 +1,5 @@
 ---
-title: Why Marines aren't just a different kind of 'soldier' || The Infographics Show react
+title: "Why Marines aren't just a different kind of 'soldier' || The Infographics Show react"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw

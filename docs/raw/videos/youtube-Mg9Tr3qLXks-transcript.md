@@ -1,8 +1,8 @@
 ---
-title: How Trauma Splits A Soul (Dissociative Identity Disorder)
+title: "How Trauma Splits A Soul (Dissociative Identity Disorder)"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Mg9Tr3qLXks]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=Mg9Tr3qLXks
+source_type: video---
 
 
 

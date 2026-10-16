@@ -1,8 +1,8 @@
 ---
-title: Reliable Isn't Always Better: TCP vs UDP
+title: "Reliable Isn't Always Better: TCP vs UDP"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, XyZ123abc456]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=XyZ123abc456
+source_type: video---
 
 
 

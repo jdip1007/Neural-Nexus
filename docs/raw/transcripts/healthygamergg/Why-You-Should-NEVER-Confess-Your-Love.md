@@ -3,7 +3,8 @@ title: Why You Should NEVER Confess Your Love
 video_id: 919XuYNqyjw
 generated_at: 2026-10-09T08:58:55.792840
 topics: ['partnership', 'online_communities', 'mental_health', 'gaming', 'love', 'psychology', 'dating', 'personal_development', 'relationships', 'digital_life']
----
+source_url: https://www.youtube.com/watch?v=919XuYNqyjw
+source_type: video---
 
 # Why You Should NEVER Confess Your Love
 
@@ -48,13 +49,13 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[partnership]]
-[[online_communities]]
-[[mental_health]]
-[[gaming]]
-[[love]]
-[[psychology]]
-[[dating]]
-[[personal_development]]
-[[relationships]]
-[[digital_life]]
+partnership
+online_communities
+mental_health
+gaming
+love
+psychology
+dating
+personal_development
+relationships
+digital_life

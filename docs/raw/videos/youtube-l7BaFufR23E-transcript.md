@@ -1,8 +1,8 @@
 ---
-title: The Lie of "Positive Thinking"
+title: "The Lie of "Positive Thinking""
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, l7BaFufR23E]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=l7BaFufR23E
+source_type: video---
 
 
 

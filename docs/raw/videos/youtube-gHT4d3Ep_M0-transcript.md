@@ -1,8 +1,8 @@
 ---
-title: Video 9a: Music Information Retrieval (MIR): Sound to Score and Music Theory
+title: "Video 9a: Music Information Retrieval (MIR): Sound to Score and Music Theory"
 created: 2026-10-14
 updated: 2026-10-14
-type: raw
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, gHT4d3Ep_M0]
@@ -12,7 +12,8 @@ time_sensitive: False
 confidence: medium
 status: active
 reviewed: 2026-10-14
----
+source_url: https://www.youtube.com/watch?v=gHT4d3Ep_M0
+source_type: video---
 
 
 

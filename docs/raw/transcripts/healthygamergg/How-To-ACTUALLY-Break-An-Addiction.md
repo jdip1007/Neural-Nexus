@@ -1,6 +1,8 @@
 ---
 title: How To ACTUALLY Break An Addiction
 video_id: bG2sW8xYQzA
+source_url: https://www.youtube.com/watch?v=bG2sW8xYQzA
+source_type: video
 generated_at: 2026-10-15T16:02:33.630850
 topics: ['personal_development', 'mental_health', 'gaming', 'online_communities', 'digital_life', 'growth', 'self_improvement', 'psychology']
 ---
@@ -46,11 +48,11 @@ HealthyGamerGG creates a supportive community for individuals seeking to improve
 
 ## Related Topics
 
-[[personal_development]]
-[[mental_health]]
-[[gaming]]
-[[online_communities]]
-[[digital_life]]
-[[growth]]
-[[self_improvement]]
-[[psychology]]
+personal_development
+mental_health
+gaming
+online_communities
+digital_life
+growth
+self_improvement
+psychology

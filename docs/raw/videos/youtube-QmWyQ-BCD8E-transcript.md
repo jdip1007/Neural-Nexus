@@ -1,5 +1,5 @@
 ---
-title: Why A National Debt Default Now Looks Genuinely Possible... (sort of)
+title: "Why A National Debt Default Now Looks Genuinely Possible... (sort of)"
 created: 2026-10-14
 updated: 2026-10-14
 type: raw
