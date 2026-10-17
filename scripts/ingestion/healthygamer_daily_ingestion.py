@@ -368,7 +368,7 @@ def determine_domain(topics):
                     'relationships', 'attachment', 'therapy', 'mindfulness', 
                     'burnout', 'self-esteem', 'parenting', 'emotional-regulation',
                     'neurodiversity', 'psychology', 'mental-health'}
-    if topics & psych_topics:
+    if set(topics) & psych_topics:
         return 'psychology'
     return 'general'
 
