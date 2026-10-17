@@ -9,31 +9,28 @@
   Already processed:      8
   Unprocessed:            22
   Selected for processing:5
-  Successfully processed: 0
-  Failed:                 5
-  New pages created:      0
+  Successfully processed: 5
+  Failed:                 0
+  New pages created:      5
   Deployed:               False
 
 📄 Pages Created
 ─────────────────────────────────────
+  • youtube-Wu7zcamEAI0-How-To-Actually-Have-An-Elite-Mindset.md
+  • youtube-8Px7Pv7ZdfU-Please-Stop-Treating-Creative-Burnout-Like-Laziness-Free-Mem.md
+  • youtube-L-gJ_Fo72-k-Why-You-Need-Constant-Reassurance.md
+  • youtube-H877DXOAlXI-How-To-ACTUALLY-Break-An-Addiction.md
+  • youtube-6kD5RbQCjFg-What-Everyone-Gets-Wrong-About-ADHD.md
 
 📥 Transcript Sources
 ─────────────────────────────────────
-  • 7MykFJ7TByM: existing_transcript_dir
+  • Wu7zcamEAI0: existing_transcript_dir
+  • 8Px7Pv7ZdfU: metadata_fallback
+  • L-gJ_Fo72-k: existing_transcript_dir
   • H877DXOAlXI: existing_transcript_dir
-  • Ads8VOa0qKQ: existing_transcript_dir
-  • RdmYUULKf7s: existing_raw_video
-  • -cf78hK8Esc: existing_raw_video
-
-⚠️ Errors
-─────────────────────────────────────
-  • Video 7MykFJ7TByM: unsupported operand type(s) for &: 'list' and 'set'
-  • Video H877DXOAlXI: unsupported operand type(s) for &: 'list' and 'set'
-  • Video Ads8VOa0qKQ: unsupported operand type(s) for &: 'list' and 'set'
-  • Video RdmYUULKf7s: unsupported operand type(s) for &: 'list' and 'set'
-  • Video -cf78hK8Esc: unsupported operand type(s) for &: 'list' and 'set'
+  • 6kD5RbQCjFg: existing_raw_video
 
 ⏱️ Timing
 ─────────────────────────────────────
-  Start: 2026-10-17T16:16:50.208361
-  End:   2026-10-17T16:17:09.299910
+  Start: 2026-10-17T16:17:51.044401
+  End:   2026-10-17T16:18:22.177538
