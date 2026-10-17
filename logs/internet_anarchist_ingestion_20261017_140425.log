@@ -1,0 +1,41 @@
+2026-10-17 14:04:25,811 - INFO - 🚀 Starting daily YouTube ingestion for Internet Anarchist
+2026-10-17 14:04:25,811 - INFO - Channel: https://www.youtube.com/@InternetAnarchist
+2026-10-17 14:04:25,811 - INFO - Start time: 2026-10-17 14:04:25.811650
+2026-10-17 14:04:25,812 - INFO - ✓ All required environment variables are set
+2026-10-17 14:04:25,812 - INFO - 📺 Fetching videos from @InternetAnarchist...
+2026-10-17 14:04:27,658 - INFO - Found 15 videos on @InternetAnarchist
+2026-10-17 14:04:27,659 - INFO - Found 15 unprocessed videos (already processed: 0)
+2026-10-17 14:04:27,659 - INFO - 🎲 Randomly selected 5 videos for processing:
+2026-10-17 14:04:27,659 - INFO -   1. wBGF1M4e3l8: https://www.youtube.com/watch?v=wBGF1M4e3l8
+2026-10-17 14:04:27,659 - INFO -   2. P-debBoN21E: https://www.youtube.com/watch?v=P-debBoN21E
+2026-10-17 14:04:27,659 - INFO -   3. tON1gG-B8jc: https://www.youtube.com/watch?v=tON1gG-B8jc
+2026-10-17 14:04:27,659 - INFO -   4. pjsoLEIUBEQ: https://www.youtube.com/watch?v=pjsoLEIUBEQ
+2026-10-17 14:04:27,659 - INFO -   5. HPGndzOnr3g: https://www.youtube.com/watch?v=HPGndzOnr3g
+2026-10-17 14:04:27,659 - INFO - 📹 Processing video 1/5: wBGF1M4e3l8
+2026-10-17 14:04:28,194 - INFO -   Title: The Dark Life After To Catch a Predator
+2026-10-17 14:04:30,103 - INFO -   ✓ Raw transcript created: youtube-wBGF1M4e3l8-transcript.md
+2026-10-17 14:04:30,103 - INFO -   ✓ Reading page created: youtube-wBGF1M4e3l8-The-Dark-Life-After-To-Catch-a-Predator.md
+2026-10-17 14:04:30,105 - INFO - ✓ Successfully processed video 1: wBGF1M4e3l8
+2026-10-17 14:04:30,105 - INFO - 📹 Processing video 2/5: P-debBoN21E
+2026-10-17 14:04:30,630 - INFO -   Title: The Deserved Downfall of Yo Mama
+2026-10-17 14:04:32,161 - INFO -   ✓ Raw transcript created: youtube-P-debBoN21E-transcript.md
+2026-10-17 14:04:32,161 - INFO -   ✓ Reading page created: youtube-P-debBoN21E-The-Deserved-Downfall-of-Yo-Mama.md
+2026-10-17 14:04:32,163 - INFO - ✓ Successfully processed video 2: P-debBoN21E
+2026-10-17 14:04:32,163 - INFO - 📹 Processing video 3/5: tON1gG-B8jc
+2026-10-17 14:04:32,672 - INFO -   Title: Jack Doherty's Life Is Falling Apart
+2026-10-17 14:04:34,003 - INFO -   ✓ Raw transcript created: youtube-tON1gG-B8jc-transcript.md
+2026-10-17 14:04:34,004 - INFO -   ✓ Reading page created: youtube-tON1gG-B8jc-Jack-Dohertys-Life-Is-Falling-Apart.md
+2026-10-17 14:04:34,005 - INFO - ✓ Successfully processed video 3: tON1gG-B8jc
+2026-10-17 14:04:34,005 - INFO - 📹 Processing video 4/5: pjsoLEIUBEQ
+2026-10-17 14:04:34,529 - INFO -   Title: Adam22's Life Is Falling Apart
+2026-10-17 14:04:35,030 - INFO -   ✓ Raw transcript created: youtube-pjsoLEIUBEQ-transcript.md
+2026-10-17 14:04:35,030 - INFO -   ✓ Reading page created: youtube-pjsoLEIUBEQ-Adam22s-Life-Is-Falling-Apart.md
+2026-10-17 14:04:35,031 - INFO - ✓ Successfully processed video 4: pjsoLEIUBEQ
+2026-10-17 14:04:35,031 - INFO - 📹 Processing video 5/5: HPGndzOnr3g
+2026-10-17 14:04:35,562 - INFO -   Title: The Kai Cenat Files Are Disturbing
+2026-10-17 14:04:37,094 - INFO -   ✓ Raw transcript created: youtube-HPGndzOnr3g-transcript.md
+2026-10-17 14:04:37,095 - INFO -   ✓ Reading page created: youtube-HPGndzOnr3g-The-Kai-Cenat-Files-Are-Disturbing.md
+2026-10-17 14:04:37,096 - INFO - ✓ Successfully processed video 5: HPGndzOnr3g
+2026-10-17 14:04:37,096 - INFO - 🔍 Running pre-deployment verification...
+2026-10-17 14:04:37,097 - INFO - ✅ All created pages passed verification
+2026-10-17 14:04:37,097 - INFO - Running quality checks...
