@@ -1,17 +1,18 @@
 ---
-title: "YouTube Transcript: The OCW Update - September 2026"
-created: 2026-10-15
-updated: 2026-10-15
+title: YouTube Transcript: The OCW Update - September 2026
+created: 2026-10-16
+updated: 2026-10-16
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, WCMFdrTGAEY]
 sources: []
-published: 2026-10-15
-time_sensitive: true
+published: 2026-10-16
+time_sensitive: True
+---
 source_url: https://www.youtube.com/watch?v=WCMFdrTGAEY
 source_type: video
-ingested: 2026-10-15
+ingested: 2026-10-16
 duration_minutes: 1
 language: en
 sha256: b28185c3e39d3400471c9b7ae270a7f9d135f24776256115a555f07593cc0eeb

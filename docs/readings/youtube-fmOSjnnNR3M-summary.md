@@ -1,17 +1,17 @@
 ---
 title: Wikipedia & MIT Open Learning: A New Strategic Collaboration - Summary
-created: 2026-10-15
-updated: 2026-10-15
+created: 2026-10-16
+updated: 2026-10-16
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, fmOSjnnNR3M]
 sources: [raw/videos/youtube-fmOSjnnNR3M-transcript.md]
-published: 2026-10-15
+published: 2026-10-16
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-15
+reviewed: 2026-10-16
 ---
 
 # Wikipedia & MIT Open Learning: A New Strategic Collaboration - Summary
@@ -31,15 +31,15 @@ This video discusses Wikipedia & MIT Open Learning: A New Strategic Collaboratio
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Wikipedia So, United States, Kurt Newton
-- **Organizations**: Sloan Foundation, Templeton Foundation, Wikipdia Foundation
+- **Persons**: Open Street, Open Courseware, Lonnie Bunch
+- **Organizations**: Sloan Foundation, Wikipdia Foundation, Templeton Foundation
 
 ## Related Concepts
-- [[algorithm]]
-- [[architecture]]
-- [[api]]
-- [[ai]]
 - [[database]]
+- [[architecture]]
+- [[algorithm]]
+- [[ai]]
+- [[api]]
 
 ## Transcript Highlights
 > uh remain open to all the millions of

@@ -1,39 +1,27 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-09-03
-domain: ai
-reviewed: 2026-09-03
-sources:
-- raw/videos/youtube-WCMFdrTGAEY-transcript.md
-status: active
-tags:
-- general
 title: Financial Systems
+created: 2026-10-16
+updated: 2026-10-16
 type: entity
-updated: 2026-09-03
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, WCMFdrTGAEY]
+sources: [raw/videos/youtube-WCMFdrTGAEY-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-16
 ---
-
-
 
 # Financial Systems
 
 ## Overview
-Financial Systems is mentioned in the YouTube video "The OCW Update".
+Financial Systems is mentioned in the YouTube video "The OCW Update - September 2026".
 
 ## Context
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-WCMFdrTGAEY-summary.md)
+- [[youtube-WCMFdrTGAEY-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-WCMFdrTGAEY-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-R4T6m1pZ3bX-Why Sensitive People Get Traumatized So Easily]]
-- [[youtube-WEP5ubPMGDU-big-bang]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant
