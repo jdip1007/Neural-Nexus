@@ -354,9 +354,49 @@
       "status": "completed",
       "page_filename": "youtube-ZkA5WP7spQ8-how-to-make-279000000-by-being-a-little-snitch.md",
       "content_hash": "completed"
+    },
+    "HiHMQN3kQlQ": {
+      "title": "Task Manager is LYING About Your CPU Usage (Here's the Truth)",
+      "url": "https://www.youtube.com/watch?v=HiHMQN3kQlQ",
+      "processed_at": "2026-10-17T13:06:06.469880",
+      "page_filename": "youtube-HiHMQN3kQlQ-task-manager-is-lying-about-your-cpu-usage-heres-the-truth.md",
+      "content_hash": "ecd6ea6f38275574911d880c0b82781189e54357ba6e1ae1a40625bf3fbdc27e",
+      "status": "processed"
+    },
+    "y7thb-SC09g": {
+      "title": "Wargames Movie Magic: Where it Cheats - IMSAI & WOPR!",
+      "url": "https://www.youtube.com/watch?v=y7thb-SC09g",
+      "processed_at": "2026-10-17T13:06:10.855629",
+      "page_filename": "youtube-y7thb-SC09g-wargames-movie-magic-where-it-cheats-imsai-wopr.md",
+      "content_hash": "9d607aec673863a39860af1f74c28797f632119332e80f1c690f2a91a93d13aa",
+      "status": "processed"
+    },
+    "jH0BYAkPj78": {
+      "title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
+      "url": "https://www.youtube.com/watch?v=jH0BYAkPj78",
+      "processed_at": "2026-10-17T13:06:15.272560",
+      "page_filename": "youtube-jH0BYAkPj78-microsofts-secret-90s-weapon-that-made-windows-fast.md",
+      "content_hash": "ade2f85a526d01c988ca94b0d126f994126ecba1ea74421403436d48963a25dd",
+      "status": "processed"
+    },
+    "j8DygtESGeE": {
+      "title": "Making a 1990s Phone Work Again!  Hacking, Firmware, and What's Inside!",
+      "url": "https://www.youtube.com/watch?v=j8DygtESGeE",
+      "processed_at": "2026-10-17T13:06:19.735618",
+      "page_filename": "youtube-j8DygtESGeE-making-a-1990s-phone-work-again-hacking-firmware-and-whats-inside.md",
+      "content_hash": "82672b060c417bcec2867c7da995a7cbf45abd262eb2f9eeaa9878dd7405ff6b",
+      "status": "processed"
+    },
+    "vELETrEp27k": {
+      "title": "The AI Model TOO POWERFUL to be Released to the Public...",
+      "url": "https://www.youtube.com/watch?v=vELETrEp27k",
+      "processed_at": "2026-10-17T13:06:24.118013",
+      "page_filename": "youtube-vELETrEp27k-the-ai-model-too-powerful-to-be-released-to-the-public.md",
+      "content_hash": "47fa469c41c9d1755d3b7bc02f72538ae78b8af55273a21c71f21c5f8b9526c3",
+      "status": "processed"
     }
   },
-  "last_updated": "2026-10-16T18:11:03.619348",
+  "last_updated": "2026-10-17T13:06:26.118223",
   "video_metadata": {
     "iCdfSRc2QNg": {
       "id": "iCdfSRc2QNg",

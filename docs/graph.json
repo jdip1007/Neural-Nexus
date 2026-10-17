@@ -630,6 +630,13 @@
       "type": "video"
     },
     {
+      "id": "youtube-vELETrEp27k-the-ai-model-too-powerful-to-be-released-to-the-public",
+      "title": "youtube-vELETrEp27k-the-ai-model-too-powerful-to-be-released-to-the-public",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-vELETrEp27k-the-ai-model-too-powerful-to-be-released-to-the-public.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "index",
       "title": "index",
       "file": "/home/hermes/Neural-Nexus/docs/index.md",
@@ -954,6 +961,13 @@
       "type": "video"
     },
     {
+      "id": "youtube-y7thb-SC09g-wargames-movie-magic-where-it-cheats-imsai-wopr",
+      "title": "youtube-y7thb-SC09g-wargames-movie-magic-where-it-cheats-imsai-wopr",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-y7thb-SC09g-wargames-movie-magic-where-it-cheats-imsai-wopr.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "youtube-QTTCqGtT6I4-CANBUS-\u2013-Networking-so-simple-even-YOU-can-understand-it",
       "title": "youtube-QTTCqGtT6I4-CANBUS-\u2013-Networking-so-simple-even-YOU-can-understand-it",
       "file": "/home/hermes/Neural-Nexus/docs/youtube-QTTCqGtT6I4-CANBUS-\u2013-Networking-so-simple-even-YOU-can-understand-it.md",
@@ -1116,6 +1130,13 @@
       "id": "worst_red_flags_therapist",
       "title": "worst_red_flags_therapist",
       "file": "/home/hermes/Neural-Nexus/docs/worst_red_flags_therapist.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
+      "id": "youtube-HiHMQN3kQlQ-task-manager-is-lying-about-your-cpu-usage-heres-the-truth",
+      "title": "youtube-HiHMQN3kQlQ-task-manager-is-lying-about-your-cpu-usage-heres-the-truth",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-HiHMQN3kQlQ-task-manager-is-lying-about-your-cpu-usage-heres-the-truth.md",
       "tags": [],
       "type": "page"
     },
@@ -1770,6 +1791,13 @@
       "type": "video"
     },
     {
+      "id": "youtube-j8DygtESGeE-making-a-1990s-phone-work-again-hacking-firmware-and-whats-inside",
+      "title": "youtube-j8DygtESGeE-making-a-1990s-phone-work-again-hacking-firmware-and-whats-inside",
+      "file": "/home/hermes/Neural-Nexus/docs/youtube-j8DygtESGeE-making-a-1990s-phone-work-again-hacking-firmware-and-whats-inside.md",
+      "tags": [],
+      "type": "page"
+    },
+    {
       "id": "robert001",
       "title": "robert001",
       "file": "/home/hermes/Neural-Nexus/docs/robert001.md",
@@ -1990,9 +2018,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2065,9 +2093,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2180,9 +2208,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2207,9 +2235,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2218,9 +2246,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2261,9 +2289,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2335,11 +2363,11 @@
       "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -2388,9 +2416,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2399,9 +2427,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2418,9 +2446,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2469,9 +2497,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2503,11 +2531,11 @@
       "target": "how-money-works-can-meta-actually-survive-this",
       "weight": 5,
       "tags": [
-        "business",
-        "economics",
-        "market",
         "youtube",
-        "how-money-works"
+        "how-money-works",
+        "market",
+        "economics",
+        "business"
       ]
     },
     {
@@ -2516,9 +2544,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -2526,11 +2554,11 @@
       "target": "how-money-works-so-is-private-equity-collapsing-yet",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -2642,11 +2670,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "transcript",
         "artificial-intelligence",
+        "video-summary",
         "youtube",
         "ai",
-        "video-summary"
+        "transcript"
       ]
     },
     {
@@ -2686,9 +2714,9 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -2752,9 +2780,9 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -2762,11 +2790,11 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 5,
       "tags": [
+        "video-summary",
         "chris-willx",
-        "transcript",
         "youtube",
-        "podcast",
-        "video-summary"
+        "transcript",
+        "podcast"
       ]
     },
     {
@@ -2862,11 +2890,11 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 5,
       "tags": [
+        "video-summary",
         "chris-willx",
-        "transcript",
         "youtube",
-        "podcast",
-        "video-summary"
+        "transcript",
+        "podcast"
       ]
     },
     {
@@ -2922,11 +2950,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "transcript",
         "artificial-intelligence",
+        "video-summary",
         "youtube",
         "ai",
-        "video-summary"
+        "transcript"
       ]
     },
     {
@@ -2934,9 +2962,9 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -2984,9 +3012,9 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -3082,9 +3110,9 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -3220,9 +3248,9 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -3230,9 +3258,9 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -3376,11 +3404,11 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 5,
       "tags": [
-        "transcript",
         "artificial-intelligence",
+        "video-summary",
         "youtube",
         "ai",
-        "video-summary"
+        "transcript"
       ]
     },
     {
@@ -4966,11 +4994,11 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 5,
       "tags": [
-        "transcript",
         "artificial-intelligence",
+        "video-summary",
         "youtube",
         "ai",
-        "video-summary"
+        "transcript"
       ]
     },
     {
@@ -5026,11 +5054,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -5094,11 +5122,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -5106,9 +5134,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -5204,9 +5232,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -5262,14 +5290,14 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "machine-learning",
-        "transcript",
-        "technology",
         "artificial-intelligence",
+        "video-summary",
+        "technology",
+        "machine-learning",
         "youtube",
-        "ai",
-        "video-summary"
+        "daves-garage",
+        "transcript",
+        "ai"
       ]
     },
     {
@@ -5277,11 +5305,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -5329,11 +5357,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -5429,11 +5457,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -5569,11 +5597,11 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -5581,11 +5609,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -5729,14 +5757,14 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "machine-learning",
-        "transcript",
-        "technology",
         "artificial-intelligence",
+        "video-summary",
+        "technology",
+        "machine-learning",
         "youtube",
-        "ai",
-        "video-summary"
+        "daves-garage",
+        "transcript",
+        "ai"
       ]
     },
     {
@@ -7645,8 +7673,8 @@
       "target": "what-breakups-actually-do-to-men",
       "weight": 3,
       "tags": [
+        "healthygamergg",
         "mental_health",
-        "healthygamergg",
         "youtube"
       ]
     },
@@ -8149,11 +8177,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -8169,8 +8197,8 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -8211,11 +8239,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -8240,11 +8268,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -8462,11 +8490,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -8803,11 +8831,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -8831,9 +8859,9 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -8857,11 +8885,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -8957,14 +8985,14 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -8972,9 +9000,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -9070,9 +9098,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -9128,11 +9156,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -9140,14 +9168,14 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -9195,11 +9223,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -9295,11 +9323,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -9435,11 +9463,11 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -9447,14 +9475,14 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -9598,11 +9626,11 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -9792,8 +9820,8 @@
       "target": "i-did-everything-right-i-still-cant-find-love-lovemaxxing-w-dr-k",
       "weight": 4,
       "tags": [
-        "breakup",
         "relationships",
+        "breakup",
         "healthygamergg",
         "youtube"
       ]
@@ -11214,11 +11242,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -11259,8 +11287,8 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -11301,11 +11329,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -11330,11 +11358,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -11552,11 +11580,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -11893,11 +11921,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -12763,8 +12791,8 @@
       "target": "youtube-TEST123",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -12797,8 +12825,8 @@
       "target": "youtube-ZIjBj63W8KU",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -12846,8 +12874,8 @@
       "target": "youtube-Hll90rHfdhM",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -12871,8 +12899,8 @@
       "target": "youtube-27PP-xp3SsA",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -13060,8 +13088,8 @@
       "weight": 3,
       "tags": [
         "men_health",
-        "youtube",
-        "healthygamergg"
+        "healthygamergg",
+        "youtube"
       ]
     },
     {
@@ -13093,8 +13121,8 @@
       "target": "youtube-x-9Nr7GigbE",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -13434,8 +13462,8 @@
       "target": "youtube-TNdNVXYwK7A",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -15029,9 +15057,9 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -15055,11 +15083,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -15099,14 +15127,14 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -15170,9 +15198,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -15268,9 +15296,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -15326,11 +15354,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -15338,14 +15366,14 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -15393,11 +15421,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -15493,11 +15521,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -15633,11 +15661,11 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -15645,14 +15673,14 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -15796,11 +15824,11 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -15816,11 +15844,11 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 5,
       "tags": [
+        "video-summary",
         "chris-willx",
-        "transcript",
         "youtube",
-        "podcast",
-        "video-summary"
+        "transcript",
+        "podcast"
       ]
     },
     {
@@ -15844,9 +15872,9 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -15886,9 +15914,9 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -15952,9 +15980,9 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -16050,11 +16078,11 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 5,
       "tags": [
+        "video-summary",
         "chris-willx",
-        "transcript",
         "youtube",
-        "podcast",
-        "video-summary"
+        "transcript",
+        "podcast"
       ]
     },
     {
@@ -16110,9 +16138,9 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -16120,9 +16148,9 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -16170,9 +16198,9 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -16268,9 +16296,9 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -16406,9 +16434,9 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -16416,9 +16444,9 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -16562,9 +16590,9 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -16637,11 +16665,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -16675,11 +16703,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -16695,8 +16723,8 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -16753,11 +16781,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -16975,11 +17003,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -17316,11 +17344,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -17337,9 +17365,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -17563,9 +17591,9 @@
       "target": "how-money-works-wtf-does-peter-thiel-actually-want",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -17677,9 +17705,9 @@
       "target": "how-money-works-why-a-national-debt-default-now-looks-genuinely-possible-sort-of",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -17703,9 +17731,9 @@
       "target": "how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -17713,11 +17741,11 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -17758,11 +17786,11 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -17836,9 +17864,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -17886,9 +17914,9 @@
       "target": "how-money-works-but-thats-my-nest-egg",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -17896,11 +17924,11 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -17917,11 +17945,11 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -17970,9 +17998,9 @@
       "target": "how-money-works-silicon-valleys-strange-new-obsession",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -18005,9 +18033,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -18015,9 +18043,9 @@
       "target": "how-money-works-how-much-longer-can-we-hide-the-inflation",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -18025,11 +18053,11 @@
       "target": "how-money-works-so-is-private-equity-collapsing-yet",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -18967,11 +18995,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -19005,11 +19033,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -19025,8 +19053,8 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -19067,11 +19095,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -19305,11 +19333,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -19646,11 +19674,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -19748,8 +19776,8 @@
       "target": "why-you-need-constant-reassurance",
       "weight": 4,
       "tags": [
-        "breakup",
         "relationships",
+        "breakup",
         "healthygamergg",
         "youtube"
       ]
@@ -23269,8 +23297,8 @@
       "weight": 4,
       "tags": [
         "the-infographics-show",
-        "History",
         "Media",
+        "History",
         "youtube"
       ]
     },
@@ -24348,9 +24376,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24510,9 +24538,9 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24689,9 +24717,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24716,9 +24744,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24726,9 +24754,9 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24768,9 +24796,9 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24843,9 +24871,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24894,9 +24922,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24904,9 +24932,9 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24922,9 +24950,9 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -24973,11 +25001,11 @@
       "weight": 6,
       "tags": [
         "invest",
+        "youtube",
+        "how-money-works",
         "silicon valley",
-        "business",
         "economics",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -25010,9 +25038,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -25021,9 +25049,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -25032,9 +25060,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -25130,11 +25158,11 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 5,
       "tags": [
+        "video-summary",
         "chris-willx",
-        "transcript",
         "youtube",
-        "podcast",
-        "video-summary"
+        "transcript",
+        "podcast"
       ]
     },
     {
@@ -25158,9 +25186,9 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25200,9 +25228,9 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25266,9 +25294,9 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25276,11 +25304,11 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 5,
       "tags": [
+        "video-summary",
         "chris-willx",
+        "youtube",
         "transcript",
-        "youtube",
-        "podcast",
-        "video-summary"
+        "podcast"
       ]
     },
     {
@@ -25424,9 +25452,9 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25434,9 +25462,9 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25484,9 +25512,9 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25582,9 +25610,9 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25720,9 +25748,9 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25730,9 +25758,9 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -25876,9 +25904,9 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -28734,8 +28762,8 @@
       "target": "the-infographics-show-k0ksj42YJaM-Why-Your-Brain-Cant-Handle-Modern-Life-The-Infogra",
       "weight": 3,
       "tags": [
+        "the-infographics-show",
         "Society",
-        "the-infographics-show",
         "youtube"
       ]
     },
@@ -30605,11 +30633,11 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 5,
       "tags": [
-        "transcript",
         "artificial-intelligence",
+        "video-summary",
         "youtube",
         "ai",
-        "video-summary"
+        "transcript"
       ]
     },
     {
@@ -30633,14 +30661,14 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 8,
       "tags": [
-        "daves-garage",
+        "artificial-intelligence",
+        "video-summary",
+        "technology",
         "machine-learning",
-        "transcript",
-        "technology",
-        "artificial-intelligence",
         "youtube",
-        "ai",
-        "video-summary"
+        "daves-garage",
+        "transcript",
+        "ai"
       ]
     },
     {
@@ -30680,11 +30708,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -30748,11 +30776,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -30760,9 +30788,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -30858,9 +30886,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -30916,11 +30944,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -30968,11 +30996,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -31068,11 +31096,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -31208,11 +31236,11 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -31220,11 +31248,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -31368,14 +31396,14 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 8,
       "tags": [
-        "daves-garage",
+        "artificial-intelligence",
+        "video-summary",
+        "technology",
         "machine-learning",
-        "transcript",
-        "technology",
-        "artificial-intelligence",
         "youtube",
-        "ai",
-        "video-summary"
+        "daves-garage",
+        "transcript",
+        "ai"
       ]
     },
     {
@@ -31391,9 +31419,9 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -31417,11 +31445,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -31461,14 +31489,14 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -31532,14 +31560,14 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -31547,9 +31575,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -31645,9 +31673,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -31703,11 +31731,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -31755,11 +31783,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -31855,11 +31883,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -31995,11 +32023,11 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -32007,14 +32035,14 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -32158,11 +32186,11 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -34581,8 +34609,8 @@
       "target": "why-normal-life-feels-so-boring",
       "weight": 3,
       "tags": [
+        "healthygamergg",
         "mental_health",
-        "healthygamergg",
         "youtube"
       ]
     },
@@ -34886,8 +34914,8 @@
       "weight": 3,
       "tags": [
         "men_health",
-        "youtube",
-        "healthygamergg"
+        "healthygamergg",
+        "youtube"
       ]
     },
     {
@@ -35277,9 +35305,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35439,9 +35467,9 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35514,9 +35542,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35645,9 +35673,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35655,9 +35683,9 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35697,9 +35725,9 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35772,9 +35800,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35823,9 +35851,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35833,10 +35861,10 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 4,
       "tags": [
-        "economics",
+        "how-money-works",
         "economy",
-        "youtube",
-        "how-money-works"
+        "economics",
+        "youtube"
       ]
     },
     {
@@ -35852,9 +35880,9 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35903,9 +35931,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35938,9 +35966,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35949,9 +35977,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -35960,9 +35988,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -36058,9 +36086,9 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -36084,11 +36112,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -36128,11 +36156,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -36196,11 +36224,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -36208,9 +36236,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -36306,9 +36334,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -36364,11 +36392,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -36376,11 +36404,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -36516,11 +36544,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -36656,11 +36684,11 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -36668,11 +36696,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -36816,11 +36844,11 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -37170,8 +37198,8 @@
       "weight": 3,
       "tags": [
         "men_health",
-        "youtube",
-        "healthygamergg"
+        "healthygamergg",
+        "youtube"
       ]
     },
     {
@@ -37509,9 +37537,9 @@
       "weight": 4,
       "tags": [
         "personal_growth",
+        "healthygamergg",
         "men_health",
-        "youtube",
-        "healthygamergg"
+        "youtube"
       ]
     },
     {
@@ -37577,9 +37605,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -37739,9 +37767,9 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -37814,9 +37842,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -37929,9 +37957,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -37955,9 +37983,9 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -37997,9 +38025,9 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38072,9 +38100,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38123,9 +38151,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38133,9 +38161,9 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38151,9 +38179,9 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38202,9 +38230,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38237,9 +38265,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38248,9 +38276,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38259,9 +38287,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38350,9 +38378,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38512,11 +38540,11 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -38589,9 +38617,9 @@
       "target": "how-money-works-wtf-does-peter-thiel-actually-want",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38703,9 +38731,9 @@
       "target": "how-money-works-why-a-national-debt-default-now-looks-genuinely-possible-sort-of",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38729,9 +38757,9 @@
       "target": "how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38771,11 +38799,11 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -38849,9 +38877,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38899,9 +38927,9 @@
       "target": "how-money-works-but-thats-my-nest-egg",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -38909,11 +38937,11 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -38930,11 +38958,11 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -38983,9 +39011,9 @@
       "target": "how-money-works-silicon-valleys-strange-new-obsession",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -39018,9 +39046,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -39028,9 +39056,9 @@
       "target": "how-money-works-how-much-longer-can-we-hide-the-inflation",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -39038,11 +39066,11 @@
       "target": "how-money-works-so-is-private-equity-collapsing-yet",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -39980,11 +40008,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -40018,11 +40046,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -40038,8 +40066,8 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -40080,11 +40108,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -40109,11 +40137,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -40659,11 +40687,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -42250,9 +42278,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42412,11 +42440,11 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -42489,9 +42517,9 @@
       "target": "how-money-works-wtf-does-peter-thiel-actually-want",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42603,9 +42631,9 @@
       "target": "how-money-works-why-a-national-debt-default-now-looks-genuinely-possible-sort-of",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42629,9 +42657,9 @@
       "target": "how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42639,11 +42667,11 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -42749,9 +42777,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42799,9 +42827,9 @@
       "target": "how-money-works-but-thats-my-nest-egg",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42809,11 +42837,11 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -42830,11 +42858,11 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -42883,9 +42911,9 @@
       "target": "how-money-works-silicon-valleys-strange-new-obsession",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42918,9 +42946,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42928,9 +42956,9 @@
       "target": "how-money-works-how-much-longer-can-we-hide-the-inflation",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -42938,11 +42966,11 @@
       "target": "how-money-works-so-is-private-equity-collapsing-yet",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -45355,9 +45383,9 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -45381,11 +45409,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -45425,11 +45453,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -45493,11 +45521,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -45505,9 +45533,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -45603,9 +45631,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -45661,11 +45689,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -45673,11 +45701,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -45725,11 +45753,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -45953,11 +45981,11 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -45965,11 +45993,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -46113,11 +46141,11 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -47924,8 +47952,8 @@
       "weight": 4,
       "tags": [
         "the-infographics-show",
-        "History",
         "Media",
+        "History",
         "youtube"
       ]
     },
@@ -47986,8 +48014,8 @@
       "target": "the-infographics-show-uzg-tGiK_y8-Why-Marines-arent-just-a-different-kind-of-soldier",
       "weight": 3,
       "tags": [
+        "the-infographics-show",
         "Society",
-        "the-infographics-show",
         "youtube"
       ]
     },
@@ -49268,11 +49296,11 @@
       "target": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -49433,9 +49461,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49508,9 +49536,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49623,9 +49651,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49650,9 +49678,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49661,9 +49689,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49704,9 +49732,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49819,9 +49847,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49830,9 +49858,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49849,9 +49877,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49900,9 +49928,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49934,11 +49962,11 @@
       "target": "how-money-works-can-meta-actually-survive-this",
       "weight": 5,
       "tags": [
-        "business",
-        "economics",
-        "market",
         "youtube",
-        "how-money-works"
+        "how-money-works",
+        "market",
+        "economics",
+        "business"
       ]
     },
     {
@@ -49947,9 +49975,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -49957,11 +49985,11 @@
       "target": "how-money-works-so-is-private-equity-collapsing-yet",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -53975,9 +54003,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54137,9 +54165,9 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54212,9 +54240,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54327,9 +54355,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54354,9 +54382,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54364,9 +54392,9 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54406,9 +54434,9 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54481,9 +54509,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54531,9 +54559,9 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54549,9 +54577,9 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54600,9 +54628,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54635,9 +54663,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54646,9 +54674,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54657,9 +54685,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54748,9 +54776,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -54910,11 +54938,11 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -54987,9 +55015,9 @@
       "target": "how-money-works-wtf-does-peter-thiel-actually-want",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -55101,10 +55129,10 @@
       "target": "how-money-works-why-a-national-debt-default-now-looks-genuinely-possible-sort-of",
       "weight": 4,
       "tags": [
-        "economics",
+        "how-money-works",
         "economy",
-        "youtube",
-        "how-money-works"
+        "economics",
+        "youtube"
       ]
     },
     {
@@ -55128,9 +55156,9 @@
       "target": "how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -55138,11 +55166,11 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -55183,11 +55211,11 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -55261,9 +55289,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -55311,9 +55339,9 @@
       "target": "how-money-works-but-thats-my-nest-egg",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -55329,11 +55357,11 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -55382,9 +55410,9 @@
       "target": "how-money-works-silicon-valleys-strange-new-obsession",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -55416,10 +55444,10 @@
       "target": "how-money-works-can-meta-actually-survive-this",
       "weight": 4,
       "tags": [
-        "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "how-money-works",
+        "economics",
+        "youtube"
       ]
     },
     {
@@ -55427,9 +55455,9 @@
       "target": "how-money-works-how-much-longer-can-we-hide-the-inflation",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -55437,11 +55465,11 @@
       "target": "how-money-works-so-is-private-equity-collapsing-yet",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -56315,9 +56343,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -56477,11 +56505,11 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -56554,9 +56582,9 @@
       "target": "how-money-works-wtf-does-peter-thiel-actually-want",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -56668,9 +56696,9 @@
       "target": "how-money-works-why-a-national-debt-default-now-looks-genuinely-possible-sort-of",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -56694,9 +56722,9 @@
       "target": "how-money-works-why-we-probably-shouldnt-give-iran-300-billion-dollars",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -56704,11 +56732,11 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -56749,11 +56777,11 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -56827,9 +56855,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -56877,9 +56905,9 @@
       "target": "how-money-works-but-thats-my-nest-egg",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -56887,11 +56915,11 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 6,
       "tags": [
-        "finance",
-        "economics",
-        "market",
         "youtube",
         "how-money-works",
+        "economics",
+        "market",
+        "finance",
         "money"
       ]
     },
@@ -56948,9 +56976,9 @@
       "target": "how-money-works-silicon-valleys-strange-new-obsession",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -56982,10 +57010,10 @@
       "target": "how-money-works-can-meta-actually-survive-this",
       "weight": 4,
       "tags": [
-        "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "how-money-works",
+        "economics",
+        "youtube"
       ]
     },
     {
@@ -56993,9 +57021,9 @@
       "target": "how-money-works-how-much-longer-can-we-hide-the-inflation",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -57003,11 +57031,11 @@
       "target": "how-money-works-so-is-private-equity-collapsing-yet",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -58673,41 +58701,41 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
+        "transcript",
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "the-infographics-show-fresh003_2026-The-Rise-and-Fall-of-Logan-Paul",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "the-infographics-show-f7g8h9i0j1K2-What-Everyone-Gets-Wrong-About-ADHD",
+      "weight": 1,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "source": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
+      "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
+      "weight": 5,
+      "tags": [
+        "video-summary",
+        "technology",
+        "youtube",
+        "daves-garage",
         "transcript"
       ]
     },
     {
       "source": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "the-infographics-show-fresh003_2026-The-Rise-and-Fall-of-Logan-Paul",
-      "weight": 1,
-      "tags": [
-        "youtube"
-      ]
-    },
-    {
-      "source": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "the-infographics-show-f7g8h9i0j1K2-What-Everyone-Gets-Wrong-About-ADHD",
-      "weight": 1,
-      "tags": [
-        "youtube"
-      ]
-    },
-    {
-      "source": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
-      "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
-      "weight": 5,
-      "tags": [
-        "daves-garage",
-        "transcript",
-        "technology",
-        "youtube",
-        "video-summary"
-      ]
-    },
-    {
-      "source": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "target": "the-infographics-show-TEST123-HealthyGamerGG-Video-TEST123",
       "weight": 1,
       "tags": [
@@ -58743,11 +58771,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -58811,11 +58839,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -58823,9 +58851,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -58921,9 +58949,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -58979,11 +59007,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -58991,11 +59019,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -59043,11 +59071,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -59143,11 +59171,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -59283,11 +59311,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -59431,14 +59459,14 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 8,
       "tags": [
-        "infrastructure",
-        "daves-garage",
+        "video-summary",
+        "technology",
+        "protocols",
         "networking",
-        "transcript",
-        "technology",
         "youtube",
-        "video-summary",
-        "protocols"
+        "daves-garage",
+        "transcript",
+        "infrastructure"
       ]
     },
     {
@@ -59454,9 +59482,9 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -59480,11 +59508,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -59524,14 +59552,14 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -59595,14 +59623,14 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -59610,9 +59638,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -59708,9 +59736,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -59766,11 +59794,11 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -59778,14 +59806,14 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "hardware",
-        "transcript",
-        "technology",
-        "youtube",
         "video-summary",
-        "computer",
-        "performance"
+        "technology",
+        "performance",
+        "youtube",
+        "daves-garage",
+        "transcript",
+        "hardware",
+        "computer"
       ]
     },
     {
@@ -59833,11 +59861,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -59933,11 +59961,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -60073,11 +60101,11 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -60221,11 +60249,11 @@
       "target": "youtube-7vzjIv2l6wY-ethernet-explained-so-well-that-even-you-can-understand-it!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -61019,9 +61047,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61181,9 +61209,9 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61256,11 +61284,11 @@
       "weight": 6,
       "tags": [
         "invest",
+        "youtube",
+        "how-money-works",
         "silicon valley",
-        "business",
         "economics",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -61373,9 +61401,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61400,9 +61428,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61410,9 +61438,9 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61452,9 +61480,9 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61527,9 +61555,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61578,9 +61606,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61588,9 +61616,9 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61606,9 +61634,9 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61681,9 +61709,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61692,9 +61720,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -61703,9 +61731,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64148,11 +64176,11 @@
       "target": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -64313,9 +64341,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64388,9 +64416,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64503,9 +64531,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64530,9 +64558,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64541,9 +64569,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64584,9 +64612,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64658,11 +64686,11 @@
       "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -64711,9 +64739,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64722,9 +64750,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64741,9 +64769,9 @@
       "weight": 4,
       "tags": [
         "economics",
+        "how-money-works",
         "market",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64792,9 +64820,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64827,9 +64855,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -64837,11 +64865,11 @@
       "target": "how-money-works-so-is-private-equity-collapsing-yet",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -64930,9 +64958,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65092,9 +65120,9 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65167,9 +65195,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65282,9 +65310,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65309,9 +65337,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65319,9 +65347,9 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65361,9 +65389,9 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65436,9 +65464,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65487,9 +65515,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65497,9 +65525,9 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65515,9 +65543,9 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 3,
       "tags": [
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65566,9 +65594,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65601,9 +65629,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65612,9 +65640,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -65702,11 +65730,11 @@
       "target": "how-money-works-why-havent-we-had-that-oil-crisis-yet",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -65866,11 +65894,11 @@
       "target": "The-Stay-At-Home-Boyfriend-Epidemic-Women-Now-Outnumber-Men-In-The-Workforce_D-uK2Xs6D9s",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -65943,9 +65971,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -66058,9 +66086,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -66085,9 +66113,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -66095,11 +66123,11 @@
       "target": "Big-Tech-Cut-950000-Jobs-And-Then-Hired-Them-All-Back_swtfbef3HhM",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -66139,11 +66167,11 @@
       "target": "Why-Are-We-Doing-This-To-Canada_p73d6sL8gVo",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -66215,11 +66243,11 @@
       "target": "how-money-works-wtf-is-happening-to-the-car-market",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -66268,9 +66296,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -66278,11 +66306,11 @@
       "target": "Dude-Im-Broke-Why-Is-My-Data-Worth-Harvesting_6BOxK_JrghY",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -66298,11 +66326,11 @@
       "target": "How-Sports-Predicted-The-Everything-Bubble_gcvpN6Zh-WE",
       "weight": 5,
       "tags": [
-        "finance",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "finance"
       ]
     },
     {
@@ -66351,9 +66379,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -66385,11 +66413,11 @@
       "target": "how-money-works-can-meta-actually-survive-this",
       "weight": 5,
       "tags": [
-        "business",
+        "youtube",
+        "how-money-works",
         "economics",
         "market",
-        "youtube",
-        "how-money-works"
+        "business"
       ]
     },
     {
@@ -66398,9 +66426,9 @@
       "weight": 4,
       "tags": [
         "business",
+        "how-money-works",
         "economics",
-        "youtube",
-        "how-money-works"
+        "youtube"
       ]
     },
     {
@@ -68426,9 +68454,9 @@
       "weight": 4,
       "tags": [
         "personal_growth",
+        "healthygamergg",
         "men_health",
-        "youtube",
-        "healthygamergg"
+        "youtube"
       ]
     },
     {
@@ -72755,11 +72783,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -72793,11 +72821,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -72813,8 +72841,8 @@
       "target": "why-40-of-young-men-need-erectile-retraining",
       "weight": 2,
       "tags": [
-        "youtube",
-        "anxiety"
+        "anxiety",
+        "youtube"
       ]
     },
     {
@@ -72855,11 +72883,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -72884,11 +72912,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -73106,11 +73134,11 @@
       "weight": 6,
       "tags": [
         "relationships",
-        "youtube",
-        "mental-health",
-        "personal-development",
         "healthygamer",
-        "anxiety"
+        "mental-health",
+        "anxiety",
+        "youtube",
+        "personal-development"
       ]
     },
     {
@@ -73462,11 +73490,11 @@
       "target": "youtube-mSjaMyP5QjY-ai-debate--what-will-the-world-actually-look-like-in-2040?",
       "weight": 5,
       "tags": [
-        "transcript",
         "artificial-intelligence",
+        "video-summary",
         "youtube",
         "ai",
-        "video-summary"
+        "transcript"
       ]
     },
     {
@@ -73490,14 +73518,14 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer,-this-is-the-ai-agent-story-that-scared-me",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "machine-learning",
-        "transcript",
-        "technology",
         "artificial-intelligence",
+        "video-summary",
+        "technology",
+        "machine-learning",
         "youtube",
-        "ai",
-        "video-summary"
+        "daves-garage",
+        "transcript",
+        "ai"
       ]
     },
     {
@@ -73537,11 +73565,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4\u00d7-faster!-thats-why-it-wont-boot...",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -73605,11 +73633,11 @@
       "target": "youtube-EzfHqE9-rbY-my-computer-is-now-4x-faster-thats-why-it-wont-boot",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -73617,9 +73645,9 @@
       "target": "youtube-SNrw-C_RBck-i-have-a-problem-with-love-on-the-spectrum---jeff-dye",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -73715,9 +73743,9 @@
       "target": "youtube-f2p1YH0-BaI-harvard-professor--i-tried-every-diet---daniel-lieberman",
       "weight": 3,
       "tags": [
-        "youtube",
         "video-summary",
-        "transcript"
+        "transcript",
+        "youtube"
       ]
     },
     {
@@ -73773,14 +73801,14 @@
       "target": "youtube-2aw3MF8pY3w-as-a-microsoft-engineer-this-is-the-ai-agent-story-that-scared-me",
       "weight": 8,
       "tags": [
-        "daves-garage",
-        "machine-learning",
-        "transcript",
-        "technology",
         "artificial-intelligence",
+        "video-summary",
+        "technology",
+        "machine-learning",
         "youtube",
-        "ai",
-        "video-summary"
+        "daves-garage",
+        "transcript",
+        "ai"
       ]
     },
     {
@@ -73788,11 +73816,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow-task-manager-cant-tell-you-but-tmog-can",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -73840,11 +73868,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better--tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -73940,11 +73968,11 @@
       "target": "youtube-DSA4VFdqELg-reliable-isnt-always-better-tcp-vs-udp",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -74080,14 +74108,14 @@
       "target": "youtube-qM5Zz6d8JX0-canbus-networking-so-simple-even-you-can-understand-it",
       "weight": 8,
       "tags": [
-        "infrastructure",
-        "daves-garage",
+        "video-summary",
+        "technology",
+        "protocols",
         "networking",
-        "transcript",
-        "technology",
         "youtube",
-        "video-summary",
-        "protocols"
+        "daves-garage",
+        "transcript",
+        "infrastructure"
       ]
     },
     {
@@ -74095,11 +74123,11 @@
       "target": "youtube-z_mFHlUpC-g-why-your-computer-is-slow---task-manager-cant-tell-you,-but-tmog-can!",
       "weight": 5,
       "tags": [
-        "daves-garage",
-        "transcript",
+        "video-summary",
         "technology",
         "youtube",
-        "video-summary"
+        "daves-garage",
+        "transcript"
       ]
     },
     {
@@ -74239,5 +74267,5 @@
       ]
     }
   ],
-  "generated": "2026-10-16T17:07:41.775165"
+  "generated": "2026-10-17T13:06:26.174061"
 }
