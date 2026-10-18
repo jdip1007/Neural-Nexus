@@ -1,33 +1,32 @@
 ---
-title: "fopen is Magic! - Find Out What You've Been Missing All These Years!"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: fopen is Magic! - Find Out What You've Been Missing All These Years!
+created: 2026-10-18
+updated: 2026-10-18
 type: source
-domain: ai
+domain: general
 classification: general.media
 tags: [youtube, transcript, XAzUoizwnXM]
-sources: ["https://www.youtube.com/watch?v=XAzUoizwnXM"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-06-04
+time_sensitive: True
+---
+
 source_url: https://www.youtube.com/watch?v=XAzUoizwnXM
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-18
+language: en
+sha256: af25763401886abc
 
 # YouTube Transcript: fopen is Magic! - Find Out What You've Been Missing All These Years!
 
 ## Video Information
 - **Title**: fopen is Magic! - Find Out What You've Been Missing All These Years!
 - **Video ID**: XAzUoizwnXM
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-06-04
 
 ## Transcript
+
 00:02 Today we're going to talk about one of
 
 00:03 the most boring looking functions in the
@@ -1013,4 +1012,5 @@ source_type: video---
 16:21 Garage.
 
 16:22 >> Do it, Lynn. Do it. Do it.
+
 

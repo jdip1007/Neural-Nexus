@@ -1,33 +1,32 @@
 ---
-title: "Autism Works - Neurodiversity in the Workplace"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: Autism Works - Neurodiversity in the Workplace
+created: 2026-10-18
+updated: 2026-10-18
 type: source
-domain: ai
+domain: general
 classification: general.media
 tags: [youtube, transcript, kLcpCqLwNU8]
-sources: ["https://www.youtube.com/watch?v=kLcpCqLwNU8"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-05-28
+time_sensitive: True
+---
+
 source_url: https://www.youtube.com/watch?v=kLcpCqLwNU8
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-18
+language: en
+sha256: ffc58386e7b2a043
 
 # YouTube Transcript: Autism Works - Neurodiversity in the Workplace
 
 ## Video Information
 - **Title**: Autism Works - Neurodiversity in the Workplace
 - **Video ID**: kLcpCqLwNU8
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-05-28
 
 ## Transcript
+
 00:00 There's a phrase that can cost a company
 
 00:02 a fortune. And the worst part is that it
@@ -1441,4 +1440,5 @@ source_type: video---
 22:08 and the second book is more about how to
 
 22:10 manage it for yourself. Vex.
+
 

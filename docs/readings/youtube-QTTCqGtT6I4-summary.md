@@ -1,52 +1,52 @@
 ---
-classification: general.media
-confidence: high
-created: 2026-09-15
-domain: ai
-published: 2026-09-15
-reviewed: 2026-09-15
-sources:
-- raw/videos/youtube-QTTCqGtT6I4-transcript.md
-status: active
-tags:
-- general
-time_sensitive: true
 title: CANBUS – Networking so simple, even YOU can understand it! - Summary
+created: 2026-10-18
+updated: 2026-10-18
 type: reading
-updated: 2026-09-15
+domain: general
+classification: general.media
+tags: [youtube, video-summary, transcript, QTTCqGtT6I4]
+sources: [raw/videos/youtube-QTTCqGtT6I4-transcript.md]
+published: 2026-07-20
+time_sensitive: True
+confidence: high
+status: active
+reviewed: 2026-10-18
 ---
-
-
 
 # CANBUS – Networking so simple, even YOU can understand it! - Summary
 
 ## TL;DR
-This video discusses CANBUS – Networking so simple, even YOU can understand it!
+So Ken assumes a substantially more trusted environment than the public internet, which is okay because the participatin
 
 ## Key Points
-- **And**: And the most important design goal is that everybody can communicate reliably without dragging a Cisco certification into the room
-- **If**: If interference pushes both CAN wires upward by half a volt, the receiver can largely ignore that because the difference between the two wires remains the same and noise common to both wires is thus rejected as well
-- **The**: The termination is important because without termination, sending a signal down a wire is a little bit like shouting down a long hallway
-- **The**: The identifier tells you what the message means and just as importantly, how urgently it gets to access the bus
-- **And**: And here's the key part
+- So Ken assumes a substantially more trusted environment than the public internet, which is okay because the participating devices are generally designed as components of one machine installed by its manufacturer and expected to cooperate, which is a perfectly reasonable assumption right up until somebody attaches an untrusted device to the diagnostic connector under the dash
+- On my old BMW M3, a 2003 that used canvas, I added a feature where if you unlock the car three times in a row within 5 seconds with the key fob, it would see that and then it would inject the commands that I otherwise had recorded and seen to lower the top
+- You have ignition coils, injectors, electric motors, alternators, relays, switching power supplies, and several meters of wiring distributed through a steel box that moves through rain, snow, heat, cold, vibration, and the occasional shopping cart
+- applications at the top, physical signaling at the bottom, and several increasingly mysterious layers in between where packets get wrapped, addressed, routed, checked, and generally escorted through the system like a minor head of state
+- It's just a collection of computers connected to the same two wires, all listening to one another, all capable of transmitting and all somehow able to resolve the problem when several of them decide to speak at exactly the same time
+- Canon includes robust mechanisms for dealing with maleformed frames and electrically broken controllers, but a device transmitting valid, correctly formatted, high priority message is not necessarily violating the protocol
 
 ## Time-Sensitive Information
-- **Content Date**: Unknown
-- **Note**: This content may contain time-sensitive information
+- **Content Date**: 2026-07-20
+- **Context**: Content may reference specific dates or current events
+- **Review Frequency**: quarterly
 
 ## Entities Mentioned
-- **Persons**: Task Manager, Modern Ethernet, So Ken
+- [[task-manager]]
+- [[modern-ethernet]]
+- [[shop-talk]]
+- [[so-ken]]
 
 ## Related Concepts
-- 
-- 
+- [[ai]]
+- [[database]]
+- [[microcontroller]]
+- [[can-bus]]
+- [[networking]]
 
-## Transcript Highlights
-> Singapore. And the most important design
-> wires remains the same and noise common
-> significant differential voltage between
+## Source
+- [CANBUS – Networking so simple, even YOU can understand it!](https://www.youtube.com/watch?v=QTTCqGtT6I4)
 
-## Takeaways
-- Video provides insights into the topic
-- Contains technical explanations and examples
-- Discusses current developments and trends
+## Related Pages
+- [[daves-garage]]

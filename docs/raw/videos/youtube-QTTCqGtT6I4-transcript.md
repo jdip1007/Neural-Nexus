@@ -1,33 +1,32 @@
 ---
-title: "CANBUS – Networking so simple, even YOU can understand it!"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: CANBUS – Networking so simple, even YOU can understand it!
+created: 2026-10-18
+updated: 2026-10-18
 type: source
-domain: ai
+domain: general
 classification: general.media
 tags: [youtube, transcript, QTTCqGtT6I4]
-sources: ["https://www.youtube.com/watch?v=QTTCqGtT6I4"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-07-20
+time_sensitive: True
+---
+
 source_url: https://www.youtube.com/watch?v=QTTCqGtT6I4
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-18
+language: en
+sha256: 2231a95157e28b6f
 
 # YouTube Transcript: CANBUS – Networking so simple, even YOU can understand it!
 
 ## Video Information
 - **Title**: CANBUS – Networking so simple, even YOU can understand it!
 - **Video ID**: QTTCqGtT6I4
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-07-20
 
 ## Transcript
+
 00:01 Hey, I'm Dave. Welcome to my shop.
 
 00:03 Today, we're going to look at a
@@ -1451,4 +1450,5 @@ source_type: video---
 22:57 said it different today.
 
 23:01 >> Do it, Lynn. Do it. Do it.
+
 

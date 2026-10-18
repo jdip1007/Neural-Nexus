@@ -1,0 +1,66 @@
+2026-10-18 13:05:05,654 - INFO - 🚀 Starting daily YouTube ingestion for Dave's Garage
+2026-10-18 13:05:05,654 - INFO - Channel: https://youtube.com/@davesgarage
+2026-10-18 13:05:05,654 - INFO - Start time: 2026-10-18 13:05:05.654626
+2026-10-18 13:05:05,655 - INFO - 📺 Fetching Dave's Garage channel videos...
+2026-10-18 13:05:06,573 - INFO -   Channel ID: UCNzszbnvQeFzObW0ghk0Ckw
+2026-10-18 13:05:06,903 - INFO -   Found 15 videos from RSS feed
+2026-10-18 13:05:06,904 - INFO - 🔍 Checking for already-processed videos...
+2026-10-18 13:05:06,904 - INFO -   Already processed: 7
+2026-10-18 13:05:06,904 - INFO -   Unprocessed: 8
+2026-10-18 13:05:06,904 - INFO - 🎲 Randomly selected 5 videos for processing:
+2026-10-18 13:05:06,904 - INFO -   1. [jH0BYAkPj78] Microsoft's Secret 90s Weapon That Made Windows Fast
+2026-10-18 13:05:06,904 - INFO -   2. [XAzUoizwnXM] fopen is Magic! - Find Out What You've Been Missing All Thes
+2026-10-18 13:05:06,904 - INFO -   3. [kLcpCqLwNU8] Autism Works - Neurodiversity in the Workplace
+2026-10-18 13:05:06,904 - INFO -   4. [QTTCqGtT6I4] CANBUS – Networking so simple, even YOU can understand it!
+2026-10-18 13:05:06,904 - INFO -   5. [OG91c7xsNMc] The Challenge:  Can we build Notepad in 3K in assembly langu
+2026-10-18 13:05:06,904 - INFO - 📹 Processing video 1/5: Microsoft's Secret 90s Weapon That Made Windows Fast
+2026-10-18 13:05:07,449 - INFO -   Title: Microsoft's Secret 90s Weapon That Made Windows Fast
+2026-10-18 13:05:08,983 - INFO -   ✓ Transcript fetched: 547 segments
+2026-10-18 13:05:08,987 - INFO -   Concepts: ['AI', 'cloud', 'algorithm', 'framework', 'architecture']
+2026-10-18 13:05:08,987 - INFO -   Time-sensitive: True
+2026-10-18 13:05:08,989 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-jH0BYAkPj78-transcript.md
+2026-10-18 13:05:08,990 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-jH0BYAkPj78-summary.md
+2026-10-18 13:05:08,992 - INFO -   ✓ Video 1 processed successfully
+2026-10-18 13:05:09,993 - INFO - 📹 Processing video 2/5: fopen is Magic! - Find Out What You've Been Missing All Thes
+2026-10-18 13:05:10,509 - INFO -   Title: fopen is Magic! - Find Out What You've Been Missing All These Years!
+2026-10-18 13:05:12,017 - INFO -   ✓ Transcript fetched: 493 segments
+2026-10-18 13:05:12,022 - INFO -   Concepts: ['AI', 'API', 'cloud', 'architecture', 'protocol']
+2026-10-18 13:05:12,022 - INFO -   Time-sensitive: True
+2026-10-18 13:05:12,025 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-XAzUoizwnXM-transcript.md
+2026-10-18 13:05:12,025 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-XAzUoizwnXM-summary.md
+2026-10-18 13:05:12,029 - INFO -   ✓ Video 2 processed successfully
+2026-10-18 13:05:13,029 - INFO - 📹 Processing video 3/5: Autism Works - Neurodiversity in the Workplace
+2026-10-18 13:05:13,407 - INFO -   Title: Autism Works - Neurodiversity in the Workplace
+2026-10-18 13:05:15,010 - INFO -   ✓ Transcript fetched: 707 segments
+2026-10-18 13:05:15,014 - INFO -   Concepts: ['AI', 'cloud', 'software', 'Rust', 'Go']
+2026-10-18 13:05:15,014 - INFO -   Time-sensitive: True
+2026-10-18 13:05:15,016 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-kLcpCqLwNU8-transcript.md
+2026-10-18 13:05:15,016 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-kLcpCqLwNU8-summary.md
+2026-10-18 13:05:15,019 - INFO -   ✓ Video 3 processed successfully
+2026-10-18 13:05:16,019 - INFO - 📹 Processing video 4/5: CANBUS – Networking so simple, even YOU can understand it!
+2026-10-18 13:05:16,557 - INFO -   Title: CANBUS – Networking so simple, even YOU can understand it!
+2026-10-18 13:05:17,480 - INFO -   ✓ Transcript fetched: 712 segments
+2026-10-18 13:05:17,483 - INFO -   Concepts: ['AI', 'database', 'microcontroller', 'CAN bus', 'networking']
+2026-10-18 13:05:17,483 - INFO -   Time-sensitive: True
+2026-10-18 13:05:17,485 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-QTTCqGtT6I4-transcript.md
+2026-10-18 13:05:17,485 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-QTTCqGtT6I4-summary.md
+2026-10-18 13:05:17,487 - INFO -   ✓ Video 4 processed successfully
+2026-10-18 13:05:18,488 - INFO - 📹 Processing video 5/5: The Challenge:  Can we build Notepad in 3K in assembly langu
+2026-10-18 13:05:18,866 - INFO -   Title: The Challenge:  Can we build Notepad in 3K in assembly language?
+2026-10-18 13:05:20,194 - INFO -   ✓ Transcript fetched: 630 segments
+2026-10-18 13:05:20,197 - INFO -   Concepts: ['AI', 'API', 'cloud', 'container', 'framework']
+2026-10-18 13:05:20,198 - INFO -   Time-sensitive: True
+2026-10-18 13:05:20,199 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-OG91c7xsNMc-transcript.md
+2026-10-18 13:05:20,200 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-OG91c7xsNMc-summary.md
+2026-10-18 13:05:20,202 - INFO -   ✓ Video 5 processed successfully
+2026-10-18 13:05:21,202 - INFO - 🔍 Running pre-deployment verification...
+2026-10-18 13:05:21,204 - INFO - ✓ All pages verified successfully
+2026-10-18 13:05:21,204 - INFO - 🔍 Running quality checks...
+2026-10-18 13:05:21,204 - INFO - 🔍 Running lint check...
+2026-10-18 13:06:21,248 - WARNING -   Lint check error: Command '['node', 'scripts/lint-wiki.js']' timed out after 60 seconds
+2026-10-18 13:06:21,248 - INFO - 🔍 Building knowledge graph...
+2026-10-18 13:06:21,809 - INFO -   ✓ Knowledge graph built
+2026-10-18 13:06:21,810 - INFO - 🔍 Generating catalog...
+2026-10-18 13:06:21,928 - INFO -   ✓ Catalog generated
+2026-10-18 13:06:21,929 - INFO - 🚀 Deploying to GitHub Pages...
+2026-10-18 13:06:21,929 - INFO - 🚀 Deploying to GitHub Pages...

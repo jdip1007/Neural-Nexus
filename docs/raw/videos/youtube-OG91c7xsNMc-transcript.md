@@ -1,33 +1,32 @@
 ---
-title: "The Challenge:  Can we build Notepad in 3K in assembly language?"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: The Challenge:  Can we build Notepad in 3K in assembly language?
+created: 2026-10-18
+updated: 2026-10-18
 type: source
-domain: ai
+domain: general
 classification: general.media
 tags: [youtube, transcript, OG91c7xsNMc]
-sources: ["https://www.youtube.com/watch?v=OG91c7xsNMc"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-06-29
+time_sensitive: True
+---
+
 source_url: https://www.youtube.com/watch?v=OG91c7xsNMc
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-18
+language: en
+sha256: ad43ba6270938736
 
 # YouTube Transcript: The Challenge:  Can we build Notepad in 3K in assembly language?
 
 ## Video Information
 - **Title**: The Challenge:  Can we build Notepad in 3K in assembly language?
 - **Video ID**: OG91c7xsNMc
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-06-29
 
 ## Transcript
+
 00:00 Are you sick of Windows getting just a
 
 00:01 little fatter every single year? Tired
@@ -1287,4 +1286,5 @@ source_type: video---
 20:10 time, hope to see you next time right
 
 20:11 here in Dave's garage.
+
 

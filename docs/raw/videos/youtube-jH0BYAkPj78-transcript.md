@@ -1,33 +1,32 @@
 ---
-title: "Microsoft's Secret 90s Weapon That Made Windows Fast"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: Microsoft's Secret 90s Weapon That Made Windows Fast
+created: 2026-10-18
+updated: 2026-10-18
 type: source
-domain: ai
+domain: general
 classification: general.media
 tags: [youtube, transcript, jH0BYAkPj78]
-sources: ["https://www.youtube.com/watch?v=jH0BYAkPj78"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-06-17
+time_sensitive: True
+---
+
 source_url: https://www.youtube.com/watch?v=jH0BYAkPj78
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-18
+language: en
+sha256: 068626144b882a92
 
 # YouTube Transcript: Microsoft's Secret 90s Weapon That Made Windows Fast
 
 ## Video Information
 - **Title**: Microsoft's Secret 90s Weapon That Made Windows Fast
 - **Video ID**: jH0BYAkPj78
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-06-17
 
 ## Transcript
+
 00:00 Hey, I'm Dave. Welcome to my shop. I'm
 
 00:03 Dave Plamer, retired operating systems
@@ -1121,4 +1120,5 @@ source_type: video---
 18:00 time right here in Dave's garage.
 
 18:02 >> Do it. Do it. Do it.
+
 
