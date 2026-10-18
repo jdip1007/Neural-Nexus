@@ -1,18 +1,18 @@
 ---
 title: YouTube Transcript: Wikipedia & MIT Open Learning: A New Strategic Collaboration
-created: 2026-10-17
-updated: 2026-10-17
+created: 2026-10-18
+updated: 2026-10-18
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, fmOSjnnNR3M]
 sources: []
-published: 2026-10-17
+published: 2026-10-18
 time_sensitive: True
 ---
 source_url: https://www.youtube.com/watch?v=fmOSjnnNR3M
 source_type: video
-ingested: 2026-10-17
+ingested: 2026-10-18
 duration_minutes: 60
 language: en
 sha256: f22bd2a7c588e5a2b6f95da041814c52bee48fadbf0bb901e0908273f80acaf0

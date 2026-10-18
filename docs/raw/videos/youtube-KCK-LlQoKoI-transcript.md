@@ -1,18 +1,18 @@
 ---
 title: YouTube Transcript: Is multitasking a myth?
-created: 2026-10-17
-updated: 2026-10-17
+created: 2026-10-18
+updated: 2026-10-18
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, KCK-LlQoKoI]
 sources: []
-published: 2026-10-17
+published: 2026-10-18
 time_sensitive: False
 ---
 source_url: https://www.youtube.com/watch?v=KCK-LlQoKoI
 source_type: video
-ingested: 2026-10-17
+ingested: 2026-10-18
 duration_minutes: 3
 language: en
 sha256: d0b9f9121d7c5d5bb154bf9d2d616d5840ba42e95755dfc4d7e11504bdf48834

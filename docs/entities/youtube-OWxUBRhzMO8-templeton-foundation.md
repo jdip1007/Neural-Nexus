@@ -1,7 +1,7 @@
 ---
 title: Templeton Foundation
-created: 2026-10-17
-updated: 2026-10-17
+created: 2026-10-18
+updated: 2026-10-18
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, organizations, OWxUBRhzMO8]
 sources: [raw/videos/youtube-OWxUBRhzMO8-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-17
+reviewed: 2026-10-18
 ---
 
 # Templeton Foundation

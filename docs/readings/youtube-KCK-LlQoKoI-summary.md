@@ -1,17 +1,17 @@
 ---
 title: Is multitasking a myth? - Summary
-created: 2026-10-17
-updated: 2026-10-17
+created: 2026-10-18
+updated: 2026-10-18
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, KCK-LlQoKoI]
 sources: [raw/videos/youtube-KCK-LlQoKoI-transcript.md]
-published: 2026-10-17
+published: 2026-10-18
 time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-10-17
+reviewed: 2026-10-18
 ---
 
 # Is multitasking a myth? - Summary

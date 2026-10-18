@@ -1,17 +1,17 @@
 ---
 title: From Uganda to Ukraine: The Global Impact of MIT OpenCourseWare at 25 - Summary
-created: 2026-10-17
-updated: 2026-10-17
+created: 2026-10-18
+updated: 2026-10-18
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, Bjr62PO1WO4]
 sources: [raw/videos/youtube-Bjr62PO1WO4-transcript.md]
-published: 2026-10-17
+published: 2026-10-18
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-17
+reviewed: 2026-10-18
 ---
 
 # From Uganda to Ukraine: The Global Impact of MIT OpenCourseWare at 25 - Summary
@@ -26,11 +26,11 @@ This video discusses From Uganda to Ukraine: The Global Impact of MIT OpenCourse
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Open Courseware, New York, United States
+- **Persons**: New York, Patrick Winston, Open Courseware
 
 ## Related Concepts
-- [[ai]]
 - [[artificial-intelligence]]
+- [[ai]]
 
 ## Transcript Highlights
 

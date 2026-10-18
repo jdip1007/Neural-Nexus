@@ -1,17 +1,17 @@
 ---
 title: The OCW Update - September 2026 - Summary
-created: 2026-10-17
-updated: 2026-10-17
+created: 2026-10-18
+updated: 2026-10-18
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, WCMFdrTGAEY]
 sources: [raw/videos/youtube-WCMFdrTGAEY-transcript.md]
-published: 2026-10-17
+published: 2026-10-18
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-17
+reviewed: 2026-10-18
 ---
 
 # The OCW Update - September 2026 - Summary
@@ -32,7 +32,7 @@ autonomous machines
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Lead User, Sal Khan, Clif Bar
+- **Persons**: Khan Academy, Clif Bar, Lead User
 
 ## Related Concepts
 - [[algorithm]]
