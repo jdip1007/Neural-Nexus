@@ -1,0 +1,45 @@
+2026-10-18 14:02:23,201 - INFO - 🚀 Starting daily YouTube ingestion for Internet Anarchist
+2026-10-18 14:02:23,201 - INFO - Channel: https://www.youtube.com/@InternetAnarchist
+2026-10-18 14:02:23,201 - INFO - Start time: 2026-10-18 14:02:23.201110
+2026-10-18 14:02:23,201 - INFO - ✓ All required environment variables are set
+2026-10-18 14:02:23,201 - INFO - 📺 Fetching videos from @InternetAnarchist...
+2026-10-18 14:02:24,961 - INFO - Found 15 videos on @InternetAnarchist
+2026-10-18 14:02:24,962 - INFO - Found 10 unprocessed videos (already processed: 5)
+2026-10-18 14:02:24,962 - INFO - 🎲 Randomly selected 5 videos for processing:
+2026-10-18 14:02:24,962 - INFO -   1. IMdDtCuFZsc: https://www.youtube.com/watch?v=IMdDtCuFZsc
+2026-10-18 14:02:24,962 - INFO -   2. Mh9lkEl8ZWU: https://www.youtube.com/watch?v=Mh9lkEl8ZWU
+2026-10-18 14:02:24,962 - INFO -   3. uK_G92TUXWg: https://www.youtube.com/watch?v=uK_G92TUXWg
+2026-10-18 14:02:24,962 - INFO -   4. oyPes09tpbM: https://www.youtube.com/watch?v=oyPes09tpbM
+2026-10-18 14:02:24,962 - INFO -   5. MrXO4Y6YpGA: https://www.youtube.com/watch?v=MrXO4Y6YpGA
+2026-10-18 14:02:24,962 - INFO - 📹 Processing video 1/5: IMdDtCuFZsc
+2026-10-18 14:02:25,515 - INFO -   Title: Jonah Hill's Life Is Falling Apart
+2026-10-18 14:02:27,161 - INFO -   ✓ Raw transcript created: youtube-IMdDtCuFZsc-transcript.md
+2026-10-18 14:02:27,162 - INFO -   ✓ Reading page created: youtube-IMdDtCuFZsc-Jonah-Hills-Life-Is-Falling-Apart.md
+2026-10-18 14:02:27,164 - INFO - ✓ Successfully processed video 1: IMdDtCuFZsc
+2026-10-18 14:02:27,164 - INFO - 📹 Processing video 2/5: Mh9lkEl8ZWU
+2026-10-18 14:02:27,681 - INFO -   Title: The Deserved Downfall of Dr Phil
+2026-10-18 14:02:29,381 - INFO -   ✓ Raw transcript created: youtube-Mh9lkEl8ZWU-transcript.md
+2026-10-18 14:02:29,382 - INFO -   ✓ Reading page created: youtube-Mh9lkEl8ZWU-The-Deserved-Downfall-of-Dr-Phil.md
+2026-10-18 14:02:29,383 - INFO - ✓ Successfully processed video 2: Mh9lkEl8ZWU
+2026-10-18 14:02:29,383 - INFO - 📹 Processing video 3/5: uK_G92TUXWg
+2026-10-18 14:02:29,765 - INFO -   Title: The Deserved Downfall of Tom Segura
+2026-10-18 14:02:30,406 - INFO -   ✓ Raw transcript created: youtube-uK_G92TUXWg-transcript.md
+2026-10-18 14:02:30,407 - INFO -   ✓ Reading page created: youtube-uK_G92TUXWg-The-Deserved-Downfall-of-Tom-Segura.md
+2026-10-18 14:02:30,409 - INFO - ✓ Successfully processed video 3: uK_G92TUXWg
+2026-10-18 14:02:30,409 - INFO - 📹 Processing video 4/5: oyPes09tpbM
+2026-10-18 14:02:30,940 - INFO -   Title: Shark Tank Pitches That Turned Into Disasters
+2026-10-18 14:02:31,820 - INFO -   ✓ Raw transcript created: youtube-oyPes09tpbM-transcript.md
+2026-10-18 14:02:31,821 - INFO -   ✓ Reading page created: youtube-oyPes09tpbM-Shark-Tank-Pitches-That-Turned-Into-Disasters.md
+2026-10-18 14:02:31,822 - INFO - ✓ Successfully processed video 4: oyPes09tpbM
+2026-10-18 14:02:31,822 - INFO - 📹 Processing video 5/5: MrXO4Y6YpGA
+2026-10-18 14:02:32,343 - INFO -   Title: The Never-Ending Downfall of KSI
+2026-10-18 14:02:33,414 - INFO -   ✓ Raw transcript created: youtube-MrXO4Y6YpGA-transcript.md
+2026-10-18 14:02:33,415 - INFO -   ✓ Reading page created: youtube-MrXO4Y6YpGA-The-Never-Ending-Downfall-of-KSI.md
+2026-10-18 14:02:33,416 - INFO - ✓ Successfully processed video 5: MrXO4Y6YpGA
+2026-10-18 14:02:33,416 - INFO - 🔍 Running pre-deployment verification...
+2026-10-18 14:02:33,417 - INFO - ✅ All created pages passed verification
+2026-10-18 14:02:33,417 - INFO - Running quality checks...
+2026-10-18 14:04:33,527 - WARNING - Script scripts/lint-wiki.js timed out, skipping
+2026-10-18 14:04:34,068 - INFO - ✓ scripts/build-graph.js passed
+2026-10-18 14:04:34,183 - INFO - ✓ scripts/generate-catalog.js passed
+2026-10-18 14:04:34,183 - INFO - 🚀 Deploying to GitHub Pages...
