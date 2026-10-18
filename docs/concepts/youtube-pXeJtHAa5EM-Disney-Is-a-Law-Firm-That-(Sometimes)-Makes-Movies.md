@@ -1,0 +1,61 @@
+---
+title: "Disney Is a Law Firm That (Sometimes) Makes Movies"
+created: 2026-10-18
+updated: 2026-10-18
+type: concept
+classification: finance.investing
+domain: finance
+tags: [youtube, how-money-works, finance, economics, video-derived, entrepreneurship, investment, cars, interest-rates, demographic-economic-impact]
+sources: [raw/transcripts/how-money-works/pXeJtHAa5EM-Disney-Is-a-Law-Firm-That-(Sometimes)-Makes-Movies.md]
+confidence: medium
+status: active
+reviewed: 2026-10-18
+---
+
+# Disney Is a Law Firm That (Sometimes) Makes Movies
+
+> **Source**: [How Money Works](https://www.youtube.com/watch?v=pXeJtHAa5EM)  
+> **Video ID**: `pXeJtHAa5EM`  
+> **Ingested**: 2026-10-18  
+> **Transcript**: [[pXeJtHAa5EM-Disney-Is-a-Law-Firm-That-(Sometimes)-Makes-Movies]]  
+
+## Overview
+
+This video from How Money Works examines disney is a law firm that (sometimes) makes movies. The analysis covers 9 key topic areas with 2480 words of transcript content.
+
+## Key Takeaways
+
+1. the Walt Disney Company is a multinational operation that employs roughly 190 000 people in 45 countries around the world the company is now responsible for producing entertainment in all forms movies TV shows Broadcast News theme parks Cruise Lines Sports and even Broadway shows fall under their expansive corporate umbrella but Disney is not an entertainment company it's a legal firm that sometimes makes movies the Blockbuster Disney deal the parent company of ABC buying many of the assets of 21st Century Fox creating an entertainment giant the Walt Disney Company has acquired lucasfilm limited for four billion dollars today I'm happy to announce that Disney has agreed to acquire Marvel education let alone in this the reaction has been pretty surreal just a little taste phenomenal visual Mass it is the biggest movie event of the year who knows maybe ever part of the reason for all this excitement and hype it's the unprecedented secrecy that surrounded this executive compensation for listed companies as public information that must be filed with the Securities and Exchange Commission in an annual proxy statement the statement must include the total compensation of the company's chief executive officer Chief Financial Officer and the three highest paid executive officers it must also include a detailed summary of how performance-based bonuses are calculated this rule stops Executives ripping off investors by secretly paying themselves over inflated salaries the executives typically listed in the proxy statement are the CEO CFO Chief marketing officer Chief Operating Officer and chief technology officer it's rare that a chief legal officer makes the top five the Walt Disney Company's top lawyer Alan braveman made 21
+2. 2 million dollars in 2021 before stepping down and being replaced by Horatio Gutierrez who is already on track to be one of America's highest paid lawyers in 2023
+3. Gutierrez will earn that money because next to Bob Iger the company's two-time CEO he might be the most important person in the business bobaika has a pretty stellar reputation in Corporate America the Walt Disney Company is broken down into two corporate verticals the first vertical is their Parks experiences and products this side of the operation covers their sole ownership and management of their world famous American parks in Florida and California they're parked in Paris France their vacation club timeshares business the Disney Cruise Line and their minority ownership stake in the Hong Kong and Shanghai Parks additionally the parks experiences and product vertical is responsible for licensing branded merchandise with third-party manufacturers like Lego and Hasbro the largest licensing agreement they have is for an entire theme park in Japan despite outside appearances Tokyo Disneyland is not owned or operated by the Walt Disney Company it's actually run by Oriental Land Company that licenses the intellectual property from Disney directly something that you will soon see as a common Trend Disney's second vertical is what it's best known for media and entertainment this arm of the Disney Empire handles content creation through its Studios and distribution through theaters TV channels cable when streaming services and more licensing the basic corporate structure looks like this but Disney Studios down here is actually seven different Studios Disney pictures Walt Disney Animation Studios Pixar Marvel lucasfilm 20th Century Fox and Searchlight Pictures so this whole complicated mess is just the basic overview all these departments do something very important with this one up at the top has provided value to shareholders by being Above All Else a high-end legal firm and it excels at this job in three different ways the first way is by lobbying a task that is typically done by legal groups but something that Disney has done in-house since the goal of lobbying is to change laws in favor of the lobbyists or the group that the lobbyist represents a strong understanding of the legal system is a prerequisite according to filings to the SEC Disney reported spending 46 million three hundred and sixty five thousand dollars on lobbying between 2010 and 2021
+4. Disney spent 7 million six hundred and ninety thousand dollars in 2021 alone on federal lobbying in America exclusively just Disney events legal team are some of if not the most effective lobbyists in Washington the company has successfully expanded protections and copyright law twice Once In 1976 and again in 1998 both changes extended copyright protections which directly increased the value of the company's aging portfolio of intellectual property since the company makes so much of its revenue from licensing the best way to secure value for shareholders is to make sure nobody can use their media without paying for it the 1998 act extended legal protections to life of the author plus 70 years and for works of corporate authorship to 120 years after creation or 95 years after publication meaning that Disney could create a legal Monopoly on their works for almost a century Warren Buffett tells his investors about the importance of a company mode which is a metaphor for anything that can stop Fair competition anti-competitive behavior is normally illegal but there are ways around it we think in terms of that moat and the ability to keep its width and its impossibility of being crossed as the primary criteria Tyrion of a great business Apple link Buffett's largest investment builds a moat by designing their products to work best with only their products locking users into an optimized Apple ecosystem Disney builds this mode by making it illegal to tell the same stories or use the same characters as them the successful lobbying campaigns that gave us these two laws did more for Disney's value than any movie or franchise that has ever produced anybody with a camera can make a movie but only Disney's legal team could ensure that movies make the company money for long after everybody that made it is dead so it's time to learn how money Works to find out why the Walt Disney Company is a high-end legal team first in an entertainment company second this week's lesson was sponsored by Babel one of the top language learning apps in the world its intuitive lessons help you learn a language through real life conversations with somewhere around the corner I've been thinking about how much I'd love to learn a new language I've always wanted to speak Spanish fluently and Babel is helping me do just that I remember a funny incident when I tried to ask a girl if she was embarrassed which is ever gonzada in Spanish but I ended up saying embarazada which means pregnant it was a hilarious mix-up but it made me realize I needed to improve my language skills that's where Babel comes in it's not just about learning words and phrases it's about understanding how to use them in real life situations I've been using Babel for a few weeks now and I love how it fits into my daily life I can do a quick lesson while having my morning coffee or during a lunch break what I like about Babel is that the lessons are designed by real language teachers it's scientifically proven to help you start speaking a new language in just three weeks and the best part Pebble offers live classes I got two free classes with my subscription so if you're like me and want to learn a new language this summer I highly recommend Babble and here's the best part you can get 60 off your subscription just use my link in the description what language would you learn let me know in the comments one of the most important departments in any corporate law firm is m a mergers and acquisition lawyers work with companies buying other companies to make sure that legal due diligence is done buying a company is more complicated than buying other assets corporate lawyers ensure the purchase contracts are sound they make sure that the business isn't hiding anything and on really big Deals they can even work directly with Regulators to make sure that the merger acquisition doesn't violate Fair competition the entire Walt Disney Company structure and its leadership team have been carefully put together to do Acquisitions better than anyone else in the business Carl Fox's board announcing an amended merger agreement with Disney Disney now paying ten dollars more per share at zillford Fox net worth over 71 billion dollars Disney operates off narrow margins the business brought in 82
+5. 7 billion dollars in Revenue in 2022 but after cost and operating expenses it was left with a pre-tax profit of just 5
+
+## Topic Analysis
+
+This video covers the following topic areas:
+
+- **entrepreneurship** — discussed in the context of disney is a law firm that (sometimes) makes movies
+- **investment** — discussed in the context of disney is a law firm that (sometimes) makes movies
+- **cars** — discussed in the context of disney is a law firm that (sometimes) makes movies
+- **interest-rates** — discussed in the context of disney is a law firm that (sometimes) makes movies
+- **demographic-economic-impact** — discussed in the context of disney is a law firm that (sometimes) makes movies
+- **trade-war** — discussed in the context of disney is a law firm that (sometimes) makes movies
+- **financial-literacy** — discussed in the context of disney is a law firm that (sometimes) makes movies
+- **technology** — discussed in the context of disney is a law firm that (sometimes) makes movies
+- **employment-trends** — discussed in the context of disney is a law firm that (sometimes) makes movies
+
+## Related Concepts
+
+- [[how-money-works]]
+- [[investment]]
+- [[interest-rates]]
+- [[employment-trends]]
+- [[financial-literacy]]
+
+## Sources
+
+- **Video**: [Disney Is a Law Firm That (Sometimes) Makes Movies](https://www.youtube.com/watch?v=pXeJtHAa5EM)
+- **Channel**: How Money Works (@HowMoneyWorks)
+- **Transcript**: [[pXeJtHAa5EM-Disney-Is-a-Law-Firm-That-(Sometimes)-Makes-Movies]]
+- **Accessed**: 2026-10-18

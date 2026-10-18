@@ -766,3 +766,15 @@ updated: 2026-09-25
 - Videos processed: 5
 - Videos failed: 0
 - Source: How Money Works YouTube channel
+
+## 2026-10-18 process | How Money Works Daily Ingestion
+
+- **Processed**: Why Are YouTube Ads Full Of Scams? - How Money Works (`_1YLkqLPf60`)
+- **Processed**: Amazon's Inevitable Enshitification... (`ewbWx_DQxAk`)
+- **Processed**: Can We Make Houses Affordable... Without Destroying the Economy? (`9OUV8iQlgGk`)
+- **Processed**: The Influencer Bubble (`t5yXuHJX2Nk`)
+- **Processed**: Why YouTube NEEDS To Get Worse (`d2Qruem5haQ`)
+- **Source**: How Money Works (@HowMoneyWorks)
+- **Method**: TranscriptAPI + yt-dlp
+- **Pages created**: 15 (concept + video summary + raw transcript each)
+
