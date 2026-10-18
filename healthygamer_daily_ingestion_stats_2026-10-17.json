@@ -1,0 +1,26 @@
+{
+  "videos_found": 30,
+  "videos_already_processed": 8,
+  "videos_unprocessed": 22,
+  "videos_selected": 5,
+  "videos_processed": 5,
+  "videos_failed": 0,
+  "pages_created": [
+    "/home/hermes/Neural-Nexus/docs/readings/youtube-Wu7zcamEAI0-How-To-Actually-Have-An-Elite-Mindset.md",
+    "/home/hermes/Neural-Nexus/docs/readings/youtube-8Px7Pv7ZdfU-Please-Stop-Treating-Creative-Burnout-Like-Laziness-Free-Mem.md",
+    "/home/hermes/Neural-Nexus/docs/readings/youtube-L-gJ_Fo72-k-Why-You-Need-Constant-Reassurance.md",
+    "/home/hermes/Neural-Nexus/docs/readings/youtube-H877DXOAlXI-How-To-ACTUALLY-Break-An-Addiction.md",
+    "/home/hermes/Neural-Nexus/docs/readings/youtube-6kD5RbQCjFg-What-Everyone-Gets-Wrong-About-ADHD.md"
+  ],
+  "transcript_sources": {
+    "Wu7zcamEAI0": "existing_transcript_dir",
+    "8Px7Pv7ZdfU": "metadata_fallback",
+    "L-gJ_Fo72-k": "existing_transcript_dir",
+    "H877DXOAlXI": "existing_transcript_dir",
+    "6kD5RbQCjFg": "existing_raw_video"
+  },
+  "errors": [],
+  "start_time": "2026-10-17T16:17:51.044401",
+  "deployed": true,
+  "end_time": "2026-10-17T16:18:22.177538"
+}
