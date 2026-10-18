@@ -1,7 +1,7 @@
 ---
 title: Open Courseware
-created: 2026-10-16
-updated: 2026-10-16
+created: 2026-10-17
+updated: 2026-10-17
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, fmOSjnnNR3M]
 sources: [raw/videos/youtube-fmOSjnnNR3M-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-16
+reviewed: 2026-10-17
 ---
 
 # Open Courseware

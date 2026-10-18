@@ -1,17 +1,17 @@
 ---
 title: Wikipedia & MIT Open Learning: A New Strategic Collaboration - Summary
-created: 2026-10-16
-updated: 2026-10-16
+created: 2026-10-17
+updated: 2026-10-17
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, OWxUBRhzMO8]
 sources: [raw/videos/youtube-OWxUBRhzMO8-transcript.md]
-published: 2026-10-16
+published: 2026-10-17
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-16
+reviewed: 2026-10-17
 ---
 
 # Wikipedia & MIT Open Learning: A New Strategic Collaboration - Summary
@@ -31,15 +31,15 @@ This video discusses Wikipedia & MIT Open Learning: A New Strategic Collaboratio
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Open Courseware, Lonnie Bunch, The Smithsonian
+- **Persons**: Phoebe Heirs, Sloan Foundation, Kurt Kurt
 - **Organizations**: Sloan Foundation, Templeton Foundation
 
 ## Related Concepts
-- [[database]]
 - [[architecture]]
-- [[algorithm]]
 - [[ai]]
+- [[algorithm]]
 - [[api]]
+- [[database]]
 
 ## Transcript Highlights
 > uh remain open to all the millions of

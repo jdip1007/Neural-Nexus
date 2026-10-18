@@ -1,7 +1,7 @@
 ---
 title: Sal Khan
-created: 2026-10-15
-updated: 2026-10-15
+created: 2026-10-17
+updated: 2026-10-17
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, WCMFdrTGAEY]
 sources: [raw/videos/youtube-WCMFdrTGAEY-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-15
+reviewed: 2026-10-17
 ---
 
 # Sal Khan
