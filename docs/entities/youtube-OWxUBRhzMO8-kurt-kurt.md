@@ -1,7 +1,7 @@
 ---
 title: Kurt Kurt
-created: 2026-10-17
-updated: 2026-10-17
+created: 2026-10-19
+updated: 2026-10-19
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, OWxUBRhzMO8]
 sources: [raw/videos/youtube-OWxUBRhzMO8-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-17
+reviewed: 2026-10-19
 ---
 
 # Kurt Kurt

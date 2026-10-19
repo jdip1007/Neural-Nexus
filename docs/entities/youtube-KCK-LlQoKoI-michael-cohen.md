@@ -1,7 +1,7 @@
 ---
 title: Michael Cohen
-created: 2026-10-18
-updated: 2026-10-18
+created: 2026-10-19
+updated: 2026-10-19
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, KCK-LlQoKoI]
 sources: [raw/videos/youtube-KCK-LlQoKoI-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-18
+reviewed: 2026-10-19
 ---
 
 # Michael Cohen

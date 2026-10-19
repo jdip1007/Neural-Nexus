@@ -1,7 +1,7 @@
 ---
 title: Patrick Winston
-created: 2026-10-18
-updated: 2026-10-18
+created: 2026-10-19
+updated: 2026-10-19
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, Bjr62PO1WO4]
 sources: [raw/videos/youtube-Bjr62PO1WO4-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-18
+reviewed: 2026-10-19
 ---
 
 # Patrick Winston

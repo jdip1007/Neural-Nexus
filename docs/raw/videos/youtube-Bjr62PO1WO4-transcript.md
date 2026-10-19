@@ -1,18 +1,18 @@
 ---
 title: YouTube Transcript: From Uganda to Ukraine: The Global Impact of MIT OpenCourseWare at 25
-created: 2026-10-18
-updated: 2026-10-18
+created: 2026-10-19
+updated: 2026-10-19
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, Bjr62PO1WO4]
 sources: []
-published: 2026-10-18
+published: 2026-10-19
 time_sensitive: True
 ---
 source_url: https://www.youtube.com/watch?v=Bjr62PO1WO4
 source_type: video
-ingested: 2026-10-18
+ingested: 2026-10-19
 duration_minutes: 6
 language: en
 sha256: 13d5330086ce082fbc1d9a6eac56ee4d83048acbf0e4bde3fe6de08ba7fe73df

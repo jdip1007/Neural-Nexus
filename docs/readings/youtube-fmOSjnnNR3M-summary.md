@@ -1,17 +1,17 @@
 ---
 title: Wikipedia & MIT Open Learning: A New Strategic Collaboration - Summary
-created: 2026-10-18
-updated: 2026-10-18
+created: 2026-10-19
+updated: 2026-10-19
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, fmOSjnnNR3M]
 sources: [raw/videos/youtube-fmOSjnnNR3M-transcript.md]
-published: 2026-10-18
+published: 2026-10-19
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-18
+reviewed: 2026-10-19
 ---
 
 # Wikipedia & MIT Open Learning: A New Strategic Collaboration - Summary
@@ -31,15 +31,15 @@ This video discusses Wikipedia & MIT Open Learning: A New Strategic Collaboratio
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Whereas Wikipedia, Kurt Newton, Andrew Lee
-- **Organizations**: Wikipdia Foundation, Templeton Foundation, Sloan Foundation
+- **Persons**: Peter Calfman, Kurt Kurt, Wikipdia Foundation
+- **Organizations**: Sloan Foundation, Templeton Foundation, Wikipdia Foundation
 
 ## Related Concepts
-- [[database]]
-- [[architecture]]
-- [[ai]]
-- [[api]]
 - [[algorithm]]
+- [[ai]]
+- [[architecture]]
+- [[database]]
+- [[api]]
 
 ## Transcript Highlights
 > uh remain open to all the millions of
