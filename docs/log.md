@@ -789,3 +789,15 @@ updated: 2026-09-25
 - **Success Rate:** 100%
 - **Errors:** 0
 - **Videos Selected:** 5
+
+## 2026-10-19 process | How Money Works Daily Ingestion
+
+- **Processed**: Net Worth Figures Are Complete Nonsense That Nobody Should Believe! (`ZPpKmPoQpKA`)
+- **Processed**: You Will Never Retire, Here's Why... (`Q5sF0MbfVn8`)
+- **Processed**: Why SPACs are Popular Investments (`dIBnti9RBRM`)
+- **Processed**: When Everything's A Crisis... Nothing Is (`WnA7pJ18Kpk`)
+- **Processed**: bUt wE cAn"T lEt cHinA WiN tHe AI aRmS rAcE!! (`UgDEyQ1h-EA`)
+- **Source**: How Money Works (@HowMoneyWorks)
+- **Method**: TranscriptAPI + yt-dlp
+- **Pages created**: 15 (concept + video summary + raw transcript each)
+
