@@ -6,7 +6,7 @@ type: concept
 classification: finance.investing
 domain: finance
 tags: [youtube, how-money-works, finance, economics, video-derived, trade-war, energy, cars, demographic-economic-impact, employment-trends]
-sources: [raw/transcripts/how-money-works/Q5sF0MbfVn8-You-Will-Never-Retire,-Here's-Why....md]
+sources: ["raw/transcripts/how-money-works/Q5sF0MbfVn8-You-Will-Never-Retire,-Here's-Why....md"]
 confidence: medium
 status: active
 reviewed: 2026-10-19

@@ -6,7 +6,7 @@ type: reading
 domain: finance
 classification: finance.economics
 tags: [youtube, how-money-works, video-summary, finance]
-sources: [raw/transcripts/how-money-works/Q5sF0MbfVn8-You-Will-Never-Retire,-Here's-Why....md]
+sources: ["raw/transcripts/how-money-works/Q5sF0MbfVn8-You-Will-Never-Retire,-Here's-Why....md"]
 confidence: medium
 status: active
 reviewed: 2026-10-19
