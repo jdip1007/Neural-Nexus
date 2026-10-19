@@ -2583,3 +2583,8 @@
 
 *No pages yet*
 
+- [[youtube-TfWkoq6BXEY-This-Is-Not-Going-To-Be-A-Normal-Election-Robert-Pape|"This Is Not Going To Be A Normal Election" - Robert Pape]] - 2026-10-19
+- [[youtube-lxDNHLgWInU-The-ElevenLabs-Situation-Is-Crazy|The ElevenLabs Situation Is Crazy]] - 2026-10-19
+- [[youtube-zB6PhTxnj7U-The-Most-Hardcore-Military-Stories-In-History-The-Fat-Electrician|The Most Hardcore Military Stories In History - The Fat Electrician]] - 2026-10-19
+- [[youtube-DuRcrbP3kag-The-Next-36-Months-Will-Change-Everything-Tony-Robbins-(4K)|The Next 36 Months Will Change Everything - Tony Robbins (4K)]] - 2026-10-19
+- [[youtube-FIPLvcmLc-g-America's-First-Botched-Lethal-Injection-Explained-John-Kiriakou|America's First Botched Lethal Injection Explained - John Kiriakou]] - 2026-10-19

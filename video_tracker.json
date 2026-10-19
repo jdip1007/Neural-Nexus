@@ -579,9 +579,94 @@
       "status": "processed",
       "page_filename": "youtube-W82TeO-XXWU-The-13-Seconds-That-Exposed-Hank-Green.md",
       "content_hash": "dd22414775e2e4fb"
+    },
+    "TfWkoq6BXEY": {
+      "title": "\"This Is Not Going To Be A Normal Election\" - Robert Pape",
+      "url": "https://www.youtube.com/watch?v=TfWkoq6BXEY",
+      "processed_date": "2026-10-19T17:05:30.238982",
+      "status": "processed",
+      "page_filename": "youtube-TfWkoq6BXEY-This-Is-Not-Going-To-Be-A-Normal-Election-Robert-Pape.md",
+      "transcript_path": "raw/transcripts/chriswillx/TfWkoq6BXEY-This-Is-Not-Going-To-Be-A-Normal-Election-Robert-Pape.md",
+      "content_hash": "792e744e55c99bfc",
+      "topics": [
+        "election",
+        "geopolitics",
+        "ai",
+        "technology",
+        "military"
+      ],
+      "domain": "general"
+    },
+    "lxDNHLgWInU": {
+      "title": "The ElevenLabs Situation Is Crazy",
+      "url": "https://www.youtube.com/watch?v=lxDNHLgWInU",
+      "processed_date": "2026-10-19T17:05:30.238982",
+      "status": "processed",
+      "page_filename": "youtube-lxDNHLgWInU-The-ElevenLabs-Situation-Is-Crazy.md",
+      "transcript_path": "raw/transcripts/chriswillx/lxDNHLgWInU-The-ElevenLabs-Situation-Is-Crazy.md",
+      "content_hash": "532f3965be6f6ca3",
+      "topics": [
+        "election",
+        "ai",
+        "technology",
+        "finance",
+        "health"
+      ],
+      "domain": "general"
+    },
+    "zB6PhTxnj7U": {
+      "title": "The Most Hardcore Military Stories In History - The Fat Electrician",
+      "url": "https://www.youtube.com/watch?v=zB6PhTxnj7U",
+      "processed_date": "2026-10-19T17:05:30.238982",
+      "status": "processed",
+      "page_filename": "youtube-zB6PhTxnj7U-The-Most-Hardcore-Military-Stories-In-History-The-Fat-Electrician.md",
+      "transcript_path": "raw/transcripts/chriswillx/zB6PhTxnj7U-The-Most-Hardcore-Military-Stories-In-History-The-Fat-Electrician.md",
+      "content_hash": "f1e2f19fa808a5af",
+      "topics": [
+        "election",
+        "geopolitics",
+        "ai",
+        "technology",
+        "military"
+      ],
+      "domain": "general"
+    },
+    "DuRcrbP3kag": {
+      "title": "The Next 36 Months Will Change Everything - Tony Robbins (4K)",
+      "url": "https://www.youtube.com/watch?v=DuRcrbP3kag",
+      "processed_date": "2026-10-19T17:05:30.238982",
+      "status": "processed",
+      "page_filename": "youtube-DuRcrbP3kag-The-Next-36-Months-Will-Change-Everything-Tony-Robbins-(4K).md",
+      "transcript_path": "raw/transcripts/chriswillx/DuRcrbP3kag-The-Next-36-Months-Will-Change-Everything-Tony-Robbins-(4K).md",
+      "content_hash": "0d102cd235372bdd",
+      "topics": [
+        "geopolitics",
+        "ai",
+        "technology",
+        "military",
+        "psychology"
+      ],
+      "domain": "general"
+    },
+    "FIPLvcmLc-g": {
+      "title": "America's First Botched Lethal Injection Explained - John Kiriakou",
+      "url": "https://www.youtube.com/watch?v=FIPLvcmLc-g",
+      "processed_date": "2026-10-19T17:05:30.238982",
+      "status": "processed",
+      "page_filename": "youtube-FIPLvcmLc-g-America's-First-Botched-Lethal-Injection-Explained-John-Kiriakou.md",
+      "transcript_path": "raw/transcripts/chriswillx/FIPLvcmLc-g-America's-First-Botched-Lethal-Injection-Explained-John-Kiriakou.md",
+      "content_hash": "723a9c93f489363a",
+      "topics": [
+        "election",
+        "ai",
+        "finance",
+        "health",
+        "relationships"
+      ],
+      "domain": "general"
     }
   },
-  "last_updated": "2026-10-19T14:03:29.739255",
+  "last_updated": "2026-10-19T17:05:30.238982",
   "video_metadata": {
     "iCdfSRc2QNg": {
       "id": "iCdfSRc2QNg",
