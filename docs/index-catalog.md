@@ -2613,3 +2613,8 @@
 
 *No pages yet*
 
+- [[youtube-0bSPgeTBj1M-Sam-Sulek's-Opinion-On-Evidence-Based-Lifting|Sam Sulek's Opinion On Evidence-Based Lifting]] - 2026-10-20
+- [[youtube-fb-SGTSPkHA-The-Recession-Proof-Investment-No-One-Knows-They-Can-Access-Tony-Robbins|The Recession-Proof Investment No One Knows They Can Access - Tony Robbins]] - 2026-10-20
+- [[youtube-WS3BZjtHpWw-Why-Pessimism-Makes-Dumb-Ideas-Sound-Smart-David-Deutsch|Why Pessimism Makes Dumb Ideas Sound Smart - David Deutsch]] - 2026-10-20
+- [[youtube-_Ej44Xo2pTM-Let's-Be-Blunt-About-Peptides-Andrew-Huberman|Let's Be Blunt About Peptides - Andrew Huberman]] - 2026-10-20
+- [[youtube-Y-r63JyWmDs-Why-Women-Hate-Sydney-Sweeney-&-Love-Sabrina-Carpenter|Why Women Hate Sydney Sweeney & Love Sabrina Carpenter]] - 2026-10-20

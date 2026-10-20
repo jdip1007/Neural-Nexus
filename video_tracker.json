@@ -734,9 +734,94 @@
       "status": "processed",
       "page_filename": "youtube-IDmt0N0Buc4-Fake-Restoration-Videos-Are-Ruining-YouTube.md",
       "content_hash": "3b001ec4ff2f39d9"
+    },
+    "0bSPgeTBj1M": {
+      "title": "Sam Sulek's Opinion On Evidence-Based Lifting",
+      "url": "https://www.youtube.com/watch?v=0bSPgeTBj1M",
+      "processed_date": "2026-10-20T17:06:17.210328",
+      "status": "processed",
+      "page_filename": "youtube-0bSPgeTBj1M-Sam-Sulek's-Opinion-On-Evidence-Based-Lifting.md",
+      "transcript_path": "raw/transcripts/chriswillx/0bSPgeTBj1M-Sam-Sulek's-Opinion-On-Evidence-Based-Lifting.md",
+      "content_hash": "93e57c55f7bf8823",
+      "topics": [
+        "fitness",
+        "election",
+        "geopolitics",
+        "ai",
+        "technology"
+      ],
+      "domain": "biotech"
+    },
+    "fb-SGTSPkHA": {
+      "title": "The Recession-Proof Investment No One Knows They Can Access - Tony Robbins",
+      "url": "https://www.youtube.com/watch?v=fb-SGTSPkHA",
+      "processed_date": "2026-10-20T17:06:17.210328",
+      "status": "processed",
+      "page_filename": "youtube-fb-SGTSPkHA-The-Recession-Proof-Investment-No-One-Knows-They-Can-Access-Tony-Robbins.md",
+      "transcript_path": "raw/transcripts/chriswillx/fb-SGTSPkHA-The-Recession-Proof-Investment-No-One-Knows-They-Can-Access-Tony-Robbins.md",
+      "content_hash": "162ae8b7f04abb24",
+      "topics": [
+        "geopolitics",
+        "ai",
+        "technology",
+        "military",
+        "self-improvement"
+      ],
+      "domain": "general"
+    },
+    "WS3BZjtHpWw": {
+      "title": "Why Pessimism Makes Dumb Ideas Sound Smart - David Deutsch",
+      "url": "https://www.youtube.com/watch?v=WS3BZjtHpWw",
+      "processed_date": "2026-10-20T17:06:17.210328",
+      "status": "processed",
+      "page_filename": "youtube-WS3BZjtHpWw-Why-Pessimism-Makes-Dumb-Ideas-Sound-Smart-David-Deutsch.md",
+      "transcript_path": "raw/transcripts/chriswillx/WS3BZjtHpWw-Why-Pessimism-Makes-Dumb-Ideas-Sound-Smart-David-Deutsch.md",
+      "content_hash": "0766fa23bf46af8a",
+      "topics": [
+        "fitness",
+        "election",
+        "geopolitics",
+        "ai",
+        "technology"
+      ],
+      "domain": "biotech"
+    },
+    "_Ej44Xo2pTM": {
+      "title": "Let's Be Blunt About Peptides - Andrew Huberman",
+      "url": "https://www.youtube.com/watch?v=_Ej44Xo2pTM",
+      "processed_date": "2026-10-20T17:06:17.210328",
+      "status": "processed",
+      "page_filename": "youtube-_Ej44Xo2pTM-Let's-Be-Blunt-About-Peptides-Andrew-Huberman.md",
+      "transcript_path": "raw/transcripts/chriswillx/_Ej44Xo2pTM-Let's-Be-Blunt-About-Peptides-Andrew-Huberman.md",
+      "content_hash": "e6be4784096c7ca8",
+      "topics": [
+        "ai",
+        "technology",
+        "psychology",
+        "self-improvement",
+        "finance"
+      ],
+      "domain": "ai"
+    },
+    "Y-r63JyWmDs": {
+      "title": "Why Women Hate Sydney Sweeney & Love Sabrina Carpenter",
+      "url": "https://www.youtube.com/watch?v=Y-r63JyWmDs",
+      "processed_date": "2026-10-20T17:06:17.210328",
+      "status": "processed",
+      "page_filename": "youtube-Y-r63JyWmDs-Why-Women-Hate-Sydney-Sweeney-&-Love-Sabrina-Carpenter.md",
+      "transcript_path": "raw/transcripts/chriswillx/Y-r63JyWmDs-Why-Women-Hate-Sydney-Sweeney-&-Love-Sabrina-Carpenter.md",
+      "content_hash": "af5756d43e2333ef",
+      "topics": [
+        "election",
+        "geopolitics",
+        "ai",
+        "psychology",
+        "finance"
+      ],
+      "domain": "general"
     }
   },
-  "last_updated": "2026-10-20T14:07:26.049076",
+  "last_updated": "2026-10-20T17:06:17.210328",
   "video_metadata": {
     "iCdfSRc2QNg": {
       "id": "iCdfSRc2QNg",

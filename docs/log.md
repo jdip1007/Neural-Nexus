@@ -801,3 +801,14 @@ updated: 2026-09-25
 - **Method**: TranscriptAPI + yt-dlp
 - **Pages created**: 15 (concept + video summary + raw transcript each)
 
+
+## 2026-10-20 process | Chris Willx YouTube Ingestion
+
+- **Source:** Chris Williamson YouTube Channel (@ChrisWillx)
+- **Action:** Processed 5 videos into wiki pages
+- **Content:** Podcast episodes, interviews, discussions
+- **Output:** Created concept/reading pages + raw transcripts
+- **Method:** TranscriptAPI integration with structured wiki pages
+- **Success Rate:** 100%
+- **Errors:** 0
+- **Videos Selected:** 5
