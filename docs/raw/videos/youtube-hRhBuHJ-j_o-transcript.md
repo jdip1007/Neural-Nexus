@@ -1,32 +1,32 @@
 ---
-title: "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III"
-created: 2026-10-14
-updated: 2026-10-14
-type: raw
-domain: ai
+title: YouTube Transcript: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
+created: 2026-10-20
+updated: 2026-10-20
+type: source
+domain: general
 classification: general.media
 tags: [youtube, transcript, hRhBuHJ-j_o]
-sources: ["https://www.youtube.com/watch?v=hRhBuHJ-j_o"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-06-25
+time_sensitive: True
 ---
 
-
-
+source_url: https://www.youtube.com/watch?v=hRhBuHJ-j_o
+source_type: video
+ingested: 2026-10-20
+language: en
+sha256: 60220122f0dcf5b6
 
 # YouTube Transcript: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 
 ## Video Information
 - **Title**: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
 - **Video ID**: hRhBuHJ-j_o
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-06-25
 
 ## Transcript
+
 00:00 Hey, I'm Dave. Welcome to my shop.
 
 00:02 Today's episode starts with what looks
@@ -1432,4 +1432,5 @@ reviewed: 2026-10-14
 22:13 >> Okay. Okay.
 
 22:15 >> Do it, Lyn. Do it. Do it.
+
 

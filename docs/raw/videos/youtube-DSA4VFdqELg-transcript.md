@@ -1,33 +1,32 @@
 ---
-title: "Reliable Isn’t Always Better: TCP vs UDP"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: Reliable Isn’t Always Better: TCP vs UDP
+created: 2026-10-20
+updated: 2026-10-20
 type: source
-domain: ai
+domain: general
 classification: general.media
 tags: [youtube, transcript, DSA4VFdqELg]
-sources: ["https://www.youtube.com/watch?v=DSA4VFdqELg"]
-published: 2026-10-14
+sources: []
+published: 2026-08-27
 time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+---
+
 source_url: https://www.youtube.com/watch?v=DSA4VFdqELg
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-20
+language: en
+sha256: 2f1c977f6dd1239e
 
 # YouTube Transcript: Reliable Isn’t Always Better: TCP vs UDP
 
 ## Video Information
 - **Title**: Reliable Isn’t Always Better: TCP vs UDP
 - **Video ID**: DSA4VFdqELg
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-08-27
 
 ## Transcript
+
 00:00 [music]
 
 00:03 >> Hey, I'm Dave. Welcome to my shop. Now,
@@ -701,4 +700,5 @@ source_type: video---
 11:20 garage.
 
 11:21 >> Do it, Glen. Do it. Do it.
+
 

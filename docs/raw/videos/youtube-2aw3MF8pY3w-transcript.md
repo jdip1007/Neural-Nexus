@@ -1,33 +1,32 @@
 ---
-title: "As a Microsoft Engineer, This Is the AI Agent Story That Scared Me"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
+created: 2026-10-20
+updated: 2026-10-20
 type: source
-domain: ai
+domain: general
 classification: general.media
 tags: [youtube, transcript, 2aw3MF8pY3w]
-sources: ["https://www.youtube.com/watch?v=2aw3MF8pY3w"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-09-15
+time_sensitive: True
+---
+
 source_url: https://www.youtube.com/watch?v=2aw3MF8pY3w
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-20
+language: en
+sha256: b018f888c0dc256e
 
 # YouTube Transcript: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
 
 ## Video Information
 - **Title**: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
 - **Video ID**: 2aw3MF8pY3w
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-09-15
 
 ## Transcript
+
 00:03 I had to really sit with this episode
 
 00:04 for a while to accept it because the
@@ -1085,4 +1084,5 @@ source_type: video---
 18:38 and in between time, I hope to see you
 
 18:40 next time right here in Dave's Garage.
+
 

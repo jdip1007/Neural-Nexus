@@ -1,49 +1,44 @@
 ---
 title: Reliable Isn’t Always Better: TCP vs UDP - Summary
-created: 2026-09-15
-updated: 2026-09-15
+created: 2026-10-20
+updated: 2026-10-20
 type: reading
-domain: ai
+domain: general
 classification: general.media
-tags: [youtube, video-summary]
+tags: [youtube, video-summary, transcript, DSA4VFdqELg]
 sources: [raw/videos/youtube-DSA4VFdqELg-transcript.md]
-published: 2026-09-15
-time_sensitive: True
+published: 2026-08-27
+time_sensitive: False
 confidence: high
 status: active
-reviewed: 2026-09-15
+reviewed: 2026-10-20
 ---
 
 # Reliable Isn’t Always Better: TCP vs UDP - Summary
 
 ## TL;DR
-This video discusses Reliable Isn’t Always Better: TCP vs UDP
+And at first that sounds almost a little perverse because we spent decades making TCP mature and reliable and then the n
 
 ## Key Points
-- **More**: More importantly, each UDP datagram is an independent message
-- **What**: What UDP does not contain is just as important
-- **Modern**: Modern stacks have more sophisticated loss detection, but the core idea remains
-- **9999**: 9999 gigabytes very quickly and then a note saying that one critical byte could not be located
-- **If**: If the most important thing is every byte, then TCP gives you an extraordinarily capable machine for turning an unreliable packet network into something that looks like a reliable stream
-
-## Time-Sensitive Information
-- **Content Date**: Unknown
-- **Note**: This content may contain time-sensitive information
+- And at first that sounds almost a little perverse because we spent decades making TCP mature and reliable and then the newest generation of web shows up riding on the protocol whose reaction to our missing package is to basically shrug
+- And that is why when looking at a slow TCP capture, I care far more about re-transmissions, duplicate acts, sack blocks and periods where the acknowledgement number stops advancing than I do about every little header field
+- If the update for 103 disappears, but 107 arrives correctly, there's almost no reason to freeze the remote player at 100 while we dig through the network for his former because we already know something newer
+- Two UDP sends of hello and world arrive as two separate messages, if they arrive at all, but two TCP sends of the same data may arrive as hello world or he and then low world and you know, all broken up
+- Three duplicate acts for the same position was traditionally enough for the sender to conclude that the segment was lost rather than merely delayed and to retransmit before the normal timer expired
+- Then a later segment beginning at 51,000 arrives successfully, as does maybe one at 52,000 and 53,000, but the receiver cannot advance its cumulative acknowledgement because there is still a hole
 
 ## Entities Mentioned
-- **Persons**: In Wireshark
+- [[in-wireshark]]
 
 ## Related Concepts
-- 
-- 
-- 
+- [[ai]]
+- [[api]]
+- [[database]]
+- [[networking]]
+- [[tcp]]
 
-## Transcript Highlights
-> More importantly, each UDP datagram is
-> important. No sequence numbers to
-> core idea remains. Acknowledgements
+## Source
+- [Reliable Isn’t Always Better: TCP vs UDP](https://www.youtube.com/watch?v=DSA4VFdqELg)
 
-## Takeaways
-- Video provides insights into the topic
-- Contains technical explanations and examples
-- Discusses current developments and trends
+## Related Pages
+- [[daves-garage]]

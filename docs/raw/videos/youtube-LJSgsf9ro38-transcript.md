@@ -1,33 +1,32 @@
 ---
-title: "The Controversial Flock Cameras Tracking Every Car — Full Breakdown"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
+created: 2026-10-20
+updated: 2026-10-20
 type: source
-domain: ai
+domain: general
 classification: general.media
 tags: [youtube, transcript, LJSgsf9ro38]
-sources: ["https://www.youtube.com/watch?v=LJSgsf9ro38"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-07-13
+time_sensitive: True
+---
+
 source_url: https://www.youtube.com/watch?v=LJSgsf9ro38
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-20
+language: en
+sha256: 29c6d2c0dfe6644d
 
 # YouTube Transcript: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 
 ## Video Information
 - **Title**: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
 - **Video ID**: LJSgsf9ro38
-- **Published**: Unknown
-- **Views**: Unknown
-- **Language**: en
+- **Channel**: Dave's Garage
+- **Published**: 2026-07-13
 
 ## Transcript
+
 00:00 There's a camera sitting beside a road
 
 00:01 somewhere near you right now that
@@ -1359,4 +1358,5 @@ source_type: video---
 22:41 right here in Dave's Garage.
 
 22:44 >> Do it. Do it. Do it.
+
 

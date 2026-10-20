@@ -1,0 +1,57 @@
+2026-10-20 13:01:58,858 - INFO - 🚀 Starting daily YouTube ingestion for Dave's Garage
+2026-10-20 13:01:58,858 - INFO - Channel: https://youtube.com/@davesgarage
+2026-10-20 13:01:58,858 - INFO - Start time: 2026-10-20 13:01:58.858603
+2026-10-20 13:01:58,859 - INFO - 📺 Fetching Dave's Garage channel videos...
+2026-10-20 13:02:00,298 - INFO -   Channel ID: UCNzszbnvQeFzObW0ghk0Ckw
+2026-10-20 13:02:00,769 - INFO -   Found 15 videos from RSS feed
+2026-10-20 13:02:00,770 - INFO - 🔍 Checking for already-processed videos...
+2026-10-20 13:02:00,770 - INFO -   Already processed: 11
+2026-10-20 13:02:00,770 - INFO -   Unprocessed: 4
+2026-10-20 13:02:00,770 - INFO - 🎲 Randomly selected 4 videos for processing:
+2026-10-20 13:02:00,770 - INFO -   1. [LJSgsf9ro38] The Controversial Flock Cameras Tracking Every Car — Full Br
+2026-10-20 13:02:00,770 - INFO -   2. [DSA4VFdqELg] Reliable Isn’t Always Better: TCP vs UDP
+2026-10-20 13:02:00,770 - INFO -   3. [hRhBuHJ-j_o] The Secret RGB LED Features I Hid in this 1970 Lincoln Conti
+2026-10-20 13:02:00,770 - INFO -   4. [2aw3MF8pY3w] As a Microsoft Engineer, This Is the AI Agent Story That Sca
+2026-10-20 13:02:00,770 - INFO - 📹 Processing video 1/4: The Controversial Flock Cameras Tracking Every Car — Full Br
+2026-10-20 13:02:01,291 - INFO -   Title: The Controversial Flock Cameras Tracking Every Car — Full Breakdown
+2026-10-20 13:02:02,440 - INFO -   ✓ Transcript fetched: 666 segments
+2026-10-20 13:02:02,445 - INFO -   Concepts: ['AI', 'database', 'cloud', 'algorithm', 'architecture']
+2026-10-20 13:02:02,445 - INFO -   Time-sensitive: True
+2026-10-20 13:02:02,448 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-LJSgsf9ro38-transcript.md
+2026-10-20 13:02:02,449 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-LJSgsf9ro38-summary.md
+2026-10-20 13:02:02,453 - INFO -   ✓ Video 1 processed successfully
+2026-10-20 13:02:03,453 - INFO - 📹 Processing video 2/4: Reliable Isn’t Always Better: TCP vs UDP
+2026-10-20 13:02:03,974 - INFO -   Title: Reliable Isn’t Always Better: TCP vs UDP
+2026-10-20 13:02:04,586 - INFO -   ✓ Transcript fetched: 337 segments
+2026-10-20 13:02:04,592 - INFO -   Concepts: ['AI', 'API', 'database', 'networking', 'TCP']
+2026-10-20 13:02:04,592 - INFO -   Time-sensitive: False
+2026-10-20 13:02:04,594 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-DSA4VFdqELg-transcript.md
+2026-10-20 13:02:04,595 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-DSA4VFdqELg-summary.md
+2026-10-20 13:02:04,597 - INFO -   ✓ Video 2 processed successfully
+2026-10-20 13:02:05,597 - INFO - 📹 Processing video 3/4: The Secret RGB LED Features I Hid in this 1970 Lincoln Conti
+2026-10-20 13:02:06,123 - INFO -   Title: The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III
+2026-10-20 13:02:07,243 - INFO -   ✓ Transcript fetched: 703 segments
+2026-10-20 13:02:07,247 - INFO -   Concepts: ['AI', 'API', 'cloud', 'embedded', 'microcontroller']
+2026-10-20 13:02:07,247 - INFO -   Time-sensitive: True
+2026-10-20 13:02:07,249 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-hRhBuHJ-j_o-transcript.md
+2026-10-20 13:02:07,249 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-hRhBuHJ-j_o-summary.md
+2026-10-20 13:02:07,251 - INFO -   ✓ Video 3 processed successfully
+2026-10-20 13:02:08,252 - INFO - 📹 Processing video 4/4: As a Microsoft Engineer, This Is the AI Agent Story That Sca
+2026-10-20 13:02:08,768 - INFO -   Title: As a Microsoft Engineer, This Is the AI Agent Story That Scared Me
+2026-10-20 13:02:09,426 - INFO -   ✓ Transcript fetched: 529 segments
+2026-10-20 13:02:09,430 - INFO -   Concepts: ['AI', 'algorithm', 'protocol', 'software', 'Go']
+2026-10-20 13:02:09,430 - INFO -   Time-sensitive: True
+2026-10-20 13:02:09,432 - INFO -   ✓ Raw source created: /home/hermes/Neural-Nexus/docs/raw/videos/youtube-2aw3MF8pY3w-transcript.md
+2026-10-20 13:02:09,432 - INFO -   ✓ Reading page created: /home/hermes/Neural-Nexus/docs/readings/youtube-2aw3MF8pY3w-summary.md
+2026-10-20 13:02:09,435 - INFO -   ✓ Video 4 processed successfully
+2026-10-20 13:02:10,435 - INFO - 🔍 Running pre-deployment verification...
+2026-10-20 13:02:10,437 - INFO - ✓ All pages verified successfully
+2026-10-20 13:02:10,437 - INFO - 🔍 Running quality checks...
+2026-10-20 13:02:10,438 - INFO - 🔍 Running lint check...
+2026-10-20 13:03:10,475 - WARNING -   Lint check error: Command '['node', 'scripts/lint-wiki.js']' timed out after 60 seconds
+2026-10-20 13:03:10,475 - INFO - 🔍 Building knowledge graph...
+2026-10-20 13:03:11,158 - INFO -   ✓ Knowledge graph built
+2026-10-20 13:03:11,158 - INFO - 🔍 Generating catalog...
+2026-10-20 13:03:11,280 - INFO -   ✓ Catalog generated
+2026-10-20 13:03:11,280 - INFO - 🚀 Deploying to GitHub Pages...
+2026-10-20 13:03:11,280 - INFO - 🚀 Deploying to GitHub Pages...
