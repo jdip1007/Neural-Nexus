@@ -1,0 +1,43 @@
+2026-10-20 14:07:14,174 - INFO - Starting daily YouTube ingestion for Internet Anarchist
+2026-10-20 14:07:14,175 - INFO - Channel: https://www.youtube.com/@InternetAnarchist
+2026-10-20 14:07:14,175 - INFO - All required environment variables are set
+2026-10-20 14:07:14,175 - INFO - Fetching videos from @InternetAnarchist via TranscriptAPI...
+2026-10-20 14:07:14,614 - INFO - Found 29 videos on @InternetAnarchist
+2026-10-20 14:07:14,615 - INFO - Found 27 unprocessed videos (already processed: 2)
+2026-10-20 14:07:14,615 - INFO - Randomly selected 5 videos for processing:
+2026-10-20 14:07:14,615 - INFO -   1. 2bTJN_XIo8A: https://www.youtube.com/watch?v=2bTJN_XIo8A
+2026-10-20 14:07:14,615 - INFO -   2. 4OoN-eLshD4: https://www.youtube.com/watch?v=4OoN-eLshD4
+2026-10-20 14:07:14,615 - INFO -   3. anUG3iEA4KQ: https://www.youtube.com/watch?v=anUG3iEA4KQ
+2026-10-20 14:07:14,615 - INFO -   4. heAA4ltXZ_4: https://www.youtube.com/watch?v=heAA4ltXZ_4
+2026-10-20 14:07:14,615 - INFO -   5. IDmt0N0Buc4: https://www.youtube.com/watch?v=IDmt0N0Buc4
+2026-10-20 14:07:14,615 - INFO - Processing video 1/5: 2bTJN_XIo8A
+2026-10-20 14:07:15,362 - INFO -   Title: How TheTekkitRealm Fakes Videos (and gets away with it)
+2026-10-20 14:07:19,197 - INFO -   Raw transcript created: youtube-2bTJN_XIo8A-transcript.md
+2026-10-20 14:07:19,197 - INFO -   Reading page created: youtube-2bTJN_XIo8A-How-TheTekkitRealm-Fakes-Videos-and-gets-away-with-it.md
+2026-10-20 14:07:19,199 - INFO - Successfully processed video 1: 2bTJN_XIo8A
+2026-10-20 14:07:19,199 - INFO - Processing video 2/5: 4OoN-eLshD4
+2026-10-20 14:07:19,712 - INFO -   Title: The Most Satisfying Downfalls In YouTube History
+2026-10-20 14:07:22,140 - INFO -   Raw transcript created: youtube-4OoN-eLshD4-transcript.md
+2026-10-20 14:07:22,145 - INFO -   Reading page created: youtube-4OoN-eLshD4-The-Most-Satisfying-Downfalls-In-YouTube-History.md
+2026-10-20 14:07:22,157 - INFO - Successfully processed video 2: 4OoN-eLshD4
+2026-10-20 14:07:22,157 - INFO - Processing video 3/5: anUG3iEA4KQ
+2026-10-20 14:07:22,682 - INFO -   Title: My 600lb Life is Worse Than You Thought
+2026-10-20 14:07:23,365 - INFO -   Raw transcript created: youtube-anUG3iEA4KQ-transcript.md
+2026-10-20 14:07:23,366 - INFO -   Reading page created: youtube-anUG3iEA4KQ-My-600lb-Life-is-Worse-Than-You-Thought.md
+2026-10-20 14:07:23,367 - INFO - Successfully processed video 3: anUG3iEA4KQ
+2026-10-20 14:07:23,367 - INFO - Processing video 4/5: heAA4ltXZ_4
+2026-10-20 14:07:23,895 - INFO -   Title: YouTubers Who Destroyed Their Career With 1 Video
+2026-10-20 14:07:24,892 - INFO -   Raw transcript created: youtube-heAA4ltXZ_4-transcript.md
+2026-10-20 14:07:24,893 - INFO -   Reading page created: youtube-heAA4ltXZ_4-YouTubers-Who-Destroyed-Their-Career-With-1-Video.md
+2026-10-20 14:07:24,894 - INFO - Successfully processed video 4: heAA4ltXZ_4
+2026-10-20 14:07:24,894 - INFO - Processing video 5/5: IDmt0N0Buc4
+2026-10-20 14:07:25,430 - INFO -   Title: Fake Restoration Videos Are Ruining YouTube
+2026-10-20 14:07:26,047 - INFO -   Raw transcript created: youtube-IDmt0N0Buc4-transcript.md
+2026-10-20 14:07:26,048 - INFO -   Reading page created: youtube-IDmt0N0Buc4-Fake-Restoration-Videos-Are-Ruining-YouTube.md
+2026-10-20 14:07:26,049 - INFO - Successfully processed video 5: IDmt0N0Buc4
+2026-10-20 14:07:26,049 - INFO - Running pre-deployment verification...
+2026-10-20 14:07:26,050 - INFO - All created pages passed verification
+2026-10-20 14:09:26,064 - WARNING - Script scripts/lint-wiki.js error: Command '['node', 'scripts/lint-wiki.js']' timed out after 120 seconds
+2026-10-20 14:09:26,776 - INFO - Script scripts/build-graph.js passed
+2026-10-20 14:09:26,896 - INFO - Script scripts/generate-catalog.js passed
+2026-10-20 14:09:26,896 - INFO - Deploying to GitHub Pages...

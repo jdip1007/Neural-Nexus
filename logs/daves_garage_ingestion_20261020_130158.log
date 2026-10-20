@@ -55,3 +55,22 @@
 2026-10-20 13:03:11,280 - INFO -   ✓ Catalog generated
 2026-10-20 13:03:11,280 - INFO - 🚀 Deploying to GitHub Pages...
 2026-10-20 13:03:11,280 - INFO - 🚀 Deploying to GitHub Pages...
+2026-10-20 13:03:14,542 - INFO -   ✓ Successfully deployed to GitHub Pages
+2026-10-20 13:03:14,542 - INFO - 
+2026-10-20 13:03:14,542 - INFO - ============================================================
+2026-10-20 13:03:14,542 - INFO - 📊 Daily Ingestion Summary - Dave's Garage
+2026-10-20 13:03:14,542 - INFO - ============================================================
+2026-10-20 13:03:14,542 - INFO - Channel: https://youtube.com/@davesgarage
+2026-10-20 13:03:14,542 - INFO - Videos found (RSS):       15
+2026-10-20 13:03:14,542 - INFO - Already processed:        11
+2026-10-20 13:03:14,542 - INFO - Unprocessed available:    4
+2026-10-20 13:03:14,542 - INFO - Videos selected:          4
+2026-10-20 13:03:14,542 - INFO - Videos processed:         4
+2026-10-20 13:03:14,542 - INFO - Videos failed:            0
+2026-10-20 13:03:14,542 - INFO - Pages created:            8
+2026-10-20 13:03:14,542 - INFO - Success rate:             100% (4/4)
+2026-10-20 13:03:14,542 - INFO - Quality checks:           ✓ Passed
+2026-10-20 13:03:14,542 - INFO - Deployed:                 ✓ Yes
+2026-10-20 13:03:14,542 - INFO - Duration:                 0:01:15.683864
+2026-10-20 13:03:14,543 - INFO - Log file: /home/hermes/Neural-Nexus/logs/daves_garage_ingestion_20261020_130158.log
+2026-10-20 13:03:14,543 - INFO - Stats saved to: /home/hermes/daves_garage_ingestion_stats_20261020_130158.json

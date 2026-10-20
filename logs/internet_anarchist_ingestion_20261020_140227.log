@@ -1,0 +1,8 @@
+2026-10-20 14:02:27,784 - INFO - 🚀 Starting daily YouTube ingestion for Internet Anarchist
+2026-10-20 14:02:27,784 - INFO - Channel: https://www.youtube.com/@InternetAnarchist
+2026-10-20 14:02:27,784 - INFO - Start time: 2026-10-20 14:02:27.784259
+2026-10-20 14:02:27,784 - INFO - ✓ All required environment variables are set
+2026-10-20 14:02:27,785 - INFO - 📺 Fetching videos from @InternetAnarchist...
+2026-10-20 14:02:29,897 - INFO - Found 15 videos on @InternetAnarchist
+2026-10-20 14:02:29,897 - INFO - Found 0 unprocessed videos (already processed: 15)
+2026-10-20 14:02:29,897 - INFO - ✅ All videos already processed. No new content to ingest.
