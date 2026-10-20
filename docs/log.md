@@ -812,3 +812,15 @@ updated: 2026-09-25
 - **Success Rate:** 100%
 - **Errors:** 0
 - **Videos Selected:** 5
+
+## 2026-10-20 process | How Money Works Daily Ingestion
+
+- **Processed**: The "Bet On Everything" Epidemic Is Actually Even Dumber Than You Think (`Dma7e3Ph0TQ`)
+- **Processed**: AI Is Laying Off... Senior Executives (`ozVb14bNwzQ`)
+- **Processed**: Companies Do Not Care About Staff Loyalty (Anymore) (`j0Gix4nmF8U`)
+- **Processed**: I Don't Care If You Get Rich. (`sj-sTy109yA`)
+- **Processed**: How Short Term Thinking Won (`qGwU2dOoHiY`)
+- **Source**: How Money Works (@HowMoneyWorks)
+- **Method**: TranscriptAPI + yt-dlp
+- **Pages created**: 15 (concept + video summary + raw transcript each)
+
