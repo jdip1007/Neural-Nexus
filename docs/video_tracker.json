@@ -99,9 +99,54 @@
       "processed_at": "2026-10-16T16:10:21.536662",
       "status": "processed",
       "channel": "HealthyGamerGG"
+    },
+    "sRavs-1HMoI": {
+      "title": "Cicada 3301: The Internet's Greatest Mystery!",
+      "url": "https://www.youtube.com/watch?v=sRavs-1HMoI",
+      "page_filename": "youtube-sRavs-1HMoI-summary.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/videos/youtube-sRavs-1HMoI-transcript.md",
+      "processed_at": "2026-10-21T13:11:46.418229",
+      "status": "processed",
+      "channel": "DavesGarage"
+    },
+    "pfVR4UwwIwU": {
+      "title": "360 Degree Video Tour of Amazing Shop",
+      "url": "https://www.youtube.com/watch?v=pfVR4UwwIwU",
+      "page_filename": "youtube-pfVR4UwwIwU-summary.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/videos/youtube-pfVR4UwwIwU-transcript.md",
+      "processed_at": "2026-10-21T13:11:46.418243",
+      "status": "processed",
+      "channel": "DavesGarage"
+    },
+    "rs6J_PP7O7k": {
+      "title": "Commodore 64 Chip Designer Interview: Albert Charpentier",
+      "url": "https://www.youtube.com/watch?v=rs6J_PP7O7k",
+      "page_filename": "youtube-rs6J_PP7O7k-summary.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/videos/youtube-rs6J_PP7O7k-transcript.md",
+      "processed_at": "2026-10-21T13:11:46.418244",
+      "status": "processed",
+      "channel": "DavesGarage"
+    },
+    "wjIy2PJ8y-Q": {
+      "title": "Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet Paper?",
+      "url": "https://www.youtube.com/watch?v=wjIy2PJ8y-Q",
+      "page_filename": "youtube-wjIy2PJ8y-Q-summary.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/videos/youtube-wjIy2PJ8y-Q-transcript.md",
+      "processed_at": "2026-10-21T13:11:46.418245",
+      "status": "processed",
+      "channel": "DavesGarage"
+    },
+    "PqWjq2SdzpI": {
+      "title": "EXPOSED: The Windows Rootkit Scandal by Sony",
+      "url": "https://www.youtube.com/watch?v=PqWjq2SdzpI",
+      "page_filename": "youtube-PqWjq2SdzpI-summary.md",
+      "transcript_path": "/home/hermes/Neural-Nexus/docs/raw/videos/youtube-PqWjq2SdzpI-transcript.md",
+      "processed_at": "2026-10-21T13:11:46.418246",
+      "status": "processed",
+      "channel": "DavesGarage"
     }
   },
-  "last_updated": "2026-10-16T16:10:21.536670",
+  "last_updated": "2026-10-21T13:11:46.418250",
   "video_metadata": {
     "RdmYUULKf7s": {
       "id": "RdmYUULKf7s",
