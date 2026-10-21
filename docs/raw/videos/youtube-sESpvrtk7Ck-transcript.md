@@ -1,18 +1,18 @@
 ---
 title: YouTube Transcript: Session 7: Market Growth with Boom and Bust
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, sESpvrtk7Ck]
 sources: []
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 ---
 source_url: https://www.youtube.com/watch?v=sESpvrtk7Ck
 source_type: video
-ingested: 2026-10-20
+ingested: 2026-10-21
 duration_minutes: 145
 language: en
 sha256: 098fccb62fc7651267c3c196f6554705f689953e3299cdd882354bf56ca71a4d

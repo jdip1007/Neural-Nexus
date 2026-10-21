@@ -1,17 +1,17 @@
 ---
 title: Session 7: Market Growth with Boom and Bust - Summary
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, sESpvrtk7Ck]
 sources: [raw/videos/youtube-sESpvrtk7Ck-transcript.md]
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-20
+reviewed: 2026-10-21
 ---
 
 # Session 7: Market Growth with Boom and Bust - Summary
@@ -39,13 +39,13 @@ customer desired delivery delay minus perceived delivery delay
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: So Vensim, In Vensim, So Ann
+- **Persons**: So Aria, So Vensim, In Vensim
 
 ## Related Concepts
-- [[api]]
-- [[framework]]
-- [[ai]]
 - [[llm]]
+- [[framework]]
+- [[api]]
+- [[ai]]
 
 ## Transcript Highlights
 > So pretty much the same

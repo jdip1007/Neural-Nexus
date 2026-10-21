@@ -1,18 +1,18 @@
 ---
 title: YouTube Transcript: Session 6: Ponzi
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, MBn9Tct8q14]
 sources: []
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 ---
 source_url: https://www.youtube.com/watch?v=MBn9Tct8q14
 source_type: video
-ingested: 2026-10-20
+ingested: 2026-10-21
 duration_minutes: 155
 language: en
 sha256: ab4ab39327a23336eea44d59c7c78342cdf6e59a737785e94d3d211e2d0a3abb

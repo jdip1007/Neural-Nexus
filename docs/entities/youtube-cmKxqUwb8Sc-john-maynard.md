@@ -1,7 +1,7 @@
 ---
 title: John Maynard
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, cmKxqUwb8Sc]
 sources: [raw/videos/youtube-cmKxqUwb8Sc-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-20
+reviewed: 2026-10-21
 ---
 
 # John Maynard

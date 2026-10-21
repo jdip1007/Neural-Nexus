@@ -1,17 +1,17 @@
 ---
 title: Session 4: Predator Prey with Carrying Capacity - Summary
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, sfEhJRqrK7Q]
 sources: [raw/videos/youtube-sfEhJRqrK7Q-transcript.md]
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-20
+reviewed: 2026-10-21
 ---
 
 # Session 4: Predator Prey with Carrying Capacity - Summary
@@ -42,12 +42,12 @@ role in the outflows
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: So Kathy, So You, So Ross
+- **Persons**: So Kathy, But Gerardo, And Gerardo
 
 ## Related Concepts
+- [[llm]]
 - [[api]]
 - [[ai]]
-- [[llm]]
 
 ## Transcript Highlights
 > STUDENT: It distracted from

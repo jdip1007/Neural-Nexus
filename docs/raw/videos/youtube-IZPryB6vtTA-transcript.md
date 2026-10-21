@@ -1,18 +1,18 @@
 ---
 title: YouTube Transcript: Session 3: Energy Efficiency Co-Flows
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, IZPryB6vtTA]
 sources: []
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 ---
 source_url: https://www.youtube.com/watch?v=IZPryB6vtTA
 source_type: video
-ingested: 2026-10-20
+ingested: 2026-10-21
 duration_minutes: 150
 language: en
 sha256: 6dc81e927b1989ed7fffda29f33fac15f523eb82d724507cf2a73662600025de

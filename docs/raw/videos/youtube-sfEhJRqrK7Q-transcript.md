@@ -1,18 +1,18 @@
 ---
 title: YouTube Transcript: Session 4: Predator Prey with Carrying Capacity
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, sfEhJRqrK7Q]
 sources: []
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 ---
 source_url: https://www.youtube.com/watch?v=sfEhJRqrK7Q
 source_type: video
-ingested: 2026-10-20
+ingested: 2026-10-21
 duration_minutes: 147
 language: en
 sha256: 00ef6bfeb1ebad8af7046200c89896dc644b7714d2d63b3ef96ebee23db65d70

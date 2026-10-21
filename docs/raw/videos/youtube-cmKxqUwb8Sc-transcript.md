@@ -1,18 +1,18 @@
 ---
 title: YouTube Transcript: Session 11: Student Projects (cont’d)
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, cmKxqUwb8Sc]
 sources: []
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 ---
 source_url: https://www.youtube.com/watch?v=cmKxqUwb8Sc
 source_type: video
-ingested: 2026-10-20
+ingested: 2026-10-21
 duration_minutes: 157
 language: en
 sha256: adf60a52a6abc81b8e5719400f4123911a6a740811ef8dbe35ab00a41cb914a9

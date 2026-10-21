@@ -1,17 +1,17 @@
 ---
 title: Session 11: Student Projects (cont’d) - Summary
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, cmKxqUwb8Sc]
 sources: [raw/videos/youtube-cmKxqUwb8Sc-transcript.md]
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-20
+reviewed: 2026-10-21
 ---
 
 # Session 11: Student Projects (cont’d) - Summary
@@ -40,11 +40,11 @@ that becomes important
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: John Maynard, Human Capital, Michigan Sentiment
+- **Persons**: And Nelson, John Maynard, New York
 
 ## Related Concepts
-- [[machine-learning]]
 - [[cloud]]
+- [[neural-network]]
 - [[api]]
 - [[ai]]
 

@@ -1,17 +1,17 @@
 ---
 title: Session 3: Energy Efficiency Co-Flows - Summary
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, IZPryB6vtTA]
 sources: [raw/videos/youtube-IZPryB6vtTA-transcript.md]
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-20
+reviewed: 2026-10-21
 ---
 
 # Session 3: Energy Efficiency Co-Flows - Summary
@@ -42,7 +42,7 @@ concept we need for calculating the vaccination rate
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Type Consumption, Building Energy, So Vensim
+- **Persons**: So Vensim, Because Alban, All But
 
 ## Related Concepts
 - [[ai]]

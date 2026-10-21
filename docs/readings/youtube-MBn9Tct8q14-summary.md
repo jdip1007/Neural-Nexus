@@ -1,17 +1,17 @@
 ---
 title: Session 6: Ponzi - Summary
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: reading
 domain: ai
 classification: general.media
 tags: [youtube, video-summary, transcript, MBn9Tct8q14]
 sources: [raw/videos/youtube-MBn9Tct8q14-transcript.md]
-published: 2026-10-20
+published: 2026-10-21
 time_sensitive: True
 confidence: high
 status: active
-reviewed: 2026-10-20
+reviewed: 2026-10-21
 ---
 
 # Session 6: Ponzi - Summary
@@ -42,14 +42,14 @@ resources are important
 - **Note**: This content may contain time-sensitive information
 
 ## Entities Mentioned
-- **Persons**: Like Bitcoin, So Alban, Jay Forrester
+- **Persons**: Jay Forrester, So Ponzi, Like Bitcoin
 
 ## Related Concepts
+- [[llm]]
+- [[algorithm]]
 - [[architecture]]
 - [[api]]
-- [[algorithm]]
 - [[ai]]
-- [[llm]]
 
 ## Transcript Highlights
 > HAZHIR RAHMANDAD: Very

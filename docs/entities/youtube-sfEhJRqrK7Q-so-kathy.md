@@ -1,7 +1,7 @@
 ---
 title: So Kathy
-created: 2026-10-20
-updated: 2026-10-20
+created: 2026-10-21
+updated: 2026-10-21
 type: entity
 domain: ai
 classification: person.researcher
@@ -9,7 +9,7 @@ tags: [youtube, video-derived, persons, sfEhJRqrK7Q]
 sources: [raw/videos/youtube-sfEhJRqrK7Q-transcript.md]
 confidence: medium
 status: active
-reviewed: 2026-10-20
+reviewed: 2026-10-21
 ---
 
 # So Kathy
