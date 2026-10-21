@@ -1,21 +1,22 @@
 ---
-title: "Cicada 3301: The Internet's Greatest Mystery!"
-created: 2026-10-14
-updated: 2026-10-14
-type: raw
+title: YouTube Transcript: Cicada 3301: The Internet's Greatest Mystery!
+created: 2026-10-21
+updated: 2026-10-21
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, sRavs-1HMoI]
-sources: ["https://www.youtube.com/watch?v=sRavs-1HMoI"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-10-21
+time_sensitive: True
 ---
-
-
-
+source_url: https://www.youtube.com/watch?v=sRavs-1HMoI
+source_type: video
+ingested: 2026-10-21
+duration_minutes: 15
+language: en
+sha256: 71b1c5efdedcae13de27a37af5f75d4b7dfb1d741dd3bf08fa2eef1c53afd890
+---
 
 # YouTube Transcript: Cicada 3301: The Internet's Greatest Mystery!
 

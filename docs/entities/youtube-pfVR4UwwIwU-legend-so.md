@@ -1,20 +1,16 @@
 ---
-classification: person.researcher
-confidence: medium
-created: 2026-08-16
-domain: ai
-reviewed: 2026-08-16
-sources:
-- raw/videos/youtube-pfVR4UwwIwU-transcript.md
-status: active
-tags:
-- general
 title: Legend So
+created: 2026-10-21
+updated: 2026-10-21
 type: entity
-updated: 2026-08-16
+domain: ai
+classification: person.researcher
+tags: [youtube, video-derived, persons, pfVR4UwwIwU]
+sources: [raw/videos/youtube-pfVR4UwwIwU-transcript.md]
+confidence: medium
+status: active
+reviewed: 2026-10-21
 ---
-
-
 
 # Legend So
 
@@ -25,14 +21,7 @@ Legend So is mentioned in the YouTube video "360 Degree Video Tour of Amazing Sh
 Mentioned in the context of research and development.
 
 ## In This Wiki
-- [Video Summary](readings/youtube-pfVR4UwwIwU-summary.md)
+- [[youtube-pfVR4UwwIwU-summary|Video Summary]]
 
 ## Sources
 ^[raw/videos/youtube-pfVR4UwwIwU-transcript.md] Video mention at timestamp
-
-
-## See also
-
-- [[youtube-ZwYrXkPJA1s-ivy-league]]
-- 
-- youtube-dave-garage-003-diy-smart-mirror-building-your-own-assistant

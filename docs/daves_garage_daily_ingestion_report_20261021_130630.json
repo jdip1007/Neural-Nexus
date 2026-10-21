@@ -1,0 +1,42 @@
+{
+  "channel": "daves_garage",
+  "timestamp": "2026-10-21T13:06:30.280755",
+  "videos_found": 43,
+  "already_processed": 19,
+  "unprocessed": 24,
+  "selected": 5,
+  "success_count": 5,
+  "failure_count": 0,
+  "duration_seconds": 20.635229,
+  "total_tracked": 223,
+  "results": {
+    "success": [
+      {
+        "video_id": "sRavs-1HMoI",
+        "title": "Cicada 3301: The Internet's Greatest Mystery!",
+        "url": "https://www.youtube.com/watch?v=sRavs-1HMoI"
+      },
+      {
+        "video_id": "pfVR4UwwIwU",
+        "title": "360 Degree Video Tour of Amazing Shop",
+        "url": "https://www.youtube.com/watch?v=pfVR4UwwIwU"
+      },
+      {
+        "video_id": "rs6J_PP7O7k",
+        "title": "Commodore 64 Chip Designer Interview: Albert Charpentier",
+        "url": "https://www.youtube.com/watch?v=rs6J_PP7O7k"
+      },
+      {
+        "video_id": "wjIy2PJ8y-Q",
+        "title": "Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet Paper?",
+        "url": "https://www.youtube.com/watch?v=wjIy2PJ8y-Q"
+      },
+      {
+        "video_id": "PqWjq2SdzpI",
+        "title": "EXPOSED: The Windows Rootkit Scandal by Sony",
+        "url": "https://www.youtube.com/watch?v=PqWjq2SdzpI"
+      }
+    ],
+    "failed": []
+  }
+}

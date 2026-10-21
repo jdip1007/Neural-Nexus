@@ -1,21 +1,22 @@
 ---
-title: "Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet Paper?"
-created: 2026-10-14
-updated: 2026-10-14
-type: raw
+title: YouTube Transcript: Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet Paper?
+created: 2026-10-21
+updated: 2026-10-21
+type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, wjIy2PJ8y-Q]
-sources: ["https://www.youtube.com/watch?v=wjIy2PJ8y-Q"]
-published: 2026-10-14
+sources: []
+published: 2026-10-21
 time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
 ---
-
-
-
+source_url: https://www.youtube.com/watch?v=wjIy2PJ8y-Q
+source_type: video
+ingested: 2026-10-21
+duration_minutes: 4
+language: en
+sha256: 71da44e53106b9949d20c8bb18edbffecfe9cd02ef5f4857cd66a3c0490e205b
+---
 
 # YouTube Transcript: Mind-Blowing Demo of Sticker Remover - Duct Tape + Toilet Paper?
 

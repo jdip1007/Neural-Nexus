@@ -1,22 +1,22 @@
 ---
-title: "360 Degree Video Tour of Amazing Shop"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: 360 Degree Video Tour of Amazing Shop
+created: 2026-10-21
+updated: 2026-10-21
 type: source
 domain: ai
 classification: general.media
 tags: [youtube, transcript, pfVR4UwwIwU]
-sources: ["https://www.youtube.com/watch?v=pfVR4UwwIwU"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+sources: []
+published: 2026-10-21
+time_sensitive: True
+---
 source_url: https://www.youtube.com/watch?v=pfVR4UwwIwU
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-21
+duration_minutes: 3
+language: en
+sha256: 29c9eb65dcaea170c0b3c30fe45ff5912bfc3075f72551eeb43d0f5abf359276
+---
 
 # YouTube Transcript: 360 Degree Video Tour of Amazing Shop
 
