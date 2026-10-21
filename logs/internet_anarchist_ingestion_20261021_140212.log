@@ -1,0 +1,21 @@
+2026-10-21 14:02:12,818 - INFO - 🚀 Starting daily YouTube ingestion for Internet Anarchist
+2026-10-21 14:02:12,818 - INFO - Channel: https://www.youtube.com/@InternetAnarchist
+2026-10-21 14:02:12,818 - INFO - Start time: 2026-10-21 14:02:12.818621
+2026-10-21 14:02:12,818 - INFO - ✓ All required environment variables are set
+2026-10-21 14:02:12,819 - INFO - 📺 Fetching videos from @InternetAnarchist...
+2026-10-21 14:02:14,838 - INFO - Found 15 videos on @InternetAnarchist
+2026-10-21 14:02:14,839 - INFO - Found 1 unprocessed videos (already processed: 14)
+2026-10-21 14:02:14,839 - INFO - 🎲 Randomly selected 1 videos for processing:
+2026-10-21 14:02:14,839 - INFO -   1. MokkrYxYVN8: https://www.youtube.com/watch?v=MokkrYxYVN8
+2026-10-21 14:02:14,839 - INFO - 📹 Processing video 1/1: MokkrYxYVN8
+2026-10-21 14:02:15,358 - INFO -   Title: TikTok's Grossest Predator Keeps Getting Caught
+2026-10-21 14:02:16,925 - INFO -   ✓ Raw transcript created: youtube-MokkrYxYVN8-transcript.md
+2026-10-21 14:02:16,927 - INFO -   ✓ Reading page created: youtube-MokkrYxYVN8-TikToks-Grossest-Predator-Keeps-Getting-Caught.md
+2026-10-21 14:02:16,931 - INFO - ✓ Successfully processed video 1: MokkrYxYVN8
+2026-10-21 14:02:16,931 - INFO - 🔍 Running pre-deployment verification...
+2026-10-21 14:02:16,931 - INFO - ✅ All created pages passed verification
+2026-10-21 14:02:16,931 - INFO - Running quality checks...
+2026-10-21 14:04:17,042 - WARNING - Script scripts/lint-wiki.js timed out, skipping
+2026-10-21 14:04:17,782 - INFO - ✓ scripts/build-graph.js passed
+2026-10-21 14:04:17,902 - INFO - ✓ scripts/generate-catalog.js passed
+2026-10-21 14:04:17,903 - INFO - 🚀 Deploying to GitHub Pages...
