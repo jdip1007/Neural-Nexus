@@ -1,44 +1,82 @@
 [
   {
-    "video_id": "lxDNHLgWInU",
-    "title": "This AI Company Stole My Voice (allegedly)",
-    "url": "https://www.youtube.com/watch?v=lxDNHLgWInU",
-    "published": "2026-10-16T15:00:02+00:00"
+    "id": "uOBZFhe2Kmc",
+    "title": "They Captured His Family, So He Changed War Forever",
+    "url": "https://www.youtube.com/watch?v=uOBZFhe2Kmc",
+    "published": "2026-10-21T15:00:13+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
   },
   {
-    "video_id": "XnQ2Da7HcRk",
-    "title": "9 Harsh Truths No One Wants To Admit - Shaan Puri",
-    "url": "https://www.youtube.com/watch?v=XnQ2Da7HcRk",
-    "published": "2026-10-15T15:00:03+00:00"
+    "id": "iD-0Kbul_zE",
+    "title": "How to Master The Urge That Ruins Men\u2019s Lives",
+    "url": "https://www.youtube.com/watch?v=iD-0Kbul_zE",
+    "published": "2026-10-20T15:00:01+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
   },
   {
-    "video_id": "gMOurQuERVs",
+    "id": "Za5QvlxjkEk",
+    "title": "Don\u2019t Quit Before Your Breakthrough",
+    "url": "https://www.youtube.com/watch?v=Za5QvlxjkEk",
+    "published": "2026-10-19T20:00:24+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
+  },
+  {
+    "id": "dCy-RENaZnQ",
+    "title": "The World Doesn\u2019t Care About Your Intelligence - Shaan Puri",
+    "url": "https://www.youtube.com/watch?v=dCy-RENaZnQ",
+    "published": "2026-10-18T15:00:13+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
+  },
+  {
+    "id": "z7URpe7QlCQ",
+    "title": "You Must Enjoy Your Life",
+    "url": "https://www.youtube.com/watch?v=z7URpe7QlCQ",
+    "published": "2026-10-17T21:42:55+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
+  },
+  {
+    "id": "tSl0A82X1mQ",
+    "title": "Why Will Procrastination Completely Destroy You",
+    "url": "https://www.youtube.com/watch?v=tSl0A82X1mQ",
+    "published": "2026-10-16T22:41:06+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
+  },
+  {
+    "id": "ifLy6nquPrY",
+    "title": "The Ultimate Blueprint For Decision Making",
+    "url": "https://www.youtube.com/watch?v=ifLy6nquPrY",
+    "published": "2026-10-15T22:42:55+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
+  },
+  {
+    "id": "28BkM8nLPt4",
+    "title": "High Agency Vs Depressed Thought Life",
+    "url": "https://www.youtube.com/watch?v=28BkM8nLPt4",
+    "published": "2026-10-14T23:38:42+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
+  },
+  {
+    "id": "gMOurQuERVs",
     "title": "\u201cI Was A Loser Until I Was 39\u201d - Robert Greene",
     "url": "https://www.youtube.com/watch?v=gMOurQuERVs",
-    "published": "2026-10-14T15:00:23+00:00"
+    "published": "2026-10-14T15:00:23+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
   },
   {
-    "video_id": "e7kITt5_gIM",
-    "title": "The Most Insane CIA Brainwashing Story - John Kiriakou",
-    "url": "https://www.youtube.com/watch?v=e7kITt5_gIM",
-    "published": "2026-10-13T15:00:01+00:00"
-  },
-  {
-    "video_id": "TQHgk-qft-8",
-    "title": "\u201cThis Is The Most Important Subject I\u2019ve Ever Covered\u201d - Robert Greene",
-    "url": "https://www.youtube.com/watch?v=TQHgk-qft-8",
-    "published": "2026-10-12T15:00:27+00:00"
-  },
-  {
-    "video_id": "r9-VBStgKOM",
-    "title": "Aggressive arms training with Sam Sulek.",
-    "url": "https://www.youtube.com/watch?v=r9-VBStgKOM",
-    "published": "2026-10-11T15:00:04+00:00"
-  },
-  {
-    "video_id": "k8nO9gyQphI",
-    "title": "\"I Read 500 Self-Help Books So You Don\u2019t Have To\" - Spencer Greenberg",
-    "url": "https://www.youtube.com/watch?v=k8nO9gyQphI",
-    "published": "2026-10-10T15:00:08+00:00"
+    "id": "eJSu8ebCpqw",
+    "title": "How To Handle Passive-Aggressive People",
+    "url": "https://www.youtube.com/watch?v=eJSu8ebCpqw",
+    "published": "2026-10-13T22:33:21+00:00",
+    "duration": "unknown",
+    "duration_sec": 0
   }
 ]
