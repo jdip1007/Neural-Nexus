@@ -43,3 +43,17 @@
 2026-10-22 14:10:59,404 - INFO - OK: scripts/build-graph.js passed
 2026-10-22 14:10:59,539 - INFO - OK: scripts/generate-catalog.js passed
 2026-10-22 14:10:59,539 - INFO - Deploying to GitHub Pages...
+2026-10-22 14:11:02,995 - INFO - Successfully deployed to GitHub Pages
+2026-10-22 14:11:02,995 - INFO - Report saved to: /home/hermes/Neural-Nexus/internet_anarchist_daily_ingestion_report_2026-10-22.md
+2026-10-22 14:11:02,996 - INFO - ============================================================
+2026-10-22 14:11:02,996 - INFO - FINAL SUMMARY
+2026-10-22 14:11:02,996 - INFO - ============================================================
+2026-10-22 14:11:02,996 - INFO - Channel: Internet Anarchist (@InternetAnarchist)
+2026-10-22 14:11:02,996 - INFO - Videos discovered: 151
+2026-10-22 14:11:02,996 - INFO - Videos selected: 5
+2026-10-22 14:11:02,996 - INFO - Videos processed: 5
+2026-10-22 14:11:02,996 - INFO - Errors: 0
+2026-10-22 14:11:02,996 - INFO - Success rate: 100.0%
+2026-10-22 14:11:02,996 - INFO - New pages created: 10
+2026-10-22 14:11:02,996 - INFO - Deployed: Yes
+2026-10-22 14:11:02,996 - INFO - Duration: 0:02:19.973984
