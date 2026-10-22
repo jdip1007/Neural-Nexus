@@ -1,0 +1,45 @@
+2026-10-22 14:08:43,021 - INFO - Starting daily YouTube ingestion for Internet Anarchist
+2026-10-22 14:08:43,021 - INFO - Channel: https://www.youtube.com/@InternetAnarchist
+2026-10-22 14:08:43,021 - INFO - All required environment variables are set
+2026-10-22 14:08:43,022 - INFO - Discovering videos from @InternetAnarchist...
+2026-10-22 14:08:50,764 - INFO - Found 151 unique videos from @InternetAnarchist
+2026-10-22 14:08:50,764 - INFO - Already processed: 19, Unprocessed: 132
+2026-10-22 14:08:50,764 - INFO - Randomly selected 5 videos for processing:
+2026-10-22 14:08:50,764 - INFO -   1. -ZngMpTNwpA: MrBeast Is Getting Exposed Again...
+2026-10-22 14:08:50,764 - INFO -   2. A-SGv0fCUsw: Mizkif's Life Is Falling Apart
+2026-10-22 14:08:50,764 - INFO -   3. 6zAG7p81NME: Airrack Never Stopped Faking Videos
+2026-10-22 14:08:50,764 - INFO -   4. 6IgDQMVZq2I: Shark Tank is Worse Than You Thought
+2026-10-22 14:08:50,764 - INFO -   5. 6jUQYgO7vYs: Most Hated Vs Most Loved YouTuber Products
+2026-10-22 14:08:50,764 - INFO - Processing video 1/5: -ZngMpTNwpA - MrBeast Is Getting Exposed Again...
+2026-10-22 14:08:51,481 - INFO -   Title: MrBeast Is Getting Exposed Again...
+2026-10-22 14:08:52,463 - INFO -   Raw transcript created: youtube--ZngMpTNwpA-transcript.md
+2026-10-22 14:08:52,464 - INFO -   Reading page created: youtube--ZngMpTNwpA-MrBeast-Is-Getting-Exposed-Again.md
+2026-10-22 14:08:52,466 - INFO - Successfully processed video 1: -ZngMpTNwpA
+2026-10-22 14:08:52,466 - INFO - Processing video 2/5: A-SGv0fCUsw - Mizkif's Life Is Falling Apart
+2026-10-22 14:08:52,986 - INFO -   Title: Mizkif's Life Is Falling Apart
+2026-10-22 14:08:53,948 - INFO -   Raw transcript created: youtube-A-SGv0fCUsw-transcript.md
+2026-10-22 14:08:53,949 - INFO -   Reading page created: youtube-A-SGv0fCUsw-Mizkifs-Life-Is-Falling-Apart.md
+2026-10-22 14:08:53,951 - INFO - Successfully processed video 2: A-SGv0fCUsw
+2026-10-22 14:08:53,951 - INFO - Processing video 3/5: 6zAG7p81NME - Airrack Never Stopped Faking Videos
+2026-10-22 14:08:54,489 - INFO -   Title: Airrack Never Stopped Faking Videos
+2026-10-22 14:08:55,494 - INFO -   Raw transcript created: youtube-6zAG7p81NME-transcript.md
+2026-10-22 14:08:55,495 - INFO -   Reading page created: youtube-6zAG7p81NME-Airrack-Never-Stopped-Faking-Videos.md
+2026-10-22 14:08:55,497 - INFO - Successfully processed video 3: 6zAG7p81NME
+2026-10-22 14:08:55,497 - INFO - Processing video 4/5: 6IgDQMVZq2I - Shark Tank is Worse Than You Thought
+2026-10-22 14:08:56,049 - INFO -   Title: Shark Tank is Worse Than You Thought
+2026-10-22 14:08:56,989 - INFO -   Raw transcript created: youtube-6IgDQMVZq2I-transcript.md
+2026-10-22 14:08:56,990 - INFO -   Reading page created: youtube-6IgDQMVZq2I-Shark-Tank-is-Worse-Than-You-Thought.md
+2026-10-22 14:08:56,992 - INFO - Successfully processed video 4: 6IgDQMVZq2I
+2026-10-22 14:08:56,992 - INFO - Processing video 5/5: 6jUQYgO7vYs - Most Hated Vs Most Loved YouTuber Products
+2026-10-22 14:08:57,523 - INFO -   Title: Most Hated Vs Most Loved YouTuber Products
+2026-10-22 14:08:58,476 - INFO -   Raw transcript created: youtube-6jUQYgO7vYs-transcript.md
+2026-10-22 14:08:58,476 - INFO -   Reading page created: youtube-6jUQYgO7vYs-Most-Hated-Vs-Most-Loved-YouTuber-Products.md
+2026-10-22 14:08:58,478 - INFO - Successfully processed video 5: 6jUQYgO7vYs
+2026-10-22 14:08:58,479 - INFO - Processing complete: 5 processed, 0 errors
+2026-10-22 14:08:58,479 - INFO - Running pre-deployment verification...
+2026-10-22 14:08:58,479 - INFO - All created pages passed verification
+2026-10-22 14:08:58,479 - INFO - Running quality checks...
+2026-10-22 14:10:58,595 - WARNING - Script scripts/lint-wiki.js timed out, skipping
+2026-10-22 14:10:59,404 - INFO - OK: scripts/build-graph.js passed
+2026-10-22 14:10:59,539 - INFO - OK: scripts/generate-catalog.js passed
+2026-10-22 14:10:59,539 - INFO - Deploying to GitHub Pages...

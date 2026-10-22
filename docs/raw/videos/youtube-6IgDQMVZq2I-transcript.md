@@ -1,1198 +1,1200 @@
 ---
-title: "Shark Tank is Worse Than You Thought"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: Shark Tank is Worse Than You Thought
+created: 2026-10-22
+updated: 2026-10-22
 type: source
-domain: ai
-classification: general.media
-tags: [youtube, transcript, 6IgDQMVZq2I]
-sources: ["https://www.youtube.com/watch?v=6IgDQMVZq2I"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+domain: media
+classification: internet-culture.channel-content
+tags: [youtube, transcript, internet-anarchist, 6IgDQMVZq2I]
+sources: []
+published: 2026-10-22
+time_sensitive: false
+---
 source_url: https://www.youtube.com/watch?v=6IgDQMVZq2I
-source_type: video---
-
-
-
+source_type: video
+ingested: 2026-10-22
+language: en
+sha256: 36d90b6fd3791ec6f2be8d196bd4f1f59f7ebd5c747fb4012f6f9b85fe24a0f7
+channel: Internet Anarchist
+---
 
 # YouTube Transcript: Shark Tank is Worse Than You Thought
 
 ## Video Information
 - **Title**: Shark Tank is Worse Than You Thought
 - **Video ID**: 6IgDQMVZq2I
-- **Published**: Unknown
-- **Views**: Unknown
+- **Channel**: Internet Anarchist
+- **Published**: 2026-10-22
 - **Language**: en
 
 ## Transcript
-00:00 From massive deals, do you have a
 
-00:02 contract in place? I will help you right
+0.16 From massive deals, do you have a
 
-00:03 now. $3 million for the entire company.
+2.0 contract in place? I will help you right
 
-00:08 Wow. To brutal beatdowns. Mark, are you
+3.28 now. $3 million for the entire company.
 
-00:10 allergic to positive negative ion stuff?
+8.32 Wow. To brutal beatdowns. Mark, are you
 
-00:12 No, I'm allergic to scams.
+10.719 allergic to positive negative ion stuff?
 
-00:15 Seriously, this is not new. It's been
+12.88 No, I'm allergic to scams.
 
-00:18 disproven. It's a joke. It's a scam.
+15.839 Seriously, this is not new. It's been
 
-00:21 It's not real. I'm out. And crazy crash.
+18.199 disproven. It's a joke. It's a scam.
 
-00:24 I would take an offer from anybody
+21.52 It's not real. I'm out. And crazy crash.
 
-00:26 besides Mr. Wonderful. Ew. Worst
+24.96 I would take an offer from anybody
 
-00:29 presentation ever. I'm out. Oh, that was
+26.24 besides Mr. Wonderful. Ew. Worst
 
-00:32 me. For many, Shark Tank is the best
+29.359 presentation ever. I'm out. Oh, that was
 
-00:34 show on TV, and it's easy to see why. It
+32.32 me. For many, Shark Tank is the best
 
-00:37 has a predictable yet entertaining
+34.559 show on TV, and it's easy to see why. It
 
-00:39 format with plenty of drama, suspense,
+37.84 has a predictable yet entertaining
 
-00:42 and jaw-dropping moments that leave you
+39.68 format with plenty of drama, suspense,
 
-00:44 glued to your screen. Something that's
+42.719 and jaw-dropping moments that leave you
 
-00:46 apparent from their views on YouTube
+44.559 glued to your screen. Something that's
 
-00:48 alone. What most people don't realize,
+46.559 apparent from their views on YouTube
 
-00:50 however, is that beneath the show's
+48.239 alone. What most people don't realize,
 
-00:52 spectacle lies a world of manipulation,
+50.719 however, is that beneath the show's
 
-00:55 exploitation, and life-threatening
+52.8 spectacle lies a world of manipulation,
 
-00:57 scams. Hi, I'm the internet anarchist. I
+55.6 exploitation, and life-threatening
 
-01:00 create weekly YouTube documentaries. And
+57.76 scams. Hi, I'm the internet anarchist. I
 
-01:02 today, we'll be doing a deep dive into
+60.32 create weekly YouTube documentaries. And
 
-01:04 the dark underbelly of Shark Tank,
+62.8 today, we'll be doing a deep dive into
 
-01:07 everything wrong with the show, its
+64.879 the dark underbelly of Shark Tank,
 
-01:08 sharks, and the contestants. Now, some
+67.04 everything wrong with the show, its
 
-01:11 of these missteps can be chocked up to
+68.88 sharks, and the contestants. Now, some
 
-01:13 nothing but mistakes. But as you'll see
+71.52 of these missteps can be chocked up to
 
-01:16 by the end of this video, a few of them
+73.52 nothing but mistakes. But as you'll see
 
-01:18 were deliberate offenses that ended up
+76.0 by the end of this video, a few of them
 
-01:20 ruining lives. He wiped out our business
+78.08 were deliberate offenses that ended up
 
-01:22 bank account. There was about $100,000
+80.08 ruining lives. He wiped out our business
 
-01:25 in there at the time, and he mailed us a
+82.64 bank account. There was about $100,000
 
-01:27 check for $8,000. For those who haven't
+85.2 in there at the time, and he mailed us a
 
-01:30 seen the show before, Shark Tank is a
+87.84 check for $8,000. For those who haven't
 
-01:32 reality TV show where aspiring
+90.64 seen the show before, Shark Tank is a
 
-01:34 entrepreneurs pitch their business idea
+92.72 reality TV show where aspiring
 
-01:36 to a panel of wealthy investors known as
+94.4 entrepreneurs pitch their business idea
 
-01:38 Sharks in hopes of securing a
+96.4 to a panel of wealthy investors known as
 
-01:40 life-changing deal. The show first
+98.72 Sharks in hopes of securing a
 
-01:42 premiered in 2009 as the American
+100.799 life-changing deal. The show first
 
-01:45 adaptation of the Japanese show Tigers
+102.72 premiered in 2009 as the American
 
-01:47 of
+105.28 adaptation of the Japanese show Tigers
 
-01:53 Money. The same Japanese show inspired
+107.52 of
 
-01:56 the UK's Dragon's Den as well. While the
+113.56 Money. The same Japanese show inspired
 
-01:58 concept was quite similar, the mere idea
+116.32 the UK's Dragon's Den as well. While the
 
-02:01 of someone potentially making it big
+118.88 concept was quite similar, the mere idea
 
-02:03 thanks to the shark's investment was
+121.2 of someone potentially making it big
 
-02:05 surprisingly gripping. Viewers also
+123.119 thanks to the shark's investment was
 
-02:07 tuned in for every episode to see what
+125.04 surprisingly gripping. Viewers also
 
-02:08 creative ideas or products contestants
+127.119 tuned in for every episode to see what
 
-02:11 would bring up. In the 80s, there was
+128.959 creative ideas or products contestants
 
-02:13 the Rubik's Cube. Now,
+131.12 would bring up. In the 80s, there was
 
-02:16 introducing the toy of the future.
+133.04 the Rubik's Cube. Now,
 
-02:26 The American version also cut down the
+136.28 introducing the toy of the future.
 
-02:28 hours of boring business negotiations
+146.319 The American version also cut down the
 
-02:30 into a more fast-paced, highstakes back
+148.48 hours of boring business negotiations
 
-02:33 and forth between the sharks and the
+150.8 into a more fast-paced, highstakes back
 
-02:34 entrepreneurs. This helped Shark Tank
+153.04 and forth between the sharks and the
 
-02:36 gain mass appeal, making it more and
+154.8 entrepreneurs. This helped Shark Tank
 
-02:38 more popular with each new season.
+156.879 gain mass appeal, making it more and
 
-02:41 However, despite its immense popularity,
+158.959 more popular with each new season.
 
-02:43 the show has some glaring flaws that are
+161.2 However, despite its immense popularity,
 
-02:45 impossible to overlook. For starters,
+163.76 the show has some glaring flaws that are
 
-02:48 the Sharks aren't nearly as shrewd as
+165.84 impossible to overlook. For starters,
 
-02:50 they claim to be. Sure, they have the
+168.16 the Sharks aren't nearly as shrewd as
 
-02:52 business know-how to sometimes land
+170.0 they claim to be. Sure, they have the
 
-02:54 massively successful deals, like the
+172.16 business know-how to sometimes land
 
-02:56 Scrub Daddy. I take the Scrub Daddy, and
+174.08 massively successful deals, like the
 
-02:58 you're going to see it's just going to
+176.319 Scrub Daddy. I take the Scrub Daddy, and
 
-02:59 attack right into that burn-on mess,
+178.319 you're going to see it's just going to
 
-03:01 scrubbing it right off. And remember,
+179.36 attack right into that burn-on mess,
 
-03:02 I'm just using water here. There's no
+181.04 scrubbing it right off. And remember,
 
-03:04 chemicals at all and it's going to cut
+182.8 I'm just using water here. There's no
 
-03:06 right through
+184.879 chemicals at all and it's going to cut
 
-03:08 that. It won't scratch any of your
+186.8 right through
 
-03:10 surfaces, but it will clean them
+188.2 that. It won't scratch any of your
 
-03:12 beautifully. Now, Scrub D is not really
+190.48 surfaces, but it will clean them
 
-03:14 smiling anymore, so I'm going to put him
+192.56 beautifully. Now, Scrub D is not really
 
-03:16 here in the warm water. And in just a
+194.879 smiling anymore, so I'm going to put him
 
-03:18 couple
+196.319 here in the warm water. And in just a
 
-03:19 seconds, voila, he's back to bright,
+198.0 couple
 
-03:23 fresh, and clean every time. Lorie
+199.959 seconds, voila, he's back to bright,
 
-03:25 Grryer invested over $200,000 for a 20%
+203.04 fresh, and clean every time. Lorie
 
-03:28 stake in the company, and it paid off.
+205.44 Grryer invested over $200,000 for a 20%
 
-03:31 I'll go to 20. We got a deal. Got a
+208.8 stake in the company, and it paid off.
 
-03:33 deal. All right, good. Way to go, Aaron.
+211.2 I'll go to 20. We got a deal. Got a
 
-03:36 Woo.
+213.2 deal. All right, good. Way to go, Aaron.
 
-03:38 Congratulations. Thanks, Laura. I'm so
+216.72 Woo.
 
-03:40 excited. Scrub Daddy became a bigger
+218.799 Congratulations. Thanks, Laura. I'm so
 
-03:42 success than Lori could have ever
+220.48 excited. Scrub Daddy became a bigger
 
-03:43 imagined. By 2024, it had already sold
+222.4 success than Lori could have ever
 
-03:47 over $700 million worth of products.
+223.84 imagined. By 2024, it had already sold
 
-03:50 Unfortunately, for a show about
+227.44 over $700 million worth of products.
 
-03:52 experienced rich business people making
+230.56 Unfortunately, for a show about
 
-03:54 smart investments, Scrub Daddy is a rare
+232.4 experienced rich business people making
 
-03:57 exception rather than the rule. There
+234.4 smart investments, Scrub Daddy is a rare
 
-03:59 are the odd successes here and there.
+237.12 exception rather than the rule. There
 
-04:01 But so many more investments crumble the
+239.12 are the odd successes here and there.
 
-04:03 moment the publicity from a Shark Tank
+241.36 But so many more investments crumble the
 
-04:05 appearance fades away. However, even
+243.439 moment the publicity from a Shark Tank
 
-04:07 more frustrating than the failed deals
+245.28 appearance fades away. However, even
 
-04:09 are the ones that all the sharks
+247.76 more frustrating than the failed deals
 
-04:11 rejected, only for those companies to
+249.68 are the ones that all the sharks
 
-04:13 explode in popularity and prove them all
+251.04 rejected, only for those companies to
 
-04:15 wrong. Like the Lip Bar, a company
+253.28 explode in popularity and prove them all
 
-04:17 selling colorful and bright lipsticks.
+255.519 wrong. Like the Lip Bar, a company
 
-04:19 During their pitch, another shark showed
+257.68 selling colorful and bright lipsticks.
 
-04:21 any interest in the company, assuming
+259.68 During their pitch, another shark showed
 
-04:23 that it would not succeed. Kevin Olirri
+261.6 any interest in the company, assuming
 
-04:25 even went as far as calling one of the
+263.52 that it would not succeed. Kevin Olirri
 
-04:27 founders cockroaches for what he thought
+265.919 even went as far as calling one of the
 
-04:29 was a terrible idea. You can't get
+267.52 founders cockroaches for what he thought
 
-04:31 share. If if anybody thought you could
+269.6 was a terrible idea. You can't get
 
-04:34 sell purple or green lipstick, they do
+271.96 share. If if anybody thought you could
 
-04:37 it. They already have the shelf space.
+274.639 sell purple or green lipstick, they do
 
-04:38 They just add another color and they
+277.6 it. They already have the shelf space.
 
-04:41 would crush you like the colorful
+278.96 They just add another color and they
 
-04:43 cockroaches you are. You only have so
+281.199 would crush you like the colorful
 
-04:45 many minutes on Earth. Don't waste them
+283.199 cockroaches you are. You only have so
 
-04:47 trying to sell lipstick. I'm out. While
+285.84 many minutes on Earth. Don't waste them
 
-04:50 Kevin couldn't have been more wrong, not
+287.6 trying to sell lipstick. I'm out. While
 
-04:52 only is the lip bar still in operation
+290.24 Kevin couldn't have been more wrong, not
 
-04:54 with millions of units sold since their
+292.479 only is the lip bar still in operation
 
-04:56 inception, other investors saw the
+294.479 with millions of units sold since their
 
-04:58 potential that the Sharks overlooked,
+296.4 inception, other investors saw the
 
-05:00 allowing the company to raise a grand
+298.56 potential that the Sharks overlooked,
 
-05:02 total of nearly $16 million in funding.
+300.4 allowing the company to raise a grand
 
-05:05 However, the lip bar and every other
+302.24 total of nearly $16 million in funding.
 
-05:07 missed opportunity pales in comparison
+305.44 However, the lip bar and every other
 
-05:09 to arguably the biggest fumble in Shark
+307.6 missed opportunity pales in comparison
 
-05:11 Tank history. Ring. Back in 2013, a
+309.68 to arguably the biggest fumble in Shark
 
-05:16 company named Doorbot received its
+311.919 Tank history. Ring. Back in 2013, a
 
-05:18 chance to shine on Shark Tank. The
+316.08 company named Doorbot received its
 
-05:19 founder spent the last $20,000 in his
+318.0 chance to shine on Shark Tank. The
 
-05:22 pocket to prepare an elaborate set for
+319.84 founder spent the last $20,000 in his
 
-05:24 his pitch on the show. More importantly,
+322.24 pocket to prepare an elaborate set for
 
-05:26 the product he was offering also seems
+324.0 his pitch on the show. More importantly,
 
-05:28 like quite the innovation. It was one of
+326.24 the product he was offering also seems
 
-05:30 the first smart doorbells in the world,
+328.24 like quite the innovation. It was one of
 
-05:32 allowing people to easily see who was at
+330.4 the first smart doorbells in the world,
 
-05:34 the door before opening it. Introducing
+332.56 allowing people to easily see who was at
 
-05:36 the Doorbot, the first ever video
+334.479 the door before opening it. Introducing
 
-05:38 doorbell built for the smartphone. With
+336.72 the Doorbot, the first ever video
 
-05:41 Doorbot, you can see and speak with
+338.96 doorbell built for the smartphone. With
 
-05:43 visitors from anywhere. Jaime, the
+341.199 Doorbot, you can see and speak with
 
-05:45 Doorbot's creator, was quite confident
+343.36 visitors from anywhere. Jaime, the
 
-05:47 in his product and came in with the
+345.44 Doorbot's creator, was quite confident
 
-05:49 mindset of getting a deal. However, this
+347.44 in his product and came in with the
 
-05:51 confidence faded away quickly when the
+349.28 mindset of getting a deal. However, this
 
-05:53 Sharks failed to see the potential in
+351.759 confidence faded away quickly when the
 
-05:55 his company and started dropping out
+353.84 Sharks failed to see the potential in
 
-05:57 like flies. I just don't think it's for
+355.52 his company and started dropping out
 
-05:59 me. I'm out. But you're pricing out
+357.28 like flies. I just don't think it's for
 
-06:01 $199. That that price point is going to
+359.44 me. I'm out. But you're pricing out
 
-06:04 start dropping quickly as your volumes
+361.8 $199. That that price point is going to
 
-06:06 go up. For that reason, I'm out.
+364.639 start dropping quickly as your volumes
 
-06:10 That this company instead of being worth
+366.24 go up. For that reason, I'm out.
 
-06:11 7 million should be worth 80 million, 90
+370.16 That this company instead of being worth
 
-06:14 million. I just don't see the
+371.759 7 million should be worth 80 million, 90
 
-06:16 progression. And for that reason, I'm
+374.8 million. I just don't see the
 
-06:18 out.
+376.4 progression. And for that reason, I'm
 
-06:20 If Jaime had listened to the Sharks, he
+378.08 out.
 
-06:22 would have believed his product was
+380.16 If Jaime had listened to the Sharks, he
 
-06:23 worthless and abandoned the idea
+382.319 would have believed his product was
 
-06:25 altogether. But he trusted his vision
+383.759 worthless and abandoned the idea
 
-06:27 and kept pushing forward, rebranding the
+385.52 altogether. But he trusted his vision
 
-06:29 company to Ring along the way. Then in
+387.68 and kept pushing forward, rebranding the
 
-06:32 2018, something happened that none of
+389.919 company to Ring along the way. Then in
 
-06:35 the sharks saw coming. Ring was acquired
+392.84 2018, something happened that none of
 
-06:37 by Amazon for a whopping $1 billion.
+395.199 the sharks saw coming. Ring was acquired
 
-06:40 Ring also went on to become the reason
+397.52 by Amazon for a whopping $1 billion.
 
-06:42 for over 20% of American homes having a
+400.639 Ring also went on to become the reason
 
-06:45 video doorbell in 2023 compared to just
+402.639 for over 20% of American homes having a
 
-06:48 4% in 2017. Put simply, Ring became a
+405.199 video doorbell in 2023 compared to just
 
-06:52 bigger success than any of the Sharks
+408.4 4% in 2017. Put simply, Ring became a
 
-06:54 ever gave it credit for. As a comment on
+412.4 bigger success than any of the Sharks
 
-06:56 YouTube pointed out, craziest part of
+414.319 ever gave it credit for. As a comment on
 
-06:58 all of this is a few seasons later he
+416.479 YouTube pointed out, craziest part of
 
-07:00 was a guest on Shark for a few episodes.
+418.56 all of this is a few seasons later he
 
-07:03 Don't let a few people who don't
+420.8 was a guest on Shark for a few episodes.
 
-07:04 understand your vision decide your fate.
+423.039 Don't let a few people who don't
 
-07:06 In the end, Jaime likely had no regrets
+424.4 understand your vision decide your fate.
 
-07:09 about how things played out. But what if
+426.8 In the end, Jaime likely had no regrets
 
-07:11 he actually landed a deal? Well, there's
+429.199 about how things played out. But what if
 
-07:13 a good chance that nothing would have
+431.599 he actually landed a deal? Well, there's
 
-07:15 changed because, as it turns out, many
+433.919 a good chance that nothing would have
 
-07:17 of the deals you see on the show don't
+435.44 changed because, as it turns out, many
 
-07:19 actually happen. This might sound
+437.84 of the deals you see on the show don't
 
-07:21 unbelievable, but it's true. There are
+439.68 actually happen. This might sound
 
-07:23 so many examples of deals that happen on
+441.44 unbelievable, but it's true. There are
 
-07:25 air only to fall apart after the cameras
+443.599 so many examples of deals that happen on
 
-07:27 have stopped rolling. One of the most
+445.68 air only to fall apart after the cameras
 
-07:29 common reasons behind these failed deals
+447.84 have stopped rolling. One of the most
 
-07:32 is sadly the sharks greed. Take show no
+449.68 common reasons behind these failed deals
 
-07:35 for example. Shelley appeared on Shark
+452.16 is sadly the sharks greed. Take show no
 
-07:37 Tank in March of 2013 with her two
+455.599 for example. Shelley appeared on Shark
 
-07:40 children to pitch her idea for a new
+457.599 Tank in March of 2013 with her two
 
-07:42 type of beach or water park towel. Her
+460.56 children to pitch her idea for a new
 
-07:44 invention allowed kids to run around and
+462.4 type of beach or water park towel. Her
 
-07:46 have fun without the risk of dropping
+464.56 invention allowed kids to run around and
 
-07:48 the towel. After hearing about her
+466.8 have fun without the risk of dropping
 
-07:50 struggle after the 2008 recession and
+468.56 the towel. After hearing about her
 
-07:53 the passion she put into this project,
+470.56 struggle after the 2008 recession and
 
-07:55 Lori agreed to a deal. I think I see a
+473.36 the passion she put into this project,
 
-07:58 ton of me in you. I love your drive. I
+475.36 Lori agreed to a deal. I think I see a
 
-08:02 love your passion. I I relate to you.
+478.16 ton of me in you. I love your drive. I
 
-08:06 I've been on QVC for 14 years and I know
+482.72 love your passion. I I relate to you.
 
-08:09 what it takes to I started making
+486.16 I've been on QVC for 14 years and I know
 
-08:11 everything by hand. I like you so much
+489.52 what it takes to I started making
 
-08:15 that actually what I'm going to do is
+491.84 everything by hand. I like you so much
 
-08:18 I'm going to write you a check right
+495.84 that actually what I'm going to do is
 
-08:20 now. Oh my god. She cut Shel a check of
+498.72 I'm going to write you a check right
 
-08:23 $75,000 for 25% equity, 25,000 more than
+500.16 now. Oh my god. She cut Shel a check of
 
-08:28 she had originally asked for. This is a
+503.72 $75,000 for 25% equity, 25,000 more than
 
-08:30 dream scenario for any Shark Tank
+508.08 she had originally asked for. This is a
 
-08:32 contestant, the best outcome they could
+510.24 dream scenario for any Shark Tank
 
-08:34 hope for. But for Shelley, what seemed
+512.399 contestant, the best outcome they could
 
-08:36 like an act of kindness from Lori
+514.64 hope for. But for Shelley, what seemed
 
-08:39 ultimately cost her the entire business.
+516.88 like an act of kindness from Lori
 
-08:41 Because after the camera stopped
+519.039 ultimately cost her the entire business.
 
-08:43 rolling, Lori went back on her words
+521.599 Because after the camera stopped
 
-08:45 almost immediately. She changed the deal
+523.12 rolling, Lori went back on her words
 
-08:47 and started asking for a lot more equity
+525.12 almost immediately. She changed the deal
 
-08:49 in the business. Shelley had to decline
+527.519 and started asking for a lot more equity
 
-08:51 the new offer, resulting in a loss her
+529.519 in the business. Shelley had to decline
 
-08:53 business never recovered from. This
+531.76 the new offer, resulting in a loss her
 
-08:55 isn't an isolated example, either. There
+533.92 business never recovered from. This
 
-08:58 are many other companies that never
+535.76 isn't an isolated example, either. There
 
-08:59 received the cash they were promised on
+538.0 are many other companies that never
 
-09:01 the show for similar reasons. That said,
+539.44 received the cash they were promised on
 
-09:03 going back on deals is far from the
+541.12 the show for similar reasons. That said,
 
-09:05 worst thing the Sharks have done to some
+543.76 going back on deals is far from the
 
-09:07 contestants. It's been a nightmare. I
+545.839 worst thing the Sharks have done to some
 
-09:10 don't I I can't put it any more
+547.76 contestants. It's been a nightmare. I
 
-09:13 succinctly. You know, in December of
+550.64 don't I I can't put it any more
 
-09:15 2013, former American football player El
+553.519 succinctly. You know, in December of
 
-09:18 Baker went on Shark Tank to secure an
+555.88 2013, former American football player El
 
-09:21 investment for his struggling business.
+558.959 Baker went on Shark Tank to secure an
 
-09:23 Hi, I'm Al Bubba Baker from Avon, Ohio,
+561.279 investment for his struggling business.
 
-09:27 owner of the Debone Baby Back Ribakess.
+563.12 Hi, I'm Al Bubba Baker from Avon, Ohio,
 
-09:30 I'm seeking
+567.44 owner of the Debone Baby Back Ribakess.
 
-09:32 $300,000 in exchange for 15% equity in
+570.64 I'm seeking
 
-09:36 my company. Things went surprisingly
+572.12 $300,000 in exchange for 15% equity in
 
-09:37 well for El. The Sharks loved his ribs,
+576.0 my company. Things went surprisingly
 
-09:40 and he ended up walking away with a deal
+577.839 well for El. The Sharks loved his ribs,
 
-09:42 with Damon John. But before he had the
+580.32 and he ended up walking away with a deal
 
-09:44 chance to celebrate this victory with
+582.16 with Damon John. But before he had the
 
-09:46 his family, things took a turn for the
+584.48 chance to celebrate this victory with
 
-09:48 worst. At first, things looked fine on
+586.08 his family, things took a turn for the
 
-09:50 the surface. The business stayed
+588.24 worst. At first, things looked fine on
 
-09:52 operational for many years with Damon
+590.64 the surface. The business stayed
 
-09:54 parading it as a multi-million dollar
+592.24 operational for many years with Damon
 
-09:56 success. However, in 2023, an LA Times
+594.64 parading it as a multi-million dollar
 
-10:00 article came out in which L and his
+596.64 success. However, in 2023, an LA Times
 
-10:02 family talked about the struggles they
+600.72 article came out in which L and his
 
-10:04 had to face ever since signing with
+602.64 family talked about the struggles they
 
-10:05 Damon on Shark Tank. It started with
+604.16 had to face ever since signing with
 
-10:08 Damon changing the terms of the deal
+605.68 Damon on Shark Tank. It started with
 
-10:10 from $300,000 for 30% to just $100,000
+608.0 Damon changing the terms of the deal
 
-10:14 for 35%. L, however, felt pressure to
+610.16 from $300,000 for 30% to just $100,000
 
-10:17 accept the new terms, knowing his
+614.48 for 35%. L, however, felt pressure to
 
-10:19 business's success depended on this
+617.76 accept the new terms, knowing his
 
-10:21 deal, stating, "You're in that
+619.6 business's success depended on this
 
-10:23 environment. You're not asking a whole
+621.44 deal, stating, "You're in that
 
-10:25 lot of questions. It's Damon John. My
+623.2 environment. You're not asking a whole
 
-10:27 wife and daughter would have killed me
+625.04 lot of questions. It's Damon John. My
 
-10:29 if I said I wasn't signing this."
+627.6 wife and daughter would have killed me
 
-10:31 Unfortunately, this was only the
+629.2 if I said I wasn't signing this."
 
-10:32 beginning of El's hardships. Shortly
+631.12 Unfortunately, this was only the
 
-10:35 after he agreed to the far worst deal,
+632.88 beginning of El's hardships. Shortly
 
-10:37 Damon appointed his friend Nate
+635.04 after he agreed to the far worst deal,
 
-10:39 Toltzfell to handle the tech side of
+637.279 Damon appointed his friend Nate
 
-10:41 things, describing him as a quote
+639.04 Toltzfell to handle the tech side of
 
-10:43 internet genius and putting him in
+641.279 things, describing him as a quote
 
-10:45 charge of the website, online marketing,
+643.44 internet genius and putting him in
 
-10:47 and funds management. This backfired
+645.6 charge of the website, online marketing,
 
-10:50 almost immediately when the company's
+647.68 and funds management. This backfired
 
-10:52 website went live only 3 hours before
+650.079 almost immediately when the company's
 
-10:54 the Shark Tank episode aired on TV. And
+652.24 website went live only 3 hours before
 
-10:56 while it worked, they had to refund 14%
+654.32 the Shark Tank episode aired on TV. And
 
-10:59 of the initial orders because Nate
+656.88 while it worked, they had to refund 14%
 
-11:01 failed to set up sales tax on the
+659.519 of the initial orders because Nate
 
-11:03 website. However, this was nothing
+661.6 failed to set up sales tax on the
 
-11:05 compared to his second transgression.
+663.36 website. However, this was nothing
 
-11:07 You see, Damon left Nate in charge of
+665.44 compared to his second transgression.
 
-11:09 the accounting. But when L and his wife
+667.6 You see, Damon left Nate in charge of
 
-11:12 asked for financial reports of their
+669.68 the accounting. But when L and his wife
 
-11:13 business, he didn't comply one bit. When
+672.0 asked for financial reports of their
 
-11:16 they complained to Damon about this, he
+673.68 business, he didn't comply one bit. When
 
-11:18 shrugged them off completely, stating,
+676.16 they complained to Damon about this, he
 
-11:20 "I'm not asking you to kiss him. You
+678.16 shrugged them off completely, stating,
 
-11:22 know, this is business." They eventually
+680.24 "I'm not asking you to kiss him. You
 
-11:24 managed to push Nate out of the company.
+682.399 know, this is business." They eventually
 
-11:26 Only to end up getting screwed over even
+684.399 managed to push Nate out of the company.
 
-11:28 worse. But once we were able to finally
+686.399 Only to end up getting screwed over even
 
-11:31 have Nate removed from our business, he
+688.64 worse. But once we were able to finally
 
-11:34 wiped out our business bank account.
+691.279 have Nate removed from our business, he
 
-11:36 There was about $100,000 in there at the
+694.399 wiped out our business bank account.
 
-11:38 time and he mailed us a check for
+696.24 There was about $100,000 in there at the
 
-11:41 $8,000 and we requested information on
+698.959 time and he mailed us a check for
 
-11:45 that, a breakdown of where the funds
+701.8 $8,000 and we requested information on
 
-11:47 went and we never received it. As for
+705.279 that, a breakdown of where the funds
 
-11:50 Damon, he refused to take any
+707.64 went and we never received it. As for
 
-11:52 responsibility for what was basically
+710.56 Damon, he refused to take any
 
-11:54 robbery, claiming that Nate quote
+712.32 responsibility for what was basically
 
-11:56 deserved it. In the meantime, Damon also
+714.32 robbery, claiming that Nate quote
 
-11:59 kept presenting Elbubba Baker as his
+716.399 deserved it. In the meantime, Damon also
 
-12:01 biggest deal ever with over $16 million
+719.04 kept presenting Elbubba Baker as his
 
-12:04 in sales. However, L claims that his
+721.44 biggest deal ever with over $16 million
 
-12:06 family only received 4% of that 16
+724.16 in sales. However, L claims that his
 
-12:09 million. They also received just $2,900
+726.959 family only received 4% of that 16
 
-12:12 net profit from a $5.8 million deal with
+729.6 million. They also received just $2,900
 
-12:16 Hardies. They were clearly getting
+732.959 net profit from a $5.8 million deal with
 
-12:17 ripped off by Damon. The Baker family
+736.0 Hardies. They were clearly getting
 
-12:20 still tried to figure things out
+737.92 ripped off by Damon. The Baker family
 
-12:21 peacefully, only to get slapped in the
+740.399 still tried to figure things out
 
-12:23 face with a lawsuit. We're thinking to
+741.839 peacefully, only to get slapped in the
 
-12:25 ourselves, hey
+743.839 face with a lawsuit. We're thinking to
 
-12:27 Damon, aren't you concerned with where
+745.92 ourselves, hey
 
-12:29 the profits went from the $5.8 million
+747.079 Damon, aren't you concerned with where
 
-12:31 deal? So, we're thinking he's going to
+749.44 the profits went from the $5.8 million
 
-12:33 align with us to try to figure out where
+751.6 deal? So, we're thinking he's going to
 
-12:35 where the money went, like just a
+753.36 align with us to try to figure out where
 
-12:37 breakdown of where this money went from
+755.76 where the money went, like just a
 
-12:40 $5.8
+757.92 breakdown of where this money went from
 
-12:41 million. Instead, Damon John together
+760.399 $5.8
 
-12:44 with the co-acker, Restelli Foods, to
+761.56 million. Instead, Damon John together
 
-12:47 file a lawsuit against us because they
+764.8 with the co-acker, Restelli Foods, to
 
-12:50 wanted to move forward with a Subway
+767.44 file a lawsuit against us because they
 
-12:52 deal. They eventually came to a
+770.32 wanted to move forward with a Subway
 
-12:54 settlement with Damon which forced them
+772.72 deal. They eventually came to a
 
-12:56 to sign a confidentiality agreement. Put
+774.32 settlement with Damon which forced them
 
-12:58 simply, they can't tell anyone about
+776.48 to sign a confidentiality agreement. Put
 
-13:00 what Damon did to their business.
+778.959 simply, they can't tell anyone about
 
-13:03 However, the legal fees from this
+780.959 what Damon did to their business.
 
-13:04 lawsuit made the Baker family lose their
+783.04 However, the legal fees from this
 
-13:07 home, restaurant, and even their food
+784.88 lawsuit made the Baker family lose their
 
-13:09 truck. Left with no other option, the
+787.12 home, restaurant, and even their food
 
-13:11 Bakers decided to break this
+789.44 truck. Left with no other option, the
 
-13:13 confidentiality agreement and come out
+791.68 Bakers decided to break this
 
-13:15 with everything. Their story quickly
+793.12 confidentiality agreement and come out
 
-13:17 gained steam as fans of the show were
+795.279 with everything. Their story quickly
 
-13:19 horrified by Damon's treatment of a
+797.12 gained steam as fans of the show were
 
-13:21 lovely entrepreneurial family with one
+799.04 horrified by Damon's treatment of a
 
-13:23 person writing, "I got teary eyed
+801.04 lovely entrepreneurial family with one
 
-13:25 listening to Elbaba Baker's story.
+803.2 person writing, "I got teary eyed
 
-13:27 Watching a millionaire let them lose
+805.279 listening to Elbaba Baker's story.
 
-13:28 everything just to pocket an extra
+807.279 Watching a millionaire let them lose
 
-13:30 million or two is disgusting. There is
+808.959 everything just to pocket an extra
 
-13:33 absolutely no justification for them
+810.639 million or two is disgusting. There is
 
-13:35 being shut out of their own business
+813.04 absolutely no justification for them
 
-13:36 like that. I pray God restores them."
+815.12 being shut out of their own business
 
-13:38 Damon denied any wrongdoing to address
+816.56 like that. I pray God restores them."
 
-13:41 this LA Times article that Al Bubba
+818.88 Damon denied any wrongdoing to address
 
-13:43 Baker and Britney Baker intentionally
+821.2 this LA Times article that Al Bubba
 
-13:45 broke their confidentiality and put out
+823.2 Baker and Britney Baker intentionally
 
-13:47 and shopped to this reporter. And at
+825.36 broke their confidentiality and put out
 
-13:51 best it's not true. And that's me being
+827.839 and shopped to this reporter. And at
 
-13:52 kind. Now, the reason I'm doing this is
+831.04 best it's not true. And that's me being
 
-13:54 because I want you to always stand up
+832.72 kind. Now, the reason I'm doing this is
 
-13:55 for yourself no matter what position you
+834.079 because I want you to always stand up
 
-13:57 get in life, just like I am. Don't sit
+835.839 for yourself no matter what position you
 
-14:00 back and think, "Oh, the truth is going
+837.839 get in life, just like I am. Don't sit
 
-14:01 to set us free because I have the truth,
+840.399 back and think, "Oh, the truth is going
 
-14:03 but I'm under confidentiality and I
+841.68 to set us free because I have the truth,
 
-14:05 can't put the truth out there in
+843.279 but I'm under confidentiality and I
 
-14:07 detail." But public opinion also could
+845.279 can't put the truth out there in
 
-14:10 potentially affect your family, your
+847.04 detail." But public opinion also could
 
-14:11 loved ones, the people that have worked
+850.079 potentially affect your family, your
 
-14:13 on this project and invested in it when
+851.76 loved ones, the people that have worked
 
-14:15 your family's out there. And because of
+853.04 on this project and invested in it when
 
-14:16 public opinion, these people now after
+855.199 your family's out there. And because of
 
-14:18 the LA Times article is out, they're
+856.639 public opinion, these people now after
 
-14:20 online, damn, they're harassing me at
+858.48 the LA Times article is out, they're
 
-14:23 this point and putting up a lot of
+860.44 online, damn, they're harassing me at
 
-14:24 falsities. And I will not stand for
+863.12 this point and putting up a lot of
 
-14:26 that. I'm always going to stand up for
+864.48 falsities. And I will not stand for
 
-14:27 myself. He even filed a restraining
+866.079 that. I'm always going to stand up for
 
-14:29 order against the family, forcing them
+867.279 myself. He even filed a restraining
 
-14:31 to take down all past negative comments
+869.12 order against the family, forcing them
 
-14:33 and preventing them from posting
+871.12 to take down all past negative comments
 
-14:34 anymore. something fans of the show did
+873.199 and preventing them from posting
 
-14:36 not like either with one commenter
+874.72 anymore. something fans of the show did
 
-14:38 writing, "Damon is a child who can't
+876.88 not like either with one commenter
 
-14:40 admit he screwed over poor Al.
+878.8 writing, "Damon is a child who can't
 
-14:42 Fortunately, they did receive some
+880.72 admit he screwed over poor Al.
 
-14:44 settlement money for their troubles. But
+882.56 Fortunately, they did receive some
 
-14:46 after everything Damon put them through,
+884.399 settlement money for their troubles. But
 
-14:48 no amount of money could truly make up
+886.32 after everything Damon put them through,
 
-14:50 for the stress, losses, and betrayal
+888.32 no amount of money could truly make up
 
-14:52 they endured. That said, while this case
+890.079 for the stress, losses, and betrayal
 
-14:54 went down as the worst scam by a shark,
+892.16 they endured. That said, while this case
 
-14:56 they themselves aren't immune to getting
+894.56 went down as the worst scam by a shark,
 
-14:58 scammed either, as was the case with the
+896.88 they themselves aren't immune to getting
 
-15:00 Bretometer. In September of 2013, the
+898.72 scammed either, as was the case with the
 
-15:04 Sharks came face tof face with Charles
+900.959 Bretometer. In September of 2013, the
 
-15:06 Yim and his revolutionary smartphone
+904.32 Sharks came face tof face with Charles
 
-15:08 breathalyzer called the Breth meter. Let
+906.24 Yim and his revolutionary smartphone
 
-15:10 me show you how it works. Simply retract
+908.399 breathalyzer called the Breth meter. Let
 
-15:13 the audio jack, plug it into the
+910.959 me show you how it works. Simply retract
 
-15:16 smartphone, activate the
+913.44 the audio jack, plug it into the
 
-15:21 app. Within a matter of seconds, you'll
+916.92 smartphone, activate the
 
-15:24 be able to know what your breath alcohol
+921.639 app. Within a matter of seconds, you'll
 
-15:25 level is. And better yet, it can even
+924.32 be able to know what your breath alcohol
 
-15:27 tell you how long it'll take to sober
+925.68 level is. And better yet, it can even
 
-15:28 up. And if need be, you can even inhale
+927.6 tell you how long it'll take to sober
 
-15:31 a cab with a push of a button. For
+928.959 up. And if need be, you can even inhale
 
-15:32 context, a breathalyzer is a device that
+931.04 a cab with a push of a button. For
 
-15:34 measures the amount of alcohol in a
+932.8 context, a breathalyzer is a device that
 
-15:36 person's system, commonly referred to as
+934.959 measures the amount of alcohol in a
 
-15:38 blood alcohol concentration, or BAC. The
+936.72 person's system, commonly referred to as
 
-15:42 problem with traditional highquality
+938.8 blood alcohol concentration, or BAC. The
 
-15:43 breathalyzers at the time, however, was
+942.0 problem with traditional highquality
 
-15:45 that they were not only expensive, but
+943.6 breathalyzers at the time, however, was
 
-15:47 also bulky and inconvenient to carry
+945.76 that they were not only expensive, but
 
-15:50 around. Charles's breth solved both of
+947.839 also bulky and inconvenient to carry
 
-15:53 these issues. The sharks were so
+950.16 around. Charles's breth solved both of
 
-15:55 impressed by his little invention that
+953.12 these issues. The sharks were so
 
-15:57 in an unprecedented move, all five
+955.12 impressed by his little invention that
 
-15:59 sharks invested in the company at the
+957.279 in an unprecedented move, all five
 
-16:01 same time. Accept. All right,
+959.6 sharks invested in the company at the
 
-16:07 wow, that's great. What they didn't know
+961.6 same time. Accept. All right,
 
-16:09 was that this would go down as one of
+967.12 wow, that's great. What they didn't know
 
-16:11 the biggest mistakes in the show's
+969.759 was that this would go down as one of
 
-16:13 history. As a comment on YouTube puts
+971.44 the biggest mistakes in the show's
 
-16:15 it, "Little did anyone know Charles was
+973.04 history. As a comment on YouTube puts
 
-16:17 the real shark in that room." Long story
+975.199 it, "Little did anyone know Charles was
 
-16:19 short, Charles was lying through his
+977.519 the real shark in that room." Long story
 
-16:21 teeth. His birthter did not work as
+979.759 short, Charles was lying through his
 
-16:23 advertised. Inaccurate readings, a buggy
+981.6 teeth. His birthter did not work as
 
-16:26 app, and a device that barely worked.
+983.92 advertised. Inaccurate readings, a buggy
 
-16:28 These issues were all over the barrage
+986.399 app, and a device that barely worked.
 
-16:30 of negative customer reviews. As one
+988.56 These issues were all over the barrage
 
-16:32 user on Best Buy puts it, "This product
+990.32 of negative customer reviews. As one
 
-16:34 sounds cool, but doesn't work at all. No
+992.56 user on Best Buy puts it, "This product
 
-16:36 matter what device I tried to put it on,
+994.959 sounds cool, but doesn't work at all. No
 
-16:38 it just didn't work. The app is not
+996.88 matter what device I tried to put it on,
 
-16:40 compatible with any device I had, and I
+998.959 it just didn't work. The app is not
 
-16:43 read similar reviews on other websites
+1000.88 compatible with any device I had, and I
 
-16:44 about how it didn't work after an
+1003.12 read similar reviews on other websites
 
-16:46 update." Charles, however, had no
+1004.88 about how it didn't work after an
 
-16:48 intention on fixing it anytime soon.
+1006.48 update." Charles, however, had no
 
-16:50 Instead of working on improving the app
+1008.56 intention on fixing it anytime soon.
 
-16:52 and the hardware, he was instead living
+1010.72 Instead of working on improving the app
 
-16:54 it big with the money he received from
+1012.48 and the hardware, he was instead living
 
-16:56 the sharks. The guy Charles um I'd look
+1014.8 it big with the money he received from
 
-17:00 at his Instagram and he'd be in Bora
+1016.48 the sharks. The guy Charles um I'd look
 
-17:02 Bora. And I look at his Instagram. Yes.
+1020.16 at his Instagram and he'd be in Bora
 
-17:05 Two weeks later and he'd be in Vegas
+1022.32 Bora. And I look at his Instagram. Yes.
 
-17:07 partying, you know? Then he'd be on
+1025.839 Two weeks later and he'd be in Vegas
 
-17:08 Nectar Island with Richard Branson. And
+1027.36 partying, you know? Then he'd be on
 
-17:10 I' I'd text him like, "What the [ __ ] are
+1028.799 Nectar Island with Richard Branson. And
 
-17:12 you doing? You're supposed to be
+1030.799 I' I'd text him like, "What the [ __ ] are
 
-17:13 working. Oh no, I'm networking." Next
+1032.559 you doing? You're supposed to be
 
-17:15 thing you know, all the money's gone.
+1033.6 working. Oh no, I'm networking." Next
 
-17:17 All of the sharks lost the money they
+1035.76 thing you know, all the money's gone.
 
-17:18 invested in his company. That being
+1037.039 All of the sharks lost the money they
 
-17:20 said, multi-millionaires and
+1038.72 invested in his company. That being
 
-17:22 billionaires losing a few hundred,000
+1040.72 said, multi-millionaires and
 
-17:24 each wasn't the real problem with the
+1042.559 billionaires losing a few hundred,000
 
-17:26 brethometer. The real issue was that its
+1044.559 each wasn't the real problem with the
 
-17:28 failures put innocent lives in danger.
+1046.319 brethometer. The real issue was that its
 
-17:30 You see, brethometer understated uses
+1048.72 failures put innocent lives in danger.
 
-17:33 BAC levels, which is misleading at best
+1050.96 You see, brethometer understated uses
 
-17:36 and disastrously dangerous at worst.
+1053.2 BAC levels, which is misleading at best
 
-17:38 According to the FDC, the company
+1056.24 and disastrously dangerous at worst.
 
-17:40 claimed their devices can measure BAC
+1058.559 According to the FDC, the company
 
-17:42 levels from .002% to
+1060.559 claimed their devices can measure BAC
 
-17:45 0.25%. Yet, they never tested them for
+1062.559 levels from .002% to
 
-17:47 beyond. 02%. Imagine what would happen
+1065.24 0.25%. Yet, they never tested them for
 
-17:50 if somebody became intoxicated and their
+1067.679 beyond. 02%. Imagine what would happen
 
-17:52 breathometer suggested they could drive.
+1070.32 if somebody became intoxicated and their
 
-17:54 It likely would not end well at all. So,
+1072.48 breathometer suggested they could drive.
 
-17:57 by airing the breathometer episode
+1074.64 It likely would not end well at all. So,
 
-17:59 without verifying its legitimacy, the
+1077.12 by airing the breathometer episode
 
-18:01 Shark Tank producers were partly
+1079.039 without verifying its legitimacy, the
 
-18:02 responsible for whatever accident might
+1081.2 Shark Tank producers were partly
 
-18:04 have happened. Not to mention the sharks
+1082.88 responsible for whatever accident might
 
-18:06 who kept promoting it afterwards in
+1084.64 have happened. Not to mention the sharks
 
-18:08 hopes of making their money back. In the
+1086.559 who kept promoting it afterwards in
 
-18:10 end, the Brethrometer company had to
+1088.4 hopes of making their money back. In the
 
-18:12 refund every customer, making it one of
+1090.4 end, the Brethrometer company had to
 
-18:14 the biggest failures in 16 seasons of
+1092.16 refund every customer, making it one of
 
-18:16 Shark Tank. Which brings us to the
+1094.48 the biggest failures in 16 seasons of
 
-18:18 present day. And the big question is,
+1096.72 Shark Tank. Which brings us to the
 
-18:20 are the sharks and the show's producers
+1098.559 present day. And the big question is,
 
-18:22 doing anything to make things right?
+1100.799 are the sharks and the show's producers
 
-18:25 Well, not really. Some of the sharks
+1102.559 doing anything to make things right?
 
-18:27 have found a new way to make money,
+1105.039 Well, not really. Some of the sharks
 
-18:29 selling out to literal scams. Damon
+1107.36 have found a new way to make money,
 
-18:31 John, for instance, happily promoted
+1109.2 selling out to literal scams. Damon
 
-18:33 Jason Bond Pics, an online course
+1111.679 John, for instance, happily promoted
 
-18:35 selling scammer. Damon John uh also
+1113.44 Jason Bond Pics, an online course
 
-18:38 endorsed Jason Bond picks, which if you
+1115.6 selling scammer. Damon John uh also
 
-18:41 guys know stocks, you know what a joke
+1118.72 endorsed Jason Bond picks, which if you
 
-18:43 that guy is. All right, listen. Before I
+1121.44 guys know stocks, you know what a joke
 
-18:45 contacted Jason, I'm a shark, right? You
+1123.6 that guy is. All right, listen. Before I
 
-18:47 know, I have no problem about, you know,
+1125.76 contacted Jason, I'm a shark, right? You
 
-18:49 ripping somebody apart or just saying
+1127.84 know, I have no problem about, you know,
 
-18:50 I'm out. No, you're a sellout for money.
+1129.44 ripping somebody apart or just saying
 
-18:53 At least with Damon, you can make the
+1130.88 I'm out. No, you're a sellout for money.
 
-18:55 argument that he did vet Jason and found
+1133.679 At least with Damon, you can make the
 
-18:57 him completely legit. Even though
+1135.36 argument that he did vet Jason and found
 
-18:59 there's no evidence for that being the
+1137.36 him completely legit. Even though
 
-19:00 case, it's still possible. Kevin Olirri,
+1139.12 there's no evidence for that being the
 
-19:03 on the other hand, is doing something
+1140.72 case, it's still possible. Kevin Olirri,
 
-19:04 even worse. He's recklessly endorsing
+1143.2 on the other hand, is doing something
 
-19:07 any brand that comes his way without
+1144.799 even worse. He's recklessly endorsing
 
-19:09 stopping to consider for a second
+1147.2 any brand that comes his way without
 
-19:10 whether he's promoting a scam. All for
+1149.2 stopping to consider for a second
 
-19:12 the low price of just $1,200.
+1150.72 whether he's promoting a scam. All for
 
-19:15 I can't even tell you how many people
+1152.799 the low price of just $1,200.
 
-19:16 lately I've seen do this where they get
+1155.52 I can't even tell you how many people
 
-19:18 Kevin specifically. He's like the king
+1156.96 lately I've seen do this where they get
 
-19:21 of this of these fake shoutouts. Hi, Mr.
+1158.88 Kevin specifically. He's like the king
 
-19:24 Wonderful from Shark Tank here has sold
+1161.12 of this of these fake shoutouts. Hi, Mr.
 
-19:26 nearly a thousand different products on
+1164.0 Wonderful from Shark Tank here has sold
 
-19:27 Amazon alone. Check out Sophie's book.
+1166.0 nearly a thousand different products on
 
-19:31 Thank you for the kind words, Kevin. So,
+1167.84 Amazon alone. Check out Sophie's book.
 
-19:34 there it is. is you can pretend like the
+1171.52 Thank you for the kind words, Kevin. So,
 
-19:35 endorsement was all natural. What? I
+1174.08 there it is. is you can pretend like the
 
-19:38 paid for it? What do you mean? This is
+1175.919 endorsement was all natural. What? I
 
-19:40 just what Kevin Olri, me and Kevin Olri,
+1178.799 paid for it? What do you mean? This is
 
-19:42 we're just tied like this. We're just
+1180.08 just what Kevin Olri, me and Kevin Olri,
 
-19:43 tight like this. Cuz he never says it's
+1182.32 we're just tied like this. We're just
 
-19:46 a sponsorship. He just says it's a shout
+1183.679 tight like this. Cuz he never says it's
 
-19:48 out. So you can do what this lady's
+1186.24 a sponsorship. He just says it's a shout
 
-19:49 doing and put it in your YouTube ad. Oh
+1188.24 out. So you can do what this lady's
 
-19:52 yes, dude. He has sold out the soul of
+1189.84 doing and put it in your YouTube ad. Oh
 
-19:55 this show and just been like, "Hey, you
+1192.64 yes, dude. He has sold out the soul of
 
-19:58 know, it stood for real people making
+1195.76 this show and just been like, "Hey, you
 
-20:01 real companies. Forget all that. I'll
+1198.799 know, it stood for real people making
 
-20:04 sell you I'll sell you a shout out for
+1201.6 real companies. Forget all that. I'll
 
-20:06 $1,200. You kidding me? Coffeezilla
+1204.0 sell you I'll sell you a shout out for
 
-20:07 looked into this back in September of
+1206.08 $1,200. You kidding me? Coffeezilla
 
-20:09 2020, over four years ago, and Kevin is
+1207.919 looked into this back in September of
 
-20:12 still doing the same thing. The only
+1209.679 2020, over four years ago, and Kevin is
 
-20:14 difference now is that he's upped his
+1212.799 still doing the same thing. The only
 
-20:16 price to
+1214.72 difference now is that he's upped his
 
-20:17 $1,500 instead. As for the show itself,
+1216.24 price to
 
-20:20 it's not doing much better either. The
+1217.08 $1,500 instead. As for the show itself,
 
-20:22 thing is, at its core, Shark Tank has
+1220.0 it's not doing much better either. The
 
-20:24 always thrived on one simple yet
+1222.08 thing is, at its core, Shark Tank has
 
-20:25 powerful idea. Hardworking entrepreneurs
+1224.24 always thrived on one simple yet
 
-20:28 getting what they deserve and going from
+1225.919 powerful idea. Hardworking entrepreneurs
 
-20:30 rags to riches. It's the kind of
+1228.48 getting what they deserve and going from
 
-20:32 feel-good story audiences love. But that
+1230.32 rags to riches. It's the kind of
 
-20:34 magic is starting to fade. Instead of
+1232.32 feel-good story audiences love. But that
 
-20:37 scrappy underdogs with groundbreaking
+1234.88 magic is starting to fade. Instead of
 
-20:39 ideas, more and more new contestants are
+1237.12 scrappy underdogs with groundbreaking
 
-20:41 already well-connected, financially
+1239.039 ideas, more and more new contestants are
 
-20:43 secure, or outright wealthy. One of the
+1241.52 already well-connected, financially
 
-20:45 most blatant examples of this was when
+1243.2 secure, or outright wealthy. One of the
 
-20:47 Arnold Schwarzenegger's millionaire son
+1245.6 most blatant examples of this was when
 
-20:50 and his already successful ex-wife
+1247.679 Arnold Schwarzenegger's millionaire son
 
-20:52 appeared on the show and landed a deal.
+1250.159 and his already successful ex-wife
 
-20:54 Hi Sharks, I'm Maria Shrivever and this
+1252.48 appeared on the show and landed a deal.
 
-20:56 is my incredible son. And hi Sharks. I'm
+1254.64 Hi Sharks, I'm Maria Shrivever and this
 
-20:58 Patrick Schwarzenegger and obviously
+1256.48 is my incredible son. And hi Sharks. I'm
 
-21:00 this is my amazing mother, but she's
+1258.799 Patrick Schwarzenegger and obviously
 
-21:02 also my business partner in our new
+1260.159 this is my amazing mother, but she's
 
-21:03 venture. My Yet despite all of this,
+1262.0 also my business partner in our new
 
-21:06 Shark Tank isn't going anywhere. Even
+1263.76 venture. My Yet despite all of this,
 
-21:08 with its flaws, the show is still widely
+1266.799 Shark Tank isn't going anywhere. Even
 
-21:11 popular as ever. Its base format is just
+1268.96 with its flaws, the show is still widely
 
-21:13 a bit too entertaining to fail. Watching
+1271.039 popular as ever. Its base format is just
 
-21:15 ambitious entrepreneurs pitch their
+1273.44 a bit too entertaining to fail. Watching
 
-21:17 ideas, whether brilliant or ridiculous,
+1275.679 ambitious entrepreneurs pitch their
 
-21:20 will always be captivating. It's also
+1277.44 ideas, whether brilliant or ridiculous,
 
-21:22 why even parody videos based on the show
+1280.0 will always be captivating. It's also
 
-21:24 rack up millions of views. People love
+1282.159 why even parody videos based on the show
 
-21:26 the concept. despite knowing it's
+1284.4 rack up millions of views. People love
 
-21:28 flawed. Unless something truly
+1286.72 the concept. despite knowing it's
 
-21:30 catastrophic happens, Shark Tank will
+1288.48 flawed. Unless something truly
 
-21:32 keep going strong. Even then, if one of
+1290.08 catastrophic happens, Shark Tank will
 
-21:34 the sharks faces a major scandal,
+1292.24 keep going strong. Even then, if one of
 
-21:36 they're easily replaceable. So, as long
+1294.4 the sharks faces a major scandal,
 
-21:38 as there are businesses to pitch and
+1296.4 they're easily replaceable. So, as long
 
-21:40 deals to be made, the show will always
+1298.64 as there are businesses to pitch and
 
-21:42 find its way to stay afloat.
+1300.4 deals to be made, the show will always
+
+1302.32 find its way to stay afloat.
+
 

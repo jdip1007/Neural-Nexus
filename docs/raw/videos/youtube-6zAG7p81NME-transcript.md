@@ -1,1170 +1,1172 @@
 ---
-title: "How Bad Is YouTuber Airrack? (Doxxing/Fake Videos)"
-created: 2026-10-14
-updated: 2026-10-14
+title: YouTube Transcript: Airrack Never Stopped Faking Videos
+created: 2026-10-22
+updated: 2026-10-22
 type: source
-domain: ai
-classification: general.media
-tags: [youtube, transcript, 6zAG7p81NME]
-sources: ["https://www.youtube.com/watch?v=6zAG7p81NME"]
-published: 2026-10-14
-time_sensitive: False
-confidence: medium
-status: active
-reviewed: 2026-10-14
+domain: media
+classification: internet-culture.channel-content
+tags: [youtube, transcript, internet-anarchist, 6zAG7p81NME]
+sources: []
+published: 2026-10-22
+time_sensitive: false
+---
 source_url: https://www.youtube.com/watch?v=6zAG7p81NME
-source_type: video---
+source_type: video
+ingested: 2026-10-22
+language: en
+sha256: 800369416031a70ced9ee58428febbeb4ba3da7dcdb21c9c27e02608ce136999
+channel: Internet Anarchist
+---
 
-
-
-
-# YouTube Transcript: How Bad Is YouTuber Airrack? (Doxxing/Fake Videos)
+# YouTube Transcript: Airrack Never Stopped Faking Videos
 
 ## Video Information
-- **Title**: How Bad Is YouTuber Airrack? (Doxxing/Fake Videos)
+- **Title**: Airrack Never Stopped Faking Videos
 - **Video ID**: 6zAG7p81NME
-- **Published**: Unknown
-- **Views**: Unknown
+- **Channel**: Internet Anarchist
+- **Published**: 2026-10-22
 - **Language**: en
 
 ## Transcript
-00:00 Everybody knows Mr. Beast. Even if you
 
-00:02 traveled to the most remote possible
+0.16 Everybody knows Mr. Beast. Even if you
 
-00:04 tribe in Zimbabwe and showed them a
+2.639 traveled to the most remote possible
 
-00:06 picture of Jimmy, it's a guarantee that
+4.56 tribe in Zimbabwe and showed them a
 
-00:08 they would say Mr. Beast in perfect
+6.799 picture of Jimmy, it's a guarantee that
 
-00:11 English. What many people don't realize,
+8.8 they would say Mr. Beast in perfect
 
-00:13 however, is that Jimmy has a dark clone.
+11.12 English. What many people don't realize,
 
-00:16 And he's been hiding in plain sight this
+13.759 however, is that Jimmy has a dark clone.
 
-00:19 whole time. An anti-Mr Beast, if you
+16.88 And he's been hiding in plain sight this
 
-00:21 will, the warrior to his Mario. someone
+19.119 whole time. An anti-Mr Beast, if you
 
-00:24 that actually fakes his videos, makes
+21.92 will, the warrior to his Mario. someone
 
-00:27 false charitable donations, and even
+24.72 that actually fakes his videos, makes
 
-00:29 docks a pilot.
+27.199 false charitable donations, and even
 
-00:30 >> Does Eric fake videos? This question
+29.599 docks a pilot.
 
-00:34 triggers me because of the lengths that
+30.88 >> Does Eric fake videos? This question
 
-00:36 we go to to make sure that videos are
+34.16 triggers me because of the lengths that
 
-00:39 not faked, unscripted, completely real.
+36.399 we go to to make sure that videos are
 
-00:42 >> Him for faking his entire 30 days around
+39.28 not faked, unscripted, completely real.
 
-00:44 the world challenge, which is so messed
+42.16 >> Him for faking his entire 30 days around
 
-00:47 up, especially after doxing him. So far
+44.96 the world challenge, which is so messed
 
-00:50 so that the plane company they used now
+47.2 up, especially after doxing him. So far
 
-00:52 hates Ara for faking this entire
+50.559 so that the plane company they used now
 
-00:55 section, lying about the plane not
+52.96 hates Ara for faking this entire
 
-00:57 starting and disrespecting and doxing
+55.36 section, lying about the plane not
 
-00:59 the pilot like this. Arach is a YouTuber
+57.36 starting and disrespecting and doxing
 
-01:02 with almost 19 million subscribers and
+59.84 the pilot like this. Arach is a YouTuber
 
-01:05 his channel is continuing to grow
+62.48 with almost 19 million subscribers and
 
-01:07 despite all of these accusations. Now,
+65.519 his channel is continuing to grow
 
-01:10 it seems like he's getting even worse.
+67.439 despite all of these accusations. Now,
 
-01:12 After posting a video glorifying
+70.4 it seems like he's getting even worse.
 
-01:14 gambling alongside course sellers who
+72.96 After posting a video glorifying
 
-01:17 claim they can teach you how to beat the
+74.96 gambling alongside course sellers who
 
-01:19 house, Era has once again become the
+77.28 claim they can teach you how to beat the
 
-01:21 target of online commentary and
+79.119 house, Era has once again become the
 
-01:23 reinforced the idea that he really is
+81.759 target of online commentary and
 
-01:26 the dark Mr. Beast. We were cooking and
+83.84 reinforced the idea that he really is
 
-01:29 the dealer still had no idea that I was
+86.24 the dark Mr. Beast. We were cooking and
 
-01:32 being controlled by a professional card
+89.84 the dealer still had no idea that I was
 
-01:34 counter because this is a movie we've
+92.32 being controlled by a professional card
 
-01:36 all seen before. Eric was a rising star
+94.4 counter because this is a movie we've
 
-01:39 with so much potential that he was
+96.72 all seen before. Eric was a rising star
 
-01:41 labeled the next Mr. Beast, right up
+99.36 with so much potential that he was
 
-01:43 until he was exposed for faking the very
+101.2 labeled the next Mr. Beast, right up
 
-01:46 videos he swore were real, and for
+103.759 until he was exposed for faking the very
 
-01:48 generally being a bit of a nasty person
+106.32 videos he swore were real, and for
 
-01:51 along the way. What followed was the
+108.479 generally being a bit of a nasty person
 
-01:53 classic redemption arc, the apology
+111.04 along the way. What followed was the
 
-01:55 tour, the interviews about how much he'd
+113.28 classic redemption arc, the apology
 
-01:57 learned, the big comeback, except he
+115.439 tour, the interviews about how much he'd
 
-02:00 never actually changed. And this time,
+117.68 learned, the big comeback, except he
 
-02:03 all it took was two videos from one
+120.64 never actually changed. And this time,
 
-02:05 small YouTuber to tear down piece by
+123.36 all it took was two videos from one
 
-02:08 piece. The facade that Arak spent years
+125.6 small YouTuber to tear down piece by
 
-02:10 so carefully rebuilding. The dealer
+128.08 piece. The facade that Arak spent years
 
-02:13 knows, bro. Everybody in the casino who
+130.879 so carefully rebuilding. The dealer
 
-02:15 works for the casino knows you've got a
+133.12 knows, bro. Everybody in the casino who
 
-02:17 360 camera. You're wearing glasses with
+135.52 works for the casino knows you've got a
 
-02:19 a camera on them. Those are not allowed.
+137.44 360 camera. You're wearing glasses with
 
-02:22 If you walk into a casino with the Ray-B
+139.76 a camera on them. Those are not allowed.
 
-02:25 band recording glasses or the meta
+142.4 If you walk into a casino with the Ray-B
 
-02:27 glasses, you're going to get told, "Take
+145.36 band recording glasses or the meta
 
-02:29 them off. Turn them off. Do not come
+147.2 glasses, you're going to get told, "Take
 
-02:31 into the casino with these. Hi, I'm the
+149.36 them off. Turn them off. Do not come
 
-02:33 internet anarchist. I create weekly
+151.36 into the casino with these. Hi, I'm the
 
-02:35 YouTube documentaries and today we're
+153.28 internet anarchist. I create weekly
 
-02:37 talking about Airak, the dark Mr. Beast
+155.04 YouTube documentaries and today we're
 
-02:40 clone that keeps getting away with it.
+157.84 talking about Airak, the dark Mr. Beast
 
-02:42 For years, Arach built one of YouTube's
+160.48 clone that keeps getting away with it.
 
-02:45 biggest channels by selling impossible
+162.8 For years, Arach built one of YouTube's
 
-02:47 challenges, over-the-top stunts, and one
+165.12 biggest channels by selling impossible
 
-02:50 simple promise. Unlike almost every
+167.36 challenges, over-the-top stunts, and one
 
-02:52 other creator on the platform, his
+170.16 simple promise. Unlike almost every
 
-02:54 videos were supposedly real. The easiest
+172.64 other creator on the platform, his
 
-02:57 way to put it is that he makes the Mr.
+174.72 videos were supposedly real. The easiest
 
-02:59 beast type of content. And he's even
+177.36 way to put it is that he makes the Mr.
 
-03:01 collaborated with him before. Arak has
+179.519 beast type of content. And he's even
 
-03:04 also publicly claimed that viewers could
+181.84 collaborated with him before. Arak has
 
-03:06 count on him to never fake videos
+184.4 also publicly claimed that viewers could
 
-03:08 because of the lengths his team went to
+186.56 count on him to never fake videos
 
-03:10 in order to keep everything authentic.
+188.64 because of the lengths his team went to
 
-03:12 Does Arach fake videos? This question
+190.56 in order to keep everything authentic.
 
-03:15 triggers me because of the lengths that
+192.64 Does Arach fake videos? This question
 
-03:18 we go to to make sure that videos are
+195.92 triggers me because of the lengths that
 
-03:21 not faked, unscripted, completely real.
+198.159 we go to to make sure that videos are
 
-03:23 That reputation began to unravel when
+201.04 not faked, unscripted, completely real.
 
-03:26 YouTubers like Soggy Serial started
+203.599 That reputation began to unravel when
 
-03:28 looking closer. The first major
+206.0 YouTubers like Soggy Serial started
 
-03:30 controversy surrounded his 30 days
+208.159 looking closer. The first major
 
-03:32 around the world challenge. Arak claimed
+210.159 controversy surrounded his 30 days
 
-03:34 that starting December 1st, he would
+212.159 around the world challenge. Arak claimed
 
-03:36 travel around the world while uploading
+214.56 that starting December 1st, he would
 
-03:38 a brand new video every single day. If
+216.48 travel around the world while uploading
 
-03:41 he missed even one upload, Mr. Beast had
+218.56 a brand new video every single day. If
 
-03:43 his channel password and would
+221.12 he missed even one upload, Mr. Beast had
 
-03:45 permanently delete the channel.
+223.68 his channel password and would
 
-03:46 >> But if I miss a day, my channel and all
+225.36 permanently delete the channel.
 
-03:48 of my videos get deleted forever. You
+226.959 >> But if I miss a day, my channel and all
 
-03:50 think I'm lying? I gave my personal
+228.959 of my videos get deleted forever. You
 
-03:52 laptop and my password to Mr. Beast, who
+230.959 think I'm lying? I gave my personal
 
-03:54 is dying to delete my channel.
+232.56 laptop and my password to Mr. Beast, who
 
-03:56 >> I literally have his YouTube channel and
+234.64 is dying to delete my channel.
 
-03:58 I promise I will delete it if he skips
+236.48 >> I literally have his YouTube channel and
 
-04:00 one day. The challenge was sold as
+238.64 I promise I will delete it if he skips
 
-04:02 happening live. Every episode reinforced
+240.56 one day. The challenge was sold as
 
-04:04 that idea by reminding viewers he was
+242.4 happening live. Every episode reinforced
 
-04:07 racing the clock whilst traveling across
+244.959 that idea by reminding viewers he was
 
-04:09 the globe. But almost immediately,
+247.36 racing the clock whilst traveling across
 
-04:12 people began finding evidence that the
+249.599 the globe. But almost immediately,
 
-04:14 timeline wasn't real. A smartwatch shown
+252.239 people began finding evidence that the
 
-04:16 in one episode displayed a date in
+254.319 timeline wasn't real. A smartwatch shown
 
-04:19 September despite the challenge
+256.959 in one episode displayed a date in
 
-04:20 supposedly taking place in December.
+259.04 September despite the challenge
 
-04:23 Food packaging featured September
+260.88 supposedly taking place in December.
 
-04:24 expiration dates. A television in
+263.04 Food packaging featured September
 
-04:26 another episode displayed a news report
+264.88 expiration dates. A television in
 
-04:29 covering events from November. Instagram
+266.96 another episode displayed a news report
 
-04:31 posts from other creators and people who
+269.04 covering events from November. Instagram
 
-04:33 appeared in the videos placed air at
+271.44 posts from other creators and people who
 
-04:35 filming locations weeks and sometimes
+273.52 appeared in the videos placed air at
 
-04:38 months before the challenge officially
+275.68 filming locations weeks and sometimes
 
-04:40 begun. Instead of documenting a realtime
+278.0 months before the challenge officially
 
-04:42 race around the world, much of the
+280.0 begun. Instead of documenting a realtime
 
-04:44 series had already been filmed long
+282.72 race around the world, much of the
 
-04:46 before December. When YouTubers called
+284.8 series had already been filmed long
 
-04:49 this out, Eric admitted that some videos
+286.88 before December. When YouTubers called
 
-04:51 were pre-recorded to give himself a head
+289.44 this out, Eric admitted that some videos
 
-04:54 start. Later, he changed the
+291.919 were pre-recorded to give himself a head
 
-04:56 explanation, saying they were emergency
+294.32 start. Later, he changed the
 
-04:58 backup videos in case something went
+296.32 explanation, saying they were emergency
 
-05:00 wrong while traveling. The problem
+298.479 backup videos in case something went
 
-05:02 wasn't that the videos were filmed
+300.56 wrong while traveling. The problem
 
-05:04 early. Plenty of creators film ahead.
+302.32 wasn't that the videos were filmed
 
-05:06 The issue was that the series was
+304.16 early. Plenty of creators film ahead.
 
-05:08 presented as if everything was unfolding
+306.56 The issue was that the series was
 
-05:10 live while the threat of losing his
+308.72 presented as if everything was unfolding
 
-05:13 channel created constant tension. That
+310.96 live while the threat of losing his
 
-05:15 urgency drove the entire challenge. Yet
+313.039 channel created constant tension. That
 
-05:18 much of it couldn't have been happening
+315.6 urgency drove the entire challenge. Yet
 
-05:19 the way viewers were led to believe. I
+318.0 much of it couldn't have been happening
 
-05:21 gave my YouTube password to Mr. Beast,
+319.6 the way viewers were led to believe. I
 
-05:23 who has agreed that I have 30 days to
+321.919 gave my YouTube password to Mr. Beast,
 
-05:25 make it around the Earth, upload a video
+323.52 who has agreed that I have 30 days to
 
-05:26 on this channel every day for the next
+325.039 make it around the Earth, upload a video
 
-05:28 30 days, and if I fail, he will delete
+326.56 on this channel every day for the next
 
-05:30 my channel.
+328.24 30 days, and if I fail, he will delete
 
-05:30 >> This wasn't the only time Arax's content
+330.16 my channel.
 
-05:33 came under scrutiny. In 2021, he
+330.88 >> This wasn't the only time Arax's content
 
-05:36 uploaded a two-part series about
+333.28 came under scrutiny. In 2021, he
 
-05:38 visiting the Northwest Angle, a remote
+336.479 uploaded a two-part series about
 
-05:40 Minnesota community that had been
+338.479 visiting the Northwest Angle, a remote
 
-05:42 heavily affected by CO restrictions. The
+340.88 Minnesota community that had been
 
-05:45 entire premise was that he wanted to
+342.72 heavily affected by CO restrictions. The
 
-05:47 risk crossing dangerous ice, empty his
+345.6 entire premise was that he wanted to
 
-05:50 bank account, and spend as much money as
+347.6 risk crossing dangerous ice, empty his
 
-05:52 possible to help a struggling town that
+350.0 bank account, and spend as much money as
 
-05:54 had lost millions in tourism. It sounded
+352.4 possible to help a struggling town that
 
-05:57 like one of his most charitable videos.
+354.56 had lost millions in tourism. It sounded
 
-05:59 According to later investigations by
+357.12 like one of his most charitable videos.
 
-06:01 Soggy Serial, that wasn't what actually
+359.44 According to later investigations by
 
-06:04 happened. He compared the locations
+361.6 Soggy Serial, that wasn't what actually
 
-06:06 shown throughout the videos with
+364.08 happened. He compared the locations
 
-06:07 publicly available photos and found that
+366.16 shown throughout the videos with
 
-06:10 many of the places Eric claimed were
+367.84 publicly available photos and found that
 
-06:12 inside the Northwest Angle were actually
+370.479 many of the places Eric claimed were
 
-06:14 part of a sportsman lodge, a resort
+372.479 inside the Northwest Angle were actually
 
-06:17 roughly 40 mi away. The cabins, swimming
+374.88 part of a sportsman lodge, a resort
 
-06:20 pool, arcade, restaurant, and other
+377.12 roughly 40 mi away. The cabins, swimming
 
-06:22 locations all matched the resort where
+380.16 pool, arcade, restaurant, and other
 
-06:24 the crew had already been staying. the
+382.479 locations all matched the resort where
 
-06:27 Sportsman Lodge Resort, which isn't
+384.88 the crew had already been staying. the
 
-06:29 located in the angle, but in Wheeler's
+387.44 Sportsman Lodge Resort, which isn't
 
-06:32 Point, Bodat, a town 200,000 ft away
+389.84 located in the angle, but in Wheeler's
 
-06:36 from the angle. Throughout the videos,
+392.319 Point, Bodat, a town 200,000 ft away
 
-06:38 Arach repeatedly implied that he was
+396.56 from the angle. Throughout the videos,
 
-06:40 pouring money into a struggling local
+398.88 Arach repeatedly implied that he was
 
-06:43 community. In reality, much of what
+400.96 pouring money into a struggling local
 
-06:45 viewers were seeing appeared to take
+403.039 community. In reality, much of what
 
-06:47 place somewhere else entirely. What was
+405.36 viewers were seeing appeared to take
 
-06:49 framed as a charitable mission began
+407.12 place somewhere else entirely. What was
 
-06:51 looking more like a highly produced
+409.44 framed as a charitable mission began
 
-06:53 vacation disguised as philanthropy. The
+411.6 looking more like a highly produced
 
-06:56 most serious controversy from that
+413.36 vacation disguised as philanthropy. The
 
-06:58 series involved a local pilot. Eric
+416.16 most serious controversy from that
 
-07:00 claimed the pilot wanted to remain
+418.08 series involved a local pilot. Eric
 
-07:02 anonymous because of legal concerns
+420.639 claimed the pilot wanted to remain
 
-07:04 surrounding the flight. His face was
+422.4 anonymous because of legal concerns
 
-07:06 blurred throughout the video and viewers
+424.479 surrounding the flight. His face was
 
-07:08 were told his identity would be
+426.479 blurred throughout the video and viewers
 
-07:10 protected. But despite blurring his
+428.56 were told his identity would be
 
-07:12 face, Eric repeatedly said the pilot's
+430.08 protected. But despite blurring his
 
-07:14 real name on camera. In an area with
+432.4 face, Eric repeatedly said the pilot's
 
-07:17 only a handful of private pilots, that
+434.72 real name on camera. In an area with
 
-07:19 was enough for viewers to identify him
+437.12 only a handful of private pilots, that
 
-07:21 almost instantly. A simple Google search
+439.52 was enough for viewers to identify him
 
-07:24 using his first name and the location
+441.599 almost instantly. A simple Google search
 
-07:26 was enough to find him. The videos
+444.08 using his first name and the location
 
-07:28 didn't stop there. Eric and his team
+446.4 was enough to find him. The videos
 
-07:31 repeatedly mocked the pilot, portraying
+448.72 didn't stop there. Eric and his team
 
-07:33 him as incompetent and reckless.
+451.199 repeatedly mocked the pilot, portraying
 
-07:35 According to Soi and his sources claims,
+453.28 him as incompetent and reckless.
 
-07:38 parts of this betrayal were manufactured
+455.599 According to Soi and his sources claims,
 
-07:40 in editing. One sequence where the pilot
+458.08 parts of this betrayal were manufactured
 
-07:42 appears to angrily complain about his
+460.16 in editing. One sequence where the pilot
 
-07:44 plane allegedly used a fake voice
+462.639 appears to angrily complain about his
 
-07:46 recording added during post-prouction
+464.72 plane allegedly used a fake voice
 
-07:49 rather than audio that was actually
+466.96 recording added during post-prouction
 
-07:51 recorded on location. According to
+469.28 rather than audio that was actually
 
-07:53 people familiar with the situation, the
+471.199 recorded on location. According to
 
-07:55 pilot's employer was furious after the
+473.36 people familiar with the situation, the
 
-07:58 video was released and the relationship
+475.68 pilot's employer was furious after the
 
-08:00 between Arax team and the flight company
+478.0 video was released and the relationship
 
-08:02 was permanently damaged.
+480.319 between Arax team and the flight company
 
-08:04 >> Come on, stupid brain. Why would you
+482.8 was permanently damaged.
 
-08:07 start? Godamn.
+484.639 >> Come on, stupid brain. Why would you
 
-08:10 Well, it's completely altered. See, this
+487.919 start? Godamn.
 
-08:12 isn't what the pilot said. Eric asked
+490.24 Well, it's completely altered. See, this
 
-08:15 someone to send him a fake voice memo so
+492.4 isn't what the pilot said. Eric asked
 
-08:17 he could use it as a voice overlay and
+495.28 someone to send him a fake voice memo so
 
-08:20 lie about the pilot getting pissed that
+497.84 he could use it as a voice overlay and
 
-08:22 the plane didn't start. For someone who
+500.24 lie about the pilot getting pissed that
 
-08:24 supposedly wanted to protect the pilot's
+502.479 the plane didn't start. For someone who
 
-08:26 identity, the videos instead exposed him
+504.639 supposedly wanted to protect the pilot's
 
-08:29 to millions of viewers while
+506.879 identity, the videos instead exposed him
 
-08:31 simultaneously portraying him in a
+509.36 to millions of viewers while
 
-08:32 misleading and embarrassing way.
+511.039 simultaneously portraying him in a
 
-08:34 Questions about authenticity continued
+512.959 misleading and embarrassing way.
 
-08:37 beyond those videos. His Cross America
+514.959 Questions about authenticity continued
 
-08:40 in a straight line challenge claimed he
+517.279 beyond those videos. His Cross America
 
-08:42 never left a specific route and even
+520.0 in a straight line challenge claimed he
 
-08:44 included a map so viewers could verify
+522.08 never left a specific route and even
 
-08:46 it to themselves. But the landmarks
+524.32 included a map so viewers could verify
 
-08:48 shown throughout the video didn't line
+526.399 it to themselves. But the landmarks
 
-08:50 up with that route. And Soi later found
+528.8 shown throughout the video didn't line
 
-08:53 evidence suggesting sections of the map
+530.8 up with that route. And Soi later found
 
-08:55 had been digitally manipulated to create
+533.279 evidence suggesting sections of the map
 
-08:58 fake obstacles and make the challenge
+535.519 had been digitally manipulated to create
 
-08:59 appear more dramatic than it really was.
+538.0 fake obstacles and make the challenge
 
-09:02 if you weren't already uh 20 mi off the
+539.92 appear more dramatic than it really was.
 
-09:06 line at this point, which I could
+542.56 if you weren't already uh 20 mi off the
 
-09:08 identify by the billboards in the back,
+546.0 line at this point, which I could
 
-09:10 the structure of the sign. And
+548.08 identify by the billboards in the back,
 
-09:11 conveniently enough, on Route 29, an
+550.16 the structure of the sign. And
 
-09:14 interstate highway, which goes south
+551.839 conveniently enough, on Route 29, an
 
-09:17 throughout multiple states, even older
+554.64 interstate highway, which goes south
 
-09:20 uploads showed similar problems. His
+557.36 throughout multiple states, even older
 
-09:22 viral sneaking into a festival as a fake
+560.0 uploads showed similar problems. His
 
-09:24 DJ video presented the crew breaking
+562.399 viral sneaking into a festival as a fake
 
-09:27 into a music festival. Yet the footage
+564.8 DJ video presented the crew breaking
 
-09:29 accidentally revealed entry wristbands
+567.2 into a music festival. Yet the footage
 
-09:32 that suggested they had already paid to
+569.839 accidentally revealed entry wristbands
 
-09:34 get inside before filming the staged
+572.32 that suggested they had already paid to
 
-09:36 sneaking in sequence. Added police sound
+574.56 get inside before filming the staged
 
-09:39 effects further exaggerated moments that
+576.64 sneaking in sequence. Added police sound
 
-09:41 may have never happened. Individually,
+579.279 effects further exaggerated moments that
 
-09:43 each controversy could be dismissed as
+581.519 may have never happened. Individually,
 
-09:46 creative editing or harmless
+583.92 each controversy could be dismissed as
 
-09:48 entertainment. Together, they paint a
+586.24 creative editing or harmless
 
-09:50 much different picture and really show
+588.08 entertainment. Together, they paint a
 
-09:52 off how much of a fraud he is. You might
+590.56 much different picture and really show
 
-09:55 be thinking that although this sounds
+592.8 off how much of a fraud he is. You might
 
-09:57 bad, at the end of the day, it's
+595.44 be thinking that although this sounds
 
-09:59 relatively harmless. Sure, he lies about
+597.44 bad, at the end of the day, it's
 
-10:02 faking his videos. But if the goal was
+599.36 relatively harmless. Sure, he lies about
 
-10:04 to entertain an audience, he still
+602.16 faking his videos. But if the goal was
 
-10:06 clearly succeeded, even if it was in a
+604.72 to entertain an audience, he still
 
-10:09 dishonest way. Clearly, people like to
+606.8 clearly succeeded, even if it was in a
 
-10:11 watch his videos. They've racked up tens
+609.12 dishonest way. Clearly, people like to
 
-10:13 of millions of views. So, what's the
+611.36 watch his videos. They've racked up tens
 
-10:15 harm? Well, that's exactly what the rest
+613.519 of millions of views. So, what's the
 
-10:18 of this video is about, because what
+615.68 harm? Well, that's exactly what the rest
 
-10:20 Eric has been up to recently makes
+618.0 of this video is about, because what
 
-10:22 faking a few challenge videos look
+620.32 Eric has been up to recently makes
 
-10:24 innocent in comparison. After the
+622.56 faking a few challenge videos look
 
-10:26 backlash over his authenticity, Eric
+624.72 innocent in comparison. After the
 
-10:29 deleted roughly 28 million views worth
+626.88 backlash over his authenticity, Eric
 
-10:31 of videos. His growth slowed, and for a
+629.279 deleted roughly 28 million views worth
 
-10:34 while, it looked like the controversy
+631.92 of videos. His growth slowed, and for a
 
-10:36 might define his career. But YouTube has
+634.8 while, it looked like the controversy
 
-10:39 a constant stream of new viewers,
+636.8 might define his career. But YouTube has
 
-10:41 especially younger ones, and many of
+639.519 a constant stream of new viewers,
 
-10:43 them had never seen the original
+641.44 especially younger ones, and many of
 
-10:45 criticism. Instead of trying to convince
+643.519 them had never seen the original
 
-10:47 everyone his videos were completely
+645.36 criticism. Instead of trying to convince
 
-10:49 real, Eric shifted towards content where
+647.6 everyone his videos were completely
 
-10:52 the spectacle became the point. His
+649.519 real, Eric shifted towards content where
 
-10:54 newer videos focused on entertainment
+652.0 the spectacle became the point. His
 
-10:56 rather than authenticity. He hid in
+654.16 newer videos focused on entertainment
 
-10:58 other creators videos like Kaisenat,
+656.24 rather than authenticity. He hid in
 
-11:01 crashed live streams, and leaned into
+658.48 other creators videos like Kaisenat,
 
-11:03 big collaborative stunts that didn't
+661.04 crashed live streams, and leaned into
 
-11:05 rely on viewers believing every detail
+663.36 big collaborative stunts that didn't
 
-11:07 actually happened. The strategy worked.
+665.44 rely on viewers believing every detail
 
-11:10 He landed major brand deals, signed with
+667.68 actually happened. The strategy worked.
 
-11:12 the major talent agency, CIA, and
+670.24 He landed major brand deals, signed with
 
-11:15 appeared on John's podcast where he
+672.8 the major talent agency, CIA, and
 
-11:17 described himself as someone who had
+675.279 appeared on John's podcast where he
 
-11:19 learned from criticism and become a
+677.6 described himself as someone who had
 
-11:21 quote very different version of himself.
+679.2 learned from criticism and become a
 
-11:23 Eric is the guy who doesn't fake stuff
+681.36 quote very different version of himself.
 
-11:26 and that's why um things kind of fell
+683.92 Eric is the guy who doesn't fake stuff
 
-11:30 down harder.
+686.32 and that's why um things kind of fell
 
-11:31 >> Yeah,
+690.16 down harder.
 
-11:32 I think it's half me having a huge
+691.12 >> Yeah,
 
-11:37 enormous borderline indestructible ego
+692.64 I think it's half me having a huge
 
-11:40 at the time.
+697.04 enormous borderline indestructible ego
 
-11:41 >> Yeah.
+700.8 at the time.
 
-11:42 >> Uh I felt like I could do anything. I
+701.6 >> Yeah.
 
-11:45 had I had only ever taken big risks and
+702.24 >> Uh I felt like I could do anything. I
 
-11:48 been rewarded for them.
+705.839 had I had only ever taken big risks and
 
-11:50 >> Right. What am I what what what's the
+708.72 been rewarded for them.
 
-11:53 worst thing that could happen? Like I'm
+710.64 >> Right. What am I what what what's the
 
-11:54 going to go film this thing and I can do
+713.2 worst thing that could happen? Like I'm
 
-11:58 anything creatively I want to do and
+714.88 going to go film this thing and I can do
 
-12:00 what's going to happen? You know what I
+718.32 anything creatively I want to do and
 
-12:01 mean? Like if you put yourself in my
+720.56 what's going to happen? You know what I
 
-12:05 shoes. The lesson Arak claimed to have
+721.839 mean? Like if you put yourself in my
 
-12:07 learned came with its own irony. He
+725.12 shoes. The lesson Arak claimed to have
 
-12:10 named Ego as the reason he got into
+727.76 learned came with its own irony. He
 
-12:12 trouble in the first place. then in
+730.0 named Ego as the reason he got into
 
-12:14 almost the same breath waved off the
+732.16 trouble in the first place. then in
 
-12:16 people criticizing him as probably just
+734.32 almost the same breath waved off the
 
-12:18 fans of his channel, which is of course
+736.48 people criticizing him as probably just
 
-12:21 its own kind of ego. And if you're
+738.639 fans of his channel, which is of course
 
-12:23 trying to stretch the absolute limits,
+741.279 its own kind of ego. And if you're
 
-12:26 you're going to mess up. And I'm only
+743.68 trying to stretch the absolute limits,
 
-12:28 appreciative on those videos for giving
+746.56 you're going to mess up. And I'm only
 
-12:31 me feedback. Like I I a lot of these
+748.24 appreciative on those videos for giving
 
-12:33 guys that made videos about me, I don't
+751.04 me feedback. Like I I a lot of these
 
-12:34 think they would know as much as they
+753.2 guys that made videos about me, I don't
 
-12:36 knew about me if they weren't fans of
+754.8 think they would know as much as they
 
-12:37 the channel currently or at some point.
+756.0 knew about me if they weren't fans of
 
-12:39 And so I think the perspective is like
+757.519 the channel currently or at some point.
 
-12:41 these are people who care about the
+759.6 And so I think the perspective is like
 
-12:42 brand. Whether that claim holds up
+761.68 these are people who care about the
 
-12:45 depends less on what he said and more on
+762.959 brand. Whether that claim holds up
 
-12:47 what changed. The largecale spectacle
+765.2 depends less on what he said and more on
 
-12:50 never went away. If anything, the
+767.519 what changed. The largecale spectacle
 
-12:52 business side of the channel only became
+770.079 never went away. If anything, the
 
-12:54 more aggressive. That became most
+772.16 business side of the channel only became
 
-12:56 obvious with his shift towards gambling
+774.24 more aggressive. That became most
 
-12:58 content. Beginning in late 2025, Arax
+776.56 obvious with his shift towards gambling
 
-13:02 started promoting companies like
+778.88 content. Beginning in late 2025, Arax
 
-13:03 DraftKings and Prize Picks in his
+782.32 started promoting companies like
 
-13:05 videos. Sponsorships from gambling
+783.92 DraftKings and Prize Picks in his
 
-13:08 companies aren't unusual on YouTube, but
+785.92 videos. Sponsorships from gambling
 
-13:10 the timing became difficult to ignore.
+788.079 companies aren't unusual on YouTube, but
 
-13:12 In April 2026, he uploaded I Cheed at
+790.56 the timing became difficult to ignore.
 
-13:16 the casino and won, presenting himself
+792.88 In April 2026, he uploaded I Cheed at
 
-13:18 as if he had found a way to beat the
+796.399 the casino and won, presenting himself
 
-13:20 house. This is me placing a $2,000 bet
+798.88 as if he had found a way to beat the
 
-13:24 at the casino. But what these people
+800.8 house. This is me placing a $2,000 bet
 
-13:26 around me don't know is I secretly have
+804.639 at the casino. But what these people
 
-13:29 a professional gambler in my ear telling
+806.959 around me don't know is I secretly have
 
-13:31 me exactly what to do. Stand.
+809.12 a professional gambler in my ear telling
 
-13:34 >> Stand. Stand. Stand.
+811.68 me exactly what to do. Stand.
 
-13:37 Oh my god.
+814.16 >> Stand. Stand. Stand.
 
-13:40 4,000 right there.
+817.36 Oh my god.
 
-13:41 >> I've hired the world's greatest gamblers
+820.32 4,000 right there.
 
-13:43 to help me cheat at the casino with one
+821.519 >> I've hired the world's greatest gamblers
 
-13:46 goal in mind. Use their ban methods to
+823.6 to help me cheat at the casino with one
 
-13:49 turn $10,000 into as much money as
+826.32 goal in mind. Use their ban methods to
 
-13:52 humanly possible. The title itself
+829.04 turn $10,000 into as much money as
 
-13:54 creates the first illusion. Actually,
+832.32 humanly possible. The title itself
 
-13:57 cheating at a casino is a crime. So, the
+834.88 creates the first illusion. Actually,
 
-13:59 video clearly wasn't documenting a real
+837.04 cheating at a casino is a crime. So, the
 
-14:01 crime. Instead, it presented gambling as
+839.68 video clearly wasn't documenting a real
 
-14:04 something that could be solved with
+841.92 crime. Instead, it presented gambling as
 
-14:06 enough knowledge and the right experts.
+844.72 something that could be solved with
 
-14:08 Not only that, but just the way he
+846.16 enough knowledge and the right experts.
 
-14:10 presents it makes it seem like the
+848.48 Not only that, but just the way he
 
-14:12 coolest thing ever. Within 24 hours,
+850.56 presents it makes it seem like the
 
-14:15 small YouTuber MK Andy made a video
+852.32 coolest thing ever. Within 24 hours,
 
-14:17 titled Airax video is casino propaganda
+855.04 small YouTuber MK Andy made a video
 
-14:20 and quickly pointed out that the casino
+857.68 titled Airax video is casino propaganda
 
-14:23 staff could obviously see Airax crew,
+860.8 and quickly pointed out that the casino
 
-14:25 cameras, and production. Rather than
+863.12 staff could obviously see Airax crew,
 
-14:27 exposing a casino, the video looked like
+865.6 cameras, and production. Rather than
 
-14:30 a performance taking place with the
+867.839 exposing a casino, the video looked like
 
-14:32 casino's cooperation.
+870.16 a performance taking place with the
 
-14:34 >> We were cooking and the dealer still had
+872.079 casino's cooperation.
 
-14:36 no idea that I was being controlled by a
+874.0 >> We were cooking and the dealer still had
 
-14:39 professional card counter. The dealer
+876.8 no idea that I was being controlled by a
 
-14:41 knows, bro. Everybody in the casino who
+879.279 professional card counter. The dealer
 
-14:43 works for the casino knows you've got a
+881.199 knows, bro. Everybody in the casino who
 
-14:45 360 camera. You're wearing glasses with
+883.6 works for the casino knows you've got a
 
-14:47 a camera on them. Those are not allowed.
+885.6 360 camera. You're wearing glasses with
 
-14:50 If you walk into a casino with the Ray-B
+887.92 a camera on them. Those are not allowed.
 
-14:53 band recording glasses or the Meta
+890.56 If you walk into a casino with the Ray-B
 
-14:55 glasses, you're going to get told, "Take
+893.44 band recording glasses or the Meta
 
-14:57 them off. Turn them off. Do not come
+895.36 glasses, you're going to get told, "Take
 
-14:59 into the casino with these. We do not
+897.44 them off. Turn them off. Do not come
 
-15:01 want you here." Ara has a 360° camera on
+899.519 into the casino with these. We do not
 
-15:04 the blackjack table in a cup holder.
+901.36 want you here." Ara has a 360° camera on
 
-15:06 Dude, this is like the they they know.
+904.88 the blackjack table in a cup holder.
 
-15:09 For those of you that don't know him, MK
+906.639 Dude, this is like the they they know.
 
-15:11 Andy is a former gambling addict that
+909.44 For those of you that don't know him, MK
 
-15:13 has used chess in order to beat his
+911.76 Andy is a former gambling addict that
 
-15:15 gambling addiction. Both of his videos
+913.92 has used chess in order to beat his
 
-15:17 on Air do an exceptional job
+915.68 gambling addiction. Both of his videos
 
-15:19 deconstructing it and the links to both
+917.76 on Air do an exceptional job
 
-15:21 of them will be in the description. So
+919.68 deconstructing it and the links to both
 
-15:24 during this 30inute video, nearly 12
+921.92 of them will be in the description. So
 
-15:27 minutes of screen time shows Ara in
+924.079 during this 30inute video, nearly 12
 
-15:30 profit. Comparing that to the less than
+927.199 minutes of screen time shows Ara in
 
-15:32 2 minutes that shows Arach lower than
+930.079 profit. Comparing that to the less than
 
-15:34 his $10,000 starting bankroll and only
+932.88 2 minutes that shows Arach lower than
 
-15:37 going as low as $9,450
+934.88 his $10,000 starting bankroll and only
 
-15:40 and never dropping below $10,000 after 8
+937.199 going as low as $9,450
 
-15:43 minutes and 45 seconds in his video. As
+940.16 and never dropping below $10,000 after 8
 
-15:45 MK Andy points out, for most of the
+943.44 minutes and 45 seconds in his video. As
 
-15:48 runtime in his video, Arak is winning.
+945.68 MK Andy points out, for most of the
 
-15:50 The graphics celebrate every success.
+948.0 runtime in his video, Arak is winning.
 
-15:53 Gambling experts confidently explain
+950.72 The graphics celebrate every success.
 
-15:55 strategies, and losses are either brief
+953.279 Gambling experts confidently explain
 
-15:57 or delayed until much later. Viewers
+955.36 strategies, and losses are either brief
 
-16:00 spend almost the entire video watching
+957.68 or delayed until much later. Viewers
 
-16:02 gambling feel exciting, profitable, and
+960.079 spend almost the entire video watching
 
-16:05 under control before eventually reaching
+962.32 gambling feel exciting, profitable, and
 
-16:07 the final reminder that the house wins.
+965.12 under control before eventually reaching
 
-16:10 For many viewers, especially younger
+967.6 the final reminder that the house wins.
 
-16:12 ones, that ending may never even be
+970.24 For many viewers, especially younger
 
-16:14 seen. The criticism wasn't simply that
+972.24 ones, that ending may never even be
 
-16:17 Arak lost money in the end. It was that
+974.639 seen. The criticism wasn't simply that
 
-16:19 nearly everything before that point
+977.04 Arak lost money in the end. It was that
 
-16:21 framed gambling as exciting, rewarding,
+979.519 nearly everything before that point
 
-16:23 and potentially beatable. The people
+981.36 framed gambling as exciting, rewarding,
 
-16:26 standing beside him only made that
+983.92 and potentially beatable. The people
 
-16:28 message stronger. Throughout the video,
+986.079 standing beside him only made that
 
-16:30 he features and promotes figures like
+988.24 message stronger. Throughout the video,
 
-16:32 Mickey Mace, Professor Slots, and
+990.399 he features and promotes figures like
 
-16:34 Dominic Lorigio, presenting them as
+992.16 Mickey Mace, Professor Slots, and
 
-16:36 experts capable of beating casinos. He
+994.079 Dominic Lorigio, presenting them as
 
-16:38 linked directly to their pages and in
+996.24 experts capable of beating casinos. He
 
-16:40 some cases to expensive gambling courses
+998.8 linked directly to their pages and in
 
-16:43 they were selling. So I called the most
+1000.959 some cases to expensive gambling courses
 
-16:45 feared card gambler alive. Mickey Mace.
+1003.36 they were selling. So I called the most
 
-16:49 >> What up?
+1005.759 feared card gambler alive. Mickey Mace.
 
-16:51 >> There he is. Mr. Nikki.
+1009.839 >> What up?
 
-16:53 >> Mickey's won over $32 million gambling.
+1011.04 >> There he is. Mr. Nikki.
 
-16:56 He's so good he's been banned from every
+1013.279 >> Mickey's won over $32 million gambling.
 
-16:59 single casino in Vegas.
+1016.88 He's so good he's been banned from every
 
-17:00 >> Sitting here, you know, helping you win.
+1019.12 single casino in Vegas.
 
-17:02 And that's what I do. So I'm happy
+1020.959 >> Sitting here, you know, helping you win.
 
-17:05 you're happy.
+1022.88 And that's what I do. So I'm happy
 
-17:06 >> I'm happy. It turns out Professor Slots
+1025.439 you're happy.
 
-17:09 was a mad genius all along and his
+1026.559 >> I'm happy. It turns out Professor Slots
 
-17:11 methods meant we were up an extra $600.
+1029.12 was a mad genius all along and his
 
-17:14 And after a few more small wins, Slots
+1031.12 methods meant we were up an extra $600.
 
-17:16 and I said our goodbyes. Dominic Larigio
+1034.0 And after a few more small wins, Slots
 
-17:18 is the eighth best gambler in history.
+1036.079 and I said our goodbyes. Dominic Larigio
 
-17:21 And
+1038.64 is the eighth best gambler in history.
 
-17:22 >> the casino's worst nightmare. I'm banned
+1041.6 And
 
-17:25 in the whole state of Louisiana. 75% of
+1042.16 >> the casino's worst nightmare. I'm banned
 
-17:27 the casinos in Las Vegas, four or five
+1045.199 in the whole state of Louisiana. 75% of
 
-17:29 cruise lines.
+1047.199 the casinos in Las Vegas, four or five
 
-17:29 >> He is so recognizable that I actually
+1049.12 cruise lines.
 
-17:31 had to disguise his face so that the pit
+1049.919 >> He is so recognizable that I actually
 
-17:34 bosses didn't notice him. Andy argued
+1051.919 had to disguise his face so that the pit
 
-17:36 this was the real issue. If someone
+1054.24 bosses didn't notice him. Andy argued
 
-17:38 truly possessed a reliable system for
+1056.72 this was the real issue. If someone
 
-17:40 beating casinos, selling it online would
+1058.72 truly possessed a reliable system for
 
-17:43 make little sense because casinos
+1060.72 beating casinos, selling it online would
 
-17:45 themselves could simply buy the same
+1063.36 make little sense because casinos
 
-17:47 course. Instead, the video introduced
+1065.36 themselves could simply buy the same
 
-17:50 millions of viewers to people whose
+1067.36 course. Instead, the video introduced
 
-17:52 businesses depend on convincing others
+1070.0 millions of viewers to people whose
 
-17:54 they may have the secret. Eric denied
+1072.0 businesses depend on convincing others
 
-17:56 that the casino sponsored the video, but
+1074.16 they may have the secret. Eric denied
 
-17:59 Andy said that's not the whole story.
+1076.64 that the casino sponsored the video, but
 
-18:01 Arach literally shouts out the casino
+1079.12 Andy said that's not the whole story.
 
-18:03 and links their website in the
+1081.44 Arach literally shouts out the casino
 
-18:05 description of the video.
+1083.6 and links their website in the
 
-18:06 >> As we head to the next game, I wanted to
+1085.2 description of the video.
 
-18:08 shout out Inn of the Mountain Gods for
+1086.64 >> As we head to the next game, I wanted to
 
-18:09 letting us film at their beautiful
+1088.24 shout out Inn of the Mountain Gods for
 
-18:11 casino and for somehow allowing us to
+1089.76 letting us film at their beautiful
 
-18:13 try and cheat as much as I possibly
+1091.28 casino and for somehow allowing us to
 
-18:15 could. So, even if it was not
+1093.52 try and cheat as much as I possibly
 
-18:17 technically sponsored by the casino, the
+1095.44 could. So, even if it was not
 
-18:19 video still functioned like advertising
+1097.2 technically sponsored by the casino, the
 
-18:21 regardless. They literally received
+1099.44 video still functioned like advertising
 
-18:23 positive exposure, appeared welcoming,
+1101.6 regardless. They literally received
 
-18:26 and were portrayed as a place where
+1103.84 positive exposure, appeared welcoming,
 
-18:27 ordinary people might outsmart the
+1106.08 and were portrayed as a place where
 
-18:30 house. That message becomes harder to
+1107.76 ordinary people might outsmart the
 
-18:32 ignore when considering Arax's audience.
+1110.08 house. That message becomes harder to
 
-18:35 His videos follow the same high energy
+1112.559 ignore when considering Arax's audience.
 
-18:37 formula popularized by creators like Mr.
+1115.12 His videos follow the same high energy
 
-18:39 Beast with fast editing, simple
+1117.2 formula popularized by creators like Mr.
 
-18:42 challenges, and a colorful presentation
+1119.84 Beast with fast editing, simple
 
-18:44 that naturally attracts younger viewers.
+1122.0 challenges, and a colorful presentation
 
-18:46 Instead of treating gambling as a
+1124.4 that naturally attracts younger viewers.
 
-18:48 serious financial risk, the video
+1126.799 Instead of treating gambling as a
 
-18:50 explained casino games, celebrated
+1128.64 serious financial risk, the video
 
-18:53 jackpots with flashy graphics, and even
+1130.799 explained casino games, celebrated
 
-18:55 turned references to gambling addiction
+1133.2 jackpots with flashy graphics, and even
 
-18:57 into jokes. It's actually it's actually
+1135.679 turned references to gambling addiction
 
-19:01 insane that the first call out of
+1137.84 into jokes. It's actually it's actually
 
-19:04 Gamblers Anonymous or getting any form
+1141.039 insane that the first call out of
 
-19:06 of help whatsoever from a a gambling
+1144.08 Gamblers Anonymous or getting any form
 
-19:09 addiction is at 25 minutes into a
+1146.559 of help whatsoever from a a gambling
 
-19:12 30-minute video. To be fair, there are
+1149.919 addiction is at 25 minutes into a
 
-19:14 important counterpoints. The video ends
+1152.72 30-minute video. To be fair, there are
 
-19:17 with him losing money, reinforcing that
+1154.96 important counterpoints. The video ends
 
-19:19 the house ultimately wins. And compared
+1157.2 with him losing money, reinforcing that
 
-19:22 to some of his older content, parts of
+1159.44 the house ultimately wins. And compared
 
-19:24 his newer videos are more openly
+1162.0 to some of his older content, parts of
 
-19:26 presented as entertainment rather than
+1164.24 his newer videos are more openly
 
-19:28 completely authentic events. But those
+1166.0 presented as entertainment rather than
 
-19:30 defenses don't fully answer the larger
+1168.24 completely authentic events. But those
 
-19:32 criticism. The central concern is that
+1170.64 defenses don't fully answer the larger
 
-19:35 the underlying pattern never really
+1172.88 criticism. The central concern is that
 
-19:37 changed. Ara's earlier controversies
+1175.36 the underlying pattern never really
 
-19:39 revolved around creating manufactured
+1177.44 changed. Ara's earlier controversies
 
-19:41 spectacles while asking viewers to trust
+1179.84 revolved around creating manufactured
 
-19:44 they were genuine. His newer
+1181.919 spectacles while asking viewers to trust
 
-19:46 controversies revolve around creating
+1184.32 they were genuine. His newer
 
-19:48 manufactured spectacles that promote
+1186.0 controversies revolve around creating
 
-19:50 literal gambling while framing them as
+1188.08 manufactured spectacles that promote
 
-19:52 harmless entertainment meant for
+1190.4 literal gambling while framing them as
 
-19:54 children. Tyler and I were doing
+1192.559 harmless entertainment meant for
 
-19:56 everything in our power to down these
+1194.24 children. Tyler and I were doing
 
-19:58 clowns and win. Speaking of winning,
+1196.48 everything in our power to down these
 
-19:59 I've teamed up with DraftKings so that
+1198.4 clowns and win. Speaking of winning,
 
-20:01 you can win without having to spend the
+1199.919 I've teamed up with DraftKings so that
 
-20:03 night in an arcade. And new DraftKings
+1201.6 you can win without having to spend the
 
-20:05 customers spend $5 to get 200 in total
+1203.12 night in an arcade. And new DraftKings
 
-20:07 bonuses. At the end of the day, Arak
+1205.039 customers spend $5 to get 200 in total
 
-20:10 never really changed. If anything, the
+1207.52 bonuses. At the end of the day, Arak
 
-20:12 change was mostly performative. The same
+1210.559 never really changed. If anything, the
 
-20:15 behaviors he went on an apology tour for
+1212.72 change was mostly performative. The same
 
-20:17 are still present in his content today,
+1215.12 behaviors he went on an apology tour for
 
-20:19 just packaged a little differently. And
+1217.6 are still present in his content today,
 
-20:22 here's the most depressing part. It's
+1219.919 just packaged a little differently. And
 
-20:24 not like his channel has declined
+1222.24 here's the most depressing part. It's
 
-20:25 because of it. In fact, it's the exact
+1224.32 not like his channel has declined
 
-20:28 opposite. He's absolutely thriving. His
+1225.919 because of it. In fact, it's the exact
 
-20:30 views are stronger than ever, and
+1228.159 opposite. He's absolutely thriving. His
 
-20:32 there's no sign that his growth is
+1230.88 views are stronger than ever, and
 
-20:34 slowing down anytime soon. Why, you may
+1232.559 there's no sign that his growth is
 
-20:36 ask? because his audience is made up
+1234.32 slowing down anytime soon. Why, you may
 
-20:39 primarily of children, viewers who
+1236.96 ask? because his audience is made up
 
-20:41 either don't know enough or simply don't
+1239.12 primarily of children, viewers who
 
-20:43 care about the broader implications of
+1241.2 either don't know enough or simply don't
 
-20:45 what they're watching. You might be
+1243.28 care about the broader implications of
 
-20:47 thinking, well, eventually he'll get
+1245.28 what they're watching. You might be
 
-20:49 exposed, just like in this video. But
+1247.12 thinking, well, eventually he'll get
 
-20:51 the reality could be even worse than
+1249.039 exposed, just like in this video. But
 
-20:53 that. The kind of content Arach is
+1251.52 the reality could be even worse than
 
-20:55 making right now has the potential to
+1253.44 that. The kind of content Arach is
 
-20:57 contribute to another ad apocalypse.
+1255.76 making right now has the potential to
 
-21:00 Think about it. What headline would be
+1257.919 contribute to another ad apocalypse.
 
-21:02 more alarming to advertisers than a
+1260.24 Think about it. What headline would be
 
-21:04 massive kids creator promoting
+1262.32 more alarming to advertisers than a
 
-21:06 DraftKings style gambling in a Mr. Beast
+1264.72 massive kids creator promoting
 
-21:09 inspired video? If the wrong people
+1266.559 DraftKings style gambling in a Mr. Beast
 
-21:11 start paying attention, YouTube could
+1269.28 inspired video? If the wrong people
 
-21:13 face another major advertiser pull out
+1271.6 start paying attention, YouTube could
 
-21:16 affecting millions of creators who had
+1273.679 face another major advertiser pull out
 
-21:18 nothing to do with it. And it would all
+1276.08 affecting millions of creators who had
 
-21:20 stem from creators like Arak pushing the
+1278.24 nothing to do with it. And it would all
 
-21:22 limits in pursuit of bigger numbers and
+1280.4 stem from creators like Arak pushing the
 
-21:25 bigger profits. But unfortunately, for
+1282.799 limits in pursuit of bigger numbers and
 
-21:27 the foreseeable future, it looks like
+1285.039 bigger profits. But unfortunately, for
 
-21:29 Arach is going to keep getting away with
+1287.76 the foreseeable future, it looks like
 
-21:31 it. Speaking of getting away with it,
+1289.76 Arach is going to keep getting away with
 
-21:33 YouTube's most notorious predator was
+1291.76 it. Speaking of getting away with it,
 
-21:36 recently unbanned and is making a
+1293.919 YouTube's most notorious predator was
 
-21:38 comeback. Click the video on screen to
+1296.24 recently unbanned and is making a
 
-21:40 learn
+1298.32 comeback. Click the video on screen to
+
+1300.48 learn
+
 
